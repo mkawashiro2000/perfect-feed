@@ -3,3 +3,4 @@ generate_rss.py
 *.pyc
 cron.log
 .env
+update.sh
