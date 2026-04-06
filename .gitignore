@@ -1,0 +1,5 @@
+# Ignorar el script de Python y cualquier clave
+generate_rss.py
+*.pyc
+cron.log
+.env
