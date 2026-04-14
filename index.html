@@ -3,92 +3,194 @@
     <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <title>Kawashiro Dashboard</title>
+        <title>Kawashiro Intelligence Dashboard</title>
         <link rel="alternate" type="application/rss+xml" href="perfect_feed.xml">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
         <style>
-            body { max-width: 900px; background: #121212; color: #e0e0e0; }
-            .card { background: #1e1e1e; padding: 25px; border-radius: 12px; margin-bottom: 25px; border-left: 5px solid #007bff; }
-            .tag { background: #007bff; padding: 3px 10px; border-radius: 20px; font-size: 11px; font-weight: bold; color: white; }
-            img { width: 100%; border-radius: 10px; margin: 15px 0; max-height: 400px; object-fit: cover; }
-            h2 { color: #ffffff; margin-top: 10px; }
-            a { color: #4db8ff; text-decoration: none; }
+            :root { --bg: #0f172a; --card: #1e293b; --text: #f8fafc; --accent: #38bdf8; --border: #334155; }
+            body { font-family: -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--text); max-width: 1200px; margin: auto; padding: 40px 20px; line-height: 1.5; }
+            h1 { text-align: center; color: var(--accent); font-size: 2.5rem; }
+            .grid-macro { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin: 30px 0; }
+            .block { background: var(--card); padding: 20px; border-radius: 12px; text-align: center; border-bottom: 4px solid var(--accent); }
+            .block p { font-size: 1.8rem; font-weight: 800; margin: 10px 0 0 0; }
+            .remesas-box { background: var(--card); border-radius: 12px; padding: 25px; margin-bottom: 50px; border: 1px solid var(--border); }
+            table { width: 100%; border-collapse: collapse; }
+            td, th { padding: 15px 0; border-top: 1px solid var(--border); text-align: left; }
+            .news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 25px; }
+            .card { background: var(--card); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); }
+            .card img { width: 100%; height: 220px; object-fit: cover; }
+            .card-content { padding: 20px; }
+            .category-tag { font-size: 0.7rem; background: var(--accent); color: #0f172a; padding: 3px 8px; border-radius: 4px; font-weight: bold; }
         </style>
     </head>
     <body>
-        <h1>🗞️ Kawashiro Network</h1>
-        <p>Actualizado: 13/04/2026 23:24 | M4 Engine</p>
-        <hr>
+        <h1>KAWASHIRO INTELLIGENCE</h1>
+        <p style="text-align:center; opacity:0.5;">13/04/2026 23:46 | M4 Engine</p>
+
+        <h3>📊 INDICADORES MACRO BCRD</h3>
+        <div class="grid-macro">
+            <div class="block"><h4>Inflación</h4><p>4.0% ± 1.0%</p></div>
+            <div class="block"><h4>TPM</h4><p>4.0%</p></div>
+            <div class="block"><h4>IMAE</h4><p>%</p></div>
+            <div class="block"><h4>Dólar BCRD</h4><p>59.4018</p></div>
+        </div>
+
+        <h3>🏧 REMESAS BHD</h3>
+        <div class="remesas-box">
+            <table>
+                <tr><th>DIVISA</th><th>COMPRA</th><th>VENTA</th></tr>
+                <tr><td>🇺🇸 Dólar</td><td><b>58.40</b></td><td><b>61.90</b></td></tr>
+                <tr><td>🇪🇺 Euro</td><td><b>68.00</b></td><td><b>74.00</b></td></tr>
+            </table>
+        </div>
+
+        <h3>🗞️ NOTICIAS</h3>
+        <div class="news-grid">
     
-        <div class="card">
-            <span class="tag">Economía RD</span>
-            <h2>Macroeconomía Dominicana</h2>
-            <img src="https://www.bancentral.gov.do/Content/images/logo.png" onerror="this.style.display='none'">
-            <p>INDICADORES MACROECONÓMICOS (BCRD):<br><br>✅ Meta de inflación Política monetaria Resultados de la economía Noticia coyuntural Variables Macroeconómicas Inflación Meta de inflación 4.0% ± 1.0% Inflación (variación %) Marzo 2026 Interanual 4.63% Acumulada 0.70% Mensual 0.27%<br><br>💵 DÓLAR: Compra 59.4018 | Venta 60.4055<br></p>
-            <a href="https://www.bancentral.gov.do/" target="_blank">Fuente original →</a>
-        </div>
+        <article class="card">
+            <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&strip=all&crop=0.18825561312608,0,99.623488773748,100" onerror="this.style.display='none'">
+            <div class="card-content">
+                <span class="category-tag">The Verge</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">Un hombre de Texas, Daniel Moreno-Gama, ahora enfrenta cargos federales por intentar matar a Sam Altman, CEO de OpenAI, y por atacar su hogar y sede de la empresa. Según la policía, Moreno-Gama viajó desde Texas hasta California con el propósito de asesinar a Altman y luego arrojó una Molotov al hogar del CEO y intentó romper las puertas de la sede de OpenAI con una silla.
+
+La investigación reveló que Moreno-Gama había escrito un documento titulado "Su último aviso" en el que admitía haber intentado matar a Altman. El documento también expresaba su oposición al artefacto artificial y llamaba a la muerte de ejecutivos de empresas de tecnología y sus inversores. Moreno-Gama enfrenta cargos que incluyen "daño y destrucción intencional de propiedad por medios explosivos" y "posesión de arma sin registro", lo que puede conllevar sentencias máximas de 20 años y 10 años, respectivamente.</p>
+                <a href="https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Fórmula 1</span>
-            <h2>How every F1 2026 team has performed so far</h2>
-            
-            <p>El inicio de la temporada de Fórmula 1 de 2026 ha proporcionado una primera oportunidad de evaluar cómo cada equipo está desempeñándose. Las tres carreras celebradas en Melbourne, Shanghai y Suzuka han mostrado diferencias significativas entre las equipos.<br><br>Mercedes ha comenzado fuerte con un éxito completo en los primeros tres Grandes Premios, mientras que otros equipos como Williams y Aston Martin están luchando por mantenerse al día. Esta primera etapa de la temporada 2026 ha dejado claro que algunos equipos están listos para el nuevo era, mientras que otros aún necesitan adaptarse a las nuevas reglas y tecnologías.</p>
-            <a href="https://www.autosport.com/f1/news/how-every-f1-2026-teams-performed-so-far-team-by-team/10812457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank">Fuente original →</a>
-        </div>
+        <article class="card">
+            <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pre-media-26c0110_003.jpg?quality=90&strip=all&crop=0%2C4.2609019140288%2C100%2C91.478196171942&w=1200" onerror="this.style.display='none'">
+            <div class="card-content">
+                <span class="category-tag">The Verge</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">The Mercedes EQS returns with massive range and charging gains</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">La Mercedes EQS ha vuelto al mercado estadounidense con un gran aumento de rango y ganancias en carga. Al año siguiente, Mercedes-Benz decidió posponer su línea de vehículos eléctricos EQ en Estados Unidos debido a la disminución del demanda de vehículos de lujo eléctricos y la eliminación de las incentivas federales. Sin embargo, en enero, la marca reintrodujo el EQS en Estados Unidos sin gran fanfaría.
+
+La nueva versión de la Mercedes EQS llegará a los concesionarios estadounidenses en la segunda mitad del 2026 y viene equipada con un rango estimado de 925 km. Esto se debe a una batería con una nueva química que combina el silicio óxido con el grafito para las anodes, lo que permite un uso total de capacidad de 122 kWh. Además, la carga será mucho más rápida gracias a una arquitectura de carga de 800 volts que permite cargar hasta 350 kW en un solo minuto y alcanzar una distancia de 320 km en solo 10 minutos.</p>
+                <a href="https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Fórmula 1</span>
-            <h2>Marko points to where the new rules started to go wrong but has faith F1 can ‘address the shortcomings’</h2>
-            
-            <p>Helmut Marko, ex consejero del equipo Red Bull, ha expresado su crítica hacia las nuevas reglas de la Fórmula 1 y ha señalado que los problemas comenzaron desde el principio. Marko afirma que la nueva era de la Fórmula 1 ha recibido una respuesta mixta y que algunos de los cambios han sido positivos, como el aumento en las acciones y los pasos a ultraníqueles. Sin embargo, otros cambios, como el sistema de reglas de "seguridad" y la limitación del uso de la bandera roja, han generado controversia entre los pilotos.<br><br>A pesar de las críticas, Marko mantiene la fe en que se pueden encontrar soluciones a los problemas planteados por las nuevas reglas. Cree que es importante trabajar juntos para abordar los defectos y hacer que la Fórmula 1 sea más emocionante y segura. Marko espera que se puedan implementar cambios que equilibren la seguridad con la competitividad, lo que permitiría a los pilotos disfrutar del pellícano de carreras más intensas y emocionantes.</p>
-            <a href="https://www.autosport.com/f1/news/helmut-marko-critical-of-new-f1-rules-but-expects-solutions-to-be-found/10812503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank">Fuente original →</a>
-        </div>
+        <article class="card">
+            <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270967112.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="this.style.display='none'">
+            <div class="card-content">
+                <span class="category-tag">The Verge</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">El pasado sábado en el Festival de Coachella, Justin Bieber dio su primera presentación como artista principal en un acuerdo que se estima valía $10 millones. Fue su presentación más significativa desde hace años y ofreció una experiencia única al público. Durante parte de la actuación, Bieber tocó partes de sus canciones más antiguas directamente desde YouTube utilizando un ordenador Mac. En la pantalla detrás de él se podía ver el sitio web de YouTube mientras buscaba canciones en tiempo real y las ponía a pantalla llena cuando cantaba junto con ellos en el escenario.
+
+Los expertos aseguran que la especulación de que Bieber no pudo tocar sus canciones más antiguas en su totalidad debido a la venta de su catálogo musical es falsa. Según Daniel J. Schacht, un abogado especializado en derechos de autor, música y entretenimiento, "la sale de su catálogo musical no impidió que Bieber interpretara sus canciones". James Grimmelmann, profesor de derecho digital e informático en Cornell Tech y Cornell Law School, agrega que "no se trata así", refiriéndose a la forma en que funcionan los derechos de autor y las licencias. La venta del catálogo musical de Bieber al grupo Recognition Music Group permitió a este último obtener los derechos para obtener royalties de las licencias de presentación, pero no impidió que Bieber interpretara sus canciones en situaciones cubiertas por las organizaciones de derechos de autor.</p>
+                <a href="https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Fórmula 1</span>
-            <h2>The questions that still need answering from the start of the 2026 F1 season</h2>
-            
-            <p>La temporada de Fórmula 1 de 2026 se encuentra en pleno arranque y, según los conductores, las nuevas reglas han recibido una respuesta mixta. Por un lado, los pilotos aprecian la menor y más maniobrable fórmula, pero este beneficio ha sido eclipsado por el mayor énfasis en la energía eléctrica y sus consecuencias, lo que ha llevado a una mayor importancia de la gestión de energía.<br><br>Los conductores expresan su descontento abiertamente con respecto al gran peso que tienen las reglas de ahorro y recolección de energía. Esto se debe en parte a la cantidad de cambios que estos pilotos deben hacer en sus estrategias, lo cual puede afectar su rendimiento en la pista. La respuesta del público ha sido particularmente crítica, lo que sugiere que los conductores pueden estar presionando a las autoridades para revisar estas reglas antes de la temporada completa.</p>
-            <a href="https://www.autosport.com/f1/news/the-questions-that-still-need-answering-from-the-start-of-the-2026-f1-season/10812447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank">Fuente original →</a>
-        </div>
+        <article class="card">
+            <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257745_Surface_Pro_AKrales_0329.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="this.style.display='none'">
+            <div class="card-content">
+                <span class="category-tag">The Verge</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">Microsoft ha aumentado los precios de sus dispositivos Surface, incluyendo la Surface Pro y la Surface Laptop, debido a la escasez global de memoria RAM. La 13-pulgada Surface Pro 11 y la 13,8-pulgada Surface Laptop 7 ahora cuestan $500 más que su precio original, pasando de $999 a $1,499.
+
+Los precios de las nuevas versiones de los dispositivos Surface también han aumentado. El 12-pulgada Surface Pro ahora cuesta $1,049, mientras que la 13-pulgada Surface Laptop pasa de $899 a $1,199. Esto pone a Microsoft en una posición difícil frente a la competencia de Apple, cuyo MacBook Neo se está convirtiendo en un rival creciente.</p>
+                <a href="https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Fórmula 1</span>
-            <h2>The three clues to the F1 start problem Antonelli is aiming to solve</h2>
+        <article class="card">
             
-            <p>Kimia Antonelli, el piloto de Fórmula 1 de Red Bull, ha estado buscando mejorar su desempeño en las puestas de pie desde el comienzo de la temporada. En una entrevista, expresó su determinación para superar este problema y liderar el campeonato mundial de pilotos en abril del próximo año.<br><br>Antonelli sabe que tiene un gran desafío por delante, pero está dispuesto a trabajar duro para solucionarlo. Se enfoca en tres áreas clave: la potencia de los motores, la eficiencia aerodinámica y la precisión de las puestas de pie. Está decidido a mejorar cada uno de estos aspectos para asegurarse de que su equipo pueda dominar el campeonato.</p>
-            <a href="https://www.autosport.com/f1/news/the-three-clues-to-the-f1-start-problem-antonelli-is-aiming-to-solve/10812364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank">Fuente original →</a>
-        </div>
+            <div class="card-content">
+                <span class="category-tag">Fórmula 1</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">How every F1 2026 team has performed so far</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">En las primeras carreras de la temporada 2026, cada equipo de Fórmula 1 ha demostrado su capacidad para adaptarse a circunstancias muy diferentes. Los equipos han tenido la oportunidad de probar sus habilidades en tres circuitos distintos: Melbourne, Shanghai y Suzuka.
+
+Mientras que Mercedes se impuso en las primeras tres carreras con un destacado desempeño, otros equipos no han tenido tanta suerte. Williams y Aston Martin están luchando por mantenerse competitivos, lo que plantea interrogantes sobre su capacidad para adaptarse a la nueva era de Fórmula 1.</p>
+                <a href="https://www.autosport.com/f1/news/how-every-f1-2026-teams-performed-so-far-team-by-team/10812457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Data Science</span>
-            <h2>DIY AI: How to Build a Linear Regression Model from Scratch</h2>
+        <article class="card">
             
-            <p>Aquí tienes un resumen de la noticia:<br><br>En este artículo, se presenta una guía paso a paso sobre cómo construir un modelo de regresión lineal desde cero utilizando Python. La idea es implementar este modelo sin recurrir a bibliotecas de aprendizaje automático como scikit-learn, lo que permite comprender los mecanismos subyacentes del algoritmo y adquirir una mayor comprensión de cómo funcionan los modelos de regresión lineal.<br><br>La guía cubre todos los pasos necesarios para construir un modelo de regresión lineal desde cero, incluyendo la definición de las variables independientes y dependientes, la creación de matrices de datos y la implementación del algoritmo de regresión lineal mediante la ecuación lineal mínima. Al finalizar esta guía, los lectores podrán entender cómo construir un modelo de regresión lineal básico desde cero y estar familiarizados con las fórmulas y técnicas utilizadas en este algoritmo.</p>
-            <a href="https://medium.com/data-science/diy-ai-how-to-build-a-linear-regression-model-from-scratch-7b4cc0efd235?source=rss----7f60cf5620c9---4" target="_blank">Fuente original →</a>
-        </div>
+            <div class="card-content">
+                <span class="category-tag">Fórmula 1</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">Marko points to where the new rules started to go wrong but has faith F1 can ‘address the shortcomings’</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">El consejero deportivo de Red Bull, Helmut Marko, ha criticado las nuevas reglas de la Fórmula 1, señalando que desde el inicio, algo no ha funcionado como se esperaba. Está convencido de que es posible encontrar soluciones a los problemas planteados por estos cambios.
+
+El nuevo régimen de la Fórmula 1 ha recibido una respuesta mixta, con algunos comentarios positivos sobre el aumento del movimiento y las ultrapasses, pero también complaintes de pilotos sobre los artificialos overtakes y formas no naturales de conducir. Marko está entre los que creen que se pueden encontrar soluciones a estos problemas.</p>
+                <a href="https://www.autosport.com/f1/news/helmut-marko-critical-of-new-f1-rules-but-expects-solutions-to-be-found/10812503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Data Science</span>
-            <h2>Support Vector Machines: A Progression of Algorithms</h2>
+        <article class="card">
             
-            <p>Resumen de la noticia sobre Support Vector Machines:<br><br>El Support Vector Machine (SVM) es un algoritmo popular para problemas de clasificación. Se caracteriza por ser útil sin mucha configuración manual y es valioso en aplicaciones donde se sabe más que el límite entre las clases que su distribución. En este artículo, exploraremos la progresión de tres algoritmos relacionados: Maximal Margin Classifier (MMC), Support Vector Classifier (SVC) y SVM.<br><br>La progresión de estos algoritmos permite entender cómo evolucionan desde el más básico hasta el más complejo. Comenzando con el MMC, que busca encontrar la línea que maximize la distancia entre las clases observadas. A continuación, el SVC amplía esta función para considerar márgenes variables y finalmente el SVM introduce una nueva dimensión al calcular los vectores apoyos que definen los límites más flexibles y robustos posibles.</p>
-            <a href="https://medium.com/data-science/support-vector-machines-a-progression-of-algorithms-841d63574825?source=rss----7f60cf5620c9---4" target="_blank">Fuente original →</a>
-        </div>
+            <div class="card-content">
+                <span class="category-tag">Fórmula 1</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">The questions that still need answering from the start of the 2026 F1 season</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">La temporada de Fórmula 1 de 2026 aún tiene muchas preguntas sin responder desde el inicio. Las nuevas reglas que se implementarán para la temporada han recibido una respuesta mista por parte de los pilotos y el público en general. Por un lado, muchos disfrutan del diseño más ligero y ágil de las carreras, pero esto ha sido eclipsado por el énfasis creciente en la energía eléctrica y el manejo del ahorro de energía.
+
+Los pilotos expresan su insatisfacción abiertamente con el número de ahorros de energía y la recolección de energía en las carreras. Esta insatisfacción surge debido al mayor énfasis en el uso eficiente de la energía, lo que ha llevado a una mayor importancia del manejo de la energía para los equipos. Es importante saber si se realizarán cambios en estas reglas antes de la temporada de 2026.</p>
+                <a href="https://www.autosport.com/f1/news/the-questions-that-still-need-answering-from-the-start-of-the-2026-f1-season/10812447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Data Science</span>
-            <h2>Are Public Agencies Letting Open-Source Software Down?</h2>
+        <article class="card">
             
-            <p>La información sobre las agencias públicas y su relación con la software de código abierto es interesante. Las agencias públicas utilizan software de código abierto para mejorar la transparencia, la colaboración y la innovación en sus proyectos. La creciente adopción de la tecnología artificial y la inteligencia artificial (IA) también está ligada a esta tendencia.<br><br>En el pasado, el autor tuvo experiencia con la creación de software simple utilizando técnicas como la iteración manual de pi. Esta experiencia lo llevó a descubrir el poder del software de código abierto y cómo puede ser utilizado para mejorar la sociedad. En la actualidad, la colaboración y el desarrollo de código abierto son fundamentales para avances tecnológicos, ya que permiten una mayor transparencia y acceso a la información.</p>
-            <a href="https://medium.com/data-science/are-public-agencies-letting-open-source-software-down-7688c89e7c02?source=rss----7f60cf5620c9---4" target="_blank">Fuente original →</a>
-        </div>
+            <div class="card-content">
+                <span class="category-tag">Fórmula 1</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">The three clues to the F1 start problem Antonelli is aiming to solve</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">Kimi Antónelli ha expresado su determinación de mejorar en la Fórmula 1, especialmente en el área del inicio de carrera. En su visión para 2026, Antónelli planea liderar el campeonato de pilotos durante todo el mes de abril, lo que incluye los Grandes Premios de Bahrain y Arabia Saudita, que se cancelaron. Él ha reconocido que tiene un trabajo importante por delante.
+
+Antónelli ha señalado con humor que "va a darme una patada en el trasero" debido al inicio de carrera, lo que indica su confianza en poder mejorar en este aspecto y superar a sus rivales. Su objetivo es resolver los problemas de inicio de carrera, que son uno de los desafíos más importantes para él en su camino hacia el título de piloto en 2026.</p>
+                <a href="https://www.autosport.com/f1/news/the-three-clues-to-the-f1-start-problem-antonelli-is-aiming-to-solve/10812364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
         
-        <div class="card">
-            <span class="tag">Data Science</span>
-            <h2>How to Get A Job in Data Science/Machine Learning With No Previous Experience</h2>
+        <article class="card">
             
-            <p>¿Cómo obtener un trabajo en Data Science/Machine Learning sin experiencia previa?<br><br>En la era digital actual, el conocimiento y las habilidades en data science y machine learning se han convertido en una herramienta esencial para cualquier empresa que desee mantenerse competitiva. Sin embargo, muchos aspirantes a ingenieros de datos se sienten intimidados por la falta de experiencia previa o por no tener una formación formal en el área. Sin embargo, con la cantidad de recursos y habilidades disponibles, es posible empezar a aprender y desarrollarse en data science sin necesidad de experiencia previa.<br><br>Para comenzar, hay que investigar y aprender los fundamentos del campo, como las estadísticas y la teoría de probabilidades, así como las herramientas y tecnologías más comunes utilizadas en el ámbito. Además, es importante crear un perfil en línea y un portafolio de proyectos que demuestren habilidades y conocimientos reales. Con dedicación y perseverancia, se pueden desarrollar habilidades y experiencia suficientes para lanzarse a la búsqueda de empleo como ingeniero de datos.</p>
-            <a href="https://medium.com/data-science/how-to-get-a-job-in-data-science-machine-learning-with-no-previous-experience-996cfc41e53e?source=rss----7f60cf5620c9---4" target="_blank">Fuente original →</a>
-        </div>
-        <footer>Real-time AI Pipeline</footer></body></html>
+            <div class="card-content">
+                <span class="category-tag">Data Science</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">DIY AI: How to Build a Linear Regression Model from Scratch</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">Un modelo de regresión lineal desde cero es posible gracias a Python. Se puede implementar utilizando solo las funciones básicas del lenguaje y no requiere bibliotecas de aprendizaje automático.
+
+La construcción de un modelo de regresión lineal implica calcular la pendiente (m) y el intercepto (b) de una recta que se ajuste a los datos proporcionados, utilizando fórmulas matemáticas específicas para cada caso.</p>
+                <a href="https://medium.com/data-science/diy-ai-how-to-build-a-linear-regression-model-from-scratch-7b4cc0efd235?source=rss----7f60cf5620c9---4" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
+        
+        <article class="card">
+            
+            <div class="card-content">
+                <span class="category-tag">Data Science</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">Support Vector Machines: A Progression of Algorithms</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">El modelo de aprendizaje Machine Learning (ML) que se basa en vectores de soporte es un algoritmo popular utilizado para resolver problemas de clasificación. Es conocido por su capacidad de funcionar sin mucha configuración manual y es valioso para aplicaciones donde el conocimiento de las fronteras de las clases es más importante que el conocimiento de las distribuciones de clase.
+
+Sin embargo, cuando se trabaja con este tipo de modelos, se pueden mencionar otros algoritmos relacionados como Clasificador de Vectors de Soporte (SVC) o Clasificador de Margen Máximo (MMC). Aunque estos algoritmas están relacionados, es importante destacar la distinción entre ellos. Para comprender completamente SVMs, es necesario apreciar el progreso de los siguientes algoritmos, ordenados desde la menor a la mayor complejidad:
+
+ MMC -> SVC -> SVM
+
+En este progreso, cada algoritmo extiende su funcionalidad para encontrar una frontera de decisión cada vez más flexible y robusta. Entender este progreso nos permite apreciar plenamente el poder de los modelos de vectores de soporte.</p>
+                <a href="https://medium.com/data-science/support-vector-machines-a-progression-of-algorithms-841d63574825?source=rss----7f60cf5620c9---4" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
+        
+        <article class="card">
+            
+            <div class="card-content">
+                <span class="category-tag">Data Science</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">Are Public Agencies Letting Open-Source Software Down?</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">La industria de la tecnología y las agencias públicas están cuestionando el futuro del software de código abierto en un momento en que muchas herramientas se basan en este tipo de desarrollo colaborativo. Las agencias públicas a menudo tienen dificultades para apoyar y mantener estos proyectos, lo que genera interrogantes sobre su importancia y cómo pueden cambiar las cosas.
+
+El software de código abierto promueve la transparencia, el compartir y la colaboración, lo que permite el desarrollo tecnológico y la innovación. Además, hay una coincidencia interesante entre los principios del software de código abierto y los procesos democráticos, ya que ambos enfatizan la igualdad de acceso a la información y la participación en los procesos de toma de decisiones.</p>
+                <a href="https://medium.com/data-science/are-public-agencies-letting-open-source-software-down-7688c89e7c02?source=rss----7f60cf5620c9---4" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
+        
+        <article class="card">
+            
+            <div class="card-content">
+                <span class="category-tag">Data Science</span>
+                <h2 style="font-size:1.2rem; margin:10px 0;">How to Get A Job in Data Science/Machine Learning With No Previous Experience</h2>
+                <p style="font-size:0.9rem; opacity:0.8;">Para obtener un trabajo en data science o aprendizaje automático sin experiencia previa, es importante tomar el control de tu búsqueda de empleo. Puedes comenzar creando un portfolio que muestre tus habilidades y conocimientos en el campo, ya sea mediante proyectos personales o contribuciones a repositorios de código abierto.
+
+Además, es fundamental trabajar en mejorar tus habilidades y conocimientos en data science y aprendizaje automático. Esto puede incluir aprender lenguajes de programación como Python o R, así como herramientas y técnicas específicas como scikit-learn o TensorFlow. También es importante conocer las tendencias actuales del sector y estar al día con las últimas novedades y tecnologías en el campo.</p>
+                <a href="https://medium.com/data-science/how-to-get-a-job-in-data-science-machine-learning-with-no-previous-experience-996cfc41e53e?source=rss----7f60cf5620c9---4" target="_blank" style="color:var(--accent); text-decoration:none; font-size:0.8rem;">Ver fuente →</a>
+            </div>
+        </article>
+        </div></body></html>
