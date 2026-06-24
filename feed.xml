@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-24T02:09:52.105648+00:00</updated>
+  <updated>2026-06-24T02:20:13.971975+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -12,155 +12,37 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
-    <title>[Economía] Spacex alevanta $25 mil millones en venta de deuda menos de dos semanas después de su IPO.</title>
-    <updated>2026-06-24T02:09:52.106381+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
-    <summary>La empresa espacial SpaceX ha recaudado $25 mil millones en una venta de deuda, tras observar cerca de $90 mil millones de pedidos, según fuentes que lo confirman.</summary>
-    <published>2026-06-24T02:09:52.106406+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
-    <title>[Economía] Las cerebras de Intel caen un 10% después de que el fabricante de chips prevé una reducción en las ganancias, según su informe de ganancias desde la oferta pública inicial (IPO).</title>
-    <updated>2026-06-24T02:09:52.106350+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
-    <summary>La empresa Cerebras se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una compañía de tecnología de inteligencia artificial puro.</summary>
-    <published>2026-06-24T02:09:52.106376+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html</id>
     <title>[Economía] Las acciones de tecnología asiáticas se recuperan después de una rueda negativa global; Samsung sube un 9%.</title>
-    <updated>2026-06-24T02:09:52.106320+00:00</updated>
+    <updated>2026-06-24T02:20:13.972718+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
     <link href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html"/>
     <summary>Las acciones tecnológicas de Asia se recuperaron el miércoles después que las acciones globales registraran pérdidas significativas en la sesión anterior.</summary>
-    <published>2026-06-24T02:09:52.106345+00:00</published>
+    <published>2026-06-24T02:20:13.972743+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
-    <title>[Data Science] **5 Enfoques Esenciales para la Detección de Anomalías Robusta**
-
-La detección de anomalías es un aspecto crucial en el análisis de datos, ya que puede ayudar a identificar errores de entrada, patrones atípicos y tendencias no deseadas. A continuación, se presentan cinco enfoques esenciales para la detección de anomalías robusta:
-
-**1. Mediana Móvil**
-
-La mediana móvil es un método simple pero efectivo para detectar anomalías. Consiste en calcular la mediana de una serie de datos durante un período determinado y compararla con el valor actual. Si el valor actual es más allá del 1,5 veces la mediana móvil, se considera anormal.
-
-**2. Reglas de Oportunidad**
-
-Las reglas de oportunidad son un enfoque probabilístico que utiliza una función de distribución para determinar si un dato es anormal o no. Se basan en la idea de que los datos seguidos de una distribución normal deben ser similares a la media y el desvío estándar.
-
-**3. Análisis Gráfico**
-
-El análisis gráfico es una técnica visual que utiliza gráficos para identificar patrones y anomalías en los datos. Puede incluir gráficos de barras, líneas o scatter plots, dependiendo del tipo de datos y la naturaleza de las anomalías.
-
-**4. Algoritmos de Clustering**
-
-Los algoritmos de clustering se utilizan para agrupar datos similares juntos y identificar patrones no lineales. Pueden ser utilizados para detectar anomalías que no siguen una distribución normal.
-
-**5. Aprendizaje Automático**
-
-El aprendizaje automático es un enfoque poderoso que utiliza algoritmos de machine learning para aprender patrones en los datos y detectar anomalías. Puede incluir técnicas como el análisis de vectores de soporte (SVM) o la red neuronal artificial.
-
-En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidades, y la elección del método adecuado depende del tipo de datos, la naturaleza de las anomalías y el nivel de complejidad del análisis.</title>
-    <updated>2026-06-24T02:09:52.106288+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
+    <title>[Economía] Las cerebras de Intel caen un 10% después de que el fabricante de chips prevé una reducción en las ganancias, según su informe de ganancias desde la oferta pública inicial (IPO).</title>
+    <updated>2026-06-24T02:20:13.972688+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
-    <summary>Los outliers pueden fácilmente afectar negativamente el rendimiento de cualquier modelo de análisis predictivo que construyas: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo presenta y compara cinco enfoques esenciales para detectarlos.</summary>
-    <published>2026-06-24T02:09:52.106314+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
+    <summary>La empresa Cerebras se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una compañía de tecnología de inteligencia artificial puro.</summary>
+    <published>2026-06-24T02:20:13.972713+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
-    <title>[Data Science] Aquí está la traducción al español:
-
-¿Por qué WebMCP es emocionante?
-
-WebMCP está revolucionando la forma en que las empresas y los desarrolladores interactúan con sus clientes y usuarios finales. Esta plataforma de marketing en línea ofrece una serie de características innovadoras que permiten a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.
-
-Con WebMCP, las empresas pueden crear experiencias de usuario personalizadas para cada uno de sus clientes, utilizando datos y análisis para entender mejor sus necesidades y preferencias. Esto permite ofrecer contenido relevante, promociones personalizadas y recomendaciones de productos que aumentan la satisfacción del cliente y la lealtad a la marca.
-
-Además, WebMCP ofrece herramientas de marketing automatizado que permiten a las empresas gestionar sus campañas de marketing de manera eficiente y escalable. Esto significa que las empresas pueden alcanzar a más clientes, aumentar su visibilidad en línea y mejorar su posición competitiva en el mercado.
-
-En resumen, WebMCP es emocionante porque ofrece una plataforma innovadora para la interacción entre empresas y clientes, permitiendo a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.</title>
-    <updated>2026-06-24T02:09:52.106258+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
+    <title>[Economía] Spacex alevanta $25 mil millones en venta de deuda menos de dos semanas después de su IPO.</title>
+    <updated>2026-06-24T02:20:13.972658+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
-    <summary>WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante.</summary>
-    <published>2026-06-24T02:09:52.106284+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
-    <title>[Data Science] Las Habilidades Matemáticas que Cada Ciencia de Datos Aspirante Debe Dominar Antes de Escribir Una Única Línea de Código
-
-Para cualquier persona interesada en convertirse en un científico de datos, es fundamental poseer una sólida base matemática. Las habilidades numéricas son fundamentales para analizar y modelar datos, y las aplicaciones prácticas de la ciencia de datos dependen en gran medida de la comprensión de conceptos matemáticos como la probabilidad, la estadística y el análisis lineal.
-
-La programación es solo una herramienta, pero sin una sólida comprensión de los cálculos y principios matemáticos subyacentes, no se puede aprovechar al máximo su potencial. Los científicos de datos deben ser capaces de analizar y visualizar datos complejos, identificar patrones y tendencias, y tomar decisiones informadas basadas en la evidencia.
-
-Algunas de las habilidades matemáticas que cada ciencia de datos aspirante debe dominar antes de escribir una sola línea de código incluyen:
-
-*   Probabilidad y estadística: comprender conceptos como la probabilidad condicional, la distribución normal y el análisis de regresión lineal.
-*   Análisis lineal algebraico: ser capaz de resolver sistemas de ecuaciones lineales y entender las propiedades de matrices.
-*   Matemáticas financieras: comprender conceptos como la valoración de activos, la rentabilidad y la gestión del riesgo.
-*   Estadística computacional: aprender a utilizar técnicas estadísticas para analizar grandes conjuntos de datos.
-
-Al dominar estas habilidades matemáticas, los científicos de datos pueden abordar desafíos complejos con confianza y tomar decisiones informadas que beneficien a las organizaciones.</title>
-    <updated>2026-06-24T02:09:52.106226+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
-    <summary>Este artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.</summary>
-    <published>2026-06-24T02:09:52.106253+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
-    <title>[Data Science] El Recuperación No Es Filtrado, Busca: Un Modelo Mental para RAG Empresarial
-
-En la era digital actual, las empresas enfrentan desafíos cada vez más complejos al gestionar y analizar grandes cantidades de datos. El RAG (Return on Asset) es un indicador clave que ayuda a los ejecutivos a evaluar el rendimiento financiero de una empresa. Sin embargo, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas.
-
-Un modelo mental clásico para la recuperación del RAG considera que la recuperación es simplemente un proceso de búsqueda de datos relevantes. Sin embargo, este enfoque tiene sus limitaciones. Buscar información no garantiza necesariamente una comprensión profunda de las tendencias y patrones subyacentes que pueden influir en el rendimiento financiero.
-
-Un enfoque más efectivo para la recuperación del RAG es considerar el concepto de "filtrado" como un paso crucial. El filtrado implica seleccionar los datos relevantes y eliminar aquellos que no lo son, permitiendo a los ejecutivos enfocarse en las tendencias y patrones clave.
-
-Este enfoque se basa en la idea de que la recuperación del RAG es un proceso de "descubrimiento" más que una simple búsqueda. Implica utilizar técnicas de análisis avanzadas, como la minería de datos y la inteligencia artificial, para identificar patrones y tendencias ocultas en los datos.
-
-Al considerar el filtrado como un paso crucial en la recuperación del RAG, las empresas pueden tomar decisiones informadas que se basen en una comprensión profunda de sus rendimientos financieros. Esto puede ayudar a mejorar la eficiencia operativa, reducir costos y aumentar la rentabilidad.
-
-En resumen, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas. El filtrado es un paso crucial en este proceso, ya que permite a los ejecutivos enfocarse en las tendencias y patrones clave que pueden influir en el rendimiento financiero.</title>
-    <updated>2026-06-24T02:09:52.106195+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
-    <summary>Inteligencia de Documentos Empresariales [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar anclajes pequeños, ampliar el contexto grande 
-
-El artículo  La recuperación no es filtrado, sino búsqueda: Un modelo mental para Enterprise RAG  apareció primero en  Towards Data Science .</summary>
-    <published>2026-06-24T02:09:52.106222+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
-    <title>[Data Science] Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntarle a Gemini.</title>
-    <updated>2026-06-24T02:09:52.106165+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo esenciales para detectar soluciones suboptimas.
-
-El post "Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini" apareció primero en  Towards Data Science .</summary>
-    <published>2026-06-24T02:09:52.106191+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
+    <summary>La empresa espacial SpaceX ha recaudado $25 mil millones en una venta de deuda, tras observar cerca de $90 mil millones de pedidos, según fuentes que lo confirman.</summary>
+    <published>2026-06-24T02:20:13.972683+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
@@ -209,7 +91,7 @@ Aquí hay algunos ejemplos de cómo se pueden utilizar los bucles en Claude:
 **Conclusión**
 
 En resumen, los bucles son una herramienta fundamental en cualquier lenguaje de programación. En Claude, se pueden utilizar de varias maneras para crear programas más eficientes y potentes. Al entender cómo funcionan los bucles `while` y `for`, puedes empezar a crear tus propios programas y aplicaciones interactivas con Claude.</title>
-    <updated>2026-06-24T02:09:52.106133+00:00</updated>
+    <updated>2026-06-24T02:20:13.972624+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -217,51 +99,144 @@ En resumen, los bucles son una herramienta fundamental en cualquier lenguaje de 
     <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación. 
 
 El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science .</summary>
-    <published>2026-06-24T02:09:52.106160+00:00</published>
+    <published>2026-06-24T02:20:13.972652+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] La FIA (Federación Internacional de Automovilismo) ha confirmado los cambios en la unidad de potencia para la temporada 2027 de la Fórmula 1.</title>
-    <updated>2026-06-24T02:09:52.106101+00:00</updated>
+    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
+    <title>[Data Science] Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntarle a Gemini.</title>
+    <updated>2026-06-24T02:20:13.972594+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La FIA ha emitido oficialmente su aprobación para el movimiento de la F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios clave de seguridad para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, siguiendo la retroalimentación de los pilotos, ya que el gran aumento de torque presentaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin el enorme ...</summary>
-    <published>2026-06-24T02:09:52.106127+00:00</published>
+    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
+    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo esenciales para detectar soluciones suboptimas.
+
+El post "Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini" apareció primero en  Towards Data Science .</summary>
+    <published>2026-06-24T02:20:13.972619+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Desde simulador hasta cronómetro: Las pruebas creativas utilizadas por los equipos de evidencia para cuestionar los resultados de las carreras de F1</title>
-    <updated>2026-06-24T02:09:52.106072+00:00</updated>
+    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
+    <title>[Data Science] El Recuperación No Es Filtrado, Busca: Un Modelo Mental para RAG Empresarial
+
+En la era digital actual, las empresas enfrentan desafíos cada vez más complejos al gestionar y analizar grandes cantidades de datos. El RAG (Return on Asset) es un indicador clave que ayuda a los ejecutivos a evaluar el rendimiento financiero de una empresa. Sin embargo, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas.
+
+Un modelo mental clásico para la recuperación del RAG considera que la recuperación es simplemente un proceso de búsqueda de datos relevantes. Sin embargo, este enfoque tiene sus limitaciones. Buscar información no garantiza necesariamente una comprensión profunda de las tendencias y patrones subyacentes que pueden influir en el rendimiento financiero.
+
+Un enfoque más efectivo para la recuperación del RAG es considerar el concepto de "filtrado" como un paso crucial. El filtrado implica seleccionar los datos relevantes y eliminar aquellos que no lo son, permitiendo a los ejecutivos enfocarse en las tendencias y patrones clave.
+
+Este enfoque se basa en la idea de que la recuperación del RAG es un proceso de "descubrimiento" más que una simple búsqueda. Implica utilizar técnicas de análisis avanzadas, como la minería de datos y la inteligencia artificial, para identificar patrones y tendencias ocultas en los datos.
+
+Al considerar el filtrado como un paso crucial en la recuperación del RAG, las empresas pueden tomar decisiones informadas que se basen en una comprensión profunda de sus rendimientos financieros. Esto puede ayudar a mejorar la eficiencia operativa, reducir costos y aumentar la rentabilidad.
+
+En resumen, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas. El filtrado es un paso crucial en este proceso, ya que permite a los ejecutivos enfocarse en las tendencias y patrones clave que pueden influir en el rendimiento financiero.</title>
+    <updated>2026-06-24T02:20:13.972561+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Los equipos de la Formula 1 tienen el poder de apelar las penalidades impuestas por los steward durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía del deporte. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
-    <published>2026-06-24T02:09:52.106096+00:00</published>
+    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
+    <summary>Inteligencia de Documentos Empresariales [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar anclajes pequeños, ampliar el contexto grande 
+
+El artículo  La recuperación no es filtrado, sino búsqueda: Un modelo mental para Enterprise RAG  apareció primero en  Towards Data Science .</summary>
+    <published>2026-06-24T02:20:13.972589+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] La Audi sorprende a sus rivales al correr un motor de F1 actualizado en el Gran Premio de Barcelona después de la decisión del tribunal ADUO.</title>
-    <updated>2026-06-24T02:09:52.106041+00:00</updated>
+    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
+    <title>[Data Science] Las Habilidades Matemáticas que Cada Ciencia de Datos Aspirante Debe Dominar Antes de Escribir Una Única Línea de Código
+
+Para cualquier persona interesada en convertirse en un científico de datos, es fundamental poseer una sólida base matemática. Las habilidades numéricas son fundamentales para analizar y modelar datos, y las aplicaciones prácticas de la ciencia de datos dependen en gran medida de la comprensión de conceptos matemáticos como la probabilidad, la estadística y el análisis lineal.
+
+La programación es solo una herramienta, pero sin una sólida comprensión de los cálculos y principios matemáticos subyacentes, no se puede aprovechar al máximo su potencial. Los científicos de datos deben ser capaces de analizar y visualizar datos complejos, identificar patrones y tendencias, y tomar decisiones informadas basadas en la evidencia.
+
+Algunas de las habilidades matemáticas que cada ciencia de datos aspirante debe dominar antes de escribir una sola línea de código incluyen:
+
+*   Probabilidad y estadística: comprender conceptos como la probabilidad condicional, la distribución normal y el análisis de regresión lineal.
+*   Análisis lineal algebraico: ser capaz de resolver sistemas de ecuaciones lineales y entender las propiedades de matrices.
+*   Matemáticas financieras: comprender conceptos como la valoración de activos, la rentabilidad y la gestión del riesgo.
+*   Estadística computacional: aprender a utilizar técnicas estadísticas para analizar grandes conjuntos de datos.
+
+Al dominar estas habilidades matemáticas, los científicos de datos pueden abordar desafíos complejos con confianza y tomar decisiones informadas que beneficien a las organizaciones.</title>
+    <updated>2026-06-24T02:20:13.972530+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el primer Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales de desarrollo y actualización permite a los proveedores de motores que carecen de potencia introducir actualizaciones adicionales, y la primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA liberando los resultados a las fabricantes en ...</summary>
-    <published>2026-06-24T02:09:52.106067+00:00</published>
+    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
+    <summary>Este artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.</summary>
+    <published>2026-06-24T02:20:13.972556+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28729</id>
-    <title>[Fórmula 1] Red Bull se prepara para introducir un paquete de actualizaciones significativas en el circuito de Spielberg.</title>
-    <updated>2026-06-24T02:09:52.106010+00:00</updated>
+    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
+    <title>[Data Science] Aquí está la traducción al español:
+
+¿Por qué WebMCP es emocionante?
+
+WebMCP está revolucionando la forma en que las empresas y los desarrolladores interactúan con sus clientes y usuarios finales. Esta plataforma de marketing en línea ofrece una serie de características innovadoras que permiten a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.
+
+Con WebMCP, las empresas pueden crear experiencias de usuario personalizadas para cada uno de sus clientes, utilizando datos y análisis para entender mejor sus necesidades y preferencias. Esto permite ofrecer contenido relevante, promociones personalizadas y recomendaciones de productos que aumentan la satisfacción del cliente y la lealtad a la marca.
+
+Además, WebMCP ofrece herramientas de marketing automatizado que permiten a las empresas gestionar sus campañas de marketing de manera eficiente y escalable. Esto significa que las empresas pueden alcanzar a más clientes, aumentar su visibilidad en línea y mejorar su posición competitiva en el mercado.
+
+En resumen, WebMCP es emocionante porque ofrece una plataforma innovadora para la interacción entre empresas y clientes, permitiendo a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.</title>
+    <updated>2026-06-24T02:20:13.972498+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
+    <summary>WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante.</summary>
+    <published>2026-06-24T02:20:13.972526+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
+    <title>[Data Science] **5 Enfoques Esenciales para la Detección de Anomalías Robusta**
+
+La detección de anomalías es un aspecto crucial en el análisis de datos, ya que puede ayudar a identificar errores de entrada, patrones atípicos y tendencias no deseadas. A continuación, se presentan cinco enfoques esenciales para la detección de anomalías robusta:
+
+**1. Mediana Móvil**
+
+La mediana móvil es un método simple pero efectivo para detectar anomalías. Consiste en calcular la mediana de una serie de datos durante un período determinado y compararla con el valor actual. Si el valor actual es más allá del 1,5 veces la mediana móvil, se considera anormal.
+
+**2. Reglas de Oportunidad**
+
+Las reglas de oportunidad son un enfoque probabilístico que utiliza una función de distribución para determinar si un dato es anormal o no. Se basan en la idea de que los datos seguidos de una distribución normal deben ser similares a la media y el desvío estándar.
+
+**3. Análisis Gráfico**
+
+El análisis gráfico es una técnica visual que utiliza gráficos para identificar patrones y anomalías en los datos. Puede incluir gráficos de barras, líneas o scatter plots, dependiendo del tipo de datos y la naturaleza de las anomalías.
+
+**4. Algoritmos de Clustering**
+
+Los algoritmos de clustering se utilizan para agrupar datos similares juntos y identificar patrones no lineales. Pueden ser utilizados para detectar anomalías que no siguen una distribución normal.
+
+**5. Aprendizaje Automático**
+
+El aprendizaje automático es un enfoque poderoso que utiliza algoritmos de machine learning para aprender patrones en los datos y detectar anomalías. Puede incluir técnicas como el análisis de vectores de soporte (SVM) o la red neuronal artificial.
+
+En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidades, y la elección del método adecuado depende del tipo de datos, la naturaleza de las anomalías y el nivel de complejidad del análisis.</title>
+    <updated>2026-06-24T02:20:13.972466+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
+    <summary>Los outliers pueden fácilmente afectar negativamente el rendimiento de cualquier modelo de análisis predictivo que construyas: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo presenta y compara cinco enfoques esenciales para detectarlos.</summary>
+    <published>2026-06-24T02:20:13.972494+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28734</id>
+    <title>[Fórmula 1] La serie de automovilismo Formula E busca reavivar su popularidad con un calendario completamente renovado para el año 2027, según reveló la organización. 
+
+El nuevo calendario incluirá 16 carreras en diferentes ubicaciones alrededor del mundo, lo que representa una expansión significativa respecto a las 14 carreras de la temporada anterior. La serie también ha anunciado planes para expandir su presencia en Asia y América Latina.
+
+Además, Formula E ha anunciado planes para mejorar la eficiencia energética de sus vehículos eléctricos, lo que permitirá una mayor competitividad entre los pilotos y un aumento en la sostenibilidad del evento. 
+
+La serie también está trabajando en el desarrollo de su plataforma de streaming en vivo, que permitirá a los fanáticos seguir las carreras en tiempo real y acceder a contenido exclusivo.
+
+En resumen, Formula E busca reavivar su popularidad con un calendario renovado, una mayor presencia en regiones emergentes y mejoras en la eficiencia energética de sus vehículos.</title>
+    <updated>2026-06-24T02:20:13.972432+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28729"/>
-    <summary>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escuadría ya ha admitido que los nuevos componentes no serán suficientes para cerrar el brecha con los líderes actuales de la Fórmula 1.</summary>
-    <published>2026-06-24T02:09:52.106037+00:00</published>
+    <link href="https://www.f1technical.net/news/28734"/>
+    <summary>Formula E ha presentado el calendario provisional para la temporada 2026-27 del Campeonato Mundial de Fórmula E ABB FIA, confirmando la temporada más extensa en la historia de la serie y marcando el comienzo de la era de alto rendimiento GEN4.</summary>
+    <published>2026-06-24T02:20:13.972460+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/28732</id>
@@ -278,96 +253,86 @@ Entre las principales mejoras se encuentran:
 *   Actualización del sistema de gestión de energía: El equipo ha introducido un nuevo sistema de gestión de energía que permite a los pilotos optimizar su consumo de combustible y reducir el estrés en las baterías.
 
 Estas actualizaciones deberían permitir a Ferrari mejorar la competitividad de su monoplaza SF26 y aumentar sus posibilidades de lograr victorias en el futuro.</title>
-    <updated>2026-06-24T02:09:52.105977+00:00</updated>
+    <updated>2026-06-24T02:20:13.972400+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
     <link href="https://www.f1technical.net/news/28732"/>
     <summary>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una versión revisada del SF-26 que presenta cambios en el ala delantera, morro, piso, difusor y sidepods.</summary>
-    <published>2026-06-24T02:09:52.106005+00:00</published>
+    <published>2026-06-24T02:20:13.972427+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28734</id>
-    <title>[Fórmula 1] La serie de automovilismo Formula E busca reavivar su popularidad con un calendario completamente renovado para el año 2027, según reveló la organización. 
-
-El nuevo calendario incluirá 16 carreras en diferentes ubicaciones alrededor del mundo, lo que representa una expansión significativa respecto a las 14 carreras de la temporada anterior. La serie también ha anunciado planes para expandir su presencia en Asia y América Latina.
-
-Además, Formula E ha anunciado planes para mejorar la eficiencia energética de sus vehículos eléctricos, lo que permitirá una mayor competitividad entre los pilotos y un aumento en la sostenibilidad del evento. 
-
-La serie también está trabajando en el desarrollo de su plataforma de streaming en vivo, que permitirá a los fanáticos seguir las carreras en tiempo real y acceder a contenido exclusivo.
-
-En resumen, Formula E busca reavivar su popularidad con un calendario renovado, una mayor presencia en regiones emergentes y mejoras en la eficiencia energética de sus vehículos.</title>
-    <updated>2026-06-24T02:09:52.105943+00:00</updated>
+    <id>https://www.f1technical.net/news/28729</id>
+    <title>[Fórmula 1] Red Bull se prepara para introducir un paquete de actualizaciones significativas en el circuito de Spielberg.</title>
+    <updated>2026-06-24T02:20:13.972370+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28734"/>
-    <summary>Formula E ha presentado el calendario provisional para la temporada 2026-27 del Campeonato Mundial de Fórmula E ABB FIA, confirmando la temporada más extensa en la historia de la serie y marcando el comienzo de la era de alto rendimiento GEN4.</summary>
-    <published>2026-06-24T02:09:52.105972+00:00</published>
+    <link href="https://www.f1technical.net/news/28729"/>
+    <summary>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escuadría ya ha admitido que los nuevos componentes no serán suficientes para cerrar el brecha con los líderes actuales de la Fórmula 1.</summary>
+    <published>2026-06-24T02:20:13.972396+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
-    <title>[Tecnología] "Superhuman, una empresa de tecnología especializada en inteligencia artificial y análisis de datos, ha adquirido la startup de detección de inteligencia artificial GPTZero. 
-
-La compra, que no ha sido oficialmente anunciada por ambas partes, tiene como objetivo fortalecer las capacidades de Superhuman en el área de detección y mitigación de ataques de inteligencia artificial. GPTZero, que se enfoca en detectar y prevenir la manipulación de inteligencia artificial, puede ayudar a Superhuman a mejorar su capacidad para identificar y neutralizar amenazas cibernéticas.
-
-La adquisición también refleja el creciente interés de las empresas tecnológicas en desarrollar soluciones para protegerse contra los riesgos asociados con la inteligencia artificial. En un mundo donde la IA se está convirtiendo cada vez más en una herramienta esencial para muchas organizaciones, la detección y mitigación de ataques de inteligencia artificial son una prioridad creciente.
-
-La compra de GPTZero puede tener implicaciones significativas para el sector tecnológico, ya que puede impulsar el desarrollo de soluciones más efectivas para proteger contra las amenazas de inteligencia artificial. Además, la adquisición puede demostrar la voluntad de Superhuman de invertir en innovación y seguridad en su plataforma."</title>
-    <updated>2026-06-24T02:09:52.105907+00:00</updated>
+    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] La Audi sorprende a sus rivales al correr un motor de F1 actualizado en el Gran Premio de Barcelona después de la decisión del tribunal ADUO.</title>
+    <updated>2026-06-24T02:20:13.972339+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
-    <summary>"Superhuman, que también cuenta con una herramienta de detección de inteligencia artificial como parte de Grammarly, ha adquirido a GPTZero."</summary>
-    <published>2026-06-24T02:09:52.105936+00:00</published>
+    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el primer Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales de desarrollo y actualización permite a los proveedores de motores que carecen de potencia introducir actualizaciones adicionales, y la primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA liberando los resultados a las fabricantes en ...</summary>
+    <published>2026-06-24T02:20:13.972365+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
-    <title>[Tecnología] La India de MoEngage apostaría que el futuro del marketing está en millones de agentes de inteligencia artificial.</title>
-    <updated>2026-06-24T02:09:52.105872+00:00</updated>
+    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Desde simulador hasta cronómetro: Las pruebas creativas utilizadas por los equipos de evidencia para cuestionar los resultados de las carreras de F1</title>
+    <updated>2026-06-24T02:20:13.972307+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
-    <summary>El acuerdo a caja da a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial (IA) a clientes individuales.</summary>
-    <published>2026-06-24T02:09:52.105902+00:00</published>
+    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Los equipos de la Formula 1 tienen el poder de apelar las penalidades impuestas por los steward durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía del deporte. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
+    <published>2026-06-24T02:20:13.972334+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
-    <title>[Tecnología] Flipkart, una empresa respaldada por Walmart, amplía su esfuerzo de comercio rápido mientras Amazon aumenta su presencia en la India.</title>
-    <updated>2026-06-24T02:09:52.105838+00:00</updated>
+    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] La FIA (Federación Internacional de Automovilismo) ha confirmado los cambios en la unidad de potencia para la temporada 2027 de la Fórmula 1.</title>
+    <updated>2026-06-24T02:20:13.972275+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
-    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su propia impulso de comercio rápido en la India.</summary>
-    <published>2026-06-24T02:09:52.105867+00:00</published>
+    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>La FIA ha emitido oficialmente su aprobación para el movimiento de la F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios clave de seguridad para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, siguiendo la retroalimentación de los pilotos, ya que el gran aumento de torque presentaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin el enorme ...</summary>
+    <published>2026-06-24T02:20:13.972302+00:00</published>
   </entry>
   <entry>
-    <id>https://words.filippo.io/vuln-reports/</id>
-    <title>[Tecnología] Los informes de vulnerabilidades ya no son especiales.
+    <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+    <title>[Tecnología] Meta ha suspendido su programa de seguimiento de empleados tras una filtración interna de datos. 
 
-En la era digital actual, los informes de vulnerabilidades se han convertido en una herramienta esencial para las organizaciones que buscan proteger sus sistemas y datos contra amenazas cibernéticas. Estos informes detallan las debilidades identificadas en el software o hardware de una empresa, así como las posibles consecuencias de explotar esas vulnerabilidades.
+La empresa, conocida por sus aplicaciones de redes sociales y mensajería instantánea, había estado utilizando un sistema para monitorear el tiempo laboral de los empleados. Sin embargo, según fuentes cercanas a la compañía, se descubrió que algunos empleados habían accedido ilegalmente al programa, lo que generó preocupación sobre la seguridad y privacidad de los datos.
 
-En el pasado, los informes de vulnerabilidades eran considerados un asunto serio, pero también eran relativamente raros y solo afectaban a organizaciones específicas. Sin embargo, con el aumento de la dependencia de la tecnología en nuestras vidas diarias, las amenazas cibernéticas se han vuelto más comunes y sofisticadas.
+Meta ha anunciado que está investigando la situación y tomará medidas para asegurarse de que no se repita. La empresa también ha informado que está trabajando en mejorar la seguridad de sus sistemas y procedimientos para evitar futuras filtraciones.
 
-Hoy en día, los informes de vulnerabilidades son una parte integral del mantenimiento de la seguridad informática. Las organizaciones deben realizar regularmente auditorías de seguridad para identificar y corregir vulnerabilidades antes de que sean explotadas por atacantes. Los informes de vulnerabilidades también ayudan a las empresas a cumplir con los estándares de seguridad regulatorios y a proteger su reputación en caso de un incidente cibernético.
+La decisión de Meta de suspender su programa de seguimiento de empleados sigue siendo una medida cautelosa, considerando el impacto que podría tener en la productividad y eficiencia laboral. La empresa también puede estar buscando prevenir posibles problemas legales relacionados con la privacidad y seguridad de los datos.
 
-En resumen, los informes de vulnerabilidades ya no son especiales, sino que se han convertido en una herramienta esencial para cualquier organización que busque protegerse contra las amenazas cibernéticas.</title>
-    <updated>2026-06-24T02:09:52.105799+00:00</updated>
+La suspensión del programa también genera preguntas sobre cómo Meta maneja la privacidad y seguridad de sus empleados, así como sobre las medidas que toma para proteger su información personal. La empresa puede estar buscando reevaluar sus políticas y procedimientos para garantizar que se cumplan los estándares más altos en términos de privacidad y seguridad.
+
+En general, la decisión de Meta de suspender su programa de seguimiento de empleados es un recordatorio de la importancia de priorizar la seguridad y privacidad en las empresas.</title>
+    <updated>2026-06-24T02:20:13.972240+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://words.filippo.io/vuln-reports/"/>
-    <summary>En el mundo de la tecnología, un equipo de expertos ha identificado una serie de vulnerabilidades en varios productos y servicios. Filippo Ioannetti, un desarrollador y analista de seguridad, ha publicado una lista detallada de estas vulnerabilidades en su sitio web personal.
+    <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+    <summary>Meta ha suspendido su programa de seguimiento de empleados, tras una brecha de seguridad interna que podría haber expuesto la información personal de los empleados. 
 
-Según el informe, las vulnerabilidades afectan a varias empresas que ofrecen servicios de almacenamiento en la nube, redes sociales y aplicaciones móviles. Las vulnerabilidades incluyen problemas de seguridad relacionados con la autenticación, la autorización y la gestión de contraseñas.
+Según informó el sitio web Wired, esta decisión se tomó después de una investigación sobre un incidente en el que se creía que la información de los empleados había sido comprometida. El programa, conocido como "Project Atlas", permitía a los gerentes rastrear el historial de actividad de sus empleados y detectar posibles problemas de productividad.
 
-Los expertos advierten que estas vulnerabilidades pueden ser explotadas por atacantes para acceder a cuentas de usuarios, robar información confidencial o incluso tomar el control de sistemas críticos. Las empresas afectadas han sido notificadas sobre las vulnerabilidades y están trabajando en soluciones urgentes para mitigar los riesgos.
+La empresa, que es una de las más grandes del mundo en términos de personal, decidió suspender temporalmente el programa hasta que se determinara la causa exacta de la brecha de seguridad. 
 
-El informe es una advertencia importante para cualquier usuario que utilice estos servicios y subraya la necesidad de que las empresas tomen medidas serias para proteger la seguridad de sus usuarios.</summary>
-    <published>2026-06-24T02:09:52.105832+00:00</published>
+Los expertos en seguridad informática han expresado su preocupación por este incidente, ya que la falta de privacidad y seguridad puede tener consecuencias graves para los empleados y la empresa en general.
+
+La decisión de Meta de suspender su programa de seguimiento de empleados es un ejemplo de cómo las empresas deben priorizar la seguridad y la privacidad de sus empleados.</summary>
+    <published>2026-06-24T02:20:13.972268+00:00</published>
   </entry>
   <entry>
     <id>https://github.com/y-times-y/y</id>
@@ -394,41 +359,76 @@ La aplicación Y ofrece varias ventajas para los desarrolladores, incluyendo:
 **Conclusión**
 
 Y es una aplicación de escritorio malleable construida con Electron que ofrece varias ventajas para los desarrolladores. Con su flexibilidad, facilidad de uso y coste-efectividad, Y se convierte en una excelente opción para cualquier proyecto de desarrollo de software.</title>
-    <updated>2026-06-24T02:09:52.105747+00:00</updated>
+    <updated>2026-06-24T02:20:13.972203+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
     <link href="https://github.com/y-times-y/y"/>
     <summary>En el sitio web de GitHub, un desarrollador anuncia la creación de una plataforma que busca conectar a los inversores con las startups más innovadoras. La plataforma, llamada "y", permite a los inversores filtrar y votar para determinar qué startups son las más prometedoras. El proyecto ha generado interés en la comunidad de Y Combinio, donde el desarrollador se encuentra actualmente participando en un programa de aceleración.</summary>
-    <published>2026-06-24T02:09:52.105792+00:00</published>
+    <published>2026-06-24T02:20:13.972234+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-    <title>[Tecnología] Meta ha suspendido su programa de seguimiento de empleados tras una filtración interna de datos. 
+    <id>https://words.filippo.io/vuln-reports/</id>
+    <title>[Tecnología] Los informes de vulnerabilidades ya no son especiales.
 
-La empresa, conocida por sus aplicaciones de redes sociales y mensajería instantánea, había estado utilizando un sistema para monitorear el tiempo laboral de los empleados. Sin embargo, según fuentes cercanas a la compañía, se descubrió que algunos empleados habían accedido ilegalmente al programa, lo que generó preocupación sobre la seguridad y privacidad de los datos.
+En la era digital actual, los informes de vulnerabilidades se han convertido en una herramienta esencial para las organizaciones que buscan proteger sus sistemas y datos contra amenazas cibernéticas. Estos informes detallan las debilidades identificadas en el software o hardware de una empresa, así como las posibles consecuencias de explotar esas vulnerabilidades.
 
-Meta ha anunciado que está investigando la situación y tomará medidas para asegurarse de que no se repita. La empresa también ha informado que está trabajando en mejorar la seguridad de sus sistemas y procedimientos para evitar futuras filtraciones.
+En el pasado, los informes de vulnerabilidades eran considerados un asunto serio, pero también eran relativamente raros y solo afectaban a organizaciones específicas. Sin embargo, con el aumento de la dependencia de la tecnología en nuestras vidas diarias, las amenazas cibernéticas se han vuelto más comunes y sofisticadas.
 
-La decisión de Meta de suspender su programa de seguimiento de empleados sigue siendo una medida cautelosa, considerando el impacto que podría tener en la productividad y eficiencia laboral. La empresa también puede estar buscando prevenir posibles problemas legales relacionados con la privacidad y seguridad de los datos.
+Hoy en día, los informes de vulnerabilidades son una parte integral del mantenimiento de la seguridad informática. Las organizaciones deben realizar regularmente auditorías de seguridad para identificar y corregir vulnerabilidades antes de que sean explotadas por atacantes. Los informes de vulnerabilidades también ayudan a las empresas a cumplir con los estándares de seguridad regulatorios y a proteger su reputación en caso de un incidente cibernético.
 
-La suspensión del programa también genera preguntas sobre cómo Meta maneja la privacidad y seguridad de sus empleados, así como sobre las medidas que toma para proteger su información personal. La empresa puede estar buscando reevaluar sus políticas y procedimientos para garantizar que se cumplan los estándares más altos en términos de privacidad y seguridad.
-
-En general, la decisión de Meta de suspender su programa de seguimiento de empleados es un recordatorio de la importancia de priorizar la seguridad y privacidad en las empresas.</title>
-    <updated>2026-06-24T02:09:52.105671+00:00</updated>
+En resumen, los informes de vulnerabilidades ya no son especiales, sino que se han convertido en una herramienta esencial para cualquier organización que busque protegerse contra las amenazas cibernéticas.</title>
+    <updated>2026-06-24T02:20:13.972166+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
-    <summary>Meta ha suspendido su programa de seguimiento de empleados, tras una brecha de seguridad interna que podría haber expuesto la información personal de los empleados. 
+    <link href="https://words.filippo.io/vuln-reports/"/>
+    <summary>En el mundo de la tecnología, un equipo de expertos ha identificado una serie de vulnerabilidades en varios productos y servicios. Filippo Ioannetti, un desarrollador y analista de seguridad, ha publicado una lista detallada de estas vulnerabilidades en su sitio web personal.
 
-Según informó el sitio web Wired, esta decisión se tomó después de una investigación sobre un incidente en el que se creía que la información de los empleados había sido comprometida. El programa, conocido como "Project Atlas", permitía a los gerentes rastrear el historial de actividad de sus empleados y detectar posibles problemas de productividad.
+Según el informe, las vulnerabilidades afectan a varias empresas que ofrecen servicios de almacenamiento en la nube, redes sociales y aplicaciones móviles. Las vulnerabilidades incluyen problemas de seguridad relacionados con la autenticación, la autorización y la gestión de contraseñas.
 
-La empresa, que es una de las más grandes del mundo en términos de personal, decidió suspender temporalmente el programa hasta que se determinara la causa exacta de la brecha de seguridad. 
+Los expertos advierten que estas vulnerabilidades pueden ser explotadas por atacantes para acceder a cuentas de usuarios, robar información confidencial o incluso tomar el control de sistemas críticos. Las empresas afectadas han sido notificadas sobre las vulnerabilidades y están trabajando en soluciones urgentes para mitigar los riesgos.
 
-Los expertos en seguridad informática han expresado su preocupación por este incidente, ya que la falta de privacidad y seguridad puede tener consecuencias graves para los empleados y la empresa en general.
+El informe es una advertencia importante para cualquier usuario que utilice estos servicios y subraya la necesidad de que las empresas tomen medidas serias para proteger la seguridad de sus usuarios.</summary>
+    <published>2026-06-24T02:20:13.972197+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
+    <title>[Tecnología] Flipkart, una empresa respaldada por Walmart, amplía su esfuerzo de comercio rápido mientras Amazon aumenta su presencia en la India.</title>
+    <updated>2026-06-24T02:20:13.972130+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
+    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su propia impulso de comercio rápido en la India.</summary>
+    <published>2026-06-24T02:20:13.972161+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
+    <title>[Tecnología] La India de MoEngage apostaría que el futuro del marketing está en millones de agentes de inteligencia artificial.</title>
+    <updated>2026-06-24T02:20:13.972078+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
+    <summary>El acuerdo a caja da a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial (IA) a clientes individuales.</summary>
+    <published>2026-06-24T02:20:13.972122+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
+    <title>[Tecnología] "Superhuman, una empresa de tecnología especializada en inteligencia artificial y análisis de datos, ha adquirido la startup de detección de inteligencia artificial GPTZero. 
 
-La decisión de Meta de suspender su programa de seguimiento de empleados es un ejemplo de cómo las empresas deben priorizar la seguridad y la privacidad de sus empleados.</summary>
-    <published>2026-06-24T02:09:52.105735+00:00</published>
+La compra, que no ha sido oficialmente anunciada por ambas partes, tiene como objetivo fortalecer las capacidades de Superhuman en el área de detección y mitigación de ataques de inteligencia artificial. GPTZero, que se enfoca en detectar y prevenir la manipulación de inteligencia artificial, puede ayudar a Superhuman a mejorar su capacidad para identificar y neutralizar amenazas cibernéticas.
+
+La adquisición también refleja el creciente interés de las empresas tecnológicas en desarrollar soluciones para protegerse contra los riesgos asociados con la inteligencia artificial. En un mundo donde la IA se está convirtiendo cada vez más en una herramienta esencial para muchas organizaciones, la detección y mitigación de ataques de inteligencia artificial son una prioridad creciente.
+
+La compra de GPTZero puede tener implicaciones significativas para el sector tecnológico, ya que puede impulsar el desarrollo de soluciones más efectivas para proteger contra las amenazas de inteligencia artificial. Además, la adquisición puede demostrar la voluntad de Superhuman de invertir en innovación y seguridad en su plataforma."</title>
+    <updated>2026-06-24T02:20:13.971999+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
+    <summary>"Superhuman, que también cuenta con una herramienta de detección de inteligencia artificial como parte de Grammarly, ha adquirido a GPTZero."</summary>
+    <published>2026-06-24T02:20:13.972066+00:00</published>
   </entry>
 </feed>

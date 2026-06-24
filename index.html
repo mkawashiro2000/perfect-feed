@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Perfect Feed — Noticias en Español</title>
-  <meta name="description" content="Noticias de tecnología, F1, data science y economía traducidas al español, con tasas cambiarias de República Dominicana en tiempo real.">
+  <meta name="description" content="Noticias de tecnología, F1, data science y economía traducidas al español, con tasas del dólar y euro en República Dominicana.">
   <link rel="stylesheet" href="styles.css">
   <link rel="alternate" type="application/atom+xml" title="Perfect Feed RSS" href="https://mkawashiro2000.github.io/perfect-feed/feed.xml">
 </head>
@@ -14,11 +14,11 @@
   <div class="container header-inner">
     <div class="brand">
       <div class="logo">⚡</div>
-      <h1>Perfect<span>Feed</span></h1>
+      <h1>PERFECT FEED</h1>
     </div>
     <div class="header-meta">
-      <span class="live">En vivo</span>
-      <span>Actualizado 23/06/2026 a las 22:09</span>
+      <span class="chip-live">En vivo</span>
+      <span class="chip-date">23/06/2026 a las 22:20</span>
       <a class="btn-rss" href="https://mkawashiro2000.github.io/perfect-feed/feed.xml">📡 RSS</a>
     </div>
   </div>
@@ -28,352 +28,470 @@
 
   
   <section class="hero">
-    <h2>Tu mundo, <span class="grad">traducido al español</span></h2>
-    <p>Tecnología, Fórmula 1, Data Science y Economía — sintetizado y traducido automáticamente, con las tasas del dólar y el euro en República Dominicana.</p>
+    <span class="tag">★ Actualizado de Lunes a Sábado</span>
+    <h2>TU MUNDO, <mark>TRADUCIDO</mark> AL ESPAÑOL.</h2>
+    <p>Tecnología, Fórmula 1, Data Science y Economía — sintetizado y traducido automáticamente por IA local, con las tasas del dólar y el euro en República Dominicana.</p>
   </section>
 
   
-  <section class="tasas-section">
-    <div class="tasas-promedios">
-      <div class="tasa-card">
-        <div class="moneda-label"><span class="flag">🇺🇸</span> Dólar estadounidense (USD)</div>
-        <div class="tasa-values">
-          <div class="tv-block">
-            <span class="tv-label">Compra</span>
-            <span class="tv-num compra">57.67</span>
-          </div>
-          <div class="tv-block">
-            <span class="tv-label">Venta</span>
-            <span class="tv-num venta">59.89</span>
-          </div>
+  <section class="tasas-promedios">
+    <div class="tasa-card usd">
+      <div class="moneda-label"><span class="flag">🇺🇸</span> DÓLAR · USD</div>
+      <div class="tasa-values">
+        <div class="tv-block compra">
+          <div class="tv-label">Compra</div>
+          <div class="tv-num">57.67</div>
         </div>
-        <div class="tv-sub">Promedio nacional · 20 entidades</div>
+        <div class="tv-block venta">
+          <div class="tv-label">Venta</div>
+          <div class="tv-num">59.89</div>
+        </div>
       </div>
+      <div class="tv-sub">PROMEDIO · 20 ENTIDADES</div>
+    </div>
 
-      <div class="tasa-card">
-        <div class="moneda-label"><span class="flag">🇪🇺</span> Euro (EUR)</div>
-        <div class="tasa-values">
-          <div class="tv-block">
-            <span class="tv-label">Compra</span>
-            <span class="tv-num compra">66.16</span>
-          </div>
-          <div class="tv-block">
-            <span class="tv-label">Venta</span>
-            <span class="tv-num venta">69.61</span>
-          </div>
+    <div class="tasa-card eur">
+      <div class="moneda-label"><span class="flag">🇪🇺</span> EURO · EUR</div>
+      <div class="tasa-values">
+        <div class="tv-block compra">
+          <div class="tv-label">Compra</div>
+          <div class="tv-num">66.16</div>
         </div>
-        <div class="tv-sub">Promedio nacional · 12 entidades</div>
+        <div class="tv-block venta">
+          <div class="tv-label">Venta</div>
+          <div class="tv-num">69.61</div>
+        </div>
       </div>
+      <div class="tv-sub">PROMEDIO · 12 ENTIDADES</div>
     </div>
   </section>
+</main>
 
-  
-  
-  <div class="ticker-wrap">
+
+
+<div class="ticker-band">
+  <div class="ticker-row">
+    <span class="label">USD 🇺🇸</span>
     <div class="ticker">
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banreservas</span>
-        <span class="tk-rate tk-buy">$56.90</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.90</span>
+      <span class="tk-item">
+        <span class="bank">Banreservas</span>
+        <span class="tk-buy">56.90</span>
+        <span class="tk-sell">59.90</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco BHD</span>
-        <span class="tk-rate tk-buy">$56.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banco BHD</span>
+        <span class="tk-buy">56.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Caribe</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Banco Caribe</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banesco</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banesco</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Lafise</span>
-        <span class="tk-rate tk-buy">$56.75</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banco Lafise</span>
+        <span class="tk-buy">56.75</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Unión</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.50</span>
+      <span class="tk-item">
+        <span class="bank">Banco Unión</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">60.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Bonanza Banco</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Bonanza Banco</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Taveras</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$58.75</span>
+      <span class="tk-item">
+        <span class="bank">Taveras</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">58.75</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">RM</span>
-        <span class="tk-rate tk-buy">$58.60</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.20</span>
+      <span class="tk-item">
+        <span class="bank">RM</span>
+        <span class="tk-buy">58.60</span>
+        <span class="tk-sell">59.20</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Moneycorps</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.40</span>
+      <span class="tk-item">
+        <span class="bank">Moneycorps</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.40</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">SCT</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">SCT</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Gamelin</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">Gamelin</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Cambio Extranjero</span>
-        <span class="tk-rate tk-buy">$58.70</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">Cambio Extranjero</span>
+        <span class="tk-buy">58.70</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Panora Exchange</span>
-        <span class="tk-rate tk-buy">$58.75</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.75</span>
+      <span class="tk-item">
+        <span class="bank">Panora Exchange</span>
+        <span class="tk-buy">58.75</span>
+        <span class="tk-sell">59.75</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Motor Crédito</span>
-        <span class="tk-rate tk-buy">$57.95</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.90</span>
+      <span class="tk-item">
+        <span class="bank">Motor Crédito</span>
+        <span class="tk-buy">57.95</span>
+        <span class="tk-sell">59.90</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Popular de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Popular de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Abonap</span>
-        <span class="tk-rate tk-buy">$56.92</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.05</span>
+      <span class="tk-item">
+        <span class="bank">Abonap</span>
+        <span class="tk-buy">56.92</span>
+        <span class="tk-sell">60.05</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Cibao de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Cibao de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación La Nacional de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Asociación La Nacional de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Peravia de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$56.95</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.55</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Peravia de Ahorros y Préstamos</span>
+        <span class="tk-buy">56.95</span>
+        <span class="tk-sell">60.55</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banreservas</span>
-        <span class="tk-rate tk-buy">$56.90</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.90</span>
+      <span class="tk-item">
+        <span class="bank">Banreservas</span>
+        <span class="tk-buy">56.90</span>
+        <span class="tk-sell">59.90</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco BHD</span>
-        <span class="tk-rate tk-buy">$56.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banco BHD</span>
+        <span class="tk-buy">56.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Caribe</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Banco Caribe</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banesco</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banesco</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Lafise</span>
-        <span class="tk-rate tk-buy">$56.75</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Banco Lafise</span>
+        <span class="tk-buy">56.75</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Banco Unión</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.50</span>
+      <span class="tk-item">
+        <span class="bank">Banco Unión</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">60.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Bonanza Banco</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Bonanza Banco</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Taveras</span>
-        <span class="tk-rate tk-buy">$58.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$58.75</span>
+      <span class="tk-item">
+        <span class="bank">Taveras</span>
+        <span class="tk-buy">58.00</span>
+        <span class="tk-sell">58.75</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">RM</span>
-        <span class="tk-rate tk-buy">$58.60</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.20</span>
+      <span class="tk-item">
+        <span class="bank">RM</span>
+        <span class="tk-buy">58.60</span>
+        <span class="tk-sell">59.20</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Moneycorps</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.40</span>
+      <span class="tk-item">
+        <span class="bank">Moneycorps</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.40</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">SCT</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">SCT</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Gamelin</span>
-        <span class="tk-rate tk-buy">$58.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">Gamelin</span>
+        <span class="tk-buy">58.50</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Cambio Extranjero</span>
-        <span class="tk-rate tk-buy">$58.70</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.50</span>
+      <span class="tk-item">
+        <span class="bank">Cambio Extranjero</span>
+        <span class="tk-buy">58.70</span>
+        <span class="tk-sell">59.50</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Panora Exchange</span>
-        <span class="tk-rate tk-buy">$58.75</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.75</span>
+      <span class="tk-item">
+        <span class="bank">Panora Exchange</span>
+        <span class="tk-buy">58.75</span>
+        <span class="tk-sell">59.75</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Motor Crédito</span>
-        <span class="tk-rate tk-buy">$57.95</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$59.90</span>
+      <span class="tk-item">
+        <span class="bank">Motor Crédito</span>
+        <span class="tk-buy">57.95</span>
+        <span class="tk-sell">59.90</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Popular de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.00</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.00</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Popular de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.00</span>
+        <span class="tk-sell">60.00</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Abonap</span>
-        <span class="tk-rate tk-buy">$56.92</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.05</span>
+      <span class="tk-item">
+        <span class="bank">Abonap</span>
+        <span class="tk-buy">56.92</span>
+        <span class="tk-sell">60.05</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Cibao de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Cibao de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación La Nacional de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$57.50</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.25</span>
+      <span class="tk-item">
+        <span class="bank">Asociación La Nacional de Ahorros y Préstamos</span>
+        <span class="tk-buy">57.50</span>
+        <span class="tk-sell">60.25</span>
       </span>
       
-      <span class="ticker-item">
-        <span class="tk-bank">Asociación Peravia de Ahorros y Préstamos</span>
-        <span class="tk-rate tk-buy">$56.95</span>
-        <span class="sep">/</span>
-        <span class="tk-rate tk-sell">$60.55</span>
+      <span class="tk-item">
+        <span class="bank">Asociación Peravia de Ahorros y Préstamos</span>
+        <span class="tk-buy">56.95</span>
+        <span class="tk-sell">60.55</span>
       </span>
       
     </div>
   </div>
-  
+</div>
 
+
+<div class="ticker-band second">
+  <div class="ticker-row">
+    <span class="label">EUR 🇪🇺</span>
+    <div class="ticker reverse">
+      
+      <span class="tk-item">
+        <span class="bank">Banreservas</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">71.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco BHD</span>
+        <span class="tk-buy">64.50</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Caribe</span>
+        <span class="tk-buy">66.00</span>
+        <span class="tk-sell">70.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banesco</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">70.50</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Lafise</span>
+        <span class="tk-buy">64.65</span>
+        <span class="tk-sell">69.55</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Unión</span>
+        <span class="tk-buy">67.00</span>
+        <span class="tk-sell">69.25</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Cambio Extranjero</span>
+        <span class="tk-buy">67.50</span>
+        <span class="tk-sell">68.60</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Capla</span>
+        <span class="tk-buy">67.10</span>
+        <span class="tk-sell">68.70</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Moneycorps</span>
+        <span class="tk-buy">67.10</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">RM</span>
+        <span class="tk-buy">67.60</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Asociación Popular de Ahorros y Préstamos</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">69.75</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Asociación Cibao de Ahorros y Préstamos</span>
+        <span class="tk-buy">66.00</span>
+        <span class="tk-sell">71.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banreservas</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">71.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco BHD</span>
+        <span class="tk-buy">64.50</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Caribe</span>
+        <span class="tk-buy">66.00</span>
+        <span class="tk-sell">70.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banesco</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">70.50</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Lafise</span>
+        <span class="tk-buy">64.65</span>
+        <span class="tk-sell">69.55</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Banco Unión</span>
+        <span class="tk-buy">67.00</span>
+        <span class="tk-sell">69.25</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Cambio Extranjero</span>
+        <span class="tk-buy">67.50</span>
+        <span class="tk-sell">68.60</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Capla</span>
+        <span class="tk-buy">67.10</span>
+        <span class="tk-sell">68.70</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Moneycorps</span>
+        <span class="tk-buy">67.10</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">RM</span>
+        <span class="tk-buy">67.60</span>
+        <span class="tk-sell">69.00</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Asociación Popular de Ahorros y Préstamos</span>
+        <span class="tk-buy">65.50</span>
+        <span class="tk-sell">69.75</span>
+      </span>
+      
+      <span class="tk-item">
+        <span class="bank">Asociación Cibao de Ahorros y Préstamos</span>
+        <span class="tk-buy">66.00</span>
+        <span class="tk-sell">71.00</span>
+      </span>
+      
+    </div>
+  </div>
+</div>
+
+
+<main class="container">
   
   <nav class="cat-nav">
-    <button class="active" data-target="all">Todo</button>
+    <button class="active" data-target="all">★ TODO</button>
     
       
-      <button data-target="cat-tech">💻 Tecnología</button>
-      
-    
-      
-      <button data-target="cat-formula1">🏎️ Fórmula 1</button>
+      <button data-target="cat-tech">💻 TECNOLOGÍA</button>
       
     
       
-      <button data-target="cat-data_science">📊 Data Science</button>
+      <button data-target="cat-formula1">🏎️ FÓRMULA 1</button>
       
     
       
-      <button data-target="cat-economia">📈 Economía</button>
+      <button data-target="cat-data_science">📊 DATA SCIENCE</button>
+      
+    
+      
+      <button data-target="cat-economia">📈 ECONOMÍA</button>
       
     
   </nav>
@@ -384,33 +502,56 @@
     <section class="categoria" id="cat-tech" data-cat>
       <div class="cat-header">
         <span class="cat-icon">💻</span>
-        Tecnología
-        <span class="cat-count">6 artículos</span>
+        <h3>TECNOLOGÍA</h3>
+        <span class="cat-count">6 ARTÍCULOS</span>
       </div>
       <div class="cards-grid">
         
         <article class="card">
-          <span class="card-source">● Hacker News: Front Page</span>
-          <h3><a href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/" target="_blank" rel="noopener">Meta ha suspendido su programa de seguimiento de empleados tras una filtración interna de datos. 
+          <span class="card-source">● TechCrunch</span>
+          <h4><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank" rel="noopener">&#34;Superhuman, una empresa de tecnología especializada en inteligencia artificial y análisis de datos, ha adquirido la startup de detección de inteligencia artificial GPTZero. 
 
-La empresa, conocida por sus aplicaciones de redes sociales y mensajería instantánea, había estado utilizando un sistema para monitorear el tiempo laboral de los empleados. Sin embargo, según fuentes cercanas a la compañía, se descubrió que algunos empleados habían accedido ilegalmente al programa, lo que generó preocupación sobre la seguridad y privacidad de los datos.
+La compra, que no ha sido oficialmente anunciada por ambas partes, tiene como objetivo fortalecer las capacidades de Superhuman en el área de detección y mitigación de ataques de inteligencia artificial. GPTZero, que se enfoca en detectar y prevenir la manipulación de inteligencia artificial, puede ayudar a Superhuman a mejorar su capacidad para identificar y neutralizar amenazas cibernéticas.
 
-Meta ha anunciado que está investigando la situación y tomará medidas para asegurarse de que no se repita. La empresa también ha informado que está trabajando en mejorar la seguridad de sus sistemas y procedimientos para evitar futuras filtraciones.
+La adquisición también refleja el creciente interés de las empresas tecnológicas en desarrollar soluciones para protegerse contra los riesgos asociados con la inteligencia artificial. En un mundo donde la IA se está convirtiendo cada vez más en una herramienta esencial para muchas organizaciones, la detección y mitigación de ataques de inteligencia artificial son una prioridad creciente.
 
-La decisión de Meta de suspender su programa de seguimiento de empleados sigue siendo una medida cautelosa, considerando el impacto que podría tener en la productividad y eficiencia laboral. La empresa también puede estar buscando prevenir posibles problemas legales relacionados con la privacidad y seguridad de los datos.
-
-La suspensión del programa también genera preguntas sobre cómo Meta maneja la privacidad y seguridad de sus empleados, así como sobre las medidas que toma para proteger su información personal. La empresa puede estar buscando reevaluar sus políticas y procedimientos para garantizar que se cumplan los estándares más altos en términos de privacidad y seguridad.
-
-En general, la decisión de Meta de suspender su programa de seguimiento de empleados es un recordatorio de la importancia de priorizar la seguridad y privacidad en las empresas.</a></h3>
-          <p>Meta ha suspendido su programa de seguimiento de empleados, tras una brecha de seguridad interna que podría haber expuesto la información personal de los empleados. 
-
-Según informó el sitio web Wired,…</p>
-          <a class="read-more" href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/" target="_blank" rel="noopener">Leer artículo completo →</a>
+La compra de GPTZero puede tener implicaciones significativas para el sector tecnológico, ya que puede impulsar el desarrollo de soluciones más efectivas para proteger contra las amenazas de inteligencia artificial. Además, la adquisición puede demostrar la voluntad de Superhuman de invertir en innovación y seguridad en su plataforma.&#34;</a></h4>
+          <p>&#34;Superhuman, que también cuenta con una herramienta de detección de inteligencia artificial como parte de Grammarly, ha adquirido a GPTZero.&#34;</p>
+          <a class="read-more" href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● TechCrunch</span>
+          <h4><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank" rel="noopener">La India de MoEngage apostaría que el futuro del marketing está en millones de agentes de inteligencia artificial.</a></h4>
+          <p>El acuerdo a caja da a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial (IA) a clientes individuales.</p>
+          <a class="read-more" href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● TechCrunch</span>
+          <h4><a href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank" rel="noopener">Flipkart, una empresa respaldada por Walmart, amplía su esfuerzo de comercio rápido mientras Amazon aumenta su presencia en la India.</a></h4>
+          <p>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su propia impulso de comercio rápido en la India.</p>
+          <a class="read-more" href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank" rel="noopener">LEER →</a>
         </article>
         
         <article class="card">
           <span class="card-source">● Hacker News: Front Page</span>
-          <h3><a href="https://github.com/y-times-y/y" target="_blank" rel="noopener">**Lanzamiento de Y: una aplicación de escritorio personalizable construida con Electron**
+          <h4><a href="https://words.filippo.io/vuln-reports/" target="_blank" rel="noopener">Los informes de vulnerabilidades ya no son especiales.
+
+En la era digital actual, los informes de vulnerabilidades se han convertido en una herramienta esencial para las organizaciones que buscan proteger sus sistemas y datos contra amenazas cibernéticas. Estos informes detallan las debilidades identificadas en el software o hardware de una empresa, así como las posibles consecuencias de explotar esas vulnerabilidades.
+
+En el pasado, los informes de vulnerabilidades eran considerados un asunto serio, pero también eran relativamente raros y solo afectaban a organizaciones específicas. Sin embargo, con el aumento de la dependencia de la tecnología en nuestras vidas diarias, las amenazas cibernéticas se han vuelto más comunes y sofisticadas.
+
+Hoy en día, los informes de vulnerabilidades son una parte integral del mantenimiento de la seguridad informática. Las organizaciones deben realizar regularmente auditorías de seguridad para identificar y corregir vulnerabilidades antes de que sean explotadas por atacantes. Los informes de vulnerabilidades también ayudan a las empresas a cumplir con los estándares de seguridad regulatorios y a proteger su reputación en caso de un incidente cibernético.
+
+En resumen, los informes de vulnerabilidades ya no son especiales, sino que se han convertido en una herramienta esencial para cualquier organización que busque protegerse contra las amenazas cibernéticas.</a></h4>
+          <p>En el mundo de la tecnología, un equipo de expertos ha identificado una serie de vulnerabilidades en varios productos y servicios. Filippo Ioannetti, un desarrollador y analista de seguridad…</p>
+          <a class="read-more" href="https://words.filippo.io/vuln-reports/" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● Hacker News: Front Page</span>
+          <h4><a href="https://github.com/y-times-y/y" target="_blank" rel="noopener">**Lanzamiento de Y: una aplicación de escritorio personalizable construida con Electron**
 
 En este lanzamiento de &#34;Show and Tell&#34; (Muestra y Conta), presentamos a Y, una aplicación de escritorio malleable construida con la tecnología Electron. Esta herramienta permite a los desarrolladores crear interfaces de usuario personalizables y dinámicas para sus aplicaciones.
 
@@ -432,51 +573,28 @@ La aplicación Y ofrece varias ventajas para los desarrolladores, incluyendo:
 
 **Conclusión**
 
-Y es una aplicación de escritorio malleable construida con Electron que ofrece varias ventajas para los desarrolladores. Con su flexibilidad, facilidad de uso y coste-efectividad, Y se convierte en una excelente opción para cualquier proyecto de desarrollo de software.</a></h3>
-          <p>En el sitio web de GitHub, un desarrollador anuncia la creación de una plataforma que busca conectar a los inversores con las startups más innovadoras. La plataforma, llamada &#34;y&#34;, permite a los invers…</p>
-          <a class="read-more" href="https://github.com/y-times-y/y" target="_blank" rel="noopener">Leer artículo completo →</a>
+Y es una aplicación de escritorio malleable construida con Electron que ofrece varias ventajas para los desarrolladores. Con su flexibilidad, facilidad de uso y coste-efectividad, Y se convierte en una excelente opción para cualquier proyecto de desarrollo de software.</a></h4>
+          <p>En el sitio web de GitHub, un desarrollador anuncia la creación de una plataforma que busca conectar a los inversores con las startups más innovadoras. La plataforma, llamada &#34;y&#34;, permite a …</p>
+          <a class="read-more" href="https://github.com/y-times-y/y" target="_blank" rel="noopener">LEER →</a>
         </article>
         
         <article class="card">
           <span class="card-source">● Hacker News: Front Page</span>
-          <h3><a href="https://words.filippo.io/vuln-reports/" target="_blank" rel="noopener">Los informes de vulnerabilidades ya no son especiales.
+          <h4><a href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/" target="_blank" rel="noopener">Meta ha suspendido su programa de seguimiento de empleados tras una filtración interna de datos. 
 
-En la era digital actual, los informes de vulnerabilidades se han convertido en una herramienta esencial para las organizaciones que buscan proteger sus sistemas y datos contra amenazas cibernéticas. Estos informes detallan las debilidades identificadas en el software o hardware de una empresa, así como las posibles consecuencias de explotar esas vulnerabilidades.
+La empresa, conocida por sus aplicaciones de redes sociales y mensajería instantánea, había estado utilizando un sistema para monitorear el tiempo laboral de los empleados. Sin embargo, según fuentes cercanas a la compañía, se descubrió que algunos empleados habían accedido ilegalmente al programa, lo que generó preocupación sobre la seguridad y privacidad de los datos.
 
-En el pasado, los informes de vulnerabilidades eran considerados un asunto serio, pero también eran relativamente raros y solo afectaban a organizaciones específicas. Sin embargo, con el aumento de la dependencia de la tecnología en nuestras vidas diarias, las amenazas cibernéticas se han vuelto más comunes y sofisticadas.
+Meta ha anunciado que está investigando la situación y tomará medidas para asegurarse de que no se repita. La empresa también ha informado que está trabajando en mejorar la seguridad de sus sistemas y procedimientos para evitar futuras filtraciones.
 
-Hoy en día, los informes de vulnerabilidades son una parte integral del mantenimiento de la seguridad informática. Las organizaciones deben realizar regularmente auditorías de seguridad para identificar y corregir vulnerabilidades antes de que sean explotadas por atacantes. Los informes de vulnerabilidades también ayudan a las empresas a cumplir con los estándares de seguridad regulatorios y a proteger su reputación en caso de un incidente cibernético.
+La decisión de Meta de suspender su programa de seguimiento de empleados sigue siendo una medida cautelosa, considerando el impacto que podría tener en la productividad y eficiencia laboral. La empresa también puede estar buscando prevenir posibles problemas legales relacionados con la privacidad y seguridad de los datos.
 
-En resumen, los informes de vulnerabilidades ya no son especiales, sino que se han convertido en una herramienta esencial para cualquier organización que busque protegerse contra las amenazas cibernéticas.</a></h3>
-          <p>En el mundo de la tecnología, un equipo de expertos ha identificado una serie de vulnerabilidades en varios productos y servicios. Filippo Ioannetti, un desarrollador y analista de seguridad, ha publi…</p>
-          <a class="read-more" href="https://words.filippo.io/vuln-reports/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● TechCrunch</span>
-          <h3><a href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank" rel="noopener">Flipkart, una empresa respaldada por Walmart, amplía su esfuerzo de comercio rápido mientras Amazon aumenta su presencia en la India.</a></h3>
-          <p>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su propia impulso de comercio rápido en la India.</p>
-          <a class="read-more" href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● TechCrunch</span>
-          <h3><a href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank" rel="noopener">La India de MoEngage apostaría que el futuro del marketing está en millones de agentes de inteligencia artificial.</a></h3>
-          <p>El acuerdo a caja da a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial (IA) a clientes individuales.</p>
-          <a class="read-more" href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● TechCrunch</span>
-          <h3><a href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank" rel="noopener">&#34;Superhuman, una empresa de tecnología especializada en inteligencia artificial y análisis de datos, ha adquirido la startup de detección de inteligencia artificial GPTZero. 
+La suspensión del programa también genera preguntas sobre cómo Meta maneja la privacidad y seguridad de sus empleados, así como sobre las medidas que toma para proteger su información personal. La empresa puede estar buscando reevaluar sus políticas y procedimientos para garantizar que se cumplan los estándares más altos en términos de privacidad y seguridad.
 
-La compra, que no ha sido oficialmente anunciada por ambas partes, tiene como objetivo fortalecer las capacidades de Superhuman en el área de detección y mitigación de ataques de inteligencia artificial. GPTZero, que se enfoca en detectar y prevenir la manipulación de inteligencia artificial, puede ayudar a Superhuman a mejorar su capacidad para identificar y neutralizar amenazas cibernéticas.
+En general, la decisión de Meta de suspender su programa de seguimiento de empleados es un recordatorio de la importancia de priorizar la seguridad y privacidad en las empresas.</a></h4>
+          <p>Meta ha suspendido su programa de seguimiento de empleados, tras una brecha de seguridad interna que podría haber expuesto la información personal de los empleados. 
 
-La adquisición también refleja el creciente interés de las empresas tecnológicas en desarrollar soluciones para protegerse contra los riesgos asociados con la inteligencia artificial. En un mundo donde la IA se está convirtiendo cada vez más en una herramienta esencial para muchas organizaciones, la detección y mitigación de ataques de inteligencia artificial son una prioridad creciente.
-
-La compra de GPTZero puede tener implicaciones significativas para el sector tecnológico, ya que puede impulsar el desarrollo de soluciones más efectivas para proteger contra las amenazas de inteligencia artificial. Además, la adquisición puede demostrar la voluntad de Superhuman de invertir en innovación y seguridad en su plataforma.&#34;</a></h3>
-          <p>&#34;Superhuman, que también cuenta con una herramienta de detección de inteligencia artificial como parte de Grammarly, ha adquirido a GPTZero.&#34;</p>
-          <a class="read-more" href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/" target="_blank" rel="noopener">Leer artículo completo →</a>
+Según informó el sitio …</p>
+          <a class="read-more" href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/" target="_blank" rel="noopener">LEER →</a>
         </article>
         
       </div>
@@ -487,29 +605,42 @@ La compra de GPTZero puede tener implicaciones significativas para el sector tec
     <section class="categoria" id="cat-formula1" data-cat>
       <div class="cat-header">
         <span class="cat-icon">🏎️</span>
-        Fórmula 1
-        <span class="cat-count">6 artículos</span>
+        <h3>FÓRMULA 1</h3>
+        <span class="cat-count">6 ARTÍCULOS</span>
       </div>
       <div class="cards-grid">
         
         <article class="card">
-          <span class="card-source">● F1Technical.net . Motorsport news</span>
-          <h3><a href="https://www.f1technical.net/news/28734" target="_blank" rel="noopener">La serie de automovilismo Formula E busca reavivar su popularidad con un calendario completamente renovado para el año 2027, según reveló la organización. 
-
-El nuevo calendario incluirá 16 carreras en diferentes ubicaciones alrededor del mundo, lo que representa una expansión significativa respecto a las 14 carreras de la temporada anterior. La serie también ha anunciado planes para expandir su presencia en Asia y América Latina.
-
-Además, Formula E ha anunciado planes para mejorar la eficiencia energética de sus vehículos eléctricos, lo que permitirá una mayor competitividad entre los pilotos y un aumento en la sostenibilidad del evento. 
-
-La serie también está trabajando en el desarrollo de su plataforma de streaming en vivo, que permitirá a los fanáticos seguir las carreras en tiempo real y acceder a contenido exclusivo.
-
-En resumen, Formula E busca reavivar su popularidad con un calendario renovado, una mayor presencia en regiones emergentes y mejoras en la eficiencia energética de sus vehículos.</a></h3>
-          <p>Formula E ha presentado el calendario provisional para la temporada 2026-27 del Campeonato Mundial de Fórmula E ABB FIA, confirmando la temporada más extensa en la historia de la serie y marcando el c…</p>
-          <a class="read-more" href="https://www.f1technical.net/news/28734" target="_blank" rel="noopener">Leer artículo completo →</a>
+          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
+          <h4><a href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">La FIA (Federación Internacional de Automovilismo) ha confirmado los cambios en la unidad de potencia para la temporada 2027 de la Fórmula 1.</a></h4>
+          <p>La FIA ha emitido oficialmente su aprobación para el movimiento de la F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios clave de segurida…</p>
+          <a class="read-more" href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
+          <h4><a href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">Desde simulador hasta cronómetro: Las pruebas creativas utilizadas por los equipos de evidencia para cuestionar los resultados de las carreras de F1</a></h4>
+          <p>Los equipos de la Formula 1 tienen el poder de apelar las penalidades impuestas por los steward durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas…</p>
+          <a class="read-more" href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
+          <h4><a href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">La Audi sorprende a sus rivales al correr un motor de F1 actualizado en el Gran Premio de Barcelona después de la decisión del tribunal ADUO.</a></h4>
+          <p>Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el primer Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de op…</p>
+          <a class="read-more" href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER →</a>
         </article>
         
         <article class="card">
           <span class="card-source">● F1Technical.net . Motorsport news</span>
-          <h3><a href="https://www.f1technical.net/news/28732" target="_blank" rel="noopener">F1TECH: ¿Cómo ha mejorado la SF26 de Ferrari en el circuito de Barcelona?
+          <h4><a href="https://www.f1technical.net/news/28729" target="_blank" rel="noopener">Red Bull se prepara para introducir un paquete de actualizaciones significativas en el circuito de Spielberg.</a></h4>
+          <p>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escuadría ya ha admitido que los nuevos componentes no serán suficientes par…</p>
+          <a class="read-more" href="https://www.f1technical.net/news/28729" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● F1Technical.net . Motorsport news</span>
+          <h4><a href="https://www.f1technical.net/news/28732" target="_blank" rel="noopener">F1TECH: ¿Cómo ha mejorado la SF26 de Ferrari en el circuito de Barcelona?
 
 Según fuentes cercanas al equipo, Ferrari ha implementado varias actualizaciones significativas en su monoplaza SF26 durante los ensayos de pruebas en el circuito de Barcelona. 
 
@@ -521,37 +652,24 @@ Entre las principales mejoras se encuentran:
 *   Ajustes en el sistema de aerodinámica: Ferrari ha realizado ajustes en el sistema de aerodinámica para mejorar la eficiencia aerodinámica del monoplaza. 
 *   Actualización del sistema de gestión de energía: El equipo ha introducido un nuevo sistema de gestión de energía que permite a los pilotos optimizar su consumo de combustible y reducir el estrés en las baterías.
 
-Estas actualizaciones deberían permitir a Ferrari mejorar la competitividad de su monoplaza SF26 y aumentar sus posibilidades de lograr victorias en el futuro.</a></h3>
-          <p>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una versión revisada del SF-26 que presenta cambios en el ala …</p>
-          <a class="read-more" href="https://www.f1technical.net/news/28732" target="_blank" rel="noopener">Leer artículo completo →</a>
+Estas actualizaciones deberían permitir a Ferrari mejorar la competitividad de su monoplaza SF26 y aumentar sus posibilidades de lograr victorias en el futuro.</a></h4>
+          <p>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una versión revisada del SF-26 que presenta cambios …</p>
+          <a class="read-more" href="https://www.f1technical.net/news/28732" target="_blank" rel="noopener">LEER →</a>
         </article>
         
         <article class="card">
           <span class="card-source">● F1Technical.net . Motorsport news</span>
-          <h3><a href="https://www.f1technical.net/news/28729" target="_blank" rel="noopener">Red Bull se prepara para introducir un paquete de actualizaciones significativas en el circuito de Spielberg.</a></h3>
-          <p>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escuadría ya ha admitido que los nuevos componentes no serán suficientes para cerrar e…</p>
-          <a class="read-more" href="https://www.f1technical.net/news/28729" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
-          <h3><a href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">La Audi sorprende a sus rivales al correr un motor de F1 actualizado en el Gran Premio de Barcelona después de la decisión del tribunal ADUO.</a></h3>
-          <p>Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el primer Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidade…</p>
-          <a class="read-more" href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
-          <h3><a href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">Desde simulador hasta cronómetro: Las pruebas creativas utilizadas por los equipos de evidencia para cuestionar los resultados de las carreras de F1</a></h3>
-          <p>Los equipos de la Formula 1 tienen el poder de apelar las penalidades impuestas por los steward durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún n…</p>
-          <a class="read-more" href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
-          <h3><a href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">La FIA (Federación Internacional de Automovilismo) ha confirmado los cambios en la unidad de potencia para la temporada 2027 de la Fórmula 1.</a></h3>
-          <p>La FIA ha emitido oficialmente su aprobación para el movimiento de la F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios clave de seguridad para 202…</p>
-          <a class="read-more" href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">Leer artículo completo →</a>
+          <h4><a href="https://www.f1technical.net/news/28734" target="_blank" rel="noopener">La serie de automovilismo Formula E busca reavivar su popularidad con un calendario completamente renovado para el año 2027, según reveló la organización. 
+
+El nuevo calendario incluirá 16 carreras en diferentes ubicaciones alrededor del mundo, lo que representa una expansión significativa respecto a las 14 carreras de la temporada anterior. La serie también ha anunciado planes para expandir su presencia en Asia y América Latina.
+
+Además, Formula E ha anunciado planes para mejorar la eficiencia energética de sus vehículos eléctricos, lo que permitirá una mayor competitividad entre los pilotos y un aumento en la sostenibilidad del evento. 
+
+La serie también está trabajando en el desarrollo de su plataforma de streaming en vivo, que permitirá a los fanáticos seguir las carreras en tiempo real y acceder a contenido exclusivo.
+
+En resumen, Formula E busca reavivar su popularidad con un calendario renovado, una mayor presencia en regiones emergentes y mejoras en la eficiencia energética de sus vehículos.</a></h4>
+          <p>Formula E ha presentado el calendario provisional para la temporada 2026-27 del Campeonato Mundial de Fórmula E ABB FIA, confirmando la temporada más extensa en la historia de la serie y mar…</p>
+          <a class="read-more" href="https://www.f1technical.net/news/28734" target="_blank" rel="noopener">LEER →</a>
         </article>
         
       </div>
@@ -562,14 +680,112 @@ Estas actualizaciones deberían permitir a Ferrari mejorar la competitividad de 
     <section class="categoria" id="cat-data_science" data-cat>
       <div class="cat-header">
         <span class="cat-icon">📊</span>
-        Data Science
-        <span class="cat-count">6 artículos</span>
+        <h3>DATA SCIENCE</h3>
+        <span class="cat-count">6 ARTÍCULOS</span>
       </div>
       <div class="cards-grid">
         
         <article class="card">
+          <span class="card-source">● KDnuggets</span>
+          <h4><a href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection" target="_blank" rel="noopener">**5 Enfoques Esenciales para la Detección de Anomalías Robusta**
+
+La detección de anomalías es un aspecto crucial en el análisis de datos, ya que puede ayudar a identificar errores de entrada, patrones atípicos y tendencias no deseadas. A continuación, se presentan cinco enfoques esenciales para la detección de anomalías robusta:
+
+**1. Mediana Móvil**
+
+La mediana móvil es un método simple pero efectivo para detectar anomalías. Consiste en calcular la mediana de una serie de datos durante un período determinado y compararla con el valor actual. Si el valor actual es más allá del 1,5 veces la mediana móvil, se considera anormal.
+
+**2. Reglas de Oportunidad**
+
+Las reglas de oportunidad son un enfoque probabilístico que utiliza una función de distribución para determinar si un dato es anormal o no. Se basan en la idea de que los datos seguidos de una distribución normal deben ser similares a la media y el desvío estándar.
+
+**3. Análisis Gráfico**
+
+El análisis gráfico es una técnica visual que utiliza gráficos para identificar patrones y anomalías en los datos. Puede incluir gráficos de barras, líneas o scatter plots, dependiendo del tipo de datos y la naturaleza de las anomalías.
+
+**4. Algoritmos de Clustering**
+
+Los algoritmos de clustering se utilizan para agrupar datos similares juntos y identificar patrones no lineales. Pueden ser utilizados para detectar anomalías que no siguen una distribución normal.
+
+**5. Aprendizaje Automático**
+
+El aprendizaje automático es un enfoque poderoso que utiliza algoritmos de machine learning para aprender patrones en los datos y detectar anomalías. Puede incluir técnicas como el análisis de vectores de soporte (SVM) o la red neuronal artificial.
+
+En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidades, y la elección del método adecuado depende del tipo de datos, la naturaleza de las anomalías y el nivel de complejidad del análisis.</a></h4>
+          <p>Los outliers pueden fácilmente afectar negativamente el rendimiento de cualquier modelo de análisis predictivo que construyas: detectarlos y manejarlos de manera robusta es fundamental en cu…</p>
+          <a class="read-more" href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● KDnuggets</span>
+          <h4><a href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting" target="_blank" rel="noopener">Aquí está la traducción al español:
+
+¿Por qué WebMCP es emocionante?
+
+WebMCP está revolucionando la forma en que las empresas y los desarrolladores interactúan con sus clientes y usuarios finales. Esta plataforma de marketing en línea ofrece una serie de características innovadoras que permiten a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.
+
+Con WebMCP, las empresas pueden crear experiencias de usuario personalizadas para cada uno de sus clientes, utilizando datos y análisis para entender mejor sus necesidades y preferencias. Esto permite ofrecer contenido relevante, promociones personalizadas y recomendaciones de productos que aumentan la satisfacción del cliente y la lealtad a la marca.
+
+Además, WebMCP ofrece herramientas de marketing automatizado que permiten a las empresas gestionar sus campañas de marketing de manera eficiente y escalable. Esto significa que las empresas pueden alcanzar a más clientes, aumentar su visibilidad en línea y mejorar su posición competitiva en el mercado.
+
+En resumen, WebMCP es emocionante porque ofrece una plataforma innovadora para la interacción entre empresas y clientes, permitiendo a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.</a></h4>
+          <p>WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionant…</p>
+          <a class="read-more" href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● KDnuggets</span>
+          <h4><a href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code" target="_blank" rel="noopener">Las Habilidades Matemáticas que Cada Ciencia de Datos Aspirante Debe Dominar Antes de Escribir Una Única Línea de Código
+
+Para cualquier persona interesada en convertirse en un científico de datos, es fundamental poseer una sólida base matemática. Las habilidades numéricas son fundamentales para analizar y modelar datos, y las aplicaciones prácticas de la ciencia de datos dependen en gran medida de la comprensión de conceptos matemáticos como la probabilidad, la estadística y el análisis lineal.
+
+La programación es solo una herramienta, pero sin una sólida comprensión de los cálculos y principios matemáticos subyacentes, no se puede aprovechar al máximo su potencial. Los científicos de datos deben ser capaces de analizar y visualizar datos complejos, identificar patrones y tendencias, y tomar decisiones informadas basadas en la evidencia.
+
+Algunas de las habilidades matemáticas que cada ciencia de datos aspirante debe dominar antes de escribir una sola línea de código incluyen:
+
+*   Probabilidad y estadística: comprender conceptos como la probabilidad condicional, la distribución normal y el análisis de regresión lineal.
+*   Análisis lineal algebraico: ser capaz de resolver sistemas de ecuaciones lineales y entender las propiedades de matrices.
+*   Matemáticas financieras: comprender conceptos como la valoración de activos, la rentabilidad y la gestión del riesgo.
+*   Estadística computacional: aprender a utilizar técnicas estadísticas para analizar grandes conjuntos de datos.
+
+Al dominar estas habilidades matemáticas, los científicos de datos pueden abordar desafíos complejos con confianza y tomar decisiones informadas que beneficien a las organizaciones.</a></h4>
+          <p>Este artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.</p>
+          <a class="read-more" href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
           <span class="card-source">● Towards Data Science</span>
-          <h3><a href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/" target="_blank" rel="noopener">Crear bucles potentes en código de Claude es una habilidad valiosa para cualquier programador que busque mejorar su eficiencia y productividad.
+          <h4><a href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/" target="_blank" rel="noopener">El Recuperación No Es Filtrado, Busca: Un Modelo Mental para RAG Empresarial
+
+En la era digital actual, las empresas enfrentan desafíos cada vez más complejos al gestionar y analizar grandes cantidades de datos. El RAG (Return on Asset) es un indicador clave que ayuda a los ejecutivos a evaluar el rendimiento financiero de una empresa. Sin embargo, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas.
+
+Un modelo mental clásico para la recuperación del RAG considera que la recuperación es simplemente un proceso de búsqueda de datos relevantes. Sin embargo, este enfoque tiene sus limitaciones. Buscar información no garantiza necesariamente una comprensión profunda de las tendencias y patrones subyacentes que pueden influir en el rendimiento financiero.
+
+Un enfoque más efectivo para la recuperación del RAG es considerar el concepto de &#34;filtrado&#34; como un paso crucial. El filtrado implica seleccionar los datos relevantes y eliminar aquellos que no lo son, permitiendo a los ejecutivos enfocarse en las tendencias y patrones clave.
+
+Este enfoque se basa en la idea de que la recuperación del RAG es un proceso de &#34;descubrimiento&#34; más que una simple búsqueda. Implica utilizar técnicas de análisis avanzadas, como la minería de datos y la inteligencia artificial, para identificar patrones y tendencias ocultas en los datos.
+
+Al considerar el filtrado como un paso crucial en la recuperación del RAG, las empresas pueden tomar decisiones informadas que se basen en una comprensión profunda de sus rendimientos financieros. Esto puede ayudar a mejorar la eficiencia operativa, reducir costos y aumentar la rentabilidad.
+
+En resumen, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas. El filtrado es un paso crucial en este proceso, ya que permite a los ejecutivos enfocarse en las tendencias y patrones clave que pueden influir en el rendimiento financiero.</a></h4>
+          <p>Inteligencia de Documentos Empresariales [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar anclajes pequeños, ampliar el contexto grande 
+
+El artículo  La r…</p>
+          <a class="read-more" href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● Towards Data Science</span>
+          <h4><a href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/" target="_blank" rel="noopener">Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntarle a Gemini.</a></h4>
+          <p>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo esenciales para detectar soluciones suboptimas.
+
+El post &#34;Pasé una hora …</p>
+          <a class="read-more" href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● Towards Data Science</span>
+          <h4><a href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/" target="_blank" rel="noopener">Crear bucles potentes en código de Claude es una habilidad valiosa para cualquier programador que busque mejorar su eficiencia y productividad.
 
 **Introducción**
 
@@ -613,109 +829,11 @@ Aquí hay algunos ejemplos de cómo se pueden utilizar los bucles en Claude:
 
 **Conclusión**
 
-En resumen, los bucles son una herramienta fundamental en cualquier lenguaje de programación. En Claude, se pueden utilizar de varias maneras para crear programas más eficientes y potentes. Al entender cómo funcionan los bucles `while` y `for`, puedes empezar a crear tus propios programas y aplicaciones interactivas con Claude.</a></h3>
+En resumen, los bucles son una herramienta fundamental en cualquier lenguaje de programación. En Claude, se pueden utilizar de varias maneras para crear programas más eficientes y potentes. Al entender cómo funcionan los bucles `while` y `for`, puedes empezar a crear tus propios programas y aplicaciones interactivas con Claude.</a></h4>
           <p>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación. 
 
 El artículo &#34;Cómo crear bucles poderosos en Claude Code&#34; apareció primero en  Towards Data Science .</p>
-          <a class="read-more" href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● Towards Data Science</span>
-          <h3><a href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/" target="_blank" rel="noopener">Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntarle a Gemini.</a></h3>
-          <p>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo esenciales para detectar soluciones suboptimas.
-
-El post &#34;Pasé una hora trabajando…</p>
-          <a class="read-more" href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● Towards Data Science</span>
-          <h3><a href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/" target="_blank" rel="noopener">El Recuperación No Es Filtrado, Busca: Un Modelo Mental para RAG Empresarial
-
-En la era digital actual, las empresas enfrentan desafíos cada vez más complejos al gestionar y analizar grandes cantidades de datos. El RAG (Return on Asset) es un indicador clave que ayuda a los ejecutivos a evaluar el rendimiento financiero de una empresa. Sin embargo, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas.
-
-Un modelo mental clásico para la recuperación del RAG considera que la recuperación es simplemente un proceso de búsqueda de datos relevantes. Sin embargo, este enfoque tiene sus limitaciones. Buscar información no garantiza necesariamente una comprensión profunda de las tendencias y patrones subyacentes que pueden influir en el rendimiento financiero.
-
-Un enfoque más efectivo para la recuperación del RAG es considerar el concepto de &#34;filtrado&#34; como un paso crucial. El filtrado implica seleccionar los datos relevantes y eliminar aquellos que no lo son, permitiendo a los ejecutivos enfocarse en las tendencias y patrones clave.
-
-Este enfoque se basa en la idea de que la recuperación del RAG es un proceso de &#34;descubrimiento&#34; más que una simple búsqueda. Implica utilizar técnicas de análisis avanzadas, como la minería de datos y la inteligencia artificial, para identificar patrones y tendencias ocultas en los datos.
-
-Al considerar el filtrado como un paso crucial en la recuperación del RAG, las empresas pueden tomar decisiones informadas que se basen en una comprensión profunda de sus rendimientos financieros. Esto puede ayudar a mejorar la eficiencia operativa, reducir costos y aumentar la rentabilidad.
-
-En resumen, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas. El filtrado es un paso crucial en este proceso, ya que permite a los ejecutivos enfocarse en las tendencias y patrones clave que pueden influir en el rendimiento financiero.</a></h3>
-          <p>Inteligencia de Documentos Empresariales [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar anclajes pequeños, ampliar el contexto grande 
-
-El artículo  La recuperació…</p>
-          <a class="read-more" href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● KDnuggets</span>
-          <h3><a href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code" target="_blank" rel="noopener">Las Habilidades Matemáticas que Cada Ciencia de Datos Aspirante Debe Dominar Antes de Escribir Una Única Línea de Código
-
-Para cualquier persona interesada en convertirse en un científico de datos, es fundamental poseer una sólida base matemática. Las habilidades numéricas son fundamentales para analizar y modelar datos, y las aplicaciones prácticas de la ciencia de datos dependen en gran medida de la comprensión de conceptos matemáticos como la probabilidad, la estadística y el análisis lineal.
-
-La programación es solo una herramienta, pero sin una sólida comprensión de los cálculos y principios matemáticos subyacentes, no se puede aprovechar al máximo su potencial. Los científicos de datos deben ser capaces de analizar y visualizar datos complejos, identificar patrones y tendencias, y tomar decisiones informadas basadas en la evidencia.
-
-Algunas de las habilidades matemáticas que cada ciencia de datos aspirante debe dominar antes de escribir una sola línea de código incluyen:
-
-*   Probabilidad y estadística: comprender conceptos como la probabilidad condicional, la distribución normal y el análisis de regresión lineal.
-*   Análisis lineal algebraico: ser capaz de resolver sistemas de ecuaciones lineales y entender las propiedades de matrices.
-*   Matemáticas financieras: comprender conceptos como la valoración de activos, la rentabilidad y la gestión del riesgo.
-*   Estadística computacional: aprender a utilizar técnicas estadísticas para analizar grandes conjuntos de datos.
-
-Al dominar estas habilidades matemáticas, los científicos de datos pueden abordar desafíos complejos con confianza y tomar decisiones informadas que beneficien a las organizaciones.</a></h3>
-          <p>Este artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.</p>
-          <a class="read-more" href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● KDnuggets</span>
-          <h3><a href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting" target="_blank" rel="noopener">Aquí está la traducción al español:
-
-¿Por qué WebMCP es emocionante?
-
-WebMCP está revolucionando la forma en que las empresas y los desarrolladores interactúan con sus clientes y usuarios finales. Esta plataforma de marketing en línea ofrece una serie de características innovadoras que permiten a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.
-
-Con WebMCP, las empresas pueden crear experiencias de usuario personalizadas para cada uno de sus clientes, utilizando datos y análisis para entender mejor sus necesidades y preferencias. Esto permite ofrecer contenido relevante, promociones personalizadas y recomendaciones de productos que aumentan la satisfacción del cliente y la lealtad a la marca.
-
-Además, WebMCP ofrece herramientas de marketing automatizado que permiten a las empresas gestionar sus campañas de marketing de manera eficiente y escalable. Esto significa que las empresas pueden alcanzar a más clientes, aumentar su visibilidad en línea y mejorar su posición competitiva en el mercado.
-
-En resumen, WebMCP es emocionante porque ofrece una plataforma innovadora para la interacción entre empresas y clientes, permitiendo a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.</a></h3>
-          <p>WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante.</p>
-          <a class="read-more" href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● KDnuggets</span>
-          <h3><a href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection" target="_blank" rel="noopener">**5 Enfoques Esenciales para la Detección de Anomalías Robusta**
-
-La detección de anomalías es un aspecto crucial en el análisis de datos, ya que puede ayudar a identificar errores de entrada, patrones atípicos y tendencias no deseadas. A continuación, se presentan cinco enfoques esenciales para la detección de anomalías robusta:
-
-**1. Mediana Móvil**
-
-La mediana móvil es un método simple pero efectivo para detectar anomalías. Consiste en calcular la mediana de una serie de datos durante un período determinado y compararla con el valor actual. Si el valor actual es más allá del 1,5 veces la mediana móvil, se considera anormal.
-
-**2. Reglas de Oportunidad**
-
-Las reglas de oportunidad son un enfoque probabilístico que utiliza una función de distribución para determinar si un dato es anormal o no. Se basan en la idea de que los datos seguidos de una distribución normal deben ser similares a la media y el desvío estándar.
-
-**3. Análisis Gráfico**
-
-El análisis gráfico es una técnica visual que utiliza gráficos para identificar patrones y anomalías en los datos. Puede incluir gráficos de barras, líneas o scatter plots, dependiendo del tipo de datos y la naturaleza de las anomalías.
-
-**4. Algoritmos de Clustering**
-
-Los algoritmos de clustering se utilizan para agrupar datos similares juntos y identificar patrones no lineales. Pueden ser utilizados para detectar anomalías que no siguen una distribución normal.
-
-**5. Aprendizaje Automático**
-
-El aprendizaje automático es un enfoque poderoso que utiliza algoritmos de machine learning para aprender patrones en los datos y detectar anomalías. Puede incluir técnicas como el análisis de vectores de soporte (SVM) o la red neuronal artificial.
-
-En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidades, y la elección del método adecuado depende del tipo de datos, la naturaleza de las anomalías y el nivel de complejidad del análisis.</a></h3>
-          <p>Los outliers pueden fácilmente afectar negativamente el rendimiento de cualquier modelo de análisis predictivo que construyas: detectarlos y manejarlos de manera robusta es fundamental en cualquier pr…</p>
-          <a class="read-more" href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection" target="_blank" rel="noopener">Leer artículo completo →</a>
+          <a class="read-more" href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/" target="_blank" rel="noopener">LEER →</a>
         </article>
         
       </div>
@@ -726,77 +844,70 @@ En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidade
     <section class="categoria" id="cat-economia" data-cat>
       <div class="cat-header">
         <span class="cat-icon">📈</span>
-        Economía
-        <span class="cat-count">3 artículos</span>
+        <h3>ECONOMÍA</h3>
+        <span class="cat-count">3 ARTÍCULOS</span>
       </div>
       <div class="cards-grid">
         
         <article class="card">
           <span class="card-source">● US Top News and Analysis</span>
-          <h3><a href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html" target="_blank" rel="noopener">Las acciones de tecnología asiáticas se recuperan después de una rueda negativa global; Samsung sube un 9%.</a></h3>
-          <p>Las acciones tecnológicas de Asia se recuperaron el miércoles después que las acciones globales registraran pérdidas significativas en la sesión anterior.</p>
-          <a class="read-more" href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● US Top News and Analysis</span>
-          <h3><a href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html" target="_blank" rel="noopener">Las cerebras de Intel caen un 10% después de que el fabricante de chips prevé una reducción en las ganancias, según su informe de ganancias desde la oferta pública inicial (IPO).</a></h3>
-          <p>La empresa Cerebras se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una compañía de tecnología de inteligencia artificial puro.</p>
-          <a class="read-more" href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html" target="_blank" rel="noopener">Leer artículo completo →</a>
-        </article>
-        
-        <article class="card">
-          <span class="card-source">● US Top News and Analysis</span>
-          <h3><a href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html" target="_blank" rel="noopener">Spacex alevanta $25 mil millones en venta de deuda menos de dos semanas después de su IPO.</a></h3>
+          <h4><a href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html" target="_blank" rel="noopener">Spacex alevanta $25 mil millones en venta de deuda menos de dos semanas después de su IPO.</a></h4>
           <p>La empresa espacial SpaceX ha recaudado $25 mil millones en una venta de deuda, tras observar cerca de $90 mil millones de pedidos, según fuentes que lo confirman.</p>
-          <a class="read-more" href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html" target="_blank" rel="noopener">Leer artículo completo →</a>
+          <a class="read-more" href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● US Top News and Analysis</span>
+          <h4><a href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html" target="_blank" rel="noopener">Las cerebras de Intel caen un 10% después de que el fabricante de chips prevé una reducción en las ganancias, según su informe de ganancias desde la oferta pública inicial (IPO).</a></h4>
+          <p>La empresa Cerebras se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una compañía de tecnología de inteligencia artificial puro.</p>
+          <a class="read-more" href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html" target="_blank" rel="noopener">LEER →</a>
+        </article>
+        
+        <article class="card">
+          <span class="card-source">● US Top News and Analysis</span>
+          <h4><a href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html" target="_blank" rel="noopener">Las acciones de tecnología asiáticas se recuperan después de una rueda negativa global; Samsung sube un 9%.</a></h4>
+          <p>Las acciones tecnológicas de Asia se recuperaron el miércoles después que las acciones globales registraran pérdidas significativas en la sesión anterior.</p>
+          <a class="read-more" href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html" target="_blank" rel="noopener">LEER →</a>
         </article>
         
       </div>
     </section>
     
   
-
 </main>
 
 <footer>
   <div class="container">
-    Generado automáticamente por <strong>Perfect Feed</strong> · NLP local con Ollama (llama3.2)<br>
-    Tasas cortesía de InfoDolar.com.do · 23/06/2026 22:03
+    <p><strong>PERFECT FEED</strong> — Generado automáticamente en una Raspberry Pi 5. Traducción NLP con Ollama (llama3.2) sobre el MacBook vía Tailscale.</p>
+    <p>Tasas cortesía de InfoDolar.com.do · 23/06/2026 22:20</p>
     <div class="foot-badges">
-      <span class="badge">🍓 Raspberry Pi 5</span>
-      <span class="badge">🦙 Ollama local</span>
-      <span class="badge">⚡ Zero APIs de pago</span>
-      <a class="badge" href="https://mkawashiro2000.github.io/perfect-feed/feed.xml">📡 Suscríbete vía RSS</a>
+      <span class="badge">🍓 RASPBERRY PI 5</span>
+      <span class="badge">🦙 OLLAMA LOCAL</span>
+      <span class="badge">⚡ ZERO APIS DE PAGO</span>
+      <a class="badge" href="https://mkawashiro2000.github.io/perfect-feed/feed.xml">📡 SUSCRÍBETE RSS</a>
     </div>
   </div>
 </footer>
 
 <script>
-  // Reveal-on-scroll de las tarjetas con stagger
   const io = new IntersectionObserver((entries) => {
     entries.forEach((e, i) => {
       if (e.isIntersecting) {
-        setTimeout(() => e.target.classList.add('reveal'), (i % 6) * 70);
+        setTimeout(() => e.target.classList.add('reveal'), (i % 6) * 60);
         io.unobserve(e.target);
       }
     });
-  }, { threshold: .12 });
+  }, { threshold: .1 });
   document.querySelectorAll('.card').forEach(c => io.observe(c));
 
-  // Filtro de categorías
   const botones = document.querySelectorAll('.cat-nav button');
   const secciones = document.querySelectorAll('[data-cat]');
   botones.forEach(btn => btn.addEventListener('click', () => {
     botones.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     const t = btn.dataset.target;
-    secciones.forEach(s => {
-      s.style.display = (t === 'all' || s.id === t) ? '' : 'none';
-    });
-    if (t !== 'all') {
-      document.getElementById(t).scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
+    secciones.forEach(s => { s.style.display = (t === 'all' || s.id === t) ? '' : 'none'; });
+    if (t !== 'all') document.getElementById(t).scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 </script>
 
