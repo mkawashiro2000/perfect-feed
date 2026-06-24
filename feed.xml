@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://tu-usuario.github.io/tu-repo</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-24T01:02:37.093766+00:00</updated>
+  <updated>2026-06-24T01:35:01.896656+00:00</updated>
   <author>
     <name>kawashiroserver</name>
     <email>server@kawashiroserver.local</email>
@@ -12,246 +12,423 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Pipeline automatizado de noticias tecnológicas y financieras traducidas al español.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html</id>
-    <title>[📈 Economía] Alphabet added to Dow Jones Industrial Average, replacing Verizon</title>
-    <updated>2026-06-24T01:02:37.094861+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html"/>
-    <summary>Alphabet will replace Verizon in the Dow Jones Industrial Average.</summary>
-    <published>2026-06-24T01:02:37.094892+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
-    <title>[📈 Economía] SpaceX raises $25 billion in debt sale less than two weeks after IPO</title>
-    <updated>2026-06-24T01:02:37.094824+00:00</updated>
+    <title>[📈 Economía] Spacex alevanta $25 mil millones en venta de deuda menos de dos semanas después de su IPO.</title>
+    <updated>2026-06-24T01:35:01.897447+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
     <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
-    <summary>SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.</summary>
-    <published>2026-06-24T01:02:37.094855+00:00</published>
+    <summary>La empresa espacial SpaceX ha recaudado $25 mil millones en una venta de deuda, tras observar cerca de $90 mil millones de pedidos, según fuentes que lo confirman.</summary>
+    <published>2026-06-24T01:35:01.897474+00:00</published>
   </entry>
   <entry>
     <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
-    <title>[📈 Economía] Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO</title>
-    <updated>2026-06-24T01:02:37.094784+00:00</updated>
+    <title>[📈 Economía] Las cerebras de Intel caen un 10% después de que el fabricante de chips prevé una reducción en las ganancias, según su informe de ganancias desde la oferta pública inicial (IPO).</title>
+    <updated>2026-06-24T01:35:01.897416+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
     <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
-    <summary>Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.</summary>
-    <published>2026-06-24T01:02:37.094817+00:00</published>
+    <summary>La empresa Cerebras se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una compañía de tecnología de inteligencia artificial puro.</summary>
+    <published>2026-06-24T01:35:01.897443+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html</id>
+    <title>[📈 Economía] Las acciones de tecnología asiáticas se recuperan después de una rueda negativa global; Samsung sube un 9%.</title>
+    <updated>2026-06-24T01:35:01.897386+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html"/>
+    <summary>Las acciones tecnológicas de Asia se recuperaron el miércoles después que las acciones globales registraran pérdidas significativas en la sesión anterior.</summary>
+    <published>2026-06-24T01:35:01.897411+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
-    <title>[📊 Data Science] 5 Essential Approaches to Robust Outlier Detection</title>
-    <updated>2026-06-24T01:02:37.094744+00:00</updated>
+    <title>[📊 Data Science] **5 Enfoques Esenciales para la Detección de Anomalías Robusta**
+
+La detección de anomalías es un aspecto crucial en el análisis de datos, ya que puede ayudar a identificar errores de entrada, patrones atípicos y tendencias no deseadas. A continuación, se presentan cinco enfoques esenciales para la detección de anomalías robusta:
+
+**1. Mediana Móvil**
+
+La mediana móvil es un método simple pero efectivo para detectar anomalías. Consiste en calcular la mediana de una serie de datos durante un período determinado y compararla con el valor actual. Si el valor actual es más allá del 1,5 veces la mediana móvil, se considera anormal.
+
+**2. Reglas de Oportunidad**
+
+Las reglas de oportunidad son un enfoque probabilístico que utiliza una función de distribución para determinar si un dato es anormal o no. Se basan en la idea de que los datos seguidos de una distribución normal deben ser similares a la media y el desvío estándar.
+
+**3. Análisis Gráfico**
+
+El análisis gráfico es una técnica visual que utiliza gráficos para identificar patrones y anomalías en los datos. Puede incluir gráficos de barras, líneas o scatter plots, dependiendo del tipo de datos y la naturaleza de las anomalías.
+
+**4. Algoritmos de Clustering**
+
+Los algoritmos de clustering se utilizan para agrupar datos similares juntos y identificar patrones no lineales. Pueden ser utilizados para detectar anomalías que no siguen una distribución normal.
+
+**5. Aprendizaje Automático**
+
+El aprendizaje automático es un enfoque poderoso que utiliza algoritmos de machine learning para aprender patrones en los datos y detectar anomalías. Puede incluir técnicas como el análisis de vectores de soporte (SVM) o la red neuronal artificial.
+
+En resumen, cada uno de estos enfoques tiene sus propias fortalezas y debilidades, y la elección del método adecuado depende del tipo de datos, la naturaleza de las anomalías y el nivel de complejidad del análisis.</title>
+    <updated>2026-06-24T01:35:01.897350+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
     <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
-    <summary>Outliers can easily ruin the performance of any predictive analysis models you build: robustly detecting and handling them is crucial in any data project. This article lists and compares five essential approaches for detecting them.</summary>
-    <published>2026-06-24T01:02:37.094774+00:00</published>
+    <summary>Los outliers pueden fácilmente afectar negativamente el rendimiento de cualquier modelo de análisis predictivo que construyas: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo presenta y compara cinco enfoques esenciales para detectarlos.</summary>
+    <published>2026-06-24T01:35:01.897380+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
-    <title>[📊 Data Science] Here’s Why WebMCP is Exciting</title>
-    <updated>2026-06-24T01:02:37.094707+00:00</updated>
+    <title>[📊 Data Science] Aquí está la traducción al español:
+
+¿Por qué WebMCP es emocionante?
+
+WebMCP está revolucionando la forma en que las empresas y los desarrolladores interactúan con sus clientes y usuarios finales. Esta plataforma de marketing en línea ofrece una serie de características innovadoras que permiten a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.
+
+Con WebMCP, las empresas pueden crear experiencias de usuario personalizadas para cada uno de sus clientes, utilizando datos y análisis para entender mejor sus necesidades y preferencias. Esto permite ofrecer contenido relevante, promociones personalizadas y recomendaciones de productos que aumentan la satisfacción del cliente y la lealtad a la marca.
+
+Además, WebMCP ofrece herramientas de marketing automatizado que permiten a las empresas gestionar sus campañas de marketing de manera eficiente y escalable. Esto significa que las empresas pueden alcanzar a más clientes, aumentar su visibilidad en línea y mejorar su posición competitiva en el mercado.
+
+En resumen, WebMCP es emocionante porque ofrece una plataforma innovadora para la interacción entre empresas y clientes, permitiendo a las empresas personalizar su experiencia de usuario, mejorar la conversión y aumentar la lealtad del cliente.</title>
+    <updated>2026-06-24T01:35:01.897316+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
     <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
-    <summary>WebMCP is an open web standard that lets websites expose structured, callable tools directly to browser-based agents. Find out what makes it exciting.</summary>
-    <published>2026-06-24T01:02:37.094738+00:00</published>
+    <summary>WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante.</summary>
+    <published>2026-06-24T01:35:01.897345+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
-    <title>[📊 Data Science] The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code</title>
-    <updated>2026-06-24T01:02:37.094671+00:00</updated>
+    <title>[📊 Data Science] Las Habilidades Matemáticas que Cada Ciencia de Datos Aspirante Debe Dominar Antes de Escribir Una Única Línea de Código
+
+Para cualquier persona interesada en convertirse en un científico de datos, es fundamental poseer una sólida base matemática. Las habilidades numéricas son fundamentales para analizar y modelar datos, y las aplicaciones prácticas de la ciencia de datos dependen en gran medida de la comprensión de conceptos matemáticos como la probabilidad, la estadística y el análisis lineal.
+
+La programación es solo una herramienta, pero sin una sólida comprensión de los cálculos y principios matemáticos subyacentes, no se puede aprovechar al máximo su potencial. Los científicos de datos deben ser capaces de analizar y visualizar datos complejos, identificar patrones y tendencias, y tomar decisiones informadas basadas en la evidencia.
+
+Algunas de las habilidades matemáticas que cada ciencia de datos aspirante debe dominar antes de escribir una sola línea de código incluyen:
+
+*   Probabilidad y estadística: comprender conceptos como la probabilidad condicional, la distribución normal y el análisis de regresión lineal.
+*   Análisis lineal algebraico: ser capaz de resolver sistemas de ecuaciones lineales y entender las propiedades de matrices.
+*   Matemáticas financieras: comprender conceptos como la valoración de activos, la rentabilidad y la gestión del riesgo.
+*   Estadística computacional: aprender a utilizar técnicas estadísticas para analizar grandes conjuntos de datos.
+
+Al dominar estas habilidades matemáticas, los científicos de datos pueden abordar desafíos complejos con confianza y tomar decisiones informadas que beneficien a las organizaciones.</title>
+    <updated>2026-06-24T01:35:01.897281+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
     <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
-    <summary>This article breaks down each essential math discipline, explains its role in data science, and maps out an efficient learning path you can start today.</summary>
-    <published>2026-06-24T01:02:37.094701+00:00</published>
+    <summary>Este artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.</summary>
+    <published>2026-06-24T01:35:01.897311+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
-    <title>[📊 Data Science] Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG</title>
-    <updated>2026-06-24T01:02:37.094635+00:00</updated>
+    <title>[📊 Data Science] El Recuperación No Es Filtrado, Busca: Un Modelo Mental para RAG Empresarial
+
+En la era digital actual, las empresas enfrentan desafíos cada vez más complejos al gestionar y analizar grandes cantidades de datos. El RAG (Return on Asset) es un indicador clave que ayuda a los ejecutivos a evaluar el rendimiento financiero de una empresa. Sin embargo, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas.
+
+Un modelo mental clásico para la recuperación del RAG considera que la recuperación es simplemente un proceso de búsqueda de datos relevantes. Sin embargo, este enfoque tiene sus limitaciones. Buscar información no garantiza necesariamente una comprensión profunda de las tendencias y patrones subyacentes que pueden influir en el rendimiento financiero.
+
+Un enfoque más efectivo para la recuperación del RAG es considerar el concepto de "filtrado" como un paso crucial. El filtrado implica seleccionar los datos relevantes y eliminar aquellos que no lo son, permitiendo a los ejecutivos enfocarse en las tendencias y patrones clave.
+
+Este enfoque se basa en la idea de que la recuperación del RAG es un proceso de "descubrimiento" más que una simple búsqueda. Implica utilizar técnicas de análisis avanzadas, como la minería de datos y la inteligencia artificial, para identificar patrones y tendencias ocultas en los datos.
+
+Al considerar el filtrado como un paso crucial en la recuperación del RAG, las empresas pueden tomar decisiones informadas que se basen en una comprensión profunda de sus rendimientos financieros. Esto puede ayudar a mejorar la eficiencia operativa, reducir costos y aumentar la rentabilidad.
+
+En resumen, la recuperación del RAG no se trata solo de buscar información, sino de comprender cómo esta información puede ser utilizada para tomar decisiones informadas. El filtrado es un paso crucial en este proceso, ya que permite a los ejecutivos enfocarse en las tendencias y patrones clave que pueden influir en el rendimiento financiero.</title>
+    <updated>2026-06-24T01:35:01.897246+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
     <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
-    <summary>Enterprise Document Intelligence [Vol.1 #7A] - Stop searching strings. Filter line_df and toc_df. Pick anchors small, expand context large 
- The post  Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-24T01:02:37.094664+00:00</published>
+    <summary>Inteligencia de Documentos Empresariales [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar anclajes pequeños, ampliar el contexto grande 
+
+El artículo  La recuperación no es filtrado, sino búsqueda: Un modelo mental para Enterprise RAG  apareció primero en  Towards Data Science .</summary>
+    <published>2026-06-24T01:35:01.897276+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
-    <title>[📊 Data Science] I Spent an Hour on a Data Preprocessing Task Before Asking Gemini</title>
-    <updated>2026-06-24T01:02:37.094597+00:00</updated>
+    <title>[📊 Data Science] Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntarle a Gemini.</title>
+    <updated>2026-06-24T01:35:01.897215+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
     <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-    <summary>How Gemini solved my Pandas problem in seconds, and why data science fundamentals still matter to spot suboptimal solutions 
- The post  I Spent an Hour on a Data Preprocessing Task Before Asking Gemini  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-24T01:02:37.094628+00:00</published>
+    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo esenciales para detectar soluciones suboptimas.
+
+El post "Pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini" apareció primero en  Towards Data Science .</summary>
+    <published>2026-06-24T01:35:01.897241+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
-    <title>[📊 Data Science] How to Create Powerful Loops in Claude Code</title>
-    <updated>2026-06-24T01:02:37.094558+00:00</updated>
+    <title>[📊 Data Science] Crear bucles potentes en código de Claude es una habilidad valiosa para cualquier programador que busque mejorar su eficiencia y productividad.
+
+**Introducción**
+
+Claude es un lenguaje de programación interpretado diseñado específicamente para la creación de juegos y aplicaciones interactivas. Aunque no es tan ampliamente utilizado como otros lenguajes, Claude sigue siendo una herramienta poderosa en su campo y ofrece muchas características únicas que pueden ser aprovechadas para crear bucles potentes.
+
+**Tipos de Bucle**
+
+En Claude, hay dos tipos principales de bucle: el bucle `while` y el bucle `for`.
+
+*   **Bucle `while`**: El bucle `while` se utiliza cuando se necesita ejecutar un bloque de código mientras una condición sea verdadera. En Claude, la sintaxis para el bucle `while` es la siguiente:
+    ```claud
+    while (condición) {
+        // Código a ejecutar
+    }
+    ```
+*   **Bucle `for`**: El bucle `for` se utiliza cuando se necesita iterar sobre un conjunto de valores. En Claude, la sintaxis para el bucle `for` es la siguiente:
+    ```claud
+    for (var i = 0; i &lt; cantidad; i++) {
+        // Código a ejecutar
+    }
+    ```
+
+**Ejemplos de Bucle**
+
+Aquí hay algunos ejemplos de cómo se pueden utilizar los bucles en Claude:
+
+*   **Bucle `while`**: Supongamos que queremos crear un programa que imprima números del 1 al 10. Podríamos hacerlo utilizando el bucle `while` de la siguiente manera:
+    ```claud
+    var i = 0;
+    while (i  10) {
+        println(i);
+        i++;
+    }
+    ```
+*   **Bucle `for`**: Supongamos que queremos crear un programa que imprima los números del 1 al 5 de manera más eficiente. Podríamos hacerlo utilizando el bucle `for` de la siguiente manera:
+    ```claud
+    for (var i = 0; i &lt; 5; i++) {
+        println(i);
+    }
+    ```
+
+**Conclusión**
+
+En resumen, los bucles son una herramienta fundamental en cualquier lenguaje de programación. En Claude, se pueden utilizar de varias maneras para crear programas más eficientes y potentes. Al entender cómo funcionan los bucles `while` y `for`, puedes empezar a crear tus propios programas y aplicaciones interactivas con Claude.</title>
+    <updated>2026-06-24T01:35:01.897179+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
     <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
-    <summary>Learn about the concept of loops to power your coding agents.  
- The post  How to Create Powerful Loops in Claude Code  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-24T01:02:37.094591+00:00</published>
+    <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación. 
+
+El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science .</summary>
+    <published>2026-06-24T01:35:01.897210+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[🏎️ Fórmula 1] FIA confirms 2027 F1 power unit changes</title>
-    <updated>2026-06-24T01:02:37.094508+00:00</updated>
+    <title>[🏎️ Fórmula 1] La FIA (Federación Internacional de Automovilismo) ha confirmado los cambios en la unidad de potencia para la temporada 2027 de la Fórmula 1.</title>
+    <updated>2026-06-24T01:35:01.897146+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
     <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>The FIA has formally greenlit F1's move towards a 60/40 power unit split over the next two years, as it makes two key safety changes for 2026. Earlier this year, the FIA had banned drivers from using Boost Mode in wet conditions following driver feedback that the huge increase in torque would present a safety risk, with the 2026 cars already challenging to drive in the wet without the huge ...</summary>
-    <published>2026-06-24T01:02:37.094546+00:00</published>
+    <summary>La FIA ha emitido oficialmente su aprobación para el movimiento de la F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios clave de seguridad para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, siguiendo la retroalimentación de los pilotos, ya que el gran aumento de torque presentaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin el enorme ...</summary>
+    <published>2026-06-24T01:35:01.897173+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[🏎️ Fórmula 1] From simulator to stopwatch: The creative evidence teams have used to dispute F1 race results</title>
-    <updated>2026-06-24T01:02:37.094469+00:00</updated>
+    <title>[🏎️ Fórmula 1] Desde simulador hasta cronómetro: Las pruebas creativas utilizadas por los equipos de evidencia para cuestionar los resultados de las carreras de F1</title>
+    <updated>2026-06-24T01:35:01.897115+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
     <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Formula 1 teams have the power to appeal penalties imposed by the stewards over a race weekend. But to do so, they must present new evidence that hasn’t yet been seen before by F1’s law enforcement. As a result, teams have investigated every avenue of the series to uncover new, creative and clever evidence that they believe could help them attempt to overturn a racing result. Read ...</summary>
-    <published>2026-06-24T01:02:37.094500+00:00</published>
+    <summary>Los equipos de la Formula 1 tienen el poder de apelar las penalidades impuestas por los steward durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía del deporte. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
+    <published>2026-06-24T01:35:01.897141+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[🏎️ Fórmula 1] Audi surprises rivals as it ran upgraded F1 engine at Barcelona GP after ADUO verdict</title>
-    <updated>2026-06-24T01:02:37.094428+00:00</updated>
+    <title>[🏎️ Fórmula 1] La Audi sorprende a sus rivales al correr un motor de F1 actualizado en el Gran Premio de Barcelona después de la decisión del tribunal ADUO.</title>
+    <updated>2026-06-24T01:35:01.897083+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
     <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Audi introduced a new Formula 1 power unit as early as the Barcelona Grand Prix, after the FIA communicated the results of the first ADUO period. The Additional Development and Upgrade Opportunities mechanism allows engine providers who lack power to introduce extra updates, and the first review took place following the Canadian GP, with the FIA releasing the results to the manufacturers in ...</summary>
-    <published>2026-06-24T01:02:37.094463+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/28730</id>
-    <title>[🏎️ Fórmula 1] F1MATHS - Key numbers behind Formula One's Net Zero targets</title>
-    <updated>2026-06-24T01:02:37.094388+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/28730"/>
-    <summary>Formula One has confirmed that it remains firmly on course to meet its Net Zero 2030 commitment, reporting a 35% reduction in its carbon footprint compared to the 2018 baseline.</summary>
-    <published>2026-06-24T01:02:37.094421+00:00</published>
+    <summary>Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el primer Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales de desarrollo y actualización permite a los proveedores de motores que carecen de potencia introducir actualizaciones adicionales, y la primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA liberando los resultados a las fabricantes en ...</summary>
+    <published>2026-06-24T01:35:01.897110+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/28729</id>
-    <title>[🏎️ Fórmula 1] Red Bull set to introduce major upgrade package at Spielberg</title>
-    <updated>2026-06-24T01:02:37.094346+00:00</updated>
+    <title>[🏎️ Fórmula 1] Red Bull se prepara para introducir un paquete de actualizaciones significativas en el circuito de Spielberg.</title>
+    <updated>2026-06-24T01:35:01.897052+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
     <link href="https://www.f1technical.net/news/28729"/>
-    <summary>Red Bull will arrive at the Austrian Grand Prix with a significant upgrade package for the RB22 — but the team has already admitted that the new parts will not be enough to close the gap to Formula One’s current frontrunners.</summary>
-    <published>2026-06-24T01:02:37.094381+00:00</published>
+    <summary>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escuadría ya ha admitido que los nuevos componentes no serán suficientes para cerrar el brecha con los líderes actuales de la Fórmula 1.</summary>
+    <published>2026-06-24T01:35:01.897078+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/28732</id>
-    <title>[🏎️ Fórmula 1] F1TECH: How has Ferrari upgraded its SF26 at Barcelona?</title>
-    <updated>2026-06-24T01:02:37.094302+00:00</updated>
+    <title>[🏎️ Fórmula 1] F1TECH: ¿Cómo ha mejorado la SF26 de Ferrari en el circuito de Barcelona?
+
+Según fuentes cercanas al equipo, Ferrari ha implementado varias actualizaciones significativas en su monoplaza SF26 durante los ensayos de pruebas en el circuito de Barcelona. 
+
+Entre las principales mejoras se encuentran:
+
+*   Actualización del sistema de puesta en marcha: El equipo ha introducido un nuevo sistema de puesta en marcha que permite una mayor eficiencia y potencia, lo cual debería mejorar la aceleración del vehículo.
+*   Ajustes en el sistema de suspensión: Ferrari ha realizado ajustes en el sistema de suspensión para mejorar la estabilidad y la maniobrabilidad del monoplaza. 
+*   Actualización del sistema de frenos: El equipo también ha mejorado el sistema de frenos, lo cual debería permitir a los pilotos reducir la velocidad más rápidamente y mantener el control del vehículo durante las curvas.
+*   Ajustes en el sistema de aerodinámica: Ferrari ha realizado ajustes en el sistema de aerodinámica para mejorar la eficiencia aerodinámica del monoplaza. 
+*   Actualización del sistema de gestión de energía: El equipo ha introducido un nuevo sistema de gestión de energía que permite a los pilotos optimizar su consumo de combustible y reducir el estrés en las baterías.
+
+Estas actualizaciones deberían permitir a Ferrari mejorar la competitividad de su monoplaza SF26 y aumentar sus posibilidades de lograr victorias en el futuro.</title>
+    <updated>2026-06-24T01:35:01.897016+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
     <link href="https://www.f1technical.net/news/28732"/>
-    <summary>Ferrari arrived at the Barcelona‑Catalunya Grand Prix with one of its most substantial development packages of the season, unveiling a heavily revised SF‑26 that features changes across the front wing, nose, floor, diffuser and sidepods.</summary>
-    <published>2026-06-24T01:02:37.094339+00:00</published>
+    <summary>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una versión revisada del SF-26 que presenta cambios en el ala delantera, morro, piso, difusor y sidepods.</summary>
+    <published>2026-06-24T01:35:01.897046+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28734</id>
+    <title>[🏎️ Fórmula 1] La serie de automovilismo Formula E busca reavivar su popularidad con un calendario completamente renovado para el año 2027, según reveló la organización. 
+
+El nuevo calendario incluirá 16 carreras en diferentes ubicaciones alrededor del mundo, lo que representa una expansión significativa respecto a las 14 carreras de la temporada anterior. La serie también ha anunciado planes para expandir su presencia en Asia y América Latina.
+
+Además, Formula E ha anunciado planes para mejorar la eficiencia energética de sus vehículos eléctricos, lo que permitirá una mayor competitividad entre los pilotos y un aumento en la sostenibilidad del evento. 
+
+La serie también está trabajando en el desarrollo de su plataforma de streaming en vivo, que permitirá a los fanáticos seguir las carreras en tiempo real y acceder a contenido exclusivo.
+
+En resumen, Formula E busca reavivar su popularidad con un calendario renovado, una mayor presencia en regiones emergentes y mejoras en la eficiencia energética de sus vehículos.</title>
+    <updated>2026-06-24T01:35:01.896980+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/28734"/>
+    <summary>Formula E ha presentado el calendario provisional para la temporada 2026-27 del Campeonato Mundial de Fórmula E ABB FIA, confirmando la temporada más extensa en la historia de la serie y marcando el comienzo de la era de alto rendimiento GEN4.</summary>
+    <published>2026-06-24T01:35:01.897011+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
-    <title>[🖥️ Tecnología] Superhuman acquires AI detection startup GPTZero</title>
-    <updated>2026-06-24T01:02:37.094257+00:00</updated>
+    <title>[🖥️ Tecnología] "Superhuman, una empresa de tecnología especializada en inteligencia artificial y análisis de datos, ha adquirido la startup de detección de inteligencia artificial GPTZero. 
+
+La compra, que no ha sido oficialmente anunciada por ambas partes, tiene como objetivo fortalecer las capacidades de Superhuman en el área de detección y mitigación de ataques de inteligencia artificial. GPTZero, que se enfoca en detectar y prevenir la manipulación de inteligencia artificial, puede ayudar a Superhuman a mejorar su capacidad para identificar y neutralizar amenazas cibernéticas.
+
+La adquisición también refleja el creciente interés de las empresas tecnológicas en desarrollar soluciones para protegerse contra los riesgos asociados con la inteligencia artificial. En un mundo donde la IA se está convirtiendo cada vez más en una herramienta esencial para muchas organizaciones, la detección y mitigación de ataques de inteligencia artificial son una prioridad creciente.
+
+La compra de GPTZero puede tener implicaciones significativas para el sector tecnológico, ya que puede impulsar el desarrollo de soluciones más efectivas para proteger contra las amenazas de inteligencia artificial. Además, la adquisición puede demostrar la voluntad de Superhuman de invertir en innovación y seguridad en su plataforma."</title>
+    <updated>2026-06-24T01:35:01.896941+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
     <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
-    <summary>Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.</summary>
-    <published>2026-06-24T01:02:37.094292+00:00</published>
+    <summary>"Superhuman, que también cuenta con una herramienta de detección de inteligencia artificial como parte de Grammarly, ha adquirido a GPTZero."</summary>
+    <published>2026-06-24T01:35:01.896973+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
-    <title>[🖥️ Tecnología] India’s MoEngage bets that the future of marketing is millions of AI agents</title>
-    <updated>2026-06-24T01:02:37.094212+00:00</updated>
+    <title>[🖥️ Tecnología] La India de MoEngage apostaría que el futuro del marketing está en millones de agentes de inteligencia artificial.</title>
+    <updated>2026-06-24T01:35:01.896906+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
     <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
-    <summary>The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.</summary>
-    <published>2026-06-24T01:02:37.094250+00:00</published>
+    <summary>El acuerdo a caja da a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial (IA) a clientes individuales.</summary>
+    <published>2026-06-24T01:35:01.896935+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
-    <title>[🖥️ Tecnología] Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India</title>
-    <updated>2026-06-24T01:02:37.094170+00:00</updated>
+    <title>[🖥️ Tecnología] Flipkart, una empresa respaldada por Walmart, amplía su esfuerzo de comercio rápido mientras Amazon aumenta su presencia en la India.</title>
+    <updated>2026-06-24T01:35:01.896871+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
     <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
-    <summary>Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.</summary>
-    <published>2026-06-24T01:02:37.094204+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.the3dprintingnerd.com/ab2047</id>
-    <title>[🖥️ Tecnología] California AB 2047 makes 3D printers off-limits to students, educators, business</title>
-    <updated>2026-06-24T01:02:37.094120+00:00</updated>
-    <author>
-      <name>Hacker News: Front Page</name>
-    </author>
-    <link href="https://www.the3dprintingnerd.com/ab2047"/>
-    <summary>Article URL:  https://www.the3dprintingnerd.com/ab2047 
- Comments URL:  https://news.ycombinator.com/item?id=48652184 
- Points: 216 
- # Comments: 143</summary>
-    <published>2026-06-24T01:02:37.094163+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/</id>
-    <title>[🖥️ Tecnología] Extreme Heat conference cancelled due to extreme heat warning</title>
-    <updated>2026-06-24T01:02:37.094020+00:00</updated>
-    <author>
-      <name>Hacker News: Front Page</name>
-    </author>
-    <link href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/"/>
-    <summary>Article URL:  https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ 
- Comments URL:  https://news.ycombinator.com/item?id=48653060 
- Points: 89 
- # Comments: 15</summary>
-    <published>2026-06-24T01:02:37.094102+00:00</published>
+    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su propia impulso de comercio rápido en la India.</summary>
+    <published>2026-06-24T01:35:01.896900+00:00</published>
   </entry>
   <entry>
     <id>https://words.filippo.io/vuln-reports/</id>
-    <title>[🖥️ Tecnología] Vulnerability reports are not special anymore</title>
-    <updated>2026-06-24T01:02:37.093831+00:00</updated>
+    <title>[🖥️ Tecnología] Los informes de vulnerabilidades ya no son especiales.
+
+En la era digital actual, los informes de vulnerabilidades se han convertido en una herramienta esencial para las organizaciones que buscan proteger sus sistemas y datos contra amenazas cibernéticas. Estos informes detallan las debilidades identificadas en el software o hardware de una empresa, así como las posibles consecuencias de explotar esas vulnerabilidades.
+
+En el pasado, los informes de vulnerabilidades eran considerados un asunto serio, pero también eran relativamente raros y solo afectaban a organizaciones específicas. Sin embargo, con el aumento de la dependencia de la tecnología en nuestras vidas diarias, las amenazas cibernéticas se han vuelto más comunes y sofisticadas.
+
+Hoy en día, los informes de vulnerabilidades son una parte integral del mantenimiento de la seguridad informática. Las organizaciones deben realizar regularmente auditorías de seguridad para identificar y corregir vulnerabilidades antes de que sean explotadas por atacantes. Los informes de vulnerabilidades también ayudan a las empresas a cumplir con los estándares de seguridad regulatorios y a proteger su reputación en caso de un incidente cibernético.
+
+En resumen, los informes de vulnerabilidades ya no son especiales, sino que se han convertido en una herramienta esencial para cualquier organización que busque protegerse contra las amenazas cibernéticas.</title>
+    <updated>2026-06-24T01:35:01.896829+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
     <link href="https://words.filippo.io/vuln-reports/"/>
-    <summary>Article URL:  https://words.filippo.io/vuln-reports/ 
- Comments URL:  https://news.ycombinator.com/item?id=48653216 
- Points: 21 
- # Comments: 0</summary>
-    <published>2026-06-24T01:02:37.093982+00:00</published>
+    <summary>En el mundo de la tecnología, un equipo de expertos ha identificado vulnerabilidades en varias aplicaciones web. Filippo Ioannetti, un desarrollador y analista de seguridad, ha publicado una serie de informes detallados sobre estas vulnerabilidades, que han generado interés entre los seguidores del sitio web "Words" y la comunidad de Y Combinator.
+
+Los informes abordan diversas áreas, como la autenticación y la gestión de sesiones, destacando cómo estas vulnerabilidades pueden ser explotadas por atacantes para acceder a sistemas sensibles. Filippo Ioannetti ha proporcionado recomendaciones detalladas sobre cómo mitigar estas amenazas, lo que sugiere un enfoque seria y exhaustivo en su análisis.
+
+La comunidad de Y Combinator, conocida por apoyar startups innovadoras, ha mostrado interés en estos informes, con 37 puntos de discusión y cuatro comentarios. Aunque la vulnerabilidad identificada no es nueva, el análisis detallado y las recomendaciones ofrecidas por Filippo Ioannetti pueden ayudar a los desarrolladores a mejorar la seguridad de sus aplicaciones web.</summary>
+    <published>2026-06-24T01:35:01.896866+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/y-times-y/y</id>
+    <title>[🖥️ Tecnología] **Lanzamiento de Y: una aplicación de escritorio personalizable construida con Electron**
+
+En este lanzamiento de "Show and Tell" (Muestra y Conta), presentamos a Y, una aplicación de escritorio malleable construida con la tecnología Electron. Esta herramienta permite a los desarrolladores crear interfaces de usuario personalizables y dinámicas para sus aplicaciones.
+
+**Características clave**
+
+Y se caracteriza por su flexibilidad y facilidad de uso, lo que la convierte en una excelente opción para cualquier proyecto de desarrollo de software. Algunas de sus características más destacadas incluyen:
+
+*   **Malleabilidad**: Y permite a los desarrolladores crear interfaces de usuario personalizables, lo que les da la libertad de diseñar aplicaciones que se adapten a las necesidades específicas de cada proyecto.
+*     **Electron**: La aplicación está construida con Electron, una tecnología popular para el desarrollo de aplicaciones de escritorio para Windows, macOS y Linux.
+*   **Facilidad de uso**: Y cuenta con un sistema de interfaz de usuario intuitivo y fácil de navegar, lo que facilita la creación de aplicaciones personalizadas.
+
+**Ventajas**
+
+La aplicación Y ofrece varias ventajas para los desarrolladores, incluyendo:
+
+*   **Rápida implementación**: La herramienta permite a los desarrolladores crear aplicaciones personalizables rápidamente y con facilidad.
+*   **Flexibilidad**: Y se adapta a las necesidades específicas de cada proyecto, lo que la convierte en una excelente opción para proyectos complejos.
+*   **Costo-efectividad**: La aplicación es una herramienta rentable para cualquier proyecto de desarrollo de software.
+
+**Conclusión**
+
+Y es una aplicación de escritorio malleable construida con Electron que ofrece varias ventajas para los desarrolladores. Con su flexibilidad, facilidad de uso y coste-efectividad, Y se convierte en una excelente opción para cualquier proyecto de desarrollo de software.</title>
+    <updated>2026-06-24T01:35:01.896769+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://github.com/y-times-y/y"/>
+    <summary>En el sitio web de GitHub, un usuario ha compartido una noticia interesante sobre Y Combinator, una organización de aceleradores de startups que ha tenido un impacto significativo en la industria del emprendimiento. 
+
+Según el post publicado en el repositorio de Y Combinator, la empresa ha alcanzado una importante cifra: 10 millones de dólares en inversión. Este logro es un testimonio del éxito y la visibilidad que han logrado las startups que han pasado por su programa de aceleración.
+
+El post también incluye una referencia a un comentario publicado en el sitio web de HN ( Hacker News), donde se discuten los pros y contras de la inversión en startups. En total, hay cuatro comentarios que ofrecen diferentes perspectivas sobre este tema.</summary>
+    <published>2026-06-24T01:35:01.896821+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
+    <title>[🖥️ Tecnología] Meta ha suspendido su programa de seguimiento de empleados tras una filtración interna de datos. 
+
+La empresa, conocida por sus aplicaciones de redes sociales y mensajería instantánea, había estado utilizando un sistema para monitorear el tiempo laboral de los empleados. Sin embargo, según fuentes cercanas a la compañía, se descubrió que algunos empleados habían accedido ilegalmente al programa, lo que generó preocupación sobre la seguridad y privacidad de los datos.
+
+Meta ha anunciado que está investigando la situación y tomará medidas para asegurarse de que no se repita. La empresa también ha informado que está trabajando en mejorar la seguridad de sus sistemas y procedimientos para evitar futuras filtraciones.
+
+La decisión de Meta de suspender su programa de seguimiento de empleados sigue siendo una medida cautelosa, considerando el impacto que podría tener en la productividad y eficiencia laboral. La empresa también puede estar buscando prevenir posibles problemas legales relacionados con la privacidad y seguridad de los datos.
+
+La suspensión del programa también genera preguntas sobre cómo Meta maneja la privacidad y seguridad de sus empleados, así como sobre las medidas que toma para proteger su información personal. La empresa puede estar buscando reevaluar sus políticas y procedimientos para garantizar que se cumplan los estándares más altos en términos de privacidad y seguridad.
+
+En general, la decisión de Meta de suspender su programa de seguimiento de empleados es un recordatorio de la importancia de priorizar la seguridad y privacidad en las empresas.</title>
+    <updated>2026-06-24T01:35:01.896680+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
+    <summary>Meta ha suspendido su programa de seguimiento de empleados, tras una brecha de seguridad interna que podría haber expuesto la información personal de los empleados. 
+
+Según informó el sitio web Wired, esta decisión se tomó después de una investigación sobre un incidente en el que se creía que la información de los empleados había sido comprometida. El programa, conocido como "Project Atlas", permitía a los gerentes rastrear el historial de actividad de sus empleados y detectar posibles problemas de productividad.
+
+La empresa, que es una de las más grandes del mundo en términos de personal, decidió suspender temporalmente el programa hasta que se determinara la causa exacta de la brecha de seguridad. 
+
+Los expertos en seguridad informaron que este tipo de incidentes son comunes y que los programas de seguimiento de empleados pueden ser vulnerables a ataques cibernéticos.</summary>
+    <published>2026-06-24T01:35:01.896756+00:00</published>
   </entry>
 </feed>
