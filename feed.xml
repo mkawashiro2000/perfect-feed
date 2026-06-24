@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <id>https://tu-usuario.github.io/tu-repo</id>
+  <title>Perfect Feed — Noticias en Español</title>
+  <updated>2026-06-24T01:02:37.093766+00:00</updated>
+  <author>
+    <name>kawashiroserver</name>
+    <email>server@kawashiroserver.local</email>
+  </author>
+  <link href="https://tu-usuario.github.io/tu-repo" rel="alternate"/>
+  <link href="https://tu-usuario.github.io/tu-repo/feed.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Pipeline automatizado de noticias tecnológicas y financieras traducidas al español.</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html</id>
+    <title>[📈 Economía] Alphabet added to Dow Jones Industrial Average, replacing Verizon</title>
+    <updated>2026-06-24T01:02:37.094861+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html"/>
+    <summary>Alphabet will replace Verizon in the Dow Jones Industrial Average.</summary>
+    <published>2026-06-24T01:02:37.094892+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html</id>
+    <title>[📈 Economía] SpaceX raises $25 billion in debt sale less than two weeks after IPO</title>
+    <updated>2026-06-24T01:02:37.094824+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html"/>
+    <summary>SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.</summary>
+    <published>2026-06-24T01:02:37.094855+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
+    <title>[📈 Economía] Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO</title>
+    <updated>2026-06-24T01:02:37.094784+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
+    <summary>Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.</summary>
+    <published>2026-06-24T01:02:37.094817+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
+    <title>[📊 Data Science] 5 Essential Approaches to Robust Outlier Detection</title>
+    <updated>2026-06-24T01:02:37.094744+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
+    <summary>Outliers can easily ruin the performance of any predictive analysis models you build: robustly detecting and handling them is crucial in any data project. This article lists and compares five essential approaches for detecting them.</summary>
+    <published>2026-06-24T01:02:37.094774+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
+    <title>[📊 Data Science] Here’s Why WebMCP is Exciting</title>
+    <updated>2026-06-24T01:02:37.094707+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
+    <summary>WebMCP is an open web standard that lets websites expose structured, callable tools directly to browser-based agents. Find out what makes it exciting.</summary>
+    <published>2026-06-24T01:02:37.094738+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
+    <title>[📊 Data Science] The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code</title>
+    <updated>2026-06-24T01:02:37.094671+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
+    <summary>This article breaks down each essential math discipline, explains its role in data science, and maps out an efficient learning path you can start today.</summary>
+    <published>2026-06-24T01:02:37.094701+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
+    <title>[📊 Data Science] Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG</title>
+    <updated>2026-06-24T01:02:37.094635+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
+    <summary>Enterprise Document Intelligence [Vol.1 #7A] - Stop searching strings. Filter line_df and toc_df. Pick anchors small, expand context large 
+ The post  Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-24T01:02:37.094664+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
+    <title>[📊 Data Science] I Spent an Hour on a Data Preprocessing Task Before Asking Gemini</title>
+    <updated>2026-06-24T01:02:37.094597+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
+    <summary>How Gemini solved my Pandas problem in seconds, and why data science fundamentals still matter to spot suboptimal solutions 
+ The post  I Spent an Hour on a Data Preprocessing Task Before Asking Gemini  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-24T01:02:37.094628+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
+    <title>[📊 Data Science] How to Create Powerful Loops in Claude Code</title>
+    <updated>2026-06-24T01:02:37.094558+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
+    <summary>Learn about the concept of loops to power your coding agents.  
+ The post  How to Create Powerful Loops in Claude Code  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-24T01:02:37.094591+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[🏎️ Fórmula 1] FIA confirms 2027 F1 power unit changes</title>
+    <updated>2026-06-24T01:02:37.094508+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>The FIA has formally greenlit F1's move towards a 60/40 power unit split over the next two years, as it makes two key safety changes for 2026. Earlier this year, the FIA had banned drivers from using Boost Mode in wet conditions following driver feedback that the huge increase in torque would present a safety risk, with the 2026 cars already challenging to drive in the wet without the huge ...</summary>
+    <published>2026-06-24T01:02:37.094546+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[🏎️ Fórmula 1] From simulator to stopwatch: The creative evidence teams have used to dispute F1 race results</title>
+    <updated>2026-06-24T01:02:37.094469+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Formula 1 teams have the power to appeal penalties imposed by the stewards over a race weekend. But to do so, they must present new evidence that hasn’t yet been seen before by F1’s law enforcement. As a result, teams have investigated every avenue of the series to uncover new, creative and clever evidence that they believe could help them attempt to overturn a racing result. Read ...</summary>
+    <published>2026-06-24T01:02:37.094500+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[🏎️ Fórmula 1] Audi surprises rivals as it ran upgraded F1 engine at Barcelona GP after ADUO verdict</title>
+    <updated>2026-06-24T01:02:37.094428+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Audi introduced a new Formula 1 power unit as early as the Barcelona Grand Prix, after the FIA communicated the results of the first ADUO period. The Additional Development and Upgrade Opportunities mechanism allows engine providers who lack power to introduce extra updates, and the first review took place following the Canadian GP, with the FIA releasing the results to the manufacturers in ...</summary>
+    <published>2026-06-24T01:02:37.094463+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28730</id>
+    <title>[🏎️ Fórmula 1] F1MATHS - Key numbers behind Formula One's Net Zero targets</title>
+    <updated>2026-06-24T01:02:37.094388+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/28730"/>
+    <summary>Formula One has confirmed that it remains firmly on course to meet its Net Zero 2030 commitment, reporting a 35% reduction in its carbon footprint compared to the 2018 baseline.</summary>
+    <published>2026-06-24T01:02:37.094421+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28729</id>
+    <title>[🏎️ Fórmula 1] Red Bull set to introduce major upgrade package at Spielberg</title>
+    <updated>2026-06-24T01:02:37.094346+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/28729"/>
+    <summary>Red Bull will arrive at the Austrian Grand Prix with a significant upgrade package for the RB22 — but the team has already admitted that the new parts will not be enough to close the gap to Formula One’s current frontrunners.</summary>
+    <published>2026-06-24T01:02:37.094381+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28732</id>
+    <title>[🏎️ Fórmula 1] F1TECH: How has Ferrari upgraded its SF26 at Barcelona?</title>
+    <updated>2026-06-24T01:02:37.094302+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/28732"/>
+    <summary>Ferrari arrived at the Barcelona‑Catalunya Grand Prix with one of its most substantial development packages of the season, unveiling a heavily revised SF‑26 that features changes across the front wing, nose, floor, diffuser and sidepods.</summary>
+    <published>2026-06-24T01:02:37.094339+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
+    <title>[🖥️ Tecnología] Superhuman acquires AI detection startup GPTZero</title>
+    <updated>2026-06-24T01:02:37.094257+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
+    <summary>Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.</summary>
+    <published>2026-06-24T01:02:37.094292+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
+    <title>[🖥️ Tecnología] India’s MoEngage bets that the future of marketing is millions of AI agents</title>
+    <updated>2026-06-24T01:02:37.094212+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
+    <summary>The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.</summary>
+    <published>2026-06-24T01:02:37.094250+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
+    <title>[🖥️ Tecnología] Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India</title>
+    <updated>2026-06-24T01:02:37.094170+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
+    <summary>Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.</summary>
+    <published>2026-06-24T01:02:37.094204+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.the3dprintingnerd.com/ab2047</id>
+    <title>[🖥️ Tecnología] California AB 2047 makes 3D printers off-limits to students, educators, business</title>
+    <updated>2026-06-24T01:02:37.094120+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://www.the3dprintingnerd.com/ab2047"/>
+    <summary>Article URL:  https://www.the3dprintingnerd.com/ab2047 
+ Comments URL:  https://news.ycombinator.com/item?id=48652184 
+ Points: 216 
+ # Comments: 143</summary>
+    <published>2026-06-24T01:02:37.094163+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/</id>
+    <title>[🖥️ Tecnología] Extreme Heat conference cancelled due to extreme heat warning</title>
+    <updated>2026-06-24T01:02:37.094020+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/"/>
+    <summary>Article URL:  https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ 
+ Comments URL:  https://news.ycombinator.com/item?id=48653060 
+ Points: 89 
+ # Comments: 15</summary>
+    <published>2026-06-24T01:02:37.094102+00:00</published>
+  </entry>
+  <entry>
+    <id>https://words.filippo.io/vuln-reports/</id>
+    <title>[🖥️ Tecnología] Vulnerability reports are not special anymore</title>
+    <updated>2026-06-24T01:02:37.093831+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://words.filippo.io/vuln-reports/"/>
+    <summary>Article URL:  https://words.filippo.io/vuln-reports/ 
+ Comments URL:  https://news.ycombinator.com/item?id=48653216 
+ Points: 21 
+ # Comments: 0</summary>
+    <published>2026-06-24T01:02:37.093982+00:00</published>
+  </entry>
+</feed>
