@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-24T02:42:51.044231+00:00</updated>
+  <updated>2026-06-24T03:22:00.304474+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -12,234 +12,234 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html</id>
-    <title>[Economía] Propietario de VIX se lanza a mercados de predicción para aprovechar el crecimiento de opciones cero días</title>
-    <updated>2026-06-24T02:42:51.045470+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html"/>
-    <summary>El operador de mercados globales Cboe ha lanzado sus primeros productos de mercados de predicción para satisfacer la demanda del consumidor en el sector en constante crecimiento. Estos productos buscan aprovechar las tendencias actuales en el mercado de las apuestas. Cboe busca expandir su oferta y atraer a nuevos clientes.</summary>
-    <published>2026-06-24T02:42:51.045515+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
-    <title>[Economía] Cerebras cae un 10% tras pronósticos del fabricante de chips sobre margen disminuido</title>
-    <updated>2026-06-24T02:42:51.045416+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
-    <summary>La cerebra se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una empresa de tecnología de inteligencia artificial puro. La empresa se convirtió en la primera del sector en ir al mercado. Su cotización permitió a inversores adquirir acciones de una compañía especializada en inteligencia artificial.</summary>
-    <published>2026-06-24T02:42:51.045461+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html</id>
     <title>[Economía] Las acciones de tecnología asiáticas se recuperan después del reciente desplome global</title>
-    <updated>2026-06-24T02:42:51.045363+00:00</updated>
+    <updated>2026-06-24T03:22:00.305243+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
     <link href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html"/>
     <summary>Las acciones tecnológicas de Asia se recuperaron el miércoles después que las acciones globales sufrieron pérdidas significativas en la sesión anterior. Las acciones tecnológicas de Asia se recuperaron el miércoles después de que las acciones globales sufrieran una caída importante en la sesión anterior. La recuperación fue impulsada por los inversores, quienes esperaban un ajuste en las acciones tecnológicas.</summary>
-    <published>2026-06-24T02:42:51.045407+00:00</published>
+    <published>2026-06-24T03:22:00.305271+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
-    <title>[Data Science] 5 Enfoques esenciales para detectar robustos outliers en datos estadísticos y de análisis.</title>
-    <updated>2026-06-24T02:42:51.045309+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
+    <title>[Economía] Cerebras cae un 10% tras pronósticos del fabricante de chips sobre margen disminuido</title>
+    <updated>2026-06-24T03:22:00.305212+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
-    <summary>Los outliers pueden fácilmente dañar la rendición de cuentas de cualquier modelo de análisis predictivo que construyes: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo enumera y compara cinco enfoques esenciales para detectarlos.</summary>
-    <published>2026-06-24T02:42:51.045353+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
+    <summary>La cerebra se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una empresa de tecnología de inteligencia artificial puro. La empresa se convirtió en la primera del sector en ir al mercado. Su cotización permitió a inversores adquirir acciones de una compañía especializada en inteligencia artificial.</summary>
+    <published>2026-06-24T03:22:00.305238+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
-    <title>[Data Science] WebMCP es emocionante por varias razones importantes en el mundo de la tecnología</title>
-    <updated>2026-06-24T02:42:51.045256+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html</id>
+    <title>[Economía] Propietario de VIX se lanza a mercados de predicción para aprovechar el crecimiento de opciones cero días</title>
+    <updated>2026-06-24T03:22:00.305180+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
-    <summary>El WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante. El WebMCP ofrece una forma de interactuar con las páginas web de manera más dinámica y eficiente.</summary>
-    <published>2026-06-24T02:42:51.045300+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
-    <title>[Data Science] Las habilidades matemáticas que cada científico de datos apasionado debe dominar antes escribir un solo código</title>
-    <updated>2026-06-24T02:42:51.045203+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
-    <summary>Esta artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.   La ciencia de datos se basa en varias disciplinas matemáticas fundamentales. Estas disciplinas son: estadística, álgebra lineal, probabilidad y teoría de números.  Para empezar a aprender estas disciplinas, es recomendable comenzar con conceptos básicos como variables aleatorias, distribuciones de probabilidad y ecuaciones lineales.</summary>
-    <published>2026-06-24T02:42:51.045248+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
-    <title>[Data Science] Revisión no filtra, busca: un modelo mental para la gestión de RAG en empresas.</title>
-    <updated>2026-06-24T02:42:51.045150+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
-    <summary>La inteligencia de documentos de la empresa [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar puntos pequeños, ampliar el contexto grande.  Resumen: La búsqueda no es filtrado, sino una mentalidad para RAG en entornos empresariales. El artículo se centra en optimizar la búsqueda de documentos.</summary>
-    <published>2026-06-24T02:42:51.045195+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
-    <title>[Data Science] Pasé una hora haciendo tareas de preprocesamiento de datos antes de preguntar a Gemini</title>
-    <updated>2026-06-24T02:42:51.045096+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo importantes para detectar soluciones suboptimas.   Un post en el que pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini.</summary>
-    <published>2026-06-24T02:42:51.045141+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html"/>
+    <summary>El operador de mercados globales Cboe ha lanzado sus primeros productos de mercados de predicción para satisfacer la demanda del consumidor en el sector en constante crecimiento. Estos productos buscan aprovechar las tendencias actuales en el mercado de las apuestas. Cboe busca expandir su oferta y atraer a nuevos clientes.</summary>
+    <published>2026-06-24T03:22:00.305207+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
     <title>[Data Science] Cómo crear bucles poderosos en código de Claude</title>
-    <updated>2026-06-24T02:42:51.045042+00:00</updated>
+    <updated>2026-06-24T03:22:00.305146+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
     <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
     <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación.  El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science.   Los bucles son una herramienta fundamental en la programación, permitiendo que los programas se repitan y se ejecuten de manera automática.</summary>
-    <published>2026-06-24T02:42:51.045088+00:00</published>
+    <published>2026-06-24T03:22:00.305173+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] La FIA confirma cambios en la unidad de potencia del F1 para el año 2027</title>
-    <updated>2026-06-24T02:42:51.044986+00:00</updated>
+    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
+    <title>[Data Science] Pasé una hora haciendo tareas de preprocesamiento de datos antes de preguntar a Gemini</title>
+    <updated>2026-06-24T03:22:00.305115+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La FIA ha formalmente aprobado el movimiento de F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios de seguridad clave para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, debido a la retroalimentación de los conductores, quienes consideraban que el gran aumento de torque representaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin este enorme ...</summary>
-    <published>2026-06-24T02:42:51.045032+00:00</published>
+    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
+    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo importantes para detectar soluciones suboptimas.   Un post en el que pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini.</summary>
+    <published>2026-06-24T03:22:00.305142+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Los equipos de evidencia creativa utilizan simuladores para desafiar los resultados de las carreras de F1</title>
-    <updated>2026-06-24T02:42:51.044933+00:00</updated>
+    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
+    <title>[Data Science] Revisión no filtra, busca: un modelo mental para la gestión de RAG en empresas.</title>
+    <updated>2026-06-24T03:22:00.305084+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Los equipos de la Fórmula 1 tienen el poder de apelar las penalidades impuestas por los stewardes durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía de la F1. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
-    <published>2026-06-24T02:42:51.044976+00:00</published>
+    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
+    <summary>La inteligencia de documentos de la empresa [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar puntos pequeños, ampliar el contexto grande.  Resumen: La búsqueda no es filtrado, sino una mentalidad para RAG en entornos empresariales. El artículo se centra en optimizar la búsqueda de documentos.</summary>
+    <published>2026-06-24T03:22:00.305110+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Audi sorprende a sus rivales con un motor de F1 mejorado en el GP de Barcelona</title>
-    <updated>2026-06-24T02:42:51.044880+00:00</updated>
+    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
+    <title>[Data Science] Las habilidades matemáticas que cada científico de datos apasionado debe dominar antes escribir un solo código</title>
+    <updated>2026-06-24T03:22:00.305053+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales y actualizaciones permite a los proveedores de motores introducir actualizaciones adicionales cuando carezcan de potencia. La primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA divulgando los resultados para las fabricantes en ...</summary>
-    <published>2026-06-24T02:42:51.044925+00:00</published>
+    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
+    <summary>Esta artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.   La ciencia de datos se basa en varias disciplinas matemáticas fundamentales. Estas disciplinas son: estadística, álgebra lineal, probabilidad y teoría de números.  Para empezar a aprender estas disciplinas, es recomendable comenzar con conceptos básicos como variables aleatorias, distribuciones de probabilidad y ecuaciones lineales.</summary>
+    <published>2026-06-24T03:22:00.305079+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28729</id>
-    <title>[Fórmula 1] Red Bull lanza paquete de actualización importante en el Circuito de Spielberg</title>
-    <updated>2026-06-24T02:42:51.044825+00:00</updated>
+    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
+    <title>[Data Science] WebMCP es emocionante por varias razones importantes en el mundo de la tecnología</title>
+    <updated>2026-06-24T03:22:00.305020+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/28729"/>
-    <summary>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escudería ya ha admitido que los nuevos componentes no serán suficientes para cerrar la brecha con los líderes actuales de la Fórmula 1.</summary>
-    <published>2026-06-24T02:42:51.044871+00:00</published>
+    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
+    <summary>El WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante. El WebMCP ofrece una forma de interactuar con las páginas web de manera más dinámica y eficiente.</summary>
+    <published>2026-06-24T03:22:00.305047+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28732</id>
-    <title>[Fórmula 1] Ferrari mejora su SF26 en pruebas de F1 en el circuito de Barcelona.</title>
-    <updated>2026-06-24T02:42:51.044770+00:00</updated>
+    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
+    <title>[Data Science] 5 Enfoques esenciales para detectar robustos outliers en datos estadísticos y de análisis.</title>
+    <updated>2026-06-24T03:22:00.304988+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/28732"/>
-    <summary>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una revisión significativa del SF-26 que incluye cambios en el ala delantera, morro, piso, difusor y asideros. La fórmula 1 ha visto un aumento en las velocidades de los coches. Ferrari busca mejorar su rendimiento en la pista catalana.</summary>
-    <published>2026-06-24T02:42:51.044816+00:00</published>
+    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
+    <summary>Los outliers pueden fácilmente dañar la rendición de cuentas de cualquier modelo de análisis predictivo que construyes: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo enumera y compara cinco enfoques esenciales para detectarlos.</summary>
+    <published>2026-06-24T03:22:00.305016+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/28734</id>
     <title>[Fórmula 1] Formula E presenta un nuevo calendario para 2027 con cambios significativos en la serie.</title>
-    <updated>2026-06-24T02:42:51.044714+00:00</updated>
+    <updated>2026-06-24T03:22:00.304954+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
     <link href="https://www.f1technical.net/news/28734"/>
     <summary>La Fórmula E ha presentado el calendario provisional para la temporada 2026-27 de la ABB FIA Fórmula E Mundial, confirmando la temporada más extensa en la historia de la serie y marcando el comienzo de la era GEN4 de alta rendimiento.</summary>
-    <published>2026-06-24T02:42:51.044761+00:00</published>
+    <published>2026-06-24T03:22:00.304981+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
-    <title>[Tecnología] Superhuman compra startup de detección de inteligencia artificial GPTZero</title>
-    <updated>2026-06-24T02:42:51.044655+00:00</updated>
+    <id>https://www.f1technical.net/news/28732</id>
+    <title>[Fórmula 1] Ferrari mejora su SF26 en pruebas de F1 en el circuito de Barcelona.</title>
+    <updated>2026-06-24T03:22:00.304922+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
-    <summary>Superhuman ha adquirido a GPTZero, una herramienta que también incluye un detector de inteligencia artificial como parte de Grammarly.</summary>
-    <published>2026-06-24T02:42:51.044702+00:00</published>
+    <link href="https://www.f1technical.net/news/28732"/>
+    <summary>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una revisión significativa del SF-26 que incluye cambios en el ala delantera, morro, piso, difusor y asideros. La fórmula 1 ha visto un aumento en las velocidades de los coches. Ferrari busca mejorar su rendimiento en la pista catalana.</summary>
+    <published>2026-06-24T03:22:00.304948+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
-    <title>[Tecnología] La India's MoEngage apostilla que el futuro de la publicidad está en millones de agentes de inteligencia artificial</title>
-    <updated>2026-06-24T02:42:51.044595+00:00</updated>
+    <id>https://www.f1technical.net/news/28729</id>
+    <title>[Fórmula 1] Red Bull lanza paquete de actualización importante en el Circuito de Spielberg</title>
+    <updated>2026-06-24T03:22:00.304890+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
-    <summary>El acuerdo a efectivo proporciona a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial a los clientes individuales.</summary>
-    <published>2026-06-24T02:42:51.044646+00:00</published>
+    <link href="https://www.f1technical.net/news/28729"/>
+    <summary>Red Bull llegará al Gran Premio de Austria con un paquete de actualizaciones significativas para el RB22, pero la escudería ya ha admitido que los nuevos componentes no serán suficientes para cerrar la brecha con los líderes actuales de la Fórmula 1.</summary>
+    <published>2026-06-24T03:22:00.304917+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
-    <title>[Tecnología] Flipkart amplía su estrategia de comercio rápido mientras Amazon aumenta su presencia en India.</title>
-    <updated>2026-06-24T02:42:51.044535+00:00</updated>
+    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Audi sorprende a sus rivales con un motor de F1 mejorado en el GP de Barcelona</title>
+    <updated>2026-06-24T03:22:00.304859+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
-    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su empuje en el comercio rápido en la India. Flipkart, respaldado por Walmart, ha alcanzado más de 1.000 centros de micro-fulfillment. Amazon está acelerando su presencia en el mercado de comercio rápido en la India.</summary>
-    <published>2026-06-24T02:42:51.044585+00:00</published>
+    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>La Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales y actualizaciones permite a los proveedores de motores introducir actualizaciones adicionales cuando carezcan de potencia. La primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA divulgando los resultados para las fabricantes en ...</summary>
+    <published>2026-06-24T03:22:00.304886+00:00</published>
   </entry>
   <entry>
-    <id>https://words.filippo.io/vuln-reports/</id>
-    <title>[Tecnología] Informes de vulnerabilidad ya no son especiales para las empresas y organizaciones.</title>
-    <updated>2026-06-24T02:42:51.044473+00:00</updated>
+    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Los equipos de evidencia creativa utilizan simuladores para desafiar los resultados de las carreras de F1</title>
+    <updated>2026-06-24T03:22:00.304827+00:00</updated>
     <author>
-      <name>Hacker News: Front Page</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://words.filippo.io/vuln-reports/"/>
-    <summary>Se ha publicado un informe de vulnerabilidad en el sitio web Filippo, que alerta sobre posibles problemas de seguridad. El artículo se encuentra disponible en el sitio web Words y ha generado 22 comentarios en Hacker News. La votación del artículo es de 93 puntos.</summary>
-    <published>2026-06-24T02:42:51.044525+00:00</published>
+    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Los equipos de la Fórmula 1 tienen el poder de apelar las penalidades impuestas por los stewardes durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía de la F1. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
+    <published>2026-06-24T03:22:00.304854+00:00</published>
   </entry>
   <entry>
-    <id>https://github.com/y-times-y/y</id>
-    <title>[Tecnología] Aplicación de escritorio flexible construida con Electron para código personalizado</title>
-    <updated>2026-06-24T02:42:51.044387+00:00</updated>
+    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] La FIA confirma cambios en la unidad de potencia del F1 para el año 2027</title>
+    <updated>2026-06-24T03:22:00.304794+00:00</updated>
     <author>
-      <name>Hacker News: Front Page</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://github.com/y-times-y/y"/>
-    <summary>El artículo se encuentra en GitHub y está relacionado con Y Combinio, una incubadora de startups. Un usuario ha compartido un comentario sobre el mismo en la página de noticias de HN (Hacker News). El artículo tiene 18 puntos y 10 comentarios.</summary>
-    <published>2026-06-24T02:42:51.044460+00:00</published>
+    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>La FIA ha formalmente aprobado el movimiento de F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios de seguridad clave para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, debido a la retroalimentación de los conductores, quienes consideraban que el gran aumento de torque representaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin este enorme ...</summary>
+    <published>2026-06-24T03:22:00.304821+00:00</published>
   </entry>
   <entry>
     <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
     <title>[Tecnología] Meta detiene programa de seguimiento de empleados tras revelación de un data leak interno.</title>
-    <updated>2026-06-24T02:42:51.044264+00:00</updated>
+    <updated>2026-06-24T03:22:00.304761+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
     <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
     <summary>Meta ha suspendido su programa de seguimiento de empleados debido a una violación de seguridad interna. La empresa no proporcionó detalles sobre la naturaleza del incidente, pero afirmó que está trabajando para "mejorar la seguridad" de sus sistemas. Meta es la primera vez que la compañía ha detenido el uso de su programa de seguimiento de empleados.</summary>
-    <published>2026-06-24T02:42:51.044368+00:00</published>
+    <published>2026-06-24T03:22:00.304787+00:00</published>
+  </entry>
+  <entry>
+    <id>https://github.com/y-times-y/y</id>
+    <title>[Tecnología] Aplicación de escritorio flexible construida con Electron para código personalizado</title>
+    <updated>2026-06-24T03:22:00.304726+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://github.com/y-times-y/y"/>
+    <summary>El artículo se encuentra en GitHub y está relacionado con Y Combinio, una incubadora de startups. Un usuario ha compartido un comentario sobre el mismo en la página de noticias de HN (Hacker News). El artículo tiene 18 puntos y 10 comentarios.</summary>
+    <published>2026-06-24T03:22:00.304755+00:00</published>
+  </entry>
+  <entry>
+    <id>https://words.filippo.io/vuln-reports/</id>
+    <title>[Tecnología] Informes de vulnerabilidad ya no son especiales para las empresas y organizaciones.</title>
+    <updated>2026-06-24T03:22:00.304692+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://words.filippo.io/vuln-reports/"/>
+    <summary>Se ha publicado un informe de vulnerabilidad en el sitio web Filippo, que alerta sobre posibles problemas de seguridad. El artículo se encuentra disponible en el sitio web Words y ha generado 22 comentarios en Hacker News. La votación del artículo es de 93 puntos.</summary>
+    <published>2026-06-24T03:22:00.304720+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
+    <title>[Tecnología] Flipkart amplía su estrategia de comercio rápido mientras Amazon aumenta su presencia en India.</title>
+    <updated>2026-06-24T03:22:00.304653+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
+    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su empuje en el comercio rápido en la India. Flipkart, respaldado por Walmart, ha alcanzado más de 1.000 centros de micro-fulfillment. Amazon está acelerando su presencia en el mercado de comercio rápido en la India.</summary>
+    <published>2026-06-24T03:22:00.304686+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
+    <title>[Tecnología] La India's MoEngage apostilla que el futuro de la publicidad está en millones de agentes de inteligencia artificial</title>
+    <updated>2026-06-24T03:22:00.304599+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
+    <summary>El acuerdo a efectivo proporciona a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial a los clientes individuales.</summary>
+    <published>2026-06-24T03:22:00.304644+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
+    <title>[Tecnología] Superhuman compra startup de detección de inteligencia artificial GPTZero</title>
+    <updated>2026-06-24T03:22:00.304508+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
+    <summary>Superhuman ha adquirido a GPTZero, una herramienta que también incluye un detector de inteligencia artificial como parte de Grammarly.</summary>
+    <published>2026-06-24T03:22:00.304583+00:00</published>
   </entry>
 </feed>
