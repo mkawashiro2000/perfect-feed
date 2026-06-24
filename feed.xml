@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-24T03:50:17.327175+00:00</updated>
+  <updated>2026-06-24T13:03:11.544273+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -12,234 +12,234 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html</id>
-    <title>[Economía] Acciones de tecnología en Asia se mueven con contrariedad después del rebote de Samsung</title>
-    <updated>2026-06-24T03:50:17.328608+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html</id>
+    <title>[Economía] El nuevo pickup eléctrico de Slate Auto se espera ser rentable a finales del año</title>
+    <updated>2026-06-24T13:03:11.545009+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html"/>
-    <summary>Las acciones tecnológicas de Asia se estabilizaron una recuperación anterior para comerciar de manera mixta el miércoles, después que las acciones globales sufrieron pérdidas significativas en la sesión anterior. Las acciones tecnológicas de Asia se estabilizaron una recuperación anterior para comerciar de manera mixta el miércoles. Las acciones tecnológicas de Asia se mantuvieron estables tras una recuperación inicial, mientras que las acciones globales sufrieron pérdidas significativas en la sesión anterior.</summary>
-    <published>2026-06-24T03:50:17.328655+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html"/>
+    <summary>El CEO de EV startup Slate Auto, Peter Faricy, declaró a CNBC que cada vehículo producido por la empresa será con un margen bruto positivo.</summary>
+    <published>2026-06-24T13:03:11.545035+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html</id>
-    <title>[Economía] Tres demócratas de Nueva York apoyados por Mamdani ganan la elección primaria del escaño en la Cámara</title>
-    <updated>2026-06-24T03:50:17.328550+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html</id>
+    <title>[Economía] El secretario del Tesoro Bessent afirma que el crecimiento del PIB estadounidense puede alcanzar 3%</title>
+    <updated>2026-06-24T13:03:11.544976+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html"/>
-    <summary>Dos candidatos apoyados por la Socialista Democrática de América ganaron sus primarias, un año después que el candidato apoyado por la SDA, Zohran Mamdani, ganara la carrera al alcalde de Nueva York.   La victoria de estos dos candidatos se produce en una elección primaria.</summary>
-    <published>2026-06-24T03:50:17.328599+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html"/>
+    <summary>Bessent considera que su plan de "3-3-3" sigue dentro del alcance — un crecimiento del 3%, una tasa de déficit del 3% con respecto al PIB y un aumento de la producción de petróleo en 3 millones de barriles por día.</summary>
+    <published>2026-06-24T13:03:11.545004+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html</id>
-    <title>[Economía] Cerebras cae un 10% tras pronósticos del fabricante de chips sobre margen disminuido</title>
-    <updated>2026-06-24T03:50:17.328491+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html</id>
+    <title>[Economía] Trump afirma Irán ha asegurado que no habrá impuestos en el Estrecho de Hormoz</title>
+    <updated>2026-06-24T13:03:11.544945+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"/>
-    <summary>La cerebra se cotizó en la Nasdaq en mayo, brindando a Wall Street acceso a una empresa de tecnología de inteligencia artificial puro. La empresa se convirtió en la primera del sector en ir al mercado. Su cotización permitió a inversores adquirir acciones de una compañía especializada en inteligencia artificial.</summary>
-    <published>2026-06-24T03:50:17.328541+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
-    <title>[Data Science] Cómo crear bucles poderosos en código de Claude</title>
-    <updated>2026-06-24T03:50:17.328433+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
-    <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación.  El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science.   Los bucles son una herramienta fundamental en la programación, permitiendo que los programas se repitan y se ejecuten de manera automática.</summary>
-    <published>2026-06-24T03:50:17.328480+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
-    <title>[Data Science] Pasé una hora haciendo tareas de preprocesamiento de datos antes de preguntar a Gemini</title>
-    <updated>2026-06-24T03:50:17.328377+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo importantes para detectar soluciones suboptimas.   Un post en el que pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini.</summary>
-    <published>2026-06-24T03:50:17.328424+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/</id>
-    <title>[Data Science] Revisión no filtra, busca: un modelo mental para la gestión de RAG en empresas.</title>
-    <updated>2026-06-24T03:50:17.328320+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
-    <summary>La inteligencia de documentos de la empresa [Vol.1 #7A] - Detener la búsqueda de cadenas. Filtrar line_df y toc_df. Seleccionar puntos pequeños, ampliar el contexto grande.  Resumen: La búsqueda no es filtrado, sino una mentalidad para RAG en entornos empresariales. El artículo se centra en optimizar la búsqueda de documentos.</summary>
-    <published>2026-06-24T03:50:17.328368+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
-    <title>[Data Science] Las habilidades matemáticas que cada científico de datos apasionado debe dominar antes escribir un solo código</title>
-    <updated>2026-06-24T03:50:17.328260+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
-    <summary>Esta artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.   La ciencia de datos se basa en varias disciplinas matemáticas fundamentales. Estas disciplinas son: estadística, álgebra lineal, probabilidad y teoría de números.  Para empezar a aprender estas disciplinas, es recomendable comenzar con conceptos básicos como variables aleatorias, distribuciones de probabilidad y ecuaciones lineales.</summary>
-    <published>2026-06-24T03:50:17.328311+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html"/>
+    <summary>No habrá peajes, costos de seguro ni cargos de ninguna especie para los barcos que deseen pasar por el Estrecho de Hormoz, dijo Trump.</summary>
+    <published>2026-06-24T13:03:11.544971+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
     <title>[Data Science] WebMCP es emocionante por varias razones importantes en el mundo de la tecnología</title>
-    <updated>2026-06-24T03:50:17.328201+00:00</updated>
+    <updated>2026-06-24T13:03:11.544914+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
     <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
     <summary>El WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante. El WebMCP ofrece una forma de interactuar con las páginas web de manera más dinámica y eficiente.</summary>
-    <published>2026-06-24T03:50:17.328250+00:00</published>
+    <published>2026-06-24T13:03:11.544939+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection</id>
-    <title>[Data Science] 5 Enfoques esenciales para detectar robustos outliers en datos estadísticos y de análisis.</title>
-    <updated>2026-06-24T03:50:17.328139+00:00</updated>
+    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
+    <title>[Data Science] Las habilidades matemáticas que cada científico de datos apasionado debe dominar antes escribir un solo código</title>
+    <updated>2026-06-24T13:03:11.544885+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection"/>
-    <summary>Los outliers pueden fácilmente dañar la rendición de cuentas de cualquier modelo de análisis predictivo que construyes: detectarlos y manejarlos de manera robusta es fundamental en cualquier proyecto de datos. Este artículo enumera y compara cinco enfoques esenciales para detectarlos.</summary>
-    <published>2026-06-24T03:50:17.328191+00:00</published>
+    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
+    <summary>Esta artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.   La ciencia de datos se basa en varias disciplinas matemáticas fundamentales. Estas disciplinas son: estadística, álgebra lineal, probabilidad y teoría de números.  Para empezar a aprender estas disciplinas, es recomendable comenzar con conceptos básicos como variables aleatorias, distribuciones de probabilidad y ecuaciones lineales.</summary>
+    <published>2026-06-24T13:03:11.544910+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28733</id>
-    <title>[Fórmula 1] Hamilton supera a Sainz y Ocon en las 43 puntos clave para el título de F1</title>
-    <updated>2026-06-24T03:50:17.328073+00:00</updated>
+    <id>https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026</id>
+    <title>[Data Science] Seis modelos de codificación que se pueden ejecutar localmente en el próximo año.</title>
+    <updated>2026-06-24T13:03:11.544855+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/28733"/>
-    <summary>En el acto de seguir las huellas de su victoria inaugural en la pista de Ferrari en el Gran Premio de Barcelona-Catalunya, el campeón siete veces del F1 Lewis Hamilton se encuentra con gran entusiasmo para este fin de semana's Gran Premio de Austria, con la esperanza de poder confirmar su reciente rendimiento.</summary>
-    <published>2026-06-24T03:50:17.328125+00:00</published>
+    <link href="https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026"/>
+    <summary>Explora los mejores modelos de codificación locales para inteligencia artificial privada, inferencia rápida de GGUF, flujos de trabajo agentes, desarrollo multimodal y ejecutar modelos abiertos potentes en tu propio GPU.   Los modelos de codificación locales como TensorFlow, PyTorch y JAX son populares opciones para desarrollar aplicaciones de inteligencia artificial privada. Estas bibliotecas ofrecen herramientas para la inferencia rápida de GGUF y permiten el desarrollo de flujos de trabajo agentes personalizados.  Para multimodalidad, se recomienda utilizar frameworks como TensorFlow Hub o PyTorch Lightning que permiten integrar diferentes tecnologías y modelos en un solo entorno. Además, los modelos abiertos como TensorFlow o PyTorch pueden ser ejecutados en tu propio GPU para aprovechar al máximo tus recursos.</summary>
+    <published>2026-06-24T13:03:11.544880+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28734</id>
-    <title>[Fórmula 1] Formula E presenta un nuevo calendario para 2027 con cambios significativos en la serie.</title>
-    <updated>2026-06-24T03:50:17.328013+00:00</updated>
+    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
+    <title>[Data Science] Pasé una hora haciendo tareas de preprocesamiento de datos antes de preguntar a Gemini</title>
+    <updated>2026-06-24T13:03:11.544825+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/28734"/>
-    <summary>La Fórmula E ha presentado el calendario provisional para la temporada 2026-27 de la ABB FIA Fórmula E Mundial, confirmando la temporada más extensa en la historia de la serie y marcando el comienzo de la era GEN4 de alta rendimiento.</summary>
-    <published>2026-06-24T03:50:17.328062+00:00</published>
+    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
+    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo importantes para detectar soluciones suboptimas.   Un post en el que pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini.</summary>
+    <published>2026-06-24T13:03:11.544850+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28732</id>
-    <title>[Fórmula 1] Ferrari mejora su SF26 en pruebas de F1 en el circuito de Barcelona.</title>
-    <updated>2026-06-24T03:50:17.327935+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
+    <title>[Data Science] Cómo crear bucles poderosos en código de Claude</title>
+    <updated>2026-06-24T13:03:11.544795+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/28732"/>
-    <summary>La Ferrari llegó al Gran Premio de Barcelona-Cataluña con uno de sus paquetes de desarrollo más sustanciales de la temporada, presentando una revisión significativa del SF-26 que incluye cambios en el ala delantera, morro, piso, difusor y asideros. La fórmula 1 ha visto un aumento en las velocidades de los coches. Ferrari busca mejorar su rendimiento en la pista catalana.</summary>
-    <published>2026-06-24T03:50:17.328002+00:00</published>
+    <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
+    <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación.  El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science.   Los bucles son una herramienta fundamental en la programación, permitiendo que los programas se repitan y se ejecuten de manera automática.</summary>
+    <published>2026-06-24T13:03:11.544820+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Audi sorprende a sus rivales con un motor de F1 mejorado en el GP de Barcelona</title>
-    <updated>2026-06-24T03:50:17.327833+00:00</updated>
+    <id>https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/</id>
+    <title>[Data Science] Descubren el ancla de RAG con detectores paralelos y una llamada al final a un modelo LLM</title>
+    <updated>2026-06-24T13:03:11.544763+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales y actualizaciones permite a los proveedores de motores introducir actualizaciones adicionales cuando carezcan de potencia. La primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA divulgando los resultados para las fabricantes en ...</summary>
-    <published>2026-06-24T03:50:17.327881+00:00</published>
+    <link href="https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/"/>
+    <summary>La inteligencia de documentos de Enterprise [Vol.1 #7B] - La recuperación es una filtración en tablas estructuradas: palabras primero, índice segundo, embeddings últimos.  El artículo "Detección de anclajes para RAG: Detectores paralelos, luego una llamada a un LLM al final" apareció primero en Towards Data Science.</summary>
+    <published>2026-06-24T13:03:11.544790+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
     <title>[Fórmula 1] Los equipos de evidencia creativa utilizan simuladores para desafiar los resultados de las carreras de F1</title>
-    <updated>2026-06-24T03:50:17.327772+00:00</updated>
+    <updated>2026-06-24T13:03:11.544730+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
     <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
     <summary>Los equipos de la Fórmula 1 tienen el poder de apelar las penalidades impuestas por los stewardes durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía de la F1. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
-    <published>2026-06-24T03:50:17.327822+00:00</published>
+    <published>2026-06-24T13:03:11.544756+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] La FIA confirma cambios en la unidad de potencia del F1 para el año 2027</title>
-    <updated>2026-06-24T03:50:17.327710+00:00</updated>
+    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Audi sorprende a sus rivales con un motor de F1 mejorado en el GP de Barcelona</title>
+    <updated>2026-06-24T13:03:11.544700+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La FIA ha formalmente aprobado el movimiento de F1 hacia una división de unidad de potencia de 60/40 en los próximos dos años, ya que hace dos cambios de seguridad clave para 2026. En este año anterior, la FIA había prohibido a los conductores utilizar el modo Boost en condiciones húmedas, debido a la retroalimentación de los conductores, quienes consideraban que el gran aumento de torque representaba un riesgo de seguridad, y las carreras de 2026 ya son desafiantes de conducir en las condiciones húmedas sin este enorme ...</summary>
-    <published>2026-06-24T03:50:17.327762+00:00</published>
+    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>La Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales y actualizaciones permite a los proveedores de motores introducir actualizaciones adicionales cuando carezcan de potencia. La primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA divulgando los resultados para las fabricantes en ...</summary>
+    <published>2026-06-24T13:03:11.544725+00:00</published>
   </entry>
   <entry>
-    <id>https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy</id>
-    <title>[Tecnología] Cómo la guerra contra el terrorismo preparó a Estados Unidos para una dictadura</title>
-    <updated>2026-06-24T03:50:17.327643+00:00</updated>
+    <id>https://www.autosport.com/f1/news/does-red-bulls-denial-that-racing-bulls-is-helping-it-on-track-stack-up/10832708/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Red Bull niega que Racing Bulls le ayude en la pista.</title>
+    <updated>2026-06-24T13:03:11.544670+00:00</updated>
     <author>
-      <name>Hacker News: Front Page</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy"/>
-    <summary>La guerra contra el terrorismo ha preparado a Estados Unidos para la autocracia, según un artículo de The Economist. La guerra ha creado una cultura de miedo y desconfianza que puede llevar al abandono de los valores democráticos. Esto se debe en parte a la creación de un estado de emergencia permanente y la concentración del poder en manos de un solo líder.</summary>
-    <published>2026-06-24T03:50:17.327695+00:00</published>
+    <link href="https://www.autosport.com/f1/news/does-red-bulls-denial-that-racing-bulls-is-helping-it-on-track-stack-up/10832708/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>El debate sobre la propiedad común en la Fórmula 1, a menudo vinculado a las dos escuadras de Red Bull, fue recientemente reavivado por el interés aparente de Mercedes y Toto Wolff por adquirir acciones en la equipo Alpine. Aunque ese interés nunca se materializó en un acuerdo, fue exactamente eso lo que motivó al CEO de McLaren, Zak Brown, a escribir una carta al presidente de la FIA, Mohammed Ben Sulayem, expresando sus preocupaciones.  El interés de Mercedes por adquirir acciones en Alpine nunca se concretó en un acuerdo.   Zak Brown expresó sus inquietudes ante el presidente de la FIA.</summary>
+    <published>2026-06-24T13:03:11.544696+00:00</published>
   </entry>
   <entry>
-    <id>https://github.com/End2End-Diffusion/diffusion-bench</id>
-    <title>[Tecnología] Evaluar transformadores de difusión generativos de manera holística es un desafío tecnológico actual.</title>
-    <updated>2026-06-24T03:50:17.327575+00:00</updated>
+    <id>https://www.f1technical.net/news/28733</id>
+    <title>[Fórmula 1] Hamilton supera a Sainz y Ocon en las 43 puntos clave para el título de F1</title>
+    <updated>2026-06-24T13:03:11.544640+00:00</updated>
     <author>
-      <name>Hacker News: Front Page</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://github.com/End2End-Diffusion/diffusion-bench"/>
-    <summary>El artículo se encuentra en GitHub y está relacionado con la difusión de datos. No tiene comentarios ni puntuación.</summary>
-    <published>2026-06-24T03:50:17.327632+00:00</published>
+    <link href="https://www.f1technical.net/news/28733"/>
+    <summary>En el acto de seguir las huellas de su victoria inaugural en la pista de Ferrari en el Gran Premio de Barcelona-Catalunya, el campeón siete veces del F1 Lewis Hamilton se encuentra con gran entusiasmo para este fin de semana's Gran Premio de Austria, con la esperanza de poder confirmar su reciente rendimiento.</summary>
+    <published>2026-06-24T13:03:11.544666+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</id>
-    <title>[Tecnología] Meta detiene programa de seguimiento de empleados tras revelación de un data leak interno.</title>
-    <updated>2026-06-24T03:50:17.327510+00:00</updated>
+    <id>https://www.f1technical.net/news/28736</id>
+    <title>[Fórmula 1] Se presentan las principales modificaciones de reglas para el año 2027 expuestas en detalle.</title>
+    <updated>2026-06-24T13:03:11.544610+00:00</updated>
     <author>
-      <name>Hacker News: Front Page</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"/>
-    <summary>Meta ha suspendido su programa de seguimiento de empleados debido a una violación de seguridad interna. El incidente afectó a miles de empleados, quienes vieron publicadas información personal y datos financieros en las redes sociales. La empresa no reveló detalles sobre el origen del incidente ni la fecha en que se restaurará el programa.</summary>
-    <published>2026-06-24T03:50:17.327563+00:00</published>
+    <link href="https://www.f1technical.net/news/28736"/>
+    <summary>La FIA ha formalmente aprobado un paquete integral de cambios en las regulaciones deportivas, técnicas y financieras para el Campeonato Mundial de Fórmula 1, marcando el último paso en la refinación continua del libro de reglas de 2026 por parte de la entidad.</summary>
+    <published>2026-06-24T13:03:11.544635+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/28735</id>
+    <title>[Fórmula 1] Marc Marquez extiende dos años con Ducati por misteriosas razones financieras y estratégicas.</title>
+    <updated>2026-06-24T13:03:11.544578+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/28735"/>
+    <summary>En las actas de su segundo triunfo en Hungría y la República Checa, Marc Marquez confirmó la renovación de su acuerdo con Ducati, lo que significa que pasará al menos dos más temporadas en el equipo bávaro.</summary>
+    <published>2026-06-24T13:03:11.544605+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
     <title>[Tecnología] Flipkart amplía su estrategia de comercio rápido mientras Amazon aumenta su presencia en India.</title>
-    <updated>2026-06-24T03:50:17.327443+00:00</updated>
+    <updated>2026-06-24T13:03:11.544545+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
     <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
     <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su empuje en el comercio rápido en la India. Flipkart, respaldado por Walmart, ha alcanzado más de 1.000 centros de micro-fulfillment. Amazon está acelerando su presencia en el mercado de comercio rápido en la India.</summary>
-    <published>2026-06-24T03:50:17.327500+00:00</published>
+    <published>2026-06-24T13:03:11.544571+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</id>
-    <title>[Tecnología] La India's MoEngage apostilla que el futuro de la publicidad está en millones de agentes de inteligencia artificial</title>
-    <updated>2026-06-24T03:50:17.327348+00:00</updated>
+    <id>https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/</id>
+    <title>[Tecnología] Cómo invertir cuando todo se mueve demasiado rápido en el mercado financiero.</title>
+    <updated>2026-06-24T13:03:11.544512+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"/>
-    <summary>El acuerdo a efectivo proporciona a MoEngage acceso a la tecnología que asigna agentes de inteligencia artificial a los clientes individuales.</summary>
-    <published>2026-06-24T03:50:17.327428+00:00</published>
+    <link href="https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/"/>
+    <summary>La cena de TechCrunch StrictlyVC en Los Ángeles, al final de la semana pasada, reunió a dos de los inversores más directos que trabajan actualmente en inteligencia artificial. Fueron tanto entretenidos como iluminadores.</summary>
+    <published>2026-06-24T13:03:11.544540+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</id>
-    <title>[Tecnología] Superhuman compra startup de detección de inteligencia artificial GPTZero</title>
-    <updated>2026-06-24T03:50:17.327215+00:00</updated>
+    <id>https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/</id>
+    <title>[Tecnología] El camión eléctrico de Slate Auto es radicalmente simple y comienza en $24,950</title>
+    <updated>2026-06-24T13:03:11.544478+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"/>
-    <summary>Superhuman ha adquirido a GPTZero, una herramienta que también incluye un detector de inteligencia artificial como parte de Grammarly.</summary>
-    <published>2026-06-24T03:50:17.327326+00:00</published>
+    <link href="https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/"/>
+    <summary>La startup respaldada por Jeff Bezos finalmente reveló más detalles sobre los precios de su debut vehículo eléctrico (EV), incluyendo un precio inicial de $29,950 para la variante de SUV, y aumentó el rango base a 205 millas.</summary>
+    <published>2026-06-24T13:03:11.544506+00:00</published>
+  </entry>
+  <entry>
+    <id>https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c</id>
+    <title>[Tecnología] El monitoreo de tiempo de inactividad muestra verde pero los visitantes reciben errores.</title>
+    <updated>2026-06-24T13:03:11.544442+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c"/>
+    <summary>Un monitoreo de rendimiento de uptime muestra que todo parece funcionar correctamente, pero los visitantes están recibiendo errores. Esto sugiere un problema subyacente con el sitio web o su infraestructura. Es posible que deban investigar y solucionar estos problemas para mejorar la experiencia del usuario.</summary>
+    <published>2026-06-24T13:03:11.544472+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner</id>
+    <title>[Tecnología] Europa necesita aprender a amar la aire acondicionado</title>
+    <updated>2026-06-24T13:03:11.544391+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner"/>
+    <summary>Los europeos deberían aprender a amar el aire acondicionado. La región está entre las menos con aire acondicionado en comparación con otros países del mundo. Esto se debe a que muchos edificios antiguos no están equipados para su uso.</summary>
+    <published>2026-06-24T13:03:11.544434+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/</id>
+    <title>[Tecnología] Reid Hoffman describe a SpaceX como una empresa que no es de inteligencia artificial</title>
+    <updated>2026-06-24T13:03:11.544301+00:00</updated>
+    <author>
+      <name>Hacker News: Front Page</name>
+    </author>
+    <link href="https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"/>
+    <summary>Reid Hoffman critica a Elon Musk por su error en la definición de Gen Z, lo cual podría tener consecuencias negativas para OpenAI y Anthropic. El empresario y ex inversor de Reddit expresó que Musk no entiende el concepto de generación. La crítica de Hoffman se refiere al hecho de que Musk describió a los jóvenes como "Gen Alpha" en lugar de Gen Z, lo cual podría tener un impacto negativo en la percepción de estas empresas.</summary>
+    <published>2026-06-24T13:03:11.544377+00:00</published>
   </entry>
 </feed>
