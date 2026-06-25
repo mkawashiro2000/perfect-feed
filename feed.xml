@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-24T13:03:11.544273+00:00</updated>
+  <updated>2026-06-25T13:02:43.799184+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -12,234 +12,213 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html</id>
-    <title>[Economía] El nuevo pickup eléctrico de Slate Auto se espera ser rentable a finales del año</title>
-    <updated>2026-06-24T13:03:11.545009+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html</id>
+    <title>[Economía] Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come</title>
+    <updated>2026-06-25T13:02:43.800299+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html"/>
-    <summary>El CEO de EV startup Slate Auto, Peter Faricy, declaró a CNBC que cada vehículo producido por la empresa será con un margen bruto positivo.</summary>
-    <published>2026-06-24T13:03:11.545035+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html"/>
+    <summary>Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.</summary>
+    <published>2026-06-25T13:02:43.800340+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html</id>
-    <title>[Economía] El secretario del Tesoro Bessent afirma que el crecimiento del PIB estadounidense puede alcanzar 3%</title>
-    <updated>2026-06-24T13:03:11.544976+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html</id>
+    <title>[Economía] JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits</title>
+    <updated>2026-06-25T13:02:43.800249+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html"/>
-    <summary>Bessent considera que su plan de "3-3-3" sigue dentro del alcance — un crecimiento del 3%, una tasa de déficit del 3% con respecto al PIB y un aumento de la producción de petróleo en 3 millones de barriles por día.</summary>
-    <published>2026-06-24T13:03:11.545004+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html"/>
+    <summary>JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits</summary>
+    <published>2026-06-25T13:02:43.800291+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html</id>
-    <title>[Economía] Trump afirma Irán ha asegurado que no habrá impuestos en el Estrecho de Hormoz</title>
-    <updated>2026-06-24T13:03:11.544945+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html</id>
+    <title>[Economía] Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows</title>
+    <updated>2026-06-25T13:02:43.800200+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html"/>
-    <summary>No habrá peajes, costos de seguro ni cargos de ninguna especie para los barcos que deseen pasar por el Estrecho de Hormoz, dijo Trump.</summary>
-    <published>2026-06-24T13:03:11.544971+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"/>
+    <summary>The personal consumption expenditures price index was expected to show a 4.1% annual increase.</summary>
+    <published>2026-06-25T13:02:43.800241+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/heres-why-webmcp-is-exciting</id>
-    <title>[Data Science] WebMCP es emocionante por varias razones importantes en el mundo de la tecnología</title>
-    <updated>2026-06-24T13:03:11.544914+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/heres-why-webmcp-is-exciting"/>
-    <summary>El WebMCP es un estándar web abierto que permite a los sitios web exponer herramientas estructuradas y llamables directamente a los agentes basados en navegador. Descubre qué lo hace emocionante. El WebMCP ofrece una forma de interactuar con las páginas web de manera más dinámica y eficiente.</summary>
-    <published>2026-06-24T13:03:11.544939+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code</id>
-    <title>[Data Science] Las habilidades matemáticas que cada científico de datos apasionado debe dominar antes escribir un solo código</title>
-    <updated>2026-06-24T13:03:11.544885+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code"/>
-    <summary>Esta artículo desglosa cada disciplina matemática esencial, explica su papel en la ciencia de datos y mapea un camino de aprendizaje eficiente que puedes comenzar hoy mismo.   La ciencia de datos se basa en varias disciplinas matemáticas fundamentales. Estas disciplinas son: estadística, álgebra lineal, probabilidad y teoría de números.  Para empezar a aprender estas disciplinas, es recomendable comenzar con conceptos básicos como variables aleatorias, distribuciones de probabilidad y ecuaciones lineales.</summary>
-    <published>2026-06-24T13:03:11.544910+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026</id>
-    <title>[Data Science] Seis modelos de codificación que se pueden ejecutar localmente en el próximo año.</title>
-    <updated>2026-06-24T13:03:11.544855+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026"/>
-    <summary>Explora los mejores modelos de codificación locales para inteligencia artificial privada, inferencia rápida de GGUF, flujos de trabajo agentes, desarrollo multimodal y ejecutar modelos abiertos potentes en tu propio GPU.   Los modelos de codificación locales como TensorFlow, PyTorch y JAX son populares opciones para desarrollar aplicaciones de inteligencia artificial privada. Estas bibliotecas ofrecen herramientas para la inferencia rápida de GGUF y permiten el desarrollo de flujos de trabajo agentes personalizados.  Para multimodalidad, se recomienda utilizar frameworks como TensorFlow Hub o PyTorch Lightning que permiten integrar diferentes tecnologías y modelos en un solo entorno. Además, los modelos abiertos como TensorFlow o PyTorch pueden ser ejecutados en tu propio GPU para aprovechar al máximo tus recursos.</summary>
-    <published>2026-06-24T13:03:11.544880+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/</id>
-    <title>[Data Science] Pasé una hora haciendo tareas de preprocesamiento de datos antes de preguntar a Gemini</title>
-    <updated>2026-06-24T13:03:11.544825+00:00</updated>
+    <id>https://towardsdatascience.com/your-first-task-as-a-data-engineer-in-a-new-company-make-the-etl-pipeline-testable/</id>
+    <title>[Data Science] Your First Task as a Data Engineer in a New Company? Make the ETL Pipeline Testable</title>
+    <updated>2026-06-25T13:02:43.800148+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-    <summary>Cómo Gemini resolvió mi problema de Pandas en segundos y por qué los fundamentos de la ciencia de datos siguen siendo importantes para detectar soluciones suboptimas.   Un post en el que pasé una hora trabajando en un tarea de preprocesamiento de datos antes de preguntar a Gemini.</summary>
-    <published>2026-06-24T13:03:11.544850+00:00</published>
+    <link href="https://towardsdatascience.com/your-first-task-as-a-data-engineer-in-a-new-company-make-the-etl-pipeline-testable/"/>
+    <summary>A practical data engineering onboarding workflow for environment setup, automated testing, and AI-assisted development. 
+ The post  Your First Task as a Data Engineer in a New Company? Make the ETL Pipeline Testable  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-25T13:02:43.800190+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/</id>
-    <title>[Data Science] Cómo crear bucles poderosos en código de Claude</title>
-    <updated>2026-06-24T13:03:11.544795+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/</id>
+    <title>[Data Science] How to Build a Credit Scoring Grid From a Logistic Regression Model</title>
+    <updated>2026-06-25T13:02:43.800100+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
-    <summary>Aprende sobre el concepto de bucles para potenciar a tus agentes de codificación.  El artículo "Cómo crear bucles poderosos en Claude Code" apareció primero en  Towards Data Science.   Los bucles son una herramienta fundamental en la programación, permitiendo que los programas se repitan y se ejecuten de manera automática.</summary>
-    <published>2026-06-24T13:03:11.544820+00:00</published>
+    <link href="https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/"/>
+    <summary>Turning model coefficients into a 0–1000 score, with risk classes and stability checks 
+ The post  How to Build a Credit Scoring Grid From a Logistic Regression Model  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-25T13:02:43.800141+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/</id>
-    <title>[Data Science] Descubren el ancla de RAG con detectores paralelos y una llamada al final a un modelo LLM</title>
-    <updated>2026-06-24T13:03:11.544763+00:00</updated>
+    <id>https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/</id>
+    <title>[Data Science] One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About</title>
+    <updated>2026-06-25T13:02:43.800043+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/"/>
-    <summary>La inteligencia de documentos de Enterprise [Vol.1 #7B] - La recuperación es una filtración en tablas estructuradas: palabras primero, índice segundo, embeddings últimos.  El artículo "Detección de anclajes para RAG: Detectores paralelos, luego una llamada a un LLM al final" apareció primero en Towards Data Science.</summary>
-    <published>2026-06-24T13:03:11.544790+00:00</published>
+    <link href="https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/"/>
+    <summary>A reflection on the first month of learning data engineering in public, and what actually kept me going. 
+ The post  One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-25T13:02:43.800092+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Los equipos de evidencia creativa utilizan simuladores para desafiar los resultados de las carreras de F1</title>
-    <updated>2026-06-24T13:03:11.544730+00:00</updated>
+    <id>https://www.autosport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833076/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Why Audi and Ferrari can already upgrade their F1 engines despite ADUO delay</title>
+    <updated>2026-06-25T13:02:43.799862+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/tue-from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results/10832610/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Los equipos de la Fórmula 1 tienen el poder de apelar las penalidades impuestas por los stewardes durante un fin de semana de carrera. Sin embargo, para hacerlo, deben presentar nuevas pruebas que aún no han sido vistas por la policía de la F1. Como resultado, los equipos han investigado todas las vías del serie para descubrir nuevas, creativas y astutas pruebas que creen que pueden ayudarles a intentar revertir el resultado de la carrera.</summary>
-    <published>2026-06-24T13:03:11.544756+00:00</published>
+    <link href="https://www.autosport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833076/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>What exactly is causing the delay? All Formula 1 manufacturers were informed of the initial results of the first ADUO (Additional Development and Upgrade Opportunities) period during the Monaco Grand Prix weekend and therefore know where they stand, subject to the additional check. That extra verification is taking place at the insistence of Red Bull-Ford Powertrains. The newcomer was placed ...</summary>
+    <published>2026-06-25T13:02:43.799990+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Audi sorprende a sus rivales con un motor de F1 mejorado en el GP de Barcelona</title>
-    <updated>2026-06-24T13:03:11.544700+00:00</updated>
+    <id>https://www.autosport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833102/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Why Honda will just use one of its two upgrade opportunities in F1 2026</title>
+    <updated>2026-06-25T13:02:43.799814+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/audi-surprises-rivals-as-it-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832722/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>La Audi presentó un nuevo unidad de potencia para la Fórmula 1 desde el Gran Premio de Barcelona, tras que la FIA comunicara los resultados del primer período de ADUO. El mecanismo de oportunidades adicionales y actualizaciones permite a los proveedores de motores introducir actualizaciones adicionales cuando carezcan de potencia. La primera revisión se llevó a cabo después del Gran Premio de Canadá, con la FIA divulgando los resultados para las fabricantes en ...</summary>
-    <published>2026-06-24T13:03:11.544725+00:00</published>
+    <link href="https://www.autosport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833102/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Aston Martin Formula 1 power unit partner Honda says it will just bring one power unit improvement for this year despite being afforded two upgrade tokens. For the brand-new 2026 power units, F1's governing body the FIA devised an upgrade scheme called ADUO (Additional Development and Upgrade Opportunities), which grants manufacturers additional dyno hours and cost cap allowance on a sliding ...</summary>
+    <published>2026-06-25T13:02:43.799854+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/does-red-bulls-denial-that-racing-bulls-is-helping-it-on-track-stack-up/10832708/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Red Bull niega que Racing Bulls le ayude en la pista.</title>
-    <updated>2026-06-24T13:03:11.544670+00:00</updated>
+    <id>https://www.autosport.com/f1/news/mercedes-to-introduce-f1-engine-fixes-in-austria-after-kimi-antonellis-barcelona-gp-retirement/10833135/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Mercedes delivers F1 engine fixes in Austria after Antonelli’s Barcelona GP retirement</title>
+    <updated>2026-06-25T13:02:43.799764+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/does-red-bulls-denial-that-racing-bulls-is-helping-it-on-track-stack-up/10832708/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>El debate sobre la propiedad común en la Fórmula 1, a menudo vinculado a las dos escuadras de Red Bull, fue recientemente reavivado por el interés aparente de Mercedes y Toto Wolff por adquirir acciones en la equipo Alpine. Aunque ese interés nunca se materializó en un acuerdo, fue exactamente eso lo que motivó al CEO de McLaren, Zak Brown, a escribir una carta al presidente de la FIA, Mohammed Ben Sulayem, expresando sus preocupaciones.  El interés de Mercedes por adquirir acciones en Alpine nunca se concretó en un acuerdo.   Zak Brown expresó sus inquietudes ante el presidente de la FIA.</summary>
-    <published>2026-06-24T13:03:11.544696+00:00</published>
+    <link href="https://www.autosport.com/f1/news/mercedes-to-introduce-f1-engine-fixes-in-austria-after-kimi-antonellis-barcelona-gp-retirement/10833135/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Kimi Antonelli has detailed what caused his Barcelona Grand Prix retirement and that Mercedes is set to introduce measures to solve its Formula 1 power unit unreliability from the Austrian GP. During an Italian media interview at the Red Bull Ring, Antonelli confirmed that he will run a new power unit paired with an updated battery pack featuring several corrective measures made by Mercedes ...</summary>
+    <published>2026-06-25T13:02:43.799806+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28733</id>
-    <title>[Fórmula 1] Hamilton supera a Sainz y Ocon en las 43 puntos clave para el título de F1</title>
-    <updated>2026-06-24T13:03:11.544640+00:00</updated>
+    <id>https://www.f1technical.net/news/28744</id>
+    <title>[Fórmula 1] MotoGP: Francesco Bagnaia signs four‑year Aprilia deal to form all‑Italian MotoGP line‑up ...</title>
+    <updated>2026-06-25T13:02:43.799714+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28733"/>
-    <summary>En el acto de seguir las huellas de su victoria inaugural en la pista de Ferrari en el Gran Premio de Barcelona-Catalunya, el campeón siete veces del F1 Lewis Hamilton se encuentra con gran entusiasmo para este fin de semana's Gran Premio de Austria, con la esperanza de poder confirmar su reciente rendimiento.</summary>
-    <published>2026-06-24T13:03:11.544666+00:00</published>
+    <link href="https://www.f1technical.net/news/28744"/>
+    <summary>Two-time MotoGP champion Francesco Bagnaia has signed a four‑year contract with Aprilia Racing, marking one of the most significant rider transfers in recent MotoGP history.</summary>
+    <published>2026-06-25T13:02:43.799757+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28736</id>
-    <title>[Fórmula 1] Se presentan las principales modificaciones de reglas para el año 2027 expuestas en detalle.</title>
-    <updated>2026-06-24T13:03:11.544610+00:00</updated>
+    <id>https://www.f1technical.net/news/28747</id>
+    <title>[Fórmula 1] Ferrari confirm the introduction of updated power unit at the Austrian Grand Prix</title>
+    <updated>2026-06-25T13:02:43.799665+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28736"/>
-    <summary>La FIA ha formalmente aprobado un paquete integral de cambios en las regulaciones deportivas, técnicas y financieras para el Campeonato Mundial de Fórmula 1, marcando el último paso en la refinación continua del libro de reglas de 2026 por parte de la entidad.</summary>
-    <published>2026-06-24T13:03:11.544635+00:00</published>
+    <link href="https://www.f1technical.net/news/28747"/>
+    <summary>Hot on the heels of Lewis Hamilton's maiden Ferrari F1 victory at Barcelona, the Scuderia has now confirmed that it will introduce an updated power unit at this weekend's Austrian Grand Prix</summary>
+    <published>2026-06-25T13:02:43.799706+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28735</id>
-    <title>[Fórmula 1] Marc Marquez extiende dos años con Ducati por misteriosas razones financieras y estratégicas.</title>
-    <updated>2026-06-24T13:03:11.544578+00:00</updated>
+    <id>https://www.f1technical.net/news/28745</id>
+    <title>[Fórmula 1] FIA declares Heat Hazard for Austrian Grand Prix as Europe battles extreme temperatures</title>
+    <updated>2026-06-25T13:02:43.799615+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28735"/>
-    <summary>En las actas de su segundo triunfo en Hungría y la República Checa, Marc Marquez confirmó la renovación de su acuerdo con Ducati, lo que significa que pasará al menos dos más temporadas en el equipo bávaro.</summary>
-    <published>2026-06-24T13:03:11.544605+00:00</published>
+    <link href="https://www.f1technical.net/news/28745"/>
+    <summary>Europe’s first major heatwave of the summer has forced the FIA to declare an official Heat Hazard for this weekend’s Formula 1 Austrian Grand Prix, as temperatures at Spielberg’s Red Bull Ring are forecast to exceed the regulatory threshold for driver safety.</summary>
+    <published>2026-06-25T13:02:43.799657+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</id>
-    <title>[Tecnología] Flipkart amplía su estrategia de comercio rápido mientras Amazon aumenta su presencia en India.</title>
-    <updated>2026-06-24T13:03:11.544545+00:00</updated>
+    <id>https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/</id>
+    <title>[Tecnología] Europe is pushing back on Washington’s chip war</title>
+    <updated>2026-06-25T13:02:43.799561+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/"/>
-    <summary>Flipkart, respaldado por Walmart, ha superado los 1.000 centros de micro-fulfillment mientras que Amazon acelera su empuje en el comercio rápido en la India. Flipkart, respaldado por Walmart, ha alcanzado más de 1.000 centros de micro-fulfillment. Amazon está acelerando su presencia en el mercado de comercio rápido en la India.</summary>
-    <published>2026-06-24T13:03:11.544571+00:00</published>
+    <link href="https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"/>
+    <summary>As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.</summary>
+    <published>2026-06-25T13:02:43.799604+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/</id>
-    <title>[Tecnología] Cómo invertir cuando todo se mueve demasiado rápido en el mercado financiero.</title>
-    <updated>2026-06-24T13:03:11.544512+00:00</updated>
+    <id>https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/</id>
+    <title>[Tecnología] Cellebrite said it cut off Russia, but Russia used is tools anyway</title>
+    <updated>2026-06-25T13:02:43.799508+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/"/>
-    <summary>La cena de TechCrunch StrictlyVC en Los Ángeles, al final de la semana pasada, reunió a dos de los inversores más directos que trabajan actualmente en inteligencia artificial. Fueron tanto entretenidos como iluminadores.</summary>
-    <published>2026-06-24T13:03:11.544540+00:00</published>
+    <link href="https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/"/>
+    <summary>Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.</summary>
+    <published>2026-06-25T13:02:43.799552+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/</id>
-    <title>[Tecnología] El camión eléctrico de Slate Auto es radicalmente simple y comienza en $24,950</title>
-    <updated>2026-06-24T13:03:11.544478+00:00</updated>
+    <id>https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/</id>
+    <title>[Tecnología] Amazon ups India bet with fresh $13B AI infrastructure investment</title>
+    <updated>2026-06-25T13:02:43.799455+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/"/>
-    <summary>La startup respaldada por Jeff Bezos finalmente reveló más detalles sobre los precios de su debut vehículo eléctrico (EV), incluyendo un precio inicial de $29,950 para la variante de SUV, y aumentó el rango base a 205 millas.</summary>
-    <published>2026-06-24T13:03:11.544506+00:00</published>
+    <link href="https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"/>
+    <summary>Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.</summary>
+    <published>2026-06-25T13:02:43.799499+00:00</published>
   </entry>
   <entry>
-    <id>https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c</id>
-    <title>[Tecnología] El monitoreo de tiempo de inactividad muestra verde pero los visitantes reciben errores.</title>
-    <updated>2026-06-24T13:03:11.544442+00:00</updated>
+    <id>https://utaw.tech/news/wikipedia-recognition</id>
+    <title>[Tecnología] Wikipedia Workers in Britain set global first by seeking union recognition</title>
+    <updated>2026-06-25T13:02:43.799400+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://medium.com/@thesuperrepemail/your-uptime-monitor-shows-green-but-visitors-are-getting-errors-860f5005d50c"/>
-    <summary>Un monitoreo de rendimiento de uptime muestra que todo parece funcionar correctamente, pero los visitantes están recibiendo errores. Esto sugiere un problema subyacente con el sitio web o su infraestructura. Es posible que deban investigar y solucionar estos problemas para mejorar la experiencia del usuario.</summary>
-    <published>2026-06-24T13:03:11.544472+00:00</published>
+    <link href="https://utaw.tech/news/wikipedia-recognition"/>
+    <summary>Article URL:  https://utaw.tech/news/wikipedia-recognition 
+ Comments URL:  https://news.ycombinator.com/item?id=48669932 
+ Points: 120 
+ # Comments: 132</summary>
+    <published>2026-06-25T13:02:43.799447+00:00</published>
   </entry>
   <entry>
-    <id>https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner</id>
-    <title>[Tecnología] Europa necesita aprender a amar la aire acondicionado</title>
-    <updated>2026-06-24T13:03:11.544391+00:00</updated>
+    <id>https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</id>
+    <title>[Tecnología] Dolphin Emulator Progress Release 2606</title>
+    <updated>2026-06-25T13:02:43.799324+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner"/>
-    <summary>Los europeos deberían aprender a amar el aire acondicionado. La región está entre las menos con aire acondicionado en comparación con otros países del mundo. Esto se debe a que muchos edificios antiguos no están equipados para su uso.</summary>
-    <published>2026-06-24T13:03:11.544434+00:00</published>
+    <link href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/"/>
+    <summary>Article URL:  https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/ 
+ Comments URL:  https://news.ycombinator.com/item?id=48671392 
+ Points: 126 
+ # Comments: 16</summary>
+    <published>2026-06-25T13:02:43.799388+00:00</published>
   </entry>
   <entry>
-    <id>https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/</id>
-    <title>[Tecnología] Reid Hoffman describe a SpaceX como una empresa que no es de inteligencia artificial</title>
-    <updated>2026-06-24T13:03:11.544301+00:00</updated>
+    <id>https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</id>
+    <title>[Tecnología] LastPass notifies users of yet another data breach</title>
+    <updated>2026-06-25T13:02:43.799215+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"/>
-    <summary>Reid Hoffman critica a Elon Musk por su error en la definición de Gen Z, lo cual podría tener consecuencias negativas para OpenAI y Anthropic. El empresario y ex inversor de Reddit expresó que Musk no entiende el concepto de generación. La crítica de Hoffman se refiere al hecho de que Musk describió a los jóvenes como "Gen Alpha" en lugar de Gen Z, lo cual podría tener un impacto negativo en la percepción de estas empresas.</summary>
-    <published>2026-06-24T13:03:11.544377+00:00</published>
+    <link href="https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"/>
+    <summary>Article URL:  https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/ 
+ Comments URL:  https://news.ycombinator.com/item?id=48671468 
+ Points: 99 
+ # Comments: 43</summary>
+    <published>2026-06-25T13:02:43.799307+00:00</published>
   </entry>
 </feed>
