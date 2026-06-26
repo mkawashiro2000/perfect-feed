@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-26T14:28:56.809220+00:00</updated>
+  <updated>2026-06-26T14:41:12.433500+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -11,4 +11,37 @@
   <link href="https://mkawashiro2000.github.io/perfect-feed/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html</id>
+    <title>[Economía] Ex-Trump advisor John Bolton pleads guilty to retaining national defense information</title>
+    <updated>2026-06-26T14:41:12.433654+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html"/>
+    <summary>John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House.</summary>
+    <published>2026-06-26T14:41:12.433683+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html</id>
+    <title>[Economía] Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million</title>
+    <updated>2026-06-26T14:41:12.433605+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html"/>
+    <summary>"I knew Jekyll. I didn't know Hyde," Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.</summary>
+    <published>2026-06-26T14:41:12.433647+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html</id>
+    <title>[Economía] Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%</title>
+    <updated>2026-06-26T14:41:12.433527+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html"/>
+    <summary>President Donald Trump's economic advisers are giving Warsh space as the new Fed chairman on interest rates as the president repeats calls to cut.</summary>
+    <published>2026-06-26T14:41:12.433593+00:00</published>
+  </entry>
 </feed>
