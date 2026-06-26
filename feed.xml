@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://mkawashiro2000.github.io/perfect-feed</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-06-25T13:02:43.799184+00:00</updated>
+  <updated>2026-06-26T13:02:42.790820+00:00</updated>
   <author>
     <name>Perfect Feed</name>
     <email>noticias@perfectfeed.local</email>
@@ -12,213 +12,246 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía, traducidas al español + tasas cambiarias DR.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html</id>
-    <title>[Economía] Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come</title>
-    <updated>2026-06-25T13:02:43.800299+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html</id>
+    <title>[Economía] Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch</title>
+    <updated>2026-06-26T13:02:42.791533+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html"/>
-    <summary>Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.</summary>
-    <published>2026-06-25T13:02:43.800340+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html"/>
+    <summary>World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.</summary>
+    <published>2026-06-26T13:02:42.791558+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html</id>
-    <title>[Economía] JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits</title>
-    <updated>2026-06-25T13:02:43.800249+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html</id>
+    <title>[Economía] OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency</title>
+    <updated>2026-06-26T13:02:42.791502+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html"/>
-    <summary>JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits</summary>
-    <published>2026-06-25T13:02:43.800291+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html"/>
+    <summary>Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.</summary>
+    <published>2026-06-26T13:02:42.791528+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html</id>
-    <title>[Economía] Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows</title>
-    <updated>2026-06-25T13:02:43.800200+00:00</updated>
+    <id>https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html</id>
+    <title>[Economía] Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million</title>
+    <updated>2026-06-26T13:02:42.791472+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"/>
-    <summary>The personal consumption expenditures price index was expected to show a 4.1% annual increase.</summary>
-    <published>2026-06-25T13:02:43.800241+00:00</published>
+    <link href="https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html"/>
+    <summary>Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million</summary>
+    <published>2026-06-26T13:02:42.791498+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/your-first-task-as-a-data-engineer-in-a-new-company-make-the-etl-pipeline-testable/</id>
-    <title>[Data Science] Your First Task as a Data Engineer in a New Company? Make the ETL Pipeline Testable</title>
-    <updated>2026-06-25T13:02:43.800148+00:00</updated>
+    <id>https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026</id>
+    <title>[Data Science] The Roadmap to Becoming an AI Architect in 2026</title>
+    <updated>2026-06-26T13:02:42.791442+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026"/>
+    <summary>Follow this step-by-step path through the design, decision-making, and leadership skills that move an engineer into the architect's seat.</summary>
+    <published>2026-06-26T13:02:42.791466+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video</id>
+    <title>[Data Science] 5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video</title>
+    <updated>2026-06-26T13:02:42.791411+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video"/>
+    <summary>Take a practical look at multimodal, any-to-any systems for vision-language reasoning, speech interaction, document intelligence, real-time assistants, local deployment.</summary>
+    <published>2026-06-26T13:02:42.791437+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/using-gemini-to-create-google-sheets</id>
+    <title>[Data Science] Using Gemini to Create Google Sheets</title>
+    <updated>2026-06-26T13:02:42.791382+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/using-gemini-to-create-google-sheets"/>
+    <summary>In this tutorial, we will show you how to use Gemini to create Google Sheets, build a useful table, generate formulas, analyze data, and improve the spreadsheet with follow-up prompts.</summary>
+    <published>2026-06-26T13:02:42.791407+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/</id>
+    <title>[Data Science] The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark</title>
+    <updated>2026-06-26T13:02:42.791351+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/your-first-task-as-a-data-engineer-in-a-new-company-make-the-etl-pipeline-testable/"/>
-    <summary>A practical data engineering onboarding workflow for environment setup, automated testing, and AI-assisted development. 
- The post  Your First Task as a Data Engineer in a New Company? Make the ETL Pipeline Testable  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-25T13:02:43.800190+00:00</published>
+    <link href="https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/"/>
+    <summary>A reproducible benchmark on latency, cost, and reproducibility, and where agents actually earn their keep. 
+ The post  The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-26T13:02:42.791377+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/</id>
-    <title>[Data Science] How to Build a Credit Scoring Grid From a Logistic Regression Model</title>
-    <updated>2026-06-25T13:02:43.800100+00:00</updated>
+    <id>https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/</id>
+    <title>[Data Science] Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory</title>
+    <updated>2026-06-26T13:02:42.791320+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-build-a-credit-scoring-grid-from-a-logistic-regression-model/"/>
-    <summary>Turning model coefficients into a 0–1000 score, with risk classes and stability checks 
- The post  How to Build a Credit Scoring Grid From a Logistic Regression Model  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-25T13:02:43.800141+00:00</published>
+    <link href="https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/"/>
+    <summary>I benchmarked raw chat history, vector-only RAG, and a context graph on the same multi-agent conversations. The results exposed a surprising weakness in relational retrieval. 
+ The post  Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-26T13:02:42.791347+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/</id>
-    <title>[Data Science] One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About</title>
-    <updated>2026-06-25T13:02:43.800043+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/</id>
+    <title>[Data Science] How to Ace Data and ML Behavioural Interviews</title>
+    <updated>2026-06-26T13:02:42.791290+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/one-month-into-learning-data-engineering-in-public-heres-what-i-didnt-write-about/"/>
-    <summary>A reflection on the first month of learning data engineering in public, and what actually kept me going. 
- The post  One Month Into Learning Data Engineering in Public: Here’s What I Didn’t Write About  appeared first on  Towards Data Science .</summary>
-    <published>2026-06-25T13:02:43.800092+00:00</published>
+    <link href="https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/"/>
+    <summary>How to smash through data / ML behavioural interviews 
+ The post  How to Ace Data and ML Behavioural Interviews  appeared first on  Towards Data Science .</summary>
+    <published>2026-06-26T13:02:42.791316+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833076/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Why Audi and Ferrari can already upgrade their F1 engines despite ADUO delay</title>
-    <updated>2026-06-25T13:02:43.799862+00:00</updated>
+    <id>https://www.autosport.com/f1/news/red-bull-details-austrian-gp-updates-audi-cadillac-bring-improvements/10833481/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Red Bull details Austrian GP updates; Audi, Cadillac bring improvements</title>
+    <updated>2026-06-26T13:02:42.791257+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/why-audi-and-ferrari-can-already-upgrade-their-f1-engines-despite-aduo-delay/10833076/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>What exactly is causing the delay? All Formula 1 manufacturers were informed of the initial results of the first ADUO (Additional Development and Upgrade Opportunities) period during the Monaco Grand Prix weekend and therefore know where they stand, subject to the additional check. That extra verification is taking place at the insistence of Red Bull-Ford Powertrains. The newcomer was placed ...</summary>
-    <published>2026-06-25T13:02:43.799990+00:00</published>
+    <link href="https://www.autosport.com/f1/news/red-bull-details-austrian-gp-updates-audi-cadillac-bring-improvements/10833481/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Red Bull has registered a series of updates for the Austrian Grand Prix in its efforts to reclaim ground on the current top three Formula 1 teams, detailing a number of changes to its bodywork and floor. The team is currently fourth in the constructors' championship and 52 points shy of McLaren, but remains 32 points clear of fifth-placed Alpine. With a handful of driveability concerns with the ...</summary>
+    <published>2026-06-26T13:02:42.791284+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833102/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Why Honda will just use one of its two upgrade opportunities in F1 2026</title>
-    <updated>2026-06-25T13:02:43.799814+00:00</updated>
+    <id>https://www.autosport.com/f1/news/top-10-mclaren-f1-drivers-ranked-senna-prost-hamilton-and-more/7227506/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] Top 10 McLaren F1 drivers ranked: Senna, Prost, Hamilton and more</title>
+    <updated>2026-06-26T13:02:42.791226+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833102/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Aston Martin Formula 1 power unit partner Honda says it will just bring one power unit improvement for this year despite being afforded two upgrade tokens. For the brand-new 2026 power units, F1's governing body the FIA devised an upgrade scheme called ADUO (Additional Development and Upgrade Opportunities), which grants manufacturers additional dyno hours and cost cap allowance on a sliding ...</summary>
-    <published>2026-06-25T13:02:43.799854+00:00</published>
+    <link href="https://www.autosport.com/f1/news/top-10-mclaren-f1-drivers-ranked-senna-prost-hamilton-and-more/7227506/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Bruce McLaren’s firm made its Formula 1 world championship debut in 1966 and the New Zealander scored its maiden victory in the 1968 Belgian Grand Prix. Since then, 21 other drivers have taken wins for McLaren and eight have won drivers’ titles. PLUS: The numbers that reveal McLaren's revival For the selection of the top 10 McLaren F1 drivers, Autosport has considered the amount of ...</summary>
+    <published>2026-06-26T13:02:42.791252+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/mercedes-to-introduce-f1-engine-fixes-in-austria-after-kimi-antonellis-barcelona-gp-retirement/10833135/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
-    <title>[Fórmula 1] Mercedes delivers F1 engine fixes in Austria after Antonelli’s Barcelona GP retirement</title>
-    <updated>2026-06-25T13:02:43.799764+00:00</updated>
+    <id>https://www.autosport.com/f1/news/f1-austrian-gp-fp1-report/10833511/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
+    <title>[Fórmula 1] F1 Austrian GP: Antonelli pips Russell to top FP1, Norris hit with hydraulics issue</title>
+    <updated>2026-06-26T13:02:42.791194+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/mercedes-to-introduce-f1-engine-fixes-in-austria-after-kimi-antonellis-barcelona-gp-retirement/10833135/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
-    <summary>Kimi Antonelli has detailed what caused his Barcelona Grand Prix retirement and that Mercedes is set to introduce measures to solve its Formula 1 power unit unreliability from the Austrian GP. During an Italian media interview at the Red Bull Ring, Antonelli confirmed that he will run a new power unit paired with an updated battery pack featuring several corrective measures made by Mercedes ...</summary>
-    <published>2026-06-25T13:02:43.799806+00:00</published>
+    <link href="https://www.autosport.com/f1/news/f1-austrian-gp-fp1-report/10833511/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk"/>
+    <summary>Formula 1 world championship leader Kimi Antonelli has topped first practice at the Austrian Grand Prix, having a slight edge on team-mate George Russell on a toasty Red Bull Ring. Russell led the opening running in Spielberg on mediums with a 1m10.407s and then 1m09.898s, ahead of team-mate Antonelli. The Italian teenager took over command with a 1m08.448s lap, but a better comparison came ...</summary>
+    <published>2026-06-26T13:02:42.791221+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28744</id>
-    <title>[Fórmula 1] MotoGP: Francesco Bagnaia signs four‑year Aprilia deal to form all‑Italian MotoGP line‑up ...</title>
-    <updated>2026-06-25T13:02:43.799714+00:00</updated>
+    <id>https://www.f1technical.net/news/28754</id>
+    <title>[Fórmula 1] Mercedes battery troubles remains “highest priority” as Canada unit remains in sea freight</title>
+    <updated>2026-06-26T13:02:42.791163+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28744"/>
-    <summary>Two-time MotoGP champion Francesco Bagnaia has signed a four‑year contract with Aprilia Racing, marking one of the most significant rider transfers in recent MotoGP history.</summary>
-    <published>2026-06-25T13:02:43.799757+00:00</published>
+    <link href="https://www.f1technical.net/news/28754"/>
+    <summary>Mercedes enters the Austrian Grand Prix still working to fully understand the battery‑related reliability issues that have affected all four Mercedes‑powered teams this season.</summary>
+    <published>2026-06-26T13:02:42.791190+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28747</id>
-    <title>[Fórmula 1] Ferrari confirm the introduction of updated power unit at the Austrian Grand Prix</title>
-    <updated>2026-06-25T13:02:43.799665+00:00</updated>
+    <id>https://www.f1technical.net/news/28759</id>
+    <title>[Fórmula 1] Hamilton opens up on Ferrari's regurgance for the current season</title>
+    <updated>2026-06-26T13:02:42.791131+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28747"/>
-    <summary>Hot on the heels of Lewis Hamilton's maiden Ferrari F1 victory at Barcelona, the Scuderia has now confirmed that it will introduce an updated power unit at this weekend's Austrian Grand Prix</summary>
-    <published>2026-06-25T13:02:43.799706+00:00</published>
+    <link href="https://www.f1technical.net/news/28759"/>
+    <summary>Lewis Hamilton believes Ferrari’s resurgence in 2026 is the product of a highly motivated team that has rediscovered its “north star” — a clear development direction that was missing last year.</summary>
+    <published>2026-06-26T13:02:42.791157+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/28745</id>
-    <title>[Fórmula 1] FIA declares Heat Hazard for Austrian Grand Prix as Europe battles extreme temperatures</title>
-    <updated>2026-06-25T13:02:43.799615+00:00</updated>
+    <id>https://www.f1technical.net/news/28760</id>
+    <title>[Fórmula 1] F1TECH: Mercedes forced to modify diffuser after FIA clarification on spike‑like extensions</title>
+    <updated>2026-06-26T13:02:42.791098+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/28745"/>
-    <summary>Europe’s first major heatwave of the summer has forced the FIA to declare an official Heat Hazard for this weekend’s Formula 1 Austrian Grand Prix, as temperatures at Spielberg’s Red Bull Ring are forecast to exceed the regulatory threshold for driver safety.</summary>
-    <published>2026-06-25T13:02:43.799657+00:00</published>
+    <link href="https://www.f1technical.net/news/28760"/>
+    <summary>Ahead of the Austrian Grand Prix, it has now emerged that Mercedes were instructed to modify the diffuser and remove the serrated extensions entirely. The team has complied, reverting to a more conventional upper‑deck geometry.</summary>
+    <published>2026-06-26T13:02:42.791126+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/</id>
-    <title>[Tecnología] Europe is pushing back on Washington’s chip war</title>
-    <updated>2026-06-25T13:02:43.799561+00:00</updated>
+    <id>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</id>
+    <title>[Tecnología] The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
+    <updated>2026-06-26T13:02:42.791065+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"/>
-    <summary>As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.</summary>
-    <published>2026-06-25T13:02:43.799604+00:00</published>
+    <link href="https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"/>
+    <summary>OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.</summary>
+    <published>2026-06-26T13:02:42.791091+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/</id>
-    <title>[Tecnología] Cellebrite said it cut off Russia, but Russia used is tools anyway</title>
-    <updated>2026-06-25T13:02:43.799508+00:00</updated>
+    <id>https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/</id>
+    <title>[Tecnología] Early Bird pricing ends tonight for TechCrunch Founder Summit</title>
+    <updated>2026-06-26T13:02:42.791032+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/"/>
-    <summary>Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.</summary>
-    <published>2026-06-25T13:02:43.799552+00:00</published>
+    <link href="https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/"/>
+    <summary>Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.</summary>
+    <published>2026-06-26T13:02:42.791060+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/</id>
-    <title>[Tecnología] Amazon ups India bet with fresh $13B AI infrastructure investment</title>
-    <updated>2026-06-25T13:02:43.799455+00:00</updated>
+    <id>https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/</id>
+    <title>[Tecnología] Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that</title>
+    <updated>2026-06-26T13:02:42.791001+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"/>
-    <summary>Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.</summary>
-    <published>2026-06-25T13:02:43.799499+00:00</published>
+    <link href="https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/"/>
+    <summary>Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.</summary>
+    <published>2026-06-26T13:02:42.791027+00:00</published>
   </entry>
   <entry>
-    <id>https://utaw.tech/news/wikipedia-recognition</id>
-    <title>[Tecnología] Wikipedia Workers in Britain set global first by seeking union recognition</title>
-    <updated>2026-06-25T13:02:43.799400+00:00</updated>
+    <id>https://akrites.org/letter/</id>
+    <title>[Tecnología] We All Depend on Open Source. We Will Defend It Together</title>
+    <updated>2026-06-26T13:02:42.790966+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://utaw.tech/news/wikipedia-recognition"/>
-    <summary>Article URL:  https://utaw.tech/news/wikipedia-recognition 
- Comments URL:  https://news.ycombinator.com/item?id=48669932 
- Points: 120 
- # Comments: 132</summary>
-    <published>2026-06-25T13:02:43.799447+00:00</published>
+    <link href="https://akrites.org/letter/"/>
+    <summary>Article URL:  https://akrites.org/letter/ 
+ Comments URL:  https://news.ycombinator.com/item?id=48682737 
+ Points: 282 
+ # Comments: 139</summary>
+    <published>2026-06-26T13:02:42.790996+00:00</published>
   </entry>
   <entry>
-    <id>https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</id>
-    <title>[Tecnología] Dolphin Emulator Progress Release 2606</title>
-    <updated>2026-06-25T13:02:43.799324+00:00</updated>
+    <id>https://github.com/mondaycom/HATCHA</id>
+    <title>[Tecnología] Captcha proves you're human. HATCHA proves you're not</title>
+    <updated>2026-06-26T13:02:42.790918+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/"/>
-    <summary>Article URL:  https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/ 
- Comments URL:  https://news.ycombinator.com/item?id=48671392 
- Points: 126 
- # Comments: 16</summary>
-    <published>2026-06-25T13:02:43.799388+00:00</published>
+    <link href="https://github.com/mondaycom/HATCHA"/>
+    <summary>Article URL:  https://github.com/mondaycom/HATCHA 
+ Comments URL:  https://news.ycombinator.com/item?id=48685677 
+ Points: 49 
+ # Comments: 50</summary>
+    <published>2026-06-26T13:02:42.790959+00:00</published>
   </entry>
   <entry>
-    <id>https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</id>
-    <title>[Tecnología] LastPass notifies users of yet another data breach</title>
-    <updated>2026-06-25T13:02:43.799215+00:00</updated>
+    <id>https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB</id>
+    <title>[Tecnología] Google hallucinated that I am sponsored by Ground News</title>
+    <updated>2026-06-26T13:02:42.790843+00:00</updated>
     <author>
       <name>Hacker News: Front Page</name>
     </author>
-    <link href="https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"/>
-    <summary>Article URL:  https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/ 
- Comments URL:  https://news.ycombinator.com/item?id=48671468 
- Points: 99 
- # Comments: 43</summary>
-    <published>2026-06-25T13:02:43.799307+00:00</published>
+    <link href="https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB"/>
+    <summary>Article URL:  https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB 
+ Comments URL:  https://news.ycombinator.com/item?id=48686050 
+ Points: 4 
+ # Comments: 0</summary>
+    <published>2026-06-26T13:02:42.790907+00:00</published>
   </entry>
 </feed>
