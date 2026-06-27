@@ -248,6 +248,28 @@ header {
 }
 .card .read-more:hover { transform: translate(-2px,-2px); box-shadow: var(--shadow-sm); }
 
+/* ── Análisis IA ── */
+.ia-analysis {
+  border: var(--border);
+  background: var(--purple);
+  padding: .75rem 1rem;
+  box-shadow: 3px 3px 0 var(--ink);
+}
+.ia-label {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: .65rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  display: block;
+  margin-bottom: .45rem;
+}
+.ia-analysis p {
+  font-size: .88rem;
+  font-weight: 500;
+  line-height: 1.55;
+}
+
 /* ── Footer ── */
 footer {
   border-top: var(--border-thick); background: var(--ink); color: var(--bg);
