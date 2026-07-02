@@ -290,3 +290,12 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   .cards-grid { grid-template-columns: 1fr; }
   .ticker-band .label { display: none; }
 }
+
+/* ── Fila superior de tarjeta: fuente + fecha ── */
+.card-top {
+  display: flex; align-items: flex-start; justify-content: space-between; gap: .5rem;
+}
+.card-date {
+  font-family: var(--font-mono); font-weight: 700; font-size: .68rem;
+  letter-spacing: .04em; color: var(--ink); opacity: .55; white-space: nowrap;
+}
