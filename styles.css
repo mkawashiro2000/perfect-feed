@@ -261,8 +261,9 @@ header {
 /* ── Análisis IA ── */
 .ia-analysis {
   border: var(--border);
+  border-left: 8px solid var(--ink);   /* barra de acento: separa de un vistazo */
   background: var(--purple);
-  padding: .75rem 1rem;
+  padding: .8rem 1rem .85rem;
   box-shadow: 3px 3px 0 var(--ink);
 }
 .ia-label {
@@ -271,8 +272,11 @@ header {
   font-size: .65rem;
   text-transform: uppercase;
   letter-spacing: .06em;
-  display: block;
-  margin-bottom: .45rem;
+  display: inline-block;
+  background: var(--ink);
+  color: var(--yellow);
+  padding: .2rem .5rem;
+  margin-bottom: .55rem;
 }
 .ia-analysis p {
   font-size: .88rem;
@@ -308,15 +312,20 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   body { background-size: 26px 26px; }
   .container { padding: 0 .9rem; }
 
-  /* Header compacto: marca a la izquierda, meta en una fila que no salta */
-  .header-inner { padding: .6rem 0; gap: .5rem; flex-wrap: nowrap; }
-  .brand { gap: .5rem; }
-  .brand .logo { width: 34px; height: 34px; font-size: 1.1rem; }
-  .brand h1 { font-size: 1.05rem; }
-  .header-meta { gap: .45rem; }
-  .chip-live { font-size: .6rem; padding: .25rem .45rem; }
+  /* Header centrado: marca arriba, chips debajo en una fila centrada.
+     El logo va rotado y con sombra, así que necesita margen propio o el
+     `overflow-x: hidden` del body le corta la esquina izquierda. */
+  .header-inner {
+    padding: .6rem 0; gap: .55rem;
+    flex-direction: column; justify-content: center;
+  }
+  .brand { gap: .55rem; justify-content: center; padding-left: .35rem; }
+  .brand .logo { width: 34px; height: 34px; font-size: 1.1rem; flex: 0 0 auto; }
+  .brand h1 { font-size: 1.25rem; }
+  .header-meta { gap: .45rem; justify-content: center; width: 100%; }
+  .chip-live { font-size: .62rem; padding: .28rem .5rem; }
   .chip-live::before { width: 7px; height: 7px; }
-  .chip-date { display: none; }
+  .chip-date { font-size: .62rem; }
   .btn-rss { font-size: .7rem; padding: .35rem .6rem; }
 
   .hero { padding: 1.75rem 0 1rem; }
@@ -345,7 +354,7 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   .cat-nav::-webkit-scrollbar { display: none; }
   .cat-nav button { flex: 0 0 auto; font-size: .72rem; padding: .5rem .8rem; }
 
-  .categoria { margin-bottom: 2.25rem; scroll-margin-top: 68px; }
+  .categoria { margin-bottom: 2.25rem; scroll-margin-top: 108px; }
   .cat-header { gap: .6rem; margin-bottom: 1rem; }
   .cat-icon { width: 36px; height: 36px; font-size: 1.05rem; }
   .cat-header h3 { font-size: 1.15rem; }
