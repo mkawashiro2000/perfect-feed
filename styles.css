@@ -241,6 +241,16 @@ header {
 .card h4 { font-family: var(--font-display); font-size: 1.08rem; line-height: 1.25; }
 .card h4 a { text-decoration: none; }
 .card p { font-size: .9rem; font-weight: 500; flex: 1; }
+
+/* ── Tarjeta plegable (<details>) ── */
+.card > summary {
+  list-style: none; cursor: pointer;
+  display: flex; flex-direction: column; gap: .7rem;
+  position: relative;
+}
+.card > summary::-webkit-details-marker { display: none; }
+.card > summary:focus-visible { outline: 3px solid var(--pink); outline-offset: 4px; }
+.card-body { display: flex; flex-direction: column; gap: .7rem; margin-top: .7rem; }
 .card .read-more {
   align-self: flex-start; font-family: var(--font-display); font-size: .78rem;
   background: var(--ink); color: var(--bg); padding: .45rem .85rem;
@@ -286,9 +296,96 @@ footer .badge {
 footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
 
 @media (max-width: 720px) {
-  .tasas-promedios { grid-template-columns: 1fr; }
-  .cards-grid { grid-template-columns: 1fr; }
+  /* Sombras y bordes más finos: a 3-4px el look brutalista se mantiene
+     pero deja de comerse el ancho útil de la pantalla. */
+  :root {
+    --border:       2px solid var(--ink);
+    --border-thick: 3px solid var(--ink);
+    --shadow:       4px 4px 0 var(--ink);
+    --shadow-lg:    5px 5px 0 var(--ink);
+    --shadow-sm:    3px 3px 0 var(--ink);
+  }
+  body { background-size: 26px 26px; }
+  .container { padding: 0 .9rem; }
+
+  /* Header compacto: marca a la izquierda, meta en una fila que no salta */
+  .header-inner { padding: .6rem 0; gap: .5rem; flex-wrap: nowrap; }
+  .brand { gap: .5rem; }
+  .brand .logo { width: 34px; height: 34px; font-size: 1.1rem; }
+  .brand h1 { font-size: 1.05rem; }
+  .header-meta { gap: .45rem; }
+  .chip-live { font-size: .6rem; padding: .25rem .45rem; }
+  .chip-live::before { width: 7px; height: 7px; }
+  .chip-date { display: none; }
+  .btn-rss { font-size: .7rem; padding: .35rem .6rem; }
+
+  .hero { padding: 1.75rem 0 1rem; }
+  .hero .tag { font-size: .68rem; margin-bottom: .9rem; }
+  .hero h2 { max-width: none; }
+  .hero p { margin-top: .9rem; font-size: .95rem; }
+
+  /* Tasas: una encima de otra, con los números aún grandes */
+  .tasas-promedios { grid-template-columns: 1fr; gap: 1rem; margin-top: 1.5rem; }
+  .tasa-card { padding: 1rem 1.1rem; }
+  .tasa-card .moneda-label { margin-bottom: .7rem; font-size: .9rem; }
+  .tasa-card .flag { width: 30px; height: 30px; font-size: .95rem; }
+  .tasa-values { gap: .7rem; }
+  .tv-num { font-size: 1.7rem; }
+  .tv-sub { margin-top: .7rem; font-size: .65rem; }
+
   .ticker-band .label { display: none; }
+  .tk-item { font-size: .74rem; padding: .2rem .5rem; }
+
+  /* Nav: carrusel horizontal en vez de envolver en 3 filas */
+  .cat-nav {
+    flex-wrap: nowrap; overflow-x: auto; margin: 1.75rem 0 1.25rem;
+    padding-bottom: .55rem; gap: .5rem;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
+  }
+  .cat-nav::-webkit-scrollbar { display: none; }
+  .cat-nav button { flex: 0 0 auto; font-size: .72rem; padding: .5rem .8rem; }
+
+  .categoria { margin-bottom: 2.25rem; scroll-margin-top: 68px; }
+  .cat-header { gap: .6rem; margin-bottom: 1rem; }
+  .cat-icon { width: 36px; height: 36px; font-size: 1.05rem; }
+  .cat-header h3 { font-size: 1.15rem; }
+  .cat-count { font-size: .62rem; padding: .25rem .5rem; }
+
+  /* ── Tarjetas plegadas: título + fuente + fecha, nada más ── */
+  .cards-grid { grid-template-columns: 1fr; gap: .8rem; }
+  .card { padding: .9rem 1rem; }
+  .card:hover { transform: none !important; box-shadow: var(--shadow); }
+  .card > summary {
+    gap: .5rem;
+    /* Espacio a la derecha para la flecha */
+    padding-right: 1.75rem;
+  }
+  .card > summary::after {
+    content: '▸';
+    position: absolute; top: 0; right: 0;
+    font-size: 1.15rem; line-height: 1;
+    transition: transform .15s ease;
+  }
+  .card[open] > summary::after { transform: rotate(90deg); }
+  .card[open] > summary { border-bottom: var(--border); padding-bottom: .7rem; }
+  .card h4 { font-size: 1rem; }
+  .card-top { align-items: center; gap: .4rem; }
+  .card-source { font-size: .62rem; padding: .2rem .45rem; box-shadow: 2px 2px 0 var(--ink); }
+  .card-date { font-size: .62rem; }
+  .card .read-more { padding: .55rem .9rem; font-size: .74rem; }
+
+  .ia-analysis { padding: .6rem .8rem; }
+  .ia-analysis p { font-size: .84rem; }
+
+  footer { padding: 1.75rem 0; }
+  footer p { font-size: .88rem; }
+  footer .badge { font-size: .66rem; padding: .3rem .6rem; }
+}
+
+/* Menos movimiento para quien lo pida (y menos batería en móvil) */
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  html { scroll-behavior: auto; }
 }
 
 /* ── Fila superior de tarjeta: fuente + fecha ── */
