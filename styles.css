@@ -250,9 +250,18 @@ header {
   list-style: none; cursor: pointer;
   display: flex; flex-direction: column; gap: .7rem;
   position: relative;
+  padding-right: 2rem; /* espacio para la flecha */
 }
 .card > summary::-webkit-details-marker { display: none; }
 .card > summary:focus-visible { outline: 3px solid var(--pink); outline-offset: 4px; }
+.card > summary::after {
+  content: '▸';
+  position: absolute; top: 0; right: 0;
+  font-size: 1.2rem; line-height: 1;
+  transition: transform .15s ease;
+}
+.card[open] > summary::after { transform: rotate(90deg); }
+.card[open] > summary { border-bottom: var(--border); padding-bottom: .7rem; }
 .card-body { display: flex; flex-direction: column; gap: .7rem; margin-top: .7rem; }
 .card .read-more {
   align-self: flex-start; font-family: var(--font-display); font-size: .78rem;
@@ -367,19 +376,8 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   .cards-grid { grid-template-columns: 1fr; gap: .8rem; }
   .card { padding: .9rem 1rem; }
   .card:hover { transform: none !important; box-shadow: var(--shadow); }
-  .card > summary {
-    gap: .5rem;
-    /* Espacio a la derecha para la flecha */
-    padding-right: 1.75rem;
-  }
-  .card > summary::after {
-    content: '▸';
-    position: absolute; top: 0; right: 0;
-    font-size: 1.15rem; line-height: 1;
-    transition: transform .15s ease;
-  }
-  .card[open] > summary::after { transform: rotate(90deg); }
-  .card[open] > summary { border-bottom: var(--border); padding-bottom: .7rem; }
+  .card > summary { gap: .5rem; padding-right: 1.75rem; }
+  .card > summary::after { font-size: 1.15rem; }
   .card h4 { font-size: 1rem; }
   .card-top { align-items: center; gap: .4rem; }
   .card-source { font-size: .62rem; padding: .2rem .45rem; box-shadow: 2px 2px 0 var(--ink); }
