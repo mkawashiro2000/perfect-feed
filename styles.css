@@ -99,12 +99,15 @@ header {
 }
 .hero h2 {
   font-family: var(--font-display);
-  font-size: clamp(2.2rem, 6vw, 4rem); line-height: .98; letter-spacing: -.03em;
+  font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.22; letter-spacing: -.03em;
   max-width: 14ch;
 }
 .hero h2 mark {
   background: var(--pink); color: var(--ink);
-  padding: 0 .15em; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+  /* Padding vertical + line-height propio: evita que la ñ/coma de una línea
+     se monte sobre el fondo rosa de la línea vecina en Archivo Black. */
+  padding: .12em .15em; line-height: 1;
+  box-decoration-break: clone; -webkit-box-decoration-break: clone;
 }
 .hero p {
   margin-top: 1.2rem; max-width: 60ch; font-size: 1.05rem; font-weight: 500;
