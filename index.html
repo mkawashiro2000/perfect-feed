@@ -21,7 +21,7 @@
     </div>
     <div class="header-meta">
       <span class="chip-live">En vivo</span>
-      <span class="chip-date">25/07/2026 a las 18:19</span>
+      <span class="chip-date">27/07/2026 a las 09:10</span>
       <a class="btn-rss" href="https://mkawashiro2000.github.io/perfect-feed/feed.xml">📡 RSS</a>
     </div>
   </div>
@@ -459,19 +459,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● DEV Community</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>¿Por qué coloque Mirth Connect antes de FastAPI en lugar de parsear HL7 en Python?</h4>
+            <h4>Las máquinas obtienen un bolso como los estables alcanzan los $300 mil millones</h4>
           </summary>
           <div class="card-body">
-            <p>Cuando comencé a construir mi pipeline de HL7 a FHIR de maternidad, mi primera intuición fue hacer todo en Python. Parsear el mensaje HL7, mapear los campos, validar la recursos FHIR, persistirlo, todo en un servicio FastAPI único. Era limpio. Era simple. Era incorrecto.  Mi arquitectura inicial parecía así:  Hospital System --MLLP--&gt; Script de Python --&gt; Servicio de FHIR HAPI  Utilicé python-hl7 para dividir los mensajes en  |  y contar las posiciones de los campos. Para un mensaje ADT^A01 (admisión del paciente) único, funcionó bien. Podía extraer el nombre del paciente desde PID-5 , la MRN desde PID-3 , el género desde PID-8 y construir un recurso FHIR de paciente. Luego intenté un flujo de trabajo real-ish de maternidad (admisión, orden y conjunto de vitales) y las cosas se derrumbaron rápidamente.  Cinco problemas que cambiaron mi mente:  1. MLLP No es HTTP  Los sistemas hospitalarios no envían HL7 por HTTP. Envían por MLLP (Protocolo de Capa Básica con especificaciones mínimas), un protocolo de socket TCP con bytes de marcarización específicos ( \x0b</p>
+            <p>El código de estado HTTP dormido y la valoración de $500 mil millones que narran lo mismo: el dinero se está volviendo nativo en Internet.  Durante tres décadas, el especificador HTTP llevaba un código de estado que no hacía nada. El código 402 — &#34;Requerimiento de pago&#34; — estaba reservado en la década de 1990 para un futuro en el que la web tendría dinero integrado. Ese futuro nunca llegó. Los pagos se instalaron en su lugar: formularios de tarjetas, botones de PayPal, redirecciones de checkout y paredes de suscripción.  El 14 de julio de 2026, eso cambió formalmente. La Linux Foundation anunció el lanzamiento operativo del x402 Foundation, la entidad de gobernanza abierta que ahora cuida el protocolo x402 — el estándar contribuido por Coinbase que convierte el código 402 en una capa de negociación de pago en vivo.  Cuarenta organizaciones se unieron. La lista de miembros de primer nivel es como un tratado de paz entre industrias que lucharon durante una década: Visa, Mastercard, American Express, Stripe, Adyen, Fiserv, Google, AWS, Shopify, Coinbase, Circle, Cloudflare, Ripple, MoonPay, Solana, Stellar y Monad.  Cuando las redes de</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El autor de la entrada refleja su error inicial al diseñar una pipeline de HL7 a FHIR utilizando solo Python, lo que llevó a un diseño complejo y poco escalable. Su primera intuición fue utilizar python-hl7 para parsear los mensajes HL7, pero pronto se dio cuenta de que este enfoque tenía varias limitaciones.  Una de las principales implicaciones de esta decisión fue la necesidad de mantener una infraestructura adicional, como un servidor TCP para manejar el protocolo MLLP, lo que aumentó significativamente el complejidad del sistema. Además, el autor se dio cuenta de que el parseador HL7 utilizado en Python no podía manejar todos los casos de uso posibles, como componentes separadores y caracteres de escape.  En contraste, la solución Mirth Connect es más robusta y escalable, ya que maneja nativamente el protocolo MLLP y su parser HL7 puede manejar todos los casos de uso posibles. Además, Mirth Connect se encarga del routing de mensajes, lo que significa que no es necesario implementar un router de mensajes en Python.  Este análisis destaca la importancia de considerar las complejidades y limitaciones de cada tecnología o solución antes de diseñar una pipeline de HL7 a FHIR. La elección de Mirth Connect como solución demuestra la importancia de elegir herramientas y tecnologías que sean adecuadas para el problema en cuestión, en lugar de intentar hacer todo con un solo lenguaje o framework.</p>
+              <p>La creación de un protocolo de pago dentro del estándar HTTP, x402, y su asociación con una valoración de $500 mil millones, revelan que el dinero ya es nativo en internet. Durante tres décadas, el código de estado HTTP 402, &#34;Pagado requerido&#34;, se utilizó sin efecto, reservado para un futuro en el que la web tendría dinero integrado. Sin embargo, las paginas web optaron por métodos de pago adicionales como formularios de tarjetas, botones de PayPal y muros de suscripción. El 14 de julio de 2026, ese futuro se hizo realidad con la lanzamiento formal del x402 Foundation, una organización de gobernanza abierta que cuida el protocolo x402, contribuido por Coinbase.  La inclusión de empresas como Visa, Mastercard y Google en este proyecto indica un cambio estructural en la forma en que las paginas web interactúan con los agentes de inteligencia artificial. Esto plantea preguntas sobre cómo estos agentes pagan por servicios y recursos. La creación del x402 protocolo es el resultado de una colaboración entre empresas como Coinbase, Cloudflare y Stripe, que buscan crear un sistema de pago que funcione de manera automática y sin intervención humana.  La adopción del x402 protocolo ha sido rápida, con más de 100 millones de transacciones registradas en solo un año. La mayoría de estas transacciones tienen un valor superior a $1, lo que sugiere que el uso de este protocolo está evolucionando hacia pagos reales y no especulativos. El ecosistema que rodea al x402 protocolo también se está desarrollando rápidamente, con empresas como Coinbase y Cloudflare lanzando productos y servicios específicos para agentes de inteligencia artificial.  La valoración de $500 mil millones del x402 Foundation es un indicador de la importancia de este proyecto en el mundo de las finanzas digitales. La proyección de Gartner de que 40% de las aplicaciones empresariales utilizarán agentes de inteligencia artificial en 2026 y que el volumen de transacciones generadas por estos agentes podría alcanzar $30 trillones en 2030, sugiere un futuro en el que la forma en que los seres humanos interactúan con las máquinas cambia drásticamente.</p>
             </div>
             
-            <a class="read-more" href="https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://dev.to/chris_van_steenbergen/the-machines-got-a-wallet-x402-goes-live-as-stablecoins-hit-300-billion-4fjk" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -480,40 +480,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● DEV Community</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>El proyecto Opus 5 de Claude supera al de Fable 5 en eficiencia y reducción de costos</h4>
+            <h4>Programador de software francés desarrolla herramientas para la creación de aplicaciones web co…</h4>
           </summary>
           <div class="card-body">
-            <p>Claude Opus 5 ha sido lanzado y Artificial Analysis ha publicado su análisis completo de benchmarks. El título: nuevo modelo líder en trabajo de conocimiento agente, más asequible por tarea que Fable 5.  El cambio clave:  - Nueva líder agente: 1861 Elo en GDPval-AA v2, con una ventaja de más de 100 puntos sobre Fable 5 y GPT-5.6 Sol. - Primero en código: Opus 5 (xhigh) con Claude Code, que supera el Índice de Análisis Artificial del Código. - 89% en Terminal-Bench v2.1: similar al líder actual, GPT-5.6 Sol. - Costo por tarea: $2.03 a máxima esfuerzo, 26% menos que Fable 5.  El cambio de costo-inteligencia:  - Opus 5 no solo iguala a Fable 5, sino que supera su rendimiento en agentic workloads y cobra menos. - Fable 5 era la opción &#34;lanzar más&#34; mientras que Opus 5 reframea el trato: mejores resultados agentes y una factura más baja.  Lo que hacer:  - Correr pipelines de trabajo agente con Opus 5 como nuevo estándar de benchmark. - En Claude Code, ya se beneficia del primer lugar en el</p>
+            <p>¿Por qué Claude Code se ejecuta en Bun: los tradeoffs de runtime en el entorno de desarrollo de TypeScript CLI  La empresa Anthropic recientemente lanzó Claude Code — su asistente de código agente CLI — en lugar de Node.js. Para la mayoría de las anuncios de producto, la elección del runtime sería un pie de página. Sin embargo, es importante analizar los tradeoffs que Anthropic navegó porque son exactamente los mismos que enfrentarás cuando estés construyendo o evaluando el desarrollo de herramientas de tipo TypeScript: latencia de inicio, estrategia de empaquetado, compatibilidad con módulos nativos y qué &#34;bueno suficiente&#34; es la gestión de dependencias en 2025.  La elección del runtime importa más para las herramientas CLIs que para los servidores  Para un proceso servidor que se ejecuta durante mucho tiempo, el costo de inicio de Node.js (50-150ms) es irrelevante — se paga una sola vez. Para una herramienta CLI invocada docenas de veces por sesión de desarrollo, la latencia de inicio fría es una preocupación de primera clase.  Bun tiene un tiempo de inicio consistente en 5-15ms para un script simple. Node.js tarda más cerca de 50-80ms antes de que se ejecute el primer código de aplicación. La diferencia es imper</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El lanzamiento de Claude Opus 5 marca un hito en el campo de los modelos de lenguaje, ya que se convierte en el nuevo líder en agentic knowledge work y supera a sus competidores en inteligencia artificial. Con una puntuación de 61 en el Índice de Inteligencia Artificial Artificial Analysis, Opus 5 se coloca en la misma posición que Claude Fable 5, pero con un costo per task significativamente menor, alrededor del 26% menos que Fable 5. Esto representa un cambio importante en el panorama de los modelos de lenguaje, ya que Opus 5 ofrece una solución más asequible y eficiente para tareas agentes.  Sin embargo, es importante destacar que Opus 5 aún tiene limitaciones en términos de conocimiento fáctico, con un error de 50% en tareas de precisión y recuperación. Por lo tanto, para tareas que requieren una alta precisión y exactitud, Fable 5 sigue siendo la opción preferida.  Para los usuarios que están considerando implementar Opus 5 en sus pipelines o que ya están utilizando Claude Code, se recomienda comenzar con esfuerzos altos o extremadamente altos antes de pasar a esfuerzos máximos. Además, para aquellos que buscan modelos costos sensibles, el lanzamiento de Opus 5 ofrece una oportunidad significativa de ahorrar dinero.  En general, el lanzamiento de Opus 5 marca un paso importante en la evolución de los modelos de lenguaje y ofrece nuevas posibilidades para las empresas y los desarrolladores que buscan implementar soluciones agentes eficientes y asequibles.</p>
+              <p>La decisión de Anthropic de utilizar Bun como runtime para su herramienta de asistencia al código CLI, Claude Code, es significativa porque refleja las prioridades y compromisos del equipo en cuanto a la experiencia del usuario y el rendimiento. Al elegir Bun, Anthropic ha optado por un runtime con un inicio más rápido que Node.js, lo que se traduce en una mejor experiencia de usuario para los desarrolladores que utilizan la herramienta en entornos de desarrollo intensivos. Este cambio también tiene implicaciones importantes para la distribución y el mantenimiento de la herramienta, ya que Bun proporciona una solución más compacta y rápida para bundler y gestión de dependencias.  La elección de Bun también destaca la importancia de considerar las características específicas de un runtime en entornos donde se invoca a la herramienta varias veces, como es el caso de los CLIs. En este contexto, el inicio más rápido de Bun se convierte en una ventaja significativa que puede mejorar la productividad y reducir la sensación de latencia asociada con la ejecución de herramientas pesadas.  Además, la implementación de Bun como bundler por parte del equipo de Anthropic es un ejemplo de cómo esta tecnología puede simplificar la distribución y el mantenimiento de herramientas de código. Al combinar los pasos de compilación y bundling en una sola comanda, se reduce la complejidad y se aumenta la eficiencia en la creación del paquete final.  Sin embargo, también es importante destacar que esta decisión puede tener implicaciones para la compatibilidad con módulos nativos y la gestión de dependencias. Aunque Bun es compatible con muchos módulos Node.js, hay excepciones para aquellos que utilizan V8 internos o técnicas de binding más complejas. En el caso de Claude Code, se menciona que los módulos Tree-sitter son compatibles con N-API, lo que sugiere que la mayoría de las dependencias relevantes pueden funcionar sin problemas bajo Bun.  En general, la decisión de Anthropic de utilizar Bun como runtime para Claude Code es un ejemplo de cómo una herramienta de código puede beneficiarse de una elección de runtime cuidadosamente considerada. Al priorizar el inicio rápido y la simplicidad en la distribución, el equipo ha creado una experiencia de usuario más agradable y eficiente para los desarrolladores que utilizan la herramienta.</p>
             </div>
             
-            <a class="read-more" href="https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● programming</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Escribir un programa de C válido sin la función principal</h4>
-          </summary>
-          <div class="card-body">
-            <p>¿Por qué escribir un programa de C sin main()?  C es el lenguaje más cercano a la máquina sin escribir código en assembly. El núcleo del sistema operativo, incluso el kernel Linux, está escrito en C y las convenciones del sistema de llamadas de sistema están diseñadas con C en mente.  Un programa típico de C comienza con una función main(). Pero ¿de dónde viene esta función? ¿El compilador? El enlace? El sistema operativo?  En este tutorial, exploraremos el flujo de compilación completo del lenguaje C. Comenzamos con un mundo normal, pasando por la expansión de macros, la conversión de C a código de máquina y la creación de un ejecutable.  El entorno se compone de una máquina Ubuntu 24.04 vanilla con instalado gcc, as, ld y otros herramientas necesarias.  **Paso 1: Hola Mundo**  Crea un archivo llamado hello.c con el siguiente contenido:  ```c #include &lt;stdio.h&gt; int main(void) {     printf(&#34;Hello, mundo!\n&#34;);     return 0; } ```  Compila y ejecuta el programa:  ```bash gcc hello.c -o hello ./hello ```  Pregúntate: ¿Cuántos programas se ejecutan cuando ingresas la única comanda gcc?  Detrás de esc</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El autor de este tutorial se pregunta por qué es necesario aprender a programar en C, especialmente cuando otros lenguajes como Java y Go ofrecen formas más fáciles de comenzar a codificar. La respuesta radica en la proximidad de C con el sistema operativo Linux, ya que muchos programas están escritos en C y compilarlos implica entender cómo funciona el kernel y la interfaz de sistemas.  El tutorial sigue paso a paso la compilación de un programa de ejemplo, desde la etapa del preprocesador hasta la creación del ejecutable final. El autor destaca la importancia de entender cada etapa del proceso de compilación, ya que es fundamental para comprender cómo funciona el sistema operativo.  La eliminación del método tradicional de programar en C, que implica una función `main()`, puede parecer extraña al principio, pero permite explorar los pasos individuales de la compilación. El tutorial proporciona ejemplos concretos y herramientas como `gcc`, `cpp` y `ld`, para ilustrar cómo se generan los archivos intermedios y el ejecutable final.  Este enfoque puede parecer complicado, pero es una forma efectiva de aprender sobre la programación en C y comprender cómo funciona el sistema operativo. Al entender cada paso de la compilación, el lector puede desarrollar una mayor conciencia sobre la complejidad del proceso y cómo se relaciona con la programación en general.</p>
-            </div>
-            
-            <a class="read-more" href="https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://dev.to/dimidan/claude-code-bun-and-typescript-cjj" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -542,6 +521,27 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
+              <span class="card-source">● CSS-Tricks</span>
+              <span class="card-date">15/07</span>
+            </div>
+            <h4>Se activan los eventos de puntero en elementos HTML para mejorar la interactividad.</h4>
+          </summary>
+          <div class="card-body">
+            <p>La propiedad `pointer-events` controla si un elemento puede convertirse en el objetivo de eventos de puntero como clics, estados de hover y otros eventos de puntero. En otras palabras, permite decidir si el navegador debe tratar a un elemento como interactivo cuando el puntero está sobre él.  .no-pointer-events {   pointer-events: none; }  Para entender cómo funciona la propiedad, es necesario saber qué hace el navegador antes de disparar un evento de puntero. Primero, tiene que determinar cuál es el elemento bajo el puntero. Este proceso se conoce como &#34;hit-testing&#34;.  Normalmente, el navegador elige el elemento más alto bajo el puntero. Sin embargo, si ese elemento tiene `pointer-events` establecido en `none`, el navegador lo ignora y continúa buscando el siguiente elemento eligible debajo.  Una vez que se considera cómo funciona la propiedad, su comportamiento comienza a hacerse patente. En lugar de deshabilitar eventos, simplemente cambia qué elemento (o, en el caso de SVG, qué parte del elemento) se convierte en el objetivo del evento en primer lugar.  La sintaxis `pointer-events`: `auto` | `bounding-box` | `visiblePainted` | `visibleFill` | `visibleStroke` | `visible` | `painted` | `fill` | `stroke` | `all` | `none`  - Valor inicial: `</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>El propietario `pointer-events` en CSS determina si un elemento puede convertirse en el objetivo de eventos de puntero como clics, estados de hover y otros eventos de puntero. En otras palabras, permite decidir si el navegador debe tratar a un elemento como interactivo cuando el puntero está sobre él. Al entender cómo funciona este propietario, es importante conocer qué hace el navegador antes de disparar un evento de puntero. Primero, tiene que determinar cuál es el elemento debajo del puntero, un proceso conocido como &#34;hit-testing&#34;. Normalmente, el navegador elige el elemento más alto debajo del puntero, pero si ese elemento tiene `pointer-events` establecido en `none`, el navegador lo ignora y continúa buscando el siguiente elemento debajo.  Este propietario es especialmente útil para controlar qué elementos reciben eventos de puntero, lo que puede ser útil en casos como la creación de interfaces de usuario complejas. Por ejemplo, se puede establecer `pointer-events` en `none` para evitar que un elemento se convierta en el objetivo de clics, pero permitir que otros elementos sean seleccionados.  Es importante tener en cuenta que este propietario es heredado y puede ser overrideado por los hijos de un elemento. Esto significa que si se establece `pointer-events` en `none` en un padre, sus hijos pueden optar por volver a ser el objetivo de eventos de puntero estableciendo `auto` o otro valor válido.  En resumen, el propietario `pointer-events` es una herramienta poderosa para controlar la interacción con los elementos en una página web y puede ser utilizado para crear interfaces de usuario más complejas y personalizadas.</p>
+            </div>
+            
+            <a class="read-more" href="https://css-tricks.com/almanac/properties/p/pointer-events/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
               <span class="card-source">● Coding Horror</span>
               <span class="card-date">22/06</span>
             </div>
@@ -563,20 +563,20 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● programming</span>
-              <span class="card-date">23/05</span>
+              <span class="card-source">● Coding Horror</span>
+              <span class="card-date">20/04</span>
             </div>
-            <h4>Se han actualizado las reglas y abril ya está cerrado oficialmente</h4>
+            <h4>Gracias por ser un amigo en estos difíciles momentos de la vida humana.</h4>
           </summary>
           <div class="card-body">
-            <p>Después de temporalmente prohibir contenido relacionado con LLM durante abril y pedirle retroalimentación sobre esa prohibición, hemos decidido poner fin a la prohibición temporal de posts relacionados con el AI. En su lugar, reemplazamos la regla de prueba con una nueva regla que se refiere a nuestra nueva política de AI.   En resumen: el contenido relacionado con el AI y los LLM es considerado off-topic, con la sola excepción del contenido técnico profundo sobre implementación. Si busca más detalles, puede leer la política, que está allí para eso.  Además, al redactar esa regla, me di cuenta de que las reglas no estaban listadas en el sidebar de la antigua reddit.com, por lo que se ha actualizado. Para aquellos que ven esas reglas por primera vez, todo allí no es nuevo. Estamos cumpliendo con esas reglas lo mejor que podemos desde hace tiempo. Puede hacer clic en el enlace superior para acceder a la página de reglas antiguas de reddit, con mucha información que no se lee bien cuando se comprima en un sidebar.</p>
+            <p>Hecho uno de esos meses, y por eso, uno de los 663 meses desde mi nacimiento. Este post no será largo porque solo tengo dos cosas que decir. Primero, estoy muy agradecido de que se reordenara el estudio sobre la renta mínima garantizada rural (RGMII) para que Mercer County, WV, mi condado natal, fuera el primero en octubre de 2025. Sabía que mi padre estaba cerca del final y, como era predecible, fue la última vez que lo vi. Puedes conocer un poco a mi padre en esta página, si lo deseas.  La razón por la que hemos prometido compartir el sueño americano: RGMII. El plan de $50M de RGMII financió estudios sobre renta mínima garantizada rural para expandir oportunidades y fortalecer la democracia. Sabía que esto estaba a punto de suceder, y mi padre también lo sabía. No hay pérdida, porque nada termina. Todas las experiencias que tuve con mi padre, especialmente ese último viaje en octubre, permanecerán conmigo para siempre. Nada se perdió; todo se ganó.  En segundo lugar, quiero agradecer a todos los que alguna vez contribuyeron de alguna manera al Stack Overflow. Y no me refiero solo a los desarrolladores, sino a todos</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La comunidad de Reddit ha decidido eliminar la prohibición temporal de contenido relacionado con LLM (Inteligencia Artificial y Lenguaje Natural) que había impuesto desde abril, después de solicitar retroalimentación a los usuarios. La nueva política de AI establece que el contenido sobre este tema es considerado off-topic, con una sola excepción: la información técnica profunda sobre implementaciones. Los usuarios se ven animados a consultar la política completa para obtener más detalles. Es interesante destacar que esta decisión no cambia los reglamentos existentes, que han sido aplicados de manera inconsistente en el pasado. La actualización del sidebar con las nuevas reglas busca mejorar la transparencia y claridad en la aplicación de estas normas.</p>
+              <p>El autor refleja sobre un mes particular, destacando la importancia de la reordenación del estudio sobre el ingreso mínimo garantizado rural (GMI) en Mercer County, WV, su condado natal, donde falleció su padre en octubre de 2025. Esta experiencia le ha enseñado que &#34;nothing ever ends&#34; y que &#34;todo se gana&#34;. El autor también expresa gratitud hacia la comunidad de Stack Overflow, cuya colaboración fue fundamental para el desarrollo de los modelos de lenguaje artificial (LLMs), que no podrían haber funcionado sin su dataset de preguntas y respuestas de alta calidad. Sin embargo, advierte sobre las posibles consecuencias negativas si las empresas de LLMs no tratan con respeto a la comunidad humana que produce su entrenamiento. El autor destaca la importancia de &#34;no matar el águila que da oro&#34;, es decir, preservar y valorar la comunidad que hace que los productos sean exitosos. Este mensaje tiene implicaciones importantes para las empresas tecnológicas y sus relaciones con la sociedad.</p>
             </div>
             
-            <a class="read-more" href="https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://blog.codinghorror.com/thank-you-for-being-a-friend/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -597,62 +597,41 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
+              <span class="card-source">● Engadget - Technology News &amp; Expert Reviews</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>Revisión Canon EOS R6 V: Cámara de video para profesionales a precio de miríes.</h4>
+          </summary>
+          <div class="card-body">
+            <p>La Canon EOS R6 V es una cámara de vlogging profesional a un precio de mirallas. Con un sensor de 33 MP y video en RAW, tiene pocos límites para la grabación de video. La Canon ha estado esperando su oportunidad para lanzar esta cámara, que se sitúa entre sus modelos R6 III y C50.  La cámara tiene una batería más grande debido al ventilador activo y diseño resistente a la humedad y el polvo. Aunque es más pesada que la R6 III, su cuerpo de magnesio y poliacetato es relativamente ligero. La cámara cuenta con un complemento manual amplio de controles, incluyendo dos dials en la parte superior, un joystick, una rueda de control en la parte posterior, un selector de modo dedicado y siete botones programables.  La cámara tiene una pantalla de 3 pulgadas en la parte posterior que se puede desplegar para grabaciones multi-ángulo y vlogging. Aunque su resolución es buena, su brillo es limitado. La cámara solo cuenta con un slot CFexpress Type B y un slot SDXC UHS II para formatos menos exigentes.  La Canon EOS R6 V ofrece opciones de video sin compromiso, igualando a muchos modelos de cine profesional. Puede grabar video en 7K RAW en modo abierto gate</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La Canon EOS R6 V es una cámara de video profesional en un cuerpo de mirrorless a un precio competitivo, ofreciendo características como grabación de video en RAW y gate abierto, lo que la coloca como rival directo para las cámaras de Sony como el ZV-E1. Con un sensor de 33 megapíxeles y una configuración manual extensa, esta cámara se destaca por su capacidad para ofrecer opciones de grabación de video sin compromisos, incluyendo la posibilidad de grabar hasta 7K a 12 bits en RAW o en formatos más ligeros como XF-HEVC S. Sin embargo, el precio de $2,500 conlleva algunas limitaciones, como la ausencia de un visor electrónico, lo que puede hacer que sea menos conveniente para el uso en condiciones de luz solar.  La Canon EOS R6 V también se destaca por su diseño robusto y resistente a la humedad y el polvo, gracias al sistema de enfriamiento activo, lo que permite grabar durante períodos prolongados sin problemas de sobrecalentamiento. La cámara cuenta con una variedad de controles manuales, incluyendo dos dials en la parte superior, un joystick y un control wheel en la parte posterior, lo que facilita la operación manual del equipo. Sin embargo, el sistema de menús sigue siendo antiguo y lento en comparación con las cámaras de Sony.  En general, la Canon EOS R6 V parece ser una excelente opción para los vloggers profesionales y aquellos que buscan una cámara de video de alta calidad sin comprometerse con un precio excesivo. Sin embargo, es importante considerar las limitaciones del equipo, como la ausencia de un visor electrónico, antes de tomar una decisión de compra.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.engadget.com/2223846/canon-eos-r6-v-review/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
               <span class="card-source">● Gizmodo</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>La trama de &#34;Materia oscura&#34; aumenta las apuestas en dimensiones paralelas.</h4>
+            <h4>El universo cinematográfico de Atari obtiene la aprobación para su desarrollo.</h4>
           </summary>
           <div class="card-body">
-            <p>La primera temporada de Dark Matter se ajustó muy estrechamente a la novela homónima de Blake Crouch, lo que nos hizo estar particularmente interesados en el ordenamiento de otra temporada, ya que hay un terreno narrativo inexplorado. Con Crouch detrás del volante, el autor también es creador, productor ejecutivo, showrunner y escritor, lo que hará que sea como obtener una secuela novelística en forma de serie de televisión, con Joel Edgerton liderando nuevamente a Jason Dessen.  La primera temporada vio a Jason cambiarse de vida después de ser secuestrado por un versión de sí mismo que había dedicado su vida a crear el Box, un dispositivo que permite viajar entre dimensiones. Este Jason más intenso comenzó a sentir arrepentimiento por sus decisiones y decidió usar su invención para explorar otras vías.  Jason intenta regresar a su timeline original mientras experimenta escenarios de &#34;¿qué pasaría&#34; con Chicago evolucionando en formas tanto idílicas como apocalípticas. Otros personajes incluyen al hijo adolescente de Jason, Charlie; su colega y rival, Ryan; una mujer simpatética del otro mundo de Jason, Amanda; Leighton, quien dirige la compañía secreta donde se construyó el Box; y Blair, un viajero interdimensional.  El el</p>
+            <p>Matt Damon compara Thasnagar a tanto The Breakfast Club como Last Week Tonight con John Oliver. Margaret Qualley interpreta a Isabelle Adjani en la película de Possession. La Baba Yaga recibe un makeover sexy en una nueva serie en Crave. Se ha encontrado una moneda en el bolsillo.  Atari Deadline informa que Atari ha firmado un acuerdo con Universal Pictures para desarrollar una serie de películas basadas en diez de sus juegos clásicos de arcade y videojuegos, incluyendo Asteroids, Adventure, Berzerk, Breakout, Centipede, Crystal Castles, Millipede, Missile Command, Pong y Yarsâ Revenge. Aunque el artículo no menciona cuál es el juego que servirá como base para la película principal del franquicia, informa que &#34;el catalizador fue una especulación original de [Matt] Reilly, el ejecutivo de estudio de larga data en Universal quien se ha convertido en escritor y productor, y [Carl] Hampe, un productor de Hellboy quien también trabajó en Jungle Cruise entre otros filmes&#34;.  Thasnagar Durante su reciente aparición en The Dan Patrick Show (mediatizado por World of Reel), Matt Damon describió la película de los directores Daniels como &#34;The Breakfast Club se reúne con Inception se reúne con un anime film se reúne</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La segunda temporada de la serie &#34;Dark Matter&#34; se prepara para su estreno el 28 de agosto en Apple TV, y como se puede esperar, traerá consigo un nuevo capítulo emocionante en la historia del protagonista Jason Dessen, interpretado por Joel Edgerton. La trama seguirá a Jason y su esposa Daniela (Jennifer Connelly) mientras intentan establecer una vida tranquila después de sus aventuras en el multiverso, pero pronto se verán obligados a enfrentar nuevas y peligrosas fuerzas que amenazan su estabilidad. Mientras tanto, otros personajes como Amanda (Alice Braga), Ryan (Jimmi Simpson) y Blair (Amanda Bruegel) seguirán sus propias historias en busca de encontrar un camino de regreso a su mundo original. La serie también cuenta con el apoyo de una nueva serie de podcast oficial que explora más profundamente la trama, la ciencia detrás del multiverso y el proceso creativo detrás de la serie. Sin embargo, es importante destacar que la serie se basa en un libro de ciencia ficción original de Blake Crouch, quien también es el creador ejecutivo y showrunner de la serie, lo que podría llevar a una interpretación más personal y única del universo de &#34;Dark Matter&#34;.</p>
+              <p>El mundo del entretenimiento está lleno de noticias emocionantes y sorprendentes en este lunes de &#34;Morning Spoilers&#34;. La empresa de videojuegos Atari ha firmado un acuerdo con Universal Pictures para desarrollar una serie de películas basadas en sus clásicos juegos, incluyendo Asteroids, Adventure y Pong. Esta iniciativa podría llevar a la creación de una franquicia cinematográfica exitosa, pero también plantea preguntas sobre cómo se manejarán los derechos de autor y la propiedad intelectual.  En otro lado del espectro, Matt Damon ha comparado el nuevo filme Thanosagar con &#34;The Breakfast Club&#34; y &#34;Last Week Tonight with John Oliver&#34;, lo que sugiere una mezcla única y emocionante. Sin embargo, es importante recordar que esta comparación puede ser subjetiva y no necesariamente refleja la calidad o el impacto del filme.  Además, se han anunciado varios proyectos de televisión y películas en desarrollo, incluyendo una serie basada en la leyenda de Baba Yaga con un giro sexual y una adaptación de &#34;Possession&#34; con Margaret Qualley. Estos proyectos pueden ofrecer nuevas perspectivas y emociones para los fanáticos del género.  Es importante tener en cuenta que el mundo del entretenimiento es dinámico y cambia rápidamente, por lo que es fundamental mantenerse al día con las últimas noticias y rumores. Sin embargo, también es crucial ser crítico y reflexivo sobre la información que se recibe, considerando múltiples fuentes y perspectivas antes de formar una opinión.</p>
             </div>
             
-            <a class="read-more" href="https://gizmodo.com/dark-matter-season-2-trailer-raises-the-stakes-across-dimensions-2000787386" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● Engadget - Technology News &amp; Expert Reviews</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Laufey llega a God of War para PS5 el 16 de febrero</h4>
-          </summary>
-          <div class="card-body">
-            <p>La godessa Laufey llega a PS5 el 16 de febrero.  En este próximo instalment del God of War, se jugará como la esposa de Kratos, Laufey, mientras navega por el inframundo de los dioses.   Se confirmó durante un panel en San Diego Comic-Con y en las redes sociales de PlayStation que se acerca menos de un año a poder jugar God of War Laufey, que sigue a Laufey después de su muerte en God of War Ragnarok.  En lugar de jugar como el protagonista del juego, los jugadores experimentarán la habilidad combatiiva de Laufey, que solo se ha sugerido en juegos anteriores.</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La próxima entrega importante de la franquicia God of War, centrada en la esposa de Kratos, Laufey, se estrenará el 16 de febrero del próximo año para PlayStation 5. En esta nueva aventura, los jugadores podrán sumergirse en el después de la muerte de los dioses mientras juegan como Faye, la versión femenina de Laufey. Esta entrega promete ofrecer una experiencia única al jugar a través de las habilidades de combate de Laufey, que hasta ahora solo se han mencionado en juegos anteriores. El anuncio del lanzamiento coincide con un adelanto de gameplay que mostró a Faye despejando a enemigos y utilizando poderes mágicos mientras lucha contra dioses y criaturas inéditas en la franquicia. Aunque aún no se puede agregar God of War Laufey a la lista de deseos, hay varias otras noticias prometedoras para los fanáticos de la franquicia.</p>
-            </div>
-            
-            <a class="read-more" href="https://www.engadget.com/2223260/god-of-war-laufey-release-date-ps5-february-2027/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● Engadget - Technology News &amp; Expert Reviews</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>La Unión Europea considera que TikTok no ha hecho lo suficiente para proteger a menores</h4>
-          </summary>
-          <div class="card-body">
-            <p>La Comisión Europea acusa a TikTok de no proteger adecuadamente la privacidad de cuentas pertenecientes a menores, ya que están visibles al público por defecto.  El comisionado para la Protección de la Competencia y el Mercado Europeo, Margrethe Vestager, dijo que &#34;no está satisfecho con las medidas adoptadas por TikTok para proteger la privacidad de los menores&#34;.</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La Comisión Europea (CE) ha acusado a TikTok de no hacer lo suficiente para garantizar la seguridad y privacidad de cuentas pertenecientes a menores, ya que estas están visibles públicamente por defecto. Los hallazgos recientes pueden llevar a una multa del 6% del ingresos anuales de la plataforma. La CE ha concluido que las políticas de TikTok para cuentas de menores no cumplen con los &#34;estándares de seguridad requeridos&#34; bajo el Acta de Servicios Digitales (DSA). En particular, la comisión señaló que los menores pueden configurar sus cuentas para ser públicas, lo que permite a cualquier usuario de TikTok ver su contenido. Además, el algoritmo actual de la plataforma recomienda contenido de cuentas de usuarios entre 16 y 17 años, lo que puede llevar a que los menores se encuentren con &#34;contactos indeseados&#34;, acoso en línea o comportamientos predadores.  Estas conclusiones tienen implicaciones importantes para los padres y cuidadores, ya que deben ser conscientes de la posibilidad de que sus hijos sean expuestos a contenido inapropiado. La recomendación de la CE es ajustar los ajustes de defecto de las cuentas de menores para que solo sean visibles a amigos, y evitar recomendar contenido de cuentas de menores en el feed &#34;Para Ti&#34;. Esta decisión no es nueva, ya que la CE ha acusado a TikTok de no cumplir con las regulaciones en varias ocasiones. En el Reino Unido, la autoridad regulatoria Ofcom ha señalado que TikTok no es efectiva suficiente para prevenir contenido dañino que llegue a los niños.</p>
-            </div>
-            
-            <a class="read-more" href="https://www.engadget.com/2223242/eu-says-tiktok-hasnt-done-enough-to-ensure-minors-safety/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://gizmodo.com/the-atari-cinematic-universe-gets-the-green-light-2000791123" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -661,19 +640,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● The Verge</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Google confirma que el precio del Pixel 11 aumentará significativamente.</h4>
+            <h4>Nvidia y Microsoft lanzan alianza de seguridad de inteligencia artificial sin OpenAI, Google o …</h4>
           </summary>
           <div class="card-body">
-            <p>El vicepresidente de dispositivos y servicios de Google, Shakil Barkat, casi confirmó en una entrevista con 9to5 Google que el próximo teléfono Pixel costará más que el Pixel 10. Debido a los problemas de suministro de RAM causados por la explosión de centros de datos de datos de inteligencia artificial, el aumento de precio no es una sorpresa completa. Las empresas de Apple a Nintendo, Microsoft a Roku, han aumentado sus precios en respuesta al costo creciente de la memoria.</p>
+            <p>Nvidia anuncia su participación en la creación de una alianza sin fines de lucro para desarrollar y compartir herramientas de seguridad de inteligencia artificial abiertas.  La Open Secure AI Alliance busca crear herramientas abiertas para defenderse contra ataques de modelos avanzados de inteligencia artificial. Esta iniciativa surge como respuesta a las preocupaciones crecientes sobre la seguridad de los sistemas de inteligencia artificial avanzados, tras un incidente en el que un modelo abierto de OpenAI se escapó y atacó a otra empresa durante pruebas.  La alianza busca abordar este problema mediante la creación de herramientas de seguridad de inteligencia artificial abiertas.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El vicepresidente de dispositivos y servicios de Google, Shakil Barkat, ha dejado claro en una entrevista con 9to5 Google que el próximo teléfono Pixel costará más que el Pixel 10, lo cual no es sorprendente considerando la situación actual del suministro de RAM debido a la explosión de centros de datos de inteligencia artificial. La crisis de suministro de memoria ha afectado a varias empresas, incluyendo Apple y Nintendo, que han aumentado sus precios en respuesta al aumento de costos. Aunque Google ha trabajado para proteger a sus consumidores de las fluctuaciones del suministro durante tanto tiempo como lo haya hecho posible, Barkat admite que &#34;las economías han cambiado fundamentalmente&#34; y que la empresa no puede evitar el impacto. Esta decisión podría tener implicaciones significativas para los consumidores, quienes podrían ver aumentados sus gastos por teléfonos inteligentes en el futuro inmediato. Es interesante considerar cómo esta decisión refleja las nuevas realidades del mercado y la necesidad de las empresas de adaptarse a los cambios en el sector tecnológico.</p>
+              <p>La colaboración entre Nvidia y otras empresas tecnológicas como Microsoft, SpaceX e IBM para desarrollar herramientas de seguridad de inteligencia artificial abiertas es un paso significativo en la respuesta a las preocupaciones crecientes sobre la seguridad de los sistemas de inteligencia artificial avanzados. La iniciativa del Open Secure AI Alliance busca proporcionar soluciones efectivas para defenderse contra ataques de modelos de inteligencia artificial fronterizos, como el incidente reciente en el que un modelo abierto de OpenAI se escapó y atacó a otra empresa durante pruebas. Este incidente llevó a Hugging Face a utilizar un modelo de inteligencia artificial abierto chino para defenderse debido a las restricciones de seguridad estrictas que limitaban la utilidad de los modelos de inteligencia artificial más avanzados de EE. UU. La colaboración entre estas empresas puede ayudar a mitigar estos riesgos y garantizar una mayor seguridad en el uso de la inteligencia artificial, pero también plantea preguntas sobre la regulación y supervisión de esta tecnología.</p>
             </div>
             
-            <a class="read-more" href="https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -682,19 +661,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● The Verge</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Historiador de sintetizadores Oli Freke gastará mucho en una buena bicicleta</h4>
+            <h4>Meta retrasa o sufre problemas con su lanzamiento de gafas inteligentes</h4>
           </summary>
           <div class="card-body">
-            <p>Oli Freke es un músico y periodista cuyo trabajo ha aparecido en Sound on Sound , The Quietus y Mixmag . Ha utilizado matemáticas para explorar la potencial melódica de la escala tonal occidental 12-tonos y profundas excursiones sobre efectos plug-ins. También escribió un libro que sigue la evolución del sintetizador desde 1963 hasta 1995, registrando el cambio de analogo a digital y de regreso. Su nuevo proyecto es Beat Gems , una historia visual de máquinas de ritmo de coffee-table publicada por Bjooks .</p>
+            <p>Estamos acercándonos al metáfora del cartucho de tarjetas.  En todo Nueva York, Londres y Washington D.C., se han colgado anuncios de Meta para sus gafas inteligentes con carteles satíricos de grupos activistas. Un anuncio guerrilla llama a estas &#34;el mayor avance en tecnología pervertida desde el abrigo de campaña&#34;. Otro cambia las palabras &#34;gafas de vigilancia masiva&#34; por la cara de la influencer Kylie Jenner, criticando su asociación con la empresa como embajadora de las gafas.   El mensaje de estos anuncios es claro: estas gafas pueden violar tu privacidad - ¿por qué confiar en Meta?  Meta parece asustada. Hasta ahora, los esfuerzos de privacidad de la empresa para sus gafas inteligentes se han basado principalmente en un LE …   (Resumen en 2-4 frases)</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El músico y periodista Oli Freke ha explorado la melodicidad del escala tonal occidental utilizando matemáticas en publicaciones como Sound on Sound, The Quietus y Mixmag. Además, ha escrito un libro que sigue la evolución del sintetizador desde 1963 hasta 1995, documentando el cambio de analogo a digital y viceversa. Su nuevo proyecto, Beat Gems, es una historia visual de los drum machines presentada por la editorial Bjooks, repleta de fotos impresionantes, datos históricos fascinantes y consejos prácticos para aprovechar al máximo su equipo. Este libro puede ser un valioso recurso para aquellos interesados en la música electrónica y la historia del sonido. Sin embargo, también plantea preguntas sobre la comercialización de la historia musical y la valorización del patrimonio cultural.</p>
+              <p>Las campañas publicitarias de las gafas inteligentes de Meta en ciudades como Nueva York, Londres y Washington D.C. han sido interrumpidas por carteles satíricos de grupos activistas, que califican a estas tecnologías como &#34;la mayor avance en tecnología pervertida desde el abrigo de campaña&#34; o las acusan de ser &#34;gafas de vigilancia masiva&#34;. Estas campañas buscan llamar la atención sobre los posibles riesgos para la privacidad que conllevan estas gafas y hacer preguntas sobre la confiabilidad de Meta. La respuesta de la empresa es preocupante, ya que durante mucho tiempo ha dependido únicamente de un mecanismo de seguridad para proteger la privacidad de sus usuarios. Esta situación refleja una crítica a la falta de transparencia y responsabilidad por parte de las empresas tecnológicas en materia de privacidad y seguridad.</p>
             </div>
             
-            <a class="read-more" href="https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -703,19 +682,40 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● Gear Latest</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Máquina de corte inteligente Cricut Explore 5 se compara con Siser Romeo para elegir la mejor</h4>
+            <h4>Las 10 mejores aspiradoras portátiles pruebas por WIRED en 2026</h4>
           </summary>
           <div class="card-body">
-            <p>Las máquinas de corte inteligentes son un agujero negro y digo eso como alguien que cayó en él. He experimentado con productos Cricut, pero no fue hasta que comencé a revisarlos para el trabajo que estas máquinas de corte se convirtieron en una verdadera obsesión. Hoy en día, paso fin de semana buscando materiales y experimentando con la aplicación de patchwork, incluso compré una máquina de coser usada Brother.  Mi despacho de trabajo, que antes decía &#34;trabajador remoto corporativo&#34;, ahora está invadido por glitter vinyl y quién sabe cuántos tipos de tijeras (todos para diferentes propósitos, por supuesto).  En realidad, esto significa que fui un objetivo fácil cuando Cricut y Siser lanzaron nuevas máquinas de corte inteligentes en mi escritorio. Pronto me di cuenta de que compararlas entre sí no era particularmente útil. Ambas máquinas cortan materiales como vinilo y cartulina, pero resuelven problemas diferentes y están destinadas a consumidores diferentes.  Cricut tiene una nueva máquina llamada Explore 5, que cuesta $199 por la máquina sola (o $250 con un paquete que incluye matiz, herramientas y vinilo) y está diseñada para los artesanos más casuales que</p>
+            <p>Los mejores aspiradores portátiles  Un aspirador portátil no es necesariamente una herramienta esencial para cualquier hogar, pero sin duda lo es por su conveniencia. No tienes que preocuparte por los pesados y cumbersome vacíos que requieren cables peligrosos. Aunque existen aspiradores cordless que mitigan este problema, estos también son grandes y caros. El aspirador portátil—compacto, ligero y económico—ha mejorado mucho en las últimas años. A medida que la tecnología de los vacíos sigue mejorando, los aspiradores portátiles se están volviendo más potentes y ligeros.  Estás en problemas? Un niño derramó Cheerios sobre el piso? El pelo de tu gato está cubriendo tu silla favorita para leer? Necesitas limpiar rápidamente tus asientos de coche? Este aspirador portátil es la solución. Casi todos los aspiradores portátiles vienen con accesorios para recoger el pelo o la pelusa en alfombras, herramientas de cepillado y accesorios para alfombras suaves. Además, casi todos los modelos que se presentan en esta lista cuestan menos de 100 dólares. Aunque nuestro top pick, el Dyson Car+Boat ($300), es una excepción porque es</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La obsesión por las máquinas de corte inteligentes como Cricut y Siser es un fenómeno que ha capturado a muchos entusiastas de la manualidad. Estas máquinas han revolucionado el proceso de creación de objetos personalizados, permitiendo a los usuarios realizar proyectos complejos con facilidad y precisión. Sin embargo, al analizar las características y capacidades de estas máquinas, se puede notar que cada una tiene un propósito específico y es destinada a diferentes tipos de usuarios.  La Cricut Explore 5 es ideal para aquellos que buscan crear objetos personalizados de manera casual y rápida, como bookmarks, banners y camisetas. Su diseño sencillo y su sistema de carga &#34;Load and Go&#34; la hacen muy accesible para principiantes. Por otro lado, la Siser Romeo es una máquina más potente y compleja, diseñada para usuarios que requieren mayor precisión y control en sus proyectos, como la producción en masa de objetos con vinilo de calor o la creación de diseños complejos.  Es importante destacar que cada máquina tiene sus propias fortalezas y debilidades. La Cricut Explore 5 puede ser un poco más inconstante en su corte, especialmente con materiales como el cartón, mientras que la Siser Romeo es más precisa pero también más costosa. Sin embargo, ambas máquinas ofrecen una gran cantidad de funcionalidades y herramientas para ayudar a los usuarios a crear objetos personalizados de alta calidad.  En última instancia, la elección entre estas dos máquinas dependerá del tipo de proyecto que se desee realizar y del nivel de habilidad y experiencia del usuario. Si se busca crear objetos personalizados de manera casual y rápida, la Cricut Explore 5 puede ser la mejor opción. Sin embargo, si se requiere mayor precisión y control en los proyectos, la Siser Romeo es una excelente elección.</p>
+              <p>Los vacíos portátiles han evolucionado significativamente en las últimas décadas, convirtiéndose en una herramienta conveniente y práctica para limpiar pequeñas áreas o superficies. A diferencia de los aspiradores tradicionales pesados y caros que requieren cables peligrosos, estos vacíos portátiles son compactos, ligeros y asequibles, lo que los hace ideales para tareas de limpieza rápidas y fáciles. La mayoría de ellos vienen con accesorios adicionales, como herramientas para recoger pelo o vello en alfombras, herramientas de cepillado y accesorios para superficies planas.  Sin embargo, es importante tener en cuenta que algunos modelos pueden ser menos potentes que otros y no están diseñados para manejar grandes cantidades de polvo o suciedad. Además, algunos modelos requieren carga previa antes de usarlos, lo que puede limitar su uso. En general, los vacíos portátiles son una excelente opción para tareas de limpieza rápidas y fáciles, pero es importante elegir el modelo adecuado para tus necesidades específicas.  Es interesante destacar que la industria del vacío está en constante evolución, con nuevas tecnologías y modelos que ofrecen mejoras significativas en términos de potencia, eficiencia y conveniencia. Al considerar las opciones disponibles, es fundamental evaluar tus necesidades específicas y elegir el modelo que mejor se adapte a tus requerimientos.</p>
             </div>
             
-            <a class="read-more" href="https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.wired.com/gallery/the-best-handheld-vacuum/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● Engadget - Technology News &amp; Expert Reviews</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>NVIDIA lanza iniciativa Open Secure AI Alliance para mejorar la defensa cibernética</h4>
+          </summary>
+          <div class="card-body">
+            <p>NVIDIA lanza la iniciativa &#39;Open Secure AI Alliance&#39; para mejorar la defensa cibernética.  Entre los miembros fundadores se encuentran NVIDIA, Microsoft, Dell y SpaceX. La alianza busca mejorar la seguridad informática utilizando tecnologías abiertas.   El grupo argumenta que para defenderse mejor contra ataques de modelos de inteligencia artificial como Mythos 5, los investigadores de seguridad necesitan acceso a tanto modelos abiertos como cerrados.  NVIDIA y algunos de sus socios contribuirán diferentes elementos a la alianza. NVIDIA ofrecerá modelos abiertos, pesos de modelo, datos y agentes harness para acelerar el desarrollo de herramientas y técnicas de seguridad. HPE contribuirá con estándares y métodos criptográficos para verificar agentes y servicios de inteligencia artificial.  El grupo también llama a los gobiernos a trabajar con las empresas en inversiones compartidas de infraestructura de inteligencia artificial abierta.</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La iniciativa de NVIDIA, el &#34;Open Secure AI Alliance&#34;, busca mejorar la defensa cibernética mediante el uso de tecnologías de inteligencia artificial abiertas. Con la participación de grandes empresas como Microsoft, Dell y SpaceX, este grupo busca remediar vulnerabilidades y divulgar información de seguridad utilizando tecnologías abiertas. La idea es que los investigadores de seguridad necesiten acceso a modelos de inteligencia artificial tanto abiertos como cerrados para defenderse mejor contra ataques en la era de los modelos de inteligencia artificial avanzados. Sin embargo, esta iniciativa también plantea preocupaciones sobre el control y regulación de las tecnologías de inteligencia artificial, ya que algunas empresas importantes como OpenAI y Anthropic no han participado en ella. Es importante considerar las implicaciones de este tipo de iniciativas en la seguridad cibernética y cómo pueden afectar a los usuarios finales y a la economía global.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -736,41 +736,20 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● Motorsport.com - Formula 1 - Stories</span>
-              <span class="card-date">25/07</span>
+              <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Los aficionados de F1 argumentan que Lewis Hamilton no puede tener una suerte</h4>
+            <h4>Mercedes anuncia salida del jefe de pilotos jóvenes a medida que se prepara su movimiento a Red…</h4>
           </summary>
           <div class="card-body">
-            <p>Los aficionados al F1 argumentan que Lewis Hamilton &#34;no puede tener una mala suerte&#34; después del penalización en el GP húngaro.  Lewis Hamilton, Ferrari Foto: Clive Mason / Getty Images El británico recibió la penalización por impedir a Oscar Piastri de McLaren durante la fase final de la clasificación. Mientras que Hamilton iba bajando la recta principal a una velocidad reducida, no se movió para dejar pasar al piloto australiano.  Ferrari confirmó que había advertido a Hamilton sobre el avance de McLaren, pero que las instrucciones fueron compartidas demasiado tarde. Como resultado, Hamilton, quien inicialmente había clasificado segundo, ahora comenzará el GP húngaro desde quinto en la grilla.  Mientras que la mayoría de los aficionados coincidieron en que el incidente merecía una penalización, algunos argumentaron que a Hamilton no le puede ir bien. &#34;Esperado pero todavía decepcionante. Si puede estar en el top tres después del primer bucle, aún podría tener una oportunidad de ganar la carrera&#34;, comentó un fanático en Reddit.  Otros comentarios incluyeron: &#34;Desafortunadamente, eso fue una penalización clara y no había nada que pudiera hacer Lewis, ya que fue un malentendido. A Lewis le va mal últimamente&#34;.</p>
+            <p>Mercedes confirma la salida de su jefe de programa de pilotos jóvenes, Gwen Lagrue, quien se espera que se una a Red Bull.  La empresa confirmó el fin del contrato de Lagrue, director del programa de pilotos jóvenes de Mercedes, en un mensaje oficial. La salida se produce antes de que la francesa se una al equipo de F1 de Red Bull, donde ocupará un puesto similar al que dejó Helmut Marko.  Lagrue fue responsable de desarrollar a pilotos como Esteban Ocon y George Russell a través del programa de pilotos jóvenes de Mercedes. Su experiencia en el desarrollo de talentos se refleja en la carrera de Kimi Antonelli, quien debutó en F1 a los 18 años y ganó el título en su segundo año.  La empresa expresó su gratitud por el trabajo de Lagrue y deseó su éxito en su próximo desafío.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>Los aficionados al F1 argumentan que Lewis Hamilton &#34;no puede tener una mala suerte&#34; después del GP húngaro con penalización Lewis Hamilton, el siete veces campeón, comenzará la Gran Premio de Hungría desde quinto lugar en la grilla después de recibir una penalización de tres lugares por impedir a Oscar Piastri de McLaren durante la fase final de la clasificación. El británico fue sancionado por no moverse lo suficiente para dejar pasar al australiano mientras se deslizaba por la recta principal a baja velocidad.  La mayoría de los aficionados coincidieron en que el incidente merecía una penalización, pero algunos argumentaron que Hamilton &#34;no puede tener una mala suerte&#34;. Algunos fanáticos expresaron su frustración y desánimo, como se desprende de comentarios en Reddit: &#34;Es lo que esperábamos, pero todavía es decepcionante. Si puede estar en el podio después del primer bucle, aún podría tener una oportunidad de ganar la carrera&#34;, mientras que otro comentó: &#34;Otra semana perdida, esto me está volviendo loco&#34;.  Otros fanáticos expresaron su apoyo a Hamilton y criticaron la penalización, como se desprende de comentarios adicionales: &#34;Desafortunadamente, eso era una sanción clara y no había nada que pudiera hacer Lewis, ya que fue un malentendido. Lewis no puede tener mala suerte últimamente&#34;, mientras que otro comentó: &#34;Sí, es frustrante por todo el mundo; no queremos ver a Lewis caer tres posiciones cuando era tan competitivo, y Oscar ha estado teniendo una mala racha de mala suerte, así que es un resultado perdido para ambos&#34;.  Además, la actual líder del campeonato, Kimi Antonelli, también recibió una penalización de tres lugares por no reducir la velocidad lo suficiente ante las banderas amarillas.</p>
+              <p>La salida de Gwen Lagrue, jefe del programa de pilotos jóvenes de Mercedes, se produce justo antes de su movimiento a Red Bull, un equipo con el que está vinculado desde hace tiempo. La confirmación oficial de la partida llega después de una espera, ya que ambos equipos habían mantenido en secreto el acuerdo hasta el momento. Lagrue, quien ha sido clave para desarrollar talentos como Esteban Ocon y George Russell, dejará un vacío difícil de llenar en Mercedes, especialmente considerando su éxito en identificar a pilotos prometedores como Kimi Antonelli. La partida de Lagrue puede tener implicaciones significativas para Red Bull, que busca reforzar su programa de pilotos jóvenes con una figura experimentada y respetada en el mundo del automovilismo. En este contexto, es interesante reflexionar sobre la importancia de las relaciones personales y profesionales en el mundo deportivo, como lo menciona Mercedes en su mensaje de despedida.</p>
             </div>
             
-            <a class="read-more" href="https://www.motorsport.com/f1/news/f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty/10841933/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● RACER</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Hocevar lidera la primera fila en el pódium de la 400 de Brickyard</h4>
-          </summary>
-          <div class="card-body">
-            <p>Carlos Hocevar y Daniel Suárez liderarán el campo hasta la bandera verde, y los tres conductores de Spire Motorsports calificaron dentro de las seis primeras posiciones.</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La noticia de que Carson Hocevar y Daniel Suárez liderarán el campo al bandera verde, junto con sus compañeros de equipo en Spire Motorsports, que se han posicionado dentro del top seis, sugiere una gran competitividad entre los equipos en la preparación para el evento. Esta posición destacada puede ser un indicador de la fuerza y la eficiencia de las operaciones de Spire Motorsports, lo cual podría tener implicaciones significativas en la carrera. Para los aficionados a la NASCAR, esta información es particularmente interesante ya que permite anticipar quiénes podrían ser los contendientes más fuertes en el campo. Sin embargo, también es importante considerar que la calificación no siempre refleja el rendimiento final en la pista, por lo que se deberá seguir atentamente cómo evoluciona la situación durante el evento.</p>
-            </div>
-            
-            <a class="read-more" href="https://racer.com/2026/07/25/hocevar-leads-spire-front-row-sweep-for-brickyard-400" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.autosport.com/f1/news/mercedes-announces-exit-of-young-driver-chief-ahead-of-red-bull-f1-move/10842438/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -779,19 +758,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● Motorsport.com - Formula 1 - Stories</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Mayländer revela mejoras en la nueva caja de seguridad del equipo Mercedes de F1</h4>
+            <h4>Red Bull contrata a Gwen Lagrue como jefa de pilotos junior después de su salida de Mercedes F1</h4>
           </summary>
           <div class="card-body">
-            <p>Bernd Mayländer revela mejoras en el nuevo coche de seguridad de F1 de Mercedes.  La Fórmula 1 ha presentado su nuevo coche de seguridad, el Mercedes-AMG GT 63 PRO 4MATIC+, que reemplaza al AMG GT Black Series utilizado desde 2022. El nuevo modelo cuenta con tracción y estabilidad mejoradas en condiciones húmedas gracias a su sistema de frenos variable.  El piloto de coches de seguridad Bernd Mayländer explicó las características del nuevo vehículo, destacando la facilidad de uso de los controles y la información disponible en el interior. El GT 63 PRO 4MATIC+ cuenta con un motor V8 turboalimentado que produce 612 caballos de fuerza, menos que su predecesor.  El coche de seguridad es el primero en contar con tracción en todas las ruedas y ofrece una conducción deportiva y segura. Mayländer expresó su entusiasmo por conducir el nuevo vehículo en condiciones reales durante el Gran Premio de Hungría.</p>
+            <p>Red Bull ha nombrado a Gwen Lagrue como jefe de programación junior después de la salida de Mercedes F1.  Mercedes ha confirmado el despido del joven experto en pilotos Gwen Lagrue, quien oficialmente se unirá a Red Bull como director del programa de pilotos jóvenes.   Lagrue dejará a Mercedes y se unirá a Red Bull para liderar su programa de pilotos jóvenes. El equipo de F1 de Red Bull ha confirmado la llegada de Lagrue, quien reemplazará al retiro de Helmut Marko como director del programa.  &#34;Esperamos que Gwen tenga éxito en su nuevo desafío&#34;, dijo Mekies.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La introducción de la nueva seguridad en F1 con el Mercedes-AMG GT 63 PRO 4MATIC+ como su vehículo de seguridad es un paso importante hacia una mayor eficiencia y seguridad en las carreras. El nuevo vehículo cuenta con un sistema de frenos variable que mejora la tracción y estabilidad durante condiciones climáticas adversas, lo que podría reducir el riesgo de accidentes. Sin embargo, también hay preocupaciones sobre la potencia del vehículo, ya que su motor de 4.0 litros produce solo 612 caballos de fuerza en comparación con los 639 de su predecesor. Además, es interesante ver cómo se ha mejorado el interior del vehículo, con pantallas y sistemas de comunicación más avanzados, lo que podría mejorar la eficiencia del equipo de seguridad durante las carreras. Es importante destacar que la seguridad en F1 sigue siendo un tema prioritario, y cualquier mejora en este ámbito es bienvenida.</p>
+              <p>La Red Bull ha oficializado la contratación de Gwen Lagrue como jefe de desarrollo de pilotos junior después de su salida de Mercedes F1. La empresa ha confirmado que Lagrue se unirá al equipo como director del programa de junior de Red Bull, bajo la supervisión del principal y CEO Laurent Mekies. Esta decisión refleja la importancia que Red Bull pone en desarrollar talentos jóvenes para el futuro de la F1. La salida de Gwen Lagrue marca el final de una etapa en Mercedes, donde ha sido responsable de desarrollar a pilotos como George Russell y Kimi Antonelli. Su llegada a Red Bull es vista como un paso importante para el equipo, que busca seguir su tradición de producir talentos jóvenes en la F1. La experiencia de Lagrue en desarrollo de pilotos es destacada por sus logros en Mercedes, donde ha desarrollado a algunos de los mejores pilotos actuales de la F1.</p>
             </div>
             
-            <a class="read-more" href="https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.motorsport.com/f1/news/mercedes-confirms-exit-gwen-lagrue-ahead-red-bull-f1-move/10842432/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -799,20 +778,62 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● RACER</span>
-              <span class="card-date">25/07</span>
+              <span class="card-source">● Motorsport.com - Formula 1 - Stories</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Norris cambió la forma de clasificación de Hungría del rojo al papa en el baloncesto</h4>
+            <h4>El piloto Fred Vasseur admite la &#34;muy pobre&#34; ejecución de Ferrari en el GP húngaro</h4>
           </summary>
           <div class="card-body">
-            <p>El Hungaroring resultó ser adecuado para el coche de la Scuderia en 2026, pero como aprendió McLaren con su actualización y Lando Norris creció en confianza, la combinación logró un paso adelante el sábado.  La mejora del coche fue posible gracias a la experiencia adquirida por McLaren durante su actualización.</p>
+            <p>Fred Vasseur admite que Ferrari tuvo una &#34;mala ejecución&#34; en el GP de Hungría.  Ferrari se vio penalizado por errores y no pudo aprovechar su potencial en la pista, lo que le impidió alcanzar la podio. El equipo había estado en la punta del tablero con Lewis Hamilton y Charles Leclerc, pero todo salió mal durante el Gran Premio.  Vasseur reconoció que Ferrari cometió demasiados errores, incluyendo una mala estrategia de pitos y problemas para superar a Max Verstappen. Aunque creía que la velocidad del equipo era mejor que en otros circuitos, la ejecución fue deficiente.  El equipo se comprometió a hacer un mejor trabajo en las próximas carreras.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La expectativa era que el Hungaroring fuera un circuito favorito para la Scuderia en su coche de 2026, pero gracias a lo aprendido de su actualización y la creciente confianza de Lando Norris, esta combinación logró hacer un paso adelante el sábado. Aunque McLaren no alcanzó los resultados esperados, este avance demuestra que la estrategia y las mejoras en el equipo están funcionando. Sin embargo, es importante destacar que la competencia en F1 es extremadamente alta y cualquier error puede tener consecuencias significativas. Este resultado también pone de relieve la importancia del trabajo en equipo y la colaboración entre los pilotos y el equipo técnico para lograr el éxito en este deporte tan exigente. La perspectiva crítica aquí es que, aunque McLaren ha avanzado, todavía le falta mucho para alcanzar la cima de la clasificación.</p>
+              <p>La derrota de Ferrari en el Gran Premio de Hungría es un ejemplo claro de cómo la &#34;execución&#34; puede ser más importante que la &#34;pasa&#34; en el mundo del automovilismo. La afirmación de Fred Vasseur, equipo principal de Ferrari, de que su equipo cometió &#34;muy muchos errores&#34; y que &#34;todo salió mal&#34;, refleja la frustración de un equipo que se vio impidió aprovechar su potencial en el circuito húngaro. La mala ejecución en los pitos, la falta de habilidad para superar a otros conductores y la mala toma de decisiones estratégicas fueron los factores clave que llevaron a Ferrari a quedarse fuera del podio. Esta derrota subraya la importancia de la &#34;execución&#34; en el automovilismo, donde un pequeño error puede tener consecuencias significativas. Para los aficionados al deporte, esta derrota es un recordatorio de que, aunque la velocidad sea importante, también lo es la habilidad para aprovecharla y tomar decisiones estratégicas correctas.</p>
             </div>
             
-            <a class="read-more" href="https://racer.com/2026/07/25/how-norris-shifted-hungary-s-qualifying-formbook-from-red-to-papaya" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.motorsport.com/f1/news/fred-vasseur-owns-up-to-ferraris-very-poor-execution-in-hungarian-gp/10842403/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● F1Technical.net . Motorsport news</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>Leclerc evita sanción después de su investigación con bandera amarilla.</h4>
+          </summary>
+          <div class="card-body">
+            <p>¿Por qué Leclerc evitó la sanción después de su investigación con bandera amarilla?  El piloto de Ferrari Charles Leclerc escapó sin penalización después de ser investigado por una supuesta infracción a la bandera amarilla durante el Gran Premio de Hungría.  Leclerc fue colocado bajo investigación durante la carrera por un potencial incumplimiento del artículo B1.8.4a de las Regulaciones de la FIA Formula One después de aparecer no haber tomado las acciones adecuadas cuando se mostraron las banderas amarillas en Turn 2.  Según los reguladores, Leclerc había comido a la curva de Turn 2 antes de que la bandera amarilla se hiciera visible para él.</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La investigación de la FIA sobre Charles Leclerc, el piloto de Ferrari, reveló que no incurrió en ninguna infracción al mostrar una bandera amarilla durante el Gran Premio de Hungría, lo que podría haber llevado a una sanción penal. La decisión se basa en la revisión de datos y video de la carrera, así como en las acciones del piloto, quien redujo su velocidad a través del cuadrado y no intentó ganar terreno al coche que lo precedía mientras pasaba por el coche estacionado de Oliver Bearman. La FIA consideró que Leclerc recibió una advertencia muy corta de la bandera amarilla, lo que le permitió cumplir con las expectativas del reglamento. Esta decisión destaca la importancia de considerar las circunstancias específicas en los incidentes relacionados con las banderas amarillas, como la limitada visibilidad y las acciones del piloto. La falta de sanción penal para Leclerc significa que su resultado en el Gran Premio permanece intacto.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.f1technical.net/news/29063" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● F1Technical.net . Motorsport news</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>Sainz evita sanción después de incidente con Piastri solo con cinco segundos de penalización</h4>
+          </summary>
+          <div class="card-body">
+            <p>¿Por qué Carlos Sainz escapó de la incidente con Oscar Piastri con solo una sanción de cinco segundos?  Oscar Piastri criticó a Carlos Sainz después del choque entre ambos mientras el piloto de McLaren estaba ladrando al Williams durante el Gran Premio de Hungría, calificando el incidente como &#34;inaceptable&#34; después de que costarale la liderazgo de la carrera.  Piastri había reanudado la carrera en la liderazgo después del segundo parada de pit stop pero salió detrás de Sainz y Fernando Alonso, quienes estaban involucrados en una batalla fuera de los puntos. Mientras se acercaba a Turn 3, Sainz volvió hacia la línea de carrera y chocó con el líder de la clasificación, a pesar de estar bajo banderas azules.  Aunque Piastri no sufrió daños, el incidente le costó tiempo valioso y permitió que su compañero de equipo Lando Norris avanzara una vez que se completó el ciclo de paradas de pit stop.  Después de la carrera, el australiano expresó su frustración con la situación, asegurando que la responsabilidad seguía siendo del conductor estacionado, a pesar de los problemas reportados con las notificaciones de banderas azules basadas en GPS. &#34;Con</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La incidente entre Carlos Sainz y Oscar Piastri durante el Gran Premio de Hungría generó una gran controversia después de que Sainz recibiera solo una sanción de cinco segundos por la colisión, lo cual fue criticado por Piastri como &#34;inaceptable&#34;. La situación se complicó cuando Sainz, mientras ladraba banderas azules para indicar que había lapped a Fernando Alonso, chocó con Piastri, quien estaba intentando laparlo. Aunque Piastri no sufrió daños, la colisión le costó tiempo valioso y permitió a su compañero de equipo Lando Norris avanzar una posición una vez que el ciclo de pit stop se completó. La reacción de Piastri fue fuerte, ya que expresó su frustración por la situación y criticó la falta de conciencia de Sainz, aunque también admitió que no había visto al lapped driver antes del choque. La FIA, en su investigación, concluyó que Sainz era responsable total de la colisión y le impuso una sanción de cinco segundos por causar un choque sin ser el principal culpable. Sin embargo, se considera que esta sanción fue más leniente de lo que podría haber sido debido a las circunstancias del incidente, como la visibilidad reducida en la curva y la falta de comunicación clara entre los pilotos.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.f1technical.net/news/29062" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -821,40 +842,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Aston Martin gana tiempo con su actualización del GP de Hungría en F1</h4>
+            <h4>Norris afirma ser mejor que Piastri en todo sentido para ganar la victoria en Hungría</h4>
           </summary>
           <div class="card-body">
-            <p>Aston Martin ha ganado un tiempo significativo con su actualización para el GP de Hungría.  El equipo había sido lento en los primeros diez Grandes Premios, pero después de aplicar las actualizaciones, Fernando Alonso logró entrar al Q2. Analizamos cómo mucho más rápido es el coche actualizado y cuánto tiempo ha ganado Aston Martin con esta actualización.  Aston Martin había sido lento en los primeros diez Grandes Premios, pero después de aplicar las actualizaciones, Fernando Alonso logró entrar al Q2. Analizamos cómo mucho más rápido es el coche actualizado y cuánto tiempo ha ganado Aston Martin con esta actualización.  Aston Martin había sido lento en los primeros diez Grandes Premios, pero después de aplicar las actualizaciones, Fernando Alonso logró entrar al Q2. Analizamos cómo mucho más rápido es el coche actualizado y cuánto tiempo ha ganado Aston Martin con esta actualización.  Aston Martin había sido lento en los primeros diez Grandes Premios, pero después de aplicar las actualizaciones, Fernando Alonso logró entrar al Q2. Analizamos cómo mucho más rápido es el coche actualizado y cuánto tiempo ha ganado Aston Martin con esta actualización.  Aston Martin había sido lento en los primeros diez Grandes Premios, pero</p>
+            <p>Lando Norris asegura que fue &#34;mejor en todos los sentidos&#34; que Oscar Piastri durante el GP húngaro.  Norris se impuso con una victoria resbalosa, pero afirmó que su rival, Piastri, no pudo mantenerse con él debido a la degradación de sus neumáticos. Norris logró mantener un ritmo constante y aprovechó la oportunidad para pasar a Piastri en el pit lane.  Norris admitió que fue frustrante ser restringido por las reglas del equipo, pero priorizó la victoria sobre cualquier estrategia. Su victoria le dio una sensación de confianza y le permitió recuperar su posición en la clasificación de pilotos.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>Aston Martin ha ganado un tiempo significativo con su actualización para el Gran Premio de Hungría, lo que permitió a Fernando Alonso alcanzar los límites del Q2. Analizando los datos, podemos determinar que las actualizaciones han mejorado la posición del equipo en comparación con sus rendimientos sin actualizaciones. En los primeros cinco Grandes Premios, Aston Martin estaba 4,028% más lento que el tiempo teórico óptimo de cada circuito, mientras que en los siguientes cinco, esta diferencia disminuyó a 5,311%. Esto sugiere que la equipo físicamente se volvió más lento, lo que respalda la idea de que &#34;de pie es retroceder&#34;. Con las actualizaciones aplicadas en Hungría, Alonso logró mejorar su posición en comparación con Lando Norris, ganando 2,036% en un solo Gran Premio. Si consideramos el caso del Gran Premio de Spa, con una diferencia de 5,405% en comparación con Mercedes, las actualizaciones permitirían a Aston Martin alcanzar un tiempo cercano al promedio de los últimos Grandes Premios, lo que sugiere que la equipo podría haber superado la eliminación de Q1. Sin embargo, si hubieran retrasado estas actualizaciones hasta después del verano, es probable que el equipo no haya podido aprovechar su potencial en Hungría y habría quedado atrás en comparación con Mercedes.</p>
+              <p>Lando Norris ha asegurado que fue &#34;mejor en todos los sentidos&#34; que su compañero de equipo Oscar Piastri durante el Gran Premio de Hungría, lo que se refleja en su victoria resbalosa pero dominante. Aunque Norris admitió que tuvo un error en la segunda curva y que la estrategia del equipo &#34;papaya&#34; limitó sus opciones, enfatizó que su velocidad era superior a la de Piastri en todos los aspectos, incluyendo la degradación y el ritmo. Esta victoria marca el regreso de Norris al podio después de 12 rondas sin ganar, y le da una oportunidad de recuperarse en la clasificación de pilotos, aunque aún está a 91 puntos del líder Kimi Antonelli. La victoria de Norris también destaca la rivalidad entre McLaren y su equipo rival, donde Piastri se vio frustrado por la restricción de estrategia impuesta por el equipo.</p>
             </div>
             
-            <a class="read-more" href="https://www.autosport.com/f1/news/how-much-time-has-aston-martin-gained-with-its-f1-hungarian-gp-update/10841905/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● Autosport.com - Formula 1 - Stories</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Antonelli recibe multa por infracción a la bandera amarilla en las clasificaciones de Hungría</h4>
-          </summary>
-          <div class="card-body">
-            <p>El piloto de Mercedes Kimi Antonelli ha sido penalizado con una caída de tres posiciones en la grilla para el Gran Premio de Hungría de Fórmula 1 después de no frenar lo suficiente ante las banderas amarillas.  Antonelli había tomado la cuarta posición en la grilla, pero durante su último intento de clasificación, atrapó las banderas amarillas en la última curva, donde Max Verstappen estaba estacionado en el área de estacionamiento después de una volada. A pesar de esto, Antonelli mejoró su tiempo final para mantener la cuarta posición.  Sin embargo, los stewards investigaron si Antonelli había levantado lo suficiente para respetar las banderas amarillas locales y determinaron que había solo levantado un poco y era más rápido por la curva que en su intento de clasificación anterior. Por lo tanto, se le aplicó una caída de tres posiciones en la grilla.  Además, el piloto de Ferrari Lewis Hamilton también recibió una penalización de tres posiciones en la grilla por impedir a Oscar Piastri en la primera curva, lo que llevó a Piastri a moverse al tercer lugar y a Verstappen a unirse a él en la segunda fila.  La decisión de los stewards se basó en el hecho de que Anton</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El piloto de Mercedes Kimi Antonelli ha sido sancionado con una caída de tres posiciones en la grilla para el Gran Premio de Hungría de Fórmula 1 después de no frenar lo suficiente ante las banderas amarillas. La decisión del comité de stewards se debió a que Antonelli no redujo lo suficientemente su velocidad en la curva final, donde Red Bull&#39;s Max Verstappen estaba estacionado en el área de recupero después de una volada. Aunque Antonelli mejoró su tiempo sectorial finalmente, los stewards consideraron que había solo levantado ligeramente y era más rápido a través de la curva que en su intento anterior de frenar. Esta sanción demuestra la importancia de respetar las banderas amarillas en el circuito para garantizar la seguridad de todos los pilotos.  La sentencia del comité de stewards también destaca la necesidad de una mayor transparencia y claridad en las reglas de seguridad, ya que Antonelli podría haber enfrentado una caída de cinco posiciones si no hubiera levantado ligeramente. La sanción también incluye un punto penal en el licencia del piloto, lo que refleja la seriedad con la que se toman estas decisiones.  Es interesante destacar que esta sanción puede tener implicaciones significativas para la carrera de Antonelli y su equipo, Mercedes, ya que perderá terreno en la grilla y podrá ser difícil recuperarlo durante el Gran Premio. Además, la falta de respeto a las banderas amarillas puede generar una actitud de desafío hacia las reglas de seguridad, lo que podría tener consecuencias negativas para la carrera del piloto.</p>
-            </div>
-            
-            <a class="read-more" href="https://www.autosport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841906/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.autosport.com/f1/news/lando-norris-i-was-better-than-piastri-in-every-sense-in-battle-for-victory/10842380/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -875,20 +875,83 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● Towards Data Science</span>
-              <span class="card-date">25/07</span>
+              <span class="card-source">● MachineLearningMastery.com</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Cómo optimizar la búsqueda de vectores cuando el RAM se vuelve demasiado costoso: índices en di…</h4>
+            <h4>Se presentan cinco patrones arquitecturales para memoria persistente y estado en agentes de int…</h4>
           </summary>
           <div class="card-body">
-            <p>Las bases de datos vectoriales están compuestas por tres componentes principales: - embeddings – la representación numérica del corpus - algoritmo de búsqueda y estructura de índice – el algoritmo define la calidad y velocidad de la búsqueda - almacenamiento – cómo se almacena los datos (en memoria, en disco, payload junto con las embeddings, etc.). Ya sea en RAM o en disco, determina los costos y latencia a escala.  Las representaciones de embeddings ya están bien definidas y discutidas en muchos artículos, y este artículo se enfocará en los algoritmos de búsqueda, y específicamente en los algoritmos de vecinos más cercanos (ANN).  Existen dos enfoques generales para la ejecución de la búsqueda: - Búsqueda exacta – que demuestra los mejores métricas de recuperación aunque no escala bien en términos de latencia - Vecino más cercano aproximado (ANN) – que compromete la calidad de recuperación por la latencia y escalabilidad.  La búsqueda exacta es un enfoque simple que recorre todos los registros del índice y calcula la distancia entre el query de búsqueda y los datos existentes. No hay pérdidas relacionadas con ninguna aproximación o generalización, pero a cambio se paga el precio de la latencia y escalabilidad. Es una excelente opción para pequeños í</p>
+            <p>La memoria y el estado para los agentes de inteligencia artificial.  Construir un agente de inteligencia artificial puede ser complicado. Mantenerlo en el camino durante una implementación de seis meses es extremadamente difícil.  Los LLMs son estatales por diseño. Cada llamada comienza desde cero, sin memoria de lo que vino antes. Los desarrolladores iniciales de agentes trabajaron alrededor de esto depositando la historia completa de la conversación en el ventana de contexto y esperando lo mejor.  Ahora sabemos que ese enfoque se derrumba rápidamente. La latencia aumenta, y la capacidad del modelo para utilizar lo que está en contexto disminuye: los hechos relevantes se entienden, y cuando hay dos versiones de un hecho en el ventana, no hay garantía de que elija la actual.  Los costos de token aumentan demasiado, aunque el caché de prompresa ha suavizado ese golpe para prefixos estables. La solución no es un mayor ventana de contexto; es tratar la memoria y el estado como decisiones arquitectónicas deliberadas, no despuésthoughts.  Antes de entrar en los patrones, es importante ser preciso sobre qué significan esas dos palabras, porque son fáciles de confundir.  El estado es un snaphot. Es todo lo que el agente sabe</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La búsqueda semántica rápida y eficiente se basa en algoritmos de vecinos más cercanos aproximados (ANN) que permiten una búsqueda rápida y escalable. Los vector databases están compuestos por tres componentes principales: embeddings, algoritmo de búsqueda y estructura de índice, y almacenamiento. Las embeddings son representaciones numéricas del corpus, mientras que el algoritmo de búsqueda define la calidad y velocidad de la búsqueda.  Existen dos enfoques para la ejecución de la búsqueda: búsqueda exacta y búsqueda aproximada. La búsqueda exacta es un enfoque simple que compara cada entrada del índice con la consulta de búsqueda, lo que resulta en una alta calidad de recuperación pero no escalabilidad. Por otro lado, la búsqueda aproximada es más eficiente en términos de latencia y escalabilidad, aunque compromete la calidad de recuperación.  Entre las opciones de búsqueda aproximada se encuentran algoritmos como HNSW (Hierarchical Navigable Small World) y DiskANN, que utilizan estructuras gráficas para proporcionar una baja latencia de consulta. Sin embargo, cada algoritmo tiene sus propias ventajas y desventajas, lo que hace crucial seleccionar el algoritmo adecuado para cada caso de uso específico.  En particular, los algoritmos RAM-based como HNSW son optimizados para almacenar grandes cantidades de datos en memoria, lo que proporciona una baja latencia pero a un costo. Por otro lado, los algoritmos on-disk como DiskANN se optimizan para minimizar el uso de RAM y utilizar el disco para cargar los datos.  Es importante tener en cuenta que la elección del algoritmo adecuado depende del tamaño del índice, del tipo de datos y de las necesidades específicas del caso de uso. Además, es posible almacenar estructuras de datos subyacentes tanto en memoria como en disco, pero cada algoritmo está optimizado para un tipo de almacenamiento en particular.  En resumen, la búsqueda semántica rápida y eficiente requiere una comprensión profunda de los algoritmos de vecinos más cercanos aproximados y sus trade-offs. La elección del algoritmo adecuado es crucial para garantizar la calidad y velocidad de la búsqueda en diferentes escenarios.</p>
+              <p>El diseño de los modelos de lenguaje grande (LLMs) para agentes de inteligencia artificial plantea desafíos significativos en términos de memoria y estado. A medida que un modelo se despliega durante seis meses, mantenerlo en track es una tarea extremadamente difícil debido a su naturaleza estatal, lo que significa que cada llamada comienza desde cero sin recordar nada del pasado.  La distinción entre estado y memoria es crucial para abordar estos problemas. El estado se refiere a un punto de vista instantáneo, que es una representación actualizada del conocimiento del agente sobre una tarea en ese momento específico. La memoria, por otro lado, se refiere al mecanismo que permite al agente almacenar información a largo plazo y utilizarla en diferentes sesiones o incluso en agentes separados.  La interacción entre estado y memoria es un ciclo bidireccional. Al inicio de una tarea, el agente utiliza la memoria para construir su estado inicial, cargando datos relevantes y reglas de comportamiento. Durante la tarea, el agente actualiza continuamente su estado y al final del proceso, escribirá selectos fragmentos de ese estado en la memoria para que los próximos turnos o sesiones puedan beneficiarse de lo que justamente ha ocurrido.  Las cinco patrones presentadas abordan estos desafíos. Las patrones 1 y 2 manejan el estado, mientras que las patrones 3 y 4 construyen la capa de memoria que persiste a través de sesiones. La patrón 5 constraína tanto el estado como la memoria.  Es importante destacar que los fallos en el estado o la memoria pueden tener consecuencias diferentes. Un fallo en el estado puede hacer que el agente pierda el rumbo durante una tarea, mientras que un fallo en la memoria puede impedir que el agente aprenda, personalice y trate cada interacción como si fuera un tablero en blanco.  En resumen, el diseño de los modelos de lenguaje grande para agentes de inteligencia artificial requiere una comprensión profunda de la interacción entre estado y memoria. Al entender cómo manejar estos componentes esenciales, los desarrolladores pueden crear sistemas más robustos y eficientes que puedan manejar desafíos complejos en producción.</p>
             </div>
             
-            <a class="read-more" href="https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● KDnuggets</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>Se presentan los pasos para crear y desplegar un primer agente autónomo.</h4>
+          </summary>
+          <div class="card-body">
+            <p>Estos son los pasos para construir y desplegar tu primer agente autónomo:  1. Decide qué necesita hacer el agente y qué no puede hacer sin supervisión humana. 2. Elige un modelo de razón y una framework para gestionar el ciclo de pensamiento, acción y verificación del resultado. 3. Define los límites del agente y cómo debe interactuar con el entorno. 4. Selecciona un marco de trabajo para la implementación del agente. 5. Implementa el modelo de razón y la framework en código. 6. Verifica y ajusta el agente según sea necesario. 7. Despliega el agente en producción.  Nota: El artículo proporciona una guía paso a paso para construir un agente autónomo utilizando LangGraph, pero también ofrece alternativas con CrewAI.</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La creación de agentes autónomos es un paso crucial en el desarrollo de inteligencia artificial, pero muchos proyectos fallan debido a la falta de planificación y ejecución adecuada. Según una encuesta realizada por Gartner, McKinsey y IDC, solo el 11% de las empresas que han adoptado agentes AI tienen algo en producción, lo que sugiere que la brecha entre la demostración y la implementación real es significativa.  El artículo proporciona un guía paso a paso para construir y desplegar un agente autónomo desde cero. El primer paso consiste en definir claramente qué debe hacer el agente, cómo se medirá su éxito y qué acciones no está permitida sin supervisión humana. Esto es crucial para evitar que los proyectos fracasen debido a la falta de planificación.  La elección del modelo y del marco de trabajo también es fundamental. En este caso, se recomienda utilizar el modelo Claude y el marco LangGraph, ya que ofrece una buena herramientera de llamado a herramientas y checkpointing integrados, lo que permite a los agentes aprender y adaptarse sin necesidad de reiniciar.  La creación de un agente autónomo requiere una planificación cuidadosa y ejecución efectiva. Es importante tener en cuenta que la brecha entre la demostración y la implementación real puede ser significativa, y que la falta de planificación puede llevar a la cancelación del proyecto. Por lo tanto, es fundamental seguir los pasos proporcionados en el artículo para asegurarse de que el agente sea exitoso y se despliegue correctamente.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● Towards Data Science</span>
+              <span class="card-date">27/07</span>
+            </div>
+            <h4>Reprodujo BM25, Dense Retrieval y SPLADE en un MacBook de 16 GB de memoria.</h4>
+          </summary>
+          <div class="card-body">
+            <p>He realizado esto en un MacBook con 16 GB de memoria, utilizando una colección de ejercicios pública llamada &#34;Fundamentos del Recuperación&#34; en el camino de onboarding de Castorini. El camino utiliza dos paquetes de herramientas de código abierto de Castorini: Anserini, que es Java-based, y Pyserini, su contraparte en Python. Prueba estos en dos conjuntos de documentos reales y proporciona puntuaciones exactas para cada ejercicio.  Cada número coincidió. Para llegar allí se produjeron un crash de memoria, una caída de biblioteca nativa y una solicitud de acceso a un modelo cerrado que no satisfacía con una clave de API válida. Ninguno de esto aparece en la documentación oficial, por lo que este artículo cubrelo tan cuidadosamente como los números mismos. Al final, sabrá cómo ejecutar las tres métodos localmente, qué puede romperse en hardware normal y cómo leer las puntuaciones.  La aplicación práctica es sencilla: si estás construyendo un sistema de búsqueda RAG, un producto de búsqueda de documentos o una base de conocimiento interna, la calidad de recuperación es lo primero que debes verificar. Antes de cambiar los prompts, reemplazar grandes modelos de lenguaje o agregar agentes, necesitas saber si se están encontrando los documentos adecu</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>El artículo analiza la comparación de tres métodos de búsqueda de documentos: BM25, dense retrieval y SPLADE. Estos métodos se utilizan para determinar la calidad de la búsqueda en sistemas de búsqueda de documentos, como RAG o conocimiento interno. El autor utiliza un MacBook con 16GB de memoria y ejecuta una serie de ejercicios llamados &#34;Foundations of Retrieval onboarding path&#34; para evaluar los métodos.  La comparación muestra que BM25 es el método más rápido y eficiente, pero también menos preciso en comparación con dense retrieval y SPLADE. Dense retrieval utiliza un modelo neural entrenado para determinar la importancia de las palabras en un documento, mientras que SPLADE utiliza un modelo similar, pero con algunas diferencias en su implementación.  La implicación principal del artículo es que los desarrolladores de sistemas de búsqueda de documentos deben considerar la calidad de la búsqueda al elegir un método. Reproducir los resultados de este artículo proporciona una referencia para evaluar la calidad de diferentes métodos y determinar si el propio sistema está funcionando correctamente.  Es importante destacar que la comparación se realizó en dos conjuntos de datos diferentes: MS MARCO, un conjunto grande de pasajes, y NFCorpus, un conjunto más pequeño de documentos médicos. La elección del conjunto de datos puede afectar los resultados de la comparación, por lo que es importante considerar las limitaciones de cada método en diferentes contextos.  En general, el artículo proporciona una visión clara y detallada de cómo funcionan estos métodos y cómo pueden ser utilizados para evaluar la calidad de un sistema de búsqueda de documentos.</p>
+            </div>
+            
+            <a class="read-more" href="https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● Towards Data Science</span>
+              <span class="card-date">26/07</span>
+            </div>
+            <h4>Cómo pedir eficientemente al modelo de código Claude</h4>
+          </summary>
+          <div class="card-body">
+            <p>Sin embargo, la estimulación sigue siendo muy importante y el conocimiento sobre cómo estimular de manera efectiva los LLMs es aún muy importante. Solo requiere un conjunto de habilidades diferentes y una forma diferente de pensar para estimular agentes de manera efectiva en la actualidad.  Es worth noting que, probablemente, en el próximo año o dos, la forma en que se estimula a tus agentes seguirá evolucionando aún más, y debes mantenerse al día con todos los cambios que ocurren en los modelos para saber cómo estimularlos de manera efectiva y obtener los mejores resultados.  En este artículo, discutiré cómo estimulo los LLMs que estoy trabajando con para hacer que funcionen de manera efectiva y realicen una gran cantidad de trabajo, y discutiré mi flujo de trabajo para completar tareas de ingeniería.  ¿Por qué optimizar la forma en que se estimula  En primer lugar, podrías pensar que la forma en que se escribe las instrucciones no importa mucho porque los LLMs han mejorado tanto que pueden entenderlo de cualquier manera. A un cierto punto, estoy de acuerdo con esta forma de pensar. Sin embargo, hay formas buenas y malas de estimular modelos.  Por ejemplo, una buena instrucción sería:  - Ser explícito sobre lo que se quiere - Incluir cómo probar la implement</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La optimización de la forma en que se proporcionan instrucciones a los modelos de lenguaje generativos (LLMs) es crucial para lograr resultados efectivos. Aunque los LLMs han avanzado significativamente, la calidad y la claridad de las instrucciones proporcionadas siguen siendo fundamentales para su rendimiento. Un buen enfoque consiste en ser explícito sobre lo que se desea lograr, incluir instrucciones para probar la implementación y aclarar cualquier ambigüedad.  En este artículo, el autor comparte sus técnicas para proporcionar instrucciones efectivas a los LLMs, como el uso de herramientas de transcripción para capturar sus pensamientos y la importancia de incluir instrucciones para probar la implementación. La transcripción es una herramienta valiosa que permite trabajar más rápido y con mayor precisión, lo que a su vez permite incluir más contexto en las instrucciones.  Sin embargo, es importante destacar que la optimización de las instrucciones no se limita solo a la forma en que se proporcionan. También implica comprender el proceso de iteración y colaboración entre el modelo y el usuario para lograr resultados efectivos. La clave está en encontrar un equilibrio entre la claridad y la concisión, así como en ser flexible y adaptarse a las necesidades cambiantes del proyecto.  En resumen, la optimización de las instrucciones para los LLMs es un proceso continuo que requiere una comprensión profunda de cómo funcionan estos modelos y cómo pueden ser utilizados de manera efectiva. Al seguir las técnicas compartidas en este artículo, los usuarios pueden mejorar significativamente sus resultados y lograr más con menos esfuerzo.</p>
+            </div>
+            
+            <a class="read-more" href="https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -917,27 +980,6 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● Towards Data Science</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Un simulador de fluidos que no resuelve las ecuaciones de fluidos</h4>
-          </summary>
-          <div class="card-body">
-            <p>La Lattice Boltzmann Method (LBM) simula el flujo de fluidos considerándolo como una distribución estadística de partículas que chocan entre sí. El comportamiento macroscópico (vórtices, gradientes de presión y amortiguación viscosa) surge como consecuencia, no como entrada.  La LBM ocupa un lugar genuinamente único en la física computacional, intermedio entre una simulación de dinámicas moleculares y un resolver de Navier-Stokes, operando a escala mesoscópica. En este artículo, derivaré la LBM desde principios, implementarla en aproximadamente 200 líneas de C++ y ejecutarla en el supercomputador MareNostrum 5. Las fuentes completas y una versión simplificada en Python/NumPy se encuentran en GitHub.  La LBM reemplaza las ecuaciones de Navier-Stokes intractables con un ruleta de actualización mucho más simple sobre una red de velocidades discretas. En el límite correcto, las ecuaciones de Navier-Stokes se recuperan sin asumir nada. Esto hace que la LBM sea teóricamente elegante, prácticamente rápida y paralelizable de manera deslumbrante. Funciona mejor en el régimen de baja Mach, subsonico, y</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El Lattice Boltzmann Method (LBM) es una aproximación teóricamente elegante y prácticamente rápida para simular fluidos, que opera en el escala mesoscópica. En lugar de utilizar las ecuaciones de Navier-Stokes intractables, el LBM utiliza un update simple en una red de velocidades discretas. Aunque en el límite se recupera la solución correcta, este método tiene limitaciones en el régimen subsonico y puede ser numericamente instable a bajas viscosidades.  El LBM se sitúa en un punto intermedio entre las simulaciones de dinámica molecular y los solucionadores de Navier-Stokes. En lugar de utilizar la aproximación del BGK, que reduce el problema a una operación lineal, el método utiliza la ecuación de Boltzmann para describir la evolución de la distribución de partículas en función del tiempo y la posición. Sin embargo, esta ecuación es intractable debido al número de dimensiones y la complejidad de los colisiones.  La aproximación del BGK, propuesta por Bhatnagar, Gross y Krook en 1954, es una simplificación brilla que reduce el problema a una operación lineal. Esta aproximación es teóricamente justificada mediante la expansión de Chapman-Enskog, lo que muestra que en el límite de baja velocidad, el LBM recupera exactamente las ecuaciones de Navier-Stokes.  El uso del LBM tiene implicaciones importantes para la simulación de fluidos en diferentes aplicaciones. Sin embargo, es importante tener en cuenta las limitaciones y restricciones de este método, especialmente en términos de velocidad y viscosidad. Además, el LBM requiere una gran cantidad de paralelización para ser computacionalmente eficiente.  En resumen, el Lattice Boltzmann Method es una aproximación teóricamente elegante y prácticamente rápida para simular fluidos, que opera en la escala mesoscópica. Aunque tiene limitaciones y restricciones, este método tiene el potencial de ser utilizado en diferentes aplicaciones, siempre y cuando se tenga en cuenta sus implicaciones y limitaciones.</p>
-            </div>
-            
-            <a class="read-more" href="https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
               <span class="card-source">● Radar</span>
               <span class="card-date">24/07</span>
             </div>
@@ -952,48 +994,6 @@
             </div>
             
             <a class="read-more" href="https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● KDnuggets</span>
-              <span class="card-date">24/07</span>
-            </div>
-            <h4>Evaluación de la ilusión del modelo de lenguaje con GraphEval</h4>
-          </summary>
-          <div class="card-body">
-            <p>La evaluación de la ilusión del lenguaje artificial con GraphEval.  Las ilusiones son uno de los problemas mejor conocidos que pueden experimentar los modelos de lenguaje grandes (LLMs) cuando generan respuestas. Ocurren cuando un modelo produce una respuesta que es incorrecta, absurda o simplemente fabricada, típicamente debido a la falta de conocimiento interno sobre el tema.  Aunque muchos soluciones han surgido en los últimos años para abordar el problema de las ilusiones del modelo, se han comparativamente menos estudiado los marcos metodológicos de evaluación interna para detectarlas. Un estudio reciente propuesto por investigadores de Amazon sugiere utilizar gráficas de conocimiento como medio para analizar y detectar las ilusiones que ocurren en LLMs. El marco presentado en el estudio se llama GraphEval.  En este artículo, vamos a tomar un enfoque práctico y ligero para ilustrar los bloques conceptuales básicos de GraphEval a través de un ejemplo de código simulado que puedes probar fácilmente en tu máquina.  # Gráfeval en resumen  Gráfeval utiliza gráficas de conocimiento para identificar y señalar las ilusiones en las respuestas generadas por los modelos de lenguaje. A diferencia de los métricas de rendimiento clásicas</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El estudio de la evaluación del modelo de lenguaje artificial que produce &#34;hallucinaciones&#34; es un tema crucial en el campo de la inteligencia artificial. Las hallucinaciones ocurren cuando un modelo de lenguaje artificial genera una respuesta que es incorrecta, absurda o simplemente fabricada, lo cual suele deberse a la falta de conocimiento interno del modelo sobre el tema.  El estudio propuesto por los investigadores de Amazon utiliza gráficas de conocimiento para analizar y detectar las hallucinaciones en los modelos de lenguaje artificiales. El marco presentado se llama GraphEval, que aplica un proceso de evaluación dos etapas que enfatiza la explicabilidad, proporcionando información sobre dónde exactamente se produjo la hallucinación.  El proceso de GraphEval considera dos etapas:   1.  Se construye una gráfica de conocimiento a partir de la respuesta generada por el modelo de lenguaje artificial. 2.  Se evalúa cada triple en la gráfica de conocimiento contra un contexto de fuentes (un cuerpo de conocimiento verdadero) mediante un modelo de inferencia natural del lenguaje (NLI). Cualquier triple que no pueda ser entendiendó por el contexto según el NLI - porque es contradictorio o neutro - se marca como una hallucinación.  El estudio propuesto utiliza un ejemplo de código para ilustrar cómo funciona el marco GraphEval. El ejemplo simula la construcción de una gráfica de conocimiento y su evaluación contra un contexto de fuentes, lo cual en un escenario real requeriría una computación más pesada.</p>
-            </div>
-            
-            <a class="read-more" href="https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● MachineLearningMastery.com</span>
-              <span class="card-date">24/07</span>
-            </div>
-            <h4>Diseño de agentes estatales versus estatales: ventajas y desventajas para sistemas agentes esca…</h4>
-          </summary>
-          <div class="card-body">
-            <p>Un agente puede manejar su estado de diferentes maneras y esta decisión a nivel de código puede tener un impacto significativo en la arquitectura de despliegue.  Los dos paradigmas principales para manejar el estado de un agente son el diseño estatal y el diseño no estatal. Este artículo explora estos dos enfoques y proporciona un ejemplo práctico utilizando modelos de lenguaje abierto servidos a través de la API Groq.  Un agente estatal almacena su propio contexto y conversación histórica en una capa de base de datos, mientras que un agente no estatal depende completamente del cliente para suministrar la historia de conversación.</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El enfoque de un agente en la gestión del estado, ya sea estatal o no estatal, tiene un impacto significativo tanto en su implementación como en la arquitectura de despliegue que se construye alrededor de él. En este artículo, se analizará cómo los agentes manejan su estado y las implicaciones que esto tiene para la escalabilidad.  La decisión de si un agente es estatal o no estatal es crucial, ya que cada enfoque impone diferentes tradeoffs. Los agentes estatales tratan cada solicitud como una entidad aislada e independiente, leyendo el prompt del usuario, invocando el motor de inferencia del modelo de lenguaje y entregando la salida. Una vez que ese ciclo de ejecución termina, todo se olvida.  La ventaja de los agentes estatales es que pueden escalarse horizontalmente con facilidad, ya que no se almacena memoria del usuario en un servidor de backend. Sin embargo, esto tiene una limitación importante en las conversaciones de multi-turn: el frontend debe reenviar la historia completa de conversación junto con cada nuevo pedido, lo que hace que el contexto se acumule y aumente rápidamente el uso de tokens.  Por otro lado, los agentes estatales toman la carga de la memoria a sí mismos. El cliente solo necesita enviar el prompt del usuario más reciente junto con un identificador único, normalmente asociado con la sesión actual. El agente entonces recupera la historia de sesión o contexto desde una capa de base de datos y la aplica al nuevo mensaje. Una vez que se ha procesado la inferencia del modelo, el agente actualiza el contexto en la base de datos.  La ventaja de los agentes estatales es que facilitan experiencias más limpias desde el lado del cliente y permiten workflows complejos y asíncronos en los que los agentes pueden pausar su ejecución y esperar por herramientas, respuestas de aplicaciones o aprobación humana. Sin embargo, esto tiene un costo: la escalabilidad se vuelve más difícil, comenzando con la necesidad de una capa de base de datos persistente en la arquitectura.  En infraestructuras que se escalan horizontalmente, es posible que se requiera estrategias como el caché centralizado con Redis para evitar &#34;amnesia localizada&#34;, donde la historia de sesión se queda atrapada.</p>
-            </div>
-            
-            <a class="read-more" href="https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1014,20 +1014,20 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● US Top News and Analysis</span>
-              <span class="card-date">25/07</span>
+              <span class="card-source">● NYT &gt; Business</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Cine en IMAX de 70 mm se convierte en estrella principal de &#39;La Odisea&#39; de Christopher Nolan</h4>
+            <h4>El debate sobre la inteligencia artificial divide a las grandes empresas de tecnología</h4>
           </summary>
           <div class="card-body">
-            <p>Para ver &#34;La Odisea&#34; en cines este fin de semana, el 39 años de edad del marketing Mike Rohlfing se embarcó en una aventura heroica de su propia vida.  Rohlfing, junto con su esposa y sus tres hijos, condujo aproximadamente 900 millas de ida y vuelta en minivan desde su hogar en St. Louis, Misuri, hasta Grand Rapids, Michigan, para llegar a uno de los pocos cineclubes que ofrecen proyecciones en Imax 70 mm para la adaptación del poema épico de Christopher Nolan.  &#34;Es una forma increíble&#34;, Rohlfing le dijo CNBC. &#34;Definitivamente valió la pena viajar tan lejos&#34;.  Rohlfing no es el único que se dispone a viajar por todo el país para experimentar la película Universal en esta forma de visualización única y amplia.  Atractivos como Zendaya y Anne Hathaway pueden estar en la lista de actores, pero el desempeño estelar proviene del gran formato de visualización análogo amado por Nolan y sus fans. Datos exclusivos compartidos con CNBC muestran cómo significativamente aumentó el interés para las proyecciones más caras en Imax 70 mm.  Es parte de una clase de formatos de pantalla más altos conocidos como &#34;formatos premium grandes&#34;, o PLFs.</p>
+            <p>Los inversores y los políticos deben enfrentar las dos facciones que ven modelos de inteligencia artificial abiertos y cerrados como clave para el futuro del sector.  La cuestión es si la IA abierta permitirá una mayor colaboración entre empresas, mientras que la IA cerrada se enfocará en la seguridad y privacidad.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El director de marketing Mike Rohlfing se embarcó en un viaje épico para ver &#34;La Odisea&#34; en cines, recorriendo más de 900 millas con su familia desde St. Louis, Missouri hasta Grand Rapids, Michigan, para disfrutar de una proyección en Imax 70 mm. Este formato es especialmente exclusivo y caro, ya que un boleto adulto puede costar hasta $27.77, lo que supone un aumento del 81% con respecto al costo promedio de entrada en otros formatos. La demanda por este tipo de proyecciones ha sido &#34;histórica&#34; y algunos actores, como Zendaya y Anne Hathaway, han atraído a audiencias dispuestas a viajar largas distancias para experimentar esta experiencia única.  La limitada disponibilidad de estas proyecciones ha convertido en un desafío obtener entradas, con algunas salas que ponen los boletos a la venta un año con anticipación. Los fanáticos están dispuestos a pagar por esta experiencia, lo que ha llevado a Imax a considerar nuevas formas de multiplicar las proyecciones, aunque el CEO Richard Gelfond señala que hay una &#34;finitez&#34; en el número de salas que pueden soportar la economía de este formato. La demanda es tan alta que algunos estados, como Colorado y Texas, han reportado una &#34;demanda excepcionalmente fuerte&#34;, mientras que otros lugares, como Indiana, han visto un aumento significativo en las solicitudes de entradas.  La experiencia de ver una película en Imax 70 mm se ha comparado con comprar boletos para conciertos o eventos exclusivos, y algunos fanáticos están dispuestos a hacer largas distancias para disfrutar de esta experiencia única. Sin embargo, la limitada disponibilidad de estas proyecciones plantea preguntas sobre la sostenibilidad a largo plazo de este formato y si Imax puede mantener el interés de los audiencias en un futuro.</p>
+              <p>La creciente dependencia de la tecnología artificial en diversas industrias ha generado un debate intenso entre inversores y políticas sobre el futuro del sector, con dos grupos rivales que abogan por modelos de inteligencia artificial abiertos o cerrados como clave para su desarrollo. Por un lado, los defensores de los modelos abiertos argumentan que permitirán una mayor colaboración y compartir de conocimientos, lo que impulsará la innovación y el progreso en el sector. Por otro lado, los partidarios de los modelos cerrados sostienen que la protección de la propiedad intelectual y la seguridad de la información son fundamentales para garantizar la competitividad y la estabilidad del sector. Este debate refleja una tensión fundamental entre la necesidad de innovación y el riesgo potencial de pérdida de privacidad y control sobre la tecnología. Los inversores y las políticas deben considerar cuidadosamente estas implicaciones para tomar decisiones informadas que equilibren los beneficios potenciales con los riesgos y preocupaciones éticas.</p>
             </div>
             
-            <a class="read-more" href="https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1036,19 +1036,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● US Top News and Analysis</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>La tecnología de Silicon Valley se vuelve obsesionada con el proceso de distilación en intelige…</h4>
+            <h4>Estados Unidos y Irán detienen el fuego para dar espacio a las negociaciones de paz</h4>
           </summary>
           <div class="card-body">
-            <p>El líder de Google AI, Jeff Dean, habló sobre la distilación en un podcast hace poco, cuando era un concepto poco discutido fuera de círculos tecnológicos. Según Dean, su equipo descubrió técnicas de inteligencia artificial distiladas mientras buscaba mejorar el rendimiento de los sistemas de Google sin depender de un modelo de reconocimiento de imágenes único.  La distilación se ha vuelto una cuestión caliente en Silicon Valley y Washington D.C., donde los tecnólogos y legisladores discuten si esta práctica está convirtiéndose en una amenaza para la seguridad nacional y permitiendo a China ganar la carrera de inteligencia artificial.   El problema surge porque las empresas chinas, como Moonshot AI, ofrecen modelos de inteligencia artificial &#34;abiertos&#34; que permiten a los usuarios descargar la tecnología, ajustarla y ejecutarla en cualquier lugar. Algunos funcionarios del gobierno atribuyen el éxito de Moonshot a la distilación, describiéndola como el robo de propiedad intelectual estadounidense.  Los principales actores del sector tech se unieron para expresar su posición sobre la cuestión, rechazando las restricciones prematuras en modelos de inteligencia artificial abiertos que podrían estancar la competencia o fomentar la innovación en el extranjero.</p>
+            <p>Un breve resumen del texto es el siguiente:  El conflicto entre Estados Unidos e Irán parecía haberse detenido temporalmente, pero Irán negó las acusaciones de haber aceptado un cesaréo de 10 días. Aunque se han interrumpido los ataques militares estadounidenses y iraníes, otros actores han continuado con acciones militares relacionadas con el conflicto.  La situación en la región sigue siendo compleja, con riesgo de escalada adicional y desafíos para los negociadores. Los expertos destacan que la paz duradera enfrenta numerosas dificultades, incluyendo la resolución de temas controvertidos como el programa nuclear iraní y las sanciones.  La normalización del tráfico en el Estrecho de Hormuz sigue siendo un punto clave para los negociadores. Aunque se han realizado conversaciones constructivas entre Irán y Oman, se considera que la normalización del tráfico es poco probable en corto plazo.  El mercado financiero está aliviado por la pausa en hostilidades, pero los analistas advierten que el riesgo de interrupción en las exportaciones sigue siendo alto.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>El concepto de &#34;distilación&#34; en inteligencia artificial (IA) ha ganado popularidad recientemente, tras ser mencionado por el líder de Google AI, Jeff Dean, en un podcast. La distilación se refiere a la técnica de utilizar las respuestas de un chatbot o producto de una modelo avanzada de IA para entrenar otro modelo. Esta práctica ha generado controversia, ya que permite a los desarrolladores de modelos crear ofertas competitivas utilizando el trabajo de otros sin necesidad de invertir grandes cantidades de dinero en desarrollo.  La aparición de la distilación como un tema candente se debe en parte a la capacidad de las laboratorias chinas, como Moonshot AI, para desarrollar modelos de IA competitivos con los líderes estadounidenses, como Anthropic y OpenAI. La distilación ha sido acusada de ser una forma de &#34;robo de propiedad intelectual&#34; estadounidense, ya que las empresas chinas están utilizando los modelos de IA desarrollados en Estados Unidos para mejorar sus propios productos.  Sin embargo, algunos expertos argumentan que la distilación es una técnica legítima y necesaria para el desarrollo de modelos de IA avanzados. El CEO de Box, Aaron Levie, sostuvo que las empresas estadounidenses deben tener acceso a la mejor tecnología, independientemente de su origen, para mantener la competitividad.  La cuestión de la distilación plantea un dilema para los políticos estadounidenses, quienes deben equilibrar la protección de la propiedad intelectual con el fomento de la innovación y la competencia en el sector de la IA. La respuesta de las empresas tecnológicas a este problema es preocupante, ya que podría llevar a una regulación excesiva que limita la libertad de desarrollo y la colaboración entre empresas.</p>
+              <p>A pesar de la pausa en hostilidades entre Estados Unidos e Irán, el país iraní negó las noticias de un acuerdo de 10 días de cesación del fuego. La decisión de suspender los ataques militares estadounidenses se debió a que diplomáticos buscaban &#34;dar espacio&#34; a las negociaciones de paz. Sin embargo, Irán reiteró que no tiene negociaciones con Estados Unidos y que sus conversaciones oficiales son solo con Omán sobre el futuro del Estrecho de Hormuz.  La pausa en hostilidades ha sido recibida con alivio por los inversores, ya que la posibilidad de un ataque masivo estadounidense a Irán había generado una caída significativa en los precios del petróleo. Sin embargo, expertos advierten que las negociaciones para un acuerdo duradero enfrentan numerosas dificultades. Los temas controvertidos, como el futuro del programa nuclear iraní y la relajación de las sanciones, deben ser resueltos a través de conversaciones directas.  La normalización del tráfico en el Estrecho de Hormuz es un punto clave para los negociadores, ya que el estrecho es crucial para la exportación de petróleo. Sin embargo, Irán ha reiterado que el estrecho sigue siendo bloqueado y que no hay cambios en la situación. La participación de Omán como mediadora ha sido crucial en estos esfuerzos, pero los analistas advierten que la normalización del tráfico en el corto plazo es poco probable.  La pausa en hostilidades también ha llevado a otros actores a llevar a cabo acciones militares relacionadas con el conflicto, lo que destaca la posibilidad de un aumento en la escalada y las complejidades enfrentadas por los negociadores. La situación sigue siendo delicada y requiere una atención constante para evitar un desplome en la estabilidad regional.</p>
             </div>
             
-            <a class="read-more" href="https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1056,20 +1056,20 @@
         <details class="card" open>
           <summary>
             <div class="card-top">
-              <span class="card-source">● Bloomberg Markets</span>
-              <span class="card-date">25/07</span>
+              <span class="card-source">● US Top News and Analysis</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>El comercio de Trump se está convirtiendo en un perdedor en el mercado de valores</h4>
+            <h4>Nvidia, SpaceX y Microsoft lanzan iniciativa de seguridad en inteligencia artificial tras ataqu…</h4>
           </summary>
           <div class="card-body">
-            <p>Cuando Donald Trump fue reelecto para un segundo mandato como presidente, los comerciantes amateuros y profesionales corrieron a identificar cuáles acciones beneficiarían de sus políticas económicas agresivas.</p>
+            <p>La iniciativa de seguridad de inteligencia artificial abierta (Open Secure AI Alliance) es un esfuerzo conjunto entre Nvidia y una serie de gigantes tecnológicos para desarrollar y compartir herramientas de inteligencia artificial abiertas. Esta iniciativa surge tras el incidente de seguridad en Hugging Face, donde se reveló que los modelos abiertos no podían defenderse adecuadamente contra ataques cibernéticos.  La iniciativa busca remediar vulnerabilidades utilizando tecnologías abiertas y compartir herramientas para mejorar la seguridad. Nvidia afirma que esta iniciativa es necesaria debido a la falta de transparencia en los modelos abiertos, lo que puede permitir que se utilicen para fines maliciosos.  La creciente preocupación por las implicaciones éticas y de seguridad de los modelos de inteligencia artificial chinos ha llevado a algunos expertos a sugerir restricciones sobre el acceso a estos modelos. Sin embargo, otros argumentan que estas restricciones podrían limitar la competencia y la innovación en el sector.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.</p>
+              <p>La iniciativa de seguridad de inteligencia artificial abierta lanzada por Nvidia y una serie de gigantes tecnológicos busca fortalecer la defensa contra ataques cibernéticos en el sector de la inteligencia artificial, tras un incidente reciente en el que un modelo abierto de OpenAI se utilizó para atacar a una startup estadounidense. La falta de regulación y seguridad en los modelos abiertos ha llevado a preocupaciones sobre su uso por parte de empresas chinas, como se refleja en las amenazas de sanciones contra estas empresas por distillación, un tipo de ataque informático que consiste en extraer conocimientos de sistemas rivales. La iniciativa busca promover la seguridad y transparencia en el desarrollo y uso de modelos abiertos, pero también plantea preguntas sobre las implicaciones de limitar el acceso a estos modelos, especialmente si se trata de empresas chinas que dominan el mercado de los modelos abiertos. Los expertos advierten que cualquier medida restrictiva podría tener consecuencias negativas para la innovación y la competencia en el sector, lo que hace necesario encontrar un equilibrio entre la seguridad y la libertad de desarrollo. La iniciativa de Nvidia y otros gigantes tecnológicos es un paso en la dirección correcta, pero también es importante considerar las implicaciones a largo plazo de estas medidas y cómo pueden afectar al sector de la inteligencia artificial en general.</p>
             </div>
             
-            <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1078,40 +1078,19 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● NYT &gt; Business</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Vende la empresa por cuatrocientos millones de dólares, pero lo dona en su lugar.</h4>
+            <h4>Se construyen cinco hoteles en edificios históricos de época victoriana.</h4>
           </summary>
           <div class="card-body">
-            <p>Después de que su único heredero falleció, Eddie Smith, propietario de Grady-White Boats, buscó una forma de transmitir su legado. Fue inspirado por Patagonia a comprometer los beneficios futuros con la caridad.  El fundador de Grady-White Boats, Eddie Smith, decidió donar el 10% de las ganancias de sus barcos a organizaciones benéficas.</p>
+            <p>Estas instalaciones ofrecen entornos intrigantes con sorprendentes contrastes, desde un almacén restaurado en Seattle hasta una antigua prisión en Nara, Japón.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La muerte de su único heredero motivó a Eddie Smith, propietario de Grady-White Boats, a buscar una forma de transmitir su legado. Su inspiración en la marca Patagonia lo llevó a comprometer que los beneficios futuros de su empresa serían donados a la caridad. Esta decisión puede verse como un ejemplo de responsabilidad social empresarial y un intento por parte de Smith de dejar una huella positiva más allá de su legado personal. Sin embargo, también plantea preguntas sobre el impacto económico que esto podría tener en la empresa y si realmente se lograrán los beneficios prometidos a las causas benéficas. Además, es interesante considerar cómo esta decisión puede influir en la percepción del consumidor hacia la marca Grady-White Boats.</p>
+              <p>Estas opciones de alojamiento ofrecen un entorno único y fascinante, desde un almacén restaurado en Seattle hasta una antigua prisión en Nara, Japón, donde se combina la historia con los lujos modernos. Este fenómeno del &#34;glamping&#34; o acampamento de lujo, que combina el aire libre con comodidades sofisticadas, parece estar ganando popularidad entre aquellos que buscan una experiencia más auténtica y emocionante en sus viajes. Sin embargo, también plantea preguntas sobre la relación entre la naturaleza y la tecnología, así como sobre la valorización del pasado y su posible impacto en el presente. Además, es importante considerar las implicaciones éticas de alojar a los huéspedes en lugares históricos o con un pasado controvertido, como en el caso de una antigua prisión. En última instancia, este tipo de opciones de alojamiento requiere una reflexión crítica sobre lo que realmente significa &#34;comodidad&#34; y &#34;experiencia&#34;.</p>
             </div>
             
-            <a class="read-more" href="https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
-          </div>
-        </details>
-        
-        
-        <details class="card" open>
-          <summary>
-            <div class="card-top">
-              <span class="card-source">● International homepage</span>
-              <span class="card-date">25/07</span>
-            </div>
-            <h4>Inversores aumentan apuestas por aumento de la tasa del Banco Federal tras subida de precios de…</h4>
-          </summary>
-          <div class="card-body">
-            <p>Los inversores aumentan sus apuestas sobre un aumento de las tasas del Banco Federal después de que el precio del petróleo se disparó.  Para acceder a este artículo, haz clic en el enlace de suscripción.  Intenta acceso ilimitado Solo $1 por 4 semanas. Luego $75 por mes. Acceso digital completo a la calidad periodística FT en cualquier dispositivo. Cancela en cualquier momento durante tu prueba.  Explora más ofertas. Edición Digital FT $16,99 por mes. Nuestra versión digital del periódico FT, fácil de leer en cualquier dispositivo.  Estándar Digital $45 por mes. Acceso digital completo a la calidad periodística FT en cualquier dispositivo. Paga un año con anticipación y ahorra el 20%.  Premium Digital Acceso completo $75 por mes. Acceso digital completo a la calidad periodística con análisis experto de líderes del sector. Paga un año con anticipación y ahorra el 20%.  Verifica si ya tienes acceso a través de tu universidad o organización.  Explora nuestra completa gama de suscripciones.  Para individuos Descubre todos los planes disponibles en tu país.  Para múltiples lectores Acceso digital para organizaciones. Incluye características y contenido exclusivos.  ¿Por qué el FT? Ver por qué más de un millón de lectores pagan para leer Financial Times.</p>
-            
-            <div class="ia-analysis">
-              <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>La decisión de los inversores de aumentar sus apuestas sobre un aumento en las tasas de interés por parte de la Reserva Federal, después del sorprendente aumento en el precio del petróleo, refleja una creciente inquietud sobre la estabilidad económica global. Este movimiento se debe en gran medida a la percepción de que la Reserva Federal podría aumentar las tasas de interés para combatir la inflación, lo cual podría tener un impacto significativo en el mercado financiero y la economía en general. Sin embargo, es importante considerar que este aumento también podría tener consecuencias negativas, como una recesión económica o una disminución en la actividad comercial. Es fundamental para los inversores y los consumidores estar atentos a estas tendencias y tomar decisiones informadas sobre sus inversiones y planes financieros. Además, es crucial que las autoridades monetarias y gubernamentales tomen medidas cuidadosas y transparentes para mitigar cualquier impacto negativo en la economía.</p>
-            </div>
-            
-            <a class="read-more" href="https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.nytimes.com/2026/07/27/travel/new-hotels-historical-buildings.html" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1120,19 +1099,40 @@
           <summary>
             <div class="card-top">
               <span class="card-source">● Bloomberg Markets</span>
-              <span class="card-date">25/07</span>
+              <span class="card-date">27/07</span>
             </div>
-            <h4>Más de 250.000 personas huyen ante incendios que azotan Francia y España</h4>
+            <h4>Los frijoles de soja caen, mientras la caza de petróleo se detiene en EE.UU e Irán</h4>
           </summary>
           <div class="card-body">
-            <p>Más de 250.000 personas abandonaron pueblos y aldeas en España y Francia mientras incendios forestales sin control se acercaban cada vez más a Madrid y Bordeaux, dos áreas metropolitanas que albergan a más de ocho millones de personas.</p>
+            <p>Las futuras de soja de Chicago cayeron al mínimo en más de dos meses debido a la pausa en las hostilidades entre Estados Unidos e Irán, lo que redujo las preocupaciones por una escalada adicional, provocando un caída significativa del precio del petróleo crudo. La aceite de soja es un importante stock feedstock para los biofuels, y los precios más bajos del petróleo crudo disminuyen su atractivo.</p>
             
             <div class="ia-analysis">
               <span class="ia-label">🤖 Análisis generado por IA</span>
-              <p>Los incendios forestales sin control que se extendieron por España y Francia obligaron a más de 250.000 personas a abandonar sus pueblos y aldeas, mientras que las llamas se acercaban cada vez más a la capital española y la gran área metropolitana de Bordeaux, que alberga a más de 8 millones de personas en total. Este desplazamiento masivo de población es un reflejo de la crisis climática que afecta a ambos países y subraya la necesidad de medidas urgentes para prevenir y combatir estos incendios. La proximidad de las llamas a áreas urbanas como Madrid y Bordeaux aumenta el riesgo de daños a la infraestructura y la vida humana, lo que destaca la importancia de implementar estrategias de prevención y mitigación efectivas. Es fundamental que los gobiernos españoles y franceses tomen medidas concretas para abordar esta crisis y proteger a sus ciudadanos ante el aumento de incendios forestales en el futuro. La respuesta gubernamental debe ser rápida, eficaz y coordinada para evitar más desplazamientos masivos de población y minimizar los daños causados por estos incendios.</p>
+              <p>La caída de los futuros de soja en Chicago a su mínimo en más de dos meses se debió en parte a la pausa en las hostilidades entre Estados Unidos e Irán, lo que alivió las preocupaciones sobre una escalada aún mayor. La producción de biocombustibles es crucial para el mercado de los futuros de soja, ya que el aceite de soja es un componente clave en muchos combustibles alternativos. Sin embargo, la caída de los precios del crudo disminuye su atractivo, lo que podría tener implicaciones negativas para la industria agrícola y energética. Esta fluctuación refleja la complejidad de las relaciones internacionales y su impacto en el mercado global. Es importante considerar cómo esta tendencia puede afectar la seguridad alimentaria y energética a largo plazo.</p>
             </div>
             
-            <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+            <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-07-27/soybean-oil-drops-most-in-month-after-us-halts-strikes-on-iran" target="_blank" rel="noopener">LEER ORIGINAL →</a>
+          </div>
+        </details>
+        
+        
+        <details class="card" open>
+          <summary>
+            <div class="card-top">
+              <span class="card-source">● Bloomberg Markets</span>
+              <span class="card-date">26/07</span>
+            </div>
+            <h4>Noticias del mercado de petróleo y análisis para el 27 de julio</h4>
+          </summary>
+          <div class="card-body">
+            <p>El petróleo cayó después de que Estados Unidos suspendiera casi dos semanas de ataques diarios contra Irán y los tanques navegaron para cargar en un terminal de exportación kazajo recientemente interrumpido, aliviando las presiones de suministro en un mercado comprimido por múltiples frentes.</p>
+            
+            <div class="ia-analysis">
+              <span class="ia-label">🤖 Análisis generado por IA</span>
+              <p>La caída del precio del petróleo se debió en parte a la pausa de casi dos semanas de ataques diarios de los Estados Unidos contra Irán y el inicio de las operaciones en un terminal de exportación kazajo recientemente interrumpido, lo que facilitó la reducción de presiones en el mercado, que ha estado sobrepasado por múltiples frentes. Esta tendencia se refleja en una economía global cada vez más volátil y sensible a los cambios en las relaciones geopolíticas. Sin embargo, es importante considerar que esta caída del precio puede ser temporal y que otros factores pueden influir en el mercado, como la producción de petróleo y la demanda global. Además, la relación entre Estados Unidos e Irán sigue siendo tensa, lo que podría generar nuevas incertidumbres en el futuro. Es fundamental seguir atentamente las noticias y tendencias para entender mejor los impactos potenciales de este desarrollo en el mercado energético mundial.</p>
+            </div>
+            
+            <a class="read-more" href="https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27" target="_blank" rel="noopener">LEER ORIGINAL →</a>
           </div>
         </details>
         
@@ -1145,7 +1145,7 @@
 <footer>
   <div class="container">
     <p><strong>PERFECT FEED</strong> — Generado automáticamente en una Raspberry Pi 4. Traducción y análisis con Ollama (llama3.2) sobre el MacBook.</p>
-    <p>Tasas cortesía de InfoDolar.com.do · 25/07/2026 18:00</p>
+    <p>Tasas cortesía de InfoDolar.com.do · 27/07/2026 09:00</p>
     <div class="foot-badges">
       <span class="badge">🍓 RASPBERRY PI 4</span>
       <span class="badge">🦙 OLLAMA LOCAL</span>
