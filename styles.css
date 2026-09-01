@@ -407,18 +407,20 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   letter-spacing: .04em; color: var(--ink); opacity: .55; white-space: nowrap;
 }
 
-/* ── Convertidor rápido ── */
+/* ── Convertidor rápido: tercera tarjeta, centrada ── */
 .quick-converter {
-  margin: 2rem 0 0; border: var(--border-thick); background: var(--yellow);
-  box-shadow: var(--shadow-lg); padding: 1.2rem 1.4rem; display: grid;
-  grid-template-columns: 1fr auto; gap: 1rem; align-items: center;
+  grid-column: 1 / -1; justify-self: center; width: calc(50% - .75rem);
+  min-height: 218px; border: var(--border-thick); background: var(--pink);
+  box-shadow: var(--shadow-lg); padding: 1.25rem 1.4rem; display: flex;
+  flex-direction: column; gap: .7rem;
 }
-.converter-kicker { font-family: var(--font-mono); font-size: .68rem; font-weight: 700; }
-.quick-converter h3 { font-family: var(--font-display); font-size: 1.15rem; line-height: 1.15; }
-.converter-controls { display: flex; align-items: center; flex-wrap: wrap; gap: .45rem; justify-content: flex-end; }
-.converter-controls label { font-family: var(--font-mono); font-size: .68rem; font-weight: 700; }
-.converter-controls select, .converter-controls input { border: var(--border); background: var(--white); font: 700 .82rem var(--font-mono); padding: .45rem; max-width: 9rem; }
-#converter-result { grid-column: 1 / -1; display: flex; align-items: baseline; flex-wrap: wrap; gap: .7rem; }
-#converter-result strong { font-family: var(--font-display); font-size: 1.7rem; }
-#converter-result span { font-family: var(--font-mono); font-size: .7rem; background: var(--white); border: var(--border); padding: .25rem .45rem; }
-@media (max-width: 720px) { .quick-converter { grid-template-columns: 1fr; padding: 1rem; }.converter-controls { justify-content: flex-start; }.converter-controls select, .converter-controls input { max-width: 100%; } }
+.quick-converter:hover { transform: translate(-3px,-3px); box-shadow: 12px 12px 0 var(--ink); }
+.converter-kicker { font-family: var(--font-mono); font-size: .68rem; font-weight: 700; background: var(--ink); color: var(--yellow); padding: .2rem .45rem; align-self: flex-start; }
+.quick-converter h3 { font-family: var(--font-display); font-size: 1.1rem; line-height: 1.1; }
+.converter-controls { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: .4rem .55rem; }
+.converter-controls label { font-family: var(--font-mono); font-size: .65rem; font-weight: 700; }
+.converter-controls select, .converter-controls input { min-width: 0; width: 100%; border: var(--border); background: var(--white); font: 700 .78rem var(--font-mono); padding: .42rem; }
+#converter-result { margin-top: auto; display: flex; flex-direction: column; gap: .35rem; }
+#converter-result strong { font-family: var(--font-display); font-size: clamp(1.45rem, 4vw, 2.1rem); line-height: 1; }
+#converter-result span { font-family: var(--font-mono); font-size: .62rem; background: var(--white); border: var(--border); padding: .25rem .4rem; }
+@media (max-width: 720px) { .quick-converter { grid-column: auto; justify-self: stretch; width: auto; min-height: 0; }.quick-converter:hover { transform: none; box-shadow: var(--shadow-lg); } }
