@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://perfect-feed.kawashiro.dev/sitemap.xml
