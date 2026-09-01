@@ -16,7 +16,7 @@
 <header>
   <div class="container header-inner">
     <div class="brand"><div class="logo">⚡</div><h1>PERFECT FEED</h1></div>
-    <div class="header-meta"><span class="chip-live">En vivo</span><span class="chip-date">01/09/2026 a las 00:37</span><a class="btn-rss" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 RSS</a></div>
+    <div class="header-meta"><span class="chip-live">En vivo</span><span class="chip-date">01/09/2026 a las 00:45</span><a class="btn-rss" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 RSS</a></div>
   </div>
 </header>
 
@@ -29,6 +29,11 @@
   <section class="tasas-promedios">
     <div class="tasa-card usd"><div class="moneda-label"><span class="flag">🇺🇸</span> DÓLAR · USD</div><div class="tasa-values"><div class="tv-block compra"><div class="tv-label">Compra</div><div class="tv-num">57.43</div></div><div class="tv-block venta"><div class="tv-label">Venta</div><div class="tv-num">59.50</div></div></div><div class="tv-sub">PROMEDIO · 16 ENTIDADES</div></div>
     <div class="tasa-card eur"><div class="moneda-label"><span class="flag">🇪🇺</span> EURO · EUR</div><div class="tasa-values"><div class="tv-block compra"><div class="tv-label">Compra</div><div class="tv-num">66.45</div></div><div class="tv-block venta"><div class="tv-label">Venta</div><div class="tv-num">69.79</div></div></div><div class="tv-sub">PROMEDIO · 9 ENTIDADES</div></div>
+  </section>
+  <section class="quick-converter" aria-labelledby="convertidor-title">
+    <div><span class="converter-kicker">CONVERSOR RÁPIDO</span><h3 id="convertidor-title">DÓLAR O EURO A PESOS</h3></div>
+    <div class="converter-controls"><label for="converter-currency">Moneda</label><select id="converter-currency"><option value="usd">USD · Dólar</option><option value="eur">EUR · Euro</option></select><label for="converter-amount">Monto</label><input id="converter-amount" type="number" min="0" step="0.01" value="1" inputmode="decimal"></div>
+    <output id="converter-result" aria-live="polite"></output>
   </section>
 </main>
 
@@ -43,6 +48,7 @@
 <footer><div class="container"><p><strong>PERFECT FEED</strong> — Generado automáticamente en una Raspberry Pi 4. Traducción y análisis con Ollama (llama3.2) sobre el MacBook.</p><p>Tasas cortesía de  · </p><div class="foot-badges"><span class="badge">🍓 RASPBERRY PI 4</span><span class="badge">🦙 OLLAMA LOCAL</span><span class="badge">⚡ CERO APIS DE PAGO</span><a class="badge" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 SUSCRÍBETE RSS</a></div></div></footer>
 <script>
 const botones=document.querySelectorAll('.cat-nav button');const secciones=document.querySelectorAll('[data-cat]');botones.forEach(btn=>btn.addEventListener('click',()=>{botones.forEach(b=>b.classList.remove('active'));btn.classList.add('active');const t=btn.dataset.target;secciones.forEach(s=>{s.style.display=(t==='all'||s.id===t)?'':'none'});if(t!=='all')document.getElementById(t).scrollIntoView({behavior:'smooth',block:'start'})}));document.querySelectorAll('details.card').forEach(d=>{d.open=false});
+const converterRates={usd:{rate:60.00,bank:"Banco Lafise"},eur:{rate:71.50,bank:"Banreservas"};const converterCurrency=document.querySelector('#converter-currency'),converterAmount=document.querySelector('#converter-amount'),converterResult=document.querySelector('#converter-result');function convertToDop(){const data=converterRates[converterCurrency.value],amount=Number(converterAmount.value)||0;if(!data.rate){converterResult.textContent='Tasa no disponible.';return}const total=amount*data.rate;converterResult.innerHTML=`<strong>RD$ ${total.toLocaleString('es-DO',{minimumFractionDigits:2,maximumFractionDigits:2})}</strong><span>Venta más cara: ${data.bank} · RD$ ${data.rate.toFixed(2)}</span>`}converterCurrency.addEventListener('change',convertToDop);converterAmount.addEventListener('input',convertToDop);convertToDop();
 </script>
 </body>
 </html>
