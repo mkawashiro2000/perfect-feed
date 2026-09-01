@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-01T04:45:14.749498+00:00</updated>
+  <updated>2026-09-01T04:45:56.841079+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -13,7 +13,7 @@
   <entry>
     <id>https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html</id>
     <title>[Economía] CEO de Aon anuncia compra de USI para crear plataforma de mercado de mediana empresa</title>
-    <updated>2026-09-01T04:45:14.750597+00:00</updated>
+    <updated>2026-09-01T04:45:56.842175+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -27,7 +27,7 @@ La compra de USI Insurance Services por parte de Aon, una de las principales emp
   <entry>
     <id>https://www.bloomberg.com/news/articles/2026-08-31/asian-stocks-to-fall-as-iran-flare-up-boosts-oil-markets-wrap</id>
     <title>[Economía] Las bondezas y los bonos asiáticos caen tras el aumento del petróleo: Resumen de los mercados</title>
-    <updated>2026-09-01T04:45:14.750565+00:00</updated>
+    <updated>2026-09-01T04:45:56.842144+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
@@ -41,7 +41,7 @@ El mercado de valores sigue siendo cauteloso debido a las preocupaciones sobre l
   <entry>
     <id>https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html</id>
     <title>[Economía] El debut débil de Shein deja atrás un modelo de fast fashion</title>
-    <updated>2026-09-01T04:45:14.750532+00:00</updated>
+    <updated>2026-09-01T04:45:56.842110+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
@@ -55,7 +55,7 @@ Shein ha sido objeto de críticas por su falta de transparencia y su impacto neg
   <entry>
     <id>https://www.bloomberg.com/news/articles/2026-09-01/australian-benchmark-bond-yield-jumps-to-level-last-seen-in-2011</id>
     <title>[Economía] La tasa de interés del bono de referencia australiano alcanza su nivel más alto en 15 años</title>
-    <updated>2026-09-01T04:45:14.750498+00:00</updated>
+    <updated>2026-09-01T04:45:56.842077+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
@@ -69,7 +69,7 @@ La tasa de interés del bono de referencia australiano ha aumentado debido a la 
   <entry>
     <id>https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html</id>
     <title>[Economía] Cómo el Pentágono se mete en la industria del petróleo venezolano bajo Trump</title>
-    <updated>2026-09-01T04:45:14.750464+00:00</updated>
+    <updated>2026-09-01T04:45:56.842045+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
@@ -83,7 +83,7 @@ El acuerdo se anunció durante una rueda de prensa en la Casa Blanca, donde Trum
   <entry>
     <id>https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html</id>
     <title>[Economía] Venezuela otorga a una empresa petrolera estadounidense 100 años de concesión para 17 campos petroleros</title>
-    <updated>2026-09-01T04:45:14.750430+00:00</updated>
+    <updated>2026-09-01T04:45:56.842010+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -97,7 +97,7 @@ El acuerdo se ha presentado como un paso importante para fortalecer la relación
   <entry>
     <id>https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/</id>
     <title>[Data Science] AgentOps no es MLOps: qué rompe en tu stack de monitoreo cuando los agentes entran en producción</title>
-    <updated>2026-09-01T04:45:14.750395+00:00</updated>
+    <updated>2026-09-01T04:45:56.841974+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -111,7 +111,7 @@ La migración de modelos de aprendizaje automático (MLOps) a entornos de produc
   <entry>
     <id>https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/</id>
     <title>[Data Science] Combina las representaciones de embeddings de LLM con características tabulares en una pipeline de Scikit-learn unificada.</title>
-    <updated>2026-09-01T04:45:14.750358+00:00</updated>
+    <updated>2026-09-01T04:45:56.841938+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -125,7 +125,7 @@ Para construir una pipeline de aprendizaje automático unificada con scikit-lear
   <entry>
     <id>https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead</id>
     <title>[Data Science] 7 errores comunes de Python que los principiantes deben evitar</title>
-    <updated>2026-09-01T04:45:14.750324+00:00</updated>
+    <updated>2026-09-01T04:45:56.841904+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -139,7 +139,7 @@ Es importante recordar que Python es un lenguaje de programación que se basa en
   <entry>
     <id>https://towardsdatascience.com/why-rag-complexity-should-be-earned/</id>
     <title>[Data Science] La complejidad de la red debe ser ganada por los jugadores en juegos de estrategia</title>
-    <updated>2026-09-01T04:45:14.750288+00:00</updated>
+    <updated>2026-09-01T04:45:56.841868+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -153,7 +153,7 @@ La complejidad en los arquitectos de RAG (Retrieval-Augmented Generation) debe s
   <entry>
     <id>https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/</id>
     <title>[Data Science] ¿Cuál es el problema de la FAQ?</title>
-    <updated>2026-09-01T04:45:14.750253+00:00</updated>
+    <updated>2026-09-01T04:45:56.841834+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -167,7 +167,7 @@ Este artículo es una parte del libro "Enterprise Document Intelligence" y explo
   <entry>
     <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-building-a-financial-news-agent-with-jayeeta-putatunda/</id>
     <title>[Data Science] De cero a agente en 30 minutos: Construyendo un agente de noticias financieras con Jayeeta Putatunda</title>
-    <updated>2026-09-01T04:45:14.750221+00:00</updated>
+    <updated>2026-09-01T04:45:56.841800+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -181,7 +181,7 @@ El enfoque de Jayeeta se basa en construir agentes individuales que manejan tare
   <entry>
     <id>https://www.autosport.com/f1/news/the-underlying-upgrade-that-boosted-mclarens-performance-jump/10850982/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk</id>
     <title>[Fórmula 1] La actualización subyacente que impulsó el salto de rendimiento de McLaren</title>
-    <updated>2026-09-01T04:45:14.750186+00:00</updated>
+    <updated>2026-09-01T04:45:56.841764+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
@@ -195,7 +195,7 @@ El ajuste subyacente que impulsó el salto de rendimiento de McLaren se debió e
   <entry>
     <id>https://racer.com/2026/08/31/ferrari-s-vasseur-says-where-f1-season-ends-will-impact-development-chances</id>
     <title>[Fórmula 1] El director deportivo de Ferrari afirma que el final de la temporada afectará sus posibilidades de desarrollo.</title>
-    <updated>2026-09-01T04:45:14.750154+00:00</updated>
+    <updated>2026-09-01T04:45:56.841731+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
@@ -209,7 +209,7 @@ La posibilidad de cambios en el calendario de las últimas carreras de la tempor
   <entry>
     <id>https://www.motorsport.com/f1/news/perez-trying-to-help-hire-lure-f1-personnel-to-cadillac/10849775/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www</id>
     <title>[Fórmula 1] Sergio Pérez busca atraer personal F1 a Cadillac con estrategias de reclutamiento.</title>
-    <updated>2026-09-01T04:45:14.750119+00:00</updated>
+    <updated>2026-09-01T04:45:56.841695+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
@@ -223,7 +223,7 @@ El piloto de F1 Sergio Pérez ha afirmado que ha intentado "influir" en la selec
   <entry>
     <id>https://www.motorsport.com/f1/news/kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight/10851086/</id>
     <title>[Fórmula 1] Kimi Antonelli revela cómo se mantiene en el terreno en la lucha por el título de 2026 de F1</title>
-    <updated>2026-09-01T04:45:14.750087+00:00</updated>
+    <updated>2026-09-01T04:45:56.841663+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
@@ -237,7 +237,7 @@ La temporada de F1 2026 está siendo una de las más emocionantes en años, con 
   <entry>
     <id>https://racer.com/2026/08/31/cup-series-drivers-split-on-effects-of-nascar-s-new-daytona-package</id>
     <title>[Fórmula 1] Los conductores de la Cup Series se dividen sobre los efectos del nuevo paquete de Daytona de NASCAR</title>
-    <updated>2026-09-01T04:45:14.750053+00:00</updated>
+    <updated>2026-09-01T04:45:56.841630+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
@@ -251,7 +251,7 @@ El paquete técnico de Daytona ha sido objeto de debate entre los conductores y 
   <entry>
     <id>https://www.f1technical.net/news/29208</id>
     <title>[Fórmula 1] Norris quiere McLaren ser su hogar a largo plazo</title>
-    <updated>2026-09-01T04:45:14.750021+00:00</updated>
+    <updated>2026-09-01T04:45:56.841597+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -265,7 +265,7 @@ Norris ha estado en McLaren desde 2017 y ha sido clave en su transformación des
   <entry>
     <id>https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs</id>
     <title>[Tecnología] Proyector de JMGO con contraste impresionante para jugadores y deportistas</title>
-    <updated>2026-09-01T04:45:14.749985+00:00</updated>
+    <updated>2026-09-01T04:45:56.841562+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -279,7 +279,7 @@ El proyector Iris Ultra Max de JMGO es una de las últimas innovaciones en tecno
   <entry>
     <id>https://gizmodo.com/george-santos-gets-kalshis-first-ever-lifetime-ban-2000805225</id>
     <title>[Tecnología] George Santos recibe banca de vida en Kalshi</title>
-    <updated>2026-09-01T04:45:14.749950+00:00</updated>
+    <updated>2026-09-01T04:45:56.841527+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -293,7 +293,7 @@ Estas acciones de Kalshi llegan en un momento en que se han estado planteando pr
   <entry>
     <id>https://www.theverge.com/tech/987032/google-tv-streamer-price-increase</id>
     <title>[Tecnología] El Google TV Streamer ahora cuesta $50 más</title>
-    <updated>2026-09-01T04:45:14.749916+00:00</updated>
+    <updated>2026-09-01T04:45:56.841491+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -307,7 +307,7 @@ El aumento de precio del Google TV Streamer se produce en un momento en que la e
   <entry>
     <id>https://www.engadget.com/2246412/starlink-mini-x-comes-with-extra-router-do-you-need-it/</id>
     <title>[Tecnología] ¿Necesitas el kit de router adicional de Starlink Mini X?</title>
-    <updated>2026-09-01T04:45:14.749883+00:00</updated>
+    <updated>2026-09-01T04:45:56.841459+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
@@ -321,7 +321,7 @@ El kit de Starlink Mini X incluye un router adicional, el Router Mini, que puede
   <entry>
     <id>https://www.engadget.com/2243954/how-to-make-sure-android-phone-secure/</id>
     <title>[Tecnología] Cómo asegurar la seguridad de tu teléfono Android</title>
-    <updated>2026-09-01T04:45:14.749848+00:00</updated>
+    <updated>2026-09-01T04:45:56.841425+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
@@ -335,7 +335,7 @@ En la actualidad, la seguridad en línea es un tema de gran importancia, ya que 
   <entry>
     <id>https://gizmodo.com/little-florida-memo-could-have-big-impacts-on-flock-cameras-2000805330</id>
     <title>[Tecnología] Un pequeño avance en Florida podría tener grandes impactos en las cámaras de Flock</title>
-    <updated>2026-09-01T04:45:14.749813+00:00</updated>
+    <updated>2026-09-01T04:45:56.841391+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -349,7 +349,7 @@ En un giro inesperado, el memorando destaca la necesidad de proteger la privacid
   <entry>
     <id>https://dev.to/taswar_bhatti/grok-46-is-now-in-foundry-heres-what-it-means-if-you-write-c-ehf</id>
     <title>[Programación] Grok 4.6 ahora está disponible en Foundry, una herramienta para desarrolladores de C#</title>
-    <updated>2026-09-01T04:45:14.749777+00:00</updated>
+    <updated>2026-09-01T04:45:56.841355+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -363,7 +363,7 @@ El modelo de inteligencia artificial Grok 4.6, lanzado recientemente en Microsof
   <entry>
     <id>https://dev.to/dagilleland/codehub-classroom-25fd</id>
     <title>[Programación] Clase en línea de CodeHub para aprender a programar y desarrollar habilidades en tecnología.</title>
-    <updated>2026-09-01T04:45:14.749738+00:00</updated>
+    <updated>2026-09-01T04:45:56.841314+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -377,7 +377,7 @@ El lanzamiento de GitHub Classroom en julio de 2013 marcó un punto de inflexió
   <entry>
     <id>https://css-tricks.com/whats-important-18/</id>
     <title>[Programación] ¿Qué es lo importante #18: geolocalización, resaltado de sintaxis, características nombradas y más</title>
-    <updated>2026-09-01T04:45:14.749703+00:00</updated>
+    <updated>2026-09-01T04:45:56.841278+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -391,7 +391,7 @@ Este número de lo importante se centra en la creación de herramientas y caract
   <entry>
     <id>https://css-tricks.com/css-random-function-polyfill/</id>
     <title>[Programación] Aprovechando la función CSS random() en todos los navegadores</title>
-    <updated>2026-09-01T04:45:14.749664+00:00</updated>
+    <updated>2026-09-01T04:45:56.841240+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -405,7 +405,7 @@ La creación de experiencias de usuario dinámicas y emocionantes es un tema de 
   <entry>
     <id>https://dev.to/antjjoao/como-criar-tarefas-concorrentes-no-java-feito-por-quem-se-preocupa-com-os-recursos-e-performance-4phb</id>
     <title>[Programación] Cómo crear tareas concorrentes en Java</title>
-    <updated>2026-09-01T04:45:14.749613+00:00</updated>
+    <updated>2026-09-01T04:45:56.841189+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +419,7 @@ El autor destaca la importancia de entender cómo cada parte del código impacta
   <entry>
     <id>https://dev.to/weston_carnes_d580b505e0c/rag-security-the-retrieved-document-is-now-your-attack-surface-4d1h</id>
     <title>[Programación] La superficie de seguridad de RAG es ahora tu superficie de ataque</title>
-    <updated>2026-09-01T04:45:14.749520+00:00</updated>
+    <updated>2026-09-01T04:45:56.841101+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
