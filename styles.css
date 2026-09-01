@@ -407,28 +407,3 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   letter-spacing: .04em; color: var(--ink); opacity: .55; white-space: nowrap;
 }
 
-/* ── Lector v2: navegación, tasas, archivo y búsqueda ── */
-header nav { display: flex; gap: .8rem; font-family: var(--font-display); font-size: .8rem; }
-header nav a { border: var(--border); background: var(--white); padding: .35rem .6rem; box-shadow: 3px 3px 0 var(--ink); }
-.rates-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; margin: 1rem 0; }
-.rate-card { border: var(--border-thick); background: var(--white); box-shadow: var(--shadow); padding: 1.15rem; }
-.rate-card h3 { font-family: var(--font-display); }
-.rate-values { display: flex; gap: .75rem; margin: .75rem 0; }
-.rate-values span { display: grid; gap: .2rem; }
-.rate-values strong { font-family: var(--font-display); font-size: 1.6rem; }
-.fresh, .stale { font-family: var(--font-mono); font-size: .75rem; padding: .25rem .4rem; display: inline-block; }
-.fresh { background: var(--lime); }.stale { background: var(--orange); }
-.calculator { border: var(--border); padding: .8rem; display: flex; flex-wrap: wrap; align-items: center; gap: .7rem; background: var(--cyan); }
-.calculator input, .search input { font: inherit; border: var(--border); padding: .45rem; max-width: 12rem; }
-.filters { display: flex; flex-wrap: wrap; gap: .6rem; margin: 2rem 0; }
-.filters button { cursor: pointer; font-family: var(--font-display); border: var(--border); background: var(--white); padding: .45rem .75rem; }
-.filters button.active { background: var(--yellow); box-shadow: 3px 3px 0 var(--ink); }
-.category[hidden] { display: none; }
-.category > h2 { font-family: var(--font-display); margin: 2rem 0 1rem; }.category h2 small { font-family: var(--font-mono); font-size: .65em; }
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
-.card aside { border-left: 6px solid var(--ink); background: var(--purple); padding: .7rem; }
-.card aside strong { font-family: var(--font-mono); font-size: .75rem; }.card > a { font-family: var(--font-display); text-decoration: underline; }
-.archive, .search { padding-top: 2rem; padding-bottom: 3rem; }.archive h1, .search h1 { font-family: var(--font-display); }
-.archive section { margin: 1.6rem 0; }.archive li { margin: .5rem 0; }.archive li span { font-family: var(--font-mono); font-size: .7rem; }
-.search label { display:block; font-family: var(--font-mono); margin: 1rem 0 .4rem; }.search input { max-width: 32rem; width: 100%; }
-@media (max-width: 720px) { .rates-grid { grid-template-columns: 1fr; } header nav { justify-content: center; } }

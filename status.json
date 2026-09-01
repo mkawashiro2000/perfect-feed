@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:23:27.794749+00:00",
+  "generated_at": "2026-09-01T04:37:30.675897+00:00",
   "site_url": "https://perfect-feed.kawashiro.dev",
   "run": {
     "id": 2,
@@ -159,8 +159,6 @@
     }
   ],
   "rates": {
-    "fuente": "InfoDolar.com.do",
-    "timestamp": "31/08/2026 22:13",
     "usd": {
       "promedio": {
         "compra": "57.43",
@@ -248,8 +246,9 @@
           "venta": "59.90"
         }
       ],
-      "from_cache": false,
-      "fetched_at": "2026-09-01T02:13:49.139165+00:00"
+      "fetched_at": "2026-09-01T02:13:49.126511+00:00",
+      "source": "InfoDolar.com.do",
+      "from_cache": false
     },
     "eur": {
       "promedio": {
@@ -303,8 +302,11 @@
           "venta": "70.00"
         }
       ],
-      "from_cache": false,
-      "fetched_at": "2026-09-01T02:13:49.873062+00:00"
-    }
+      "fetched_at": "2026-09-01T02:13:49.856995+00:00",
+      "source": "InfoDolar.com.do",
+      "from_cache": false
+    },
+    "fuente": "InfoDolar.com.do",
+    "timestamp": "dato almacenado"
   }
 }
