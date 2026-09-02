@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-01T13:08:24.284168+00:00</updated>
+  <updated>2026-09-02T13:09:40.573341+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,93 +11,79 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html</id>
-    <title>[Economía] Cómo el Pentágono se mete en la industria del petróleo venezolano bajo Trump</title>
-    <updated>2026-09-01T13:08:24.285174+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html</id>
+    <title>[Economía] Expansión de Chevron en Venezuela amplía la influencia de EE. UU. sobre las riquezas petroleras</title>
+    <updated>2026-09-02T13:09:40.574289+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"/>
-    <summary>El presidente Trump anunció que su secretario de defensa y secretario de Estado llegaron a un acuerdo con el gobierno venezolano para obtener reservas de petróleo por billones de barriles a través de una alianza con empresas privadas. Este acuerdo podría tener implicaciones significativas para la economía de Venezuela y el petróleo en general. La administración de Trump busca aprovechar las oportunidades de negocio en Venezuela, lo que podría aumentar la influencia de Estados Unidos en la región. Sin embargo, la situación en Venezuela sigue siendo compleja y delicada, con una economía en crisis y una política exterior incierta.
+    <link href="https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html"/>
+    <summary>La empresa energética estadounidense, que se quedó en el país después que otras empresas occidentales se retiraran, invierte $7 mil millones en el país para más de doblar su producción allí. La expansión de Chevron en Venezuela es una muestra de la influencia creciente de EE. UU. en la región. La empresa busca aprovechar las reservas petroleras del país para aumentar su producción y fortalecer su posición en el mercado global. Además, la inversión de Chevron en Venezuela puede tener implicaciones para la economía del país y su relación con EE. UU.
 
 Contexto IA (informativo):
-El acuerdo se anunció durante una rueda de prensa en la Casa Blanca, donde Trump destacó la importancia de la cooperación con Venezuela para abordar desafíos globales como la energía y la seguridad. La administración de Trump ha estado buscando formas de aumentar su influencia en la región y aprovechar las oportunidades de negocio en Venezuela, lo que podría tener implicaciones significativas para la política exterior de Estados Unidos.</summary>
-    <published>2026-09-01T02:50:48+00:00</published>
+La expansión de Chevron en Venezuela es un desarrollo que sigue a la retirada de otras empresas occidentales del país, como ExxonMobil y ConocoPhillips. La empresa estadounidense busca aprovechar las reservas petroleras del país para aumentar su producción y fortalecer su posición en el mercado global.</summary>
+    <published>2026-09-02T11:10:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-01/two-oil-supertankers-hit-by-projectiles-in-hormuz-marisks-says</id>
-    <title>[Economía] Aumentan las hostilidades en el Hormuz, dos tanques reportan ser golpeados</title>
-    <updated>2026-09-01T13:08:24.285144+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html</id>
+    <title>[Economía] La tasa de interés del Tesoro de EE. UU. alcanza su nivel más alto desde noviembre del 2023</title>
+    <updated>2026-09-02T13:09:40.574255+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html"/>
+    <summary>La tasa de interés del 10-year Treasury note alcanzó un nuevo récord de alta el miércoles, presionada por las preocupaciones sobre la inflación y el endeudamiento. La tasa de interés del 10-year Treasury note, que es el benchmark principal para los préstamos de hipoteca, automóvil y tarjetas de crédito, alcanzó un nivel de 4.814%, su nivel más alto desde noviembre del 2023. Las tasas de interés del 30-year Treasury y del 2-year Treasury también aumentaron, lo que refleja la creciente demanda de un mayor premium para invertir en deuda gubernamental a mediano y largo plazo. Las tensiones en el Medio Oriente han renovado las preocupaciones sobre la inflación y han llevado a los inversores a aumentar sus expectativas de recortes de la política monetaria en EE. UU. y más allá. Los expertos consideran que los bancos centrales aumentan las tasas de interés para combatir la inflación, y las expectativas sobre el tamaño de los recortes de tasas siguen evolucionando. Algunos inversores pueden estar considerando la posibilidad de invertir en bonos con tasas de interés más altas, pero pueden estar retenidos por la expectativa de que las tasas de interés puedan aumentar aún más si los bancos centrales toman medidas drásticas.
+
+Contexto IA (informativo):
+La tasa de interés del Tesoro de EE. UU. es un indicador importante de la salud económica del país y refleja las expectativas de los inversores sobre el crecimiento y la inflación. Los bancos centrales utilizan esta tasa para ajustar la política monetaria y controlar la inflación.</summary>
+    <published>2026-09-02T12:26:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/videos/2026-09-02/venezuelan-oil-replenishing-spr-a-pure-fantasy-schork-video</id>
+    <title>[Economía] Reponer petróleo venezolano en SPR de EE. UU. es 'fantasía pura', dice Stephen Schork</title>
+    <updated>2026-09-02T13:09:40.574224+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-01/two-oil-supertankers-hit-by-projectiles-in-hormuz-marisks-says"/>
-    <summary>Dos tanques de petróleo intentaban salir del Estrecho de Hormuz cuando fueron golpeados por proyectiles, según Marisks, un consultor de seguridad marítima. Esto es un signo de las hostilidades que vuelven a aumentar en el área crítica del agua. Las autoridades están investigando el incidente. La situación en el Estrecho de Hormuz sigue siendo tensa. El petróleo sigue siendo un tema clave en la región.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-02/venezuelan-oil-replenishing-spr-a-pure-fantasy-schork-video"/>
+    <summary>El experto Stephen Schork, director de The Schork Group, analiza las planes del gobierno de Trump para adquirir la mayoría de las reservas de petróleo venezolano, que superan las 65 mil millones de barriles. También examina la capacidad de refinación en EE. UU. y los niveles del reservorio de petróleo estratégico. Según Bloomberg.
 
 Contexto IA (informativo):
-El Estrecho de Hormuz es un paso crítico para la exportación de petróleo de Irán. La región ha sido escenario de varios incidentes en los últimos años, lo que ha generado preocupación entre los países que dependen del petróleo iraní.</summary>
-    <published>2026-09-01T08:06:09+00:00</published>
+El experto se refiere a las planes del gobierno de Trump para adquirir la mayoría de las reservas de petróleo venezolano, que superan las 65 mil millones de barriles. La capacidad de refinación en EE. UU. y los niveles del reservorio de petróleo estratégico son temas de interés para el experto.</summary>
+    <published>2026-09-02T12:49:41+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-01/trillion-dollar-dislocation-hides-in-calm-credit-markets</id>
-    <title>[Economía] La deslocalización de un billón de dólares se esconde en mercados de crédito tranquilos</title>
-    <updated>2026-09-01T13:08:24.285112+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora</id>
+    <title>[Economía] India establece un récord en sus depósitos en divisas de la diaspora</title>
+    <updated>2026-09-02T13:09:40.574193+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-01/trillion-dollar-dislocation-hides-in-calm-credit-markets"/>
-    <summary>A pesar de que los rendimientos de las bonos gubernamentales en todo el mundo están en erupción, los mercados de crédito corporativos han sido extremadamente tranquilos. Sin embargo, alrededor de $1 billón de bonos están contando una historia muy diferente. Los expertos señalan que la deslocalización de activos y la reestructuración de deudas están ocultando una crisis en el sector de los créditos corporativos. La situación es particularmente preocupante en países con economías en desarrollo, donde la falta de liquidez y la incertidumbre pueden llevar a una quiebra de sistemas. Los inversores están cada vez más conscientes de la necesidad de diversificar sus carteras y de adoptar estrategias de gestión del riesgo más agresivas. La situación en los mercados de crédito corporativos es cada vez más tensa y requiere una atención especializada para evitar una crisis sistémica.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora"/>
+    <summary>India ha recaudado un récord de aproximadamente $127 mil millones en flujos de divisas extranjeras desde su diaspora de 35 millones de personas desde junio a través de una ventana de intercambio de dólares, lo que le da a los políticos un mayor anclaje para apoyar la rupia si las presiones externas se intensifican. El gobierno ha utilizado estos fondos para comprar divisas y reducir la dependencia del dólar. Además, la rupia ha experimentado una ligera apreciación en el mercado negro. Los expertos consideran que este flujo de divisas es un gran alivio para la economía india.
 
 Contexto IA (informativo):
-En un momento en que la incertidumbre económica es cada vez más palpable, los mercados de crédito corporativos parecen ignorar la alarma. Sin embargo, la situación en este mercado es mucho más compleja de lo que parece. Los expertos están trabajando incansablemente para entender las causas de la deslocalización de activos y la reestructuración de deudas, y para encontrar soluciones para mitigar los riesgos en el sector.</summary>
-    <published>2026-09-01T10:30:00+00:00</published>
+La rupia ha experimentado una ligera apreciación en el mercado negro, lo que podría ayudar a reducir la inflación. Sin embargo, la economía india sigue siendo vulnerable a las presiones externas y la volatilidad del mercado de divisas.</summary>
+    <published>2026-09-02T12:50:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html</id>
-    <title>[Economía] Venta de bonos globales pone a los inversores en alerta</title>
-    <updated>2026-09-01T13:08:24.285080+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html</id>
+    <title>[Economía] Inversores siguen nerviosos por la guerra, la deuda y la inflación</title>
+    <updated>2026-09-02T13:09:40.574161+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"/>
-    <summary>Los costos de emisión gubernamental alcanzan niveles de décadas pasadas en todo el mundo, reflejando la preocupación por los niveles de deuda, déficit y inflación. Los inversores están nerviosos ante la posibilidad de un aumento en los intereses y la volatilidad del mercado. La situación económica global se está volviendo cada vez más incierta. La venta de bonos es un indicador de la ansiedad de los inversores ante la deuda pública y la inflación.
+    <link href="https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"/>
+    <summary>Las tensiones entre Estados Unidos e Irán continúan aumentando, lo que ha llevado a un aumento en los precios del petróleo y una caída en los valores de las acciones, generando preocupación entre los inversores de bonos. La situación ha sido calificada como 'preocupante' por muchos expertos. La guerra ha tenido un impacto significativo en la economía global, afectando la confianza de los inversores y la estabilidad financiera. La inflación también ha sido un tema de debate, ya que la guerra ha llevado a una disminución en la producción y distribución de bienes y servicios.
 
 Contexto IA (informativo):
-La venta de bonos es un fenómeno que se ha observado en el pasado cuando la economía se encontraba en una situación de crisis. En ese momento, los inversores se volvieron cautelosos y buscaron proteger sus inversiones. En la actualidad, la situación económica global es similar, con una creciente preocupación por la deuda pública y la inflación.</summary>
-    <published>2026-09-01T10:55:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html</id>
-    <title>[Economía] Estados Unidos y Irán se enfrentan en un ciclo de represalias</title>
-    <updated>2026-09-01T13:08:24.285048+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html"/>
-    <summary>Después de que Estados Unidos lanzó un ataque aéreo contra una isla iraní, Irán respondió con ataques contra bases estadounidenses en Jordania. Los precios del petróleo han aumentado debido a la escalada de tensiones en el Golfo Pérsico. El presidente de Estados Unidos, Donald Trump, ha prometido responder duramente a los ataques iraníes. Los expertos consideran que el objetivo de Estados Unidos es degradar las capacidades iraníes para minar el petróleo en el Golfo Pérsico y aplicar presión económica. La situación sigue siendo tensa, con ambos lados preparados para responder a futuras acciones.
-
-Contexto IA (informativo):
-La situación en el Golfo Pérsico sigue siendo altamente tensa, con ambos lados preparados para responder a futuras acciones. La escalada de tensiones ha afectado negativamente a la economía iraní y ha generado preocupación en el mundo.</summary>
-    <published>2026-09-01T12:22:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html</id>
-    <title>[Economía] La tasa de interés del 10 años alcanza su punto más alto desde enero del 2025</title>
-    <updated>2026-09-01T13:08:24.285016+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html"/>
-    <summary>Las tasas de interés de la deuda pública de Estados Unidos aumentaron esta semana debido a las tensiones en el Medio Oriente, lo que ha generado preocupaciones sobre la inflación. La tasa del 10 años alcanzó su punto más alto desde enero del 2025, mientras que la tasa del 30 años también aumentó. Los precios del petróleo también subieron debido a la escalada en el conflicto en el Golfo Pérsico. Los expertos consideran que la volatilidad en las tasas de interés seguirá en el corto plazo
-
-Contexto IA (informativo):
-La tasa del 10 años es un indicador importante de la salud económica de Estados Unidos, ya que influye en los costos de la deuda para los consumidores y las empresas. La tasa del 30 años también es un indicador importante, ya que refleja la expectativa de los inversores sobre el crecimiento económico a largo plazo.</summary>
-    <published>2026-09-01T12:25:05+00:00</published>
+La situación en Oriente Medio sigue siendo compleja y delicada, con múltiples factores en juego que pueden afectar la estabilidad regional y global. La guerra entre Estados Unidos e Irán ha sido calificada como 'un conflicto de gran alcance' que puede tener consecuencias significativas para la economía y la seguridad internacional.</summary>
+    <published>2026-09-02T12:56:58+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-building-a-financial-news-agent-with-jayeeta-putatunda/</id>
     <title>[Data Science] De cero a agente en 30 minutos: Construyendo un agente de noticias financieras con Jayeeta Putatunda</title>
-    <updated>2026-09-01T13:08:24.284981+00:00</updated>
+    <updated>2026-09-02T13:09:40.574125+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -109,205 +95,219 @@ El enfoque de Jayeeta se basa en construir agentes individuales que manejan tare
     <published>2026-08-31T15:55:06+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/</id>
-    <title>[Data Science] 5 Habilidades de Inteligencia Artificial que Mantendrán a los Científicos de Datos Relevantes en 2027</title>
-    <updated>2026-09-01T13:08:24.284948+00:00</updated>
+    <id>https://www.kdnuggets.com/free-transcription-with-speakr</id>
+    <title>[Data Science] Transcripción gratuita con Speakr</title>
+    <updated>2026-09-02T13:09:40.574091+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/free-transcription-with-speakr"/>
+    <summary>Speakr es una plataforma de transcripción gratuita y de código abierto que permite a los usuarios crear transcripciones personalizadas de audio. Con Speakr, los usuarios pueden transcribir audio de manera segura y privada, sin necesidad de pagar por una suscripción. La plataforma utiliza tecnología de reconocimiento de habla avanzada para producir transcripciones precisas y completas. Speakr es una excelente opción para profesionales que necesitan transcribir audio de manera segura y privada, como investigadores, periodistas y expertos en seguridad. La plataforma es fácil de usar y ofrece una interfaz intuitiva que permite a los usuarios crear transcripciones personalizadas de audio. Además, Speakr es compatible con varios sistemas operativos, incluyendo Windows, macOS y Linux.
+
+Contexto IA (informativo):
+Speakr es una plataforma de transcripción gratuita y de código abierto que permite a los usuarios crear transcripciones personalizadas de audio. La plataforma utiliza tecnología de reconocimiento de habla avanzada para producir transcripciones precisas y completas. Speakr es una excelente opción para profesionales que necesitan transcribir audio de manera segura y privada, como investigadores, periodistas y expertos en seguridad.</summary>
+    <published>2026-09-01T14:00:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation</id>
+    <title>[Data Science] 5 Aplicaciones Real-World de Inteligencia Artificial Agente en Automatización de la Empresa</title>
+    <updated>2026-09-02T13:09:40.574055+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation"/>
+    <summary>La automatización agente de inteligencia artificial puede ser utilizada en diversas áreas de la empresa, como la calidad de servicio, la finanza, la ley, la migración y la seguridad, con restricciones de seguridad deterministas. Sin embargo, la implementación de esta tecnología en la infraestructura empresarial puede generar problemas de determinismo, causando errores de salida, escrituras silenciosas en bases de datos y corrupción de datos. Para abordar estos desafíos, es necesario desarrollar patrones arquitecturales que permitan mantener la razón no determinista dentro de límites de seguridad deterministas. Las aplicaciones presentadas a continuación se centran en la automatización agente de sistemas, enfatizando la ingeniería de soporte necesario para mantener la razón no determinista dentro de límites de seguridad deterministas. Las aplicaciones presentadas abordan el uso de agentes multi-agente diagnosticos que ingieren señales distribuidas, métricas y registros de logs para identificar las causas raíces y ejecutar secuencias de corrección deterministas con controles de seguridad. Las aplicaciones también abordan la automatización de la resiliencia de la calidad de servicio y la resolución de incidentes, la reconciliación de facturas y cuentas por pagar complejas, y la automatización de la gestión de documentos financieros. Sin embargo, estas aplicaciones también presentan desafíos, como la necesidad de garantizar la integridad de la información y la seguridad de los datos. En resumen, la automatización agente de inteligencia artificial puede ser una herramienta poderosa para la automatización de la empresa, pero requiere una cuidadosa planificación y diseño para evitar problemas de determinismo y garantizar la seguridad de los datos.
+
+Contexto IA (informativo):
+La automatización agente de inteligencia artificial es una tecnología en constante evolución que busca mejorar la eficiencia y la productividad en diversas áreas de la empresa. Sin embargo, su implementación en la infraestructura empresarial puede generar desafíos de determinismo y seguridad. Es importante desarrollar patrones arquitecturales que permitan mantener la razón no determinista dentro de límites de seguridad deterministas, y garantizar la integridad de la información y la seguridad de los datos.</summary>
+    <published>2026-09-02T12:00:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/</id>
+    <title>[Data Science] Redes Neuronales Gráficas: GCN, MPNN y GAT, Exploradas de Manera Sencilla</title>
+    <updated>2026-09-02T13:09:40.574020+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/"/>
-    <summary>En este artículo, se exploran cinco habilidades de inteligencia artificial que se encuentran en casi todos los sistemas de producción que he trabajado o revisado. Estas habilidades son: la recuperación, la ruta, los guardias, las evaluaciones y los bucles de agente. Cada una de ellas resuelve una pregunta que un modelo de frontera no puede manejar. Se proporcionan ejemplos de código que se pueden ejecutar hoy mismo, y se explican cómo cada una de estas habilidades se puede implementar en la práctica.
+    <link href="https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/"/>
+    <summary>Las redes neuronales gráficas son un tipo de red neuronal que se utiliza para procesar datos gráficos. A diferencia de las redes neuronales convencionales, que no tienen en cuenta la relación entre los elementos del input, las redes neuronales gráficas pueden aprovechar esta relación para mejorar su rendimiento. Estas redes se pueden utilizar para clasificar nodos o edges en un grafo, y su salida se puede utilizar para clasificar el grafo en su conjunto. Las redes neuronales gráficas se basan en la idea de combinar los nodos de un grafo con sus vecinos para producir un nuevo nodo con nuevas características. Este enfoque se conoce como la convolución gráfica y se basa en la idea de que los nodos en un grafo están relacionados entre sí. Las redes neuronales gráficas se pueden utilizar en una variedad de aplicaciones, como la clasificación de moléculas, la predicción de rutas de tráfico y la clasificación de redes sociales. En este artículo, se explora cómo funcionan las redes neuronales gráficas y se presentan algunas de sus aplicaciones más destacadas.
 
 Contexto IA (informativo):
-El artículo destaca la importancia de estas habilidades en la industria de la inteligencia artificial y cómo pueden ayudar a los científicos de datos a mantener su relevancia en un entorno en constante evolución.</summary>
-    <published>2026-09-01T11:00:02+00:00</published>
+Las redes neuronales gráficas son un campo de investigación activo en el ámbito de la inteligencia artificial y la ciencia de datos. Estas redes se están utilizando cada vez más en aplicaciones prácticas, como la clasificación de imágenes y la predicción de patrones en datos gráficos. Sin embargo, la comprensión de cómo funcionan estas redes sigue siendo un desafío para muchos investigadores.</summary>
+    <published>2026-09-02T12:30:02+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/</id>
-    <title>[Data Science] Aprendizaje Bayesiano en Redes Neuronales: Una Introducción Práctica</title>
-    <updated>2026-09-01T13:08:24.284915+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/"/>
-    <summary>El aprendizaje bayesiano en redes neuronales es una técnica que permite obtener una estimación más precisa de la incertidumbre asociada a las predicciones. En lugar de proporcionar un solo número, la red neuronal puede proporcionar un rango de valores plausibles y una medida de la confianza en esa predicción. Este artículo presenta una introducción práctica a la implementación de redes neuronales bayesianas utilizando Python y el conjunto de datos de la vivienda de California. Se discuten las opciones de diseño y las estrategias de entrenamiento, y se proporcionan ejemplos de cómo implementar estas técnicas en una red neuronal.
-
-Contexto IA (informativo):
-La incertidumbre en las predicciones de las redes neuronales es un tema de gran interés en la actualidad. La mayoría de las redes neuronales producen predicciones con un solo número, lo que no proporciona información sobre la incertidumbre asociada a esa predicción. En este artículo, se presentará una introducción práctica a la implementación de redes neuronales bayesianas, que permiten obtener una estimación más precisa de la incertidumbre asociada a las predicciones.</summary>
-    <published>2026-09-01T12:30:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29208</id>
-    <title>[Fórmula 1] Norris quiere McLaren ser su hogar a largo plazo</title>
-    <updated>2026-09-01T13:08:24.284884+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29208"/>
-    <summary>Lando Norris ha asegurado que su compromiso con McLaren es más que una cuestión de seguridad financiera. El campeón mundial quiere permanecer en el equipo para enfocarse en su rendimiento y evitar las distracciones que pueden surgir durante las negociaciones de contratos. Norris ha expresado su satisfacción con la relación que tiene con el equipo y su deseo de seguir trabajando juntos para lograr resultados.
-
-Contexto IA (informativo):
-Norris ha estado en McLaren desde 2017 y ha sido clave en su transformación desde un equipo de medio campo hasta un equipo campeón. Su compromiso con el equipo es más que una cuestión de ganancias, sino que también es un aspecto personal de su carrera.</summary>
-    <published>2026-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/wec/news/mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years/10851260/</id>
-    <title>[Fórmula 1] Mario Andretti y Jacky Ickx: Una amistad que ha durado casi 60 años</title>
-    <updated>2026-09-01T13:08:24.284853+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/wec/news/mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years/10851260/"/>
-    <summary>Mario Andretti y Jacky Ickx fueron pilotos extremadamente versátiles en su época, destacándose en múltiples disciplinas. Ambos han ganado algunos de los premios más importantes del motor deportivo, y pueden mirar atrás en sus carreras con gran orgullo. Sin embargo, la competencia no fue el único aspecto de su relación, y la amistad que construyeron se destaca como una de las más interesantes de su generación.
-
-Contexto IA (informativo):
-La amistad entre Andretti y Ickx se remonta a una época en la que la competencia era una parte fundamental de la cultura del motor deportivo. A lo largo de las décadas, han mantenido una relación cercana y respetuosa, que ha sido testigo de numerosos momentos de rivalidad y cooperación.</summary>
-    <published>2026-09-01T08:09:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will/10851266/</id>
-    <title>[Fórmula 1] Cómo Ferrari puede 'dar todo' con las actualizaciones de F1 2026, y por qué lo hará</title>
-    <updated>2026-09-01T13:08:24.284822+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will/10851266/"/>
-    <summary>El equipo Ferrari confirmó que seguirá 'dando todo' durante la temporada de F1 2026 con actualizaciones de su coche, a pesar de las limitaciones del capítulo de costos. El equipo ha presentado una serie de mejoras incrementales para su desafiante SF-26, manteniendo su posición en el segundo lugar en la clasificación. Ferrari ha demostrado su compromiso con la innovación y la mejora continua, lo que les permite mantener su competitividad en el circuito mundial.
-
-Contexto IA (informativo):
-La declaración de Fred Vasseur se hizo pública después de que algunos expertos sugirieran que Ferrari podría tener que reducir su ritmo de desarrollo debido a las restricciones del capítulo de costos. Sin embargo, el equipo ha demostrado su capacidad para encontrar soluciones creativas y mantener su posición en la clasificación.</summary>
-    <published>2026-09-01T08:44:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29201</id>
-    <title>[Fórmula 1] Norris rechaza las reclamaciones de Mercedes como McLaren emerge como el equipo a beat después del GP de los Países Bajos</title>
-    <updated>2026-09-01T13:08:24.284787+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29201"/>
-    <summary>Lando Norris ha desmentido las afirmaciones de Mercedes de que McLaren es el equipo más rápido de F1, argumentando que el equipo de Silver Arrows sigue siendo el más completo, aunque Norris logró su victoria en el GP de los Países Bajos después de una carrera apretada en la que Antonelli terminó segundo para Mercedes. Norris creía que el resultado del GP de los Países Bajos no debería ser automáticamente interpretado como evidencia de que su equipo tiene el paquete más fuerte. Norris destacó que la batalla con Antonelli durante la carrera podría haber tenido un resultado diferente si no hubiera completado una importante overtake. Norris también destacó que la competencia actual de la F1 significa que las pequeñas diferencias en el rendimiento del piloto pueden tener un gran impacto en el resultado final. Norris creía que Mercedes sigue siendo más fuerte en una variedad de características de circuito, aunque McLaren tiene una ventaja más pronunciada en secciones de alta velocidad específicas. Norris también destacó la importancia de la precisión en la conducción y cómo un pequeño error en la clasificación de la semana anterior podría haber alterado la narrativa del fin de semana.
-
-Contexto IA (informativo):
-El GP de los Países Bajos fue el primer evento de la temporada de F1 en el que McLaren demostró ser un equipo a beat, aunque Norris rechaza las afirmaciones de Mercedes de que su equipo es el más rápido. La victoria de Norris en el GP de los Países Bajos fue vista como un ejemplo de cómo la competencia actual de la F1 significa que las pequeñas diferencias en el rendimiento del piloto pueden tener un gran impacto en el resultado final.</summary>
-    <published>2026-09-01T09:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/09/01/ferrari-reveals-schumacher-tribute-livery-for-monza</id>
-    <title>[Fórmula 1] Ferrari tributa a Schumacher con livery en Monza</title>
-    <updated>2026-09-01T13:08:24.284754+00:00</updated>
+    <id>https://racer.com/2026/09/01/hits---and-misses---from-racer-s-nascar-pre-season-predictions</id>
+    <title>[Fórmula 1] Hits y misiones fallidas de las predicciones de NASCAR de RACER</title>
+    <updated>2026-09-02T13:09:40.573989+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/01/ferrari-reveals-schumacher-tribute-livery-for-monza"/>
-    <summary>Ferrari celebrará 20 años desde el último Gran Premio italiano de Michael Schumacher, con un livery especial en el circuito de Monza. El equipo italiano de F1 ha anunciado que realizará un homenaje a su leyenda en el circuito donde Schumacher logró su última victoria. El livery, que se presentará en el Gran Premio de Italia, será una homenaje a la memoria del piloto alemán. El equipo espera que este tributo sea bien recibido por los aficionados y los fanáticos de Schumacher.
+    <link href="https://racer.com/2026/09/01/hits---and-misses---from-racer-s-nascar-pre-season-predictions"/>
+    <summary>Al inicio del año, Kelly Crandall de RACER hizo algunas predicciones audaces sobre la temporada de NASCAR. Hasta ahora, algunas han sido correctas, pero otras no tanto. La temporada de NASCAR es muy dinámica y depende de muchos factores, por lo que es difícil predecir con certeza el resultado final.
 
 Contexto IA (informativo):
-El Gran Premio de Italia es uno de los eventos más importantes del calendario de F1 y es un lugar especial para Ferrari, ya que es el circuito donde Schumacher logró su última victoria en 2000. El equipo está emocionado de celebrar este hito y de homenajear a un piloto que es considerado uno de los mejores de la historia del deporte.</summary>
-    <published>2026-09-01T11:05:25+00:00</published>
+RACER es una fuente de noticias y análisis de NASCAR que ofrece predicciones y opiniones sobre el mundo del automovilismo. Sus predicciones son objeto de interés para los fanáticos y los aficionados a la carrera.</summary>
+    <published>2026-09-01T17:23:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/toto-wolff-surprised-by-kimi-antonellis-2026-progress-hes-no-longer-a-deer-in-the-headlights/10851325/</id>
-    <title>[Fórmula 1] Toto Wolff: El progreso de Kimi Antonelli en 2026 es una de las mayores sorpresas de mi carrera</title>
-    <updated>2026-09-01T13:08:24.284722+00:00</updated>
+    <id>https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/</id>
+    <title>[Fórmula 1] Red Bull contrata a ingeniero de Aston Martin para reemplazar a Lambiase</title>
+    <updated>2026-09-02T13:09:40.573956+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/"/>
+    <summary>La escuadra de Red Bull de Fórmula 1 ha confirmado que ha contratado al ingeniero de larga data de Aston Martin Tom McCullough para reemplazar a Gianpiero Lambiase como jefe de carreras. Lambiase se unirá a McLaren en 2028 para convertirse en su jefe de carreras, informando al principal de la escuadra Andrea Stella. El británico actualmente cumple un doble rol en el equipo como ingeniero de carreras de Max Verstappen, coincidiendo con esas tareas
+
+Contexto IA (informativo):
+El cambio de Lambiase a McLaren se produce en un momento en que la escuadra británica busca fortalecer su presencia en la Fórmula 1, con Verstappen como su principal piloto.</summary>
+    <published>2026-09-01T18:36:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29198</id>
+    <title>[Fórmula 1] Komatsu explica las dificultades de Haas como oportunidad para recuperarse</title>
+    <updated>2026-09-02T13:09:40.573919+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29198"/>
+    <summary>El equipo Haas, liderado por Ayao Komatsu, ha admitido que ha luchado para mantener el ritmo con las operaciones de desarrollo de Fórmula 1 después de un inicio sorprendente en la temporada 2026. Aunque el equipo inicialmente emergió como una de las sorpresas de la nueva regulación, su ritmo ha disminuido en las últimas carreras mientras que los equipos más grandes han introducido mejoras de rendimiento a un ritmo más rápido. Komatsu explicó que Haas siempre esperó que la escala de la cambio de regulación presentara un gran desafío para el equipo más pequeño. El equipo ha estado trabajando para desarrollar su nuevo generación de coche y ha establecido una amenaza regular en el medio campo, pero su desarrollo ha sido expuesto por sus limitaciones de recursos. Komatsu definió a sus ingenieros y personal como personas que están haciendo un gran trabajo, pero reconoció que el equipo tiene menos espacio para error que sus rivales más grandes. El equipo principal cree que parte de su responsabilidad es crear un ambiente en el que los ingenieros puedan operar de manera efectiva. A pesar del declive reciente, Komatsu cree que el difícil período podría beneficiar a la organización al exponer debilidades que deben ser abordadas. El equipo ha enfocado en comprender los problemas técnicos detrás de su falta de rendimiento en lugar de crear una cultura de culpas. Están trabajando para identificar las causas de su déficit de rendimiento antes de introducir soluciones, con ambos conductores y ingenieros trabajando hacia el mismo objetivo. Sin embargo, el proceso tomará tiempo. El equipo ya está trabajando en desarrollos destinados a mejorar su rendimiento, con el primer paquete de actualizaciones programado para llegar al Gran Premio de Italia en Monza. Komatsu cree que estas actualizaciones le darán a Haas la oportunidad de establecer si el equipo puede abordar sus dificultades a través de su programa de desarrollo. Sin embargo, no espera que las nuevas piezas transformen al equipo en un contendiente regular en el top ocho. El equipo disfrutó de una buena racha hacia el final de la temporada anterior, pero el entorno competitivo es considerablemente diferente bajo las nuevas regulaciones. El tamaño del brecha es particularmente significativo para Haas. Komatsu destacó que el equipo necesita trabajar gradualmente para abordar su déficit de rendimiento.
+
+Contexto IA (informativo):
+El equipo Haas ha estado trabajando para desarrollar su nuevo generación de coche y ha establecido una amenaza regular en el medio campo. Sin embargo, su desarrollo ha sido expuesto por sus limitaciones de recursos. El equipo principal cree que parte de su responsabilidad es crear un ambiente en el que los ingenieros puedan operar de manera efectiva.</summary>
+    <published>2026-09-02T08:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29220</id>
+    <title>[Fórmula 1] Mercedes identifica debilidades clave para abordar después de la derrota en Zandvoort</title>
+    <updated>2026-09-02T13:09:40.573888+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29220"/>
+    <summary>Después de la segunda posición de Kimi Antonelli y la tercera de George Russell en el Gran Premio de los Países Bajos, Mercedes ha comenzado a analizar las razones detrás de su falta de rendimiento. La escudería identificó varias áreas de debilidad, especialmente en las curvas de alta velocidad, donde la Mercedes perdió rendimiento en comparación con McLaren. El equipo busca entender qué causa este problema y cómo abordarlo antes del Gran Premio de Italia en Monza.
+
+Contexto IA (informativo):
+La derrota de Mercedes en Zandvoort fue un golpe para el equipo, que había estado dominando la temporada. Sin embargo, la escudería se enfoca en aprender de sus errores y mejorar su rendimiento en las próximas carreras.</summary>
+    <published>2026-09-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/ferrari-to-introduce-first-aduo-update-at-f1s-italian-gp/10851560/</id>
+    <title>[Fórmula 1] Ferrari introduce primera actualización de ADUO en GP de Italia de F1</title>
+    <updated>2026-09-02T13:09:40.573855+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/toto-wolff-surprised-by-kimi-antonellis-2026-progress-hes-no-longer-a-deer-in-the-headlights/10851325/"/>
-    <summary>En su sesión de prensa anual con la prensa holandesa en Zandvoort un año atrás, Toto Wolff descubrió que Kimi Antonelli estaba en medio de las dificultades que caracterizaban la parte europea de su temporada. Aunque en Miami y Canadá mostró momentos de brillo, estos estaban intercalados con finales de fin de semana de carrera difíciles durante su debut en F1. En ese momento, Wolff solía resumirlo de esta manera...
+    <link href="https://www.motorsport.com/f1/news/ferrari-to-introduce-first-aduo-update-at-f1s-italian-gp/10851560/"/>
+    <summary>Ferrari presentará una actualización de su unidad de potencia en el próximo Gran Premio de Italia de F1, que está permitida bajo el sistema de desarrollo adicional y oportunidades de actualización (ADUO). Este año, F1 introdujo el sistema ADUO, que otorga a los fabricantes oportunidades adicionales para mejorar sus motores en caso de que estén retrasados en el rendimiento. Los resultados se toman cada cuarto del año. Ferrari busca aprovechar esta oportunidad para mejorar su desempeño en la pista.
 
 Contexto IA (informativo):
-En ese momento, Kimi Antonelli estaba luchando por encontrar su ritmo en la F1 y su equipo, Williams, estaba buscando mejorar su desempeño en la temporada.</summary>
-    <published>2026-09-01T11:58:13+00:00</published>
+El sistema ADUO fue introducido por F1 para darle a los fabricantes más oportunidades para mejorar sus motores y mantenerse competitivos en el campeonato. La actualización de Ferrari se espera que sea una mejora significativa en su desempeño en el circuito de Monza.</summary>
+    <published>2026-09-02T12:52:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/987066/john-ternus-day-one-apple-ceo-briefing</id>
-    <title>[Tecnología] Breve de la primera jornada del nuevo CEO de Apple</title>
-    <updated>2026-09-01T13:08:24.284684+00:00</updated>
+    <id>https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/</id>
+    <title>[Fórmula 1] Ferrari introduce actualización de motor en GP de Italia bajo ADUO</title>
+    <updated>2026-09-02T13:09:40.573821+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/"/>
+    <summary>Ferrari presentará una actualización de su unidad de potencia en el Gran Premio de Italia este fin de semana, que está permitida bajo el sistema de desarrollo adicional y oportunidades de actualización (ADUO). Este año, la Fórmula 1 introdujo el sistema ADUO, que otorga a los fabricantes oportunidades adicionales para mejorar sus motores en caso de que estén retrasados en términos de rendimiento. Los resultados se toman cada cuarto de año. La actualización permitirá a Ferrari cerrar la brecha con sus rivales en cuanto a rendimiento.
+
+Contexto IA (informativo):
+El sistema ADUO fue introducido por la Fórmula 1 para darle a los fabricantes más oportunidades de mejorar sus motores y reducir la brecha con los líderes en el campo. La actualización permitirá a Ferrari aprovechar esta oportunidad y mejorar su rendimiento en el circuito de Monza.</summary>
+    <published>2026-09-02T12:58:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes</id>
+    <title>[Tecnología] Gadgets USB-C que reproducen cassettes de Nintendo antiguas</title>
+    <updated>2026-09-02T13:09:40.573787+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/987066/john-ternus-day-one-apple-ceo-briefing"/>
-    <summary>El nuevo CEO de Apple se enfrenta a un desafío importante. En este briefing, se proporciona una visión general de la empresa, dividida por división, y se incluye el horario del día. Se menciona que el equipo de inteligencia de Apple ha retrasado la discusión sobre la nueva Siri hasta una fecha posterior, pero aseguran que esta vez será real. El nuevo CEO se recomienda que revise su nuevo oficina y que no dude en comunicarse con el equipo si tiene alguna inquietud sobre la decoración.
+    <link href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"/>
+    <summary>Un dispositivo llamado Epilogue Operator permite reproducir juegos de Nintendo en computadoras Windows y Mac, incluso en consolas de Steam. El dispositivo utiliza cassettes de Nintendo antiguas y puede reproducir juegos de 26 años de antigüedad. El usuario puede cargar sus propios archivos de juego y preservar la historia familiar. El Epilogue Operator es un dispositivo de lectura de cassettes transparente y trapezoidal que se puede conectar a una computadora. El dispositivo es compatible con Windows, Mac y Steam, y se puede utilizar para reproducir juegos de Nintendo en cualquier dispositivo. El Epilogue Operator es una herramienta útil para los fanáticos de Nintendo que buscan preservar su historia y reproducir juegos antiguos.
 
 Contexto IA (informativo):
-El nuevo CEO de Apple asume el cargo en un momento de gran cambio y desafío para la empresa. El equipo de inteligencia de Apple ha estado trabajando en proyectos innovadores, como la nueva Siri, que busca mejorar la experiencia del usuario.</summary>
-    <published>2026-09-01T12:30:00+00:00</published>
+El Epilogue Operator es un dispositivo innovador que permite a los usuarios reproducir juegos de Nintendo en dispositivos modernos. El dispositivo utiliza tecnología de lectura de cassettes para reproducir juegos de 26 años de antigüedad, lo que permite a los usuarios preservar la historia familiar y reproducir juegos antiguos.</summary>
+    <published>2026-09-02T11:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/back-to-school-the-best-ways-to-get-around-campus-2000802419</id>
-    <title>[Tecnología] Regresar a la escuela: Las mejores formas de moverse por el campus</title>
-    <updated>2026-09-01T13:08:24.284648+00:00</updated>
+    <id>https://www.wired.com/story/here-comes-the-tesla-cybercab/</id>
+    <title>[Tecnología] El Cybercab está a punto de llegar. Ahora viene el difícil</title>
+    <updated>2026-09-02T13:09:40.573751+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://gizmodo.com/back-to-school-the-best-ways-to-get-around-campus-2000802419"/>
-    <summary>La independencia que hace que la escuela sea divertida es encontrar formas de moverse por tu cuenta. Las bicicletas eléctricas, los scooters eléctricos y los triciclos eléctricos son opciones más convenientes que un coche, sin ocupar espacio para estacionar. Estas opciones van desde $400 hasta $1000 y son ideales para estudiantes de secundaria, pregrado y más allá. Algunas de las opciones más populares incluyen el NIU KQi1 Pro, el Dualtron Togo y el Segway E3 Pro. Estas opciones ofrecen una gran variedad de características y beneficios, como rango, velocidad y seguridad. Es importante investigar y comparar las diferentes opciones para encontrar la que mejor se adapte a tus necesidades y presupuesto.
+    <link href="https://www.wired.com/story/here-comes-the-tesla-cybercab/"/>
+    <summary>El Cybercab de Tesla parece diseñado para llamar la atención, pero ahora el desafío es real. La empresa está programada para presentar el Cybercab en un evento en su sede en Austin, Texas, lo que podría marcar el inicio de su servicio de ride-hail con vehículos autónomos. Tesla ha estado operando un programa piloto en Austin desde el verano pasado y ha expandido a otras ciudades en Texas y Florida. Sin embargo, la pregunta sigue siendo si los Cybercabs serán solo para el servicio de ride-hail o se venden a conductores individuales. La empresa ha prometido que los Cybercabs serán vendidos a consumidores antes del final de 2026, pero aún no ha demostrado que puede producir vehículos autónomos a escala. El éxito del servicio dependerá de la capacidad de la empresa para generar ingresos y utilizar sus vehículos de manera eficiente. La industria de los vehículos autónomos es altamente competitiva y la empresa debe demostrar que su tecnología es segura y efectiva para ganar la confianza de los consumidores.
 
 Contexto IA (informativo):
-En la actualidad, muchas universidades y colegios están implementando medidas para reducir el impacto ambiental y promover la movilidad sostenible. Algunas de estas medidas incluyen la creación de rutas de bicicleta y scooter, así como la implementación de políticas de estacionamiento y transporte. Es importante que los estudiantes consideren estas opciones de movilidad sostenible para reducir su huella de carbono y promover un estilo de vida más saludable.</summary>
-    <published>2026-09-01T12:30:41+00:00</published>
+Tesla ha estado trabajando en el desarrollo de su tecnología de vehículos autónomos durante años y ha demostrado su capacidad para mejorar la seguridad y la eficiencia en sus vehículos. Sin embargo, la empresa aún debe demostrar que su tecnología es segura y efectiva para ser adoptada a gran escala.</summary>
+    <published>2026-09-02T11:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2243520/poco-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-185hz-display/</id>
-    <title>[Tecnología] Poco F9 Ultra: un teléfono de gama media con procesador de gama alta y pantalla de 185Hz</title>
-    <updated>2026-09-01T13:08:24.284607+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2243520/poco-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-185hz-display/"/>
-    <summary>El Poco F9 Ultra es un teléfono de gama media con un procesador de gama alta y una pantalla de 185Hz. Tiene una batería de 8.000mAh que supera a muchos rivales de gama alta. La empresa sub-marca de Xiaomi, Poco, vuelve con su segundo teléfono casi de gama alta, el F9 Ultra. Aunque el dispositivo no llegará a Estados Unidos, ayuda a contextualizar lo que están haciendo los fabricantes de teléfonos en China. Con el Poco F9 Ultra, se obtiene un gran bang por el buck y una opción de color atractiva de Dark Cherry. Los colores son una cosa importante en 2026. La pantalla de 6,9 pulgadas del F9 Ultra tiene una frecuencia de refresco de 185Hz, lo que es común en teléfonos de gama alta y centros de juego móviles, como el ASUS ROG Phone 9 Pro. También viene con sonido de 2,1 canales de Bose. La cámara principal tiene 200 megapíxeles y se puede zoomar ópticamente a 5 veces. La batería se ha aumentado a 8.050mAh, lo que supera a la de su predecesor. El teléfono soporta carga rápida de 100W y 50W, y tiene tecnología de enfriamiento líquido para reducir las temperaturas del procesador. Poco afirma que el teléfono puede soportar 24 juegos a 185 FPS y que puede mejorar la tasa de frames en 65 por segundo. El precio del teléfono será anunciado en un evento de lanzamiento global posteriormente.
-
-Contexto IA (informativo):
-El Poco F9 Ultra es el segundo teléfono de gama casi alta de Poco, una sub-marca de Xiaomi. La empresa ha incluido tecnología de enfriamiento líquido para reducir las temperaturas del procesador y mejorar la experiencia del usuario.</summary>
-    <published>2026-09-01T12:45:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2248082/sony-bravia-theater-trio-review/</id>
-    <title>[Tecnología] Sony Bravia Theater Trio: Una opción decente para grandes pantallas</title>
-    <updated>2026-09-01T13:08:24.284571+00:00</updated>
+    <id>https://www.engadget.com/2249200/united-airlines-deliver-food-essentials-gate/</id>
+    <title>[Tecnología] United Airlines ofrece comida y otros artículos esenciales en la puerta de la terminal</title>
+    <updated>2026-09-02T13:09:40.573717+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2248082/sony-bravia-theater-trio-review/"/>
-    <summary>La Sony Bravia Theater Trio es una opción para aquellos que buscan un sistema de sonido para grandes pantallas, pero que aún así requiere la adición de otros componentes. Aunque es una solución decente, el precio de $2,200 puede ser un obstáculo para algunos compradores. El sistema cuenta con varias características útiles, como el 360 Spatial Sound Mapping y la Sound Field Optimization, que mejoran la experiencia de sonido en la sala. Sin embargo, el diseño de los altavoces laterales puede ser un problema para aquellos que buscan una solución más compacta. En general, la Bravia Theater Trio es una buena opción para aquellos que buscan un sistema de sonido de alta calidad para sus grandes pantallas.
+    <link href="https://www.engadget.com/2249200/united-airlines-deliver-food-essentials-gate/"/>
+    <summary>United Airlines está probando un nuevo servicio que te permite pedir comida, medicamentos y artículos de viaje a través de su aplicación y tenerlos entregados directamente en la puerta de la terminal. El servicio está disponible solo para vuelos seleccionados en el Terminal C de Newark Liberty International. Los pasajeros pueden elegir entre una variedad de opciones, incluyendo saladas, sandwiches, bebidas y medicamentos de venta libre. El servicio se está probando en colaboración con OTG, la empresa que gestiona las experiencias de comestible y tienda en el Terminal C de Newark. Si el servicio es exitoso, se planea expandirlo a Houston y luego a otros aeropuertos. Además, United ha lanzado una nueva función que te permite unirte a listas de espera en caso de retrasos, lo que te permite reprogramar tu reserva rápidamente una vez que se libera un asiento.
 
 Contexto IA (informativo):
-La Sony ha estado trabajando en la creación de sistemas de sonido más avanzados para sus pantallas de gran tamaño. La Bravia Theater Trio es una de las opciones más recientes, diseñada para proporcionar una experiencia de sonido más inmersiva y precisa. Aunque el precio puede ser un obstáculo para algunos compradores, la calidad del sistema y las características útiles lo hacen una buena opción para aquellos que buscan un sistema de sonido de alta calidad para sus grandes pantallas.</summary>
-    <published>2026-09-01T12:45:00+00:00</published>
+United Airlines busca mejorar la experiencia de los pasajeros con la introducción de este nuevo servicio, que busca hacer más cómodos y convenientes los viajes. El servicio se está probando en un piloto y, si es exitoso, se planea ampliarlo a otros aeropuertos.</summary>
+    <published>2026-09-02T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose</id>
-    <title>[Tecnología] Poco F9 Ultra combina una pantalla ultra-bright con un subwoofer que emite luz</title>
-    <updated>2026-09-01T13:08:24.284535+00:00</updated>
+    <id>https://www.engadget.com/2244155/how-to-reset-apple-tv-remote/</id>
+    <title>[Tecnología] Cómo resetear el remoto de Apple TV</title>
+    <updated>2026-09-02T13:09:40.573683+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2244155/how-to-reset-apple-tv-remote/"/>
+    <summary>Si tu remoto de Apple TV está perdiendo conexión o no responde, puedes intentar resetarlo. Antes de hacerlo, asegúrate de que el remoto esté cargado y que no haya problemas de señal. Si el problema persiste, puedes intentar re-pairar el remoto con el Apple TV. Si el problema es más grave, puedes intentar un reset de fábrica o utilizar un dispositivo móvil como un iPhone o iPad como remoto. Es importante tener en cuenta que un reset de fábrica borrará todos tus ajustes y contenido.
+
+Contexto IA (informativo):
+Si tu remoto de Apple TV no responde, es posible que debas intentar un reset. Sin embargo, antes de hacerlo, asegúrate de que el remoto esté cargado y que no haya problemas de señal. También es importante tener en cuenta que un reset de fábrica puede ser una solución definitiva, pero también puede ser un problema si no se hace correctamente.</summary>
+    <published>2026-09-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar</id>
+    <title>[Tecnología] La filosofía de conducción autónoma de Tesla de Elon Musk se pone a prueba</title>
+    <updated>2026-09-02T13:09:40.573647+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose"/>
-    <summary>La marca de teléfonos Poco, spin-off de Xiaomi, ha colaborado con Bose por la segunda vez en su historia para lanzar sus teléfonos flagship F9 Pro y Ultra. Estos teléfonos ofrecen un sistema de audio mejorado, con un subwoofer que se ilumina y pantallas extremadamente brillantes, baterías grandes y cámaras de alta calidad. La F9 Ultra vuelve a utilizar el sistema de sonido Bose 2.1 que se presentó en el F8 Ultra, aunque con algunas mejoras menores en los altavoces principales y un diseño ligeramente diferente para el subwoofer.
+    <link href="https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"/>
+    <summary>La empresa Tesla ha comenzado a poner en circulación sus vehículos robóticos, conocidos como Cybercab, en Austin, Texas, como parte de su servicio de robotaxi. Aunque Elon Musk había anunciado este proyecto hace casi dos años, la empresa ha decidido implementar un sistema de conducción autónoma más simple que el utilizado por sus competidores, que incluyen múltiples sensores. Este enfoque se basa únicamente en cámaras. La pregunta es si este sistema será lo suficientemente efectivo como para que Tesla se convierta en líder en el mercado de robotaxi. Los expertos expresan dudas sobre la viabilidad de este enfoque, ya que los vehículos robóticos que utilizan múltiples sensores han demostrado ser más seguros y precisos en pruebas
 
 Contexto IA (informativo):
-La colaboración entre Poco y Bose es la segunda vez que se produce en la historia de la marca de teléfonos. Los teléfonos F9 Pro y Ultra ofrecen una amplia gama de características y mejoras en comparación con sus predecesores.</summary>
-    <published>2026-09-01T12:45:00+00:00</published>
+El sistema de conducción autónoma de Tesla es el más simple y económico que se ha implementado hasta la fecha, lo que ha generado preocupación entre los expertos y los inversores. La empresa ha invertido miles de millones de dólares en este proyecto, lo que ha generado especulaciones sobre la viabilidad de este enfoque. La pregunta es si Tesla ha tomado la mejor decisión al optar por un sistema más simple, o si ha arriesgado demasiado en este proyecto.</summary>
+    <published>2026-09-02T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/dysons-smart-toothbrush-uses-a-camera-to-floss-your-teeth-2000805449</id>
-    <title>[Tecnología] Dyson's Toothbrush con Cámara para Frotar los Dientes</title>
-    <updated>2026-09-01T13:08:24.284497+00:00</updated>
+    <id>https://gizmodo.com/avengers-secret-wars-may-have-cast-the-beyonder-2000805876</id>
+    <title>[Tecnología] ¿Podría ser el final del Caballero Negro en el MCU?</title>
+    <updated>2026-09-02T13:09:40.573611+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/dysons-smart-toothbrush-uses-a-camera-to-floss-your-teeth-2000805449"/>
-    <summary>Dyson ha lanzado su primera toothbrush eléctrica, la CameraJet, que combina una cámara de visión artificial con un dispositivo de frotado de agua para ayudar a frotar los dientes de manera más eficiente. La cámara analiza 28 imágenes por segundo y ajusta la cantidad de agua que se dispara en los espacios entre los dientes. El toothbrush también tiene una aplicación y se conecta a Wi-Fi, lo que permite a los usuarios ver la cámara en tiempo real mientras se cepilan los dientes. Aunque el precio es de $499, la CameraJet ofrece varias características innovadoras que justifican su costo. La toothbrush está disponible para preordenar.
+    <link href="https://gizmodo.com/avengers-secret-wars-may-have-cast-the-beyonder-2000805876"/>
+    <summary>El actor Kit Harrington ha expresado que no hay planes para regresar al personaje de Dane Black Knight Whitman en el MCU. En una entrevista, Harrington mencionó que el personaje es un paralelo interesante sobre la adicción y la corrupción, pero no hay planes para su regreso. Además, se han unido a la película 'Seasons' Wes Studi y Dane DiLiegro en roles no revelados. Por otro lado, se ha anunciado una nueva versión de la película 'Pulse' con un director y un guionista nuevos, y se está desarrollando una película basada en la historia de 'The Kentucky Goblins'.
 
 Contexto IA (informativo):
-La CameraJet es el primer toothbrush eléctrico de Dyson que combina tecnología de visión artificial con un dispositivo de frotado de agua para ayudar a frotar los dientes de manera más eficiente. El toothbrush se posiciona como una herramienta para ayudar a las personas a frotar sus dientes de manera más efectiva, especialmente para aquellos que no frotan regularmente.</summary>
-    <published>2026-09-01T12:50:21+00:00</published>
+En otro lado, se ha anunciado que la película 'Artificial' de Luca Guadagnino se estrenará en el Festival de Cine de Nueva York el 5 de octubre. Además, se ha confirmado que la serie de 'Tomb Raider' con Sophie Turner se ha visto obligada a cumplir con las normas de seguridad en el Reino Unido debido a la falta de medidas de protección adecuadas durante la filmación.</summary>
+    <published>2026-09-02T12:40:17+00:00</published>
   </entry>
   <entry>
     <id>https://blog.codinghorror.com/you-cant-vibe-code-love/</id>
     <title>[Programación] No puedes "vibrar el código" el amor</title>
-    <updated>2026-09-01T13:08:24.284458+00:00</updated>
+    <updated>2026-09-02T13:09:40.573574+00:00</updated>
     <author>
       <name>Coding Horror</name>
     </author>
@@ -321,7 +321,7 @@ La presentación se llevó a cabo en el CityCube de Berlín el 10 de julio de 20
   <entry>
     <id>https://css-tricks.com/css-random-function-polyfill/</id>
     <title>[Programación] Aprovechando la función CSS random() en todos los navegadores</title>
-    <updated>2026-09-01T13:08:24.284418+00:00</updated>
+    <updated>2026-09-02T13:09:40.573537+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -333,59 +333,45 @@ La creación de experiencias de usuario dinámicas y emocionantes es un tema de 
     <published>2026-08-31T15:12:19+00:00</published>
   </entry>
   <entry>
-    <id>https://tech.yahoo.com/computing/articles/35-years-later-torvalds-hobby-130000907.html</id>
-    <title>[Programación] 35 años después, el proyecto de Torvalds sigue desarrollado en todo el mundo.</title>
-    <updated>2026-09-01T13:08:24.284380+00:00</updated>
+    <id>https://blog.appliedcomputing.io/p/bazels-ux-is-really-really-really</id>
+    <title>[Programación] El uso de Bazel es realmente, realmente, realmente malo</title>
+    <updated>2026-09-02T13:09:40.573500+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://tech.yahoo.com/computing/articles/35-years-later-torvalds-hobby-130000907.html"/>
-    <summary>En 1991, Linus Torvalds lanzó Linux como un proyecto personal. A pesar de sus modestas expectativas, Linux creció hasta convertirse en un sistema operativo fundamental en la mayoría de los entornos de computación. Hoy en día, Linux sigue desarrollándose con la participación de miles de contribuyentes y sigue siendo una herramienta esencial en la industria tecnológica. El proyecto ha evolucionado desde su inicio como un sistema operativo para computadoras personales hasta convertirse en una plataforma para servidores, sistemas embebidos y infraestructura de la nube. Torvalds sigue estrechamente involucrado en el desarrollo de Linux, aunque el proyecto ha cambiado significativamente desde sus inicios.
+    <link href="https://blog.appliedcomputing.io/p/bazels-ux-is-really-really-really"/>
+    <summary>El autor critica el uso de Bazel, una herramienta de construcción de software, por su mal diseño de usuario. Destaca problemas como la instalación incorrecta de la herramienta, la presencia de archivos BUILD innecesarios y la falta de comunicación clara sobre cómo resolver estos problemas. El autor argumenta que Bazel parece ignorar a los usuarios y que su diseño es inaceptable. El post busca alertar sobre estos problemas y promover una mejor experiencia de usuario para los desarrolladores que utilizan Bazel.
 
 Contexto IA (informativo):
-El proyecto Linux ha sido objeto de numerosos estudios y análisis, destacando su importancia en la industria tecnológica y su impacto en la sociedad. Aunque Linux sigue siendo un sistema operativo de código abierto, su desarrollo ha sido influenciado por la creciente demanda de seguridad y privacidad en la era digital.</summary>
-    <published>2026-08-31T19:01:04+00:00</published>
+El autor de la noticia es un experto en software y ha trabajado con varias herramientas de construcción de software. Ha experimentado problemas con Bazel en el pasado y ha decidido compartir sus experiencias para ayudar a otros desarrolladores a evitar los mismos errores.</summary>
+    <published>2026-09-01T15:43:51+00:00</published>
   </entry>
   <entry>
-    <id>https://x.com/rui314/status/2094677980857680052</id>
-    <title>[Programación] Rui Ueyama: "Estamos reescribiendo el enlace del molde en Rust"</title>
-    <updated>2026-09-01T13:08:24.284340+00:00</updated>
+    <id>https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction</id>
+    <title>[Programación] Más allá de las lambdas: elevar el nivel de abstracción del código funcional</title>
+    <updated>2026-09-02T13:09:40.573447+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://x.com/rui314/status/2094677980857680052"/>
-    <summary>El desarrollador Rui Ueyama anuncia que está reescribiendo el enlace del molde en Rust para que pueda enlazar casi cualquier cosa que puede hacer GNU ld, incluyendo núcleos y programas embutidos. Este cambio se espera que se implemente en mold 3.0. El objetivo es que los distribuidores de Linux cambien su enlace por default a mold.
+    <link href="https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction"/>
+    <summary>Las funciones anónimas, también conocidas como funciones lambda, han se convertido en una parte integral de la mayoría de los lenguajes de programación. Aunque las funciones lambda optimizan para escribir código, esto se logra a expensas de la lectura del código, que es una actividad más común. En este artículo, se analiza cómo refactorizar el código para elevar el nivel de abstracción y mejorar la legibilidad. Se presentan ejemplos en Java y Clojure, y se discuten los beneficios de nombrar funciones y abstraer los pasos del pipeline.
 
 Contexto IA (informativo):
-Este cambio se espera que mejore la compatibilidad de mold con diferentes sistemas operativos y programas.</summary>
-    <published>2026-09-01T08:05:18+00:00</published>
+El artículo se centra en la importancia de elevar el nivel de abstracción del código funcional y cómo nombrar funciones puede mejorar la legibilidad y la mantenibilidad del código. El autor argumenta que las funciones lambda pueden optimizar para escribir código, pero esto se logra a expensas de la lectura del código, y que nombrar funciones y abstraer los pasos del pipeline puede mejorar la legibilidad y reducir la necesidad de reconstruction de código.</summary>
+    <published>2026-09-02T07:56:02+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/datago_7777/ai-writes-you-verify-a-documentation-review-pipeline-for-skeptics-3f37</id>
-    <title>[Programación] AI escribe, tú verificas: Una pipeline de revisión de documentación para los escépticos</title>
-    <updated>2026-09-01T13:08:24.284283+00:00</updated>
+    <id>https://dev.to/xulingfeng/stratagems-27-alex-watched-the-ai-wait-he-said-everything-was-normal-10dd</id>
+    <title>[Programación] Alex Monitorea el Ralentizado del Sistema</title>
+    <updated>2026-09-02T13:09:40.573361+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/datago_7777/ai-writes-you-verify-a-documentation-review-pipeline-for-skeptics-3f37"/>
-    <summary>El autor describe una pipeline de revisión de documentación que utiliza un modelo de lenguaje artificial para generar drafts de documentación y un humano para revisar y firmar. La pipeline se ejecuta automáticamente en cada pull request que se mergea en la rama principal. El autor destaca la importancia de la revisión humana para asegurar la precisión y la confiabilidad de la documentación. También menciona que la pipeline puede ser útil para reducir el costo de la documentación, ya que utiliza un modelo de API gratuito para procesar las diferencias de código. Sin embargo, el autor advierte que la pipeline no es infalible y que el modelo de lenguaje artificial puede cometer errores. En última instancia, la revisión humana es necesaria para asegurar que la documentación sea precisa y confiable.
+    <link href="https://dev.to/xulingfeng/stratagems-27-alex-watched-the-ai-wait-he-said-everything-was-normal-10dd"/>
+    <summary>Alex monitorea el sistema después de que Derek cambia la latencia del medio. El sistema se ralentiza deliberadamente, sin mostrar signos de fallo o sobrecarga. Alex observa la secuencia de acceso externo y detecta un patrón de espera. La latencia se duplica dos veces antes de detenerse. El sistema no muestra signos de fallo, lo que sugiere que el ralentizado es deliberado y no una respuesta a un problema de red. Alex continúa monitoreando el sistema para entender mejor el comportamiento del ralentizado.
 
 Contexto IA (informativo):
-La documentación es un aspecto crucial de cualquier proyecto, ya que proporciona información valiosa sobre cómo funciona el software y cómo utilizarlo. Sin embargo, la generación de documentación automática con modelos de lenguaje artificial puede ser problemática, ya que no siempre es precisa y puede generar información incorrecta. La revisión humana es esencial para asegurar la precisión y la confiabilidad de la documentación.</summary>
-    <published>2026-09-01T12:57:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/charlestechy/i-wired-my-instagram-analyzer-actor-straight-into-slack-with-an-mcp-connector-heres-what-broke-2opc</id>
-    <title>[Programación] Análisis de Instagram: cómo conectar un actor de Apify a Slack para recibir alertas de seguidores falsos</title>
-    <updated>2026-09-01T13:08:24.284190+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/charlestechy/i-wired-my-instagram-analyzer-actor-straight-into-slack-with-an-mcp-connector-heres-what-broke-2opc"/>
-    <summary>El autor describe cómo conectó un actor de Apify a Slack para recibir alertas de seguidores falsos en Instagram. Utilizó el MCP Connector de Apify para conectar su actor a Slack, lo que le permitió recibir notificaciones en tiempo real cuando se detectaba un perfil con una probabilidad de seguidores falsos superior a un umbral determinado. El autor explica cómo configuró el connector y cómo el actor se comunicaba con Slack para enviar mensajes. También menciona que el MCP Connector le permitió evitar la necesidad de crear un Slack app y almacenar un token de bot en un campo de entrada
-
-Contexto IA (informativo):
-El autor menciona que el MCP Connector de Apify es una forma de conectar un actor a Slack sin necesidad de crear un app de Slack y almacenar un token de bot en un campo de entrada. También destaca la importancia de la seguridad al utilizar un connector para comunicarse con Slack.</summary>
-    <published>2026-09-01T12:57:35+00:00</published>
+Derek había cambiado la latencia del medio del sistema para ver cómo reaccionaba Alex. El objetivo era determinar si el sistema se ralentizaría de manera natural o si era una respuesta a un problema de red.</summary>
+    <published>2026-09-02T12:46:21+00:00</published>
   </entry>
 </feed>
