@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-02T13:09:40.573341+00:00</updated>
+  <updated>2026-09-03T13:08:36.115954+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,317 +11,331 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html</id>
-    <title>[Economía] Expansión de Chevron en Venezuela amplía la influencia de EE. UU. sobre las riquezas petroleras</title>
-    <updated>2026-09-02T13:09:40.574289+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-02/stock-market-today-dow-s-p-live-updates</id>
+    <title>[Economía] Los valores de las acciones suben, los rendimientos de las bonos caen tras las declaraciones de Waller</title>
+    <updated>2026-09-03T13:08:36.117076+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-02/stock-market-today-dow-s-p-live-updates"/>
+    <summary>El gobernador de la Reserva Federal, Christopher Waller, expresó optimismo sobre la tendencia de la inflación a mejorar, lo que llevó a un aumento en los valores de las acciones y una caída en los rendimientos de las bonas. Waller indicó que estaría dispuesto a apoyar la decisión de mantener las tasas de interés en septiembre. Esto ha generado una reacción positiva en los mercados, con los valores de las acciones subiendo y los rendimientos de las bonas caiendo. La tendencia de la inflación sigue siendo un tema de interés para los inversores y los expertos económicos.
+
+Contexto IA (informativo):
+La noticia de Waller se ha recibido con interés en el mercado, ya que muchos analistas esperaban una mayor claridad sobre la política monetaria de la Reserva Federal. La caída en los rendimientos de las bonas también ha sido bien recibida, ya que puede indicar una disminución en la presión sobre los inversores para obtener rendimientos atractivos.</summary>
+    <published>2026-09-02T22:08:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1</id>
+    <title>[Economía] Nvidia adquiere plataforma de inteligencia artificial abierta Hugging Face por $13bn</title>
+    <updated>2026-09-03T13:08:36.117037+00:00</updated>
+    <author>
+      <name>International homepage</name>
+    </author>
+    <link href="https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1"/>
+    <summary>La empresa de tecnología Nvidia ha anunciado su intención de adquirir la plataforma de inteligencia artificial abierta Hugging Face por una cantidad de $13 mil millones. Esta transacción busca fortalecer la posición de Nvidia en el mercado de la inteligencia artificial y permitirle ofrecer soluciones más completas a sus clientes. La compra también incluye la adquisición de la empresa Hugging Face, que es conocida por su plataforma de modelado de lenguaje natural y su conjunto de herramientas para la inteligencia artificial. La transacción está prevista para cerrarse en el próximo trimestre de 2024.
+
+Contexto IA (informativo):
+La compra de Hugging Face por parte de Nvidia es una de las más grandes en la historia de la industria de la inteligencia artificial. La plataforma de Hugging Face ha sido utilizada por empresas y investigadores en todo el mundo para desarrollar aplicaciones de inteligencia artificial y mejorar la precisión de sus modelos de lenguaje natural.</summary>
+    <published>2026-09-03T12:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html</id>
+    <title>[Economía] Aumento de las tasas en juego mientras los funcionarios federales esperan datos sobre la inflación</title>
+    <updated>2026-09-03T13:08:36.116997+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html"/>
-    <summary>La empresa energética estadounidense, que se quedó en el país después que otras empresas occidentales se retiraran, invierte $7 mil millones en el país para más de doblar su producción allí. La expansión de Chevron en Venezuela es una muestra de la influencia creciente de EE. UU. en la región. La empresa busca aprovechar las reservas petroleras del país para aumentar su producción y fortalecer su posición en el mercado global. Además, la inversión de Chevron en Venezuela puede tener implicaciones para la economía del país y su relación con EE. UU.
+    <link href="https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html"/>
+    <summary>El gobernador de la Reserva Federal, Christopher J. Waller, expresó una actitud optimista sobre la tendencia de la inflación, pero indicó que apoyaría tasas más altas si no se continúa el progreso. La decisión de la Reserva Federal sobre las tasas de interés se tomará en función de los datos sobre la inflación que se publicarán este mes. Los expertos esperan que la decisión tenga un impacto significativo en el mercado de valores y la economía en general. La Reserva Federal ha estado trabajando para controlar la inflación, que ha estado creciendo a un ritmo más rápido que lo esperado en los últimos meses.
 
 Contexto IA (informativo):
-La expansión de Chevron en Venezuela es un desarrollo que sigue a la retirada de otras empresas occidentales del país, como ExxonMobil y ConocoPhillips. La empresa estadounidense busca aprovechar las reservas petroleras del país para aumentar su producción y fortalecer su posición en el mercado global.</summary>
-    <published>2026-09-02T11:10:14+00:00</published>
+La decisión de la Reserva Federal sobre las tasas de interés es crucial para controlar la inflación y mantener la estabilidad económica. La Reserva Federal ha estado trabajando estrechamente con los gobiernos y los bancos para implementar políticas monetarias y fiscal que ayuden a controlar la inflación y promover el crecimiento económico.</summary>
+    <published>2026-09-03T12:30:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html</id>
-    <title>[Economía] La tasa de interés del Tesoro de EE. UU. alcanza su nivel más alto desde noviembre del 2023</title>
-    <updated>2026-09-02T13:09:40.574255+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-03/us-trade-gap-widens-to-largest-since-early-last-year-on-imports</id>
+    <title>[Economía] El déficit comercial de EE. UU. se amplía a su mayor valor desde principios de 2025 debido al impulso de la inteligencia artificial</title>
+    <updated>2026-09-03T13:08:36.116962+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-03/us-trade-gap-widens-to-largest-since-early-last-year-on-imports"/>
+    <summary>El déficit comercial de EE. UU. aumentó significativamente en julio a su mayor valor desde el inicio de 2025, debido a un aumento en las importaciones de computadoras y otros equipos de tecnología. Esto se debe en parte a la creciente demanda de tecnología y la competencia global. El gobierno de EE. UU. está trabajando para reducir el déficit y promover la exportación de tecnología
+
+Contexto IA (informativo):
+La expansión del comercio digital y la creciente dependencia de la tecnología han llevado a un aumento en las importaciones de equipos de tecnología en EE. UU.</summary>
+    <published>2026-09-03T12:32:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html</id>
+    <title>[Economía] Nvidia adquiere Hugging Face por $12.9 mil millones</title>
+    <updated>2026-09-03T13:08:36.116928+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html"/>
-    <summary>La tasa de interés del 10-year Treasury note alcanzó un nuevo récord de alta el miércoles, presionada por las preocupaciones sobre la inflación y el endeudamiento. La tasa de interés del 10-year Treasury note, que es el benchmark principal para los préstamos de hipoteca, automóvil y tarjetas de crédito, alcanzó un nivel de 4.814%, su nivel más alto desde noviembre del 2023. Las tasas de interés del 30-year Treasury y del 2-year Treasury también aumentaron, lo que refleja la creciente demanda de un mayor premium para invertir en deuda gubernamental a mediano y largo plazo. Las tensiones en el Medio Oriente han renovado las preocupaciones sobre la inflación y han llevado a los inversores a aumentar sus expectativas de recortes de la política monetaria en EE. UU. y más allá. Los expertos consideran que los bancos centrales aumentan las tasas de interés para combatir la inflación, y las expectativas sobre el tamaño de los recortes de tasas siguen evolucionando. Algunos inversores pueden estar considerando la posibilidad de invertir en bonos con tasas de interés más altas, pero pueden estar retenidos por la expectativa de que las tasas de interés puedan aumentar aún más si los bancos centrales toman medidas drásticas.
+    <link href="https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"/>
+    <summary>Nvidia ha anunciado su adquisición de la plataforma de inteligencia artificial abierta Hugging Face por $12.9 mil millones. La empresa, que se ha centrado en la producción de unidades de procesamiento gráfico, busca expandir su presencia en el ecosistema de la inteligencia artificial. Hugging Face, que ha sido objeto de un incidente de seguridad reciente, asegura que seguirá siendo una plataforma abierta y que su CEO, Clément Delangue, está emocionado de unirse a Nvidia.
 
 Contexto IA (informativo):
-La tasa de interés del Tesoro de EE. UU. es un indicador importante de la salud económica del país y refleja las expectativas de los inversores sobre el crecimiento y la inflación. Los bancos centrales utilizan esta tasa para ajustar la política monetaria y controlar la inflación.</summary>
-    <published>2026-09-02T12:26:31+00:00</published>
+La adquisición es la segunda más grande de Nvidia en su historia, después de la compra de Groq por $20 mil millones en diciembre. Hugging Face es una plataforma popular de inteligencia artificial abierta que ha sido objeto de un incidente de seguridad reciente, pero su CEO asegura que el problema se debió a errores de ingeniería y que la empresa ha encontrado una solución con la ayuda de Nvidia.</summary>
+    <published>2026-09-03T12:58:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-09-02/venezuelan-oil-replenishing-spr-a-pure-fantasy-schork-video</id>
-    <title>[Economía] Reponer petróleo venezolano en SPR de EE. UU. es 'fantasía pura', dice Stephen Schork</title>
-    <updated>2026-09-02T13:09:40.574224+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html</id>
+    <title>[Economía] El gobernador de la Reserva Federal apoya mantener los tipos de interés invariables</title>
+    <updated>2026-09-03T13:08:36.116892+00:00</updated>
     <author>
-      <name>Bloomberg Markets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-02/venezuelan-oil-replenishing-spr-a-pure-fantasy-schork-video"/>
-    <summary>El experto Stephen Schork, director de The Schork Group, analiza las planes del gobierno de Trump para adquirir la mayoría de las reservas de petróleo venezolano, que superan las 65 mil millones de barriles. También examina la capacidad de refinación en EE. UU. y los niveles del reservorio de petróleo estratégico. Según Bloomberg.
+    <link href="https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"/>
+    <summary>El gobernador de la Reserva Federal, Christopher Waller, ha expresado su apoyo a mantener los tipos de interés invariables en la próxima reunión del banco central, siempre y cuando no haya sorpresas en los datos de inflación que se presenten en los próximos dos semanas. Aunque reconoce que la inflación está por encima del objetivo del 2% establecido por la Reserva Federal, Waller cree que los últimos datos sugieren que se están observando signos de desinflación. Si estos datos continúan, podría apoyar la decisión de mantener los tipos de interés invariables. Sin embargo, también ha dejado claro que podría cambiar de opinión si hay nuevos datos que sugieran que la inflación está aumentando
 
 Contexto IA (informativo):
-El experto se refiere a las planes del gobierno de Trump para adquirir la mayoría de las reservas de petróleo venezolano, que superan las 65 mil millones de barriles. La capacidad de refinación en EE. UU. y los niveles del reservorio de petróleo estratégico son temas de interés para el experto.</summary>
-    <published>2026-09-02T12:49:41+00:00</published>
+Las declaraciones de Waller se produjeron menos de una semana después de que el presidente del banco central, Kevin Warsh, expresara su opinión sobre la inflación en un discurso en el congreso anual de la Reserva Federal en Jackson Hole, Wyoming. Aunque las declaraciones de Waller y Warsh difirieron poco en sus puntos, Waller ha ofrecido una perspectiva diferente sobre la situación de la inflación.</summary>
+    <published>2026-09-03T12:59:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora</id>
-    <title>[Economía] India establece un récord en sus depósitos en divisas de la diaspora</title>
-    <updated>2026-09-02T13:09:40.574193+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora"/>
-    <summary>India ha recaudado un récord de aproximadamente $127 mil millones en flujos de divisas extranjeras desde su diaspora de 35 millones de personas desde junio a través de una ventana de intercambio de dólares, lo que le da a los políticos un mayor anclaje para apoyar la rupia si las presiones externas se intensifican. El gobierno ha utilizado estos fondos para comprar divisas y reducir la dependencia del dólar. Además, la rupia ha experimentado una ligera apreciación en el mercado negro. Los expertos consideran que este flujo de divisas es un gran alivio para la economía india.
-
-Contexto IA (informativo):
-La rupia ha experimentado una ligera apreciación en el mercado negro, lo que podría ayudar a reducir la inflación. Sin embargo, la economía india sigue siendo vulnerable a las presiones externas y la volatilidad del mercado de divisas.</summary>
-    <published>2026-09-02T12:50:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html</id>
-    <title>[Economía] Inversores siguen nerviosos por la guerra, la deuda y la inflación</title>
-    <updated>2026-09-02T13:09:40.574161+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html"/>
-    <summary>Las tensiones entre Estados Unidos e Irán continúan aumentando, lo que ha llevado a un aumento en los precios del petróleo y una caída en los valores de las acciones, generando preocupación entre los inversores de bonos. La situación ha sido calificada como 'preocupante' por muchos expertos. La guerra ha tenido un impacto significativo en la economía global, afectando la confianza de los inversores y la estabilidad financiera. La inflación también ha sido un tema de debate, ya que la guerra ha llevado a una disminución en la producción y distribución de bienes y servicios.
-
-Contexto IA (informativo):
-La situación en Oriente Medio sigue siendo compleja y delicada, con múltiples factores en juego que pueden afectar la estabilidad regional y global. La guerra entre Estados Unidos e Irán ha sido calificada como 'un conflicto de gran alcance' que puede tener consecuencias significativas para la economía y la seguridad internacional.</summary>
-    <published>2026-09-02T12:56:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-building-a-financial-news-agent-with-jayeeta-putatunda/</id>
-    <title>[Data Science] De cero a agente en 30 minutos: Construyendo un agente de noticias financieras con Jayeeta Putatunda</title>
-    <updated>2026-09-02T13:09:40.574125+00:00</updated>
+    <id>https://www.oreilly.com/radar/hey-ai-can-you-just-give-me-a-hat-tip-please/</id>
+    <title>[Data Science] El reconocimiento de la autoría en la era de la inteligencia artificial</title>
+    <updated>2026-09-03T13:08:36.116854+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
-    <link href="https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-building-a-financial-news-agent-with-jayeeta-putatunda/"/>
-    <summary>Jayeeta Putatunda, ingeniera de ingeniería de inteligencia artificial en Turing, construye un flujo de trabajo de múltiples agentes que convierte la inundación diaria de noticias financieras en un briefing analítico estructurado. Los analistas ya tienen una investigación profunda interna, asignaciones de cobertura y visiones del mercado, pero mantener ese contexto actualizado mientras llega nueva información diariamente y destacar qué de ella merece la atención de un analista es un problema más difícil. Jayeeta comparte su enfoque paso a paso para construir un agente de briefing basado en fuentes, pasando por definir el alcance, planificar la cobertura, buscar y recopilar noticias, validar fuentes, generar briefing y capturar retroalimentación. Su enfoque se puede aplicar a otros campos más allá de las finanzas. El código completo, incluyendo datos de muestra y la interfaz demostrada, se encuentra en su repositorio de GitHub, por lo que los lectores pueden clonarlo y ejecutar el agente en sus propios sistemas. Jayeeta recomienda comenzar con un modelo más pequeño antes de escalar. El enfoque de Jayeeta se basa en construir agentes individuales que manejan tareas específicas, lo que significa que si un agente falla, no se reinicia todo el pipeline y cada agente produce una salida más fácil de rastrear y depurar.
+    <link href="https://www.oreilly.com/radar/hey-ai-can-you-just-give-me-a-hat-tip-please/"/>
+    <summary>La creciente dependencia de la inteligencia artificial en la creación de contenido ha generado una gran inquietud entre los creadores de contenido. La cuestión del reconocimiento de la autoría es fundamental, ya que muchos trabajos se basan en ideas y conocimientos de otros. La falta de reconocimiento puede llevar a una sensación de desvalorización del trabajo y a la pérdida de credibilidad. En este artículo, se explora la importancia del reconocimiento de la autoría y cómo la inteligencia artificial puede ayudar a resolver este problema. Se analiza la situación actual y se discuten las posibles soluciones, como la creación de un sistema de reconocimiento de la autoría más transparente y justo. Se enfatiza la necesidad de encontrar un equilibrio entre la innovación y la protección de los derechos de autor.
 
 Contexto IA (informativo):
-El enfoque de Jayeeta se basa en construir agentes individuales que manejan tareas específicas, lo que significa que si un agente falla, no se reinicia todo el pipeline y cada agente produce una salida más fácil de rastrear y depurar. Este enfoque se puede aplicar a otros campos más allá de las finanzas.</summary>
-    <published>2026-08-31T15:55:06+00:00</published>
+La creciente dependencia de la inteligencia artificial en la creación de contenido ha generado una gran inquietud entre los creadores de contenido. En un reciente Foo Camp, la cuestión del reconocimiento de la autoría se convirtió en un tema de gran debate y discusión.</summary>
+    <published>2026-09-03T10:55:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/free-transcription-with-speakr</id>
-    <title>[Data Science] Transcripción gratuita con Speakr</title>
-    <updated>2026-09-02T13:09:40.574091+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/free-transcription-with-speakr"/>
-    <summary>Speakr es una plataforma de transcripción gratuita y de código abierto que permite a los usuarios crear transcripciones personalizadas de audio. Con Speakr, los usuarios pueden transcribir audio de manera segura y privada, sin necesidad de pagar por una suscripción. La plataforma utiliza tecnología de reconocimiento de habla avanzada para producir transcripciones precisas y completas. Speakr es una excelente opción para profesionales que necesitan transcribir audio de manera segura y privada, como investigadores, periodistas y expertos en seguridad. La plataforma es fácil de usar y ofrece una interfaz intuitiva que permite a los usuarios crear transcripciones personalizadas de audio. Además, Speakr es compatible con varios sistemas operativos, incluyendo Windows, macOS y Linux.
-
-Contexto IA (informativo):
-Speakr es una plataforma de transcripción gratuita y de código abierto que permite a los usuarios crear transcripciones personalizadas de audio. La plataforma utiliza tecnología de reconocimiento de habla avanzada para producir transcripciones precisas y completas. Speakr es una excelente opción para profesionales que necesitan transcribir audio de manera segura y privada, como investigadores, periodistas y expertos en seguridad.</summary>
-    <published>2026-09-01T14:00:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation</id>
-    <title>[Data Science] 5 Aplicaciones Real-World de Inteligencia Artificial Agente en Automatización de la Empresa</title>
-    <updated>2026-09-02T13:09:40.574055+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation"/>
-    <summary>La automatización agente de inteligencia artificial puede ser utilizada en diversas áreas de la empresa, como la calidad de servicio, la finanza, la ley, la migración y la seguridad, con restricciones de seguridad deterministas. Sin embargo, la implementación de esta tecnología en la infraestructura empresarial puede generar problemas de determinismo, causando errores de salida, escrituras silenciosas en bases de datos y corrupción de datos. Para abordar estos desafíos, es necesario desarrollar patrones arquitecturales que permitan mantener la razón no determinista dentro de límites de seguridad deterministas. Las aplicaciones presentadas a continuación se centran en la automatización agente de sistemas, enfatizando la ingeniería de soporte necesario para mantener la razón no determinista dentro de límites de seguridad deterministas. Las aplicaciones presentadas abordan el uso de agentes multi-agente diagnosticos que ingieren señales distribuidas, métricas y registros de logs para identificar las causas raíces y ejecutar secuencias de corrección deterministas con controles de seguridad. Las aplicaciones también abordan la automatización de la resiliencia de la calidad de servicio y la resolución de incidentes, la reconciliación de facturas y cuentas por pagar complejas, y la automatización de la gestión de documentos financieros. Sin embargo, estas aplicaciones también presentan desafíos, como la necesidad de garantizar la integridad de la información y la seguridad de los datos. En resumen, la automatización agente de inteligencia artificial puede ser una herramienta poderosa para la automatización de la empresa, pero requiere una cuidadosa planificación y diseño para evitar problemas de determinismo y garantizar la seguridad de los datos.
-
-Contexto IA (informativo):
-La automatización agente de inteligencia artificial es una tecnología en constante evolución que busca mejorar la eficiencia y la productividad en diversas áreas de la empresa. Sin embargo, su implementación en la infraestructura empresarial puede generar desafíos de determinismo y seguridad. Es importante desarrollar patrones arquitecturales que permitan mantener la razón no determinista dentro de límites de seguridad deterministas, y garantizar la integridad de la información y la seguridad de los datos.</summary>
-    <published>2026-09-02T12:00:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/</id>
-    <title>[Data Science] Redes Neuronales Gráficas: GCN, MPNN y GAT, Exploradas de Manera Sencilla</title>
-    <updated>2026-09-02T13:09:40.574020+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/</id>
+    <title>[Data Science] Cómo resolver el problema adecuado en la era de la inteligencia artificial agente</title>
+    <updated>2026-09-03T13:08:36.116814+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/"/>
-    <summary>Las redes neuronales gráficas son un tipo de red neuronal que se utiliza para procesar datos gráficos. A diferencia de las redes neuronales convencionales, que no tienen en cuenta la relación entre los elementos del input, las redes neuronales gráficas pueden aprovechar esta relación para mejorar su rendimiento. Estas redes se pueden utilizar para clasificar nodos o edges en un grafo, y su salida se puede utilizar para clasificar el grafo en su conjunto. Las redes neuronales gráficas se basan en la idea de combinar los nodos de un grafo con sus vecinos para producir un nuevo nodo con nuevas características. Este enfoque se conoce como la convolución gráfica y se basa en la idea de que los nodos en un grafo están relacionados entre sí. Las redes neuronales gráficas se pueden utilizar en una variedad de aplicaciones, como la clasificación de moléculas, la predicción de rutas de tráfico y la clasificación de redes sociales. En este artículo, se explora cómo funcionan las redes neuronales gráficas y se presentan algunas de sus aplicaciones más destacadas.
+    <link href="https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/"/>
+    <summary>La implementación de la inteligencia artificial agente amplía la capacidad de implementación, pero también aumenta el riesgo de errores. Es importante abordar la incertidumbre en el momento adecuado para evitar costos innecesarios. El artículo presenta un marco práctico para reducir la incertidumbre en 6 pasos, cada uno de los cuales produce un documento corto que hace las decisiones explícitas, duraderas y utilizables por tanto por humanos como por agentes. El objetivo es alinear a humanos y agentes trabajando desde el mismo playbook, lo que previene la suposición, el retraso y las sorpresas. La clave es abordar la incertidumbre antes de la implementación y utilizar un marco que garantice la claridad y la eficiencia en el desarrollo. Este enfoque es especialmente importante en proyectos que involucran a múltiples stakeholders, problemas ambiguos o decisiones arquitecturales importantes. Al abordar la incertidumbre de manera proactiva, se puede evitar costos innecesarios y garantizar la calidad del proyecto.
 
 Contexto IA (informativo):
-Las redes neuronales gráficas son un campo de investigación activo en el ámbito de la inteligencia artificial y la ciencia de datos. Estas redes se están utilizando cada vez más en aplicaciones prácticas, como la clasificación de imágenes y la predicción de patrones en datos gráficos. Sin embargo, la comprensión de cómo funcionan estas redes sigue siendo un desafío para muchos investigadores.</summary>
-    <published>2026-09-02T12:30:02+00:00</published>
+La inteligencia artificial agente está revolucionando la forma en que se desarrollan los proyectos de software. Sin embargo, esta tecnología también aumenta el riesgo de errores y la incertidumbre. Es importante abordar estos desafíos de manera proactiva para garantizar la calidad del proyecto y evitar costos innecesarios.</summary>
+    <published>2026-09-03T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/01/hits---and-misses---from-racer-s-nascar-pre-season-predictions</id>
-    <title>[Fórmula 1] Hits y misiones fallidas de las predicciones de NASCAR de RACER</title>
-    <updated>2026-09-02T13:09:40.573989+00:00</updated>
+    <id>https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner</id>
+    <title>[Data Science] 5 Cursos Gratuitos para Ir de Novato a Practicante de LLM</title>
+    <updated>2026-09-03T13:08:36.116779+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner"/>
+    <summary>En este artículo, presentamos cinco cursos gratuitos que forman una ruta de aprendizaje lineal para ir de novato a practicante en el uso de modelos de lenguaje grande (LLM). Cada curso ha sido seleccionado para cubrir un rol específico en la progresión: entender la matemática y la mecánica detrás de los modelos de lenguaje, aprender a estructurar sistemas de producción, profundizar en la teoría y escalar, desarrollar habilidades prácticas de fine-tuning y finalmente, deployar y coordinar agentes a escala. Los cursos forman una ruta completa desde el comienzo hasta la práctica.
+
+Contexto IA (informativo):
+En un mundo donde la información sobre modelos de lenguaje grande es abundante, encontrar cursos que formen una ruta de aprendizaje coherente y completa es un desafío. Estos cinco cursos solucionan ese problema, ofreciendo una guía paso a paso para aprender a utilizar modelos de lenguaje grande de manera efectiva.</summary>
+    <published>2026-09-03T12:00:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/</id>
+    <title>[Data Science] Cambiar un prompt puede afectar a 50 otros — Construí una gráfica de dependencia de prompt para encontrar qué necesita reevaluarse</title>
+    <updated>2026-09-03T13:08:36.116739+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/"/>
+    <summary>Construí una gráfica de dependencia de prompt que separa todo lo que un componente puede alcanzar del conjunto más pequeño que realmente necesita evaluación objetivo. Si se compone con prompts compartidos, cambiar un componente compartido puede dejar con una pregunta difícil: qué elementos necesitan reevaluación. La gráfica de dependencia de prompt responde a esa pregunta con dos números: - El techo estructural: todo lo que se encuentra downstream del componente cambiado. - El conjunto de candidatos: el conjunto más pequeño que directamente depende del cambio, más sus consumidores downstream. En experimentos con un sistema sintético de 55 nodos, el enfoque redujo el conjunto de evaluación en un 0% a un 85% dependiendo de la selección del componente. Es importante tener en cuenta que estos números identifican qué elementos deben evaluarse, no qué elementos fallarán. El impacto comportamental aún requiere ejecutar la evaluación. Los resultados muestran que la gráfica de dependencia de prompt puede slash el costo de prueba en casi la mitad. Sin embargo, la gráfica puede ser muy impredecible y no siempre encuentra un gran número de reducción. Es necesario ejecutar la gráfica para conocer el resultado. Un cambio en un prompt puede tener un impacto impredecible en la gráfica, lo que hace que sea difícil predecir qué elementos necesitan reevaluación. La gráfica de dependencia de prompt puede ser útil para reducir el costo de prueba, pero requiere una ejecución cuidadosa para obtener resultados precisos.
+
+Contexto IA (informativo):
+La gráfica de dependencia de prompt es una herramienta que puede ayudar a reducir el costo de prueba en la ingeniería de prompts. Sin embargo, requiere una ejecución cuidadosa para obtener resultados precisos. La gráfica de dependencia de prompt se basa en la idea de que cada cambio en un prompt puede tener un impacto impredecible en la gráfica, lo que hace que sea difícil predecir qué elementos necesitan reevaluación.</summary>
+    <published>2026-09-03T12:30:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/red-bull-to-keep-dutch-gp-driver-line-up-for-monza/10851595/</id>
+    <title>[Fórmula 1] Red Bull mantiene la línea de pilotos holandeses en Monza con Hadjar lesionado</title>
+    <updated>2026-09-03T13:08:36.116703+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/red-bull-to-keep-dutch-gp-driver-line-up-for-monza/10851595/"/>
+    <summary>Isack Hadjar no participará en el Gran Premio de Italia de Monza debido a una lesión en el brazo que sufrió durante la pausa de verano. Liam Lawson reemplazará a Hadjar en Red Bull, mientras que Yuki Tsunoda regresa al volante del Racing Bulls. Hadjar sufrió una fractura de la muñeca durante una sesión de boxeo durante la pausa de verano. Esto significa que el piloto holandés no podrá participar en el evento. La línea de pilotos de Red Bull seguirá siendo la misma que la que ha utilizado en los Grandes Premios anteriores.
+
+Contexto IA (informativo):
+La lesión de Hadjar es la segunda vez que el piloto holandés se ve afectado por una lesión durante la temporada. En la última ronda, sufrió una lesión en el pecho que lo obligó a abandonar el Gran Premio de Francia.</summary>
+    <published>2026-09-02T14:08:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/heat-hazard-declared-for-italian-gp/10851746/</id>
+    <title>[Fórmula 1] Declara peligro de calor para el GP de Italia</title>
+    <updated>2026-09-03T13:08:36.116669+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/heat-hazard-declared-for-italian-gp/10851746/"/>
+    <summary>La FIA, el órgano regulador de la Fórmula 1, ha declarado un peligro de calor para este fin de semana's GP de Italia, obligando a los conductores a usar vestidos de enfriamiento o agregar ballast a sus coches. Las temperaturas en Italia han vuelto a subir en los últimos días, con una sexta ola de calor que afectará el país durante la próxima semana. La región alrededor de Milán y Monza se prepara para temperaturas superiores a 30 grados
+
+Contexto IA (informativo):
+Las temperaturas en Italia han estado en aumento en los últimos días, lo que ha llevado a la FIA a tomar medidas preventivas para garantizar la seguridad de los conductores.</summary>
+    <published>2026-09-03T09:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29228</id>
+    <title>[Fórmula 1] Honda busca mejoras en conduibilidad en Monza tras actualización de su unidad de potencia en Zandvoort</title>
+    <updated>2026-09-03T13:08:36.116635+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29228"/>
+    <summary>Honda busca mejorar su rendimiento en el Gran Premio de Italia, enfocándose en la conduibilidad y el control de combustión tras la introducción de su unidad de potencia RA626H Spec 2 en Zandvoort. Aunque el equipo ha logrado un mejor rendimiento en el circuito holandés, aún se encuentra detrás de sus rivales en términos de potencia total. En Monza, el circuito más potente del calendario, Honda buscará confirmar los avances y realizar ajustes para mejorar su competitividad en las próximas carreras.
+
+Contexto IA (informativo):
+Monza es uno de los circuitos más potentes del calendario, ya que los coches pasan una gran parte del circuito a alta velocidad antes de alcanzar algunas de las zonas de frenado más pesadas. La combinación de largas rectas y la electrificación aumentada de las unidades de potencia hace que la gestión de la energía sea especialmente importante.</summary>
+    <published>2026-09-03T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://racer.com/2026/09/03/indycar-raises-licensing-standards-narrowing-opportunities-for-drivers-to-secure-rides-on-budget-alone</id>
+    <title>[Fórmula 1] IndyCar aumenta los estándares de licencia, reduciendo las oportunidades para los conductores para obtener carreras con un presupuesto solo</title>
+    <updated>2026-09-03T13:08:36.116602+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/01/hits---and-misses---from-racer-s-nascar-pre-season-predictions"/>
-    <summary>Al inicio del año, Kelly Crandall de RACER hizo algunas predicciones audaces sobre la temporada de NASCAR. Hasta ahora, algunas han sido correctas, pero otras no tanto. La temporada de NASCAR es muy dinámica y depende de muchos factores, por lo que es difícil predecir con certeza el resultado final.
+    <link href="https://racer.com/2026/09/03/indycar-raises-licensing-standards-narrowing-opportunities-for-drivers-to-secure-rides-on-budget-alone"/>
+    <summary>IndyCar ha implementado un cambio significativo en su sistema de licencia, lo que requiere que los conductores cumplan con estándares de calificación formales para ser considerados IndyCar-eligibles, incluso si llevan un presupuesto completo. Además, se enfatiza el énfasis en Indy NXT como la serie preferida para el flujo de pipeline.
 
 Contexto IA (informativo):
-RACER es una fuente de noticias y análisis de NASCAR que ofrece predicciones y opiniones sobre el mundo del automovilismo. Sus predicciones son objeto de interés para los fanáticos y los aficionados a la carrera.</summary>
-    <published>2026-09-01T17:23:39+00:00</published>
+Esta medida busca mejorar la competitividad y la seguridad en la serie, mientras se busca fomentar el desarrollo de conductores jóvenes en Indy NXT.</summary>
+    <published>2026-09-03T11:52:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/</id>
-    <title>[Fórmula 1] Red Bull contrata a ingeniero de Aston Martin para reemplazar a Lambiase</title>
-    <updated>2026-09-02T13:09:40.573956+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/"/>
-    <summary>La escuadra de Red Bull de Fórmula 1 ha confirmado que ha contratado al ingeniero de larga data de Aston Martin Tom McCullough para reemplazar a Gianpiero Lambiase como jefe de carreras. Lambiase se unirá a McLaren en 2028 para convertirse en su jefe de carreras, informando al principal de la escuadra Andrea Stella. El británico actualmente cumple un doble rol en el equipo como ingeniero de carreras de Max Verstappen, coincidiendo con esas tareas
-
-Contexto IA (informativo):
-El cambio de Lambiase a McLaren se produce en un momento en que la escuadra británica busca fortalecer su presencia en la Fórmula 1, con Verstappen como su principal piloto.</summary>
-    <published>2026-09-01T18:36:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29198</id>
-    <title>[Fórmula 1] Komatsu explica las dificultades de Haas como oportunidad para recuperarse</title>
-    <updated>2026-09-02T13:09:40.573919+00:00</updated>
+    <id>https://www.f1technical.net/news/29204</id>
+    <title>[Fórmula 1] Norris revela lo que necesita McLaren para sentirse capaz de ganar</title>
+    <updated>2026-09-03T13:08:36.116564+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29198"/>
-    <summary>El equipo Haas, liderado por Ayao Komatsu, ha admitido que ha luchado para mantener el ritmo con las operaciones de desarrollo de Fórmula 1 después de un inicio sorprendente en la temporada 2026. Aunque el equipo inicialmente emergió como una de las sorpresas de la nueva regulación, su ritmo ha disminuido en las últimas carreras mientras que los equipos más grandes han introducido mejoras de rendimiento a un ritmo más rápido. Komatsu explicó que Haas siempre esperó que la escala de la cambio de regulación presentara un gran desafío para el equipo más pequeño. El equipo ha estado trabajando para desarrollar su nuevo generación de coche y ha establecido una amenaza regular en el medio campo, pero su desarrollo ha sido expuesto por sus limitaciones de recursos. Komatsu definió a sus ingenieros y personal como personas que están haciendo un gran trabajo, pero reconoció que el equipo tiene menos espacio para error que sus rivales más grandes. El equipo principal cree que parte de su responsabilidad es crear un ambiente en el que los ingenieros puedan operar de manera efectiva. A pesar del declive reciente, Komatsu cree que el difícil período podría beneficiar a la organización al exponer debilidades que deben ser abordadas. El equipo ha enfocado en comprender los problemas técnicos detrás de su falta de rendimiento en lugar de crear una cultura de culpas. Están trabajando para identificar las causas de su déficit de rendimiento antes de introducir soluciones, con ambos conductores y ingenieros trabajando hacia el mismo objetivo. Sin embargo, el proceso tomará tiempo. El equipo ya está trabajando en desarrollos destinados a mejorar su rendimiento, con el primer paquete de actualizaciones programado para llegar al Gran Premio de Italia en Monza. Komatsu cree que estas actualizaciones le darán a Haas la oportunidad de establecer si el equipo puede abordar sus dificultades a través de su programa de desarrollo. Sin embargo, no espera que las nuevas piezas transformen al equipo en un contendiente regular en el top ocho. El equipo disfrutó de una buena racha hacia el final de la temporada anterior, pero el entorno competitivo es considerablemente diferente bajo las nuevas regulaciones. El tamaño del brecha es particularmente significativo para Haas. Komatsu destacó que el equipo necesita trabajar gradualmente para abordar su déficit de rendimiento.
+    <link href="https://www.f1technical.net/news/29204"/>
+    <summary>Lando Norris explicó en detalle lo que necesita McLaren para sentirse capaz de ganar, después de su victoria en el Gran Premio de los Países Bajos. Norris admitió que la victoria fue particularmente importante para él, ya que la carrera anterior había sido difícil y había dudado de su capacidad para ganar. El piloto McLaren dijo que la clave para su victoria fue la confianza en el carrito, y que una vez que encontró esa confianza, pudo ganar la carrera. Norris también destacó la importancia de la confianza en el equipo y en sí mismo, y cómo eso le permitió ganar la carrera. La victoria de Norris fue particularmente importante para él porque había sido difícil y había dudado de su capacidad para ganar. Sin embargo, Norris se sintió más seguro con el carrito y con su equipo, y eso le permitió ganar la carrera. La victoria de Norris también fue importante para McLaren, ya que demostró que el equipo puede ganar con un piloto capaz y con un carrito bien diseñado. En general, la victoria de Norris fue un éxito para McLaren y para Norris, y demostró que el equipo puede ganar con un piloto capaz y con un carrito bien diseñado.
 
 Contexto IA (informativo):
-El equipo Haas ha estado trabajando para desarrollar su nuevo generación de coche y ha establecido una amenaza regular en el medio campo. Sin embargo, su desarrollo ha sido expuesto por sus limitaciones de recursos. El equipo principal cree que parte de su responsabilidad es crear un ambiente en el que los ingenieros puedan operar de manera efectiva.</summary>
-    <published>2026-09-02T08:00:00+00:00</published>
+La victoria de Norris en el Gran Premio de los Países Bajos fue un éxito para McLaren y para Norris. La carrera fue difícil y Norris había dudado de su capacidad para ganar, pero una vez que encontró la confianza en el carrito, pudo ganar la carrera. La victoria de Norris también demostró la importancia de la confianza en el equipo y en sí mismo, y cómo eso puede llevar a un éxito en la carrera.</summary>
+    <published>2026-09-03T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29220</id>
-    <title>[Fórmula 1] Mercedes identifica debilidades clave para abordar después de la derrota en Zandvoort</title>
-    <updated>2026-09-02T13:09:40.573888+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29220"/>
-    <summary>Después de la segunda posición de Kimi Antonelli y la tercera de George Russell en el Gran Premio de los Países Bajos, Mercedes ha comenzado a analizar las razones detrás de su falta de rendimiento. La escudería identificó varias áreas de debilidad, especialmente en las curvas de alta velocidad, donde la Mercedes perdió rendimiento en comparación con McLaren. El equipo busca entender qué causa este problema y cómo abordarlo antes del Gran Premio de Italia en Monza.
-
-Contexto IA (informativo):
-La derrota de Mercedes en Zandvoort fue un golpe para el equipo, que había estado dominando la temporada. Sin embargo, la escudería se enfoca en aprender de sus errores y mejorar su rendimiento en las próximas carreras.</summary>
-    <published>2026-09-02T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/ferrari-to-introduce-first-aduo-update-at-f1s-italian-gp/10851560/</id>
-    <title>[Fórmula 1] Ferrari introduce primera actualización de ADUO en GP de Italia de F1</title>
-    <updated>2026-09-02T13:09:40.573855+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/esteban-ocon-wont-get-upgraded-ferrari-f1-engine-at-italian-gp/10851830/</id>
+    <title>[Fórmula 1] Esteban Ocon no recibirá motor de Ferrari F1 actualizado en GP de Italia</title>
+    <updated>2026-09-03T13:08:36.116526+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/ferrari-to-introduce-first-aduo-update-at-f1s-italian-gp/10851560/"/>
-    <summary>Ferrari presentará una actualización de su unidad de potencia en el próximo Gran Premio de Italia de F1, que está permitida bajo el sistema de desarrollo adicional y oportunidades de actualización (ADUO). Este año, F1 introdujo el sistema ADUO, que otorga a los fabricantes oportunidades adicionales para mejorar sus motores en caso de que estén retrasados en el rendimiento. Los resultados se toman cada cuarto del año. Ferrari busca aprovechar esta oportunidad para mejorar su desempeño en la pista.
+    <link href="https://www.motorsport.com/f1/news/esteban-ocon-wont-get-upgraded-ferrari-f1-engine-at-italian-gp/10851830/"/>
+    <summary>Esteban Ocon ha confirmado que no tendrá acceso al motor ADUO2 de Ferrari en el GP de Italia, ya que el único motor disponible para Haas será asignado a su compañero de equipo Oliver Bearman. La escudería estadounidense se dirige al Gran Premio de Italia con un paquete aerodinámico completamente nuevo, anunciado por el principal de la escudería Ayao Komatsu antes del evento. Este paquete aerodinámico será instalado en ambos coches
 
 Contexto IA (informativo):
-El sistema ADUO fue introducido por F1 para darle a los fabricantes más oportunidades para mejorar sus motores y mantenerse competitivos en el campeonato. La actualización de Ferrari se espera que sea una mejora significativa en su desempeño en el circuito de Monza.</summary>
-    <published>2026-09-02T12:52:39+00:00</published>
+El equipo Haas ha estado trabajando en un paquete aerodinámico completamente nuevo para el GP de Italia, que será utilizado en ambos coches. El equipo está listo para competir en el Gran Premio de Italia con este nuevo paquete aerodinámico.</summary>
+    <published>2026-09-03T12:31:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/</id>
-    <title>[Fórmula 1] Ferrari introduce actualización de motor en GP de Italia bajo ADUO</title>
-    <updated>2026-09-02T13:09:40.573821+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/"/>
-    <summary>Ferrari presentará una actualización de su unidad de potencia en el Gran Premio de Italia este fin de semana, que está permitida bajo el sistema de desarrollo adicional y oportunidades de actualización (ADUO). Este año, la Fórmula 1 introdujo el sistema ADUO, que otorga a los fabricantes oportunidades adicionales para mejorar sus motores en caso de que estén retrasados en términos de rendimiento. Los resultados se toman cada cuarto de año. La actualización permitirá a Ferrari cerrar la brecha con sus rivales en cuanto a rendimiento.
-
-Contexto IA (informativo):
-El sistema ADUO fue introducido por la Fórmula 1 para darle a los fabricantes más oportunidades de mejorar sus motores y reducir la brecha con los líderes en el campo. La actualización permitirá a Ferrari aprovechar esta oportunidad y mejorar su rendimiento en el circuito de Monza.</summary>
-    <published>2026-09-02T12:58:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes</id>
-    <title>[Tecnología] Gadgets USB-C que reproducen cassettes de Nintendo antiguas</title>
-    <updated>2026-09-02T13:09:40.573787+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"/>
-    <summary>Un dispositivo llamado Epilogue Operator permite reproducir juegos de Nintendo en computadoras Windows y Mac, incluso en consolas de Steam. El dispositivo utiliza cassettes de Nintendo antiguas y puede reproducir juegos de 26 años de antigüedad. El usuario puede cargar sus propios archivos de juego y preservar la historia familiar. El Epilogue Operator es un dispositivo de lectura de cassettes transparente y trapezoidal que se puede conectar a una computadora. El dispositivo es compatible con Windows, Mac y Steam, y se puede utilizar para reproducir juegos de Nintendo en cualquier dispositivo. El Epilogue Operator es una herramienta útil para los fanáticos de Nintendo que buscan preservar su historia y reproducir juegos antiguos.
-
-Contexto IA (informativo):
-El Epilogue Operator es un dispositivo innovador que permite a los usuarios reproducir juegos de Nintendo en dispositivos modernos. El dispositivo utiliza tecnología de lectura de cassettes para reproducir juegos de 26 años de antigüedad, lo que permite a los usuarios preservar la historia familiar y reproducir juegos antiguos.</summary>
-    <published>2026-09-02T11:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/story/here-comes-the-tesla-cybercab/</id>
-    <title>[Tecnología] El Cybercab está a punto de llegar. Ahora viene el difícil</title>
-    <updated>2026-09-02T13:09:40.573751+00:00</updated>
+    <id>https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/</id>
+    <title>[Tecnología] Las imágenes de comida de AI son solo el comienzo</title>
+    <updated>2026-09-03T13:08:36.116488+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/story/here-comes-the-tesla-cybercab/"/>
-    <summary>El Cybercab de Tesla parece diseñado para llamar la atención, pero ahora el desafío es real. La empresa está programada para presentar el Cybercab en un evento en su sede en Austin, Texas, lo que podría marcar el inicio de su servicio de ride-hail con vehículos autónomos. Tesla ha estado operando un programa piloto en Austin desde el verano pasado y ha expandido a otras ciudades en Texas y Florida. Sin embargo, la pregunta sigue siendo si los Cybercabs serán solo para el servicio de ride-hail o se venden a conductores individuales. La empresa ha prometido que los Cybercabs serán vendidos a consumidores antes del final de 2026, pero aún no ha demostrado que puede producir vehículos autónomos a escala. El éxito del servicio dependerá de la capacidad de la empresa para generar ingresos y utilizar sus vehículos de manera eficiente. La industria de los vehículos autónomos es altamente competitiva y la empresa debe demostrar que su tecnología es segura y efectiva para ganar la confianza de los consumidores.
+    <link href="https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/"/>
+    <summary>Las imágenes de comida generadas por inteligencia artificial (AI) en los menús de restaurantes están causando revuelo por su apariencia desagradable. Estas imágenes se están volviendo más comunes y están siendo utilizadas para atraer a los clientes en línea. Sin embargo, algunos expertos creen que estas imágenes pueden estar perjudicando la experiencia del cliente en el restaurante. La tecnología de AI también está siendo utilizada para decidir qué ingredientes se utilizarán en los platos, lo que puede afectar la calidad de la comida. Los restaurantes están empezando a utilizar esta tecnología para mejorar su visibilidad en las aplicaciones de entrega de comida, pero algunos expertos creen que esto puede llevar a una pérdida de calidad en la comida. En última instancia, la pregunta es si la tecnología de AI es beneficiosa o perjudicial para la industria de la comida.
 
 Contexto IA (informativo):
-Tesla ha estado trabajando en el desarrollo de su tecnología de vehículos autónomos durante años y ha demostrado su capacidad para mejorar la seguridad y la eficiencia en sus vehículos. Sin embargo, la empresa aún debe demostrar que su tecnología es segura y efectiva para ser adoptada a gran escala.</summary>
-    <published>2026-09-02T11:30:00+00:00</published>
+La industria de la comida está experimentando un cambio significativo con la adopción de la tecnología de inteligencia artificial. Los restaurantes están utilizando la tecnología para mejorar su visibilidad en las aplicaciones de entrega de comida y para decidir qué ingredientes se utilizarán en los platos. Sin embargo, algunos expertos creen que esta tecnología puede estar perjudicando la experiencia del cliente en el restaurante.</summary>
+    <published>2026-09-03T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2249200/united-airlines-deliver-food-essentials-gate/</id>
-    <title>[Tecnología] United Airlines ofrece comida y otros artículos esenciales en la puerta de la terminal</title>
-    <updated>2026-09-02T13:09:40.573717+00:00</updated>
+    <id>https://www.engadget.com/2246223/stop-replacing-batteries-xbox-controller-rechargeable-alternative/</id>
+    <title>[Tecnología] Deja de reemplazar las pilas en tu controlador de Xbox – Haz esto en su lugar</title>
+    <updated>2026-09-03T13:08:36.116451+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2249200/united-airlines-deliver-food-essentials-gate/"/>
-    <summary>United Airlines está probando un nuevo servicio que te permite pedir comida, medicamentos y artículos de viaje a través de su aplicación y tenerlos entregados directamente en la puerta de la terminal. El servicio está disponible solo para vuelos seleccionados en el Terminal C de Newark Liberty International. Los pasajeros pueden elegir entre una variedad de opciones, incluyendo saladas, sandwiches, bebidas y medicamentos de venta libre. El servicio se está probando en colaboración con OTG, la empresa que gestiona las experiencias de comestible y tienda en el Terminal C de Newark. Si el servicio es exitoso, se planea expandirlo a Houston y luego a otros aeropuertos. Además, United ha lanzado una nueva función que te permite unirte a listas de espera en caso de retrasos, lo que te permite reprogramar tu reserva rápidamente una vez que se libera un asiento.
+    <link href="https://www.engadget.com/2246223/stop-replacing-batteries-xbox-controller-rechargeable-alternative/"/>
+    <summary>La mayoría de los controladores de Xbox dependen de pilas AA reemplazables para funcionar. Sin embargo, hay una solución que no requiere gastar $199 en un controlador con batería reemplazable. Con el kit de batería reemplazable oficial de Xbox, puedes dejar de cambiar las pilas de tu controlador de Xbox para siempre. También puedes utilizar pilas AA reutilizables o conectar el controlador directamente a la computadora a través de USB, sin necesidad de pilas. Hay varias opciones disponibles, incluyendo kits oficiales y alternativas de tercer partido, que ofrecen diferentes características y beneficios. Lo importante es elegir la solución que mejor se adapte a tus necesidades y preferencias.
 
 Contexto IA (informativo):
-United Airlines busca mejorar la experiencia de los pasajeros con la introducción de este nuevo servicio, que busca hacer más cómodos y convenientes los viajes. El servicio se está probando en un piloto y, si es exitoso, se planea ampliarlo a otros aeropuertos.</summary>
-    <published>2026-09-02T12:00:00+00:00</published>
+Aunque algunos gamers prefieren utilizar pilas AA reemplazables, otros prefieren la conveniencia de la carga USB-C. La decisión de utilizar pilas AA o una batería reemplazable depende de las preferencias personales y de la necesidad de flexibilidad.</summary>
+    <published>2026-09-03T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2244155/how-to-reset-apple-tv-remote/</id>
-    <title>[Tecnología] Cómo resetear el remoto de Apple TV</title>
-    <updated>2026-09-02T13:09:40.573683+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2244155/how-to-reset-apple-tv-remote/"/>
-    <summary>Si tu remoto de Apple TV está perdiendo conexión o no responde, puedes intentar resetarlo. Antes de hacerlo, asegúrate de que el remoto esté cargado y que no haya problemas de señal. Si el problema persiste, puedes intentar re-pairar el remoto con el Apple TV. Si el problema es más grave, puedes intentar un reset de fábrica o utilizar un dispositivo móvil como un iPhone o iPad como remoto. Es importante tener en cuenta que un reset de fábrica borrará todos tus ajustes y contenido.
-
-Contexto IA (informativo):
-Si tu remoto de Apple TV no responde, es posible que debas intentar un reset. Sin embargo, antes de hacerlo, asegúrate de que el remoto esté cargado y que no haya problemas de señal. También es importante tener en cuenta que un reset de fábrica puede ser una solución definitiva, pero también puede ser un problema si no se hace correctamente.</summary>
-    <published>2026-09-02T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar</id>
-    <title>[Tecnología] La filosofía de conducción autónoma de Tesla de Elon Musk se pone a prueba</title>
-    <updated>2026-09-02T13:09:40.573647+00:00</updated>
+    <id>https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled</id>
+    <title>[Tecnología] El nuevo teléfono Nxtpaper de TCL ofrece tanto lector de e-impreso como pantalla OLED</title>
+    <updated>2026-09-03T13:08:36.116415+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar"/>
-    <summary>La empresa Tesla ha comenzado a poner en circulación sus vehículos robóticos, conocidos como Cybercab, en Austin, Texas, como parte de su servicio de robotaxi. Aunque Elon Musk había anunciado este proyecto hace casi dos años, la empresa ha decidido implementar un sistema de conducción autónoma más simple que el utilizado por sus competidores, que incluyen múltiples sensores. Este enfoque se basa únicamente en cámaras. La pregunta es si este sistema será lo suficientemente efectivo como para que Tesla se convierta en líder en el mercado de robotaxi. Los expertos expresan dudas sobre la viabilidad de este enfoque, ya que los vehículos robóticos que utilizan múltiples sensores han demostrado ser más seguros y precisos en pruebas
+    <link href="https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled"/>
+    <summary>El nuevo teléfono Nxtpaper de TCL, P80 Ultra, combina una pantalla de lector de e-impreso con una pantalla OLED de alta calidad. La pantalla de lector de e-impreso se activa en modo de bajo consumo y reproduce la apariencia de papel, mientras que la pantalla OLED ofrece una experiencia de alta gama. El teléfono cuenta con una resolución de 1,5K y un ritmo de actualización de 120Hz, lo que lo convierte en una opción atractiva para los lectores y los usuarios de redes sociales.
 
 Contexto IA (informativo):
-El sistema de conducción autónoma de Tesla es el más simple y económico que se ha implementado hasta la fecha, lo que ha generado preocupación entre los expertos y los inversores. La empresa ha invertido miles de millones de dólares en este proyecto, lo que ha generado especulaciones sobre la viabilidad de este enfoque. La pregunta es si Tesla ha tomado la mejor decisión al optar por un sistema más simple, o si ha arriesgado demasiado en este proyecto.</summary>
-    <published>2026-09-02T12:00:00+00:00</published>
+TCL había anunciado la tecnología Nxtpaper OLED en MWC en marzo, pero no había presentado productos que la explotaran. El P80 Ultra es el primer teléfono que aprovecha esta tecnología, con una pantalla de 6,83 pulgadas que ofrece una experiencia de pantalla de alta calidad.</summary>
+    <published>2026-09-03T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/avengers-secret-wars-may-have-cast-the-beyonder-2000805876</id>
-    <title>[Tecnología] ¿Podría ser el final del Caballero Negro en el MCU?</title>
-    <updated>2026-09-02T13:09:40.573611+00:00</updated>
+    <id>https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal</id>
+    <title>[Tecnología] Nvidia adquiere Hugging Face por casi $13 mil millones</title>
+    <updated>2026-09-03T13:08:36.116375+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"/>
+    <summary>Nvidia ha acordado comprar Hugging Face por $12.93 mil millones, lo que suma a la propiedad de la plataforma de hosting más popular para modelos de inteligencia artificial abiertos, conjuntos de datos y herramientas bajo el control del mayor fabricante de chips de inteligencia artificial del mundo. Hugging Face es una plataforma en línea fundada en 2016 que proporciona a los desarrolladores de inteligencia artificial un espacio para compartir sus proyectos y datos con otros usuarios y el público en general. A menudo se describe como el "GitHub" de la inteligencia artificial debido a su biblioteca de modelos de aprendizaje automático abiertos y características de colaboración en comunidad. El CEO de Nvidia y el fundador de Hugging Face han anunciado que trabajarán juntos para ampliar la plataforma, fortalecer su infraestructura y hacer que la tecnología de inteligencia artificial sea más accesible para más personas. La compra se considera una de las más grandes en la historia de la industria de la inteligencia artificial.
+
+Contexto IA (informativo):
+La compra de Hugging Face por Nvidia ha generado interés en la industria de la inteligencia artificial, ya que se considera una oportunidad para expandir la influencia de Nvidia en el desarrollo de modelos de inteligencia artificial abiertos y para fortalecer su posición en el mercado de los chips de inteligencia artificial.</summary>
+    <published>2026-09-03T12:12:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2250197/nvidia-buys-hugging-face/</id>
+    <title>[Tecnología] NVIDIA adquiere Hugging Face por $12.93 billones</title>
+    <updated>2026-09-03T13:08:36.116340+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2250197/nvidia-buys-hugging-face/"/>
+    <summary>NVIDIA adquirió Hugging Face por $12.93 billones, lo que le dará una posición dominante en tanto en cuanto a hardware y software de inteligencia artificial. El CEO de NVIDIA, Jensen Huang, afirmó que el objetivo es expandir el acceso a la inteligencia artificial y fortalecer la plataforma de Hugging Face. La empresa promete mantener la plataforma abierta para el ecosistema de inteligencia artificial en general. El acuerdo se ha visto como un paso importante en la carrera de inteligencia artificial, donde se espera que los modelos abiertos jueguen un papel cada vez más importante.
+
+Contexto IA (informativo):
+El acuerdo de compra se ha visto como un paso importante en la carrera de inteligencia artificial, donde se espera que los modelos abiertos jueguen un papel cada vez más importante. Hugging Face ha establecido una comunidad activa de desarrolladores que comparten y descubren modelos de inteligencia artificial abiertos.</summary>
+    <published>2026-09-03T12:18:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/philips-hue-liane-360-rope-light-signe-pendant-lights-2000806570</id>
+    <title>[Tecnología] Luzes Inteligentes de Philips Hue Son Creativas y Funcionales</title>
+    <updated>2026-09-03T13:08:36.116303+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/avengers-secret-wars-may-have-cast-the-beyonder-2000805876"/>
-    <summary>El actor Kit Harrington ha expresado que no hay planes para regresar al personaje de Dane Black Knight Whitman en el MCU. En una entrevista, Harrington mencionó que el personaje es un paralelo interesante sobre la adicción y la corrupción, pero no hay planes para su regreso. Además, se han unido a la película 'Seasons' Wes Studi y Dane DiLiegro en roles no revelados. Por otro lado, se ha anunciado una nueva versión de la película 'Pulse' con un director y un guionista nuevos, y se está desarrollando una película basada en la historia de 'The Kentucky Goblins'.
+    <link href="https://gizmodo.com/philips-hue-liane-360-rope-light-signe-pendant-lights-2000806570"/>
+    <summary>Philips Hue presentó algunas de las luces inteligentes más innovadoras que he visto en una evento reciente, incluyendo una luz de cuerda que se curva alrededor de su circunferencia entera y tres luces cilíndricas, una de las cuales es literalmente un poste que se supone que se apoya en una pared. La luz Liane 360 grados, que comienza en $400, es una luz de cuerda flexible que se puede colgar de un techo o una pared y se puede ajustar para que se curva en diferentes formas. Philips Hue también presentó una nueva línea de luces llamada Festavia, que incluye luces de red, cortina y icicle, que ofrecen colores vibrantes y efectos de movimiento suaves. La empresa también anunció una nueva función de chatbot-interfaz para su aplicación, que permite a los usuarios crear automaciones personalizadas utilizando lenguaje natural. Las nuevas luces y la función de chatbot están disponibles hoy.
 
 Contexto IA (informativo):
-En otro lado, se ha anunciado que la película 'Artificial' de Luca Guadagnino se estrenará en el Festival de Cine de Nueva York el 5 de octubre. Además, se ha confirmado que la serie de 'Tomb Raider' con Sophie Turner se ha visto obligada a cumplir con las normas de seguridad en el Reino Unido debido a la falta de medidas de protección adecuadas durante la filmación.</summary>
-    <published>2026-09-02T12:40:17+00:00</published>
+Estas nuevas luces inteligentes de Philips Hue parecen estar diseñadas para atraer a los entusiastas de la tecnología y los amantes de la creatividad. Sin embargo, algunas personas podrían encontrar que las luces son un poco caras y que la función de chatbot-interfaz no es tan innovadora como podría ser.</summary>
+    <published>2026-09-03T12:20:12+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.codinghorror.com/you-cant-vibe-code-love/</id>
-    <title>[Programación] No puedes "vibrar el código" el amor</title>
-    <updated>2026-09-02T13:09:40.573574+00:00</updated>
+    <id>https://css-tricks.com/whats-important-18/</id>
+    <title>[Programación] ¿Qué es lo más importante #18: geolocalización, resaltado de sintaxis, características nombradas y más</title>
+    <updated>2026-09-03T13:08:36.116261+00:00</updated>
     <author>
-      <name>Coding Horror</name>
+      <name>CSS-Tricks</name>
     </author>
-    <link href="https://blog.codinghorror.com/you-cant-vibe-code-love/"/>
-    <summary>La presentación se centra en la historia humana de cómo Ben y el hablante se conocieron. Aunque tienen opiniones y perspectivas diferentes, se unieron para hablar sobre temas importantes. La presentación destaca la importancia de la comunidad de Stack Overflow y cómo los LLMs pueden afectar la forma en que compartimos conocimientos. El hablante agradece a Ben por su apoyo y destaca la necesidad de proteger la commons para que los LLMs puedan obtener su entrenamiento de datos. La presentación concluye con la idea de que no se puede "vibrar el código" el amor, y que la comunidad de Stack Overflow es fundamental para compartir conocimientos y amor
+    <link href="https://css-tricks.com/whats-important-18/"/>
+    <summary>En este número de lo más importante, se discuten varios temas relacionados con el desarrollo de CSS. Abhishek Jakhar explica por qué los tooltips deben ser retrasados y instantáneos, y muestra cómo implementarlos. Chris Coyier presenta una implementación moderna que utiliza invocadores de interés, que permiten queryear la compatibilidad de CSS de manera más precisa. También se habla sobre la geolocalización y cómo utilizarla de manera efectiva, así como sobre la creación de un sintetizador de resaltado de sintaxis llamado MicroLighter. Además, se presentan algunas nuevas características de CSS, como la capacidad de obtener información de grid en variables CSS y la posibilidad de utilizar el selector de clase prefix. Finalmente, se discuten algunas actualizaciones en Chrome y Firefox, incluyendo la introducción de nuevas funciones y características.
 
 Contexto IA (informativo):
-La presentación se llevó a cabo en el CityCube de Berlín el 10 de julio de 2023. El hablante y Ben Dumke-von der Ehe, un empleado inicial de Stack Overflow, se unieron para hablar sobre temas importantes y compartir su experiencia en la comunidad de Stack Overflow.</summary>
-    <published>2026-08-31T04:35:57+00:00</published>
+Este número de lo más importante cubre una variedad de temas relacionados con el desarrollo de CSS, desde la implementación de tooltips retrasados y instantáneos hasta la creación de un sintetizador de resaltado de sintaxis llamado MicroLighter. También se presentan algunas nuevas características de CSS, como la capacidad de obtener información de grid en variables CSS y la posibilidad de utilizar el selector de clase prefix. Además, se discuten algunas actualizaciones en Chrome y Firefox, incluyendo la introducción de nuevas funciones y características.</summary>
+    <published>2026-08-31T14:08:55+00:00</published>
   </entry>
   <entry>
     <id>https://css-tricks.com/css-random-function-polyfill/</id>
     <title>[Programación] Aprovechando la función CSS random() en todos los navegadores</title>
-    <updated>2026-09-02T13:09:40.573537+00:00</updated>
+    <updated>2026-09-03T13:08:36.116217+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -333,45 +347,45 @@ La creación de experiencias de usuario dinámicas y emocionantes es un tema de 
     <published>2026-08-31T15:12:19+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.appliedcomputing.io/p/bazels-ux-is-really-really-really</id>
-    <title>[Programación] El uso de Bazel es realmente, realmente, realmente malo</title>
-    <updated>2026-09-02T13:09:40.573500+00:00</updated>
+    <id>https://easylang.online/blog/branchless</id>
+    <title>[Programación] Programación evitando saltos condicionales</title>
+    <updated>2026-09-03T13:08:36.116177+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://blog.appliedcomputing.io/p/bazels-ux-is-really-really-really"/>
-    <summary>El autor critica el uso de Bazel, una herramienta de construcción de software, por su mal diseño de usuario. Destaca problemas como la instalación incorrecta de la herramienta, la presencia de archivos BUILD innecesarios y la falta de comunicación clara sobre cómo resolver estos problemas. El autor argumenta que Bazel parece ignorar a los usuarios y que su diseño es inaceptable. El post busca alertar sobre estos problemas y promover una mejor experiencia de usuario para los desarrolladores que utilizan Bazel.
+    <link href="https://easylang.online/blog/branchless"/>
+    <summary>La programación evitando saltos condicionales es una técnica efectiva para mejorar el rendimiento de los programas en procesadores modernos. En este artículo, se analiza una tarea sencilla: copiar todos los números menores que 500 a un nuevo array. Se compara el rendimiento de dos enfoques: uno con saltos condicionales y otro sin saltos. El resultado muestra que el enfoque sin saltos es significativamente más rápido. La explicación se centra en la forma en que el procesador procesa los bucles y cómo el predictor de saltos puede afectar el rendimiento.
 
 Contexto IA (informativo):
-El autor de la noticia es un experto en software y ha trabajado con varias herramientas de construcción de software. Ha experimentado problemas con Bazel en el pasado y ha decidido compartir sus experiencias para ayudar a otros desarrolladores a evitar los mismos errores.</summary>
-    <published>2026-09-01T15:43:51+00:00</published>
+El uso de procesadores modernos con tecnología de ejecución de instrucciones just-in-time (JIT) y optimización de código puede mejorar significativamente el rendimiento de los programas. Sin embargo, la optimización del código es un proceso complejo que requiere una comprensión profunda de la arquitectura del procesador y las características de la programación.</summary>
+    <published>2026-09-03T10:00:28+00:00</published>
   </entry>
   <entry>
-    <id>https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction</id>
-    <title>[Programación] Más allá de las lambdas: elevar el nivel de abstracción del código funcional</title>
-    <updated>2026-09-02T13:09:40.573447+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction"/>
-    <summary>Las funciones anónimas, también conocidas como funciones lambda, han se convertido en una parte integral de la mayoría de los lenguajes de programación. Aunque las funciones lambda optimizan para escribir código, esto se logra a expensas de la lectura del código, que es una actividad más común. En este artículo, se analiza cómo refactorizar el código para elevar el nivel de abstracción y mejorar la legibilidad. Se presentan ejemplos en Java y Clojure, y se discuten los beneficios de nombrar funciones y abstraer los pasos del pipeline.
-
-Contexto IA (informativo):
-El artículo se centra en la importancia de elevar el nivel de abstracción del código funcional y cómo nombrar funciones puede mejorar la legibilidad y la mantenibilidad del código. El autor argumenta que las funciones lambda pueden optimizar para escribir código, pero esto se logra a expensas de la lectura del código, y que nombrar funciones y abstraer los pasos del pipeline puede mejorar la legibilidad y reducir la necesidad de reconstruction de código.</summary>
-    <published>2026-09-02T07:56:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/xulingfeng/stratagems-27-alex-watched-the-ai-wait-he-said-everything-was-normal-10dd</id>
-    <title>[Programación] Alex Monitorea el Ralentizado del Sistema</title>
-    <updated>2026-09-02T13:09:40.573361+00:00</updated>
+    <id>https://dev.to/raptorsdev/dogfood-2026-build-the-platform-that-will-judge-you-196e</id>
+    <title>[Programación] Dogfood 2026: Construye la plataforma que te juzgará</title>
+    <updated>2026-09-03T13:08:36.116110+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/xulingfeng/stratagems-27-alex-watched-the-ai-wait-he-said-everything-was-normal-10dd"/>
-    <summary>Alex monitorea el sistema después de que Derek cambia la latencia del medio. El sistema se ralentiza deliberadamente, sin mostrar signos de fallo o sobrecarga. Alex observa la secuencia de acceso externo y detecta un patrón de espera. La latencia se duplica dos veces antes de detenerse. El sistema no muestra signos de fallo, lo que sugiere que el ralentizado es deliberado y no una respuesta a un problema de red. Alex continúa monitoreando el sistema para entender mejor el comportamiento del ralentizado.
+    <link href="https://dev.to/raptorsdev/dogfood-2026-build-the-platform-that-will-judge-you-196e"/>
+    <summary>Dogfood 2026 es un hackathon de 72 horas en línea organizado por Hackathon Raptors. Los participantes deben construir una plataforma de submisión y evaluación de proyectos para hackathons. El desafío es construir la plataforma que juzgará a los participantes. La plataforma debe manejar la compleja workflow de submisión, evaluación y certificación de proyectos. El evento tiene un premio de $2,500 y es gratuito para participar. Los participantes deben construir una plataforma que sea forkable, self-hostada y utilizada en eventos futuros de Hackathon Raptors.
 
 Contexto IA (informativo):
-Derek había cambiado la latencia del medio del sistema para ver cómo reaccionaba Alex. El objetivo era determinar si el sistema se ralentizaría de manera natural o si era una respuesta a un problema de red.</summary>
-    <published>2026-09-02T12:46:21+00:00</published>
+El evento se llevará a cabo del 25 al 28 de septiembre de 2026 y es una oportunidad para los participantes construir una plataforma que pueda manejar la compleja dinámica de un hackathon. La plataforma debe ser segura, escalable y capaz de manejar la evaluación de proyectos de alta calidad.</summary>
+    <published>2026-09-03T12:53:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/tradevodata/the-fill-model-is-where-backtests-quietly-cheat-4mhe</id>
+    <title>[Programación] El modelo de llenado es donde las pruebas de retroceso engañan silenciosamente</title>
+    <updated>2026-09-03T13:08:36.115988+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/tradevodata/the-fill-model-is-where-backtests-quietly-cheat-4mhe"/>
+    <summary>Cada prueba de retroceso debe responder a una pregunta aburrida: cuando la estrategia dice &amp;quot;comprar&amp;quot;, qué precio realmente se obtiene. La mayoría de los frameworks de retroceso responden mal a esta pregunta, y la mala respuesta es casi siempre a favor de la estrategia. Se presentan cuatro suposiciones que causan el mayor daño, en orden de frecuencia. Las suposiciones de llenado de precio medio, cero pérdida de slippage, tamaño ilimitado al tocar y comisiones omitidas o promediadas. Estas suposiciones hacen que la estrategia parezca tener una ventaja que no existe. Se presentan ejemplos y se discuten cómo se pueden diagnosticar estas suposiciones de llenado de precio medio y slippage. Se concluye que es importante ser honesto al evaluar las pruebas de retroceso y que no se pueden verificar todas las suposiciones de llenado de precio medio con solo un CSV de cerradas
+
+Contexto IA (informativo):
+Es importante ser consciente de que las pruebas de retroceso pueden engañar y que es necesario ser honesto al evaluarlas. No se pueden verificar todas las suposiciones de llenado de precio medio con solo un CSV de cerradas, y es necesario utilizar datos de orden de libro y simuladores para modelar los mecanismos de la bolsa.</summary>
+    <published>2026-09-03T12:54:19+00:00</published>
   </entry>
 </feed>
