@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-07T13:11:16.505559+00:00</updated>
+  <updated>2026-09-08T13:06:10.681575+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,107 +11,107 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html</id>
-    <title>[Economía] La red social en China se está volviendo cada vez más oscura</title>
-    <updated>2026-09-07T13:11:16.506435+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html</id>
+    <title>[Economía] Bombardier resalta su presencia en Estados Unidos tras declaraciones de Trump</title>
+    <updated>2026-09-08T13:06:10.682646+00:00</updated>
     <author>
-      <name>NYT &gt; Business</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html"/>
-    <summary>El Partido Comunista Chino ha dedicado años a hacer que la 'energía positiva' sea la atmósfera dominante en internet chino. Sin embargo, esto ya no parece funcionar. La red social se está volviendo cada vez más oscura y los usuarios están cada vez más frustrados con la censura y la manipulación de la información. La falta de transparencia y la represión de las voces disidentes están contribuyendo a este clima cada vez más sombrío. Los usuarios están cada vez más desilusionados con la red social y buscan alternativas más libres y abiertas.
+    <link href="https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"/>
+    <summary>El fabricante canadiense de aviones, Bombardier, ha respondido a las declaraciones de Donald Trump, quien exigió que la empresa construya aviones en Estados Unidos para acceder al mercado local. La empresa ha destacado que sus trabajadores están ubicados en más de 20 estados y que sus aviones están construidos con componentes estadounidenses. Además, ha anunciado planes para crecer sus actividades defensivas y su red de servicios en el país. El senador Jerry Moran ha expresado su apoyo a la empresa y ha asegurado que su presencia en Wichita, Kansas, es significativa. La situación se produce en un contexto de conflicto comercial entre Estados Unidos y Canadá, con la imposición de tarifas retales por parte de Canadá sobre una variedad de bienes estadounidenses.
 
 Contexto IA (informativo):
-La censura y la manipulación de la información en China han sido un tema de debate en los últimos años. La falta de transparencia y la represión de las voces disidentes han sido particularmente problemáticas. La red social se está volviendo cada vez más oscura y los usuarios están cada vez más frustrados con la falta de libertad de expresión y la censura de contenido.</summary>
-    <published>2026-09-07T09:04:03+00:00</published>
+La declaración de Trump se produce en un contexto de tensión comercial entre Estados Unidos y Canadá, con la imposición de tarifas retales por parte de Canadá sobre una variedad de bienes estadounidenses. El presidente de Canadá, Mark Carney, ha anunciado que su país se prepara para reanudar las negociaciones comerciales con Estados Unidos cuando los estadounidenses estén listos.</summary>
+    <published>2026-09-08T02:05:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1</id>
-    <title>[Economía] AfD de Alemania se compromete a construir sobre el 'resultado de sueño'</title>
-    <updated>2026-09-07T13:11:16.506402+00:00</updated>
+    <id>https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1</id>
+    <title>[Economía] Mistral alcanza un récord de €3bn mientras Europa se esfuerza por mantener el ritmo en la carrera por la inteligencia artificial</title>
+    <updated>2026-09-08T13:06:10.682609+00:00</updated>
     <author>
       <name>International homepage</name>
     </author>
-    <link href="https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1"/>
-    <summary>La coalición AfD de Alemania ha anunciado su intención de seguir adelante con el resultado de las últimas elecciones, que muchos consideran un 'sueño' para la derecha. La coalición ha prometido trabajar para implementar políticas que beneficien a los ciudadanos alemanes y promuevan la estabilidad económica. Sin embargo, algunos críticos argumentan que sus propuestas son extremistas y pueden perjudicar a la sociedad en general. La situación en Alemania sigue siendo incierta, y solo el tiempo dirá si la coalición AfD logrará sus objetivos.
+    <link href="https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1"/>
+    <summary>Mistral ha alcanzado un récord de €3bn en sus finanzas, lo que refleja la presión que Europa se está imponiendo para mantenerse al día en la carrera por la inteligencia artificial. La empresa ha logrado este hito gracias a su compromiso con la innovación y la inversión en tecnología. Esto sugiere que la empresa está bien posicionada para seguir creciendo y liderando en el sector de la inteligencia artificial.
 
 Contexto IA (informativo):
-La coalición AfD ha sido una fuente de controversia en Alemania desde su formación en 2013. Aunque ha ganado votos en las últimas elecciones, su ideología política es considerada de extrema derecha por muchos expertos. La situación en Alemania sigue siendo incierta, y la coalición AfD enfrenta desafíos para ganar la confianza de los ciudadanos.</summary>
-    <published>2026-09-07T10:31:10+00:00</published>
+La competencia por la inteligencia artificial es cada vez más intensa, con empresas como Google, Amazon y Microsoft liderando la carrera. Mistral, sin embargo, ha logrado mantenerse firme y ha demostrado su capacidad para innovar y adaptarse a los cambios del mercado.</summary>
+    <published>2026-09-08T05:00:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html</id>
-    <title>[Economía] Trump afirma haber ganado 'Cientos de Billones de Dólares' en Acciones para EE. UU.</title>
-    <updated>2026-09-07T13:11:16.506368+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html</id>
+    <title>[Economía] El fabricante canadiense de aviones es objetivo de la guerra comercial de Trump</title>
+    <updated>2026-09-08T13:06:10.682576+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"/>
+    <summary>El fabricante canadiense de aviones Bombardier se ha visto envuelto en disputas comerciales con Estados Unidos en el pasado. El presidente Trump amenazó con prohibir que la empresa venda sus productos en el país. La decisión podría tener un impacto significativo en la industria aeronáutica canadiense. El gobierno canadiense ha expresado su oposición a la medida, argumentando que podría dañar la economía del país.
+
+Contexto IA (informativo):
+Esta medida es parte de las sanciones comerciales impuestas por Estados Unidos a Canadá en respuesta a la política de aduana del país. El gobierno canadiense ha rechazado las sanciones y ha prometido tomar medidas legales para proteger los intereses de su industria aeronáutica.</summary>
+    <published>2026-09-08T12:14:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html</id>
+    <title>[Economía] Crude de Brent se acerca a $100 tras ataques a sitios de energía saudíes</title>
+    <updated>2026-09-08T13:06:10.682542+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html"/>
-    <summary>El presidente Donald Trump ha publicado una serie de afirmaciones no verificadas sobre sus ganancias en acciones y otros activos para los Estados Unidos en su plataforma de redes sociales, Truth Social. Aunque no ha proporcionado evidencia para respaldar sus afirmaciones, se menciona que la administración de Trump tomó una participación del 10% en la empresa de semiconductores Intel, que ahora vale más de $50 mil millones. Además, Trump ha lanzado una característica de Truth Social que ofrece acceso anticipado a las decisiones políticas que pueden afectar los mercados financieros, lo que ha generado preocupación entre los senadores y la Comisión de Bolsas y Valores de EE. UU. sobre posibles violaciones de leyes de valores. Trump ha utilizado contenido generado por inteligencia artificial para promocionar sus políticas y ha compartido imágenes que muestran a Irán como un país en declive económico y como un objetivo de la política exterior de EE. UU. Sin embargo, algunos expertos advierten sobre la necesidad de precaución al evaluar la situación económica de Irán. Trump ha compartido imágenes que lo muestran en roles de héroe, como líder de una fuerza espacial, y ha afirmado que EE. UU. debe reafirmar su poder y soberanía en todo el mundo.
+    <link href="https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html"/>
+    <summary>Los precios del petróleo aumentaron tras ataques a instalaciones de energía saudíes, lo que ha aumentado las tensiones entre Estados Unidos e Irán. Los ataques, atribuidos a militantes houthis, han dejado más de 70 personas heridas y han interrumpido operaciones en ciertas instalaciones. Los expertos prevén que la situación se agravará y que los precios del petróleo seguirán subiendo.
 
 Contexto IA (informativo):
-La situación en Irán sigue sin resolver, más de seis meses después de que EE. UU. y Israel lanzaran operaciones militares en el país. La administración de Trump ha tomado medidas para reafirmar la posición de EE. UU. en el Medio Oriente, pero la situación económica de Irán sigue siendo incierta.</summary>
-    <published>2026-09-07T12:09:41+00:00</published>
+La situación en el Medio Oriente sigue siendo tensa tras la respuesta militar de Estados Unidos a ataques a dos barcos de la Marina de los Estados Unidos. La Organización de las Naciones Unidas ha condenado los ataques como una violación de la ley internacional.</summary>
+    <published>2026-09-08T12:23:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html</id>
-    <title>[Economía] Lanzamiento histórico de un rival de SpaceX</title>
-    <updated>2026-09-07T13:11:16.506336+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html"/>
-    <summary>La empresa alemana Isar Aerospace logró alcanzar la órbita baja de la Tierra en su segunda prueba de vuelo, marcando un hito para la industria espacial comercial de Europa. La empresa, que busca aumentar su producción y frecuencia de lanzamientos, afirma que la industria está 'desesperada' por más capacidad de lanzamiento. La empresa tiene un pipeline de más de 10 mil millones de euros y busca expandir su infraestructura de lanzamiento en Europa.
-
-Contexto IA (informativo):
-La empresa Isar Aerospace es considerada una de las startups más prometedoras de Europa, que busca crear una industria de lanzamiento comercial rival a SpaceX. La empresa ha recibido inversión de importantes inversores, incluyendo Porsche y fondos de capital de riesgo.</summary>
-    <published>2026-09-07T12:26:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-07/jefferies-fund-seeks-radiant-world-asset-freeze-in-singapore</id>
-    <title>[Economía] Jefferies Fund solicita congelamiento de activos de Radiant World en Singapur</title>
-    <updated>2026-09-07T13:11:16.506304+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-08/lula-e-flavio-vao-a-eventos-em-meio-a-crise-no-stf-video</id>
+    <title>[Economía] Lula y Flávio Bolsonaro participan de eventos en septiembre en medio de la crisis en la STF</title>
+    <updated>2026-09-08T13:06:10.682456+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-07/jefferies-fund-seeks-radiant-world-asset-freeze-in-singapore"/>
-    <summary>Un fondo de inversión de la empresa Jefferies Financial Group Inc. solicita un congelamiento de activos de la empresa de comercio de hierro Radiant World y su fundador Pinkesh Nahar en Singapur, días después de obtener un orden de congelamiento mundial en un tribunal británico. El fondo de inversión busca proteger sus inversiones en la empresa. La empresa Radiant World ha sido objeto de una investigación por supuesta evasión fiscal. El caso sigue en curso en Singapur.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-08/lula-e-flavio-vao-a-eventos-em-meio-a-crise-no-stf-video"/>
+    <summary>El presidente Lula y su hijo Flávio Bolsonaro asistieron a eventos en septiembre, mientras se está en crisis el Supremo Tribunal Federal (STF) de Brasil. El presidente Lula fue acompañado por Mariana Lumy y Daniel Carvalho. La situación en el STF sigue siendo de gran importancia en el país. La crisis en el tribunal ha sido un tema de gran debate en Brasil. El presidente Lula ha estado en el centro de atención debido a la crisis en el STF. La situación en el país sigue siendo incierta. El presidente Lula ha estado trabajando para resolver la crisis en el STF. La situación en el tribunal sigue siendo de gran importancia para el país. El presidente Lula ha estado en contacto con líderes políticos para tratar de resolver la crisis en el STF. La situación en el país sigue siendo de gran preocupación para muchos brasileños. El presidente Lula ha estado trabajando para encontrar una solución a la crisis en el STF. La situación en el tribunal sigue siendo un tema de gran debate en Brasil. El presidente Lula ha estado en el centro de atención debido a la crisis en el STF. La situación en el país sigue siendo incierta.
 
 Contexto IA (informativo):
-La empresa Jefferies Financial Group Inc. es una filial de la empresa de servicios financieros Jefferies. La empresa Radiant World es una empresa de comercio de hierro con sede en Singapur.</summary>
-    <published>2026-09-07T12:48:51+00:00</published>
+La crisis en el STF ha sido un tema de gran debate en Brasil en los últimos días. El presidente Lula ha estado en el centro de atención debido a la situación en el tribunal. La situación en el país sigue siendo de gran importancia para muchos brasileños.</summary>
+    <published>2026-09-08T12:39:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-07/jio-platforms-said-to-start-marketing-record-india-ipo-next-week</id>
-    <title>[Economía] Jio Platforms anuncia comienzo de la campaña de marketing de su IPO en India a partir la próxima semana</title>
-    <updated>2026-09-07T13:11:16.506271+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-08/xi-urges-uk-to-protect-chinese-investors-in-call-with-burnham</id>
+    <title>[Economía] Xi pide a Reino Unido proteger a inversores chinos</title>
+    <updated>2026-09-08T13:06:10.682422+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-07/jio-platforms-said-to-start-marketing-record-india-ipo-next-week"/>
-    <summary>La empresa de Mukesh Ambani, Jio Platforms Ltd., planea iniciar la campaña de marketing para su oferta pública inicial a partir de la próxima semana, lo que podría hacer de este uno de los listings más grandes de la historia de India. La empresa busca atraer a inversores para financiar sus operaciones y expandirse en el mercado. El IPO de Jio Platforms podría tener un impacto significativo en la economía india y en el mercado de valores. La empresa ha estado trabajando en este proceso durante varios meses y ha obtenido aprobación de la Comisión de Valores de India.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-08/xi-urges-uk-to-protect-chinese-investors-in-call-with-burnham"/>
+    <summary>El presidente chino Xi Jinping ha pedido a la Primera Ministra británica Andy Burnham que proteja los derechos y intereses legítimos de los inversores chinos. Xi enfatizó que los intereses comunes de ambos países superan sus diferencias. La conversación tuvo lugar por teléfono y fue la primera de Xi con un líder británico. El presidente chino enfatizó la importancia de la cooperación bilateral en áreas como el comercio y la inversión. Xi también expresó su disposición a trabajar con el Reino Unido en temas globales, como el cambio climático y la seguridad regional. La conversación con Burnham fue vista como un paso importante para fortalecer las relaciones entre China y Reino Unido.
 
 Contexto IA (informativo):
-El IPO de Jio Platforms es una oportunidad importante para la empresa y para los inversores que buscan invertir en empresas emergentes en la región. La empresa ha demostrado una creciente demanda de sus servicios y ha establecido una sólida base de operaciones en India y en otros países.</summary>
-    <published>2026-09-07T12:50:51+00:00</published>
+La conversación con Burnham fue la primera de Xi con un líder británico y se considera un paso importante para fortalecer las relaciones entre China y Reino Unido. La reunión también tuvo lugar en un momento en que las relaciones entre ambos países están siendo evaluadas.</summary>
+    <published>2026-09-08T12:53:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library</id>
-    <title>[Data Science] Switchyard: La biblioteca de routing abierta de NVIDIA</title>
-    <updated>2026-09-07T13:11:16.506238+00:00</updated>
+    <id>https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/</id>
+    <title>[Data Science] Análisis Lineal de Discriminación (ALD) en la Vida Real: Reducción de Dimensionalidad en un Conjunto de Datos de Vivienda</title>
+    <updated>2026-09-08T13:06:10.682382+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library"/>
-    <summary>NVIDIA NeMo Switchyard es una capa de routing abierta que permite a los agentes de aprendizaje automático (AI) elegir el modelo más adecuado para cada solicitud. Esto reduce el costo y la latencia sin sacrificar la calidad. El tutorial muestra cómo construir un router de dos modelos y avanzar hacia la ruta de contenido consciente. El router selecciona el modelo objetivo y envía la solicitud. El tutorial explica cómo instalar y configurar Switchyard, y cómo enviar solicitudes a través del router. El resultado es una mayor eficiencia y una menor latencia en las solicitudes de aprendizaje automático.
+    <link href="https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/"/>
+    <summary>El ALD es una técnica de aprendizaje supervisado utilizado para destacar los componentes centrales o patrones en los datos. En este artículo, exploraremos cómo el ALD se aplica a un conjunto de datos de vivienda real, cómo se utiliza para reducir la dimensionalidad de un conjunto de datos y identificar las fronteras de separación entre las clases. El ALD es una técnica estadística, típicamente aplicada en la fase de preparación de datos de problemas de clasificación de máquina. Se utiliza para reducir la dimensionalidad de un conjunto de datos y resaltar las características del datos que mejor garantizan la separabilidad de sus diferentes clases. El ALD es una técnica muy útil en la clasificación de imágenes, ya que reduce el número de características que se pueden utilizar para distinguir entre clases, lo que permite utilizar un algoritmo de aprendizaje de máquina en un espacio de características más pequeño. El ALD se refiere a la técnica como Análisis Lineal de Discriminación o Análisis Discriminante Lineal, y se le atribuye a Ronald A. Fisher, quien desarrolló el criterio que el ALD busca maximizar. El criterio de Fisher es la relación entre la varianza entre clases y la varianza dentro de clases. El objetivo del ALD es reducir la dimensionalidad de un conjunto de datos con alta dimensionalidad, como un conjunto de datos con cientos o miles de características, y representarlo en un espacio de características más pequeño. Después de aplicar el ALD, no se obtienen características, sino que se obtienen discriminantes lineales que encoden las características originales del datos. Este punto es crucial, ya que el ALD reduce la cantidad de información que se utiliza para describir el conjunto de datos original, ya que originalmente se tenía un gran número de características y después se tienen solo unos pocos discriminantes. Sin embargo, las características originales del conjunto de datos se preservan, lo que significa que el conjunto de datos se codifica en un espacio de características más pequeño. El ALD garantiza que las clases en el conjunto de datos sean lo más separables posible, lo que permite separar los puntos de datos en cada clase lo más posible. Sin embargo, el ALD requiere algunas suposiciones, como que los datos son linealmente separables, que los datos siguen una distribución normal y que hay una matriz de covarianza compartida entre todas las clases. Si se intenta aplicar el ALD a un conjunto de datos que no es linealmente separable, es posible que los discriminantes no sean la mejor representación de las características centrales del conjunto de datos. El ALD es conocido por fallar en capturar relaciones no lineales y estructuras de manifiesto en los datos.
 
 Contexto IA (informativo):
-Switchyard es una herramienta útil para los desarrolladores de aprendizaje automático que buscan mejorar la eficiencia y la calidad de sus aplicaciones. La biblioteca de routing abierta de NVIDIA NeMo permite a los agentes de aprendizaje automático elegir el modelo más adecuado para cada solicitud, lo que reduce el costo y la latencia sin sacrificar la calidad.</summary>
-    <published>2026-09-04T14:00:07+00:00</published>
+El ALD es una técnica muy útil en la clasificación de imágenes, ya que reduce el número de características que se pueden utilizar para distinguir entre clases, lo que permite utilizar un algoritmo de aprendizaje de máquina en un espacio de características más pequeño. El ALD se refiere a la técnica como Análisis Lineal de Discriminación o Análisis Discriminante Lineal, y se le atribuye a Ronald A. Fisher, quien desarrolló el criterio que el ALD busca maximizar.</summary>
+    <published>2026-09-06T12:00:02+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/</id>
     <title>[Data Science] Text Watermarking en Python: Cazar a Quien Copia Tu Escritura</title>
-    <updated>2026-09-07T13:11:16.506207+00:00</updated>
+    <updated>2026-09-08T13:06:10.682348+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -125,7 +125,7 @@ La text watermarking es una técnica que se ha utilizado durante mucho tiempo pa
   <entry>
     <id>https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/</id>
     <title>[Data Science] ¿Por qué fallan la mayoría de los sistemas de agentes multiagregados incluso cuando pasan la evaluación?</title>
-    <updated>2026-09-07T13:11:16.506174+00:00</updated>
+    <updated>2026-09-08T13:06:10.682314+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -137,51 +137,37 @@ La evaluación de la salida final es a menudo insuficiente para detectar errores
     <published>2026-09-07T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/06/antonelli-s-dream-day-at-monza-brings-ultimate-f1-glory-closer</id>
-    <title>[Fórmula 1] Un sueño hecho realidad en Monza</title>
-    <updated>2026-09-07T13:11:16.506141+00:00</updated>
+    <id>https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/</id>
+    <title>[Data Science] Codié un App de Karaoke para Ukulele en Solo Dos Horas y Me Arrepentí de ello al Día siguiente</title>
+    <updated>2026-09-08T13:06:10.682282+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://racer.com/2026/09/06/antonelli-s-dream-day-at-monza-brings-ultimate-f1-glory-closer"/>
-    <summary>Kimi Antonelli se acerca a la gloria de la F1 con una victoria emocionante en Monza. Ludovico Scarfiotti ya no es el último ganador de la carrera en casa, pero Antonelli ha dado un paso importante hacia el fin del último título de campeón italiano, que Alberto Ascari logró 73 años atrás. La victoria de Antonelli en el Templo de la Velocidad de Monza fue un paso crucial hacia el logro de este objetivo.
+    <link href="https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/"/>
+    <summary>El autor, un programador experimentado, creó un app de karaoke para ukulele en solo dos horas utilizando la inteligencia artificial. Sin embargo, se sorprendió al descubrir que el costo de mantener el app era muy alto, con un gasto diario de $52. Esto lo llevó a cuestionar si el app era rentable y si estaba resolviendo un problema real. El autor se dio cuenta de que la app estaba diseñada principalmente para beginners que necesitan ayuda para inferir acordes, pero que una vez que dominan el instrumento, la app ya no es necesaria. Esto lo llevó a concluir que el mercado que inicialmente imaginó era más pequeño de lo que pensaba.
 
 Contexto IA (informativo):
-La última victoria de un piloto italiano en la F1 fue en 1949, cuando Alberto Ascari se convirtió en el último campeón del mundo. Desde entonces, no se ha visto un título de campeón italiano en la categoría.</summary>
-    <published>2026-09-06T19:06:19+00:00</published>
+El autor se dio cuenta de que el costo de mantener el app era muy alto y que no estaba resolviendo un problema real una vez que dominó el instrumento. Esto lo llevó a reconsiderar su estrategia y a buscar nuevas oportunidades para monetizar el app.</summary>
+    <published>2026-09-07T14:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/06/bell-shatters-drought-with-chase-opening-cup-win-at-darlington</id>
-    <title>[Fórmula 1] Bell rompe la sequía con victoria en la apertura de la Copa Chase en Darlington</title>
-    <updated>2026-09-07T13:11:16.506108+00:00</updated>
+    <id>https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/</id>
+    <title>[Data Science] Context Windows No Saben Cuando Están Válidos — Leí una Capa de Valididad que Lo Hace</title>
+    <updated>2026-09-08T13:06:10.682248+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://racer.com/2026/09/06/bell-shatters-drought-with-chase-opening-cup-win-at-darlington"/>
-    <summary>Christopher Bell logró su primera victoria de la temporada, rompiendo una sequía de 33 carreras sin ganar. Su victoria en la Cook Out Southern 500 fue el resultado de siete intentos anteriores, un récord en la temporada. Bell, considerado un contendiente constante a la corona, aprovechó el momento perfecto para celebrar su victoria. La victoria de Bell fue un paso importante en su búsqueda del título. La victoria de Bell también refuerza su posición en la clasificación de la Copa Chase. La victoria de Bell es un ejemplo de su habilidad para ganar en diferentes condiciones.
+    <link href="https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/"/>
+    <summary>Un desarrollador creó una capa de valididad para contextos que puede detectar si la información es aún válida. La capa de valididad utiliza dos ejecutores deterministas que comprobaban la validez de la información antes de actuar. El resultado mostró que la tamaño de la información era el principal factor en el desperdicio de recursos. El desarrollador también encontró que la falta de validación de la información puede llevar a decisiones incorrectas. La capa de valididad puede ayudar a evitar este problema, permitiendo a los sistemas actuar con confianza en la información disponible.
 
 Contexto IA (informativo):
-La victoria de Bell en la Cook Out Southern 500 fue un evento emocionante que atrajo a una gran cantidad de espectadores. La carrera fue una prueba de resistencia para los conductores, que tuvieron que enfrentar condiciones climáticas adversas. La victoria de Bell es un recordatorio de que la perseverancia y la determinación son clave para el éxito en el mundo del deporte automovilístico.</summary>
-    <published>2026-09-07T01:42:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/</id>
-    <title>[Fórmula 1] Lo que no hace sentido sobre el conflicto entre Hamilton y Leclerc en el GP de Italia</title>
-    <updated>2026-09-07T13:11:16.506076+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/"/>
-    <summary>Aunque los enfrentamientos entre pilotos de equipo no son nuevos en la historia de la Fórmula 1, el incidente entre Charles Leclerc y Lewis Hamilton en Monza parecía relativamente suave en comparación con otros casos. Sin embargo, lo que sucedió entre los dos conductores de Ferrari en el GP de Italia fue particularmente interesante. La tensión entre ellos se reflejó en su comportamiento tanto en la pista como fuera de ella. Es importante destacar que ambos pilotos mantuvieron su comportamiento profesional, lo que puede haber contribuido a la falta de consecuencias para uno de ellos. En general, el incidente fue un recordatorio de que, aunque los pilotos deben mantener una actitud positiva y respetuosa, también es importante abordar las tensiones de manera efectiva para evitar situaciones similares en el futuro.
-
-Contexto IA (informativo):
-En la historia de la Fórmula 1, los enfrentamientos entre pilotos de equipo han sido comunes, pero a menudo han sido más intensos que el incidente entre Leclerc y Hamilton en Monza. Sin embargo, es importante recordar que ambos pilotos mantuvieron su profesionalismo durante el incidente, lo que puede haber contribuido a la falta de consecuencias para uno de ellos.</summary>
-    <published>2026-09-07T10:35:13+00:00</published>
+La capa de valididad es una solución que puede ayudar a evitar decisiones incorrectas basadas en información antigua. Al detectar la validez de la información, los sistemas pueden actuar con confianza y evitar desperdiciar recursos en acciones que ya no son relevantes.</summary>
+    <published>2026-09-08T11:00:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853410/</id>
     <title>[Fórmula 1] Cómo Monza introdujo el fútbol oval-like de la carrera de esguince a F1</title>
-    <updated>2026-09-07T13:11:16.506043+00:00</updated>
+    <updated>2026-09-08T13:06:10.682213+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
@@ -193,157 +179,227 @@ El fútbol oval-like de la carrera de esguince es un estilo de carrera en el que
     <published>2026-09-07T11:42:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853403/</id>
-    <title>[Fórmula 1] Cómo Monza introdujo el fútbol oval-like de la carrera de esguince a F1</title>
-    <updated>2026-09-07T13:11:16.506007+00:00</updated>
+    <id>https://racer.com/2026/09/07/darlington-puts-chase-contenders-to-the-test-from-the-outset</id>
+    <title>[Fórmula 1] Darlington pone a los contendientes de Chase a prueba desde el principio</title>
+    <updated>2026-09-08T13:06:10.682182+00:00</updated>
+    <author>
+      <name>RACER</name>
+    </author>
+    <link href="https://racer.com/2026/09/07/darlington-puts-chase-contenders-to-the-test-from-the-outset"/>
+    <summary>La noche del domingo fue intensa para Ryan Blaney y su equipo de Penske, que describió el evento como 'desperdido'. La pista de Darlington, conocida como 'Too Tough to Tame', cumplió con su reputación al causar problemas a varios contendientes de la clasificación de Chase. Los problemas técnicos y accidentes afectaron a varios pilotos, incluyendo a Blaney, que terminó en la 10ª posición. La noche fue un recordatorio de que la temporada de la NASCAR es una prueba de resistencia y habilidad.
+
+Contexto IA (informativo):
+La noche del domingo fue una prueba para los pilotos y equipos, que deben estar preparados para enfrentar las condiciones adversas de la pista. La victoria de Blaney fue un buen comienzo para su equipo, pero también fue un recordatorio de que la temporada de la NASCAR es una lucha por el título.</summary>
+    <published>2026-09-07T15:34:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853540/</id>
+    <title>[Fórmula 1] Hadjar no participará en su tercera carrera de F1 debido a lesión</title>
+    <updated>2026-09-08T13:06:10.682151+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853540/"/>
+    <summary>Isack Hadjar necesita más tiempo para recuperarse de su lesión en el brazo, lo que lo impedirá participar en su tercera carrera consecutiva en el Gran Premio de España de F1, que se llevará a cabo en Madrid este fin de semana. Liam Lawson regresará al RB22 para partner Max Verstappen, mientras que Yuki Tsunoda obtendrá otra carrera con Racing Bulls. La decisión se tomó porque Isack's recovery continues to progress
+
+Contexto IA (informativo):
+El francés había sido diagnosticado con una lesión en el brazo que lo había mantenido fuera de las carreras desde el Gran Premio de Emilia-Romaña. Su equipo, AlphaTauri, había anunciado que no lo incluirían en el elenco de pilotos para el resto de la temporada.</summary>
+    <published>2026-09-07T17:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/</id>
+    <title>[Fórmula 1] Juan Pablo Montoya: Mercedes deberían haber doblado a George Russell y Kimi Antonelli en Monza</title>
+    <updated>2026-09-08T13:06:10.682120+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853403/"/>
-    <summary>En la temporada de F1 de 2026, las regulaciones han cambiado drásticamente el estilo de carrera en varios de los 24 circuitos del calendario. El festival de esguince de Monza fue el ejemplo más dramático hasta ahora. Se ha creado un nuevo término para describir este año's espectáculo, llamado yo-yo racing, donde los coches pueden realizar pasadas de adelante fácilmente utilizando el aumento de potencia de la batería. Sin embargo, esto ha llevado a una serie de problemas de seguridad. Los pilotos deben ahora ser más cuidadosos al acercarse a otros coches para evitar colisiones. La FIA ha anunciado que está trabajando en una nueva regulación para evitar este tipo de situaciones en el futuro. Los coches de F1 ya están siendo actualizados con tecnología de frenado de emergencia para mejorar la seguridad. La FIA también ha anunciado que se realizará un examen exhaustivo de las regulaciones de F1 para asegurarse de que sean seguras y justas para todos los pilotos. Los coches de F1 ya están siendo actualizados con tecnología de frenado de emergencia para mejorar la seguridad. La FIA también ha anunciado que se realizará un examen exhaustivo de las regulaciones de F1 para asegurarse de que sean seguras y justas para todos los pilotos.
+    <link href="https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/"/>
+    <summary>El expiloto de Fórmula 1 Juan Pablo Montoya cree que Mercedes comprometió la victoria de George Russell en el Gran Premio de Italia al no doblar a sus pilotos bajo la seguridad virtual. Mercedes logró una 1-2 en Monza liderada por el héroe local Kimi Antonelli, quien se recuperó de la 19ª posición en la grilla para convertirse en el primer ganador italiano en la pista desde 1966. Sin embargo, Russell controló las fases iniciales de la carrera
 
 Contexto IA (informativo):
-El fútbol oval-like de la carrera de esguince es un estilo de carrera en el que los coches se acercan muy estrechamente entre sí, lo que puede llevar a problemas de seguridad. La FIA ha estado trabajando en una nueva regulación para evitar este tipo de situaciones en el futuro.</summary>
-    <published>2026-09-07T11:43:02+00:00</published>
+El expiloto colombiano Juan Pablo Montoya expresó su sorpresa por la decisión de Mercedes de no doblar a sus pilotos bajo la seguridad virtual, lo que permitió a Kimi Antonelli ganar el Gran Premio de Italia. Montoya cree que esta decisión fue un error y que podría haber cambiado el resultado de la carrera.</summary>
+    <published>2026-09-08T08:00:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/even-with-aduo-2-upgrade-ferrari-is-missing-pure-power/10853396/</id>
-    <title>[Fórmula 1] A pesar del upgrade ADUO 2, Ferrari sigue sin potencia pura</title>
-    <updated>2026-09-07T13:11:16.505974+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/</id>
+    <title>[Fórmula 1] La actualización de ADUO 2 de Ferrari no es un 'cambiar de juego' para Haas</title>
+    <updated>2026-09-08T13:06:10.682088+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/even-with-aduo-2-upgrade-ferrari-is-missing-pure-power/10853396/"/>
-    <summary>El principal de la escudería Ferrari, Fred Vasseur, afirma que la Scuderia nunca alcanzará el nivel de potencia de Mercedes en 2026. Aunque el equipo alemán ha disfrutado de la potencia unitaria más potente desde que F1 cambió a nuevas regulaciones técnicas este año, el sistema de ADUO proporcionó una oportunidad para que los fabricantes de vehículos...
+    <link href="https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/"/>
+    <summary>Oliver Bearman afirma que la actualización de ADUO 2 de Ferrari es 'un paso mucho más pequeño' que el nuevo chassis de Haas. La Prancing Horse introdujo su segunda y última actualización de unidad de potencia de la temporada 2026, gracias al sistema de oportunidades de desarrollo y actualización adicional. Una de estas unidades de potencia se entregó a Haas para el Gran Premio de Italia, y se instaló en el coche de Bearman. La actualización representó un avance en la eficiencia del motor, pero no cambió significativamente el rendimiento del equipo.
 
 Contexto IA (informativo):
-El sistema de ADUO fue diseñado para permitir a los fabricantes de vehículos mejorar su potencia unitaria, pero parece que Ferrari no ha logrado aprovechar al máximo esta oportunidad.</summary>
-    <published>2026-09-07T12:55:02+00:00</published>
+La actualización de ADUO 2 de Ferrari se considera un paso importante en la mejora de la eficiencia del motor, pero no representa un cambio significativo en el rendimiento del equipo. La Prancing Horse ha estado trabajando en la actualización durante varios meses, y la entrega de la unidad de potencia a Haas fue un paso importante en el proceso.</summary>
+    <published>2026-09-08T08:18:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8</id>
-    <title>[Tecnología] Bentley Torcal EV intenta equilibrar autenticidad con sonidos de V8 falsos</title>
-    <updated>2026-09-07T13:11:16.505940+00:00</updated>
+    <id>https://racer.com/2026/09/08/how-two-sliding-doors-moments-shaped-wec-s-lone-star-le-mans</id>
+    <title>[Fórmula 1] Dos momentos de puerta giratoria definirán la Lone Star Le Mans 2026</title>
+    <updated>2026-09-08T13:06:10.682055+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RACER</name>
     </author>
-    <link href="https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8"/>
-    <summary>Las vehículos eléctricas ofrecen una experiencia de conducción suave y silenciosa, lo que las convierte en una opción ideal para el segmento de lujo de automóviles. La Bentley Torcal, un SUV espacioso que comparte plataforma con el Porsche Cayenne eléctrico, se prepara para su debut. Recientemente pude disfrutar de una prueba de conducción en una versión preproducción cubierta de camuflaje para experimentar su carácter antes de su estreno previsto a finales de mes. El Torcal ofrece una experiencia de conducción imponente y espaciosa, lo que lo convierte en una opción atractiva para aquellos que buscan un vehículo de lujo. La Torcal también se destaca por su capacidad de manejo y su comodidad interior. En resumen, la Bentley Torcal es un SUV eléctrico que ofrece una experiencia de conducción única y atractiva para aquellos que buscan un vehículo de lujo y espacioso.
+    <link href="https://racer.com/2026/09/08/how-two-sliding-doors-moments-shaped-wec-s-lone-star-le-mans"/>
+    <summary>La edición de 2026 de la Lone Star Le Mans se recordará como el gran final de dos momentos de puerta giratoria en Hypercar. El primer momento ocurrió antes de la primera pausa de seguridad, cuando el automóvil de pole No. 51 de Ferrari, que estaba en la punta de la clasificación, abandonó en las pit-lanes después de...
 
 Contexto IA (informativo):
-En un mercado cada vez más competitivo, las marcas de lujo están buscando formas de diferenciarse entre sí. La Bentley Torcal es una de las opciones que se presentan como una alternativa a los otros SUV de lujo en el mercado.</summary>
-    <published>2026-09-07T11:00:00+00:00</published>
+El evento fue una prueba de resistencia para los pilotos y los equipos, que tuvieron que enfrentar condiciones climáticas adversas y una competencia apasionada.</summary>
+    <published>2026-09-08T12:26:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/</id>
-    <title>[Tecnología] Cada teléfono Samsung viene con esta característica única</title>
-    <updated>2026-09-07T13:11:16.505907+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/"/>
-    <summary>Si elijes un teléfono Android sobre un iPhone, hay ciertas características que vienen como estándar como parte de Android. Luego, hay otras características específicas de ciertos fabricantes, ya que cada fabricante de teléfonos Android pone su propio toque en el software. El panel de borde de Samsung es una característica que no es tan conocida y que se puede personalizar para obtener un mejor uso de tu teléfono. El panel de borde es como una barra de atajos personalizable que te da acceso rápido a otras partes de tu teléfono. Puedes personalizarlo para que se adapte a tus necesidades y mejorar tu experiencia de usuario.
-
-Contexto IA (informativo):
-El panel de borde es una característica que se puede encontrar en algunos teléfonos Samsung, pero no es tan conocida como otras características de Android. Si tienes un teléfono Galaxy y nunca has visto el panel de borde, o si lo usaste una vez pero ya no lo recuerdas, aquí te explicamos cómo funciona y cómo puedes personalizarlo para obtener el mejor uso de tu teléfono.</summary>
-    <published>2026-09-07T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2248933/ios-27-beta-digital-id-glitch-passport-deactivated/</id>
-    <title>[Tecnología] Glitch en la Digital ID de iOS 27 beta causó preocupación a viajeros</title>
-    <updated>2026-09-07T13:11:16.505874+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2248933/ios-27-beta-digital-id-glitch-passport-deactivated/"/>
-    <summary>Un problema de bugs en la versión beta de iOS 27 afectó a los usuarios de la función Digital ID, que permite agregar una versión digital del pasaporte al Wallet. Aunque el problema es fácil de solucionar, es un recordatorio de que la software beta no es recomendable para dispositivos diarios. Se recomienda evitar instalar betas o solo instalarlas en un teléfono de prueba. La solución es reagregar el pasaporte al Wallet y volver a utilizar la Digital ID sin problemas.
-
-Contexto IA (informativo):
-La función Digital ID fue introducida en iOS 26 en 2025 y se utiliza para facilitar el boarding de vuelos. Aunque no reemplaza el pasaporte físico, puede ser utilizado en más de 250 aeropuertos de EE. UU. para la inspección de seguridad. El problema de bugs en la versión beta de iOS 27 es un recordatorio de que la software beta puede tener problemas y no es recomendable para dispositivos diarios.</summary>
-    <published>2026-09-07T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone</id>
-    <title>[Tecnología] ¿Por qué el iPhone va a costar más</title>
-    <updated>2026-09-07T13:11:16.505840+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"/>
-    <summary>Cuando Apple anuncia la próxima generación de iPhones esta semana, es probable que vengan con un precio más alto. Un aumento de precio de la empresa de cadena de suministro sería el signo más claro de que los costos de memoria han vuelto a ser inevitables. La escasez de memoria no tiene fin y está reemplazando la declinación de los costos de memoria que ayudó a hacer que los dispositivos electrónicos fueran más potentes sin hacerlos más caros. Los términos "costos de memoria" y "falta de memoria" aparecieron en 473 transcripciones de empresas del último trimestre, según datos proporcionados por AlphaSense.
-
-Contexto IA (informativo):
-El aumento de precio sería el resultado directo de la escasez de memoria, que ha vuelto a aumentar en los últimos meses. La empresa ha estado trabajando para reducir la brecha, pero no ha logrado hacerlo. El precio de los dispositivos podría aumentar en un 10-20% en comparación con la generación anterior.</summary>
-    <published>2026-09-07T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/live-updates-from-apples-surprise-and-shine-iphone-event-2000806403</id>
-    <title>[Tecnología] Actualizaciones en vivo del evento de Apple 'Surprise and Shine' iPhone</title>
-    <updated>2026-09-07T13:11:16.505803+00:00</updated>
+    <id>https://gizmodo.com/star-trek-fans-rejoice-heres-a-collection-that-will-take-your-kitchen-where-no-one-has-gone-before-2000801055</id>
+    <title>[Tecnología] Felicidades, fanáticos de Star Trek: Aquí tienes una colección que te llevará a tu cocina a un lugar sin precedentes</title>
+    <updated>2026-09-08T13:06:10.682020+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/live-updates-from-apples-surprise-and-shine-iphone-event-2000806403"/>
-    <summary>Apple anuncia su nueva era con el CEO John Ternus al frente. El primer teléfono foldable se espera que se presente el miércoles 9 de septiembre en el evento 'Surprise and Shine' en el parque Apple. Además, se espera la presentación del iPhone 18 Pro y 18 Pro Max, Apple Watch Series 12 y Ultra 4, y AirPods 5. Los reporteros Raymond Wong y Adriano Contreras cubrirán el evento en vivo desde el Steve Jobs Theater. El CEO Ternus expresó en un memorando interno que la presentación será 'fenomenal'.
+    <link href="https://gizmodo.com/star-trek-fans-rejoice-heres-a-collection-that-will-take-your-kitchen-where-no-one-has-gone-before-2000801055"/>
+    <summary>En el siglo XXV, no se necesita cocina. Sin embargo, en el siglo XXI, los chefs audaces pueden explorar el espacio con la ayuda de una colección limitada de Le Creuset que incluye 12 piezas de cocina inspiradas en Star Trek. La colección celebra el espíritu de descubrimiento de la franquicia con piezas como un olla de estufa con la forma de la USS Enterprise, un braiser klingón y una bandeja de casserole inspirada en la nave espacial Galileo. La colección incluye piezas de cocina de alta calidad y diseños exclusivos que homenajean a los personajes más queridos de la franquicia. Con esta colección, los chefs pueden explorar nuevos sabores y llevar su cocina a nuevas dimensiones
 
 Contexto IA (informativo):
-El evento 'Surprise and Shine' es una referencia a la presentación de Steve Jobs en 1997, conocida como la 'presentación de la Macintosh iMac'. La empresa ha mantenido este estilo de eventos desde entonces, caracterizados por una gran expectación y una presentación teatral.</summary>
-    <published>2026-09-07T12:30:24+00:00</published>
+La colección de Le Creuset x Star Trek es una celebración del 60 aniversario de la franquicia. La colección incluye piezas de cocina que reflejan el espíritu de aventura y descubrimiento de Star Trek, y está diseñada para inspirar a los chefs a explorar nuevos sabores y técnicas culinarias.</summary>
+    <published>2026-09-08T11:14:04+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/doring/a-torrent-client-that-works-on-your-iphone-48h8</id>
-    <title>[Programación] Un cliente de torrent que funciona en iPhone</title>
-    <updated>2026-09-07T13:11:16.505762+00:00</updated>
+    <id>https://gizmodo.com/gary-oldman-teases-the-identity-of-amazons-new-james-bond-2000808316</id>
+    <title>[Tecnología] El próximo James Bond será interpretado por Jack Lowden</title>
+    <updated>2026-09-08T13:06:10.681988+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/gary-oldman-teases-the-identity-of-amazons-new-james-bond-2000808316"/>
+    <summary>Gary Oldman confirmó que Amazon ha elegido a Jack Lowden para interpretar al próximo James Bond, aunque no ha anunciado oficialmente la noticia. Lowden es un co-estrella de la serie Slow Horses y ha sido mencionado como un posible candidato para el papel. La producción de la película está en curso y se espera que se anuncie pronto la noticia oficial.
+
+Contexto IA (informativo):
+La noticia fue confirmada por Gary Oldman durante una entrevista con THR, y aunque no se ha anunciado oficialmente, Lowden es un candidato muy probable para el papel. La producción de la película está en curso y se espera que se anuncie pronto la noticia oficial.</summary>
+    <published>2026-09-08T11:28:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus</id>
+    <title>[Tecnología] TVs LG capturando espionaje incluso cuando están apagados o en modo de espera</title>
+    <updated>2026-09-08T13:06:10.681954+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"/>
+    <summary>Según un informe de la canal de YouTube Gamers Nexus, las TVs inteligentes LG están constantemente registrando y subiendo datos sobre los propietarios y sus hogares, incluso cuando están apagadas o en modo de espera. Estas TVs escuchan las señales de audio a través de sus micrófonos y reconocen el contenido de video y audio para identificar exactamente qué está viendo en cada entrada de TV. Un equipo de investigadores, que incluyó a Gamers Nexus, a otros canales de YouTube y expertos en seguridad independientes, realizó una prueba en LG OLEDs de venta al por mayor. Los capturas de paquetes mostraron que las TVs estaban escaneando la red local de área para detectar dispositivos cercanos, como teléfonos inteligentes y otros dispositivos de tecnología
+
+Contexto IA (informativo):
+Este hallazgo ha generado preocupación entre los usuarios de las TVs LG, quienes buscan saber si sus dispositivos están siendo utilizados para fines de espionaje. La investigación de Gamers Nexus es solo el último en señalar problemas de seguridad en las TVs inteligentes LG.</summary>
+    <published>2026-09-08T11:30:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2250106/anker-smart-display-charger-what-does-screen-do/</id>
+    <title>[Tecnología] ¿Qué es el cargador 'dispositivo inteligente' Anker y qué hace esa pantalla?</title>
+    <updated>2026-09-08T13:06:10.681921+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2250106/anker-smart-display-charger-what-does-screen-do/"/>
+    <summary>El cargador 'dispositivo inteligente' Anker es una serie de cargadores de pared que incluyen una pantalla que muestra información sobre el cargado, como la temperatura, el modo de carga y el progreso de la batería. La pantalla también tiene un aspecto divertido con un 'buddy' digital que interactúa con el usuario. Los cargadores Anker también incluyen tecnologías de seguridad y optimización de la batería, como PowerIQ y ActiveShield, que ayudan a cargar dispositivos más rápidamente y de manera segura.
+
+Contexto IA (informativo):
+Anker es una empresa que ha estado innovando en la creación de cargadores y accesorios para dispositivos electrónicos durante años. La empresa ha lanzado una variedad de productos, incluyendo proyectores portátiles y dispositivos inteligentes para el hogar, y ha mantenido su enfoque en la creación de cargadores de alta calidad.</summary>
+    <published>2026-09-08T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus</id>
+    <title>[Tecnología] Apple anuncia 'Fold' y sus competidores preguntan '¿cómo ancho?'</title>
+    <updated>2026-09-08T13:06:10.681886+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus"/>
+    <summary>La primera presentación de hardware de el nuevo CEO de Apple, John Ternus, ha demostrado la influencia de la empresa en la industria. Se espera que Apple lance su primer teléfono foldable mañana, siete años después de que Samsung lanzara el Galaxy Fold. Aunque Apple puede estar un poco retrasada en el mercado, el buildup para este lanzamiento muestra que la empresa ha heredado una empresa que es tan influyente como nunca ha sido. El evento de lanzamiento de iPhone mañana probablemente será diferente al que estamos acostumbrados. Se espera que algunos modelos de iPhone 18 lleguen tarde, pero los Pros llegarán primero, mientras que los modelos regulares 18 se supone que se lanzarán a principios del próximo año. Los rumores y las filtraciones han sugerido consistentemente que Apple lanzará un teléfono foldable en lugar de los modelos 18. La noticia completa se puede leer en The Verge.
+
+Contexto IA (informativo):
+El evento de lanzamiento de iPhone de Apple es una oportunidad para que la empresa muestre su capacidad para innovar y adaptarse a los cambios en el mercado. La influencia de Apple en la industria es un tema de interés para muchos, y el lanzamiento de su primer teléfono foldable es un paso importante en esta dirección.</summary>
+    <published>2026-09-08T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2250108/how-to-update-gpu-drivers-windows-11/</id>
+    <title>[Tecnología] Cómo actualizar los drivers de la tarjeta gráfica en Windows 11</title>
+    <updated>2026-09-08T13:06:10.681848+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2250108/how-to-update-gpu-drivers-windows-11/"/>
+    <summary>Los actualizaciones de los drivers de la tarjeta gráfica son importantes, pero encontrarlas puede ser confuso. Mantenerlos actualizados es una buena manera de asegurar que los componentes internos de tu computadora funcionen óptimamente. Las tarjetas gráficas suelen recibir las actualizaciones más, especialmente con las nuevas versiones de los juegos que requieren una actualización del driver para obtener el rendimiento óptimo más alto. Sin embargo, encontrar el lugar correcto para obtenerlas en tu computadora de Windows puede ser confuso. Si no has actualizado los drivers de tu tarjeta gráfica en un rato, navegar a Configuraciones &gt; Actualizaciones de Windows y hacer clic en Verificar actualizaciones te permitirá obtener las actualizaciones disponibles y instalarlas. Sin embargo, también puedes verificar las actualizaciones de los drivers de la tarjeta gráfica a través de otra herramienta útil. Abre el menú de inicio y busca por Device Manager. Aquí encontrarás una lista de todos los hardware conectados a tu computadora. Expande la sección de adaptadores de pantalla y haz clic con el botón derecho en el nombre de tu tarjeta gráfica. Es probable que sea una marca como AMD, NVIDIA o Intel. Navega a la pestaña de Driver y haz clic en Actualizar Driver y selecciona Buscar automáticamente los drivers. Aunque esta es una forma útil de manejar los drivers desactualizados, Windows Update no tiene la mejor reputación con cómo maneja los drivers de la tarjeta gráfica. Si encuentra y instala una versión que está varios lanzamientos atrás de lo que está disponible directamente de la fabricante, podrías estar perdiendo las últimas mejoras de rendimiento y correcciones de errores. Si tienes un poco más de tiempo en tus manos, es recomendable que descargues los últimos drivers directamente de la fabricante de tu tarjeta gráfica. Utilizando el software de acompañamiento de tu GPU
+
+Contexto IA (informativo):
+Es importante recordar que las actualizaciones de los drivers de la tarjeta gráfica no siempre son necesarias, y en algunos casos pueden causar problemas de rendimiento o incluso crashes de juegos. Sin embargo, mantenerlos actualizados es una buena manera de asegurar que tu computadora funcione óptimamente.</summary>
+    <published>2026-09-08T12:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=l7DCwcWmfAY</id>
+    <title>[Programación] Implementando el algoritmo de multiplicación de Karatsuba en un ordenador de 8 bits</title>
+    <updated>2026-09-08T13:06:10.681812+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://www.youtube.com/watch?v=l7DCwcWmfAY"/>
+    <summary>El autor presentó una implementación del algoritmo de multiplicación de Karatsuba en un ordenador de 8 bits TTL. En el video, se explica el algoritmo y se analiza las ventajas de velocidad que ofrece. El autor es /u/MichaelKamprath y se puede encontrar el video en el enlace proporcionado.
+
+Contexto IA (informativo):
+El autor es un entusiasta de la electrónica y ha creado su propio ordenador de 8 bits. La implementación del algoritmo de multiplicación de Karatsuba es un logro interesante en este contexto.</summary>
+    <published>2026-09-07T18:40:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=NMruXY3TrpI</id>
+    <title>[Programación] Afrontar Black Friday: 329 mil millones de solicitudes con Falcon</title>
+    <updated>2026-09-08T13:06:10.681776+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://www.youtube.com/watch?v=NMruXY3TrpI"/>
+    <summary>Google anuncia que su servicio Falcon ha procesado 329 mil millones de solicitudes durante Black Friday. Este logro se debe a la capacidad de Falcon para manejar grandes cantidades de tráfico. La empresa no ha proporcionado detalles sobre la naturaleza de las solicitudes, pero destaca la eficiencia de su sistema.
+
+Contexto IA (informativo):
+Falcon es un servicio de Google que se enfoca en la seguridad y el manejo de tráfico de datos. La empresa ha estado trabajando en mejorar su capacidad para manejar grandes cantidades de solicitudes, lo que se refleja en este logro durante Black Friday.</summary>
+    <published>2026-09-08T05:46:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/gitguardian/40-million-fake-push-when-spam-commits-took-over-the-public-github-4n2g</id>
+    <title>[Programación] 40 millones de commits falsos: cuando el spam se apodera de GitHub</title>
+    <updated>2026-09-08T13:06:10.681738+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/doring/a-torrent-client-that-works-on-your-iphone-48h8"/>
-    <summary>Un usuario intentó descargar un archivo de torrent en su iPad en un tren y se encontró con que era más complicado de lo que pensaba. La mayoría de los clientes de torrent son software de escritorio y no hay opciones en la App Store para descargar archivos de torrent en iOS. El autor de la noticia creó un cliente de torrent que se ejecuta en una ventana de navegador, sin necesidad de instalar nada ni crear una cuenta. El cliente es gratuito y se puede descargar desde una página web. El usuario puede descargar archivos, verlos en línea mientras se descargan y guardarlos en su dispositivo. Sin embargo, hay un problema: la mayoría de los enlaces de torrent no funcionan en un navegador, ya que requieren conexiones TCP que no pueden establecerse en una ventana de navegador. Para solucionar este problema, el autor creó un companion app llamado bridge que se ejecuta en un ordenador y permite a la ventana de navegador descargar archivos de torrent. El usuario debe instalar el bridge y escanear un código QR para que el cliente de torrent funcione correctamente. El autor destaca que no hay necesidad de crear una cuenta, ya que no hay datos personales que se almacenen. Sin embargo, se recomienda utilizar un VPN para proteger la privacidad, ya que los peers pueden ver la IP del usuario. El cliente de torrent es gratuito y se puede descargar desde la página web wasmtorrent.pages.dev.
+    <link href="https://dev.to/gitguardian/40-million-fake-push-when-spam-commits-took-over-the-public-github-4n2g"/>
+    <summary>El número de commits en GitHub ha aumentado explosivamente desde julio de 2026, lo que representa un aumento del 5% en comparación con junio. Los commits falsos se caracterizan por utilizar nombres de usuario legítimos pero nombres de correo electrónico aleatorios. También contienen archivos con caracteres chinos, dominios y URLs. El 50% de los commits en este período se han encontrado en dominios con la extensión .cc y .vip. Los anfitriones de estos dominios se han encontrado en Hong Kong y se han publicitado en sitios web como VK. Los commits falsos han saturado la API de eventos de GitHub, lo que ha llevado a que la mayoría de los eventos sean spam.
 
 Contexto IA (informativo):
-El autor de la noticia se dio cuenta de que la mayoría de los clientes de torrent son software de escritorio y no hay opciones en la App Store para descargar archivos de torrent en iOS. Sin embargo, ha creado un cliente de torrent que se ejecuta en una ventana de navegador, lo que permite a los usuarios descargar archivos de torrent sin necesidad de instalar nada ni crear una cuenta.</summary>
-    <published>2026-09-07T12:40:31+00:00</published>
+Este fenómeno se ha observado en otros sitios web, como VK, donde se han encontrado anuncios similares. La saturación de la API de eventos de GitHub ha sido un problema para los desarrolladores que utilizan la plataforma para monitorear sus proyectos.</summary>
+    <published>2026-09-08T12:49:43+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/valentinivanov/embedding-a-web-ui-into-a-native-desktop-application-comes-with-a-price-2f26</id>
-    <title>[Programación] Incorporar una interfaz web en una aplicación de escritorio native tiene un precio</title>
-    <updated>2026-09-07T13:11:16.505722+00:00</updated>
+    <id>https://dev.to/lian0123/notes-on-the-pitfalls-of-ios-sandbox-accounts-and-apple-pay-61o</id>
+    <title>[Programación] Notes sobre los peligros de las cuentas de sandbox de iOS y Apple Pay</title>
+    <updated>2026-09-08T13:06:10.681686+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/valentinivanov/embedding-a-web-ui-into-a-native-desktop-application-comes-with-a-price-2f26"/>
-    <summary>El autor se sorprendió al descubrir que incorporar una interfaz web en una aplicación de escritorio native no era tan sencillo como parecía. La plataforma de macOS fue la más fácil de manejar, pero Linux presentó problemas con la compatibilidad de WebKit y el paquete de la aplicación. En Windows, el autor se sorprendió al descubrir que el control de vista web no estaba disponible sin la instalación adicional de Edge WebView. Finalmente, optó por el CEF, que le permitió tener un código compartido en todas las plataformas y evitar problemas de compatibilidad. El autor concluye que a veces es más sencillo llevar un extra de megabytes que enfrentar las sorpresas de la plataforma.
+    <link href="https://dev.to/lian0123/notes-on-the-pitfalls-of-ios-sandbox-accounts-and-apple-pay-61o"/>
+    <summary>En este artículo, se comparte la experiencia del autor al integrar Google Pay y Apple Pay en un proyecto de su empresa. Se describe el proceso de configuración de la CER y la clave privada, así como los problemas que se enfrentaron durante la prueba en el entorno de sandbox. Se proporcionan pasos detallados para configurar la CER y la clave privada, así como consejos para verificar que la CER y la clave privada pertenecen a la misma pareja de claves.
 
 Contexto IA (informativo):
-El autor de la noticia se refiere a la experiencia de desarrollar una aplicación de escritorio que requiere una interfaz web. La noticia es una reflexión sobre la complejidad de la programación y cómo a veces es necesario tomar decisiones difíciles para lograr la simplicidad.</summary>
-    <published>2026-09-07T12:45:20+00:00</published>
+El autor de este artículo es un ingeniero que se enfrentó a la tarea de integrar Apple Pay en un proyecto de su empresa. La experiencia se comparte para ayudar a otros ingenieros que puedan estar pasando por una situación similar.</summary>
+    <published>2026-09-08T12:50:39+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/lhadhazy/the-descriptor-survived-const-did-not-full-stack-rust-2bbc</id>
-    <title>[Programación] El descriptor sobrevivió, const no lo hizo — full-stack Rust</title>
-    <updated>2026-09-07T13:11:16.505670+00:00</updated>
+    <id>https://dev.to/sepcy/escpos-emulator-preview-and-debug-receipts-without-a-printer-4d7e</id>
+    <title>[Programación] Emulador ESC/POS: previsualización y depuración de recibos sin impresor</title>
+    <updated>2026-09-08T13:06:10.681596+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/lhadhazy/the-descriptor-survived-const-did-not-full-stack-rust-2bbc"/>
-    <summary>Un argumento que sostiene que las pantallas administrativas deben ser declaradas como datos tipados en lugar de codificados, se repite en Rust, donde un descriptor puede ser un constante de compilación y una plantilla es una macro. El autor explora cómo este concepto se aplica en el framework Topcoat y su impacto en la programación full-stack en Rust.
+    <link href="https://dev.to/sepcy/escpos-emulator-preview-and-debug-receipts-without-a-printer-4d7e"/>
+    <summary>El emulador ESC/POS permite previsualizar y depurar recibos sin necesidad de un impresor. Este emulador es parte del proyecto ESCPost, una herramienta de línea de comandos de Rust que se puede utilizar de forma offline y que requiere no cuenta. El emulador permite visualizar los bytes de los recibos en pantalla, lo que permite identificar errores y depurar el código. Además, permite previsualizar los recibos en un navegador, lo que reduce el tiempo de depuración. El emulador también incluye una guía de perfiles que permite seleccionar el perfil adecuado para cada impresora. En resumen, el emulador ESC/POS es una herramienta útil para desarrolladores y empresas que necesitan depurar y previsualizar recibos de forma eficiente.
 
 Contexto IA (informativo):
-El autor de la noticia se refiere a la importancia de la metadata en la programación full-stack, destacando cómo un descriptor puede ser una declaración de tipo que se puede verificar en tiempo de compilación, lo que proporciona una mayor seguridad y previsibilidad en el código.</summary>
-    <published>2026-09-07T12:45:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/yuan_lei_e631e36865ed370b/inside-vllm-following-one-request-from-the-api-to-gpu-execution-1ja6</id>
-    <title>[Programación] Adentro de vLLM: Sigue una solicitud desde la API hasta la ejecución en GPU</title>
-    <updated>2026-09-07T13:11:16.505580+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/yuan_lei_e631e36865ed370b/inside-vllm-following-one-request-from-the-api-to-gpu-execution-1ja6"/>
-    <summary>Este artículo sigue una solicitud de inferencia desde la entrada pública hasta la ejecución en GPU. Se explora cómo se manejan las solicitudes, la planificación, la ejecución y la actualización del estado en el núcleo del modelo. El artículo se centra en la explicación de cómo se implementan conceptos como la planificación, la generación de tokens y la caché de datos, en lugar de redefinir la arquitectura del modelo. El objetivo es proporcionar una comprensión detallada de cómo funciona vLLM y cómo se puede aprovechar para mejorar la eficiencia y la precisión de la generación de texto. El artículo se basa en la versión 0.22.0 de vLLM y se ha verificado contra la fuente. El autor destaca la importancia de leer el código fuente en lugar de seguir guías de API, ya que proporciona información más detallada y precisa sobre cómo funciona el modelo. El artículo se divide en seis partes, cada una explorando un aspecto diferente del ciclo de ejecución del modelo. La primera parte se centra en la entrada de la solicitud, la segunda en la planificación, la tercera en la preparación de entrada, la cuarta en la ejecución, la quinta en la actualización del estado y la sexta en la salida de la solicitud. El ciclo de ejecución es continuo y permite que el modelo se adapte a las solicitudes de manera dinámica. El artículo también explora cómo se manejan las solicitudes de manera continuas, sin tener que esperar a que una solicitud se complete antes de admitir otra. Esto permite que el modelo se ejecute de manera más eficiente y precisa. En resumen, el artículo proporciona una visión detallada de cómo funciona vLLM y cómo se puede aprovechar para mejorar la eficiencia y la precisión de la generación de texto.
-
-Contexto IA (informativo):
-El artículo se basa en la versión 0.22.0 de vLLM y se ha verificado contra la fuente. El autor destaca la importancia de leer el código fuente en lugar de seguir guías de API, ya que proporciona información más detallada y precisa sobre cómo funciona el modelo.</summary>
-    <published>2026-09-07T12:52:14+00:00</published>
+El emulador ESC/POS es una herramienta de código abierto que se utiliza para depurar y previsualizar recibos de forma eficiente. Es parte del proyecto ESCPost, que se enfoca en proporcionar una solución de línea de comandos para la gestión de recibos. El emulador permite visualizar los bytes de los recibos en pantalla, lo que permite identificar errores y depurar el código. Además, permite previsualizar los recibos en un navegador, lo que reduce el tiempo de depuración.</summary>
+    <published>2026-09-08T12:53:18+00:00</published>
   </entry>
 </feed>
