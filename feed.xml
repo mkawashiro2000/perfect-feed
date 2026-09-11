@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-10T16:14:22.080106+00:00</updated>
+  <updated>2026-09-11T19:11:39.094263+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,367 +11,381 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-10/imf-ends-long-silence-on-el-salvador-program-lifting-bonds</id>
-    <title>[Economía] La IMF vuelve a hablar sobre el programa de El Salvador, reactivando las bonas</title>
-    <updated>2026-09-10T16:14:22.081378+00:00</updated>
+    <id>https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1</id>
+    <title>[Economía] El Dr. Kevin Warsh se enfrenta a presión para elevar las tasas de interés mientras persiste la inflación en EE. UU.</title>
+    <updated>2026-09-11T19:11:39.095302+00:00</updated>
     <author>
-      <name>Bloomberg Markets</name>
+      <name>International homepage</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-10/imf-ends-long-silence-on-el-salvador-program-lifting-bonds"/>
-    <summary>Después de un año de retrasos, el programa de $1.4 mil millones de la IMF de El Salvador vuelve a avanzar y revitaliza la tendencia de las bonas nacionales. El programa, que había estado en una especie de silencio, ha sido reactivado y ahora se espera que tenga un impacto positivo en la economía salvadoreña. La IMF ha anunciado que está dispuesta a trabajar con el gobierno de El Salvador para abordar las preocupaciones económicas del país y promover el crecimiento y la estabilidad.
+    <link href="https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1"/>
+    <summary>El Dr. Kevin Warsh, miembro del Banco de la Reserva Federal, se enfrenta a la presión de elevar las tasas de interés debido a la persistencia de la inflación en Estados Unidos. Esto se debe a que la inflación ha estado creciendo a un ritmo más alto de lo esperado, lo que ha llevado a una mayor presión sobre los bancos centrales para controlarla. Los expertos esperan que la decisión de elevar las tasas de interés tenga un impacto significativo en la economía y los precios de los bienes y servicios.
 
 Contexto IA (informativo):
-La decisión de la IMF se produce en un momento en que El Salvador enfrenta desafíos económicos significativos, incluyendo una tasa de inflación alta y una deuda pública creciente. La revivencia de la tendencia de las bonas nacionales puede ayudar a reducir la inflación y promover la confianza en el mercado.</summary>
-    <published>2026-09-10T13:34:21+00:00</published>
+La inflación en EE. UU. ha sido un tema de debate en los últimos meses, con algunos expertos argumentando que es una preocupación legítima, mientras que otros creen que es un problema menor. La decisión del Banco de la Reserva Federal de elevar las tasas de interés será crucial para controlar la inflación y mantener la estabilidad económica.</summary>
+    <published>2026-09-11T14:44:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html</id>
-    <title>[Economía] Los precios del petróleo suben como las acciones y las bonos se estremecen</title>
-    <updated>2026-09-10T16:14:22.081347+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html</id>
+    <title>[Economía] Análisis: La inflación cálida pone a la Fed en una encrucijada. ¿Qué sucede si Warsh cede?</title>
+    <updated>2026-09-11T19:11:39.095254+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html"/>
+    <summary>La inflación cálida más allá de lo esperado ha convertido la reunión del Federal Reserve del próximo semana en un punto de inflexión para el presidente de la Reserva Federal, Kevin Warsh. Su elección ahora es entre aumentar las tasas de interés o parecer que no tiene control sobre la central bank que dirige. Los datos del índice de precios al consumidor del viernes muestran que las tasas de interés deben aumentarse si la inflación no se modera. Warsh ha prometido no tomar ninguna acción específica, pero ha argumentado que la Fed debe aumentar las tasas de interés si la inflación no se reduce. Sin embargo, su liderazgo de la Fed está bajo escrutinio intenso, y no tomar acción después de sus advertencias repetidas sobre la inflación hará que sea más difícil convencer al mercado que es serio. Los economistas encontrarán formas de interpretar los nuevos datos del CPI, pero Warsh enfrenta la desafío de que su filosofía económica se oponga a tomar decisiones rápidas basadas en un solo punto de datos. Esto lo coloca en contraste con otros miembros de la Fed, como el gobernador Christopher Waller y el presidente de la Reserva Federal de Nueva York, John Williams, que están más inclinados a esperar a que se completen los datos antes de tomar una decisión. Warsh ha advertido repetidamente que la precisión en la predicción es solo una aspiración para la Fed. La inflación está por encima del objetivo del 2% establecido por la Fed, y Warsh ha argumentado que el foco principal de la Fed debe ser en los precios. Sin embargo, algunos economistas, como Waller, han argumentado que la inflación puede estar por encima del 2% y que los datos recientes sugieren signos de desinflación. La decisión de Warsh será crucial en este punto, ya que si no se ajusta a su punto de vista, Waller y otros podrían convertirse en el centro de la gravedad intelectual de la Fed. Esto podría tener implicaciones difíciles para las tareas de Warsh para evaluar el futuro de la Fed. Si Warsh no utiliza su influencia, los inversores comenzarán a preguntarse si realmente tiene control sobre la situación, lo que dará lugar a una serie de preguntas incómodas sobre las lealtades políticas del presidente de la Reserva Federal. El presidente Donald Trump ha presionado a Warsh para reducir las tasas de interés, aunque Warsh ha asegurado que sigue su conciencia. Sin embargo, es difícil para Warsh escapar de la sombra del presidente
+
+Contexto IA (informativo):
+La decisión de Warsh será crucial en este punto, ya que si no se ajusta a su punto de vista, Waller y otros podrían convertirse en el centro de la gravedad intelectual de la Fed. Esto podría tener implicaciones difíciles para las tareas de Warsh para evaluar el futuro de la Fed. La Fed ha estado bajo escrutinio intenso en los últimos tiempos, y la decisión de Warsh puede influir en la percepción del público sobre la capacidad de la Fed para controlar la inflación.</summary>
+    <published>2026-09-11T16:21:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html</id>
+    <title>[Economía] La inflación sigue siendo alta en agosto — y los expertos creen que los consumidores seguirán sintiendo el dolor financiero en los próximos meses</title>
+    <updated>2026-09-11T19:11:39.095175+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html"/>
+    <summary>La inflación permaneció alta en agosto, con el índice de precios al consumidor aumentando un 3.4% en un año, según datos del Bureau of Labor Statistics. Los expertos atribuyen la causa a la guerra en Irán, que ha reducido la oferta de energía y aumentado los precios de los combustibles. Además, la inflación también está impulsada por la artificialidad y los aranceles. Los expertos creen que la Fed aumentará las tasas de interés para combatir la inflación, pero la trayectoria de las tasas sigue siendo incierta. Los precios de los combustibles, especialmente el gasolina, han aumentado significativamente, lo que podría tener un impacto en la economía y los precios de los alimentos. Los expertos también advierten que la inflación podría seguir siendo alta en el corto plazo debido a la guerra y la incertidumbre en el mercado
+
+Contexto IA (informativo):
+La guerra en Irán ha tenido un impacto significativo en la economía global, reduciendo la oferta de energía y aumentando los precios de los combustibles. Los expertos creen que la situación podría empeorar en los próximos meses, lo que podría tener un impacto en la economía y los precios de los alimentos.</summary>
+    <published>2026-09-11T17:14:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html</id>
+    <title>[Economía] La corte anula orden de Trump para mantener en funcionamiento una planta de carbón envejecida</title>
+    <updated>2026-09-11T19:11:39.095142+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html"/>
-    <summary>Los precios del petróleo alcanzaron niveles más altos en meses, mientras que las tasas de interés de las bonos siguen subiendo. Los inversores se preocupan por la disminución de las reservas energéticas y el riesgo de una inflación acelerada.
+    <link href="https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html"/>
+    <summary>Una planta de carbón de 64 años en Michigan estaba programada para retirarse. Sin embargo, la administración de Trump intervino de manera que trascendió sus autoridades, según la corte. La decisión de Trump fue dictada por un tribunal federal que dictaminó que la administración no tenía la autoridad para ordenar la continuidad de la operación de la planta. El tribunal también señaló que la administración de Trump no había proporcionado suficientes razones para justificar la decisión. La decisión de la corte es una victoria para los grupos ambientales y los vecinos de la comunidad que se oponían a la operación de la planta. La planta de carbón ha sido una fuente de contaminación del aire y del agua en la zona.
 
 Contexto IA (informativo):
-La volatilidad en el mercado de valores se refleja en la subida de los precios del petróleo y las tasas de interés, lo que genera inquietud entre los inversores sobre la disponibilidad de las energías y el impacto en la economía.</summary>
-    <published>2026-09-10T15:13:01+00:00</published>
+La decisión de la corte es un ejemplo de cómo la administración de Trump ha intentado intervenir en decisiones ambientales y de salud pública sin autoridad legal. La planta de carbón ha sido una fuente de preocupación para los grupos ambientales y los vecinos de la comunidad, quienes han denunciado la contaminación del aire y del agua en la zona.</summary>
+    <published>2026-09-11T18:35:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html</id>
-    <title>[Economía] La contaminación de centros de datos con A.I. representa un peligro para la salud, advierten ex funcionarios de la E.P.A.</title>
-    <updated>2026-09-10T16:14:22.081315+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html"/>
-    <summary>Según un grupo de expertos, la contaminación del aire causada por las centrales de energía que utilizan gas para alimentar los centros de datos de inteligencia artificial (A.I.) podría generar al menos $20 mil millones en costos de atención médica anuales hasta 2028. Los centros de datos de A.I. están creciendo rápidamente y su impacto ambiental es cada vez más preocupante. La contaminación del aire es un problema grave que requiere atención inmediata. Los expertos advierten que la industria debe tomar medidas para reducir su huella de carbono y mitigar los efectos negativos de la contaminación del aire.
-
-Contexto IA (informativo):
-La creciente dependencia de los centros de datos de A.I. ha llevado a una mayor preocupación por su impacto ambiental. Los centros de datos de A.I. requieren grandes cantidades de energía para funcionar, lo que genera una gran cantidad de emisiones de gases de efecto invernadero.</summary>
-    <published>2026-09-10T15:33:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-10/ukraine-s-arctic-drone-attacks-reveal-new-risks-for-gas-market</id>
-    <title>[Economía] Ataques de drones en la región ártica de Ucrania revelan nuevos riesgos para el mercado de gas</title>
-    <updated>2026-09-10T16:14:22.081284+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-11/-40t-debt-is-national-security-issue-haass-video</id>
+    <title>[Economía] Deuda de $40T es una cuestión de seguridad nacional, afirma Haass</title>
+    <updated>2026-09-11T19:11:39.095110+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-10/ukraine-s-arctic-drone-attacks-reveal-new-risks-for-gas-market"/>
-    <summary>Ucrania ha lanzado ataques sin precedentes contra los activos de gas de Rusia en una región ártica remota, lo que revela nuevos riesgos para la industria energética rusa y el mercado global. Estos ataques ponen de relieve la vulnerabilidad de Rusia ante ataques cibernéticos y la necesidad de mejorar la seguridad de sus activos energéticos. La situación también genera preocupación en el mercado de gas, donde la seguridad y la estabilidad son fundamentales.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-11/-40t-debt-is-national-security-issue-haass-video"/>
+    <summary>Richard Haass, experto en relaciones internacionales, sostuvo que la deuda de Estados Unidos es una amenaza para la seguridad nacional. Según Haass, la deuda afecta la estabilidad financiera del país y puede tener consecuencias negativas en el mercado. Además, la deuda puede limitar la capacidad del gobierno para abordar desafíos globales. La deuda de $40T es un tema que ha sido objeto de debate en los últimos años.
 
 Contexto IA (informativo):
-Estos ataques se producen en un momento en que Rusia enfrenta dificultades económicas y políticas, lo que puede afectar su capacidad para mantener la seguridad de sus activos energéticos.</summary>
-    <published>2026-09-10T15:38:38+00:00</published>
+Richard Haass es un experto en relaciones internacionales con una larga trayectoria en el servicio público. Ha trabajado como consejero para Colin Powell y Presidente George H.W. Bush, y actualmente es consejero senior en Centerview Partners.</summary>
+    <published>2026-09-11T18:41:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/own-the-outer-loop/</id>
-    <title>[Data Science] Propietario del bucle exterior</title>
-    <updated>2026-09-10T16:14:22.081251+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-11/americans-need-to-come-together-richard-haass-video</id>
+    <title>[Economía] Necesitan los estadounidenses unirse: Richard Haass</title>
+    <updated>2026-09-11T19:11:39.095077+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-11/americans-need-to-come-together-richard-haass-video"/>
+    <summary>Richard Haass, asesor senior de Centerview Partners, presidente ememero de la Council on Foreign Relations y ex consejero de Colin Powell y George H.W. Bush, se une a Scarlet Fu en "Bloomberg Money." Según una encuesta de UMich, la actitud de los consumidores de ambos partidos ha disminuido, y solo el 35% de los republicanos creen que el gobierno está haciendo un buen trabajo con la economía, lo más bajo desde que el presidente Trump regresó al White House hace un año. La encuesta también muestra que la actitud de los consumidores ha disminuido en los últimos meses.
+
+Contexto IA (informativo):
+La encuesta de UMich se realizó después de una serie de eventos políticos y económicos que han afectado la actitud de los consumidores en los Estados Unidos. La encuesta es una muestra de la preocupación creciente de los estadounidenses por la situación económica del país.</summary>
+    <published>2026-09-11T18:43:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration</id>
+    <title>[Data Science] Técnicas de Python para la Orquestación de Recursos de Forma Eficiente</title>
+    <updated>2026-09-11T19:11:39.095041+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration"/>
+    <summary>Este artículo explica 5 técnicas de Python para la orquestación de recursos de forma eficiente y se centra en lo establecido hoy, 3.11 y posterior para las técnicas centrales, con una herramienta específica de 3.14 llamada por separado, que requiere esa versión. La orquestación de recursos significa hacer que un conjunto finito y limitado de recursos se comporte correctamente bajo la concurrencia. En este artículo, se analiza la concurrencia paralela y la concurrencia estructurada, y se presentan técnicas para abordar estos problemas. El artículo también explora cómo utilizar la biblioteca asyncio para implementar estas técnicas de manera eficiente. El escenario central del artículo es un dashboard interno que necesita consultar simultáneamente cuatro servicios de backend, cada uno con un perfil de latencia y capacidad diferentes, para una gran cantidad de usuarios potencialmente. Cada técnica presentada en el artículo se ha construido y probado con una simulación real de este escenario, con números medidos reales, no estimaciones. Para implementar estas técnicas, se requiere Python 3.11 o posterior para las técnicas centrales, y no se requieren dependencias externas, ya que se utiliza solo la biblioteca estándar de Python. Las técnicas presentadas incluyen la utilización de asyncio.TaskGroup para la concurrencia estructurada, asyncio.Semaphore para limitar el uso concurrente de recursos, y otras técnicas para abordar problemas de concurrencia y orquestación de recursos. El artículo también explora cómo utilizar herramientas específicas de Python para abordar estos problemas de manera eficiente.
+
+Contexto IA (informativo):
+La orquestación de recursos es un tema actual y relevante en la programación concurrente. La concurrencia paralela es un problema sostenido, pero la concurrencia estructurada es el verdadero desafío. La biblioteca asyncio es una herramienta poderosa para abordar estos problemas, y se explora su uso en este artículo. El escenario presentado es un ejemplo realista de cómo se pueden aplicar estas técnicas en una aplicación real.</summary>
+    <published>2026-09-11T12:00:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/</id>
+    <title>[Data Science] No es necesario un largo historial para agentes de codificación — lo que necesitan es continuidad de intención</title>
+    <updated>2026-09-11T19:11:39.095005+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/"/>
+    <summary>Un sistema automatizado que descubre, verifica y aplica requisitos relevantes de interacciones anteriores sin pedir al usuario dónde provienen. El sistema se basa en la idea de que la continuidad de intención es más importante que un largo historial. Se demostró que un sistema de búsqueda básico solo logró el 57% de los requisitos necesarios, mientras que un sistema con una capa de verificación logró el 100%. Se mostraron resultados de pruebas reales y se explicó cómo se puede implementar este sistema sin utilizar embeddings, vector databases ni llamadas a modelos de lenguaje natural. El sistema se diseñó para manejar proyectos largos y complejos, donde los requisitos se establecen una vez y se olvidan. Se demostró que la continuidad de intención es esencial para evitar errores y garantizar la coherencia del código. El sistema se basa en la idea de que la intención de la acción es más importante que el historial de acciones anteriores. Se explicó cómo se puede implementar este sistema de manera sencilla y eficiente. El sistema se diseñó para ser fácil de entender y de usar, y se mostró que puede ser una herramienta valiosa para los desarrolladores que trabajan en proyectos largos y complejos.
+
+Contexto IA (informativo):
+La continuidad de intención es un concepto clave en la inteligencia artificial, especialmente en la programación de agentes. Se refiere a la capacidad de un sistema para reconocer y aplicar requisitos y reglas establecidos en el pasado, sin necesidad de revisar el historial de acciones anteriores. Esto es especialmente importante en proyectos largos y complejos, donde los requisitos se establecen una vez y se olvidan. La continuidad de intención es esencial para evitar errores y garantizar la coherencia del código.</summary>
+    <published>2026-09-11T15:30:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/the-interfaces-are-arriving/</id>
+    <title>[Data Science] Llegan las interfaces</title>
+    <updated>2026-09-11T19:11:39.094973+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
-    <link href="https://www.oreilly.com/radar/own-the-outer-loop/"/>
-    <summary>El autor argumenta que los ingenieros deben asumir la responsabilidad del bucle exterior de los sistemas, es decir, la toma de decisiones sobre la seguridad y la validez de los modelos de inteligencia artificial. Esto se debe a que los modelos de IA tienen la capacidad de tomar decisiones autónomas y los ingenieros deben ser capaces de explicar y justificar estas decisiones. El autor destaca la importancia de la calidad, el veredicto y la responsabilidad en la creación de sistemas de inteligencia artificial seguros y confiables.
+    <link href="https://www.oreilly.com/radar/the-interfaces-are-arriving/"/>
+    <summary>La industria del aprendizaje automático ha visto un gran avance en la estandarización de las interfaces entre modelos y herramientas. El protocolo Model Context Protocol (MCP) está siendo adoptado por varias empresas, incluyendo Google, Microsoft y OpenAI, y está cambiando la forma en que los ingenieros trabajan con los modelos. La estandarización de las interfaces permitirá una mayor reutilización de código y una mayor seguridad, ya que los desarrolladores podrán especificar identidad, permisos y comportamiento de auditoría de manera más eficiente. Además, la industria está viendo el surgimiento de un ecosistema más completo, con la integración de protocolos como el Language Server Protocol y la generación de código para agentes.
 
 Contexto IA (informativo):
-El autor destaca la creciente dependencia de los modelos de IA en la industria y la necesidad de establecer límites claros entre lo que se puede y no se puede hacer con estos modelos. La seguridad y la validez de los sistemas de IA dependen de la capacidad de los ingenieros para tomar decisiones informadas y responsables.</summary>
-    <published>2026-09-09T15:55:23+00:00</published>
+La industria del aprendizaje automático está experimentando un cambio significativo en la forma en que los modelos y herramientas se conectan y se integran. La estandarización de las interfaces está permitiendo a las empresas trabajar juntas de manera más efectiva y está abriendo nuevas oportunidades para la reutilización de código y la seguridad.</summary>
+    <published>2026-09-11T15:55:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing</id>
-    <title>[Data Science] 5 Utilidades de Python útiles para automatizar el procesamiento de archivos CSV</title>
-    <updated>2026-09-10T16:14:22.081220+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing"/>
-    <summary>5 Utilidades de Python útiles para automatizar el procesamiento de archivos CSV. Estas herramientas te permiten limpiar, validar, transformar y procesar archivos CSV de manera eficiente. Cada una de estas herramientas utiliza solo la biblioteca estándar de Python, lo que te permite ejecutarlas sin instalar paquetes adicionales o gestionar dependencias. Puedes encontrar todas las herramientas en GitHub.
-
-Contexto IA (informativo):
-Los archivos CSV son comunes en casi todos los flujos de datos. Los archivos exportados de bases de datos, aplicaciones y trabajos de batch a menudo terminan como archivos CSV, junto con problemas como delimitadores inconsistentes, errores de codificación, cambios en la estructura de datos y filas duplicadas. Las soluciones suelen ser pequeñas. El trabajo es repetitivo, fácil de equivocar bajo presión de tiempo y raro que sea worth building a custom tool for.</summary>
-    <published>2026-09-10T12:00:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/</id>
-    <title>[Data Science] ¿Qué SHAP no puede explicar sobre fraude de inteligencia artificial agente</title>
-    <updated>2026-09-10T16:14:22.081186+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/"/>
-    <summary>El fraude de inteligencia artificial agente expone un nuevo problema de explicabilidad en la detección de fraude. Los agentes autónomos transaccionan y compran en nombre de las personas, lo que hace que el fraude sea un problema más complejo. La explicabilidad de los modelos de fraude es un problema en sí mismo, ya que los modelos que funcionan mejor, como los ensembles de profundidad o las árboles de gradient, son los más difíciles de interpretar. Esto puede llevar a que los analistas de cumplimiento no puedan determinar si un flag es un signo real o solo una distracción del modelo. El autor de la noticia explora cómo la explicabilidad del modelo puede ser un problema en sí mismo y cómo se puede abordar este problema en la detección de fraude.
-
-Contexto IA (informativo):
-La explicabilidad de los modelos de fraude es un tema importante en la industria financiera, ya que los modelos que funcionan mejor pueden ser los más difíciles de interpretar. El autor de la noticia explora cómo la explicabilidad del modelo puede ser un problema en sí mismo y cómo se puede abordar este problema en la detección de fraude.</summary>
-    <published>2026-09-10T14:00:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026</id>
-    <title>[Data Science] 7 Pasos para convertirse en Ingeniero Desplegado en 2026</title>
-    <updated>2026-09-10T16:14:22.081150+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026"/>
-    <summary>Los ingenieros desplegados en AI (FDEs) son algunos de los ingenieros más demandados en el sector. Este artículo te guía a través de los 7 pasos para convertirte en un FDE en 2026. Los FDEs combinan software, inteligencia artificial, diseño de sistemas y pensamiento de producto. La demanda de FDEs está en aumento y las empresas están entrenando a decenas de miles de ingenieros para realizar estas tareas. El salario promedio de un FDE en EE. UU. es de aproximadamente $116,463 al año, aunque los salarios pueden variar según la empresa y la experiencia. Para convertirte en un FDE, debes tener habilidades en software, inteligencia artificial, diseño de sistemas y comunicación con clientes. Este artículo te proporciona un roadmap práctico para convertirte en un FDE en 2026.
-
-Contexto IA (informativo):
-La demanda de FDEs está en aumento debido a la creciente necesidad de implementar soluciones de inteligencia artificial en empresas de todo el mundo. Las empresas como Anthropic y DXC están entrenando a decenas de miles de ingenieros para realizar estas tareas. El salario promedio de un FDE en EE. UU. es de aproximadamente $116,463 al año, aunque los salarios pueden variar según la empresa y la experiencia.</summary>
-    <published>2026-09-10T14:00:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/</id>
-    <title>[Data Science] Mejora la efectividad de la comunicación con los agentes de código</title>
-    <updated>2026-09-10T16:14:22.081117+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/"/>
-    <summary>El autor comparte una técnica para mejorar la comunicación con los agentes de código, presentando los resultados en formato HTML para facilitar la comprensión de la información. La técnica se basa en la idea de que los agentes de código a menudo presentan información en formatos no expresivos, lo que puede dificultar la comprensión de los resultados. El autor describe cómo ha desarrollado una técnica para presentar los resultados en formato HTML, lo que ha mejorado significativamente la efectividad de la comunicación con los agentes de código. La técnica se basa en la presentación de los resultados en un archivo HTML, lo que permite una mayor expresividad y facilita la comprensión de la información. El autor comparte su experiencia y ofrece consejos prácticos para mejorar la comunicación con los agentes de código.
-
-Contexto IA (informativo):
-El autor de la noticia es un experto en el uso de agentes de código y ha desarrollado una técnica para mejorar la comunicación con ellos. La técnica se basa en la presentación de los resultados en formato HTML, lo que permite una mayor expresividad y facilita la comprensión de la información. El autor comparte su experiencia y ofrece consejos prácticos para mejorar la comunicación con los agentes de código.</summary>
-    <published>2026-09-10T15:30:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29231</id>
-    <title>[Fórmula 1] Red Bull contrata al director de rendimiento de Aston Martin como nuevo jefe de carreras</title>
-    <updated>2026-09-10T16:14:22.081083+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29231"/>
-    <summary>Red Bull ha anunciado la contratación de Tom McCullough, un ingeniero de Fórmula 1 experimentado, quien se unirá al equipo como su nuevo jefe de carreras a principios de la temporada 2027. McCullough, de 50 años, trae más de dos décadas de experiencia en Fórmula 1 y carreras de motor, después de haber ocupado puestos de ingeniería senior en Williams, Sauber, Force India y Aston Martin. El equipo Red Bull espera que McCullough aporte su experiencia y conocimientos para fortalecer su operación de pista y proporcionar liderazgo en la próxima fase de su programa de Fórmula 1. La contratación es parte de una serie de cambios en la estructura técnica del equipo, que incluye la salida de Gianpiero Lambiase, jefe de ingeniería de carreras y asistente de Max Verstappen, quien se unirá a McLaren en la temporada 2028. McCullough es el segundo gran reclutamiento de Red Bull desde un equipo rival en los últimos meses, después de contratar a Gwen Lagrue de Mercedes, quien trabajará como asesor de pilotos joven.
-
-Contexto IA (informativo):
-La contratación de McCullough es un paso importante para Red Bull, que busca fortalecer su operación de pista y proporcionar liderazgo en la próxima fase de su programa de Fórmula 1. La llegada de McCullough también marca un cambio en la estructura técnica del equipo, que incluye la salida de Gianpiero Lambiase y la llegada de nuevos talentos como Andrea Landi y Ben Waterhouse.</summary>
-    <published>2026-09-09T15:05:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/09/09/rossi-gives-2028-indycar-its-first-oval-run-at-ims</id>
-    <title>[Fórmula 1] Rossi prueba el IndyCar 2028 en ovala en IMS</title>
-    <updated>2026-09-10T16:14:22.081051+00:00</updated>
+    <id>https://racer.com/2026/09/11/indycar-s-new-licensing-standards-solve-a-minor-problem-but-risk-creating-a-lot-of-new-major-ones</id>
+    <title>[Fórmula 1] Nuevos estándares de licencia de IndyCar resuelven un problema menor, pero arriesgan crear muchos problemas mayores</title>
+    <updated>2026-09-11T19:11:39.094940+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/09/rossi-gives-2028-indycar-its-first-oval-run-at-ims"/>
-    <summary>Alexander Rossi, ganador del Indy 500 de 2016, fue el primer piloto en probar el IndyCar 2028 en un circuito oval en las pruebas de IMS. El vehículo fue sometido a pruebas de conducción en un circuito oval. El objetivo de estas pruebas es evaluar las características del nuevo vehículo. Rossi condujo el vehículo durante varias horas para recopilar datos y obtener una mejor comprensión de su rendimiento.
+    <link href="https://racer.com/2026/09/11/indycar-s-new-licensing-standards-solve-a-minor-problem-but-risk-creating-a-lot-of-new-major-ones"/>
+    <summary>Los nuevos estándares de licencia de pilotos de IndyCar parecen una buena idea, pero su implementación podría generar dificultades para las equipos que menos pueden permitirse pagarlas. Según Marshall Pruett, esto podría tener consecuencias negativas para la competencia. Los equipos más pequeños podrían tener dificultades para cumplir con los nuevos requisitos, lo que podría afectar su capacidad para competir con los equipos más grandes. Esto podría llevar a una disminución en la competitividad de la serie y a una pérdida de popularidad entre los fans. Es importante que IndyCar revise sus estándares de licencia para asegurarse de que sean justos y accesibles para todos los equipos.
 
 Contexto IA (informativo):
-Estas pruebas son una parte importante del desarrollo del IndyCar 2028, ya que permiten a los ingenieros y diseñadores obtener retroalimentación sobre el rendimiento del vehículo en diferentes condiciones de conducción.</summary>
-    <published>2026-09-09T22:51:50+00:00</published>
+La implementación de los nuevos estándares de licencia de pilotos de IndyCar ha generado un debate entre los equipos y los fans de la serie. Algunos argumentan que los estándares son necesarios para garantizar la seguridad de los pilotos, mientras que otros creen que podrían ser demasiado costosos y afectar negativamente a los equipos más pequeños.</summary>
+    <published>2026-09-11T12:17:15+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29250</id>
-    <title>[Fórmula 1] F1 Live regresa en 2027 con un espectáculo de fanes de tres días en Milán</title>
-    <updated>2026-09-10T16:14:22.081016+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29250"/>
-    <summary>La serie F1 Live regresa en 2027 con un espectáculo de fanes de tres días en Milán, Italia, del 18 al 20 de febrero de 2027. El evento, llamado F1 Live Milán, se inspira en el éxito del F1 75 Live en Londres en 2025 y ofrecerá a los fanáticos una experiencia más inmersiva y emocionante. El evento constará de dos componentes principales: el Festival de Fanes de Milán, que se llevará a cabo durante los tres días, y F1 The Show, un espectáculo de una noche solo que reunirá a los pilotos y directores técnicos de las 11 equipos de F1. El evento busca crear una experiencia donde los fanáticos se sientan en el centro del deporte y se sientan inmersos en él. La ciudad de Milán fue elegida como sede debido a su importancia cultural, creativa y de diseño, así como a su proximidad a Monza, uno de los circuitos más icónicos de F1. El presidente de F1, Stefano Domenicali, destacó que el evento está diseñado para llevar a los fanáticos más cerca de la acción del deporte y crear experiencias inolvidables.
-
-Contexto IA (informativo):
-La serie F1 Live ha sido un éxito en el pasado, y su regreso en 2027 es una oportunidad para que los fanáticos de F1 se unan en una celebración única en Milán. El evento se llevará a cabo en febrero de 2027, justo antes de la temporada de F1, y se espera que atraiga a fanáticos de todo el mundo.</summary>
-    <published>2026-09-10T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/</id>
-    <title>[Fórmula 1] Leclerc admite que fue demasiado en el choque con Hamilton en el GP de Italia</title>
-    <updated>2026-09-10T16:14:22.080985+00:00</updated>
+    <id>https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/</id>
+    <title>[Fórmula 1] F1 Spanish GP: Antonelli lidera segunda práctica complicada con un accidente de Lindblad</title>
+    <updated>2026-09-11T19:11:39.094908+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/"/>
-    <summary>Leclerc y Hamilton han
+    <link href="https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/"/>
+    <summary>Kimi Antonelli lideró la segunda práctica de la Gran Premio de España de Fórmula 1, superando a Charles Leclerc de Ferrari. Arvid Lindblad sufrió un accidente durante la sesión. Antonelli estableció el tiempo más rápido alrededor de la mitad de la sesión, mientras que los conductores y las equipos continuaron ajustando sus configuraciones en el circuito extremadamente difícil de Madrid. El circuito de 5.4 km es conocido por ser muy desafiante y requiere una gran habilidad y precisión de los pilotos.
 
 Contexto IA (informativo):
-El incidente ocurrió en la primera curva del circuito de Monza, donde Leclerc y Hamilton se habían colocado lado a lado.</summary>
-    <published>2026-09-10T15:21:27+00:00</published>
+La segunda práctica de la temporada de Fórmula 1 se llevó a cabo en el nuevo circuito de Madring en Madrid, donde los conductores y las equipos están trabajando para optimizar sus configuraciones en un circuito extremadamente difícil.</summary>
+    <published>2026-09-11T16:14:44+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/</id>
-    <title>[Fórmula 1] ¿Qué piensan los conductores del "locuro" circuito de Madrid de F1?</title>
-    <updated>2026-09-10T16:14:22.080953+00:00</updated>
+    <id>https://racer.com/2026/09/11/more-than-just-big-numbers-how-the-second-season-of-fox-indycar-tv-coverage-was-a-standout</id>
+    <title>[Fórmula 1] Más allá de grandes números: El año 2 de la cobertura de FOX IndyCar fue destacado</title>
+    <updated>2026-09-11T19:11:39.094877+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>RACER</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/"/>
-    <summary>Los conductores de F1 han expresado su preocupación por el nuevo circuito de la ciudad de Madrid, considerándolo peligroso y desafiante. Algunos, como Pierre Gasly, han mencionado la posibilidad de una bandera roja, mientras que otros, como Lance Stroll, han evitado hablar sobre el tema. La dificultad y el riesgo son los temas que se han mencionado en las conversaciones con los conductores sobre el circuito español.
+    <link href="https://racer.com/2026/09/11/more-than-just-big-numbers-how-the-second-season-of-fox-indycar-tv-coverage-was-a-standout"/>
+    <summary>La segunda temporada de la cobertura exclusiva de FOX de la serie IndyCar NTT generó un aumento significativo en su audiencia promedio por carrera y importantes segmentos de audiencia
 
 Contexto IA (informativo):
-El circuito de la ciudad de Madrid es el nuevo circuito de la F1 que se ha agregado a la temporada. El circuito es conocido por su diseño complicado y sus curvas cerradas, lo que ha generado preocupación entre los conductores.</summary>
-    <published>2026-09-10T15:34:28+00:00</published>
+La mejora en la cobertura se debió en parte a la inclusión de más análisis y entrevistas con pilotos y equipos, lo que ayudó a atraer a un público más diverso.</summary>
+    <published>2026-09-11T17:18:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/f1-spanish-gp-introduces-cashless-payment-system-how-mad-coins-work/10854248/</id>
-    <title>[Fórmula 1] Introducción del sistema de pago sin efectivo en el GP de España de F1: Cómo funcionan las MAD-Coins</title>
-    <updated>2026-09-10T16:14:22.080920+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/max-verstappens-short-but-telling-reaction-to-f1s-new-madrid-circuit/10854695/</id>
+    <title>[Fórmula 1] Reacción breve pero significativa de Max Verstappen ante el nuevo circuito de F1 en Madrid</title>
+    <updated>2026-09-11T19:11:39.094846+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/f1-spanish-gp-introduces-cashless-payment-system-how-mad-coins-work/10854248/"/>
-    <summary>El GP de España de F1, que se llevará a cabo del 11 al 13 de septiembre, implementará un sistema de pago sin efectivo llamado MAD-Coins. Este sistema permitirá a los fanáticos pagar sus entradas y servicios sin necesidad de efectivo o tarjetas de crédito. La organización ha decidido adoptar esta tecnología para ofrecer una experiencia más segura y eficiente para los asistentes. Además, el evento marcará la primera visita de F1 a la nueva pista de Madring.
+    <link href="https://www.motorsport.com/f1/news/max-verstappens-short-but-telling-reaction-to-f1s-new-madrid-circuit/10854695/"/>
+    <summary>La primera aparición de F1 en el circuito rodeado del complejo IFEMA en Madrid ha producido menos caos de lo que algunos en el paddock podrían haber temido. Aunque las sesiones de F3 y F2 han visto varios choques y hasta un coche que ha arder en llamas, la única incidente de F1 hasta ahora ha sido un choque para Arvid Lindblad. Por ahora, el Madring no ha demostrado ser un 'matador de coches' ... Por ahora, el circuito sigue sin problemas
 
 Contexto IA (informativo):
-El GP de España de F1 es el 14to evento de la temporada 2026 y se llevará a cabo en el nuevo circuito de Madring. La organización ha estado trabajando en la implementación de este sistema de pago sin efectivo para mejorar la experiencia de los fanáticos.</summary>
-    <published>2026-09-10T15:42:01+00:00</published>
+El circuito de F1 en Madrid ha sido objeto de expectación en el paddock, con algunos temiendo que podría ser un 'car killer' debido a su diseño. Sin embargo, las primeras sesiones han sido más tranquilas de lo esperado.</summary>
+    <published>2026-09-11T18:00:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy</id>
-    <title>[Tecnología] Dónde preordenar la nueva Apple Watch Series 12 y Ultra 4</title>
-    <updated>2026-09-10T16:14:22.080887+00:00</updated>
+    <id>https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/</id>
+    <title>[Fórmula 1] De 'alto riesgo' a 'la mejor carrera en Europa' - Los pilotos de F1 comparten sus primeras impresiones en Madring</title>
+    <updated>2026-09-11T19:11:39.094814+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"/>
-    <summary>Apple presentó su nueva Apple Watch Series 12 y Ultra 4, aunque no hubo actualizaciones para el modelo SE. Ambas nuevas relojeras ofrecen actualizaciones significativas en su interior, lo que podría interesar a algunos usuarios. La Apple Watch Series 12 y Ultra 4 están disponibles para preordenar, aunque no hay cambios en el precio. El modelo SE seguirá siendo relevante con la Apple Watch SE 3.
+    <link href="https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/"/>
+    <summary>Los pilotos de F1 que han probado el circuito de Madring en el simulador han expresado su aprobación por su diseño de alta compromiso, aunque no todos están tan satisfechos. El circuito, que combina la naturaleza desafiante de un circuito de la calle con mucho espacio, ha sido calificado como uno de los más exigentes del año. Los pilotos están preparados para uno de los fines de semana más desafiantes del año.
 
 Contexto IA (informativo):
-La Apple Watch Series 12 y Ultra 4 ofrecen mejoras en su rendimiento y tecnología, lo que podría atraer a aquellos interesados en actualizaciones en sus relojes inteligentes.</summary>
-    <published>2026-09-10T15:00:00+00:00</published>
+El circuito de Madring es el nuevo circuito de la carrera de la española Grand Prix, que se llevó a cabo el pasado año en el circuito de Barcelona. El circuito de Madring ha sido diseñado para ofrecer una experiencia única para los pilotos, con su combinación de curvas y rectas.</summary>
+    <published>2026-09-11T18:12:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/</id>
-    <title>[Tecnología] La venta de Nintendo es 'posible' gracias a los reembolsos de aranceles que está acumulando</title>
-    <updated>2026-09-10T16:14:22.080854+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/</id>
+    <title>[Fórmula 1] Riesgo alto y posibilidad de 'caos' - los conductores abren sobre el nuevo circuito de Madring de F1</title>
+    <updated>2026-09-11T19:11:39.094782+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/"/>
-    <summary>Nintendo anuncia una venta de clientes que se debe a los reembolsos de aranceles que ha acumulado. La venta, que comienza el fin de semana pasado, ofrece descuentos del 30% en juegos digitales y físicos, así como accesorios y merchandising. La empresa ha acumulado $300 millones en reembolsos de aranceles, pero no los ha devuelto a los consumidores. En su lugar, ha optado por una venta que se considera una forma de agradecer a los jugadores por su apoyo. La venta incluye descuentos en juegos, DLC, físicos y accesorios, y se extenderá hasta el 26 de septiembre.
+    <link href="https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/"/>
+    <summary>Los conductores de F1 han expresado su apoyo al nuevo circuito de Madring, que combina elementos de circuitos de carretera con un alto nivel de compromiso. Aunque algunos no están tan convencidos, muchos han disfrutado de la experiencia en el simulador y están preparados para un fin de semana desafiante. El circuito ofrece una mezcla única de dificultades, lo que podría llevar a situaciones emocionantes durante el Gran Premio de España.
 
 Contexto IA (informativo):
-La decisión de Nintendo de no devolver los reembolsos de aranceles a los consumidores ha generado controversia, ya que algunos argumentan que la empresa está aprovechando la situación para obtener más dinero de los jugadores. La venta de este fin de semana es una forma de agradecer a los jugadores, pero también puede ser vista como una estrategia para obtener más beneficios.</summary>
-    <published>2026-09-10T15:00:56+00:00</published>
+El circuito de Madring es el nuevo circuito de F1 que sustituirá al circuito de Barcelona en el próximo año. Aunque su diseño es diferente, muchos expertos consideran que ofrece un desafío similar al circuito de Barcelona.</summary>
+    <published>2026-09-11T18:12:35+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/mike-mcfarland-one-piece-dragon-ball-z-anime-funimation-crunchyroll-passed-away-2000809858</id>
-    <title>[Tecnología] Fallece el prolífico actor de doblaje de anime Mike McFarland a los 56 años</title>
-    <updated>2026-09-10T16:14:22.080795+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/mike-mcfarland-one-piece-dragon-ball-z-anime-funimation-crunchyroll-passed-away-2000809858"/>
-    <summary>El actor de doblaje de anime Mike McFarland, conocido por sus papeles en Dragon Ball Z, One Piece y Fullmetal Alchemist, falleció el 9 de septiembre a los 56 años. McFarland había sido diagnosticado con glioblastoma, un tipo de cáncer cerebral, en agosto de 2025. Su muerte fue confirmada por su representante. McFarland había sido un actor prolífico en la industria del doblaje de anime, con una larga lista de créditos en series como Chainsaw Man, Mob Psycho 100 y My Hero Academia. Su muerte ha sido conmocionante para la comunidad del doblaje de anime y sus fans. McFarland había sido un actor apasionado y versátil, conocido por su trabajo en una variedad de proyectos, incluyendo películas, series de televisión y videojuegos. Su legado vivirá en sus amigos, colegas y fans, que lo recuerdan como un hombre amable y generoso.
-
-Contexto IA (informativo):
-La noticia de la muerte de Mike McFarland ha sido recibida con conmoción y tristeza por la comunidad del doblaje de anime y sus fans. Los actores y actrices que trabajaron con él, como Veronica Taylor y Casey Kenny Mongillo, han compartido sus recuerdos y tributos en las redes sociales. La industria del doblaje de anime ha perdido a un talento y un hombre amable, y su legado vivirá en sus obras y en la comunidad que lo rodeaba.</summary>
-    <published>2026-09-10T15:15:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/overlooked-climate-feedback-loops-could-make-global-warming-30-worse-2000809851</id>
-    <title>[Tecnología] Los ciclos de retroalimentación climática desatendidos pueden hacer que el calentamiento global sea 30% peor</title>
-    <updated>2026-09-10T16:14:22.080760+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/overlooked-climate-feedback-loops-could-make-global-warming-30-worse-2000809851"/>
-    <summary>Mientras la humanidad llena el atmósfera de emisiones de carbono, las temperaturas globales están alimentando incendios forestales, derretimiento de permafrost, calecemento de humedales y otros fenómenos que producen aún más emisiones. Los científicos saben que estos ciclos de retroalimentación están empeorando el cambio climático, pero la mayoría de los modelos no tienen en cuenta. Un nuevo estudio revela cuán peligrosa puede ser esta brecha. Los hallazgos, publicados hoy en la revista Environmental Research Letters, muestran que las emisiones inducidas por el calentamiento pueden llevar a un aumento adicional de 0,4 a 0,7 grados Fahrenheit (0,2 a 0,4 grados Celsius) de calentamiento a mediados del siglo XXI, ampliando el calentamiento antropogénico post-2020 en un 20% a un 30%.
-
-Contexto IA (informativo):
-La investigación muestra que incluso si la humanidad logra emisiones netas cero, los ciclos de retroalimentación climática pueden llevar a un aumento adicional de 0,4 grados Fahrenheit (0,2 grados Celsius) de calentamiento a finales del siglo XXI. Esto se debe a que las emisiones inducidas por el calentamiento pueden llevar a un aumento en la cantidad de gases de efecto invernadero en la atmósfera, lo que a su vez puede llevar a un aumento en la temperatura global.</summary>
-    <published>2026-09-10T15:30:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai</id>
-    <title>[Tecnología] Universal Music lanza plataforma de música AI con ElevenLabs</title>
-    <updated>2026-09-10T16:14:22.080699+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"/>
-    <summary>La Universal Music Group lanzará una plataforma de música AI que permitirá a los usuarios crear remixes, mashups y nuevas versiones de canciones a partir de su catálogo de música licenciada. La compañía está desarrollando la plataforma a través de un acuerdo de licencia a largo plazo con ElevenLabs, una empresa especializada en generación de voz y música AI. Los artistas pueden elegir participar en la plataforma que está en desarrollo, que marca otro acuerdo de licencia AI para la compañía. La Universal Music ya está trabajando en una plataforma de música AI con Udio y ha firmado acuerdos de licencia AI con Spotify, Nvidia y Kl.
-
-Contexto IA (informativo):
-Esta plataforma de música AI es la última de una serie de acuerdos de licencia AI que ha firmado la Universal Music Group en los últimos tiempos.</summary>
-    <published>2026-09-10T15:38:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/</id>
-    <title>[Tecnología] Yoto anuncia dos nuevos dispositivos de audio para niños</title>
-    <updated>2026-09-10T16:14:22.080663+00:00</updated>
+    <id>https://www.engadget.com/2255941/where-should-apple-go-after-the-iphone-duo/</id>
+    <title>[Tecnología] Dónde debería ir Apple después del iPhone Duo: ¡trazos más pequeños y más grandes!</title>
+    <updated>2026-09-11T19:11:39.094747+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/"/>
-    <summary>Yoto ha anunciado dos nuevos dispositivos de audio para niños, incluyendo el cuarto generación del Yoto Player y una versión actualizada del Yoto Mini. Ambos dispositivos incluyen un gran botón verde para acceder a contenido favorito de los niños. El nuevo Yoto Player cuenta con una pantalla de píxeles y una interfaz de usuario más fácil de usar, mientras que el Yoto Mini ha sido actualizado con una nueva interfaz y una mayor resistencia a los elementos. Ambos dispositivos tienen un precio más alto que sus versiones anteriores, pero ofrecen características más avanzadas y una mejor experiencia para los niños.
+    <link href="https://www.engadget.com/2255941/where-should-apple-go-after-the-iphone-duo/"/>
+    <summary>Después del lanzamiento del iPhone Duo, Apple debería seguir el ejemplo de Samsung y otros fabricantes de teléfonos. Un iPhone Flip, con una pantalla externa para notificaciones y tareas básicas, sería una innovación obvia. Además, una tableta foldable iPad Pro con una pantalla interna y una pantalla externa podría diferenciarse de la iPad Air. Apple tiene la ventaja de software, pero podría tomar tiempo desarrollar esta tecnología. Un iPhone Flip y una tableta foldable iPad Pro podrían ser una excelente opción para aquellos que buscan una experiencia de usuario más versátil.
 
 Contexto IA (informativo):
-Estos dispositivos están diseñados para ser fáciles de usar y para proporcionar una experiencia de audio segura y divertida para los niños. La compañía también ha anunciado la disponibilidad de varios accesorios, como casas de protección para los dispositivos y un mando inalámbrico para el Yoto Card.</summary>
-    <published>2026-09-10T15:47:08+00:00</published>
+El iPhone Duo ha demostrado que Apple puede crear un teléfono foldable, y ahora es hora de seguir el ejemplo de Samsung y otros fabricantes. La empresa podría lanzar un iPhone Flip con una pantalla externa para notificaciones y tareas básicas, y una tableta foldable iPad Pro con una pantalla interna y una pantalla externa. Esto podría ser una excelente opción para aquellos que buscan una experiencia de usuario más versátil.</summary>
+    <published>2026-09-11T15:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/</id>
-    <title>[Programación] Optimizando un Spin-Lock</title>
-    <updated>2026-09-10T16:14:22.080626+00:00</updated>
+    <id>https://www.wired.com/story/petlibro-discount-code/</id>
+    <title>[Tecnología] Ofertas Petlibro: 30% de descuento en septiembre de 2026</title>
+    <updated>2026-09-11T19:11:39.094715+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/story/petlibro-discount-code/"/>
+    <summary>Petlibro ofrece descuentos del 30% en sus productos esenciales para mascotas, como comestibles automáticos, fuentes de agua y accesorios para mantener a los gatos y perros alimentados, hidratados y cómodos todos los días.
+
+Contexto IA (informativo):
+Esta oferta se aplica solo en productos de Petlibro y no se puede combinar con otras promociones.</summary>
+    <published>2026-09-11T16:19:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms</id>
+    <title>[Tecnología] Desvelamos el iPhone Duo</title>
+    <updated>2026-09-11T19:11:39.094681+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"/>
+    <summary>Apple presentó su primera terminal móvil doble, un paso audaz en su historia. La CEO John Ternus tuvo la oportunidad de presentar su primer evento como CEO, y el iPhone Duo es una excelente manera de hacerlo. Allison Johnson se une a mí para hablar sobre las nuevas iPhones, que ella tuvo la oportunidad de probar en Cupertino. Ambos tenemos algunas preguntas sobre la cámara variable de aperture en el iPhone 18 Pro y si el verdadero cambio es en este dispositivo. La Apple Watch también está equipada con nuevas características de inteligencia artificial. En este episodio de The Vergecast, exploramos todo esto y más.
+
+Contexto IA (informativo):
+La Apple ha estado trabajando en este proyecto durante varios años y ha sido un tema de interés para los fanáticos de la marca. El iPhone Duo es un paso importante en la evolución de la tecnología móvil y nos permite ver cómo Apple está adaptándose a los cambios en el mercado.</summary>
+    <published>2026-09-11T16:22:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</id>
+    <title>[Tecnología] Matt Mullenweg regresa como CEO de Automattic dos días después de ser despedido</title>
+    <updated>2026-09-11T19:11:39.094648+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"/>
+    <summary>Matt Mullenweg ha sido reinstalado como CEO de Automattic dos días después de ser colocado en una licencia pagada, según un mensaje de Slack visto por TechCrunch. El CEO había expresado que el CFO Mark Davies había conspirado con el consejo de dirección, que había votado para ponerlo en una licencia pagada. Sin embargo, Davies afirmó que Mullenweg seguiría siendo miembro del consejo. Un portavoz de Automattic confirmó que Mullenweg estaba actualmente en el cargo.
+
+Contexto IA (informativo):
+El CEO de Automattic, Matt Mullenweg, fue colocado en una licencia pagada el miércoles, según informó 404 Media. El incidente ocurrió después de una votación en la que el consejo de dirección decidió poner a Mullenweg en una licencia pagada y nombrar a Davies como interim CEO.</summary>
+    <published>2026-09-11T17:16:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/</id>
+    <title>[Tecnología] Imágenes detalladas de Meta's headset de realidad mixta</title>
+    <updated>2026-09-11T19:11:39.094614+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/"/>
+    <summary>Meta ha mostrado imágenes detalladas de su headset de realidad mixta, conocido como Project Phoenix, lo que sugiere que el dispositivo podría estar cerca de su lanzamiento. Las imágenes, publicadas por UploadVR, muestran una forma de headset ligera y similar a los dispositivos de realidad virtual como el Aura de Xreal. Aunque no se puede ver claramente la parte delantera del dispositivo, se espera que incluya una configuración de cámara y controles de seguimiento de manos. Meta planea presentar una sesión en su evento de desarrolladores, Connect, que podría ser la primera oportunidad para ver el dispositivo en acción. Sin embargo, el lanzamiento del headset se espera que sea en la primera mitad de 2027, lo que podría afectar la estrategia de marketing de la empresa.
+
+Contexto IA (informativo):
+La publicación de estas imágenes sugiere que Meta podría estar planeando un lanzamiento más temprano que lo que se había anticipado. Aunque no se ha confirmado el lanzamiento del headset, la presentación de una sesión en Connect podría ser una oportunidad para que la empresa muestre el dispositivo y generar interés entre los desarrolladores y los medios.</summary>
+    <published>2026-09-11T17:28:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/hear-peter-cullens-final-optimus-prime-performance-in-new-transformers-short-clip-2000810671</id>
+    <title>[Tecnología] Escucha el último desempeño de Optimus Prime de Peter Cullen en un nuevo clip de Transformers</title>
+    <updated>2026-09-11T19:11:39.094576+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/hear-peter-cullens-final-optimus-prime-performance-in-new-transformers-short-clip-2000810671"/>
+    <summary>La reedición teatral de Transformers: La Película se acompañará de un coda bittersweet: Optimus Prime: Despertar, un corto animado de 12 minutos que presenta el último desempeño vocal de Peter Cullen como líder de los Autobots. Cullen, quien había dado vida a Optimus Prime desde la serie original de Transformers en la década de 1980, falleció hace un mes a los 85 años. La película de Transformers: La Película se reestrenará en cines desde el 17 de septiembre al 22 de septiembre. El corto presentará un momento crítico en la historia de Optimus Prime, en el que su relación con Bumblebee se vuelve peligrosa. El desempeño de Cullen en este momento será emocionalmente impactante. El corto se considera un tributo a los fans de Transformers y se estrenará en cines después de la película de Transformers: La Película. El actor Frank Welker, quien también ha trabajado en la franquicia, ha expresado que el trabajo de Cullen fue inspirado en sus propias creencias: honestidad, lealtad y siempre hacer lo correcto. El director de la película ha descrito el corto como un 'cartel de amor' para los fans de Transformers que 'se basa en la narrativa y las imágenes aclamadas de la película de Transformers: La Película'.
+
+Contexto IA (informativo):
+El fallecido actor Peter Cullen había sido la voz de Optimus Prime desde la serie original de Transformers en la década de 1980. El corto presentará un momento crítico en la historia de Optimus Prime, en el que su relación con Bumblebee se vuelve peligrosa. El director de la película ha expresado que el corto es un tributo a los fans de Transformers.</summary>
+    <published>2026-09-11T18:30:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</id>
+    <title>[Programación] Cómo escribir un documento de diseño efectivo</title>
+    <updated>2026-09-11T19:11:39.094537+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/"/>
-    <summary>Un spin-lock es un bloqueo que nunca duerme. En lugar de ceder al scheduler, la thread permanece en el CPU y gira. No se utilizan llamadas al sistema ni se realizan cambios de contexto. En este artículo, construiremos una versión, paso a paso, que es 5.7 veces más rápida mientras se consume 5.4 veces menos energía. Se realizó un benchmark con diferentes configuraciones de threads. La versión optimizada reduce significativamente el tiempo de espera y la energía consumida, lo que la hace ideal para aplicaciones de alta frecuencia, como los centros de comercio de valores.
+    <link href="https://refactoringenglish.com/excerpts/write-an-effective-design-doc/"/>
+    <summary>Un buen documento de diseño puede ahorrar años de tiempo de desarrollo. Escribir un documento de diseño obliga a pensar en decisiones importantes antes de desperdiciar tiempo en implementaciones incorrectas. Es la mejor manera de coordinar decisiones de diseño entre compañeros de trabajo y equipos de colaboración. El autor comparte su enfoque para crear documentos de diseño efectivos y explica qué pertenece en un documento de diseño y qué no. Un documento de diseño debe articular los problemas duros que se están resolviendo y ayudar a los compañeros de trabajo a darte retroalimentación. El documento debe incluir un ejemplo, consejos sobre cuándo escribir un documento de diseño, cómo invertir tiempo en él y qué pertenece en él. Un documento de diseño debe ser exhaustivo, pero no demasiado largo. Es importante considerar si el proyecto es complejo o riesgoso, si se trabaja en equipo o si hay riesgos catastróficos que se pueden prevenir en el diseño. Un documento de diseño puede ser simple o detallado, dependiendo de las necesidades del equipo. Debe incluir un título, una introducción y una sección sobre qué pertenece en el documento. El documento debe ser claro y conciso, sin detalles innecesarios. Es importante considerar qué decisiones son importantes y qué no. Un documento de diseño debe ser una guía para el equipo, no un documento definitivo. El autor comparte su experiencia en escribir documentos de diseño efectivos y ofrece consejos prácticos para crear un documento de diseño que sea útil y efectivo. El documento de diseño debe ser una herramienta valiosa para el equipo, no un obstáculo. El autor concluye que un documento de diseño efectivo puede ahorrar tiempo y esfuerzo en el desarrollo, y que es una herramienta valiosa para cualquier equipo de desarrollo.
 
 Contexto IA (informativo):
-La optimización de los bloqueos es un tema importante en la programación concurrente, ya que puede tener un impacto significativo en el rendimiento y la eficiencia de las aplicaciones. En este artículo, se explora una optimización específica del spin-lock, que se basa en la utilización de la memoria de ordenamiento para reducir el tiempo de espera y la energía consumida.</summary>
-    <published>2026-09-09T16:54:06+00:00</published>
+El documento de diseño es una herramienta valiosa para cualquier equipo de desarrollo. Es importante considerar que un documento de diseño no es un documento definitivo, sino una guía para el equipo. El autor comparte su experiencia en escribir documentos de diseño efectivos y ofrece consejos prácticos para crear un documento de diseño que sea útil y efectivo. El documento de diseño debe ser claro y conciso, sin detalles innecesarios. Es importante considerar qué decisiones son importantes y qué no. El autor concluye que un documento de diseño efectivo puede ahorrar tiempo y esfuerzo en el desarrollo, y que es una herramienta valiosa para cualquier equipo de desarrollo.</summary>
+    <published>2026-09-11T01:01:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=vOEL_pHFYK0</id>
-    <title>[Programación] La física de la velocidad de base de datos: de 300 a 1.000.000 transacciones por segundo</title>
-    <updated>2026-09-10T16:14:22.080589+00:00</updated>
+    <id>https://shopify.engineering/back-to-native</id>
+    <title>[Programación] Shopify vuelve a utilizar Swift y Kotlin para sus aplicaciones móviles</title>
+    <updated>2026-09-11T19:11:39.094499+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://www.youtube.com/watch?v=vOEL_pHFYK0"/>
-    <summary>En este video animado de 19 minutos, se explora la física detrás de la velocidad de base de datos. El autor analiza conceptos de base de datos, identifica puntos de bloqueo y optimiza el tráfico de escritura para alcanzar 1.000.000 transacciones por segundo. El video es una guía detallada para entender y mejorar la velocidad de base de datos. El autor también comparte sus experiencias y conocimientos en el campo. El video es una herramienta valiosa para cualquier desarrollador o administrador de base de datos. El autor ha compartido su conocimiento y experiencia en el campo de la base de datos. El video es una guía detallada para entender y mejorar la velocidad de base de datos. El autor ha compartido su conocimiento y experiencia en el campo de la base de datos. El video es una herramienta valiosa para cualquier desarrollador o administrador de base de datos.
+    <link href="https://shopify.engineering/back-to-native"/>
+    <summary>Shopify decidió volver a utilizar Swift y Kotlin para sus aplicaciones móviles después de haber utilizado React Native durante varios años. La decisión se tomó después de que los modelos de aprendizaje automático (LLMs) mejoraron significativamente y permitieron a los desarrolladores trabajar de manera más eficiente. Aunque React Native sigue siendo una excelente plataforma, Shopify encontró que la ventaja de utilizar LLMs para implementar características y solucionar problemas había disminuido. La empresa decidió volver a la nata para aprovechar las ventajas de la plataforma y mantenerse cerca de las capacidades de la plataforma y las herramientas de primer partido. Además, Shopify continuará patrocinando y contribuyendo a las bibliotecas de React Native, como React Native Skia y FlashList, para asegurarse de que la transición sea suave y sin sorpresas.
 
 Contexto IA (informativo):
-Este video es una explicación detallada de la física detrás de la velocidad de base de datos, y es una herramienta valiosa para cualquier desarrollador o administrador de base de datos.</summary>
-    <published>2026-09-10T12:01:31+00:00</published>
+En 2021, Shopify comenzó a utilizar LLMs para construir software, lo que permitió una mayor eficiencia en la implementación de características y la solución de problemas. Sin embargo, a medida que los modelos mejoraron, la ventaja de utilizar LLMs para implementar características y solucionar problemas había disminuido. La empresa decidió volver a la nata para aprovechar las ventajas de la plataforma y mantenerse cerca de las capacidades de la plataforma y las herramientas de primer partido.</summary>
+    <published>2026-09-11T06:10:52+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/arapzruto/python-pandas-to-the-rescue-the-ultimate-data-cleanup-guide-2ned</id>
-    <title>[Programación] Guía definitiva de limpieza de datos con Pandas</title>
-    <updated>2026-09-10T16:14:22.080551+00:00</updated>
+    <id>https://www.phoronix.com/news/GCC-13.5-Released</id>
+    <title>[Programación] Se ha lanzado GCC 13.5 con más de 265 correcciones de errores</title>
+    <updated>2026-09-11T19:11:39.094463+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://www.phoronix.com/news/GCC-13.5-Released"/>
+    <summary>El compilador GCC 13.5 ha sido lanzado con más de 265 correcciones de errores, lo que marca el final del GCC 13 series como la última versión de punto de lanzamiento. Los usuarios se recomienda moverse a versiones más recientes de la colección de compiladores GNU, como GCC 16, que es la última versión estable hasta el próximo año. El GCC 13.5 ofrece mejoras significativas, incluyendo soporte para AMD Zen 4, nuevos targets de CPU Intel y soporte para el lenguaje Modula-2. Los usuarios interesados pueden encontrar más información y descargar la versión en el anuncio de la lista de correo electrónico.
+
+Contexto IA (informativo):
+El GCC 13.5 es la última versión de punto de lanzamiento del GCC 13 series, y se recomienda a los usuarios moverse a versiones más recientes de la colección de compiladores GNU.</summary>
+    <published>2026-09-11T15:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/alifar/google-search-consoles-missing-june-data-was-a-reporting-glitch-not-deindexing-588</id>
+    <title>[Programación] El problema de datos de búsqueda de Google en junio fue un fallo de informes, no una desindexación</title>
+    <updated>2026-09-11T19:11:39.094423+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/arapzruto/python-pandas-to-the-rescue-the-ultimate-data-cleanup-guide-2ned"/>
-    <summary>La limpieza de datos es un paso crucial en cualquier análisis de datos. En este artículo, exploraremos las mejores prácticas para limpiar y preparar datos con la biblioteca Pandas de Python. Comprenderemos la importancia de la calidad de los datos y cómo utilizar Pandas para detectar y eliminar errores, así como para limpiar y standardizar columnas categóricas. Al final, tendremos un conjunto de datos limpio y listo para análisis.
+    <link href="https://dev.to/alifar/google-search-consoles-missing-june-data-was-a-reporting-glitch-not-deindexing-588"/>
+    <summary>En junio de 2026, Google Search Console experimentó problemas de informes, incluyendo una retrasada actualización del informe de índice de página. Esto llevó a que muchos propietarios de sitios creyeran que la actividad de índice había cesado o que las páginas habían desaparecido de Google. Sin embargo, se descubrió que el problema era un fallo de informes, no una desindexación masiva. El informe de índice de página se actualizó finalmente el 29 de junio, y se aclaró que el problema era un artefacto histórico del informe, no un evento de desindexación repentino. Además, se reportó un error de registro en el Discover el 24 de junio, que afectó a algunas impresiones relacionadas con las características de inteligencia artificial. Sin embargo, se restauró el datos perdidos en los informes de rendimiento el 21 de agosto. Es importante recordar que los informes de Google Search Console son productos de datos con ciclos de procesamiento y actualización, por lo que es fundamental verificar la información con herramientas directas y agregar anotaciones para explicar las anomalías conocidas.
 
 Contexto IA (informativo):
-La limpieza de datos es un paso fundamental en cualquier análisis de datos. Un conjunto de datos sucio puede llevar a conclusiones erróneas y afectar la precisión de los resultados. En este artículo, exploraremos las mejores prácticas para limpiar y preparar datos con la biblioteca Pandas de Python, lo que nos permitirá obtener resultados confiables y precisos.</summary>
-    <published>2026-09-10T15:47:15+00:00</published>
+Es importante recordar que los informes de Google Search Console son productos de datos con ciclos de procesamiento y actualización, por lo que es fundamental verificar la información con herramientas directas y agregar anotaciones para explicar las anomalías conocidas. Al revisar los informes de junio de 2026, es crucial distinguir entre la información actual y la información del pasado, y no asumir que un cambio en el informe significa un cambio en el rendimiento de búsqueda o la cobertura de índice.</summary>
+    <published>2026-09-11T18:45:30+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/matarturo/taming-spas-with-vortex-how-a-crawler-actually-understands-react-vue-and-angular-57dn</id>
-    <title>[Programación] Domar a las SPAs con VORTEX: Cómo un Crawler Entiende React, Vue y Angular</title>
-    <updated>2026-09-10T16:14:22.080494+00:00</updated>
+    <id>https://dev.to/yukimi-inu/stop-showing-your-team-ai-costs-in-dollars-show-them-in-human-time-15m</id>
+    <title>[Programación] Muestre los costos de la inteligencia artificial en unidades de tiempo humano, no en dólares</title>
+    <updated>2026-09-11T19:11:39.094371+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/matarturo/taming-spas-with-vortex-how-a-crawler-actually-understands-react-vue-and-angular-57dn"/>
-    <summary>Un experimento mental: se abre una SPA construida con React y se le pide a un scanner que la audite. El scanner genera un informe con una logo y un progreso, pero no encuentra vulnerabilidades críticas. Esto es el punto de partida del motor de evaluación VORTEX. El autor explica cómo el crawler funciona y cómo se diferencia de los demás, destacando la capacidad de simular el comportamiento del usuario y analizar el bundle de JavaScript. El autor destaca la importancia de este enfoque para detectar vulnerabilidades que otros scanners no pueden encontrar.
+    <link href="https://dev.to/yukimi-inu/stop-showing-your-team-ai-costs-in-dollars-show-them-in-human-time-15m"/>
+    <summary>Los costos de la inteligencia artificial pueden crecer alarmantemente cuando se utilizan herramientas de API para toda la empresa. Para evitar que los costos se vuelvan un problema, se necesita encontrar una forma de mostrar los costos de manera que sea comparable con el costo del trabajo humano. El autor propone utilizar unidades de tiempo humano, que se basan en el costo de emplear a un empleado medio, para hacer que los costos sean más comprensibles y evaluables. Esto puede ayudar a los usuarios a reflexionar sobre la eficiencia de su uso de la inteligencia artificial y tomar decisiones informadas.
 
 Contexto IA (informativo):
-El autor de la noticia destaca la importancia de detectar vulnerabilidades en las aplicaciones web, especialmente en las SPAs (Single Page Applications) que se han vuelto cada vez más comunes. El autor explica que los scanners tradicionales no pueden detectar estas vulnerabilidades porque solo buscan en la estructura HTML y no simulan el comportamiento del usuario. El autor destaca que el motor de evaluación VORTEX es capaz de superar este limitado y detectar vulnerabilidades que otros scanners no pueden encontrar.</summary>
-    <published>2026-09-10T15:47:32+00:00</published>
+El problema de los costos de la inteligencia artificial es que pueden crecer rápidamente y hacer que sea difícil para los líderes de equipo justificar el gasto. El autor sugiere que mostrar los costos en unidades de tiempo humano puede ser una solución efectiva para evitar que los costos se vuelvan un problema y fomentar un uso más eficiente de la inteligencia artificial.</summary>
+    <published>2026-09-11T18:49:06+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/oussamamater/a-series-of-unfortunate-jobs-33bk</id>
-    <title>[Programación] Tres trampas comunes en Laravel queues</title>
-    <updated>2026-09-10T16:14:22.080259+00:00</updated>
+    <id>https://dev.to/hiper2d/i-put-a-lot-of-myself-into-this-writing-its-more-like-the-process-of-transfering-the-vision-into-389c</id>
+    <title>[Programación] El proceso de transferir la visión a un video con un poco de ayuda de AI</title>
+    <updated>2026-09-11T19:11:39.094284+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/oussamamater/a-series-of-unfortunate-jobs-33bk"/>
-    <summary>En este artículo, el autor comparte tres trampas comunes en Laravel queues que pueden causar problemas en la implementación de jobs. La primera trampa se refiere a la configuración de la fecha de vencimiento del job, que puede ser confusa. La segunda trampa se relaciona con la configuración de la supervisor en Horizon, que puede causar que los jobs se retraten indefinidamente. La tercera trampa se refiere a la implementación de jobs únicos, que pueden requerir una configuración especial. El autor proporciona consejos prácticos para evitar estas trampas y mejorar la implementación de jobs en Laravel.
+    <link href="https://dev.to/hiper2d/i-put-a-lot-of-myself-into-this-writing-its-more-like-the-process-of-transfering-the-vision-into-389c"/>
+    <summary>En este artículo, Aliaksei Zelianouski comparte su experiencia en la creación de un video con AI. Comienza explicando los pasos necesarios para producir un video de una minuto, desde la selección del contenido hasta la edición final. También menciona la importancia de la herramienta FFmpeg y la colaboración de la plataforma ClaudeCode. El autor destaca la facilidad de uso de la herramienta y la calidad del resultado final. El video es una guía práctica para aquellos que desean aprender a crear videos con AI.
 
 Contexto IA (informativo):
-El autor de este artículo es un desarrollador experimentado que ha trabajado con Laravel durante varios años. Ha enfrentado varias dificultades al implementar jobs en su aplicación y ha aprendido de sus errores. En este artículo, comparte sus conocimientos para ayudar a otros desarrolladores a evitar las trampas comunes en Laravel queues.</summary>
-    <published>2026-09-10T15:47:32+00:00</published>
+El autor, Aliaksei Zelianouski, es un experto en producción de videos y ha trabajado en varias proyectos de este tipo. En este artículo, comparte sus conocimientos y experiencias para ayudar a los lectores a entender el proceso de creación de un video con AI.</summary>
+    <published>2026-09-11T18:49:50+00:00</published>
   </entry>
 </feed>
