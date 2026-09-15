@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-14T13:09:29.971493+00:00</updated>
+  <updated>2026-09-15T13:09:05.858366+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,191 +11,163 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-14/american-miner-signs-rwanda-tungsten-deal-to-grow-western-supply</id>
-    <title>[Economía] Un minero estadounidense firma un acuerdo con Ruanda para obtener y procesar tungsteno</title>
-    <updated>2026-09-14T13:09:29.972458+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/zorlu-enerji-bond-set-for-record-drop-as-firm-taps-debt-advisers</id>
+    <title>[Economía] Caída del bono de Zorlu Enerji como la empresa turca busca asesoramiento para deudas</title>
+    <updated>2026-09-15T13:09:05.859366+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-14/american-miner-signs-rwanda-tungsten-deal-to-grow-western-supply"/>
-    <summary>Un minero estadounidense está trabajando con el gobierno de Ruanda para obtener y procesar tungsteno, lo que ayuda a construir una cadena de suministro occidental para este metal estratégico, reduciendo la dependencia de China. El acuerdo busca aumentar la seguridad y la sostenibilidad del suministro de tungsteno. El minero estadounidense busca diversificar su suministro y reducir su dependencia de China. El acuerdo también puede ayudar a Ruanda a generar ingresos
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/zorlu-enerji-bond-set-for-record-drop-as-firm-taps-debt-advisers"/>
+    <summary>La empresa turca Zorlu Enerji ha contratado asesores para sus deudas internacionales, lo que ha llevado a una caída en el valor de su bono a su mayor punto de caída en la historia. La empresa enfrenta dificultades debido a la debilidad de la lira turca y las ventas más débiles, lo que la hace más difícil para pagar sus deudas internacionales. Esto ha generado preocupación entre los inversores y ha llevado a una revaluación de la situación financiera de la empresa.
 
 Contexto IA (informativo):
-El acuerdo se produce en un momento en que la dependencia de China en el suministro de tungsteno es cada vez más evidente. El minero estadounidense busca aprovechar las oportunidades de crecimiento en Ruanda y diversificar su suministro de tungsteno.</summary>
-    <published>2026-09-14T10:00:00+00:00</published>
+La caída del bono de Zorlu Enerji se debe a la combinación de factores económicos y financieros que afectan a la empresa. La empresa turca enfrenta desafíos en el mercado energético y la lira turca ha experimentado una caída significativa en su valor, lo que ha reducido la capacidad de la empresa para pagar sus deudas internacionales.</summary>
+    <published>2026-09-15T10:34:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1</id>
-    <title>[Economía] Acciones de tecnología caen después de que grupos de inteligencia artificial llaman por un frenado</title>
-    <updated>2026-09-14T13:09:29.972424+00:00</updated>
-    <author>
-      <name>International homepage</name>
-    </author>
-    <link href="https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1"/>
-    <summary>Las acciones de las empresas de tecnología han caído después de que grupos de inteligencia artificial (IA) han llamado a un frenado en el desarrollo de estas empresas. Los expertos en el sector consideran que la IA puede tener un impacto significativo en la economía y que es importante tener un equilibrio entre el progreso tecnológico y la regulación. Los grupos de IA han expresado su preocupación por la falta de regulación en el sector y han llamado a los gobiernos a tomar medidas para frenar el crecimiento excesivo de las empresas de tecnología. Sin embargo, otros expertos argumentan que la IA puede ser una herramienta valiosa para mejorar la productividad y la eficiencia en diversas industrias. Es importante que los gobiernos y las empresas trabajen juntas para encontrar un equilibrio entre el progreso tecnológico y la regulación para garantizar que la IA se desarrolle de manera responsable y beneficiosa para la sociedad.
-
-Contexto IA (informativo):
-La caída de las acciones de tecnología se debe en parte a la preocupación sobre el impacto de la IA en la economía y la sociedad. Los grupos de IA han expresado su preocupación por la falta de regulación en el sector y han llamado a los gobiernos a tomar medidas para frenar el crecimiento excesivo de las empresas de tecnología.</summary>
-    <published>2026-09-14T10:15:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/14/business/dealbook/ai-slowdown-dc-beijing.html</id>
-    <title>[Economía] El debate sobre el retraso del desarrollo de la inteligencia artificial se ha extendido a nivel mundial</title>
-    <updated>2026-09-14T13:09:29.972393+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/14/business/dealbook/ai-slowdown-dc-beijing.html"/>
-    <summary>Un llamado a ralentizar el desarrollo de la inteligencia artificial ha sacudido los mercados y generado reacciones en Washington y Pekín. Algunos temen que no sea suficiente
-
-Contexto IA (informativo):
-El debate sobre el retraso del desarrollo de la inteligencia artificial ha generado preocupación en algunos sectores, que temen que no se tomen medidas efectivas para mitigar sus riesgos.</summary>
-    <published>2026-09-14T12:01:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html</id>
-    <title>[Economía] Irán destruye avión de vigilancia estadounidense en el Golfo Pérsico</title>
-    <updated>2026-09-14T13:09:29.972361+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html</id>
+    <title>[Economía] El FED aumentará al menos dos veces en el próximo año, según encuesta de CNBC</title>
+    <updated>2026-09-15T13:09:05.859333+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html"/>
-    <summary>El gobierno iraní afirmó que destruyó un avión de vigilancia estadounidense en el Golfo Pérsico, lo que se suma a una serie de operaciones militares entre Irán y Estados Unidos. La situación en el Golfo Pérsico sigue sin mostrar signos de calma, con diplomáticos de ambos países intercambiando advertencias y ataques. El presidente Donald Trump ha dicho que Estados Unidos seguirá su campaña contra Irán y tomará el control de sus recursos energéticos, lo que podría llevar a una resolución del conflicto en el próximo año.
+    <link href="https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html"/>
+    <summary>Un mayoría de los expertos en la encuesta de CNBC Fed Survey prevén al menos dos aumentos de la tasa de interés en el próximo año, con algunos prediciendo tres o más. Esto se debe a que la inflación no ha respondido a las medidas tomadas por el FED y los precios del petróleo siguen subiendo. Los expertos creen que la inflación se ha extendido más allá de los precios del petróleo y que el FED debe tomar medidas para controlarla. La probabilidad de una recesión sigue siendo baja, pero el crecimiento del PIB y la tasa de desempleo siguen siendo bajos. Los expertos también creen que el FED debe ser más transparente en sus decisiones
 
 Contexto IA (informativo):
-El conflicto en el Golfo Pérsico ha estado en suspenso durante siete meses, con diplomáticos de ambos países sin llegar a un acuerdo. El presidente Trump ha dicho que espera que el conflicto termine este año, posiblemente después de las elecciones del próximo noviembre, y que los precios del petróleo disminuirán significativamente.</summary>
-    <published>2026-09-14T12:02:21+00:00</published>
+El FED decidirá sobre las tasas de interés el miércoles en su reunión de dos días. La última reunión fue en julio. Los expertos creen que el FED debe ser más activo para controlar la inflación, pero también temen que las tasas de interés sean demasiado altas y afecten la economía.</summary>
+    <published>2026-09-15T11:52:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-14/crispin-odey-loses-bid-to-overturn-uk-financial-services-ban</id>
-    <title>[Economía] Crispin Odey pierde su apelación para anular la prohibición de su carrera en servicios financieros</title>
-    <updated>2026-09-14T13:09:29.972327+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html</id>
+    <title>[Economía] Tasa de préstamo de EE. UU. cerca de su máximo en 20 años debido a las fluctuaciones en los precios del petróleo</title>
+    <updated>2026-09-15T13:09:05.859302+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html"/>
+    <summary>La tasa de préstamo de 10 años de la Tesorería de EE. UU. ha superado niveles no vistos desde 2007, debido a las preocupaciones crecientes sobre la inflación impulsada por la energía que están generando ansiedad entre los inversores de bonos.
+
+Contexto IA (informativo):
+Estas fluctuaciones en los precios del petróleo han aumentado las preocupaciones sobre la inflación, lo que ha llevado a un aumento en la tasa de préstamo de la Tesorería de EE. UU.</summary>
+    <published>2026-09-15T11:56:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/brightshore-capital-launches-250-million-property-debt-platform</id>
+    <title>[Economía] Brightshore Capital lanza plataforma de propiedad con $250 millones</title>
+    <updated>2026-09-15T13:09:05.859271+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-14/crispin-odey-loses-bid-to-overturn-uk-financial-services-ban"/>
-    <summary>Crispin Odey perdió su apelación para anular la prohibición de su carrera en servicios financieros, marcando el final de una caída espectacular de su carrera como gestor de fondos. La prohibición fue impuesta después de que Odey se involucrara en una serie de escándalos financieros y de corrupción. El fundador de la empresa de gestión de fondos Odey Asset Management, Odey, había sido acusado de lavar dinero y de tener vínculos con organizaciones terroristas. La Comisión de Valores y Emisiones británica (FCA) impuso la prohibición después de que Odey admitiera sus errores y se comprometiera a cumplir con las normas de gestión de fondos. La decisión de la FCA fue vista como un golpe para Odey, quien había sido considerado uno de los mejores gestores de fondos del Reino Unido. La prohibición también afectó a su empresa, Odey Asset Management, que vio su valor disminuir significativamente. Odey ha estado fuera de la industria financiera desde entonces y ha estado sin trabajo desde que se le impuso la prohibición.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/brightshore-capital-launches-250-million-property-debt-platform"/>
+    <summary>La empresa de bienes raíces global Brightshore Capital, anteriormente conocida como GTIS Partners, ha lanzado su primera plataforma de inversión en deuda de bienes raíces con un capital inicial de $250 millones, en un momento en que las necesidades de financiamiento de los constructores de viviendas se están acumulando. La plataforma busca ofrecer a los inversores una oportunidad de rendimiento atractiva en un mercado donde la demanda de financiamiento para los proyectos de construcción de viviendas está en aumento. Además, la plataforma permitirá a Brightshore Capital ampliar su presencia en el mercado de la deuda de bienes raíces y fortalecer su posición como una de las principales empresas de este segmento. La empresa espera que la plataforma sea un éxito y genere importantes ingresos para sus inversores.
 
 Contexto IA (informativo):
-La prohibición de Odey fue parte de una serie de medidas tomadas por la FCA para mejorar la regulación de la industria financiera en el Reino Unido. La FCA ha estado trabajando para prevenir la corrupción y la lavado de dinero en la industria, y ha impuesto sanciones a varios gestores de fondos y empresas que han violado las normas de regulación.</summary>
-    <published>2026-09-14T12:33:26+00:00</published>
+La lanzamiento de esta plataforma es una oportunidad valiosa para Brightshore Capital, que busca aprovechar el creciente demanda de financiamiento para los proyectos de construcción de viviendas en todo el mundo. La empresa también busca diversificar su cartera de inversiones y reducir su dependencia de los ingresos de sus activos existentes.</summary>
+    <published>2026-09-15T12:00:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide</id>
-    <title>[Data Science] De la codiga espagueti a Python limpio: Una guía para principiantes</title>
-    <updated>2026-09-14T13:09:29.972295+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html</id>
+    <title>[Economía] Los inesperados aliados políticos en la regulación del A.I.</title>
+    <updated>2026-09-15T13:09:05.859239+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide"/>
-    <summary>Aprenda a refactorizar el código espagueti de Python en funciones limpias y mantenibles. Aprenda a separar las responsabilidades y mantener claras las relaciones entre las piezas de lógica. Aprenda a modelar datos con una clase de datos en lugar de un diccionario y a reemplazar los errores con advertencias. Aprende a probar las funciones individuales y a aplicar el mismo patrón a su propio código. Trabajaremos en un script paso a paso desde su estado no mantenible hasta una versión limpia y organizada. Puede encontrar el código en GitHub.
+    <link href="https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html"/>
+    <summary>Lina Khan, la ex presidenta de la F.T.C., se une a otros pensadores en el debate creciente sobre los riesgos potenciales de la inteligencia artificial. La regulación del A.I. es un tema que ha ganado trascendencia en los últimos tiempos, con figuras como Lina Khan, quien ha expresado su opinión sobre el tema. La regulación del A.I. es un tema complejo que requiere una consideración cuidadosa de sus implicaciones. Los expertos están buscando formas de equilibrar la innovación con la necesidad de proteger a los ciudadanos. La regulación del A.I. es un tema que seguirá siendo objeto de debate en los próximos meses.
 
 Contexto IA (informativo):
-Un ejemplo de código espagueti en Python que calcula un descuento, actualiza la inventaria y envía un correo electrónico dentro de una misma función. El problema es que el código está muy entrelazado y hay un error oculto que puede ser difícil de detectar.</summary>
-    <published>2026-09-11T14:00:10+00:00</published>
+En un mundo donde la inteligencia artificial está cada vez más presente en nuestras vidas, la regulación del A.I. se ha convertido en un tema de gran importancia. Los expertos están buscando formas de abordar los riesgos potenciales de la inteligencia artificial y encontrar un equilibrio entre la innovación y la protección de los ciudadanos.</summary>
+    <published>2026-09-15T12:15:55+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/</id>
-    <title>[Data Science] De habilidades estáticas a dinámicas: un modelo diferente para el conocimiento del agente</title>
-    <updated>2026-09-14T13:09:29.972262+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html</id>
+    <title>[Economía] La tasa de interés del Tesoro de 10 años alcanza su nivel más alto desde 2007</title>
+    <updated>2026-09-15T13:09:05.859206+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"/>
+    <summary>La tasa de interés del Tesoro de 10 años alcanzó su nivel más alto en 19 años debido a la subida de los precios del petróleo y las expectativas de que la Reserva Federal aumente las tasas de interés. Esta subida puede tener un impacto en la economía ya que la tasa de interés de 10 años es un indicador importante para los préstamos y la financiación corporativa. Los precios del petróleo han subido debido a la conflictividad en Irán y las expectativas de que la Reserva Federal aumente las tasas de interés en su próximo encuentro. La tasa de interés del Tesoro de 30 años también subió, lo que puede aumentar la presión sobre las tasas de interés en el futuro. Los expertos consideran que la relación entre los precios del petróleo y las tasas de interés puede seguir siendo fuerte en el futuro.
+
+Contexto IA (informativo):
+La Reserva Federal se reúne este martes para discutir su política monetaria y las expectativas de que aumenten las tasas de interés. Los mercados están preciosando una mayor probabilidad de que la Reserva Federal aumente las tasas de interés en su próximo encuentro.</summary>
+    <published>2026-09-15T12:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/</id>
+    <title>[Data Science] Crear una base de conocimiento compartida para todos tus agentes en 30 minutos</title>
+    <updated>2026-09-15T13:09:05.859172+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/"/>
+    <summary>Los agentes de inteligencia artificial aprenden y guardan sus conocimientos en sí mismos, lo que significa que cada vez que trabajamos en un problema, debemos empezar de nuevo. Al agregar un agente de servidor a la mezcla, terminamos explicando el mismo contexto a diferentes herramientas cada vez que cambiamos de herramienta. Sajal Sharma, un ingeniero de inteligencia artificial, encontró esta solución y creó una base de conocimiento personal para actuar como un cerebro compartido para todos sus agentes. En esta semana del programa "Zero to Agent in 30 Minutes", Sajal muestra cómo configurar esta base de conocimiento para que un tarea agregada en una herramienta aparezca en todas las demás. El proceso se divide en cinco pasos: crear un mapa de trabajo, agregar notas diarias a resúmenes, conectar el archivo de trabajo con el archivo de código, paquetar tareas repetitivas como habilidades y sincronizar el espacio de trabajo en diferentes máquinas. Sajal también menciona dos proyectos que demuestran que esta solución está ganando popularidad, OpenWiki y GBrain. El starter repo de Sajal está disponible en GitHub y se puede discutir el tema con él en LinkedIn.
+
+Contexto IA (informativo):
+El programa "Zero to Agent in 30 Minutes" es una serie de podcasts que enseña a los oyentes a crear agentes de inteligencia artificial en 30 minutos. El programa es moderado por Sajal Sharma, un ingeniero de inteligencia artificial que ha encontrado una solución para el problema de los agentes de inteligencia artificial que aprenden y guardan sus conocimientos en sí mismos. El programa se transmite en varias plataformas, incluyendo Radar, YouTube, Spotify, Apple y O'Reilly.</summary>
+    <published>2026-09-14T15:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/</id>
+    <title>[Data Science] ¿Quién controla la descubierta científica?</title>
+    <updated>2026-09-15T13:09:05.859138+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/"/>
+    <summary>El actual alboroto en matemáticas puede ser el canario en la mina para la ciencia experimental y el trabajo de conocimiento. La colaboración entre humanos y máquinas puede llevar a una comprensión superficial de los resultados, sin profundidad. El mundo de la inteligencia artificial (IA) está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. El mundo de la IA está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. La IA puede producir resultados verificados sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente. La colaboración entre matemáticos, herramientas de IA y verificación de pruebas formales está expandiendo lo que se puede descubrir. Los matemáticos están produciendo más pruebas matemáticas verificadas que no entienden individuos humanos. El sistema actual está roto, basado en la publicación de artículos, la presión de la publicación y los revíes no pagados. La abundancia de pruebas matemáticas verificadas es un tema de debate. ¿Qué papel debe jugar la IA en la ciencia? ¿Qué tipo de comprensión se busca en la IA?
+
+Contexto IA (informativo):
+El mundo de la IA está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. La IA puede producir resultados verificados sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir.</summary>
+    <published>2026-09-15T10:55:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/</id>
+    <title>[Data Science] ¿Cuántos ejemplos etiquetados necesita un clasificador de texto realmente?</title>
+    <updated>2026-09-15T13:09:05.859102+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/"/>
-    <summary>La inflación de habilidades es un problema que se centra en el mal lugar. En lugar de abordar el problema de la caché sin protocolo de invalidación, la solución es cambiar la forma en que se almacenan las habilidades. Las habilidades estáticas son como una caché que no tiene protocolo de invalidación. Se basan en la información que alguien ha buscado mientras escribía la habilidad, sin seguimiento de dependencias ni tiempo de vida. Esto hace que las habilidades se vuelvan obsoletas y se multipliquen. La solución es cambiar la forma en que se almacenan las habilidades, autorizando un archivo que mantiene la intención, la procedencia, el contrato de salida y el alcance sobre la conocimiento de la empresa. Cada hecho se resuelve en un contexto vivo al momento de que el agente solicita. La solución es una alternativa a la RAG con metadata filters, MCP resources y recursos de composición. La solución es una forma de abordar el problema de la inflación de habilidades de manera diferente.
+    <link href="https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/"/>
+    <summary>Antes de recurrir a APIs de LLM para cada problema de clasificación de texto, es importante conocer qué un basamento clásico puede hacer con los datos etiquetados que se tienen — y exactamente cuánto más datos compra el clasificador. El problema de clasificación de texto se ha vuelto el default para problemas como la ruta de soporte técnico, la etiquetación de retroalimentación y la clasificación de solicitudes de entrada. Sin embargo, esta conveniencia tiene un costo que la mayoría de las equipos nunca miden: el clasificador de texto con un LLM requiere una llamada a la API y un cargo por solicitud en cada una de las solicitudes, para siempre. Un clasificador clásico como TF-IDF con un clasificador lineal cuesta nada para ejecutarse una vez entrenado — no hay API, no hay llamada a la red, un tiempo de inferencia sub-milisegundos. La pregunta que vale la pena responder antes de recurrir a un LLM no es "¿cuál método es mejor" en abstracto. Es: ¿cuántos datos etiquetados tengo realmente, y cuán buena es la opción gratuita y instantánea con ellos?
 
 Contexto IA (informativo):
-La solución se basa en la idea de que el conocimiento del agente debe ser dinámico y se actualice en tiempo real. La solución es una forma de abordar el problema de la inflación de habilidades de manera diferente, en lugar de seguir la misma ruta que la industria actual.</summary>
-    <published>2026-09-14T11:00:01+00:00</published>
+En este artículo se explora la relación entre la cantidad de datos etiquetados y el rendimiento de un clasificador de texto. El autor realiza un experimento para determinar cuántos ejemplos etiquetados son necesarios para mejorar la precisión del clasificador. Los resultados muestran que la precisión aumenta rápidamente al principio, pero luego se estabiliza. El autor concluye que la primera mano de datos etiquetadas es la más importante para mejorar la precisión del clasificador.</summary>
+    <published>2026-09-15T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release</id>
-    <title>[Data Science] ¿Por qué DeepSeek-V4.1-Flash es tan emocionante una versión abierta de modelo</title>
-    <updated>2026-09-14T13:09:29.972225+00:00</updated>
+    <id>https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/</id>
+    <title>[Data Science] Tratar plantillas de instrucciones como hiperparámetros en Scikit-LLM GridSearchCV</title>
+    <updated>2026-09-15T13:09:05.859069+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release"/>
-    <summary>DeepSeek-V4.1-Flash muestra cómo la arquitectura de Causal Encoder-Decoder, MoE, KV cache comprimida, CSA2, prefill más económico y decodificación eficiente pueden hacer modelos de inteligencia artificial abiertos más eficientes para ejecutar. DeepSeek ha lanzado DeepSeek-V4.1-Flash y aunque los números de benchmark son impresionantes, no son probablemente la parte más interesante de esta versión. La arquitectura es lo que realmente importa. DeepSeek está abordando varios problemas que se están volviendo cada vez más importantes a medida que la inteligencia artificial se acerca a los agentes largos: el prefill caro, los grandes cachés de clave-valor, los contextos largos, la banda de memoria y el costo de mantener el estado del agente a lo largo de las interacciones. En lugar de simplemente hacer que el modelo más grande, DeepSeek ha re diseñado varias partes de la arquitectura y el stack de inferencia para hacer que los modelos de contexto largo sean más baratos de ejecutar. DeepSeek-V4.1-Flash es un modelo de 552B-parameters de Mixture-of-Experts, pero solo 8B-parameters están activos por token durante el prefill y 16B-parameters durante la decodificación. Soporta un contexto de ventana de un millón de tokens, acepta tanto texto como imágenes y reduce su caché de clave-valor global a solo 890 bytes por token. El modelo fue entrenado desde cero en 45 trillones de tokens multimodales y también incluye un componente de memoria condicional de 196B-parameters, que se accede de manera esparcia en lugar de ejecutarse como parámetros de la capa de fondo. Los números más importantes aquí son probablemente 8B, 16B y 890 bytes. Muestran qué es lo que DeepSeek está realmente optimizando: un procesamiento de entrada más barato, más computo cuando se genera y un pie de memoria dramáticamente más pequeño para contextos largos. Las principales adiciones arquitectónicas incluyen la Causal Encoder-Decoder (CED), la atención comprimida esparse 2 (CSA2), el almacenamiento de clave-valor FP4, el SWA Bounded Replay, la memoria condicional engram y la Single-Pass mHC. Juntas, están diseñadas para reducir el computo, el uso de memoria, el almacenamiento y el costo de generación. DeepSeek ha encontrado una forma más económica de leer peticiones largas
+    <link href="https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/"/>
+    <summary>En este artículo, aprenderás a tratar las plantillas de instrucciones como hiperparámetros tunables para un modelo de lenguaje, utilizando la búsqueda de hiperparámetros en Scikit-learn para encontrar la plantilla de instrucción más efectiva para una tarea de clasificación de texto sin datos de entrenamiento. Cubriremos temas como: cómo envolver un modelo de lenguaje en un clasificador compatible con Scikit-learn, cómo definir un espacio de hiperparámetros de plantillas de instrucciones y ejecutar una búsqueda cruzada de hiperparámetros. También aprenderás a interpretar los resultados para identificar cuál es la plantilla de instrucción que produce la precisión de clasificación más alta. En este artículo, mostraremos cómo utilizar el mismo enfoque que se utiliza en la tradicional máquina aprendizaje para encontrar la combinación de hiperparámetros óptima, pero en lugar de ajustar los hiperparámetros de un modelo, ajustaremos las plantillas de instrucciones para encontrar la combinación óptima para un modelo de lenguaje. Trataremos de determinar qué plantilla de instrucción funciona mejor para un modelo de lenguaje y cómo podemos automatizar el proceso de evaluación y calificar la precisión de clasificación. También aprenderás a utilizar un clasificador cero de texto, que no requiere entrenamiento adicional para clasificar, sino que utiliza la conocimiento del modelo preentrenado para inferir la clase (positiva o negativa).
 
 Contexto IA (informativo):
-La arquitectura de DeepSeek-V4.1-Flash es una combinación de varias tecnologías que trabajan juntas para reducir el computo y el uso de memoria. La clave es la forma en que el modelo procesa la información y la forma en que se utiliza la memoria. En lugar de procesar toda la información de una vez, DeepSeek-V4.1-Flash utiliza una técnica llamada 'prefill' que permite al modelo leer y procesar la petición de manera más eficiente. Esto permite al modelo generar respuestas más rápidas y con más precisión. Además, la arquitectura de DeepSeek-V4.1-Flash incluye una técnica llamada 'CSA2' que comprime la información de atención, lo que reduce el uso de memoria y el computo.</summary>
-    <published>2026-09-14T12:00:09+00:00</published>
+La búsqueda de hiperparámetros es una técnica común en la máquina aprendizaje para encontrar la combinación de hiperparámetros óptima para un modelo. En este artículo, mostraremos cómo aplicar esta técnica a la búsqueda de plantillas de instrucciones para un modelo de lenguaje, lo que puede mejorar la precisión de clasificación en tareas de texto sin datos de entrenamiento.</summary>
+    <published>2026-09-15T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/</id>
-    <title>[Data Science] Ingeniería de Gráfos para Agentes de Inteligencia Artificial: De Preguntas y Ciclos a Flujos de Trabajo</title>
-    <updated>2026-09-14T13:09:29.972192+00:00</updated>
+    <id>https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/</id>
+    <title>[Data Science] El Silueta Oculta de los Momentos Estadísticos</title>
+    <updated>2026-09-15T13:09:05.859037+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/"/>
-    <summary>La ingeniería de gráfos para agentes de inteligencia artificial representa un cambio significativo en cómo se construyen los sistemas de inteligencia artificial. Este artículo explora qué significa la ingeniería de gráfos, cómo se diferencia de la ingeniería de promesas, el contexto y el ciclo, y por qué es importante. La ingeniería de gráfos permite definir estructuras de trabajo avanzadas que permiten a los modelos de inteligencia artificial tomar decisiones basadas en la experiencia y no solo en la confianza del modelo. Esto puede mejorar la calidad de los resultados y reducir la necesidad de validación y rechequeo manual. El objetivo es hacer que los ciclos de trabajo simples se conviertan en flujos de trabajo estructurados y eficientes.
+    <link href="https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/"/>
+    <summary>Los momentos estadísticos son una forma de medir la forma de una distribución de datos. Se definen como la expectativa de una función potenciada de una variable aleatoria. Los momentos están relacionados con la media, la varianza, la skewness y la kurtosis. Aunque estos métodos están presentes en estadística y aprendizaje automático, se puede cuestionar su valor adicional. Sin embargo, los momentos ofrecen una forma unificada de abordar estos conceptos, permitiendo la construcción de herramientas matemáticas generales que manipulan la potencia -ésima de una distribución. Esto permite una mayor eficiencia en la manipulación de datos y una mayor flexibilidad en la modelización de distribuciones.
 
 Contexto IA (informativo):
-La ingeniería de gráfos para agentes de inteligencia artificial es un concepto que ha ganado popularidad en la comunidad de inteligencia artificial en los últimos tiempos. Aunque la ingeniería de promesas, el contexto y el ciclo son técnicas importantes en la construcción de sistemas de inteligencia artificial, la ingeniería de gráfos representa un cambio significativo en cómo se abordan los problemas de inteligencia artificial.</summary>
-    <published>2026-09-14T12:30:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855755/</id>
-    <title>[Fórmula 1] Honda reemplaza jefe de unidad de potencia en F1 con reorganización</title>
-    <updated>2026-09-14T13:09:29.972161+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855755/"/>
-    <summary>La empresa japonesa Honda ha reemplazado al líder del proyecto de unidad de potencia de F1, Tetsushi Kakuda, por su asistente actual, Yoichiro Fukao, a partir del 1 de octubre. La Honda Racing Corporation ha anunciado que este cambio forma parte de una reorganización planificada. La empresa busca recuperar su posición en la competencia. El cambio se produce en un momento en el que la empresa busca mejorar su desempeño en la categoría.
-
-Contexto IA (informativo):
-El cambio de liderazgo en Honda se produce en un contexto en el que la empresa busca mejorar su desempeño en la categoría. La empresa ha estado experimentando dificultades en la temporada actual.</summary>
-    <published>2026-09-14T07:53:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/</id>
-    <title>[Fórmula 1] Organizadores de la GP de España prometen cambios en el circuito de Madrid</title>
-    <updated>2026-09-14T13:09:29.972130+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/"/>
-    <summary>Los organizadores de la GP de España de F1 en Madrid están dispuestos a hacer ajustes en el circuito de Madring para mejorar la overtaking y han recibido recomendaciones de la FIA. El circuito de 5.4km alrededor de las instalaciones de IFEMA en Madrid, que hizo su debut en la competencia el fin de semana pasado, fue elogiado por los conductores y las equipos por sus instalaciones y su desafío de conducción. Aunque el circuito es considerado difícil, los organizadores están dispuestos a hacer cambios para mejorar la experiencia del espectador.
-
-Contexto IA (informativo):
-El circuito de Madring es el segundo circuito de F1 en España, después del circuito de Barcelona. Los organizadores están trabajando para hacer que la GP de España sea una de las más emocionantes de la temporada.</summary>
-    <published>2026-09-14T09:17:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/</id>
-    <title>[Fórmula 1] Max Verstappen afirma que su carrera podría haber terminado en el primer accidente con Lewis Hamilton</title>
-    <updated>2026-09-14T13:09:29.972098+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/"/>
-    <summary>Max Verstappen logró su quinto pódum en siete finales de carrera en el Gran Premio de España, donde se colocó en el segundo lugar detrás de Kimi Antonelli. Según el cuatro veces campeón mundial, esto fue más de lo que realmente merecía. Verstappen afirmó que se aprovechó al máximo el resultado y tuvo un poco de suerte, especialmente con el accidente que afectó a Lewis Hamilton. El piloto holandés expresó su sorpresa al ver que su rival no terminó en el primer lugar. Verstappen también destacó la importancia de la estrategia y la habilidad para aprovechar las oportunidades en la carrera. En general, Verstappen se mostró satisfecho con el resultado, aunque reconoció que el accidente con Hamilton fue un factor clave en su victoria.
-
-Contexto IA (informativo):
-El Gran Premio de España fue la primera carrera de la temporada de Fórmula 1, y Verstappen se mostró enfocado y determinado desde el principio. La victoria de Kimi Antonelli en el primer lugar fue un sorpreso para muchos, pero Verstappen se aseguró de aprovechar al máximo la oportunidad y llevarse el segundo lugar.</summary>
-    <published>2026-09-14T10:00:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/</id>
-    <title>[Fórmula 1] Romain Grosjean se disculpa con McLaren después de comentarios controversiales</title>
-    <updated>2026-09-14T13:09:29.972067+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/"/>
-    <summary>El comentarista de Fórmula 1 y Canal+ Romain Grosjean se disculpa públicamente con McLaren y Zak Brown por comentarios que hizo durante la cobertura del Gran Premio de España en el Circuito de Madrid. Grosjean criticó duramente los comentarios del principal de McLaren durante la clasificación, que inicialmente creía que habían sido dañinos para el piloto Oscar Piastri
-
-Contexto IA (informativo):
-Grosjean se presentó en Madrid para cubrir el Gran Premio de España, donde criticó duramente los comentarios del principal de McLaren durante la clasificación, pero no ha proporcionado detalles sobre qué comentarios específicos criticó ni qué relación tiene con el piloto Oscar Piastri.</summary>
-    <published>2026-09-14T10:57:28+00:00</published>
+En estadística, los momentos están relacionados con conceptos como la media, la varianza y la skewness. La kurtosis es una medida de la forma de una distribución, mientras que la skewness es una medida de la simetría de una distribución. Los momentos están unidos por una fórmula matemática que les permite ser tratados de manera uniforme, lo que permite una mayor eficiencia en la manipulación de datos y una mayor flexibilidad en la modelización de distribuciones.</summary>
+    <published>2026-09-15T12:30:01+00:00</published>
   </entry>
   <entry>
     <id>https://racer.com/2026/09/14/vsc-procedures-called-into-question-after-norris--lost-Madrid-win</id>
     <title>[Fórmula 1] Se cuestionan las procedimientos de VSC tras la pérdida de Norris en Madrid</title>
-    <updated>2026-09-14T13:09:29.972036+00:00</updated>
+    <updated>2026-09-15T13:09:05.859005+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
@@ -207,185 +179,227 @@ La pérdida de Norris en Madrid ha generado una gran cantidad de comentarios y d
     <published>2026-09-14T11:44:06+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/14/-unnecessary-alonso-radio-call-led-to-penalty---sainz</id>
-    <title>[Fórmula 1] La llamada de radio de Alonso innecesaria podría haber evitado la penalización</title>
-    <updated>2026-09-14T13:09:29.972005+00:00</updated>
+    <id>https://racer.com/2026/09/14/norris-joins-mclaren-hypercar-test-at-portimao</id>
+    <title>[Fórmula 1] Norris se une al test de McLaren Hypercar en Portimao</title>
+    <updated>2026-09-15T13:09:05.858974+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/14/-unnecessary-alonso-radio-call-led-to-penalty---sainz"/>
-    <summary>Carlos Sainz y Fernando Alonso se chocaron en su carrera de casa, lo que podría haber sido un accidente si Alonso no hubiera llamado a la radio. Sainz piensa que la penalización podría haber sido evitada si Alonso no hubiera hecho esa llamada. El piloto español se siente frustrado por la situación y busca explicaciones para lo que sucedió.
+    <link href="https://racer.com/2026/09/14/norris-joins-mclaren-hypercar-test-at-portimao"/>
+    <summary>El campeón mundial de Fórmula 1 Lando Norris ha probado el McLaren MCL-HY Hypercar en el Autódromo Internacional do Algarve en Portimão, el quinto test de pista del Hypercar de McLaren. Norris llegó directamente a Portugal desde la primera carrera de Fórmula 1 en el Circuito de Madring, donde logró la pole position
 
 Contexto IA (informativo):
-El accidente ocurrió en un tramo de la pista donde ambos conductores se conocen bien y es probable que hubiera sido un accidente si no hubiera habido una llamada de radio. La situación ha generado una gran discusión entre los aficionados y los expertos.</summary>
-    <published>2026-09-14T12:05:02+00:00</published>
+El test de pista es parte de la preparación del equipo para la temporada de Fórmula 1. El Circuito de Madring es un circuito nuevo que ha sido utilizado por primera vez en la carrera de Fórmula 1.</summary>
+    <published>2026-09-14T20:28:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</id>
-    <title>[Tecnología] Trump y Mike Johnson piensan que la industria del AI está reaccionando de manera excesiva</title>
-    <updated>2026-09-14T13:09:29.971970+00:00</updated>
+    <id>https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/</id>
+    <title>[Fórmula 1] Slater pasa a F2 en 2027</title>
+    <updated>2026-09-15T13:09:05.858941+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/"/>
+    <summary>Freddie Slater, segundo en la Fórmula 3 y junior de Audi en F1, pasará a la Fórmula 2 con Invicta Racing en 2027. El campeón de la Fórmula Regional Europea de 2025 y el campeón de la Fórmula 4 italiana de 2024, Slater lideró el campeonato durante cuatro podios consecutivos en carreras de características, lo que le permitió ganar la liderazgo del título. Slater se unió a Audi en 2026 para liderar su nuevo programa de desarrollo de conductores, mientras que pasó a la Fórmula 3 con Trident. El joven piloto se convirtió en el piloto más joven en liderar el campeonato de la Fórmula 3. Slater se unirá a Invicta Racing en 2027 para seguir su carrera en la Fórmula 2.
+
+Contexto IA (informativo):
+La transición de Slater a la Fórmula 2 es parte de la estrategia de Audi para desarrollar talentos en el mundo del automovilismo. La empresa ha estado trabajando en su programa de desarrollo de conductores desde 2026 y busca a pilotos prometedores como Slater para liderar su equipo en futuras temporadas.</summary>
+    <published>2026-09-15T09:49:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/</id>
+    <title>[Fórmula 1] Mercedes explica por qué George Russell pitió bajo VSC en el Gran Premio de España</title>
+    <updated>2026-09-15T13:09:05.858911+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/"/>
+    <summary>El vicepresidente de la escudería Mercedes, Bradley Lord, explicó por qué George Russell pitió bajo la virtual seguridad car en el Gran Premio de España, a pesar de haber comenzado con neumáticos duras. Russell fue el único piloto de las principales escuadrías que no siguió la estrategia de un solo pito en el circuito de Madrid, donde el overtaking era escaso. La decisión se debió en gran medida a la intervención del VSC en un momento estratégico. La control de carreras ...
+
+Contexto IA (informativo):
+La decisión de Russell fue controvertida entre los aficionados y los expertos, quienes se preguntaban si había sido la mejor opción. La virtual seguridad car intervino en un momento crítico del pito, lo que hizo que la estrategia de Russell fuera más efectiva.</summary>
+    <published>2026-09-15T11:37:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/</id>
+    <title>[Fórmula 1] Russell y Hamilton pierden las oportunidades de título en F1 2026</title>
+    <updated>2026-09-15T13:09:05.858879+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/"/>
+    <summary>En un giro inesperado, George Russell y Lewis Hamilton han perdido las oportunidades de ganar el título de F1 2026. Enfrentan una competencia dominada por Nyck de Vries, quien ha demostrado ser uno de los pilotos más rápidos del circuito. Aunque Russell y Hamilton han tenido momentos de gran rendimiento, no han podido igualar la velocidad de De Vries, quien se encuentra en una posición de liderazgo inigualable en la clasificación general.
+
+Contexto IA (informativo):
+La temporada de F1 2026 ha sido marcada por una serie de sorpresas y giros inesperados. Aunque Russell y Hamilton han sido consistentes en sus resultados, no han podido superar la velocidad de De Vries, quien ha demostrado ser uno de los pilotos más rápidos del circuito.</summary>
+    <published>2026-09-15T11:40:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/</id>
+    <title>[Fórmula 1] Cinco formas de que F1 pueda mejorar la Madring para el GP de España del próximo año</title>
+    <updated>2026-09-15T13:09:05.858843+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/"/>
+    <summary>Aunque la vuelta de F1 a Madrid ha generado expectación entre los fanáticos, la falta de acción ha dejado a muchos decepcionados. A pesar de que el propio lugar de la Madring ha ofrecido un evento respetable, los organizadores podrían mejorar la experiencia para el segundo año. Madrid's first F1 race in 45 years ran particularly smooth for a first-time event. The organisers planned to capitalise on the IFEMA fairgrounds' existing infrastructure to deliver a more engaging experience for fans. Sin embargo, la falta de acción y la falta de emocionante en el evento han dejado a muchos fanáticos decepcionados. Para mejorar la experiencia, los organizadores podrían considerar algunas sugerencias. Por ejemplo, podrían aumentar la cantidad de carreras o mejorar la calidad de las pistas. También podrían considerar la posibilidad de incluir más actividades para los fanáticos, como conciertos o espectáculos de aéreo. Además, podrían trabajar en mejorar la comunicación con los fanáticos para asegurarse de que se sientan incluidos en el evento. Finalmente, podrían considerar la posibilidad de incluir más sostenibilidad en el evento, como la reducción de residuos o la implementación de medidas de energía renovable. En resumen, hay varias formas en que los organizadores podrían mejorar la Madring para el próximo año
+
+Contexto IA (informativo):
+La Madring es un lugar emblemático en Madrid que ha sido elegido para albergar el primer Gran Premio de F1 en 45 años. Aunque el evento ha sido respetable, hay varias formas en que los organizadores podrían mejorar la experiencia para los fanáticos. En este artículo, exploraremos algunas sugerencias para hacer que la Madring sea aún más emocionante y atractiva para los amantes de la F1.</summary>
+    <published>2026-09-15T12:44:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues</id>
+    <title>[Tecnología] Microsoft emite actualización de emergencia de Windows 11 para solucionar problemas</title>
+    <updated>2026-09-15T13:09:05.858810+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"/>
-    <summary>El CEO de Anthropic, Dario Amodei, publicó una carta abierta en la que propone reducir la velocidad del avance en el desarrollo de la inteligencia artificial. Esto ha sido apoyado por Sam Altman de OpenAI, Elon Musk y Demis Hassabis de Alphabet. Sin embargo, Donald Trump y el hablante de la Cámara de Representantes Mike Johnson creen que los ejecutivos de la industria están siendo demasiado cautelosos y temen que un paréntesis podría dejar que China se adelante a los Estados Unidos en la carrera por la inteligencia artificial. Según el Financial Times, Trump dijo que 'Estamos liderando a China en AI... y, francamente, quiero mantenerlo así, porque quien gana en AI, gana'.
+    <link href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues"/>
+    <summary>Microsoft ha iniciado la distribución de una actualización de emergencia fuera del ciclo regular para solucionar problemas con su última actualización de patch de septiembre, que presentó más de 1.000 vulnerabilidades. Aunque la actualización fue exitosa en términos de solucionar problemas, también introdujo algunos errores que afectaron a empresas, desarrolladores y jugadores. La actualización de emergencia aborda estos problemas en todas las versiones de Windows 11, incluyendo las 26h1, 25H2 y 24H2. Además, Microsoft ha lanzado actualizaciones para Windows Server 2022.
 
 Contexto IA (informativo):
-El debate sobre el ritmo del avance en la inteligencia artificial es un tema de interés público, ya que la competencia en este campo puede tener implicaciones significativas para la economía y la seguridad nacional.</summary>
-    <published>2026-09-13T19:41:48+00:00</published>
+La actualización de emergencia de Microsoft es una respuesta a los problemas que surgieron después de su última actualización de patch de septiembre, que afectó a varios usuarios. La empresa ha estado trabajando para solucionar estos problemas y ha lanzado una actualización de emergencia para proteger a sus usuarios.</summary>
+    <published>2026-09-15T08:54:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy</id>
-    <title>[Tecnología] ¿Qué sucede después de que un pueblo de-Flocks</title>
-    <updated>2026-09-14T13:09:29.971938+00:00</updated>
+    <id>https://www.wired.com/review/system76-pangolin-pro-linux-laptop/</id>
+    <title>[Tecnología] Revisión del portátil System 76 Pangolin Pro: Un poderoso portátil con Linux</title>
+    <updated>2026-09-15T13:09:05.858778+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/review/system76-pangolin-pro-linux-laptop/"/>
+    <summary>El portátil System 76 Pangolin Pro es ideal para usuarios que realizan tareas intensivas con su laptop, como entrenar modelos de inteligencia artificial, compilar software o realizar tareas de desarrollo. Aunque es más caro que el portátil Lemur Pro, ofrece una experiencia de usuario más completa y es más futuroproo. El sistema operativo Pop!_OS Linux es uno de los mejores en la actualidad, ofreciendo una estabilidad y una facilidad de uso que hacen que sea ideal para usuarios diarios. Sin embargo, es importante tener en cuenta que el webcam integrado no es ideal para situaciones profesionales y no soporta firmware abierto. El portátil es fácil de abrir y reparar, lo que facilita la actualización de componentes en el futuro.
+
+Contexto IA (informativo):
+El Pangolin Pro es el portátil más grande y potente de la gama de System 76, y ofrece una experiencia de usuario única con su sistema operativo Pop!_OS Linux. Aunque es más caro que otros portátiles de la marca, es ideal para usuarios que necesitan una máquina poderosa y futura.</summary>
+    <published>2026-09-15T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto</id>
+    <title>[Tecnología] GM actualiza la software de sus camiones para coexistir con CarPlay</title>
+    <updated>2026-09-15T13:09:05.858744+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy"/>
-    <summary>En respuesta a la protesta pública, los gobiernos locales de todo el país están cancelando sus contratos con Flock, la empresa detrás de los lectores de placas de auto equipados con inteligencia artificial. Aunque se terminan los contratos, no significa que las cámaras se bajen de inmediato ni que la información recopilada se elimine en cualquier momento. La incertidumbre persiste sobre qué Flock puede y realizará con los datos recopilados que ya han sido recogidos. Cada jurisdicción tiene un contrato diferente, pero muchos de ellos permiten a Flock retener los datos durante un período prolongado.
+    <link href="https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto"/>
+    <summary>General Motors está mejorando la experiencia de software en sus camiones más populares para reducir la cantidad de taponazos y deslizamientos peligrosos necesarios para acceder a los controles más utilizados. Además, está dando a Apple CarPlay y Android Auto nuevos displays de imagen en imagen más atractivos. Esto es notable considerando la hostilidad de GM hacia el reflejo de teléfonos en sus vehículos eléctricos. Los propietarios de los camiones verán cambios notables cuando el nuevo interfaz se presenta en el Chevrolet Silverado 1500 y GMC Sierra 1500 de 2027 este año. Los cambios incluyen gráficos nuevos y animaciones para el sistema de asistencia al conductor avanzado. El nuevo interfaz también mejorará la experiencia de usuario y facilitará el acceso a las funciones del vehículo.
 
 Contexto IA (informativo):
-Estas decisiones de cancelación de contratos se han producido en varias ciudades, incluyendo Florida y Washington, en respuesta a la creciente preocupación sobre la privacidad y la seguridad. Aunque se han cancelado los contratos, la implementación de estas medidas puede llevar tiempo y requerir la cooperación de varias entidades. La situación sigue siendo compleja y requiere una atención constante para garantizar que se protejan los derechos de los ciudadanos.</summary>
-    <published>2026-09-14T11:00:00+00:00</published>
+El nuevo interfaz de GM se desarrolla en paralelo con la actualización de software de sus vehículos eléctricos, lo que sugiere que la compañía está considerando una mayor integración de los sistemas de entretenimiento y navegación en sus vehículos.</summary>
+    <published>2026-09-15T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784</id>
-    <title>[Tecnología] Los días extremadamente calurosos ahora se están extendiendo a primavera e invierno</title>
-    <updated>2026-09-14T13:09:29.971904+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784"/>
-    <summary>Un estudio reciente sugiere que los días extremadamente calurosos no están limitados solo a los meses más calurosos del año. Analizando 45 años de datos climáticos globales, los investigadores encontraron que los días extremadamente calurosos se han extendido a primavera e invierno en la mitad del mundo desde la década de 1980. Los hallazgos, publicados en AGU Advances, sugieren que los días extremadamente calurosos no están limitados solo a la temporada de verano. En algunos lugares, los días extremadamente calurosos se están extendiendo más hacia la primavera, mientras que en otros se están extendiendo más hacia el invierno. Esto tiene implicaciones importantes para la planificación de protecciones contra el calor, ya que los sistemas de protección están diseñados para el verano. Los investigadores no pueden confirmar qué parte del patrón se debe a los cambios climáticos, pero sugieren que es una de las principales causas.
-
-Contexto IA (informativo):
-La Organización Nacional Oceánica y Atmosférica (NOAA) anunció recientemente que el verano de este año fue el más caluroso en 132 años de registro en los Estados Unidos. A nivel global, agosto estableció un récord de calor y humedad. Los investigadores destacan que los días extremadamente calurosos no solo se están extendiendo a primavera e invierno, sino que también están afectando a las comunidades de manera diferente en diferentes partes del mundo.</summary>
-    <published>2026-09-14T11:30:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/practical-magic-2-dazzles-up-a-bit-of-an-audience-2000811068</id>
-    <title>[Tecnología] Practical Magic 2 encanta un poco al público</title>
-    <updated>2026-09-14T13:09:29.971871+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/practical-magic-2-dazzles-up-a-bit-of-an-audience-2000811068"/>
-    <summary>La secuela de la clásica de 1998 ha abierto con $46 millones en todo el mundo, con $30 millones de ese total proveniente de América del Norte. Aunque no ha sido un éxito en todo el mundo, la película sigue siendo una sorpresa en el mercado de los géneros, derrocando a Spider-Man: Brand New Day en la cima de la taquilla de la semana en América del Norte. La película sigue siendo una opción interesante para los fanáticos de la saga original y las estrellas Sandra Bullock y Nicole Kidman.
-
-Contexto IA (informativo):
-La película sigue en la tradición de la saga original, con un tono mágico y una mezcla de comedia y terror. La película también ha sido bien recibida por la crítica, aunque algunos han criticado su falta de originalidad y su enfoque en la comedia sobre la magia.</summary>
-    <published>2026-09-14T12:00:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2250733/applecare-worth-extra-cost/</id>
-    <title>[Tecnología] ¿Es AppleCare realmente valioso?</title>
-    <updated>2026-09-14T13:09:29.971839+00:00</updated>
+    <id>https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/</id>
+    <title>[Tecnología] 2 formas en que los usuarios de Android pueden aprovechar las accesorios MagSafe de Apple</title>
+    <updated>2026-09-15T13:09:05.858710+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2250733/applecare-worth-extra-cost/"/>
-    <summary>AppleCare es una opción para proteger tus dispositivos Apple contra daños accidentales. Paga un costo adicional, pero puedes evitar costosas reparaciones sin cobertura. La cobertura incluye reparaciones sin límite y protección contra el robo. Sin embargo, es importante considerar otras opciones de seguro y el costo de la cobertura. Si eres cuidadoso con tus dispositivos, puedes ahorrar el dinero y tener fondos para reparaciones o un nuevo dispositivo. La elección depende de tus necesidades y hábitos de uso.
+    <link href="https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/"/>
+    <summary>Aunque MagSafe no está disponible en todos los teléfonos Android, hay formas de aprovechar sus accesorios. Los usuarios de Android pueden utilizar casos con magnetos integrados o accesorios con anillos magnéticos para hacer compatible su teléfono con los accesorios MagSafe. Aunque esto requiere un caso con magnetos o un anillo magnético, la mayoría de los accesorios funcionan con cualquier teléfono que soporte cargamiento inductivo. Los fabricantes de teléfonos como Samsung y OnePlus ofrecen casos con magnetos, y hay opciones de terceros más asequibles. También existen kits de conversión magnéticos que se pueden pegar a los casos existentes, lo que permite utilizar accesorios MagSafe con cualquier teléfono.
 
 Contexto IA (informativo):
-AppleCare es una opción para proteger tus dispositivos Apple contra daños accidentales. La cobertura incluye reparaciones sin límite y protección contra el robo. Sin embargo, es importante considerar otras opciones de seguro y el costo de la cobertura.</summary>
-    <published>2026-09-14T12:30:00+00:00</published>
+Aunque MagSafe no está disponible en todos los teléfonos Android, la mayoría de los fabricantes de teléfonos han adoptado sistemas de cargamiento inductivo, como el Qi2. Esto ha llevado a que algunos teléfonos Android, como los de Google y el HMD Skyline, incluyan magnetos integrados. Sin embargo, la mayoría de los accesorios MagSafe solo están disponibles para teléfonos con casos con magnetos o anillos magnéticos.</summary>
+    <published>2026-09-15T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2257223/music-distributors-agree-to-new-anti-fraud-measures/</id>
-    <title>[Tecnología] Distribuidores de música acuerdan medidas contra la fraude</title>
-    <updated>2026-09-14T13:09:29.971805+00:00</updated>
+    <id>https://gizmodo.com/evangelion-has-been-deemed-worthy-of-the-criterion-channel-but-dont-forget-its-mecha-anime-predecessors-2000811569</id>
+    <title>[Tecnología] ‘Evangelion’ se ha convertido en un título digno de la colección de Criterion, pero no olvidemos sus predecesores de mecha anime</title>
+    <updated>2026-09-15T13:09:05.858672+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/evangelion-has-been-deemed-worthy-of-the-criterion-channel-but-dont-forget-its-mecha-anime-predecessors-2000811569"/>
+    <summary>La inclusión de Neon Genesis Evangelion en la colección de Criterion es un logro notable, ya que el servicio de streaming ofrece una selección curada de películas y programas de televisión influyentes y aclamados. Sin embargo, es importante considerar el contexto en el que se desarrolla la serie, ya que es parte del género de mecha anime. El anime más influyente en este género es Mobile Suit Gundam, que se estrenó en 1979 y rechazó la tendencia popular de los años 50 y 60 de los super robots. La serie sigue a un joven protagonista que controla un robot, pero con una diferencia clave: en Gundam, el robot es controlado de manera más realista y no tiene un origen sobrenatural. Este enfoque se refleja en la serie Evangelion, que explora las consecuencias psicológicas de la guerra en un joven protagonista. Aunque Evangelion es una obra maestra, es importante explorar el contexto en el que se desarrolla la serie para comprender su impacto más profundo.
+
+Contexto IA (informativo):
+Es importante destacar que la serie Evangelion se desarrolla en un contexto de guerra y trauma psicológico, lo que la distingue de otros anime de mecha. La serie también explora temas más maduros, como la identidad y la relación con los padres, lo que la convierte en una obra más compleja y madura que otros títulos de la época.</summary>
+    <published>2026-09-15T12:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/</id>
+    <title>[Tecnología] La forma más fácil de encontrar y eliminar spyware en tu teléfono Android</title>
+    <updated>2026-09-15T13:09:05.858635+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2257223/music-distributors-agree-to-new-anti-fraud-measures/"/>
-    <summary>Los distribuidores de música han acordado implementar medidas para combatir la fraude en la streaming. La iniciativa de la IFPI busca proteger a los artistas, escritores y fans de los efectos negativos de la fraude. Los distribuidores han comprometido a verificar la propiedad de los derechos y la identidad de los clientes, vetar contenido y actuar contra los sospechosos de fraude. La iniciativa busca fortalecer los sistemas de anti-fraude y compartir inteligencia para prevenir que los actores malos se muevan entre las plataformas. Inicialmente, Sony Music Group, Universal Music Group y Merlin han apoyado la iniciativa. La IFPI anima a que más empresas se unan.
+    <link href="https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/"/>
+    <summary>Si tu teléfono Android se ha ralentizado o has estado recibiendo mensajes extraños, es posible que estés infectado con spyware. Aunque el spyware puede parecer un problema serio, eliminarlo no requiere un título de doctorado en informática y la mayoría de las infecciones son fáciles de eliminar en unos pocos pasos. Este artículo te guiará en cómo identificar spyware, cómo eliminarlo de manera segura y cómo mantener tu dispositivo seguro en el futuro. Para detectar spyware, busca cambios en el rendimiento del teléfono, como ralentizaciones, sobrecalentamiento o una batería que se disipa más rápido de lo normal. También puedes notar un aumento en el uso de datos móviles o el espacio de almacenamiento que desaparece sin que hayas instalado nada nuevo. Sin embargo, estos signos no son suficientes por sí solos y debes investigar más a fondo. El spyware se puede instalar a través de phishing o sideloading apps de fuera de la tienda de aplicaciones de Google, por lo que es importante ser cauteloso al descargar apps. Para eliminar spyware, puedes utilizar la función de escaneo de Play Protect, instalar un antivirus confiable y revisar las permisiones de administrador de dispositivos. También puedes intentar eliminar el spyware en modo seguro o realizar un restauración de fábrica si no funciona. Para evitar que el spyware se instale en tu teléfono, es importante seguir las mejores prácticas de seguridad, como descargar apps solo de la tienda de aplicaciones de Google y revisar las reseñas y la información de seguridad antes de instalar.
 
 Contexto IA (informativo):
-La creciente popularidad de la música en streaming ha llevado a un aumento en la comisión de fraude. La iniciativa de la IFPI busca proteger a los artistas y fans de los efectos negativos de la fraude.</summary>
-    <published>2026-09-14T12:56:36+00:00</published>
+Aunque el spyware puede parecer un problema serio, hay medidas que puedes tomar para proteger tu teléfono Android. La clave es ser consciente de las posibles amenazas y tomar medidas preventivas. Al seguir las recomendaciones de este artículo, podrás mantener tu dispositivo seguro y libre de spyware.</summary>
+    <published>2026-09-15T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://frn.sh/go-gc/</id>
-    <title>[Programación] Pausas de GC de Go causadas por intercambio</title>
-    <updated>2026-09-14T13:09:29.971769+00:00</updated>
+    <id>https://leetarxiv.substack.com/p/how-gcc-eliminates-unnecessary-integer</id>
+    <title>[Programación] Cómo GCC Elimina la División de Enteros Necesaria</title>
+    <updated>2026-09-15T13:09:05.858597+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://frn.sh/go-gc/"/>
-    <summary>Un investigador descubrió que las pausas de garbage collection (GC) de Go pueden ser causadas por el intercambio de memoria. El autor de la noticia explica cómo su experimento demostró que el GC de Go puede leer su metadata en un stop-the-world pause y que esta metadata puede estar en el intercambio de memoria. Esto puede causar pausas de hasta 40ms, lo que es 800 veces mayor que la pausa media. El autor también menciona que el costo de la pausa de metadata puede ser mayor que el costo de la pausa de intercambio de memoria. El autor concluye que el intercambio de memoria no es mala, pero que el GC de Go no se comporta bien con él. El autor ha compartido todo el experimento en su repositorio de GitHub.
+    <link href="https://leetarxiv.substack.com/p/how-gcc-eliminates-unnecessary-integer"/>
+    <summary>El compilador GCC utiliza una optimización para eliminar la división de enteros necesaria cuando se utiliza un divisor constante. Esto se logra reemplazando la división con una multiplicación y una comparación. La optimización se conoce como 'magic numbers' y se utiliza en la serie de artículos 'Practical Number Field Sieve for Programmers'. El código de comparación muestra que el compilador GCC encuentra dos números mágicos y reemplaza la división con una multiplicación y una comparación. La optimización también se aplica a la división de enteros regulares. El artículo analiza cómo se encuentran estos números mágicos y su importancia en la optimización del compilador.
 
 Contexto IA (informativo):
-El autor de la noticia menciona que el costo de la pausa de metadata puede ser mayor que el costo de la pausa de intercambio de memoria, y que el autor está investigando cómo reducir este costo.</summary>
-    <published>2026-09-13T08:52:25+00:00</published>
+La optimización de GCC para eliminar la división de enteros necesaria se basa en la utilización de números mágicos. Estos números mágicos son precomputation de cotas de un número elevado a la potencia de 2. Al multiplicar por el número mágico y dividir por la potencia de 2, se puede obtener un resultado redondeado. La optimización se utiliza en la serie de artículos 'Practical Number Field Sieve for Programmers' y se aplica tanto a la división de enteros constantes como a la división de enteros regulares.</summary>
+    <published>2026-09-14T17:40:17+00:00</published>
   </entry>
   <entry>
-    <id>https://brew.sh/2026/09/13/homebrew-7.0.0/</id>
-    <title>[Programación] Homebrew 7.0.0: Mejoras en instalaciones y actualizaciones, fortalecimiento de la sandboxing, aplicación nativa para macOS, verificaciones de vulnerabilidades integradas y una base de datos de recomendaciones, el fin del soporte para macOS 10.15 y los Macs Intel se mueven a Tier 3</title>
-    <updated>2026-09-14T13:09:29.971734+00:00</updated>
+    <id>https://will-keleher.com/posts/small-programming-tricks-matter/</id>
+    <title>[Programación] Trucos de programación pequeños</title>
+    <updated>2026-09-15T13:09:05.858562+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://brew.sh/2026/09/13/homebrew-7.0.0/"/>
-    <summary>Homebrew 7.0.0 introduce mejoras significativas en la instalación y actualización de software. Los usuarios deben actualizar a macOS 11 o posterior, ya que esta es la versión mínima soportada. Además, se ha eliminado la imagen ghcr.io/homebrew/ubuntu22.04 y se recomienda migrar a ghcr.io/homebrew/brew. También se ha eliminado la rama maestra para Homebrew actions y se sugiere utilizar una CalVer release o una SHA completa
+    <link href="https://will-keleher.com/posts/small-programming-tricks-matter/"/>
+    <summary>En este artículo, se presentan algunos trucos de programación pequeños que pueden mejorar la productividad diaria de un ingeniero. Se incluyen consejos sobre cómo utilizar herramientas como sed, git y regular expressions para realizar tareas más eficientemente. También se mencionan algunos trucos de búsqueda y autocompletado en la terminal y en el editor de texto. El autor destaca la importancia de tener conocimientos pequeños pero valiosos que no requieren una gran cantidad de infraestructura mental. Finalmente, se habla sobre la importancia de compartir estos trucos con otros miembros del equipo para mejorar la colaboración y la productividad.
 
 Contexto IA (informativo):
-Es importante destacar que Homebrew 7.0.0 es una versión importante que trae consigo mejoras significativas en la seguridad y la estabilidad del software. Los usuarios deben asegurarse de actualizar a la versión más reciente de macOS para aprovechar todas las mejoras ofrecidas por Homebrew.</summary>
-    <published>2026-09-14T04:38:39+00:00</published>
+El autor destaca la importancia de tener conocimientos pequeños pero valiosos que no requieren una gran cantidad de infraestructura mental. También menciona que estos trucos pueden ser especialmente útiles en entornos de trabajo donde la colaboración y la comunicación son clave.</summary>
+    <published>2026-09-14T22:00:17+00:00</published>
   </entry>
   <entry>
-    <id>https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/</id>
-    <title>[Programación] Cuándo la parte fraccionaria de un número flotante fija tu shader</title>
-    <updated>2026-09-14T13:09:29.971700+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"/>
-    <summary>El autor intentó implementar un pequeño shader de Voronoi para utilizar como fondo de una película musical, pero encontró un problema de estallido en una de sus computadoras. Después de una semana de depuración, descubrió que el problema estaba en la forma en que se generaban los centros de Voronoi. Después de probar en diferentes dispositivos, encontró que el problema solo ocurría en una computadora con un RTX 4070. El autor también encontró que el problema se debía a una inconsistencia en la forma en que se procesaba la información en el shader.
-
-Contexto IA (informativo):
-El autor de la noticia es un programador y desarrollador de shaders, y ha publicado varios artículos sobre su experiencia con shaders y programación gráfica.</summary>
-    <published>2026-09-14T12:22:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/yuval_abu_2de44f01a021b59/we-built-a-prize-draw-engine-where-you-never-have-to-trust-us-here-is-how-1g6h</id>
-    <title>[Programación] Construyimos un motor de sorteo de premios donde nunca debes confiar en nosotros. Aquí está cómo funciona</title>
-    <updated>2026-09-14T13:09:29.971663+00:00</updated>
+    <id>https://dev.to/iamabdul/first-steps-in-ai-engineering-building-a-simple-cli-chatbot-3ck1</id>
+    <title>[Programación] Pioneros en la ingeniería de inteligencia artificial: Construyendo un simple chatbot de CLI</title>
+    <updated>2026-09-15T13:09:05.858525+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/yuval_abu_2de44f01a021b59/we-built-a-prize-draw-engine-where-you-never-have-to-trust-us-here-is-how-1g6h"/>
-    <summary>El problema con los sorteos en línea es que dependen de la palabra de alguien. No hay forma de verificar la aleatoriedad después de que se anuncia el ganador. Nuestro objetivo es crear un sistema donde el ganador sea provablemente el resultado de un proceso fijado con anticipación. Utilizamos una combinación de tres compromisos: el hash del semillero del servidor, el valor de la drand y el pool de participantes. Estos compromisos garantizan que el resultado sea determinista y re reproducible. Nuestro sistema es transparente y auditable, lo que nos permite confiar en él.
+    <link href="https://dev.to/iamabdul/first-steps-in-ai-engineering-building-a-simple-cli-chatbot-3ck1"/>
+    <summary>En este tutorial, se construye un chatbot de CLI simple utilizando la biblioteca Anthropic y el lenguaje de programación Python. El autor busca entender los mecanismos básicos de un ciclo de respuesta-turn en un asistente, y comparte sus notas y experiencias en el proceso. El tutorial cubre desde la configuración del cliente hasta la creación de un sistema de respuesta personalizado. El autor también comparte consejos y trucos para ahorrar tokens y mejorar la eficiencia del chatbot. Al final, se muestra un ejemplo de cómo se puede utilizar el chatbot para responder a preguntas del usuario.
 
 Contexto IA (informativo):
-Nuestro objetivo es crear un sistema de sorteos que sea justo y transparente. No queremos que nadie deba confiar en nosotros para determinar el ganador. Nuestro sistema utiliza una combinación de tecnologías de seguridad para garantizar que el resultado sea determinista y reproducible.</summary>
-    <published>2026-09-14T12:54:27+00:00</published>
+Este tutorial se centra en la construcción de un chatbot de CLI simple utilizando la biblioteca Anthropic y el lenguaje de programación Python. El autor busca entender los mecanismos básicos de un ciclo de respuesta-turn en un asistente y comparte sus notas y experiencias en el proceso. El tutorial cubre desde la configuración del cliente hasta la creación de un sistema de respuesta personalizado.</summary>
+    <published>2026-09-15T12:53:07+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/monuminu/responses-vs-invocations-choosing-the-right-protocol-for-microsoft-foundry-hosted-agents-1blp</id>
-    <title>[Programación] Elige el protocolo adecuado para los agentes anfitriones de Microsoft Foundry</title>
-    <updated>2026-09-14T13:09:29.971610+00:00</updated>
+    <id>https://dev.to/anoymask/hacking-cat-destructive-breaches-using-gorilla-rat-and-monkey-ransomware-5h0p</id>
+    <title>[Programación] Hacking Cat: Ataques destructivos utilizando Gorilla RAT y Monkey Ransomware</title>
+    <updated>2026-09-15T13:09:05.858475+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/monuminu/responses-vs-invocations-choosing-the-right-protocol-for-microsoft-foundry-hosted-agents-1blp"/>
-    <summary>Los agentes anfitriones de Microsoft Foundry permiten a los desarrolladores ejecutar código de agentes en un entorno administrado y observable. Sin embargo, la elección del protocolo HTTP adecuado es crucial para garantizar la funcionalidad y la escalabilidad de la aplicación. Este artículo explora las dos opciones disponibles: Responses y Invocations, y proporciona orientación sobre cómo elegir el protocolo adecuado para cada escenario. También se discuten los beneficios y desventajas de cada protocolo, así como las consideraciones de seguridad, rendimiento y escalabilidad. Al final, se proporcionan recomendaciones prácticas para ayudar a los desarrolladores a tomar la mejor decisión para su proyecto.
+    <link href="https://dev.to/anoymask/hacking-cat-destructive-breaches-using-gorilla-rat-and-monkey-ransomware-5h0p"/>
+    <summary>El grupo Hacking Cat utiliza Gorilla RAT y Monkey ransomware para atacar organizaciones rusas. Los ataques inician con vulnerabilidades en Exchange, y luego se utilizan processos y operaciones de archivo para establecer conexiones remotas. El malware también puede causar la destrucción de archivos y la cifrado de datos. Es importante tomar medidas de seguridad para prevenir estos ataques, como mantener actualizados los sistemas operativos y aplicaciones, y limitar el acceso a los servicios internos.
 
 Contexto IA (informativo):
-Los agentes anfitriones de Microsoft Foundry son una solución para ejecutar código de agentes en un entorno administrado y observable. La elección del protocolo HTTP adecuado es crucial para garantizar la funcionalidad y la escalabilidad de la aplicación. Algunos ejemplos de escenarios en los que se pueden utilizar los protocolos Responses y Invocations incluyen la integración con GitHub Webhooks, la creación de interfaces de usuario (AG-UI) y la ejecución de tareas de Durable Functions.</summary>
-    <published>2026-09-14T12:54:36+00:00</published>
+Estos ataques son parte de una serie de amenazas cibernéticas dirigidas a las organizaciones rusas. La Kaspersky ha identificado varias variantes de malware utilizadas por el grupo Hacking Cat, incluyendo Gorilla RAT y Monkey ransomware. Es importante estar atento a estas amenazas y tomar medidas de seguridad para proteger los sistemas y datos de las organizaciones.</summary>
+    <published>2026-09-15T12:53:08+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/monuminu/autopilots-in-microsoft-foundry-the-identity-model-behind-agents-that-act-as-themselves-3ohn</id>
-    <title>[Programación] Autopilots en Microsoft Foundry: El Modelo de Identidad detrás de los Agentes que Actúan por sí mismos</title>
-    <updated>2026-09-14T13:09:29.971514+00:00</updated>
+    <id>https://dev.to/anoymask/enhanced-viewer-for-twitch-oauth-token-forwarded-to-jeetbot-proxy-2jf0</id>
+    <title>[Programación] Vista aprobada de Twitch: Token OAuth enviados a JeetBot Proxy</title>
+    <updated>2026-09-15T13:09:05.858387+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/monuminu/autopilots-in-microsoft-foundry-the-identity-model-behind-agents-that-act-as-themselves-3ohn"/>
-    <summary>Los agentes eventualmente se enfrentan a la misma barrera: ¿qué hace cuando no hay un usuario para actuar en su nombre? Un evento programado se dispara a las 2 a.m. Un grupo de chat necesita un actualizado status y hay seis personas en la conversación, ninguna de las cuales pidió que se lo hiciera. Un "colaborador digital" está supuesto para triar incidentes en toda la equipo, no para impersonar a quienquiera que esté conectado cuando el aviso llega. Microsoft Foundry tiene una respuesta: una nueva categoría de agentes llamada autopiloto, que no es un patrón de promoción ni un marco de coordinación — es un elemento de identidad. Si has estado construyendo agentes anfitriones de Foundry y asumiste que "autopiloto" era solo una expresión de marketing para "agente muy autónomo," este artículo va a cambiar cómo se entiende el escopo, la provisión y el razonamiento sobre una parte significativa de la arquitectura de agentes de la empresa. Este es el tercer día de la serie Foundry 100 Días / 100 Blogs. El día 1 cubrió los agentes resistentes a los errores de larga duración (leases, puntos de control, barreras de efectos secundarios). El día 2 cubrió los protocolos de respuestas vs. invocaciones de anfitrión. Hoy vamos a ir un nivel más profundo en el plano de la identidad: ¿qué hace que un autopiloto sea diferente de cualquier otro agente de Foundry, cómo funciona su ciclo de vida en cuatro roles distintos y qué se necesita para construir, provisionar y gobernar uno en producción. Los requisitos de madurez: Los autopilots requieren la inscripción en el programa de preview de Frontier y la licencia de Microsoft Agent 365 al momento de escribir. Trate el modelo de identidad como un concepto estable conceptualmente, pero espere que los detalles de la API y la licencia cambien antes de la disponibilidad general. (Verifica el estado actual del programa antes de construir sobre este en producción).
+    <link href="https://dev.to/anoymask/enhanced-viewer-for-twitch-oauth-token-forwarded-to-jeetbot-proxy-2jf0"/>
+    <summary>Una extensión de Twitch para Chrome y Firefox incluyó lógica para enviar tokens de autenticación obtenidos desde la cabecera de autorización a un proxy tercero. La versión de Chrome tiene aproximadamente 30.000 usuarios. El incidente se considera grave debido a que los tokens de autenticación pueden ser utilizados para robar sesiones. Se recomienda instalar y bloquear la extensión, revocar todas las sesiones existentes y re-autenticar. Los tokens de autenticación pueden ser utilizados para robar sesiones, por lo que es importante tomar medidas para proteger la seguridad de los usuarios. El incidente se considera grave y se recomienda tomar medidas para proteger la seguridad de los usuarios.
 
 Contexto IA (informativo):
-El modelo de identidad de autopilots es un concepto estabilizado, pero los detalles de la API y la licencia pueden cambiar antes de la disponibilidad general. Es importante verificar el estado actual del programa antes de construir un autopiloto en producción.</summary>
-    <published>2026-09-14T12:54:44+00:00</published>
+Este incidente se relaciona con la seguridad de la extensión de Twitch y no con un incidente de data leak o abuso de datos. La información proporcionada se basa en análisis de código y no en datos reales de incidentes de seguridad.</summary>
+    <published>2026-09-15T12:53:16+00:00</published>
   </entry>
 </feed>
