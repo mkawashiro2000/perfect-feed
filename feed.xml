@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-15T13:09:05.858366+00:00</updated>
+  <updated>2026-09-16T17:08:05.923080+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,135 +11,107 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-15/zorlu-enerji-bond-set-for-record-drop-as-firm-taps-debt-advisers</id>
-    <title>[Economía] Caída del bono de Zorlu Enerji como la empresa turca busca asesoramiento para deudas</title>
-    <updated>2026-09-15T13:09:05.859366+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap</id>
+    <title>[Economía] Acciones y bonos suben en la vena de la decisión del Fed: Resumen de los mercados</title>
+    <updated>2026-09-16T17:08:05.924118+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-15/zorlu-enerji-bond-set-for-record-drop-as-firm-taps-debt-advisers"/>
-    <summary>La empresa turca Zorlu Enerji ha contratado asesores para sus deudas internacionales, lo que ha llevado a una caída en el valor de su bono a su mayor punto de caída en la historia. La empresa enfrenta dificultades debido a la debilidad de la lira turca y las ventas más débiles, lo que la hace más difícil para pagar sus deudas internacionales. Esto ha generado preocupación entre los inversores y ha llevado a una revaluación de la situación financiera de la empresa.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap"/>
+    <summary>Las acciones y bonos se elevaron después de días de venta, mientras que los precios del petróleo caen. Los traders creen que la Reserva Federal aumentará las tasas de interés para combatir la inflación y fortalecer su credibilidad. La decisión del Fed es crucial para el mercado de valores, que espera una respuesta clara sobre el futuro de las tasas de interés.
 
 Contexto IA (informativo):
-La caída del bono de Zorlu Enerji se debe a la combinación de factores económicos y financieros que afectan a la empresa. La empresa turca enfrenta desafíos en el mercado energético y la lira turca ha experimentado una caída significativa en su valor, lo que ha reducido la capacidad de la empresa para pagar sus deudas internacionales.</summary>
-    <published>2026-09-15T10:34:38+00:00</published>
+La decisión del Fed se tomará en un momento crítico para el mercado de valores, que espera una respuesta clara sobre el futuro de las tasas de interés. La caída de los precios del petróleo ha contribuido a la venta en el mercado.</summary>
+    <published>2026-09-15T22:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html</id>
-    <title>[Economía] El FED aumentará al menos dos veces en el próximo año, según encuesta de CNBC</title>
-    <updated>2026-09-15T13:09:05.859333+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html"/>
-    <summary>Un mayoría de los expertos en la encuesta de CNBC Fed Survey prevén al menos dos aumentos de la tasa de interés en el próximo año, con algunos prediciendo tres o más. Esto se debe a que la inflación no ha respondido a las medidas tomadas por el FED y los precios del petróleo siguen subiendo. Los expertos creen que la inflación se ha extendido más allá de los precios del petróleo y que el FED debe tomar medidas para controlarla. La probabilidad de una recesión sigue siendo baja, pero el crecimiento del PIB y la tasa de desempleo siguen siendo bajos. Los expertos también creen que el FED debe ser más transparente en sus decisiones
-
-Contexto IA (informativo):
-El FED decidirá sobre las tasas de interés el miércoles en su reunión de dos días. La última reunión fue en julio. Los expertos creen que el FED debe ser más activo para controlar la inflación, pero también temen que las tasas de interés sean demasiado altas y afecten la economía.</summary>
-    <published>2026-09-15T11:52:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html</id>
-    <title>[Economía] Tasa de préstamo de EE. UU. cerca de su máximo en 20 años debido a las fluctuaciones en los precios del petróleo</title>
-    <updated>2026-09-15T13:09:05.859302+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html"/>
-    <summary>La tasa de préstamo de 10 años de la Tesorería de EE. UU. ha superado niveles no vistos desde 2007, debido a las preocupaciones crecientes sobre la inflación impulsada por la energía que están generando ansiedad entre los inversores de bonos.
-
-Contexto IA (informativo):
-Estas fluctuaciones en los precios del petróleo han aumentado las preocupaciones sobre la inflación, lo que ha llevado a un aumento en la tasa de préstamo de la Tesorería de EE. UU.</summary>
-    <published>2026-09-15T11:56:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-15/brightshore-capital-launches-250-million-property-debt-platform</id>
-    <title>[Economía] Brightshore Capital lanza plataforma de propiedad con $250 millones</title>
-    <updated>2026-09-15T13:09:05.859271+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-16/sazerac-is-said-to-study-deal-for-german-schnapps-maker-berentzen</id>
+    <title>[Economía] Sazerac compra Berentzen</title>
+    <updated>2026-09-16T17:08:05.924086+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-15/brightshore-capital-launches-250-million-property-debt-platform"/>
-    <summary>La empresa de bienes raíces global Brightshore Capital, anteriormente conocida como GTIS Partners, ha lanzado su primera plataforma de inversión en deuda de bienes raíces con un capital inicial de $250 millones, en un momento en que las necesidades de financiamiento de los constructores de viviendas se están acumulando. La plataforma busca ofrecer a los inversores una oportunidad de rendimiento atractiva en un mercado donde la demanda de financiamiento para los proyectos de construcción de viviendas está en aumento. Además, la plataforma permitirá a Brightshore Capital ampliar su presencia en el mercado de la deuda de bienes raíces y fortalecer su posición como una de las principales empresas de este segmento. La empresa espera que la plataforma sea un éxito y genere importantes ingresos para sus inversores.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-16/sazerac-is-said-to-study-deal-for-german-schnapps-maker-berentzen"/>
+    <summary>La empresa de bebidas Sazerac está en conversaciones para adquirir la marca de schnapps alemana Berentzen. Esta operación busca ampliar la presencia de la empresa en Europa. La compra podría darle a Sazerac una mayor presencia en el mercado europeo. La empresa ha estado buscando expandirse en el continente en busca de nuevas oportunidades de crecimiento.
 
 Contexto IA (informativo):
-La lanzamiento de esta plataforma es una oportunidad valiosa para Brightshore Capital, que busca aprovechar el creciente demanda de financiamiento para los proyectos de construcción de viviendas en todo el mundo. La empresa también busca diversificar su cartera de inversiones y reducir su dependencia de los ingresos de sus activos existentes.</summary>
-    <published>2026-09-15T12:00:42+00:00</published>
+La compra de Berentzen sería la última de una serie de operaciones de expansión de Sazerac en Europa, que busca fortalecer su presencia en el mercado de bebidas alcohólicas.</summary>
+    <published>2026-09-16T14:20:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html</id>
-    <title>[Economía] Los inesperados aliados políticos en la regulación del A.I.</title>
-    <updated>2026-09-15T13:09:05.859239+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html"/>
-    <summary>Lina Khan, la ex presidenta de la F.T.C., se une a otros pensadores en el debate creciente sobre los riesgos potenciales de la inteligencia artificial. La regulación del A.I. es un tema que ha ganado trascendencia en los últimos tiempos, con figuras como Lina Khan, quien ha expresado su opinión sobre el tema. La regulación del A.I. es un tema complejo que requiere una consideración cuidadosa de sus implicaciones. Los expertos están buscando formas de equilibrar la innovación con la necesidad de proteger a los ciudadanos. La regulación del A.I. es un tema que seguirá siendo objeto de debate en los próximos meses.
-
-Contexto IA (informativo):
-En un mundo donde la inteligencia artificial está cada vez más presente en nuestras vidas, la regulación del A.I. se ha convertido en un tema de gran importancia. Los expertos están buscando formas de abordar los riesgos potenciales de la inteligencia artificial y encontrar un equilibrio entre la innovación y la protección de los ciudadanos.</summary>
-    <published>2026-09-15T12:15:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html</id>
-    <title>[Economía] La tasa de interés del Tesoro de 10 años alcanza su nivel más alto desde 2007</title>
-    <updated>2026-09-15T13:09:05.859206+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html</id>
+    <title>[Economía] El mejor fondo de pensiones soberano del mundo advierte de un posible retraimiento en el mercado de valores de EE. UU.</title>
+    <updated>2026-09-16T17:08:05.924052+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"/>
-    <summary>La tasa de interés del Tesoro de 10 años alcanzó su nivel más alto en 19 años debido a la subida de los precios del petróleo y las expectativas de que la Reserva Federal aumente las tasas de interés. Esta subida puede tener un impacto en la economía ya que la tasa de interés de 10 años es un indicador importante para los préstamos y la financiación corporativa. Los precios del petróleo han subido debido a la conflictividad en Irán y las expectativas de que la Reserva Federal aumente las tasas de interés en su próximo encuentro. La tasa de interés del Tesoro de 30 años también subió, lo que puede aumentar la presión sobre las tasas de interés en el futuro. Los expertos consideran que la relación entre los precios del petróleo y las tasas de interés puede seguir siendo fuerte en el futuro.
+    <link href="https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html"/>
+    <summary>El CEO de la Guardians of New Zealand Superannuation, Jo Townsend, advierte que el mercado de valores de EE. UU. podría experimentar una corrección en el futuro. El fondo de pensiones, que maneja el patrimonio de $54 mil millones de Nueva Zelanda, ha crecido un 14,2% en el año hasta junio del 30. Townsend señaló que los rendimientos del mercado de valores en los últimos años son probables que se acaben en un punto y que se producirá una reversion a la media en el futuro. El fondo de pensiones ha reducido su presupuesto de riesgo activo y ha ajustado su estrategia de inversión para evitar una posible caída en los rendimientos.
 
 Contexto IA (informativo):
-La Reserva Federal se reúne este martes para discutir su política monetaria y las expectativas de que aumenten las tasas de interés. Los mercados están preciosando una mayor probabilidad de que la Reserva Federal aumente las tasas de interés en su próximo encuentro.</summary>
-    <published>2026-09-15T12:51:14+00:00</published>
+El fondo de pensiones de Nueva Zelanda ha sido el mejor rendimiento del mundo en el año pasado, según Global SWF. El fondo de pensiones de Noruega también ha reducido sus expectativas de crecimiento en el futuro, advirtiendo que los rendimientos del mercado de valores pueden disminuir en el futuro.</summary>
+    <published>2026-09-16T14:31:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/</id>
-    <title>[Data Science] Crear una base de conocimiento compartida para todos tus agentes en 30 minutos</title>
-    <updated>2026-09-15T13:09:05.859172+00:00</updated>
+    <id>https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1</id>
+    <title>[Economía] No debe superar los controles de seguridad la inteligencia artificial, advierte cofundador de DeepMind</title>
+    <updated>2026-09-16T17:08:05.924019+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>International homepage</name>
     </author>
-    <link href="https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/"/>
-    <summary>Los agentes de inteligencia artificial aprenden y guardan sus conocimientos en sí mismos, lo que significa que cada vez que trabajamos en un problema, debemos empezar de nuevo. Al agregar un agente de servidor a la mezcla, terminamos explicando el mismo contexto a diferentes herramientas cada vez que cambiamos de herramienta. Sajal Sharma, un ingeniero de inteligencia artificial, encontró esta solución y creó una base de conocimiento personal para actuar como un cerebro compartido para todos sus agentes. En esta semana del programa "Zero to Agent in 30 Minutes", Sajal muestra cómo configurar esta base de conocimiento para que un tarea agregada en una herramienta aparezca en todas las demás. El proceso se divide en cinco pasos: crear un mapa de trabajo, agregar notas diarias a resúmenes, conectar el archivo de trabajo con el archivo de código, paquetar tareas repetitivas como habilidades y sincronizar el espacio de trabajo en diferentes máquinas. Sajal también menciona dos proyectos que demuestran que esta solución está ganando popularidad, OpenWiki y GBrain. El starter repo de Sajal está disponible en GitHub y se puede discutir el tema con él en LinkedIn.
+    <link href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1"/>
+    <summary>Shane Legg habla con el FT mientras se lanza el nuevo DeepMind Institute para explorar las implicaciones de la inteligencia general artificial, en medio de crecientes llamadas a un freno de la industria
 
 Contexto IA (informativo):
-El programa "Zero to Agent in 30 Minutes" es una serie de podcasts que enseña a los oyentes a crear agentes de inteligencia artificial en 30 minutos. El programa es moderado por Sajal Sharma, un ingeniero de inteligencia artificial que ha encontrado una solución para el problema de los agentes de inteligencia artificial que aprenden y guardan sus conocimientos en sí mismos. El programa se transmite en varias plataformas, incluyendo Radar, YouTube, Spotify, Apple y O'Reilly.</summary>
-    <published>2026-09-14T15:57:05+00:00</published>
+El nuevo instituto busca abordar las preocupaciones sobre el potencial de la inteligencia artificial y su impacto en la sociedad.</summary>
+    <published>2026-09-16T14:59:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html</id>
+    <title>[Economía] Outkick supera su era de Clay Travis</title>
+    <updated>2026-09-16T17:08:05.923986+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html"/>
+    <summary>La plataforma de deportes Fox está reestructurándose después de la salida de su fundador, Clay Travis. La empresa está contratacando a un escritor que renunció a The Seattle Times por una columna sobre atletas trans. El sitio está buscando un nuevo enfoque para atraer a un público más diverso.
+
+Contexto IA (informativo):
+El cambio de dirección sigue las noticias de que Clay Travis dejará la empresa en febrero de este año. La plataforma ha estado experimentando una disminución en su popularidad en los últimos meses.</summary>
+    <published>2026-09-16T16:04:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html</id>
+    <title>[Economía] Deuda de los hiperscalers anuncia un signo de advertencia, Apollo advierte</title>
+    <updated>2026-09-16T17:08:05.923952+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html"/>
+    <summary>La deuda emitida por los gigantes del procesamiento de la nube que impulsan el boom de la inteligencia artificial se está volviendo más riesgosa, advirtió la empresa de capital privado Apollo Global Management el miércoles. Los contratos de seguro de riesgo, conocidos como contratos de default de crédito (CDS), para las bonos emitidas por los hiperscalers están volviendo más caros, y no es porque los bancos están hedgiendo más sus apuestas al aumentar la emisión de bonos, escribió el chief economist de Apollo, Torsten Slok, en un informe del miércoles. La empresa advierte que el mercado está revaluando los fundamentos de crédito de los hiperscalers, que incluyen un ciclo de inversión financiada por la deuda, un ciclo de crecimiento con mayor endeudamiento, flujo de efectivo negativo y incertidumbre sobre el pago de activos que se desvalían. Los expertos en el sector consideran que el aumento de los precios de los CDS es un signo de que los hiperscalers están enfrentando riesgos crecientes, pero algunos tecnólogos creen que no es necesario preocuparse, ya que las ganancias de los hiperscalers están aumentando y justifican la emisión de deuda.
+
+Contexto IA (informativo):
+Los líderes de los modelos de lenguaje grande (LLMs) han advertido recientemente que quieren ralentizar el ritmo de las mejoras de sus productos debido a preocupaciones de seguridad. Esto podría tener consecuencias financieras para los proveedores de servicios de la nube que ejecutan los LLMs. Los expertos en Wall Street creen que los LLMs están buscando regulación en Washington para protegerse de la competencia de las startups y evitar la responsabilidad legal por las acciones de los agentes autónomos.</summary>
+    <published>2026-09-16T16:51:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/</id>
     <title>[Data Science] ¿Quién controla la descubierta científica?</title>
-    <updated>2026-09-15T13:09:05.859138+00:00</updated>
+    <updated>2026-09-16T17:08:05.923917+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
     <link href="https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/"/>
-    <summary>El actual alboroto en matemáticas puede ser el canario en la mina para la ciencia experimental y el trabajo de conocimiento. La colaboración entre humanos y máquinas puede llevar a una comprensión superficial de los resultados, sin profundidad. El mundo de la inteligencia artificial (IA) está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. El mundo de la IA está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. La IA puede producir resultados verificados sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente. La colaboración entre matemáticos, herramientas de IA y verificación de pruebas formales está expandiendo lo que se puede descubrir. Los matemáticos están produciendo más pruebas matemáticas verificadas que no entienden individuos humanos. El sistema actual está roto, basado en la publicación de artículos, la presión de la publicación y los revíes no pagados. La abundancia de pruebas matemáticas verificadas es un tema de debate. ¿Qué papel debe jugar la IA en la ciencia? ¿Qué tipo de comprensión se busca en la IA?
+    <summary>El actual alboroto en matemáticas puede ser un indicador de la crisis en la ciencia experimental y el trabajo de conocimiento. El mundo de la inteligencia artificial (IA) está en el centro de la controversia sobre el progreso matemático y las incentivos para la investigación. La ciencia sin comprensión es una realidad. El mundo de la IA está creando resultados verificables sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente. El matemático Terence Tao ha organizado investigaciones colaborativas que combinan matemáticos, herramientas de IA y verificación de pruebas formales. Su pregunta es ¿qué queremos que la matemática haga en la era de la IA?
 
 Contexto IA (informativo):
-El mundo de la IA está cambiando la forma en que se aborda la ciencia, priorizando la cantidad de datos sobre la calidad de las mediciones. Esto puede llevar a una pérdida de la comprensión y el entendimiento en la ciencia. La IA puede producir resultados verificados sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir.</summary>
+El mundo de la IA está creando resultados verificables sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente.</summary>
     <published>2026-09-15T10:55:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/</id>
-    <title>[Data Science] ¿Cuántos ejemplos etiquetados necesita un clasificador de texto realmente?</title>
-    <updated>2026-09-15T13:09:05.859102+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/"/>
-    <summary>Antes de recurrir a APIs de LLM para cada problema de clasificación de texto, es importante conocer qué un basamento clásico puede hacer con los datos etiquetados que se tienen — y exactamente cuánto más datos compra el clasificador. El problema de clasificación de texto se ha vuelto el default para problemas como la ruta de soporte técnico, la etiquetación de retroalimentación y la clasificación de solicitudes de entrada. Sin embargo, esta conveniencia tiene un costo que la mayoría de las equipos nunca miden: el clasificador de texto con un LLM requiere una llamada a la API y un cargo por solicitud en cada una de las solicitudes, para siempre. Un clasificador clásico como TF-IDF con un clasificador lineal cuesta nada para ejecutarse una vez entrenado — no hay API, no hay llamada a la red, un tiempo de inferencia sub-milisegundos. La pregunta que vale la pena responder antes de recurrir a un LLM no es "¿cuál método es mejor" en abstracto. Es: ¿cuántos datos etiquetados tengo realmente, y cuán buena es la opción gratuita y instantánea con ellos?
-
-Contexto IA (informativo):
-En este artículo se explora la relación entre la cantidad de datos etiquetados y el rendimiento de un clasificador de texto. El autor realiza un experimento para determinar cuántos ejemplos etiquetados son necesarios para mejorar la precisión del clasificador. Los resultados muestran que la precisión aumenta rápidamente al principio, pero luego se estabiliza. El autor concluye que la primera mano de datos etiquetadas es la más importante para mejorar la precisión del clasificador.</summary>
-    <published>2026-09-15T11:00:01+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/</id>
     <title>[Data Science] Tratar plantillas de instrucciones como hiperparámetros en Scikit-LLM GridSearchCV</title>
-    <updated>2026-09-15T13:09:05.859069+00:00</updated>
+    <updated>2026-09-16T17:08:05.923882+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -151,255 +123,297 @@ La búsqueda de hiperparámetros es una técnica común en la máquina aprendiza
     <published>2026-09-15T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/</id>
-    <title>[Data Science] El Silueta Oculta de los Momentos Estadísticos</title>
-    <updated>2026-09-15T13:09:05.859037+00:00</updated>
+    <id>https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/</id>
+    <title>[Data Science] ¿Qué puede enseñarnos la inteligencia artificial sobre la condición humana</title>
+    <updated>2026-09-16T17:08:05.923848+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/"/>
+    <summary>En una conversación con Tim O'Reilly, el investigador Emmanuel Ameisen del equipo de interpretabilidad de Anthropic habló sobre la investigación de su equipo sobre la interpretación de modelos de inteligencia artificial. Ameisen explicó que los modelos de inteligencia artificial necesitan un modelo del mundo para predecir con precisión, y que este modelo es leible y se encuentra en cada token. Los investigadores pueden estudiar las activaciones intermedias entre las capas del modelo y manipularlas para entender cómo cambia el comportamiento del modelo. Ameisen también destacó que la investigación de los modelos de inteligencia artificial puede enseñarnos mucho sobre la forma en que funcionan nuestros propios cerebros. En una demostración, Ameisen mostró cómo los modelos de inteligencia artificial pueden inferir información sobre el mundo a partir de textos y imágenes. Finalmente, Ameisen destacó que la complejidad de los modelos de inteligencia artificial es mayor de lo que se cree, y que incluso objetivos simples pueden dar lugar a resultados sorprendentes. Los investigadores de Anthropic están encontrando características internas en los modelos que corresponden a conceptos, lo que sugiere que estos modelos no son solo una forma de búsqueda de asociaciones, sino que también contienen abstracciones. Además, los investigadores pueden manipular estas características, lo que permite entender mejor cómo funcionan los modelos de inteligencia artificial.
+
+Contexto IA (informativo):
+La conversación de Tim O'Reilly con Emmanuel Ameisen sobre la interpretación de modelos de inteligencia artificial es un ejemplo de cómo la investigación en este campo puede enseñarnos sobre la forma en que funcionan nuestros propios cerebros. La investigación de los modelos de inteligencia artificial puede ayudarnos a entender mejor cómo procesamos la información y cómo llegamos a nuestras conclusiones.</summary>
+    <published>2026-09-16T13:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/</id>
+    <title>[Data Science] La propagación silenciosa de los modelos puede destruir tu modelo</title>
+    <updated>2026-09-16T17:08:05.923815+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/seizing-the-moment-the-hidden-silhouette-of-data/"/>
-    <summary>Los momentos estadísticos son una forma de medir la forma de una distribución de datos. Se definen como la expectativa de una función potenciada de una variable aleatoria. Los momentos están relacionados con la media, la varianza, la skewness y la kurtosis. Aunque estos métodos están presentes en estadística y aprendizaje automático, se puede cuestionar su valor adicional. Sin embargo, los momentos ofrecen una forma unificada de abordar estos conceptos, permitiendo la construcción de herramientas matemáticas generales que manipulan la potencia -ésima de una distribución. Esto permite una mayor eficiencia en la manipulación de datos y una mayor flexibilidad en la modelización de distribuciones.
+    <link href="https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/"/>
+    <summary>La propagación silenciosa de los modelos puede causar problemas graves en la entrenamiento de modelos de aprendizaje automático. Un error de dimensión en la propagación silenciosa puede cambiar la función de pérdida, afectar los gradientes y corromper el modelo. Este problema es común y puede ser difícil de detectar, pero es esencial prevenirlo en el pipeline de entrenamiento. El artículo destaca la importancia de la propagación silenciosa y ofrece consejos para evitar errores de dimensión en la propagación silenciosa. El problema de la propagación silenciosa es grave y puede afectar la calidad del modelo. Es importante ser consciente de este problema y tomar medidas para prevenirlo.
 
 Contexto IA (informativo):
-En estadística, los momentos están relacionados con conceptos como la media, la varianza y la skewness. La kurtosis es una medida de la forma de una distribución, mientras que la skewness es una medida de la simetría de una distribución. Los momentos están unidos por una fórmula matemática que les permite ser tratados de manera uniforme, lo que permite una mayor eficiencia en la manipulación de datos y una mayor flexibilidad en la modelización de distribuciones.</summary>
-    <published>2026-09-15T12:30:01+00:00</published>
+La propagación silenciosa de los modelos es un problema común en la entrenamiento de modelos de aprendizaje automático. Puede causar problemas graves en la calidad del modelo y es esencial prevenirlo en el pipeline de entrenamiento. El artículo destaca la importancia de la propagación silenciosa y ofrece consejos para evitar errores de dimensión en la propagación silenciosa.</summary>
+    <published>2026-09-16T14:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/14/vsc-procedures-called-into-question-after-norris--lost-Madrid-win</id>
-    <title>[Fórmula 1] Se cuestionan las procedimientos de VSC tras la pérdida de Norris en Madrid</title>
-    <updated>2026-09-15T13:09:05.859005+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/</id>
+    <title>[Data Science] Cómo hacer que la regresión lineal sobreviva a los outliers</title>
+    <updated>2026-09-16T17:08:05.923780+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://racer.com/2026/09/14/vsc-procedures-called-into-question-after-norris--lost-Madrid-win"/>
-    <summary>Después de que Lando Norris perdió la victoria en el Gran Premio de España, se han planteado posibles ajustes en el uso de la VSC. La pérdida de Norris se considera 'insostenible' y ha generado debate entre los expertos. La FIA ha anunciado que investigará las causas de la pérdida de Norris y se tomará en cuenta la posibilidad de hacer ajustes en el sistema de VSC.
+    <link href="https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/"/>
+    <summary>La regresión lineal es un modelo predictivo valioso cuando se necesitan interpretaciones físicas, se requiere una ejecución en un dispositivo con recursos limitados, la latencia computacional es importante o se necesita un punto de referencia simple antes de introducir un modelo más complejo. Sin embargo, su simplicidad tiene una debilidad importante: la Regresión de Menos Cuadrados asume que todas las observaciones son fiables. En realidad, los errores de medición, los problemas de comunicación o los errores de calibración pueden producir observaciones lejos de la relación que se quiere estimar. La Regresión de Menos Cuadrados cuadriza cada residuo, lo que hace que unos pocos observaciones anormales puedan tener un efecto desproporcionado. Los estimadores robustos intentan prevenir que estas observaciones dominen el ajuste. Se comparan diferentes estimadores robustos en este artículo, incluyendo la Regresión de Menos Cuadrados clásica y cinco estimadores modernos. Los estimadores se evalúan en función del error de predicción y el tiempo de ejecución para capturar tanto la precisión estadística como la eficiencia computacional. El artículo también explora cómo los outliers pueden afectar la regresión lineal y cómo los estimadores robustos pueden ayudar a mitigar este efecto.
 
 Contexto IA (informativo):
-La pérdida de Norris en Madrid ha generado una gran cantidad de comentarios y discusiones en la comunidad de los aficionados a la F1. Algunos expertos han sugerido que el sistema de VSC podría estar siendo utilizado de manera inadecuada, lo que podría llevar a situaciones similares en el futuro.</summary>
-    <published>2026-09-14T11:44:06+00:00</published>
+La regresión lineal es un modelo predictivo valioso en muchos campos, pero su simplicidad tiene una debilidad importante: asume que todas las observaciones son fiables. En realidad, los errores de medición, los problemas de comunicación o los errores de calibración pueden producir observaciones lejos de la relación que se quiere estimar. Los estimadores robustos pueden ayudar a mitigar este efecto y mejorar la precisión del modelo.</summary>
+    <published>2026-09-16T15:30:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/14/norris-joins-mclaren-hypercar-test-at-portimao</id>
-    <title>[Fórmula 1] Norris se une al test de McLaren Hypercar en Portimao</title>
-    <updated>2026-09-15T13:09:05.858974+00:00</updated>
+    <id>https://www.f1technical.net/news/29324</id>
+    <title>[Fórmula 1] Calendario de F1 2027 con 24 Grandes Premios y 10 eventos de Sprint</title>
+    <updated>2026-09-16T17:08:05.923748+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://racer.com/2026/09/14/norris-joins-mclaren-hypercar-test-at-portimao"/>
-    <summary>El campeón mundial de Fórmula 1 Lando Norris ha probado el McLaren MCL-HY Hypercar en el Autódromo Internacional do Algarve en Portimão, el quinto test de pista del Hypercar de McLaren. Norris llegó directamente a Portugal desde la primera carrera de Fórmula 1 en el Circuito de Madring, donde logró la pole position
+    <link href="https://www.f1technical.net/news/29324"/>
+    <summary>El calendario de la F1 2027 ha sido anunciado con 24 Grandes Premios y un récord de 10 eventos de Sprint. El calendario mantiene el formato de 24 carreras, pero introduce cambios notables en el orden y la composición de la temporada. Portugal regresa a la calendario, y el circuito de Algarve volverá a albergar una carrera de F1 en junio. El calendario también incluye 10 eventos de Sprint, lo que aumenta la competencia durante la temporada. El calendario comienza en Bahrain y se extenderá por 22 países. El formato de Sprint ha demostrado ser popular entre los fans, y se espera que el calendario de 2027 sea más eficiente y sostenible.
 
 Contexto IA (informativo):
-El test de pista es parte de la preparación del equipo para la temporada de Fórmula 1. El Circuito de Madring es un circuito nuevo que ha sido utilizado por primera vez en la carrera de Fórmula 1.</summary>
-    <published>2026-09-14T20:28:48+00:00</published>
+El calendario de la F1 2027 ha sido aprobado por el Consejo Mundial de la FIA y mantiene el formato de 24 carreras. El calendario ha sido diseñado para mejorar la eficiencia geográfica de la temporada y apoyar las ambiciones de sostenibilidad a largo plazo de la F1.</summary>
+    <published>2026-09-16T09:35:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/</id>
-    <title>[Fórmula 1] Slater pasa a F2 en 2027</title>
-    <updated>2026-09-15T13:09:05.858941+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/"/>
-    <summary>Freddie Slater, segundo en la Fórmula 3 y junior de Audi en F1, pasará a la Fórmula 2 con Invicta Racing en 2027. El campeón de la Fórmula Regional Europea de 2025 y el campeón de la Fórmula 4 italiana de 2024, Slater lideró el campeonato durante cuatro podios consecutivos en carreras de características, lo que le permitió ganar la liderazgo del título. Slater se unió a Audi en 2026 para liderar su nuevo programa de desarrollo de conductores, mientras que pasó a la Fórmula 3 con Trident. El joven piloto se convirtió en el piloto más joven en liderar el campeonato de la Fórmula 3. Slater se unirá a Invicta Racing en 2027 para seguir su carrera en la Fórmula 2.
-
-Contexto IA (informativo):
-La transición de Slater a la Fórmula 2 es parte de la estrategia de Audi para desarrollar talentos en el mundo del automovilismo. La empresa ha estado trabajando en su programa de desarrollo de conductores desde 2026 y busca a pilotos prometedores como Slater para liderar su equipo en futuras temporadas.</summary>
-    <published>2026-09-15T09:49:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/</id>
-    <title>[Fórmula 1] Mercedes explica por qué George Russell pitió bajo VSC en el Gran Premio de España</title>
-    <updated>2026-09-15T13:09:05.858911+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/"/>
-    <summary>El vicepresidente de la escudería Mercedes, Bradley Lord, explicó por qué George Russell pitió bajo la virtual seguridad car en el Gran Premio de España, a pesar de haber comenzado con neumáticos duras. Russell fue el único piloto de las principales escuadrías que no siguió la estrategia de un solo pito en el circuito de Madrid, donde el overtaking era escaso. La decisión se debió en gran medida a la intervención del VSC en un momento estratégico. La control de carreras ...
-
-Contexto IA (informativo):
-La decisión de Russell fue controvertida entre los aficionados y los expertos, quienes se preguntaban si había sido la mejor opción. La virtual seguridad car intervino en un momento crítico del pito, lo que hizo que la estrategia de Russell fuera más efectiva.</summary>
-    <published>2026-09-15T11:37:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/</id>
-    <title>[Fórmula 1] Russell y Hamilton pierden las oportunidades de título en F1 2026</title>
-    <updated>2026-09-15T13:09:05.858879+00:00</updated>
+    <id>https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/</id>
+    <title>[Fórmula 1] Haas se siente confiado para acercarse al límite de presupuesto en 2027 con conversaciones con nuevos patrocinadores</title>
+    <updated>2026-09-16T17:08:05.923716+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/"/>
-    <summary>En un giro inesperado, George Russell y Lewis Hamilton han perdido las oportunidades de ganar el título de F1 2026. Enfrentan una competencia dominada por Nyck de Vries, quien ha demostrado ser uno de los pilotos más rápidos del circuito. Aunque Russell y Hamilton han tenido momentos de gran rendimiento, no han podido igualar la velocidad de De Vries, quien se encuentra en una posición de liderazgo inigualable en la clasificación general.
+    <link href="https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/"/>
+    <summary>El equipo Haas, liderado por Ayao Komatsu, avanza con positivos resultados en su búsqueda de nuevos patrocinadores. El equipo busca reducir su presupuesto anual, que actualmente se encuentra por debajo del límite establecido por la F1. La búsqueda de nuevos patrocinadores es crucial para que el equipo pueda alcanzar el objetivo de tener un presupuesto más cerca del límite en 2027.
 
 Contexto IA (informativo):
-La temporada de F1 2026 ha sido marcada por una serie de sorpresas y giros inesperados. Aunque Russell y Hamilton han sido consistentes en sus resultados, no han podido superar la velocidad de De Vries, quien ha demostrado ser uno de los pilotos más rápidos del circuito.</summary>
-    <published>2026-09-15T11:40:46+00:00</published>
+Haas es el equipo de fórmula 1 con menos personal, con alrededor de 400 empleados. A pesar de tener un patrocinador titular, el equipo ha estado operando con un presupuesto significativamente menor que el límite establecido.</summary>
+    <published>2026-09-16T13:50:16+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/</id>
-    <title>[Fórmula 1] Cinco formas de que F1 pueda mejorar la Madring para el GP de España del próximo año</title>
-    <updated>2026-09-15T13:09:05.858843+00:00</updated>
+    <id>https://racer.com/2026/09/16/hauger-in-ferrucci-out-at-foyt-for-2027-indycar-season</id>
+    <title>[Fórmula 1] Hauger asume en Foyt, Ferrucci sale para la temporada 2027 de IndyCar</title>
+    <updated>2026-09-16T17:08:05.923685+00:00</updated>
+    <author>
+      <name>RACER</name>
+    </author>
+    <link href="https://racer.com/2026/09/16/hauger-in-ferrucci-out-at-foyt-for-2027-indycar-season"/>
+    <summary>Dennis Hauger se une a AJ Foyt Racing para la temporada 2027 de IndyCar, reemplazando a Santino Ferrucci en el equipo. Hauger conducirá el No.14 Chevrolet. Este cambio es una sorpresa para muchos, ya que Ferrucci había sido el piloto titular del equipo. La noticia ha generado expectación entre los aficionados al IndyCar.
+
+Contexto IA (informativo):
+El equipo Foyt ha estado buscando un nuevo piloto para reemplazar a Ferrucci, quien no ha tenido un desempeño destacado en la temporada anterior. Hauger, por otro lado, ha demostrado su habilidad y experiencia en carreras de IndyCar.</summary>
+    <published>2026-09-16T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/</id>
+    <title>[Fórmula 1] No será el final para Russell en F1 2026</title>
+    <updated>2026-09-16T17:08:05.923652+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/"/>
+    <summary>Toto Wolff confía en que George Russell superará una difícil campaña de 2026 de F1 y se convertirá en campeón mundial en el futuro. El piloto de Mercedes está en segundo lugar y 81 puntos detrás de su compañero de equipo dominante Kimi Antonelli, con solo nueve rondas por disputar, lo que significa que la corona de campeón para el joven de 20 años es solo una cuestión de tiempo. A pesar de que Russell entró en 2026 como el favorito para el título, la situación es más complicada de lo que se imaginaba
+
+Contexto IA (informativo):
+A pesar de la adversidad, Russell sigue siendo un piloto prometedor y su equipo de Mercedes está confiado en su capacidad para superar los obstáculos y alcanzar el título.</summary>
+    <published>2026-09-16T14:12:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/</id>
+    <title>[Fórmula 1] “No estoy disfrutando de la vida” – Cómo la estancia de Yuki Tsunoda en Red Bull F1 le ‘exhaució’</title>
+    <updated>2026-09-16T17:08:05.923618+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/"/>
-    <summary>Aunque la vuelta de F1 a Madrid ha generado expectación entre los fanáticos, la falta de acción ha dejado a muchos decepcionados. A pesar de que el propio lugar de la Madring ha ofrecido un evento respetable, los organizadores podrían mejorar la experiencia para el segundo año. Madrid's first F1 race in 45 years ran particularly smooth for a first-time event. The organisers planned to capitalise on the IFEMA fairgrounds' existing infrastructure to deliver a more engaging experience for fans. Sin embargo, la falta de acción y la falta de emocionante en el evento han dejado a muchos fanáticos decepcionados. Para mejorar la experiencia, los organizadores podrían considerar algunas sugerencias. Por ejemplo, podrían aumentar la cantidad de carreras o mejorar la calidad de las pistas. También podrían considerar la posibilidad de incluir más actividades para los fanáticos, como conciertos o espectáculos de aéreo. Además, podrían trabajar en mejorar la comunicación con los fanáticos para asegurarse de que se sientan incluidos en el evento. Finalmente, podrían considerar la posibilidad de incluir más sostenibilidad en el evento, como la reducción de residuos o la implementación de medidas de energía renovable. En resumen, hay varias formas en que los organizadores podrían mejorar la Madring para el próximo año
+    <link href="https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/"/>
+    <summary>En las eras previas a 2026 de la F1, la segunda silla de Red Bull fue un desafío para muchos pilotos. Aunque algunos lograron adaptarse, otros no pudieron igualar la performance de su compañero de equipo Max Verstappen. El caso de Sergio Pérez, que estuvo cuatro años junto a Verstappen, es un ejemplo de cómo la presión y la competencia pueden afectar la salud mental de los pilotos. La experiencia de Yuki Tsunoda en Red Bull también ha sido marcada por dificultades y desafíos que han ido más allá de su capacidad para mantenerse en el equipo.
 
 Contexto IA (informativo):
-La Madring es un lugar emblemático en Madrid que ha sido elegido para albergar el primer Gran Premio de F1 en 45 años. Aunque el evento ha sido respetable, hay varias formas en que los organizadores podrían mejorar la experiencia para los fanáticos. En este artículo, exploraremos algunas sugerencias para hacer que la Madring sea aún más emocionante y atractiva para los amantes de la F1.</summary>
-    <published>2026-09-15T12:44:29+00:00</published>
+La situación de los pilotos que compiten en la F1 es conocida por ser muy competitiva y estresante. La presión para mantenerse en el equipo y cumplir con las expectativas de la escudería puede ser abrumadora para algunos, lo que puede llevar a problemas de salud mental.</summary>
+    <published>2026-09-16T14:35:57+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues</id>
-    <title>[Tecnología] Microsoft emite actualización de emergencia de Windows 11 para solucionar problemas</title>
-    <updated>2026-09-15T13:09:05.858810+00:00</updated>
+    <id>https://www.f1technical.net/news/29326</id>
+    <title>[Fórmula 1] Hamilton y Leclerc completan 623km de pruebas de neumáticos 2027 de Pirelli en Imola</title>
+    <updated>2026-09-16T17:08:05.923586+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues"/>
-    <summary>Microsoft ha iniciado la distribución de una actualización de emergencia fuera del ciclo regular para solucionar problemas con su última actualización de patch de septiembre, que presentó más de 1.000 vulnerabilidades. Aunque la actualización fue exitosa en términos de solucionar problemas, también introdujo algunos errores que afectaron a empresas, desarrolladores y jugadores. La actualización de emergencia aborda estos problemas en todas las versiones de Windows 11, incluyendo las 26h1, 25H2 y 24H2. Además, Microsoft ha lanzado actualizaciones para Windows Server 2022.
+    <link href="https://www.f1technical.net/news/29326"/>
+    <summary>Lewis Hamilton y Charles Leclerc completaron 623km de pruebas de neumáticos 2027 de Pirelli en Imola, proporcionando datos valiosos y retroalimentación de pilotos sobre las últimas prototipos de Pirelli. El objetivo es finalizar la selección de neumáticos para la temporada 2027 hacia finales del año. Los pilotos completaron diferentes prototipos y condiciones, proporcionando datos sobre el comportamiento, la degradación y el rendimiento de los neumáticos.
 
 Contexto IA (informativo):
-La actualización de emergencia de Microsoft es una respuesta a los problemas que surgieron después de su última actualización de patch de septiembre, que afectó a varios usuarios. La empresa ha estado trabajando para solucionar estos problemas y ha lanzado una actualización de emergencia para proteger a sus usuarios.</summary>
-    <published>2026-09-15T08:54:48+00:00</published>
+La prueba es parte de un programa más amplio que involucra a varias equipos y pilotos durante la temporada 2026. Pirelli ha realizado pruebas de desarrollo en varios circuitos, con el objetivo de entender cómo comportarán los neumáticos con la nueva generación de máquinas de Fórmula 1.</summary>
+    <published>2026-09-16T16:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/review/system76-pangolin-pro-linux-laptop/</id>
-    <title>[Tecnología] Revisión del portátil System 76 Pangolin Pro: Un poderoso portátil con Linux</title>
-    <updated>2026-09-15T13:09:05.858778+00:00</updated>
+    <id>https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/</id>
+    <title>[Tecnología] Revisión de iPhone 18 Pro y iPhone 18 Pro Max: Para los amantes de la cámara</title>
+    <updated>2026-09-16T17:08:05.923552+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/review/system76-pangolin-pro-linux-laptop/"/>
-    <summary>El portátil System 76 Pangolin Pro es ideal para usuarios que realizan tareas intensivas con su laptop, como entrenar modelos de inteligencia artificial, compilar software o realizar tareas de desarrollo. Aunque es más caro que el portátil Lemur Pro, ofrece una experiencia de usuario más completa y es más futuroproo. El sistema operativo Pop!_OS Linux es uno de los mejores en la actualidad, ofreciendo una estabilidad y una facilidad de uso que hacen que sea ideal para usuarios diarios. Sin embargo, es importante tener en cuenta que el webcam integrado no es ideal para situaciones profesionales y no soporta firmware abierto. El portátil es fácil de abrir y reparar, lo que facilita la actualización de componentes en el futuro.
+    <link href="https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/"/>
+    <summary>La iPhone 18 Pro y su versión más grande, el iPhone 18 Pro Max, ofrecen una excelente experiencia de cámara con una aplicación de cámara personalizable. Los pantallas son brillantes y respondientes, aunque la barra de Dynamic Island es más pequeña que la anterior. La batería tiene una vida útil excelente, pero no hay un modelo base. Los modelos Pro son más caros que los anteriores, pero siguen siendo excelentes opciones para los usuarios que buscan una experiencia de cámara de alta calidad. No es necesario actualizar si se tiene un iPhone 17 Pro, 16 Pro o 15 Pro, ya que estos modelos siguen funcionando bien. Sin embargo, los modelos Pro ofrecen mejoras significativas en la cámara y la batería, aunque no son drasticas. La nueva versión de iOS también ofrece mejoras en la asistencia de Siri.
 
 Contexto IA (informativo):
-El Pangolin Pro es el portátil más grande y potente de la gama de System 76, y ofrece una experiencia de usuario única con su sistema operativo Pop!_OS Linux. Aunque es más caro que otros portátiles de la marca, es ideal para usuarios que necesitan una máquina poderosa y futura.</summary>
-    <published>2026-09-15T09:00:00+00:00</published>
+Es importante tener en cuenta que no hay un modelo base de iPhone 18 este año, lo que significa que los modelos Pro son las opciones más disponibles para los usuarios que buscan una experiencia de cámara de alta calidad. La espera hasta la primavera de 2027 para la llegada del modelo base puede ser una buena opción para aquellos que han sido satisfechos con el modelo base en el pasado.</summary>
+    <published>2026-09-16T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto</id>
-    <title>[Tecnología] GM actualiza la software de sus camiones para coexistir con CarPlay</title>
-    <updated>2026-09-15T13:09:05.858744+00:00</updated>
+    <id>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</id>
+    <title>[Tecnología] Las aplicaciones de citas con inteligencia artificial engañosas llegan</title>
+    <updated>2026-09-16T17:08:05.923517+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto"/>
-    <summary>General Motors está mejorando la experiencia de software en sus camiones más populares para reducir la cantidad de taponazos y deslizamientos peligrosos necesarios para acceder a los controles más utilizados. Además, está dando a Apple CarPlay y Android Auto nuevos displays de imagen en imagen más atractivos. Esto es notable considerando la hostilidad de GM hacia el reflejo de teléfonos en sus vehículos eléctricos. Los propietarios de los camiones verán cambios notables cuando el nuevo interfaz se presenta en el Chevrolet Silverado 1500 y GMC Sierra 1500 de 2027 este año. Los cambios incluyen gráficos nuevos y animaciones para el sistema de asistencia al conductor avanzado. El nuevo interfaz también mejorará la experiencia de usuario y facilitará el acceso a las funciones del vehículo.
+    <link href="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"/>
+    <summary>Un investigador de seguridad, Matthew "Zigula" Gore-Kormanik, descubrió una aplicación de citas fraudulentas llamada Dora. Cuando recibió una llamada de una persona llamada Jennifer, que se presentaba como una 41 años, Sagitario, con cabello rojo, ojos azules y piercings, Gore-Kormanik se sorprendió al no ver a Jennifer en su video feed. La llamada fue interrumpida por una imagen de telar que se movía, probablemente debido a un ventilador, y se escuchaban distorsiones en el fondo. Después de la llamada, "Jennifer" le envió un mensaje diciendo que había tenido divertido y que su voz era "muy mejor de lo esperado". El investigador se dio cuenta de que su micrófono no había sido activado. La aplicación de citas Dora es una de las muchas que utilizan inteligencia artificial para engañar a los usuarios. Es importante tener cuidado al utilizar aplicaciones de citas y verificar la autenticidad de las personas que se presentan en ellas.
 
 Contexto IA (informativo):
-El nuevo interfaz de GM se desarrolla en paralelo con la actualización de software de sus vehículos eléctricos, lo que sugiere que la compañía está considerando una mayor integración de los sistemas de entretenimiento y navegación en sus vehículos.</summary>
-    <published>2026-09-15T11:00:00+00:00</published>
+La seguridad en línea es un tema cada vez más importante, y las aplicaciones de citas son un terreno fértil para los estafadores. Es fundamental ser cauteloso al utilizar estas aplicaciones y verificar la autenticidad de las personas que se presentan en ellas.</summary>
+    <published>2026-09-16T14:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/</id>
-    <title>[Tecnología] 2 formas en que los usuarios de Android pueden aprovechar las accesorios MagSafe de Apple</title>
-    <updated>2026-09-15T13:09:05.858710+00:00</updated>
+    <id>https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/</id>
+    <title>[Tecnología] Samsung lanza One UI 9 en el resto de la serie Galaxy S26</title>
+    <updated>2026-09-16T17:08:05.923485+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/"/>
-    <summary>Aunque MagSafe no está disponible en todos los teléfonos Android, hay formas de aprovechar sus accesorios. Los usuarios de Android pueden utilizar casos con magnetos integrados o accesorios con anillos magnéticos para hacer compatible su teléfono con los accesorios MagSafe. Aunque esto requiere un caso con magnetos o un anillo magnético, la mayoría de los accesorios funcionan con cualquier teléfono que soporte cargamiento inductivo. Los fabricantes de teléfonos como Samsung y OnePlus ofrecen casos con magnetos, y hay opciones de terceros más asequibles. También existen kits de conversión magnéticos que se pueden pegar a los casos existentes, lo que permite utilizar accesorios MagSafe con cualquier teléfono.
+    <link href="https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/"/>
+    <summary>Samsung ha lanzado la versión 9 de One UI en la mayoría de los dispositivos de la serie Galaxy S26, incluyendo el S26, S26+ y S26 Ultra, así como en el Galaxy S26 FE. Esta actualización incluye nuevas características como My FanCam, que permite automatizar la edición de videos, y otras funcionalidades de inteligencia artificial. Además, se han mejorado las traducciones en Conversation Mode y se ha agregado una nueva función para capturar páginas de libros curvas sin ajustes manuales. La versión 9 también incluye actualizaciones de seguridad y alertas de privacidad.
 
 Contexto IA (informativo):
-Aunque MagSafe no está disponible en todos los teléfonos Android, la mayoría de los fabricantes de teléfonos han adoptado sistemas de cargamiento inductivo, como el Qi2. Esto ha llevado a que algunos teléfonos Android, como los de Google y el HMD Skyline, incluyan magnetos integrados. Sin embargo, la mayoría de los accesorios MagSafe solo están disponibles para teléfonos con casos con magnetos o anillos magnéticos.</summary>
-    <published>2026-09-15T12:00:00+00:00</published>
+La versión 9 de One UI se lanzó en la mayoría de los dispositivos de la serie Galaxy S26, lo que permite a los usuarios acceder a nuevas características y funcionalidades. Sin embargo, no se han reportado cambios significativos en la interfaz de usuario o en las características básicas del dispositivo.</summary>
+    <published>2026-09-16T15:04:14+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/evangelion-has-been-deemed-worthy-of-the-criterion-channel-but-dont-forget-its-mecha-anime-predecessors-2000811569</id>
-    <title>[Tecnología] ‘Evangelion’ se ha convertido en un título digno de la colección de Criterion, pero no olvidemos sus predecesores de mecha anime</title>
-    <updated>2026-09-15T13:09:05.858672+00:00</updated>
+    <id>https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/</id>
+    <title>[Tecnología] Anthropic crea documentos editables con Claude</title>
+    <updated>2026-09-16T17:08:05.923452+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/"/>
+    <summary>Claude Docs es una nueva función de Anthropic que permite a su asistente AI crear documentos editables para ti. Ahora puedes pedirle a Claude crear un documento, como una hoja de una página con información relevante, y él te lo enviará dentro de tu conversación. Puedes editar el documento dentro de Claude, pero también puedes exportarlo y abrirlo en Google Docs o Microsoft Word. Además, puedes crear presentaciones y slides dentro de las conversaciones, y editarlos directamente o descargarlos como PowerPoint o PDF. Estas actualizaciones buscan crear una interfaz única llamada "One Claude" que combine varias capacidades en un solo lugar.
+
+Contexto IA (informativo):
+Anthropic ha estado trabajando en mejorar la experiencia de usuario de su asistente AI Claude, y ahora ha lanzado una nueva función que permite crear documentos editables. La empresa ha decidido combinar varias capacidades en una interfaz única, lo que debería hacer que sea más fácil para los usuarios acceder a las diferentes funciones de Claude.</summary>
+    <published>2026-09-16T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</id>
+    <title>[Tecnología] Claude lanza herramientas propias para Docs y Slides</title>
+    <updated>2026-09-16T17:08:05.923418+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"/>
+    <summary>La empresa Anthropic ha anunciado el lanzamiento de dos nuevas herramientas: Docs y Slides, que permitirán a los usuarios crear documentos y presentaciones a través de conversaciones con Claude. Además, se simplificará la funcionalidad de los chats de Claude, convirtiéndolos en una sola interfaz con todas las herramientas de productividad de AI disponibles. Estas herramientas se unirán a Artifacts y Claude Design, que ahora estarán disponibles a través de una sola interfaz. La empresa afirma que Claude puede ahora determinar qué tarea necesita realizar, lo que permite el acceso a todas las herramientas de Cowork y Design desde cualquier conversación.
+
+Contexto IA (informativo):
+Estas nuevas herramientas buscan mejorar la experiencia de los usuarios de Claude, permitiéndoles crear y compartir contenido de manera más sencilla. La empresa Anthropic busca seguir innovando en el campo de la inteligencia artificial y la productividad.</summary>
+    <published>2026-09-16T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/spider-man-beats-star-wars-to-become-highest-grossing-movie-in-u-s-history-2000812601</id>
+    <title>[Tecnología] Spider-Man supera a Star Wars para convertirse en el filme más taquillero de la historia en EE. UU.</title>
+    <updated>2026-09-16T17:08:05.923384+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/evangelion-has-been-deemed-worthy-of-the-criterion-channel-but-dont-forget-its-mecha-anime-predecessors-2000811569"/>
-    <summary>La inclusión de Neon Genesis Evangelion en la colección de Criterion es un logro notable, ya que el servicio de streaming ofrece una selección curada de películas y programas de televisión influyentes y aclamados. Sin embargo, es importante considerar el contexto en el que se desarrolla la serie, ya que es parte del género de mecha anime. El anime más influyente en este género es Mobile Suit Gundam, que se estrenó en 1979 y rechazó la tendencia popular de los años 50 y 60 de los super robots. La serie sigue a un joven protagonista que controla un robot, pero con una diferencia clave: en Gundam, el robot es controlado de manera más realista y no tiene un origen sobrenatural. Este enfoque se refleja en la serie Evangelion, que explora las consecuencias psicológicas de la guerra en un joven protagonista. Aunque Evangelion es una obra maestra, es importante explorar el contexto en el que se desarrolla la serie para comprender su impacto más profundo.
+    <link href="https://gizmodo.com/spider-man-beats-star-wars-to-become-highest-grossing-movie-in-u-s-history-2000812601"/>
+    <summary>El filme Spider-Man: Brand New Day ha superado el récord de taquilla de Star Wars: The Force Awakens, convirtiéndose en el filme más taquillero de la historia en EE. UU. Aunque algunos factores como la inflación y los formatos de película de alta calidad pueden influir en los resultados, el filme ha demostrado ser un éxito sin precedentes. Spider-Man: Brand New Day ha alcanzado un total de $936 millones en solo 47 días, superando el récord anterior de Star Wars en un período de tiempo récord.
 
 Contexto IA (informativo):
-Es importante destacar que la serie Evangelion se desarrolla en un contexto de guerra y trauma psicológico, lo que la distingue de otros anime de mecha. La serie también explora temas más maduros, como la identidad y la relación con los padres, lo que la convierte en una obra más compleja y madura que otros títulos de la época.</summary>
-    <published>2026-09-15T12:00:01+00:00</published>
+Es importante destacar que el éxito de Spider-Man: Brand New Day no se debe solo a su calidad artística, sino también a factores como la publicidad y la promoción. El filme ha sido promocionado intensamente, lo que ha ayudado a atraer a una audiencia más amplia. Además, el filme ha sido lanzado en formatos de película de alta calidad, lo que ha contribuido a su éxito. Aunque algunos críticos han expresado reservas sobre el filme, la mayoría de los fanáticos y espectadores han disfrutado de la experiencia cinematográfica.</summary>
+    <published>2026-09-16T16:30:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/</id>
-    <title>[Tecnología] La forma más fácil de encontrar y eliminar spyware en tu teléfono Android</title>
-    <updated>2026-09-15T13:09:05.858635+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/"/>
-    <summary>Si tu teléfono Android se ha ralentizado o has estado recibiendo mensajes extraños, es posible que estés infectado con spyware. Aunque el spyware puede parecer un problema serio, eliminarlo no requiere un título de doctorado en informática y la mayoría de las infecciones son fáciles de eliminar en unos pocos pasos. Este artículo te guiará en cómo identificar spyware, cómo eliminarlo de manera segura y cómo mantener tu dispositivo seguro en el futuro. Para detectar spyware, busca cambios en el rendimiento del teléfono, como ralentizaciones, sobrecalentamiento o una batería que se disipa más rápido de lo normal. También puedes notar un aumento en el uso de datos móviles o el espacio de almacenamiento que desaparece sin que hayas instalado nada nuevo. Sin embargo, estos signos no son suficientes por sí solos y debes investigar más a fondo. El spyware se puede instalar a través de phishing o sideloading apps de fuera de la tienda de aplicaciones de Google, por lo que es importante ser cauteloso al descargar apps. Para eliminar spyware, puedes utilizar la función de escaneo de Play Protect, instalar un antivirus confiable y revisar las permisiones de administrador de dispositivos. También puedes intentar eliminar el spyware en modo seguro o realizar un restauración de fábrica si no funciona. Para evitar que el spyware se instale en tu teléfono, es importante seguir las mejores prácticas de seguridad, como descargar apps solo de la tienda de aplicaciones de Google y revisar las reseñas y la información de seguridad antes de instalar.
-
-Contexto IA (informativo):
-Aunque el spyware puede parecer un problema serio, hay medidas que puedes tomar para proteger tu teléfono Android. La clave es ser consciente de las posibles amenazas y tomar medidas preventivas. Al seguir las recomendaciones de este artículo, podrás mantener tu dispositivo seguro y libre de spyware.</summary>
-    <published>2026-09-15T12:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://leetarxiv.substack.com/p/how-gcc-eliminates-unnecessary-integer</id>
-    <title>[Programación] Cómo GCC Elimina la División de Enteros Necesaria</title>
-    <updated>2026-09-15T13:09:05.858597+00:00</updated>
+    <id>https://openjdk.org/projects/jdk/27/</id>
+    <title>[Programación] Lanzamiento de Java 27</title>
+    <updated>2026-09-16T17:08:05.923351+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://leetarxiv.substack.com/p/how-gcc-eliminates-unnecessary-integer"/>
-    <summary>El compilador GCC utiliza una optimización para eliminar la división de enteros necesaria cuando se utiliza un divisor constante. Esto se logra reemplazando la división con una multiplicación y una comparación. La optimización se conoce como 'magic numbers' y se utiliza en la serie de artículos 'Practical Number Field Sieve for Programmers'. El código de comparación muestra que el compilador GCC encuentra dos números mágicos y reemplaza la división con una multiplicación y una comparación. La optimización también se aplica a la división de enteros regulares. El artículo analiza cómo se encuentran estos números mágicos y su importancia en la optimización del compilador.
+    <link href="https://openjdk.org/projects/jdk/27/"/>
+    <summary>La versión 27 de Java ha sido lanzada como implementación de referencia del plataforma Java SE, según la especificación JSR 402 en el proceso de la comunidad Java. Esta versión incluye varias características y se espera que se complemente con más funcionalidades en el futuro. La versión 27 se ha lanzado en general disponibilidad el 15 de septiembre de 2026 y se pueden obtener binaries de producción bajo la GPL desde Oracle, aunque otras empresas seguirán con el tiempo.
 
 Contexto IA (informativo):
-La optimización de GCC para eliminar la división de enteros necesaria se basa en la utilización de números mágicos. Estos números mágicos son precomputation de cotas de un número elevado a la potencia de 2. Al multiplicar por el número mágico y dividir por la potencia de 2, se puede obtener un resultado redondeado. La optimización se utiliza en la serie de artículos 'Practical Number Field Sieve for Programmers' y se aplica tanto a la división de enteros constantes como a la división de enteros regulares.</summary>
-    <published>2026-09-14T17:40:17+00:00</published>
+La versión 27 de Java es el resultado del proceso de lanzamiento de la JDK, que se ha desarrollado utilizando el proceso de JDK Release Process (JEP 3).</summary>
+    <published>2026-09-15T23:13:53+00:00</published>
   </entry>
   <entry>
-    <id>https://will-keleher.com/posts/small-programming-tricks-matter/</id>
-    <title>[Programación] Trucos de programación pequeños</title>
-    <updated>2026-09-15T13:09:05.858562+00:00</updated>
+    <id>https://slint.dev/blog/slint-1.18-released</id>
+    <title>[Programación] Lanzamiento de Slint 1.18: una herramienta de interfaz de usuario declarativa mejorada</title>
+    <updated>2026-09-16T17:08:05.923315+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://will-keleher.com/posts/small-programming-tricks-matter/"/>
-    <summary>En este artículo, se presentan algunos trucos de programación pequeños que pueden mejorar la productividad diaria de un ingeniero. Se incluyen consejos sobre cómo utilizar herramientas como sed, git y regular expressions para realizar tareas más eficientemente. También se mencionan algunos trucos de búsqueda y autocompletado en la terminal y en el editor de texto. El autor destaca la importancia de tener conocimientos pequeños pero valiosos que no requieren una gran cantidad de infraestructura mental. Finalmente, se habla sobre la importancia de compartir estos trucos con otros miembros del equipo para mejorar la colaboración y la productividad.
+    <link href="https://slint.dev/blog/slint-1.18-released"/>
+    <summary>La versión 1.18 de Slint ofrece mejoras de calidad de vida, incluyendo un mejor rendimiento, layouts y animaciones más fáciles de usar. La herramienta también permite agregar y eliminar elementos de manera más sencilla, y ofrece una mejor experiencia para los desarrolladores. La versión 1.18 es una excelente opción para aquellos que buscan crear interfaces de usuario reactivas y fluentes en una variedad de plataformas.
 
 Contexto IA (informativo):
-El autor destaca la importancia de tener conocimientos pequeños pero valiosos que no requieren una gran cantidad de infraestructura mental. También menciona que estos trucos pueden ser especialmente útiles en entornos de trabajo donde la colaboración y la comunicación son clave.</summary>
-    <published>2026-09-14T22:00:17+00:00</published>
+Slint es una herramienta de interfaz de usuario basada en Rust que permite a los desarrolladores crear interfaces de usuario reactivas y fluentes en una variedad de plataformas, desde dispositivos con recursos limitados hasta dispositivos móviles y máquinas de escritorio poderosas.</summary>
+    <published>2026-09-16T14:39:41+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/iamabdul/first-steps-in-ai-engineering-building-a-simple-cli-chatbot-3ck1</id>
-    <title>[Programación] Pioneros en la ingeniería de inteligencia artificial: Construyendo un simple chatbot de CLI</title>
-    <updated>2026-09-15T13:09:05.858525+00:00</updated>
+    <id>https://www.olafalders.com/2026/09/16/git-worktree-gotchas/</id>
+    <title>[Programación] Gotchas del uso de worktrees en Git</title>
+    <updated>2026-09-16T17:08:05.923278+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://www.olafalders.com/2026/09/16/git-worktree-gotchas/"/>
+    <summary>El uso de worktrees en Git ha evolucionado y ahora se utiliza más ampliamente. Sin embargo, todavía presentan algunas gotchas. En primer lugar, es importante entender que cada checkout de Git es un worktree. Los worktrees se pueden crear para diferentes propósitos, como crear una copia de seguridad de un repositorio o trabajar en un proyecto paralelamente. Sin embargo, esto puede causar problemas si no se maneja correctamente. Por ejemplo, si se busca encontrar el directorio .git en un worktree, se puede encontrar que es un archivo de texto en lugar de un directorio, lo que puede causar confusión. Además, si se busca encontrar el directorio principal del repositorio, se puede encontrar que el worktree está en un directorio subordinado del directorio principal, lo que puede causar problemas de acceso. Para evitar estos problemas, se recomienda mantener los worktrees en un directorio separado del directorio principal del repositorio. También se puede utilizar el comando `git rev-parse --show-toplevel` para encontrar el directorio principal del repositorio, independientemente del trabajo de escritorio. Por último, se recomienda utilizar herramientas de sandboxing, como Docker o Seatbelt, para proteger los worktrees y evitar problemas de seguridad. En resumen, aunque los worktrees son una herramienta útil, es importante entender sus limitaciones y utilizarlas de manera adecuada para evitar problemas.
+
+Contexto IA (informativo):
+En la actualidad, Git es una herramienta muy popular entre los desarrolladores de software. Su uso se ha vuelto más común en la industria, y es utilizado por muchas empresas y proyectos de código abierto. Sin embargo, como con cualquier herramienta, hay algunas gotchas y limitaciones que debemos tener en cuenta. En este artículo, se discuten algunas de las gotchas más comunes del uso de worktrees en Git, y se proporcionan consejos y soluciones para evitar problemas y utilizar esta herramienta de manera efectiva.</summary>
+    <published>2026-09-16T15:46:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/tomerbendavid/i-went-through-it-all-3j37</id>
+    <title>[Programación] Recorrió todo</title>
+    <updated>2026-09-16T17:08:05.923240+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/iamabdul/first-steps-in-ai-engineering-building-a-simple-cli-chatbot-3ck1"/>
-    <summary>En este tutorial, se construye un chatbot de CLI simple utilizando la biblioteca Anthropic y el lenguaje de programación Python. El autor busca entender los mecanismos básicos de un ciclo de respuesta-turn en un asistente, y comparte sus notas y experiencias en el proceso. El tutorial cubre desde la configuración del cliente hasta la creación de un sistema de respuesta personalizado. El autor también comparte consejos y trucos para ahorrar tokens y mejorar la eficiencia del chatbot. Al final, se muestra un ejemplo de cómo se puede utilizar el chatbot para responder a preguntas del usuario.
+    <link href="https://dev.to/tomerbendavid/i-went-through-it-all-3j37"/>
+    <summary>El autor compara su experiencia con la asistencia de inteligencia artificial en el desarrollo de software. Aunque el AI puede realizar tareas con precisión, no puede reemplazar la necesidad de revisar y entender el código. El autor menciona que, aunque el AI puede ser útil, no puede confiar en su capacidad para triar bugs y que es necesario trabajar junto a él. Además, destaca que el uso de herramientas de desarrollo como IDEs y cli's puede ser más rápido que trabajar manualmente, aunque el autor no recomienda dejar que el AI haga todo el trabajo. En resumen, el AI puede ser una herramienta valiosa, pero no puede reemplazar la necesidad de experiencia y habilidad humana en el desarrollo de software.
 
 Contexto IA (informativo):
-Este tutorial se centra en la construcción de un chatbot de CLI simple utilizando la biblioteca Anthropic y el lenguaje de programación Python. El autor busca entender los mecanismos básicos de un ciclo de respuesta-turn en un asistente y comparte sus notas y experiencias en el proceso. El tutorial cubre desde la configuración del cliente hasta la creación de un sistema de respuesta personalizado.</summary>
-    <published>2026-09-15T12:53:07+00:00</published>
+El autor destaca la importancia de la experiencia y habilidad humana en el desarrollo de software, incluso en la era de la inteligencia artificial. Aunque el AI puede ser útil, no puede reemplazar la necesidad de revisar y entender el código.</summary>
+    <published>2026-09-16T16:50:37+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/anoymask/hacking-cat-destructive-breaches-using-gorilla-rat-and-monkey-ransomware-5h0p</id>
-    <title>[Programación] Hacking Cat: Ataques destructivos utilizando Gorilla RAT y Monkey Ransomware</title>
-    <updated>2026-09-15T13:09:05.858475+00:00</updated>
+    <id>https://dev.to/sherial_2e18faf81eaf4982d/why-your-wordpress-contact-form-stopped-sending-emails-1m81</id>
+    <title>[Programación] ¿Por qué la forma de contacto de WordPress ya no envía correos electrónicos</title>
+    <updated>2026-09-16T17:08:05.923187+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/anoymask/hacking-cat-destructive-breaches-using-gorilla-rat-and-monkey-ransomware-5h0p"/>
-    <summary>El grupo Hacking Cat utiliza Gorilla RAT y Monkey ransomware para atacar organizaciones rusas. Los ataques inician con vulnerabilidades en Exchange, y luego se utilizan processos y operaciones de archivo para establecer conexiones remotas. El malware también puede causar la destrucción de archivos y la cifrado de datos. Es importante tomar medidas de seguridad para prevenir estos ataques, como mantener actualizados los sistemas operativos y aplicaciones, y limitar el acceso a los servicios internos.
+    <link href="https://dev.to/sherial_2e18faf81eaf4982d/why-your-wordpress-contact-form-stopped-sending-emails-1m81"/>
+    <summary>La forma de contacto de WordPress puede fallar en enviar correos electrónicos, lo que puede llevar a la pérdida de enlaces de contacto. Esto puede ocurrir debido a problemas de configuración del dominio o de autenticación. Para solucionar este problema, es importante verificar los registros SPF, DKIM y DMARC, y configurar el envío de correos electrónicos de manera segura. También es recomendable utilizar un servicio de envío de correos electrónicos dedicado y configurar la forma de contacto para que almacene los registros de forma local. De esta manera, se puede detectar cualquier problema de envío y recibir notificaciones de fallos. Es importante realizar pruebas regulares para asegurarse de que la forma de contacto funcione correctamente.
 
 Contexto IA (informativo):
-Estos ataques son parte de una serie de amenazas cibernéticas dirigidas a las organizaciones rusas. La Kaspersky ha identificado varias variantes de malware utilizadas por el grupo Hacking Cat, incluyendo Gorilla RAT y Monkey ransomware. Es importante estar atento a estas amenazas y tomar medidas de seguridad para proteger los sistemas y datos de las organizaciones.</summary>
-    <published>2026-09-15T12:53:08+00:00</published>
+La forma de contacto de WordPress es un componente común en muchos sitios web, y su función es crucial para mantener la comunicación con los visitantes. Sin embargo, debido a la complejidad de la configuración del dominio y la autenticación, puede ocurrir que la forma de contacto ya no envíe correos electrónicos. Esto puede generar pérdidas de enlaces de contacto y problemas de soporte para los visitantes.</summary>
+    <published>2026-09-16T16:58:58+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/anoymask/enhanced-viewer-for-twitch-oauth-token-forwarded-to-jeetbot-proxy-2jf0</id>
-    <title>[Programación] Vista aprobada de Twitch: Token OAuth enviados a JeetBot Proxy</title>
-    <updated>2026-09-15T13:09:05.858387+00:00</updated>
+    <id>https://dev.to/arnab_pramanik_fa38614f21/your-folder-structure-is-a-message-most-teams-are-sending-the-wrong-one-2odc</id>
+    <title>[Programación] La estructura de carpetas es un mensaje. La mayoría de los equipos envían el mensaje equivocado.</title>
+    <updated>2026-09-16T17:08:05.923101+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/anoymask/enhanced-viewer-for-twitch-oauth-token-forwarded-to-jeetbot-proxy-2jf0"/>
-    <summary>Una extensión de Twitch para Chrome y Firefox incluyó lógica para enviar tokens de autenticación obtenidos desde la cabecera de autorización a un proxy tercero. La versión de Chrome tiene aproximadamente 30.000 usuarios. El incidente se considera grave debido a que los tokens de autenticación pueden ser utilizados para robar sesiones. Se recomienda instalar y bloquear la extensión, revocar todas las sesiones existentes y re-autenticar. Los tokens de autenticación pueden ser utilizados para robar sesiones, por lo que es importante tomar medidas para proteger la seguridad de los usuarios. El incidente se considera grave y se recomienda tomar medidas para proteger la seguridad de los usuarios.
+    <link href="https://dev.to/arnab_pramanik_fa38614f21/your-folder-structure-is-a-message-most-teams-are-sending-the-wrong-one-2odc"/>
+    <summary>En este artículo, se analiza la importancia de la estructura de carpetas en la arquitectura de software. Se argumenta que la estructura de carpetas no es solo una cuestión de estética, sino que comunica información valiosa sobre la organización del código. Se presentan ejemplos de cómo una estructura de carpetas bien diseñada puede evitar problemas de mantenimiento y mejorar la productividad de los desarrolladores. Se concluye que la estructura de carpetas es un aspecto fundamental de la arquitectura de software y que debe ser considerada cuidadosamente en el diseño de sistemas.
 
 Contexto IA (informativo):
-Este incidente se relaciona con la seguridad de la extensión de Twitch y no con un incidente de data leak o abuso de datos. La información proporcionada se basa en análisis de código y no en datos reales de incidentes de seguridad.</summary>
-    <published>2026-09-15T12:53:16+00:00</published>
+El artículo se basa en la experiencia de un ingeniero que unió a un equipo de iOS de Slack y se enfrentó a la tarea de organizar un códigobase de más de 13.000 archivos. El ingeniero pasó tres meses creando un mapa mental de la estructura del código y aprendió que la estructura de carpetas es un aspecto clave de la arquitectura de software.</summary>
+    <published>2026-09-16T16:59:28+00:00</published>
   </entry>
 </feed>
