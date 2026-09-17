@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-16T17:08:05.923080+00:00</updated>
+  <updated>2026-09-17T13:10:23.736237+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,121 +11,79 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap</id>
-    <title>[Economía] Acciones y bonos suben en la vena de la decisión del Fed: Resumen de los mercados</title>
-    <updated>2026-09-16T17:08:05.924118+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap"/>
-    <summary>Las acciones y bonos se elevaron después de días de venta, mientras que los precios del petróleo caen. Los traders creen que la Reserva Federal aumentará las tasas de interés para combatir la inflación y fortalecer su credibilidad. La decisión del Fed es crucial para el mercado de valores, que espera una respuesta clara sobre el futuro de las tasas de interés.
-
-Contexto IA (informativo):
-La decisión del Fed se tomará en un momento crítico para el mercado de valores, que espera una respuesta clara sobre el futuro de las tasas de interés. La caída de los precios del petróleo ha contribuido a la venta en el mercado.</summary>
-    <published>2026-09-15T22:11:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-16/sazerac-is-said-to-study-deal-for-german-schnapps-maker-berentzen</id>
-    <title>[Economía] Sazerac compra Berentzen</title>
-    <updated>2026-09-16T17:08:05.924086+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-16/sazerac-is-said-to-study-deal-for-german-schnapps-maker-berentzen"/>
-    <summary>La empresa de bebidas Sazerac está en conversaciones para adquirir la marca de schnapps alemana Berentzen. Esta operación busca ampliar la presencia de la empresa en Europa. La compra podría darle a Sazerac una mayor presencia en el mercado europeo. La empresa ha estado buscando expandirse en el continente en busca de nuevas oportunidades de crecimiento.
-
-Contexto IA (informativo):
-La compra de Berentzen sería la última de una serie de operaciones de expansión de Sazerac en Europa, que busca fortalecer su presencia en el mercado de bebidas alcohólicas.</summary>
-    <published>2026-09-16T14:20:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html</id>
-    <title>[Economía] El mejor fondo de pensiones soberano del mundo advierte de un posible retraimiento en el mercado de valores de EE. UU.</title>
-    <updated>2026-09-16T17:08:05.924052+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html"/>
-    <summary>El CEO de la Guardians of New Zealand Superannuation, Jo Townsend, advierte que el mercado de valores de EE. UU. podría experimentar una corrección en el futuro. El fondo de pensiones, que maneja el patrimonio de $54 mil millones de Nueva Zelanda, ha crecido un 14,2% en el año hasta junio del 30. Townsend señaló que los rendimientos del mercado de valores en los últimos años son probables que se acaben en un punto y que se producirá una reversion a la media en el futuro. El fondo de pensiones ha reducido su presupuesto de riesgo activo y ha ajustado su estrategia de inversión para evitar una posible caída en los rendimientos.
-
-Contexto IA (informativo):
-El fondo de pensiones de Nueva Zelanda ha sido el mejor rendimiento del mundo en el año pasado, según Global SWF. El fondo de pensiones de Noruega también ha reducido sus expectativas de crecimiento en el futuro, advirtiendo que los rendimientos del mercado de valores pueden disminuir en el futuro.</summary>
-    <published>2026-09-16T14:31:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1</id>
-    <title>[Economía] No debe superar los controles de seguridad la inteligencia artificial, advierte cofundador de DeepMind</title>
-    <updated>2026-09-16T17:08:05.924019+00:00</updated>
-    <author>
-      <name>International homepage</name>
-    </author>
-    <link href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1"/>
-    <summary>Shane Legg habla con el FT mientras se lanza el nuevo DeepMind Institute para explorar las implicaciones de la inteligencia general artificial, en medio de crecientes llamadas a un freno de la industria
-
-Contexto IA (informativo):
-El nuevo instituto busca abordar las preocupaciones sobre el potencial de la inteligencia artificial y su impacto en la sociedad.</summary>
-    <published>2026-09-16T14:59:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html</id>
-    <title>[Economía] Outkick supera su era de Clay Travis</title>
-    <updated>2026-09-16T17:08:05.923986+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html</id>
+    <title>[Economía] Trump se encuentra aislado en torno a las tasas de interés</title>
+    <updated>2026-09-17T13:10:23.737153+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html"/>
-    <summary>La plataforma de deportes Fox está reestructurándose después de la salida de su fundador, Clay Travis. La empresa está contratacando a un escritor que renunció a The Seattle Times por una columna sobre atletas trans. El sitio está buscando un nuevo enfoque para atraer a un público más diverso.
+    <link href="https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html"/>
+    <summary>La votación unánime del Banco Central para elevar su tasa de referencia ha molestado al presidente Trump, quien sigue solicitando costos de préstamo más bajos. El presidente ha expresado su desacuerdo con la decisión, argumentando que las tasas de interés están afectando negativamente la economía. Sin embargo, la mayoría de los expertos consideran que la decisión es necesaria para controlar la inflación y mantener la estabilidad económica. El presidente ha anunciado que seguirá presionando para que el Banco Central revisite su decisión.
 
 Contexto IA (informativo):
-El cambio de dirección sigue las noticias de que Clay Travis dejará la empresa en febrero de este año. La plataforma ha estado experimentando una disminución en su popularidad en los últimos meses.</summary>
-    <published>2026-09-16T16:04:36+00:00</published>
+La decisión del Banco Central ha sido vista como una medida necesaria para controlar la inflación, que ha estado creciendo a un ritmo más rápido de lo esperado en los últimos meses. La inflación es un tema que ha sido objeto de debate en los últimos años, y la decisión del Banco Central ha sido vista como un paso importante para mantener la estabilidad económica.</summary>
+    <published>2026-09-17T12:13:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html</id>
-    <title>[Economía] Deuda de los hiperscalers anuncia un signo de advertencia, Apollo advierte</title>
-    <updated>2026-09-16T17:08:05.923952+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html</id>
+    <title>[Economía] Trump anuncia que EE. UU. está 'esperanzadamente' cerca del final de la guerra con Irán</title>
+    <updated>2026-09-17T13:10:23.737118+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html"/>
-    <summary>La deuda emitida por los gigantes del procesamiento de la nube que impulsan el boom de la inteligencia artificial se está volviendo más riesgosa, advirtió la empresa de capital privado Apollo Global Management el miércoles. Los contratos de seguro de riesgo, conocidos como contratos de default de crédito (CDS), para las bonos emitidas por los hiperscalers están volviendo más caros, y no es porque los bancos están hedgiendo más sus apuestas al aumentar la emisión de bonos, escribió el chief economist de Apollo, Torsten Slok, en un informe del miércoles. La empresa advierte que el mercado está revaluando los fundamentos de crédito de los hiperscalers, que incluyen un ciclo de inversión financiada por la deuda, un ciclo de crecimiento con mayor endeudamiento, flujo de efectivo negativo y incertidumbre sobre el pago de activos que se desvalían. Los expertos en el sector consideran que el aumento de los precios de los CDS es un signo de que los hiperscalers están enfrentando riesgos crecientes, pero algunos tecnólogos creen que no es necesario preocuparse, ya que las ganancias de los hiperscalers están aumentando y justifican la emisión de deuda.
+    <link href="https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html"/>
+    <summary>El presidente de EE. UU., Donald Trump, ha dicho que el país está 'esperanzadamente' cerca del final de su guerra con Irán, que ha durado casi siete meses. La situación en Yemen sigue siendo tensa, con ataques de los houthis contra Arabia Saudita y un intento de controlar el estrecho de Bab el-Mandeb. Trump planea reunirse con líderes del Golfo en Nueva York para discutir pasos siguientes para la guerra con Irán. Los esfuerzos de Washington por reanudar las conversaciones de cesaría parecen haberse estancado. La situación económica también es preocupante, con Saudi Arabia cerrando su East-West Pipeline después de un ataque con drones y los precios de la cruda disminuyendo. El secretario general de las Naciones Unidas, António Guterres, ha llamado a la desescalada en la región y ha recordado la importancia de la diplomacia y la navegación libre en el Estrecho de Hormuz.
 
 Contexto IA (informativo):
-Los líderes de los modelos de lenguaje grande (LLMs) han advertido recientemente que quieren ralentizar el ritmo de las mejoras de sus productos debido a preocupaciones de seguridad. Esto podría tener consecuencias financieras para los proveedores de servicios de la nube que ejecutan los LLMs. Los expertos en Wall Street creen que los LLMs están buscando regulación en Washington para protegerse de la competencia de las startups y evitar la responsabilidad legal por las acciones de los agentes autónomos.</summary>
-    <published>2026-09-16T16:51:18+00:00</published>
+La situación en Yemen sigue siendo complicada, con la guerra entre los houthis y Arabia Saudita que ha durado casi siete meses. La región también está afectada por la crisis en Irán, que ha llevado a una escalada de ataques contra Arabia Saudita y otros países del Golfo. La situación económica también es preocupante, con la posibilidad de una interrupción en la exportación de cruda por parte de Saudi Arabia.</summary>
+    <published>2026-09-17T12:26:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/</id>
-    <title>[Data Science] ¿Quién controla la descubierta científica?</title>
-    <updated>2026-09-16T17:08:05.923917+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-17/us-housing-starts-unexpectedly-decline-on-multifamily-projects</id>
+    <title>[Economía] Comienzos de viviendas en EE. UU. caen más de lo esperado en proyectos de apartamentos</title>
+    <updated>2026-09-17T13:10:23.737086+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/"/>
-    <summary>El actual alboroto en matemáticas puede ser un indicador de la crisis en la ciencia experimental y el trabajo de conocimiento. El mundo de la inteligencia artificial (IA) está en el centro de la controversia sobre el progreso matemático y las incentivos para la investigación. La ciencia sin comprensión es una realidad. El mundo de la IA está creando resultados verificables sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente. El matemático Terence Tao ha organizado investigaciones colaborativas que combinan matemáticos, herramientas de IA y verificación de pruebas formales. Su pregunta es ¿qué queremos que la matemática haga en la era de la IA?
+    <link href="https://www.bloomberg.com/news/articles/2026-09-17/us-housing-starts-unexpectedly-decline-on-multifamily-projects"/>
+    <summary>La construcción de viviendas en EE. UU. disminuyó más de lo previsto en agosto, lo que refleja una caída en los comienzos de proyectos de apartamentos. Esto se debe a una disminución en la construcción de viviendas para familias y estudiantes universitarios. La tendencia se debe en parte a la escasez de materiales y al aumento de los costos de construcción. Los expertos esperan que la tendencia se inverse en el próximo trimestre.
 
 Contexto IA (informativo):
-El mundo de la IA está creando resultados verificables sin que la comprensión necesaria para explicarlos esté fuera de alcance. El control de las condiciones de tiempo, acceso y colaboración es clave para ganar poder sobre lo que las personas pueden entender y perseguir. La matemática hace esta posibilidad particularmente evidente.</summary>
-    <published>2026-09-15T10:55:58+00:00</published>
+La construcción de viviendas en EE. UU. ha sido un tema de interés en los últimos años, especialmente en relación con la pandemia de COVID-19. La caída en los comienzos de proyectos de apartamentos puede ser un indicador de que la economía está entrando en una fase de recesión.</summary>
+    <published>2026-09-17T12:35:45+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/</id>
-    <title>[Data Science] Tratar plantillas de instrucciones como hiperparámetros en Scikit-LLM GridSearchCV</title>
-    <updated>2026-09-16T17:08:05.923882+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html</id>
+    <title>[Economía] Canadá se decidirá por sí mismo sus alianzas después de que Trump califica la propuesta de la UE como 'risas'</title>
+    <updated>2026-09-17T13:10:23.737054+00:00</updated>
     <author>
-      <name>MachineLearningMastery.com</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/"/>
-    <summary>En este artículo, aprenderás a tratar las plantillas de instrucciones como hiperparámetros tunables para un modelo de lenguaje, utilizando la búsqueda de hiperparámetros en Scikit-learn para encontrar la plantilla de instrucción más efectiva para una tarea de clasificación de texto sin datos de entrenamiento. Cubriremos temas como: cómo envolver un modelo de lenguaje en un clasificador compatible con Scikit-learn, cómo definir un espacio de hiperparámetros de plantillas de instrucciones y ejecutar una búsqueda cruzada de hiperparámetros. También aprenderás a interpretar los resultados para identificar cuál es la plantilla de instrucción que produce la precisión de clasificación más alta. En este artículo, mostraremos cómo utilizar el mismo enfoque que se utiliza en la tradicional máquina aprendizaje para encontrar la combinación de hiperparámetros óptima, pero en lugar de ajustar los hiperparámetros de un modelo, ajustaremos las plantillas de instrucciones para encontrar la combinación óptima para un modelo de lenguaje. Trataremos de determinar qué plantilla de instrucción funciona mejor para un modelo de lenguaje y cómo podemos automatizar el proceso de evaluación y calificar la precisión de clasificación. También aprenderás a utilizar un clasificador cero de texto, que no requiere entrenamiento adicional para clasificar, sino que utiliza la conocimiento del modelo preentrenado para inferir la clase (positiva o negativa).
+    <link href="https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"/>
+    <summary>El primer ministro canadiense Mark Carney ha expresado su apoyo a la propuesta de la UE para hacer de Ottawa un miembro asociado del bloque de 27 países, pero ha asegurado que los legisladores canadienses serán los que decidan sobre la estructura final de la alianza. Carney ha destacado que una relación más estrecha entre Canadá y la UE beneficiaría a ambos países y fortalecería la cohesión regional. Sin embargo, el presidente de EE. UU., Donald Trump, ha calificado la propuesta como 'risas' y ha amenazado con impuestos a Canadá si se considera una 'acción hostil'.
 
 Contexto IA (informativo):
-La búsqueda de hiperparámetros es una técnica común en la máquina aprendizaje para encontrar la combinación de hiperparámetros óptima para un modelo. En este artículo, mostraremos cómo aplicar esta técnica a la búsqueda de plantillas de instrucciones para un modelo de lenguaje, lo que puede mejorar la precisión de clasificación en tareas de texto sin datos de entrenamiento.</summary>
-    <published>2026-09-15T12:00:00+00:00</published>
+La UE ha estado buscando fortalecer sus relaciones con Canadá en un momento en que el país está atrapado en una guerra comercial con EE. UU. La propuesta de asociación se considera un paso importante en la búsqueda de una relación más estrecha entre ambos países.</summary>
+    <published>2026-09-17T12:36:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/videos/2026-09-17/us-jobless-claims-fall-to-196-000-video</id>
+    <title>[Economía] Estados Unidos: Pocos más personas buscan trabajo sin beneficios</title>
+    <updated>2026-09-17T13:10:23.737020+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-17/us-jobless-claims-fall-to-196-000-video"/>
+    <summary>Según datos del Departamento de Trabajo, las solicitudes de beneficios por desempleo en Estados Unidos disminuyeron a 196,000 en la semana que terminó el 12 de septiembre. Esto representa una caída de 10,000 solicitudes en una semana, lo que sugiere una estabilidad del mercado laboral. El nivel de beneficios ha alcanzado su mínimo desde julio, según datos del Departamento de Trabajo. La tendencia a la estabilidad del mercado laboral continúa siendo un tema de interés para los expertos. El nivel de beneficios ha disminuido en una semana, lo que indica una mejor situación laboral en el país.
+
+Contexto IA (informativo):
+El Departamento de Trabajo de Estados Unidos ha anunciado que las solicitudes de beneficios por desempleo han disminuido en una semana, lo que sugiere una estabilidad en el mercado laboral. Esto se debe en parte a la caída en la cantidad de personas que buscan trabajo sin beneficios.</summary>
+    <published>2026-09-17T12:49:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/</id>
     <title>[Data Science] ¿Qué puede enseñarnos la inteligencia artificial sobre la condición humana</title>
-    <updated>2026-09-16T17:08:05.923848+00:00</updated>
+    <updated>2026-09-17T13:10:23.736984+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -137,65 +95,51 @@ La conversación de Tim O'Reilly con Emmanuel Ameisen sobre la interpretación d
     <published>2026-09-16T13:37:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/</id>
-    <title>[Data Science] La propagación silenciosa de los modelos puede destruir tu modelo</title>
-    <updated>2026-09-16T17:08:05.923815+00:00</updated>
+    <id>https://www.oreilly.com/radar/architecting-for-the-knowledge-you-cant-capture/</id>
+    <title>[Data Science] Diseño para la Conocimiento que no se Puede Capturar</title>
+    <updated>2026-09-17T13:10:23.736951+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/architecting-for-the-knowledge-you-cant-capture/"/>
+    <summary>Los sistemas de conocimiento de las empresas enfrentan un problema común: la falta de documentación de la experiencia y el juicio tácito de los expertos. A pesar de la mejora en la búsqueda y la recuperación de información, los sistemas no pueden recuperar la expertise que nunca se ha registrado. La solución radica en la elicitación del conocimiento, que requiere un protocolo de entrevista y una humildad para distinguir entre el conocimiento explícito y el tácito. El objetivo es crear un sistema que pueda capturar y transferir el conocimiento que no se puede explicar
+
+Contexto IA (informativo):
+El problema del conocimiento tácito fue formulado por Michael Polanyi en 1966 y se refiere a la idea de que la competencia depende de la experiencia y el juicio que no pueden ser explicados por completo, incluso para los expertos más experimentados.</summary>
+    <published>2026-09-16T16:00:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/</id>
+    <title>[Data Science] Cuándo Graph RAG realmente agrega valor? Experimento manual</title>
+    <updated>2026-09-17T13:10:23.736916+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/"/>
-    <summary>La propagación silenciosa de los modelos puede causar problemas graves en la entrenamiento de modelos de aprendizaje automático. Un error de dimensión en la propagación silenciosa puede cambiar la función de pérdida, afectar los gradientes y corromper el modelo. Este problema es común y puede ser difícil de detectar, pero es esencial prevenirlo en el pipeline de entrenamiento. El artículo destaca la importancia de la propagación silenciosa y ofrece consejos para evitar errores de dimensión en la propagación silenciosa. El problema de la propagación silenciosa es grave y puede afectar la calidad del modelo. Es importante ser consciente de este problema y tomar medidas para prevenirlo.
+    <link href="https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/"/>
+    <summary>El autor construyó cuatro arquitecturas de búsqueda de inteligencia artificial y las comparó con el mismo conjunto de documentos y preguntas. Los resultados mostraron que el modelo de frontera produjo las mejores respuestas en general. Aunque Graph RAG superó a la arquitectura tradicional RAG en algunos casos, también tuvo dificultades en otros. El experimento no se centró en determinar cuál de las arquitecturas era superior, sino en entender cuándo la complejidad adicional de Graph RAG es justificada. El autor utilizó un conjunto de datos pequeño y comparó los resultados de las diferentes arquitecturas para entender cómo responden a la misma información. El experimento también le permitió ganar experiencia práctica con las arquitecturas de búsqueda y los gráficos de conocimiento.
 
 Contexto IA (informativo):
-La propagación silenciosa de los modelos es un problema común en la entrenamiento de modelos de aprendizaje automático. Puede causar problemas graves en la calidad del modelo y es esencial prevenirlo en el pipeline de entrenamiento. El artículo destaca la importancia de la propagación silenciosa y ofrece consejos para evitar errores de dimensión en la propagación silenciosa.</summary>
-    <published>2026-09-16T14:00:01+00:00</published>
+El autor de la noticia se dio cuenta de que la discusión sobre Graph RAG y conocimiento gráfico a menudo se centra en la importancia de estos en la comprensión de los sistemas de inteligencia artificial, pero no siempre se explora claramente cuándo y cómo estos agregan valor en diferentes contextos. El experimento del autor busca responder a esta pregunta y proporcionar una comprensión más profunda de las complejidades involucradas en la implementación de Graph RAG.</summary>
+    <published>2026-09-17T11:00:02+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/</id>
-    <title>[Data Science] Cómo hacer que la regresión lineal sobreviva a los outliers</title>
-    <updated>2026-09-16T17:08:05.923780+00:00</updated>
+    <id>https://towardsdatascience.com/why-you-think-like-a-bayesian-but-were-taught-like-a-frequentist/</id>
+    <title>[Data Science] ¿Por qué piensas como un bayesiano pero te enseñaron como un frecuentista</title>
+    <updated>2026-09-17T13:10:23.736883+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/"/>
-    <summary>La regresión lineal es un modelo predictivo valioso cuando se necesitan interpretaciones físicas, se requiere una ejecución en un dispositivo con recursos limitados, la latencia computacional es importante o se necesita un punto de referencia simple antes de introducir un modelo más complejo. Sin embargo, su simplicidad tiene una debilidad importante: la Regresión de Menos Cuadrados asume que todas las observaciones son fiables. En realidad, los errores de medición, los problemas de comunicación o los errores de calibración pueden producir observaciones lejos de la relación que se quiere estimar. La Regresión de Menos Cuadrados cuadriza cada residuo, lo que hace que unos pocos observaciones anormales puedan tener un efecto desproporcionado. Los estimadores robustos intentan prevenir que estas observaciones dominen el ajuste. Se comparan diferentes estimadores robustos en este artículo, incluyendo la Regresión de Menos Cuadrados clásica y cinco estimadores modernos. Los estimadores se evalúan en función del error de predicción y el tiempo de ejecución para capturar tanto la precisión estadística como la eficiencia computacional. El artículo también explora cómo los outliers pueden afectar la regresión lineal y cómo los estimadores robustos pueden ayudar a mitigar este efecto.
+    <link href="https://towardsdatascience.com/why-you-think-like-a-bayesian-but-were-taught-like-a-frequentist/"/>
+    <summary>La educación en estadística: una distorsión del escenario escolar. La estadística frecuentista se basa en la repetición de datos para definir la probabilidad, pero en la vida real, la probabilidad no se define por la cantidad de veces se repite un evento. En cambio, la estadística bayesiana se basa en la incertidumbre presente y la actualización de creencias basadas en la experiencia pasada. El cerebro humano a menudo actúa como un motor de predicción bayesiano, y aunque no podemos evitar ser malos en la resolución de problemas estadísticos cuando nos pedimos explicaciones, podemos ver cómo nuestro intuición es la posterior y nuestra matemática consciente es el error.
 
 Contexto IA (informativo):
-La regresión lineal es un modelo predictivo valioso en muchos campos, pero su simplicidad tiene una debilidad importante: asume que todas las observaciones son fiables. En realidad, los errores de medición, los problemas de comunicación o los errores de calibración pueden producir observaciones lejos de la relación que se quiere estimar. Los estimadores robustos pueden ayudar a mitigar este efecto y mejorar la precisión del modelo.</summary>
-    <published>2026-09-16T15:30:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29324</id>
-    <title>[Fórmula 1] Calendario de F1 2027 con 24 Grandes Premios y 10 eventos de Sprint</title>
-    <updated>2026-09-16T17:08:05.923748+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29324"/>
-    <summary>El calendario de la F1 2027 ha sido anunciado con 24 Grandes Premios y un récord de 10 eventos de Sprint. El calendario mantiene el formato de 24 carreras, pero introduce cambios notables en el orden y la composición de la temporada. Portugal regresa a la calendario, y el circuito de Algarve volverá a albergar una carrera de F1 en junio. El calendario también incluye 10 eventos de Sprint, lo que aumenta la competencia durante la temporada. El calendario comienza en Bahrain y se extenderá por 22 países. El formato de Sprint ha demostrado ser popular entre los fans, y se espera que el calendario de 2027 sea más eficiente y sostenible.
-
-Contexto IA (informativo):
-El calendario de la F1 2027 ha sido aprobado por el Consejo Mundial de la FIA y mantiene el formato de 24 carreras. El calendario ha sido diseñado para mejorar la eficiencia geográfica de la temporada y apoyar las ambiciones de sostenibilidad a largo plazo de la F1.</summary>
-    <published>2026-09-16T09:35:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/</id>
-    <title>[Fórmula 1] Haas se siente confiado para acercarse al límite de presupuesto en 2027 con conversaciones con nuevos patrocinadores</title>
-    <updated>2026-09-16T17:08:05.923716+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/"/>
-    <summary>El equipo Haas, liderado por Ayao Komatsu, avanza con positivos resultados en su búsqueda de nuevos patrocinadores. El equipo busca reducir su presupuesto anual, que actualmente se encuentra por debajo del límite establecido por la F1. La búsqueda de nuevos patrocinadores es crucial para que el equipo pueda alcanzar el objetivo de tener un presupuesto más cerca del límite en 2027.
-
-Contexto IA (informativo):
-Haas es el equipo de fórmula 1 con menos personal, con alrededor de 400 empleados. A pesar de tener un patrocinador titular, el equipo ha estado operando con un presupuesto significativamente menor que el límite establecido.</summary>
-    <published>2026-09-16T13:50:16+00:00</published>
+La estadística frecuentista es una herramienta útil en ciertos contextos, pero en la vida real, la probabilidad no se define por la repetición de datos. La estadística bayesiana es una herramienta más flexible y adecuada para la mayoría de las situaciones.</summary>
+    <published>2026-09-17T12:30:01+00:00</published>
   </entry>
   <entry>
     <id>https://racer.com/2026/09/16/hauger-in-ferrucci-out-at-foyt-for-2027-indycar-season</id>
     <title>[Fórmula 1] Hauger asume en Foyt, Ferrucci sale para la temporada 2027 de IndyCar</title>
-    <updated>2026-09-16T17:08:05.923685+00:00</updated>
+    <updated>2026-09-17T13:10:23.736849+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
@@ -207,213 +151,199 @@ El equipo Foyt ha estado buscando un nuevo piloto para reemplazar a Ferrucci, qu
     <published>2026-09-16T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/</id>
-    <title>[Fórmula 1] No será el final para Russell en F1 2026</title>
-    <updated>2026-09-16T17:08:05.923652+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/"/>
-    <summary>Toto Wolff confía en que George Russell superará una difícil campaña de 2026 de F1 y se convertirá en campeón mundial en el futuro. El piloto de Mercedes está en segundo lugar y 81 puntos detrás de su compañero de equipo dominante Kimi Antonelli, con solo nueve rondas por disputar, lo que significa que la corona de campeón para el joven de 20 años es solo una cuestión de tiempo. A pesar de que Russell entró en 2026 como el favorito para el título, la situación es más complicada de lo que se imaginaba
-
-Contexto IA (informativo):
-A pesar de la adversidad, Russell sigue siendo un piloto prometedor y su equipo de Mercedes está confiado en su capacidad para superar los obstáculos y alcanzar el título.</summary>
-    <published>2026-09-16T14:12:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/</id>
-    <title>[Fórmula 1] “No estoy disfrutando de la vida” – Cómo la estancia de Yuki Tsunoda en Red Bull F1 le ‘exhaució’</title>
-    <updated>2026-09-16T17:08:05.923618+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/"/>
-    <summary>En las eras previas a 2026 de la F1, la segunda silla de Red Bull fue un desafío para muchos pilotos. Aunque algunos lograron adaptarse, otros no pudieron igualar la performance de su compañero de equipo Max Verstappen. El caso de Sergio Pérez, que estuvo cuatro años junto a Verstappen, es un ejemplo de cómo la presión y la competencia pueden afectar la salud mental de los pilotos. La experiencia de Yuki Tsunoda en Red Bull también ha sido marcada por dificultades y desafíos que han ido más allá de su capacidad para mantenerse en el equipo.
-
-Contexto IA (informativo):
-La situación de los pilotos que compiten en la F1 es conocida por ser muy competitiva y estresante. La presión para mantenerse en el equipo y cumplir con las expectativas de la escudería puede ser abrumadora para algunos, lo que puede llevar a problemas de salud mental.</summary>
-    <published>2026-09-16T14:35:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29326</id>
-    <title>[Fórmula 1] Hamilton y Leclerc completan 623km de pruebas de neumáticos 2027 de Pirelli en Imola</title>
-    <updated>2026-09-16T17:08:05.923586+00:00</updated>
+    <id>https://www.f1technical.net/news/29325</id>
+    <title>[Fórmula 1] Lando Norris prueba el MCL-HY en Portimao</title>
+    <updated>2026-09-17T13:10:23.736816+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29326"/>
-    <summary>Lewis Hamilton y Charles Leclerc completaron 623km de pruebas de neumáticos 2027 de Pirelli en Imola, proporcionando datos valiosos y retroalimentación de pilotos sobre las últimas prototipos de Pirelli. El objetivo es finalizar la selección de neumáticos para la temporada 2027 hacia finales del año. Los pilotos completaron diferentes prototipos y condiciones, proporcionando datos sobre el comportamiento, la degradación y el rendimiento de los neumáticos.
+    <link href="https://www.f1technical.net/news/29325"/>
+    <summary>Lando Norris completó su primer test completo del MCL-HY en el Circuito Internacional de Algarve en Portimão, Portugal. El piloto británico, campeón del mundo de F1, se unió a la programación de endurance de McLaren para proporcionar una perspectiva diferente durante un momento crucial del desarrollo del vehículo. Norris completó 38 vueltas y recorrió aproximadamente 177 millas durante el test de un día. Su experiencia en F1 le proporcionó una perspectiva única, que puede ser útil para el equipo en su desarrollo del MCL-HY. La prueba es un paso importante en la preparación de McLaren para su regreso a la clase de endurance de la FIA en 2027. El MCL-HY competirá en el Campeonato Mundial de Endurance de la FIA, incluyendo las 24 Horas de Le Mans, y Norris puede tener oportunidades de participar en el programa de endurance en el futuro.
 
 Contexto IA (informativo):
-La prueba es parte de un programa más amplio que involucra a varias equipos y pilotos durante la temporada 2026. Pirelli ha realizado pruebas de desarrollo en varios circuitos, con el objetivo de entender cómo comportarán los neumáticos con la nueva generación de máquinas de Fórmula 1.</summary>
-    <published>2026-09-16T16:00:00+00:00</published>
+El MCL-HY es un vehículo de endurance que combina un monocoque de carbono con un motor V6 turboalimentado y un sistema híbrido. La prueba en Portimão es parte de la extensa programación de pruebas de McLaren antes de que el vehículo esté homologado para la competencia. El equipo busca aprovechar la experiencia de Norris en F1 para mejorar el MCL-HY y prepararse para su regreso a la clase de endurance en 2027.</summary>
+    <published>2026-09-16T20:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/</id>
-    <title>[Tecnología] Revisión de iPhone 18 Pro y iPhone 18 Pro Max: Para los amantes de la cámara</title>
-    <updated>2026-09-16T17:08:05.923552+00:00</updated>
+    <id>https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/</id>
+    <title>[Fórmula 1] Tsunoda analiza profundamente por qué no logró dominar el coche de Red Bull en F1 en 2025</title>
+    <updated>2026-09-17T13:10:23.736782+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/"/>
-    <summary>La iPhone 18 Pro y su versión más grande, el iPhone 18 Pro Max, ofrecen una excelente experiencia de cámara con una aplicación de cámara personalizable. Los pantallas son brillantes y respondientes, aunque la barra de Dynamic Island es más pequeña que la anterior. La batería tiene una vida útil excelente, pero no hay un modelo base. Los modelos Pro son más caros que los anteriores, pero siguen siendo excelentes opciones para los usuarios que buscan una experiencia de cámara de alta calidad. No es necesario actualizar si se tiene un iPhone 17 Pro, 16 Pro o 15 Pro, ya que estos modelos siguen funcionando bien. Sin embargo, los modelos Pro ofrecen mejoras significativas en la cámara y la batería, aunque no son drasticas. La nueva versión de iOS también ofrece mejoras en la asistencia de Siri.
+    <link href="https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/"/>
+    <summary>Yuki Tsunoda, compañero de equipo de Max Verstappen en Red Bull, terminó en el puesto 17 en la clasificación de los pilotos de F1 en 2025. Esto es inesperado, ya que Tsunoda se encuentra entre los pilotos favoritos para ganar el campeonato. En la temporada 2012, Felipe Massa terminó en el puesto 16 después de 8 rondas, mientras que su compañero de equipo Fernando Alonso se llevó el título. La razón detrás de la falta de rendimiento de Tsunoda no ha sido revelada aún.
 
 Contexto IA (informativo):
-Es importante tener en cuenta que no hay un modelo base de iPhone 18 este año, lo que significa que los modelos Pro son las opciones más disponibles para los usuarios que buscan una experiencia de cámara de alta calidad. La espera hasta la primavera de 2027 para la llegada del modelo base puede ser una buena opción para aquellos que han sido satisfechos con el modelo base en el pasado.</summary>
-    <published>2026-09-16T12:00:00+00:00</published>
+La temporada 2025 de F1 ha sido marcada por la competencia intensa entre los pilotos. Tsunoda y Verstappen han sido los principales contendientes para el título, pero la falta de rendimiento de Tsunoda ha generado sorpresa entre los aficionados.</summary>
+    <published>2026-09-17T09:37:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</id>
-    <title>[Tecnología] Las aplicaciones de citas con inteligencia artificial engañosas llegan</title>
-    <updated>2026-09-16T17:08:05.923517+00:00</updated>
+    <id>https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/</id>
+    <title>[Fórmula 1] Ex director técnico de Mercedes se une a Alpine como CTO</title>
+    <updated>2026-09-17T13:10:23.736746+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams"/>
-    <summary>Un investigador de seguridad, Matthew "Zigula" Gore-Kormanik, descubrió una aplicación de citas fraudulentas llamada Dora. Cuando recibió una llamada de una persona llamada Jennifer, que se presentaba como una 41 años, Sagitario, con cabello rojo, ojos azules y piercings, Gore-Kormanik se sorprendió al no ver a Jennifer en su video feed. La llamada fue interrumpida por una imagen de telar que se movía, probablemente debido a un ventilador, y se escuchaban distorsiones en el fondo. Después de la llamada, "Jennifer" le envió un mensaje diciendo que había tenido divertido y que su voz era "muy mejor de lo esperado". El investigador se dio cuenta de que su micrófono no había sido activado. La aplicación de citas Dora es una de las muchas que utilizan inteligencia artificial para engañar a los usuarios. Es importante tener cuidado al utilizar aplicaciones de citas y verificar la autenticidad de las personas que se presentan en ellas.
+    <link href="https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/"/>
+    <summary>Alpine ha nombrado a Mike Elliott como jefe de técnicas de la escuadra de F1, reforzando la estructura técnica del equipo en la fábrica de Enstone. El anuncio se hizo el jueves, donde se reveló que Elliott supervisará las funciones técnicas y de ingeniería en la fábrica de Enstone. Para el 52 años británico, se trata de un regreso a Enstone después de ...
 
 Contexto IA (informativo):
-La seguridad en línea es un tema cada vez más importante, y las aplicaciones de citas son un terreno fértil para los estafadores. Es fundamental ser cauteloso al utilizar estas aplicaciones y verificar la autenticidad de las personas que se presentan en ellas.</summary>
-    <published>2026-09-16T14:45:00+00:00</published>
+El anuncio se hizo en un momento en que Alpine busca fortalecer su estructura técnica para competir en el futuro de la F1. La escuadra ha estado trabajando en la actualización de su equipo de diseño y desarrollo de vehículos.</summary>
+    <published>2026-09-17T10:43:54+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/</id>
-    <title>[Tecnología] Samsung lanza One UI 9 en el resto de la serie Galaxy S26</title>
-    <updated>2026-09-16T17:08:05.923485+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/mercedes-open-to-f1-aduo-rethink-amid-fernando-alonso-talks-with-fia-president/10856499/</id>
+    <title>[Fórmula 1] Mercedes considera reevaluar su estrategia en F1 tras conversaciones con Fernando Alonso y el presidente de la FIA</title>
+    <updated>2026-09-17T13:10:23.736712+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/"/>
-    <summary>Samsung ha lanzado la versión 9 de One UI en la mayoría de los dispositivos de la serie Galaxy S26, incluyendo el S26, S26+ y S26 Ultra, así como en el Galaxy S26 FE. Esta actualización incluye nuevas características como My FanCam, que permite automatizar la edición de videos, y otras funcionalidades de inteligencia artificial. Además, se han mejorado las traducciones en Conversation Mode y se ha agregado una nueva función para capturar páginas de libros curvas sin ajustes manuales. La versión 9 también incluye actualizaciones de seguridad y alertas de privacidad.
+    <link href="https://www.motorsport.com/f1/news/mercedes-open-to-f1-aduo-rethink-amid-fernando-alonso-talks-with-fia-president/10856499/"/>
+    <summary>El jefe de Mercedes en F1, Toto Wolff, reconoció que Honda necesita más ayuda para convertirse en competitiva como socio de motores de Aston Martin, en medio de conversaciones entre Fernando Alonso y Mohammed Ben Sulayem. La marca japonesa ha luchado por la competitividad con las nuevas regulaciones. Después de un giro a la hora de decidir abandonar F1, Honda tuvo que reasignar su equipo para seguir participando en el campeonato.
 
 Contexto IA (informativo):
-La versión 9 de One UI se lanzó en la mayoría de los dispositivos de la serie Galaxy S26, lo que permite a los usuarios acceder a nuevas características y funcionalidades. Sin embargo, no se han reportado cambios significativos en la interfaz de usuario o en las características básicas del dispositivo.</summary>
-    <published>2026-09-16T15:04:14+00:00</published>
+Aston Martin, que había decidido abandonar F1, cambió de opinión y decidió seguir participando en el campeonato. La situación es complicada para la marca, que busca mejorar su competitividad con los nuevos reglamentos.</summary>
+    <published>2026-09-17T12:16:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/</id>
-    <title>[Tecnología] Anthropic crea documentos editables con Claude</title>
-    <updated>2026-09-16T17:08:05.923452+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/"/>
-    <summary>Claude Docs es una nueva función de Anthropic que permite a su asistente AI crear documentos editables para ti. Ahora puedes pedirle a Claude crear un documento, como una hoja de una página con información relevante, y él te lo enviará dentro de tu conversación. Puedes editar el documento dentro de Claude, pero también puedes exportarlo y abrirlo en Google Docs o Microsoft Word. Además, puedes crear presentaciones y slides dentro de las conversaciones, y editarlos directamente o descargarlos como PowerPoint o PDF. Estas actualizaciones buscan crear una interfaz única llamada "One Claude" que combine varias capacidades en un solo lugar.
-
-Contexto IA (informativo):
-Anthropic ha estado trabajando en mejorar la experiencia de usuario de su asistente AI Claude, y ahora ha lanzado una nueva función que permite crear documentos editables. La empresa ha decidido combinar varias capacidades en una interfaz única, lo que debería hacer que sea más fácil para los usuarios acceder a las diferentes funciones de Claude.</summary>
-    <published>2026-09-16T16:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</id>
-    <title>[Tecnología] Claude lanza herramientas propias para Docs y Slides</title>
-    <updated>2026-09-16T17:08:05.923418+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"/>
-    <summary>La empresa Anthropic ha anunciado el lanzamiento de dos nuevas herramientas: Docs y Slides, que permitirán a los usuarios crear documentos y presentaciones a través de conversaciones con Claude. Además, se simplificará la funcionalidad de los chats de Claude, convirtiéndolos en una sola interfaz con todas las herramientas de productividad de AI disponibles. Estas herramientas se unirán a Artifacts y Claude Design, que ahora estarán disponibles a través de una sola interfaz. La empresa afirma que Claude puede ahora determinar qué tarea necesita realizar, lo que permite el acceso a todas las herramientas de Cowork y Design desde cualquier conversación.
-
-Contexto IA (informativo):
-Estas nuevas herramientas buscan mejorar la experiencia de los usuarios de Claude, permitiéndoles crear y compartir contenido de manera más sencilla. La empresa Anthropic busca seguir innovando en el campo de la inteligencia artificial y la productividad.</summary>
-    <published>2026-09-16T16:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/spider-man-beats-star-wars-to-become-highest-grossing-movie-in-u-s-history-2000812601</id>
-    <title>[Tecnología] Spider-Man supera a Star Wars para convertirse en el filme más taquillero de la historia en EE. UU.</title>
-    <updated>2026-09-16T17:08:05.923384+00:00</updated>
+    <id>https://gizmodo.com/clayface-gets-an-r-for-gore-and-brief-nudity-2000812945</id>
+    <title>[Tecnología] Clayface recibe 'R' por violencia, gore y contenido explícito</title>
+    <updated>2026-09-17T13:10:23.736676+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/spider-man-beats-star-wars-to-become-highest-grossing-movie-in-u-s-history-2000812601"/>
-    <summary>El filme Spider-Man: Brand New Day ha superado el récord de taquilla de Star Wars: The Force Awakens, convirtiéndose en el filme más taquillero de la historia en EE. UU. Aunque algunos factores como la inflación y los formatos de película de alta calidad pueden influir en los resultados, el filme ha demostrado ser un éxito sin precedentes. Spider-Man: Brand New Day ha alcanzado un total de $936 millones en solo 47 días, superando el récord anterior de Star Wars en un período de tiempo récord.
+    <link href="https://gizmodo.com/clayface-gets-an-r-for-gore-and-brief-nudity-2000812945"/>
+    <summary>Mike Flanagan anuncia que está escribiendo una nueva adaptación de 'The Mist', una película de terror de Stephen King. La película 'Clayface' ha recibido una calificación 'R' por su contenido explícito, incluyendo violencia, gore y breves escenas de desnudez. En otro anuncio, Matthew Lillard habla sobre su regreso a 'Scream' y su compromiso con la justicia social. Por otro lado, se confirmó que no habrá una secuela de 'Strange New Worlds' protagonizada por Paul Wesley como Captain Kirk.
 
 Contexto IA (informativo):
-Es importante destacar que el éxito de Spider-Man: Brand New Day no se debe solo a su calidad artística, sino también a factores como la publicidad y la promoción. El filme ha sido promocionado intensamente, lo que ha ayudado a atraer a una audiencia más amplia. Además, el filme ha sido lanzado en formatos de película de alta calidad, lo que ha contribuido a su éxito. Aunque algunos críticos han expresado reservas sobre el filme, la mayoría de los fanáticos y espectadores han disfrutado de la experiencia cinematográfica.</summary>
-    <published>2026-09-16T16:30:43+00:00</published>
+En un mundo donde la creatividad y la innovación son clave, es importante recordar que la lucha por la justicia social y la igualdad es un aspecto fundamental de nuestra identidad como artistas y como seres humanos. La decisión de Matthew Lillard de regresar a 'Scream' después de ser criticado por su postura sobre la justicia transgénero es un ejemplo de cómo la presión social puede influir en nuestras decisiones creativas.</summary>
+    <published>2026-09-17T11:11:02+00:00</published>
   </entry>
   <entry>
-    <id>https://openjdk.org/projects/jdk/27/</id>
-    <title>[Programación] Lanzamiento de Java 27</title>
-    <updated>2026-09-16T17:08:05.923351+00:00</updated>
+    <id>https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch</id>
+    <title>[Tecnología] El Apple Watch Series 12 marca el comienzo de una nueva era de dispositivos de seguimiento</title>
+    <updated>2026-09-17T13:10:23.736639+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://openjdk.org/projects/jdk/27/"/>
-    <summary>La versión 27 de Java ha sido lanzada como implementación de referencia del plataforma Java SE, según la especificación JSR 402 en el proceso de la comunidad Java. Esta versión incluye varias características y se espera que se complemente con más funcionalidades en el futuro. La versión 27 se ha lanzado en general disponibilidad el 15 de septiembre de 2026 y se pueden obtener binaries de producción bajo la GPL desde Oracle, aunque otras empresas seguirán con el tiempo.
+    <link href="https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"/>
+    <summary>El Apple Watch Series 12 introduce cambios significativos en el seguimiento de la frecuencia cardíaca, lo que permite una monitorización continua. Aunque el diseño y la interfaz siguen siendo similares a las generaciones anteriores, el dispositivo cuenta con tecnologías avanzadas que abren la puerta a innovaciones en salud y dispositivos de seguimiento. La empresa busca cerrar la brecha con el espacio de dispositivos de seguimiento que ya han adoptado la inteligencia artificial para la salud, y también está trabajando en la creación de dispositivos que proporcionen información útil basada en el día a día del usuario. Estas actualizaciones se dividen en dos áreas: el seguimiento del boom de la inteligencia artificial en salud y la vanguardia en dispositivos de seguimiento que ofrecen información útil basada en la vida diaria del usuario. El Apple Watch Series 12 es un paso importante hacia el futuro de la salud y los dispositivos de seguimiento.
 
 Contexto IA (informativo):
-La versión 27 de Java es el resultado del proceso de lanzamiento de la JDK, que se ha desarrollado utilizando el proceso de JDK Release Process (JEP 3).</summary>
-    <published>2026-09-15T23:13:53+00:00</published>
+El Apple Watch Series 12 es el resultado de años de desarrollo y mejora en la tecnología de seguimiento de la empresa. Aunque el dispositivo sigue siendo similar en diseño y interfaz a las generaciones anteriores, las actualizaciones internas lo convierten en un dispositivo más avanzado y capaz.</summary>
+    <published>2026-09-17T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://slint.dev/blog/slint-1.18-released</id>
-    <title>[Programación] Lanzamiento de Slint 1.18: una herramienta de interfaz de usuario declarativa mejorada</title>
-    <updated>2026-09-16T17:08:05.923315+00:00</updated>
+    <id>https://www.engadget.com/2260989/apple-watch-series-12-review-hrv-new-health-sensing-gesture/</id>
+    <title>[Tecnología] Revisión del Apple Watch Series 12: Ajustándose y calentando</title>
+    <updated>2026-09-17T13:10:23.736605+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://slint.dev/blog/slint-1.18-released"/>
-    <summary>La versión 1.18 de Slint ofrece mejoras de calidad de vida, incluyendo un mejor rendimiento, layouts y animaciones más fáciles de usar. La herramienta también permite agregar y eliminar elementos de manera más sencilla, y ofrece una mejor experiencia para los desarrolladores. La versión 1.18 es una excelente opción para aquellos que buscan crear interfaces de usuario reactivas y fluentes en una variedad de plataformas.
+    <link href="https://www.engadget.com/2260989/apple-watch-series-12-review-hrv-new-health-sensing-gesture/"/>
+    <summary>La nueva smartwatch de Apple cuenta con varias mejoras, como un array de sensación de salud reredisegado, soporte a gestos, un caso de cerámica revivido y una mejor autonomía. Sin embargo, los nuevos audio features, como Siri Recaps y Live Rewind, no están disponibles aún y solo dos de los cuatro Audio Intelligence features están disponibles: Shazam y Sound Recognition. El chip S11 y el Secure Exclave permiten una mayor privacidad y se utilizan para aplicaciones como la detección de ruido y la ajustación de los niveles de notificación según el nivel de ruido ambiental. La revisión se centra en las mejoras que se pueden probar en la actualidad, como el soporte a gestos y la detección de ruido.
 
 Contexto IA (informativo):
-Slint es una herramienta de interfaz de usuario basada en Rust que permite a los desarrolladores crear interfaces de usuario reactivas y fluentes en una variedad de plataformas, desde dispositivos con recursos limitados hasta dispositivos móviles y máquinas de escritorio poderosas.</summary>
-    <published>2026-09-16T14:39:41+00:00</published>
+La Apple Watch Series 12 es la última smartwatch de la marca y se destaca por sus mejoras en privacidad y seguridad. El chip S11 y el Secure Exclave permiten una mayor privacidad y se utilizan para aplicaciones como la detección de ruido y la ajustación de los niveles de notificación según el nivel de ruido ambiental.</summary>
+    <published>2026-09-17T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/review/apple-watch-series-12/</id>
+    <title>[Tecnología] Revisión Apple Watch Series 12: Finalmente, una puntuación de readibilidad (2026)</title>
+    <updated>2026-09-17T13:10:23.736570+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/review/apple-watch-series-12/"/>
+    <summary>La Apple Watch Series 12 no parece ser una actualización significativa en comparación con la versión anterior, pero después de usarla durante una semana, noté que se siente más intuitiva y fácil de usar. La nueva Health Sensing System y el chip S11 aportan mejoras en la seguimiento de la salud, mientras que el watchOS 27 ofrece un nuevo diseño más limpio y centrado en Siri. Además, la serie 12 incluye Audio Intelligence, una suite de herramientas de escucha impulsadas por Apple Intelligence. La serie 12 también viene con un acabado en cerámica, un acabado premium que Apple había eliminado en 2020. Sin embargo, si ya tienes una serie 11, la Audio Intelligence no puede justificar la compra de una nueva. La serie 12 es una mejor opción que la serie 8 o anterior, con una mejor pantalla, una mayor vida de batería y nuevas características de salud, como notificaciones de apnea del sueño y hipertensión. Los dueños de la serie 9 o 10 tienen menos razones para cambiar, pero las mejoras de la batería (18 horas a 24 horas) pueden ser atractivas.
+
+Contexto IA (informativo):
+La Apple Watch Series 12 es la última actualización en la línea de smartwatches de Apple, que ha sido lanzada en 2026. La serie 12 es una mejora sobre la serie 11, con una nueva Health Sensing System y un chip S11 más rápido. El watchOS 27 ofrece un nuevo diseño más limpio y centrado en Siri, y la serie 12 incluye Audio Intelligence, una suite de herramientas de escucha impulsadas por Apple Intelligence.</summary>
+    <published>2026-09-17T12:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack</id>
+    <title>[Tecnología] El soundtrack de Grand Theft Auto VI cuenta con 34 pistas nuevas</title>
+    <updated>2026-09-17T13:10:23.736536+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack"/>
+    <summary>Después de una revelación musical previa, Rockstar ha anunciado oficialmente el soundtrack de Grand Theft Auto VI, titulado Grand Theft Auto VI: The Album. El álbum cuenta con 34 pistas originales, que abarcan una amplia gama de géneros, incluyendo contribuciones de artistas como Keith Richards y Travis Scott. Los primeros seis sencillos, disponibles hoy, sugieren que la colección abarcará una variedad de estilos musicales. Hasta ahora, se han confirmado las pistas de Yung Lean, Travis Scott y CA7RIEL &amp; Paco Amoroso, entre otros.
+
+Contexto IA (informativo):
+El anuncio del soundtrack de Grand Theft Auto VI es el último de una serie de revelaciones musicales que Rockstar ha estado compartiendo en las últimas semanas. La publicación de los primeros seis sencillos ha generado gran expectación entre los fans de la franquicia.</summary>
+    <published>2026-09-17T12:31:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.olafalders.com/2026/09/16/git-worktree-gotchas/</id>
     <title>[Programación] Gotchas del uso de worktrees en Git</title>
-    <updated>2026-09-16T17:08:05.923278+00:00</updated>
+    <updated>2026-09-17T13:10:23.736495+00:00</updated>
     <author>
       <name>programming</name>
     </author>
     <link href="https://www.olafalders.com/2026/09/16/git-worktree-gotchas/"/>
-    <summary>El uso de worktrees en Git ha evolucionado y ahora se utiliza más ampliamente. Sin embargo, todavía presentan algunas gotchas. En primer lugar, es importante entender que cada checkout de Git es un worktree. Los worktrees se pueden crear para diferentes propósitos, como crear una copia de seguridad de un repositorio o trabajar en un proyecto paralelamente. Sin embargo, esto puede causar problemas si no se maneja correctamente. Por ejemplo, si se busca encontrar el directorio .git en un worktree, se puede encontrar que es un archivo de texto en lugar de un directorio, lo que puede causar confusión. Además, si se busca encontrar el directorio principal del repositorio, se puede encontrar que el worktree está en un directorio subordinado del directorio principal, lo que puede causar problemas de acceso. Para evitar estos problemas, se recomienda mantener los worktrees en un directorio separado del directorio principal del repositorio. También se puede utilizar el comando `git rev-parse --show-toplevel` para encontrar el directorio principal del repositorio, independientemente del trabajo de escritorio. Por último, se recomienda utilizar herramientas de sandboxing, como Docker o Seatbelt, para proteger los worktrees y evitar problemas de seguridad. En resumen, aunque los worktrees son una herramienta útil, es importante entender sus limitaciones y utilizarlas de manera adecuada para evitar problemas.
+    <summary>El uso de worktrees en Git ha evolucionado y ahora se utiliza más comúnmente. Sin embargo, todavía presentan algunas gotchas. En primer lugar, es importante entender que cada checkout de Git es un worktree. Los worktrees se pueden crear para diferentes propósitos, como crear una copia de seguridad de un repositorio o trabajar en un proyecto paralelamente. Sin embargo, esto puede causar problemas si no se maneja correctamente. Por ejemplo, si se busca encontrar el directorio .git en un worktree, se puede encontrar que es un archivo de texto en lugar de un directorio, lo que puede causar confusión. Además, si se busca encontrar el directorio .git en un worktree que se encuentra en un subdirectorio del repositorio principal, se puede encontrar que el trabajo de Git no puede encontrar el directorio .git en el repositorio principal. Para evitar estos problemas, se recomienda mantener los worktrees en un directorio diferente al del repositorio principal. También se puede utilizar el comando `git rev-parse --show-toplevel` para encontrar el directorio principal del repositorio. Por último, se recomienda utilizar hooks de Git para automatizar ciertas tareas, como la creación de un worktree, pero se debe tener en cuenta que estos hooks pueden no funcionar correctamente en un worktree sandboxado. En resumen, el uso de worktrees en Git requiere una atención especial para evitar problemas y asegurarse de que se utilicen de manera efectiva.
 
 Contexto IA (informativo):
-En la actualidad, Git es una herramienta muy popular entre los desarrolladores de software. Su uso se ha vuelto más común en la industria, y es utilizado por muchas empresas y proyectos de código abierto. Sin embargo, como con cualquier herramienta, hay algunas gotchas y limitaciones que debemos tener en cuenta. En este artículo, se discuten algunas de las gotchas más comunes del uso de worktrees en Git, y se proporcionan consejos y soluciones para evitar problemas y utilizar esta herramienta de manera efectiva.</summary>
+El uso de worktrees en Git ha evolucionado y ahora se utiliza más comúnmente en proyectos de desarrollo de software. Sin embargo, todavía presentan algunas gotchas que deben ser consideradas para evitar problemas y asegurarse de que se utilicen de manera efectiva.</summary>
     <published>2026-09-16T15:46:23+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/tomerbendavid/i-went-through-it-all-3j37</id>
-    <title>[Programación] Recorrió todo</title>
-    <updated>2026-09-16T17:08:05.923240+00:00</updated>
+    <id>https://fodev.net/files/fo2/ssl.html</id>
+    <title>[Programación] Lenguaje de programacion que utiliza procedimientos</title>
+    <updated>2026-09-17T13:10:23.736460+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/tomerbendavid/i-went-through-it-all-3j37"/>
-    <summary>El autor compara su experiencia con la asistencia de inteligencia artificial en el desarrollo de software. Aunque el AI puede realizar tareas con precisión, no puede reemplazar la necesidad de revisar y entender el código. El autor menciona que, aunque el AI puede ser útil, no puede confiar en su capacidad para triar bugs y que es necesario trabajar junto a él. Además, destaca que el uso de herramientas de desarrollo como IDEs y cli's puede ser más rápido que trabajar manualmente, aunque el autor no recomienda dejar que el AI haga todo el trabajo. En resumen, el AI puede ser una herramienta valiosa, pero no puede reemplazar la necesidad de experiencia y habilidad humana en el desarrollo de software.
+    <link href="https://fodev.net/files/fo2/ssl.html"/>
+    <summary>El autor analiza el lenguaje de scripting de Fallout, SSL o Star Trek Scripting Language, y busca saber si existe alguna otra base de programacion aparte de C. Destaca la peculiaridad de que los procedimientos se definen antes de su contenido y utilizan etiquetas 'start' y 'end' en lugar de corchetes. El autor se pregunta si este estilo de sintaxis era común en otros lenguajes de programacion en ese momento. El lenguaje fue creado entre 1994 y 1996, según se infiere del texto. El autor adjunta más información y solicita comentarios.
 
 Contexto IA (informativo):
-El autor destaca la importancia de la experiencia y habilidad humana en el desarrollo de software, incluso en la era de la inteligencia artificial. Aunque el AI puede ser útil, no puede reemplazar la necesidad de revisar y entender el código.</summary>
-    <published>2026-09-16T16:50:37+00:00</published>
+El autor analiza el lenguaje de scripting de Fallout para comprender mejor su funcionamiento y estructura. El texto proporciona detalles sobre la sintaxis del lenguaje y su relación con otros lenguajes de programacion.</summary>
+    <published>2026-09-16T20:43:34+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/sherial_2e18faf81eaf4982d/why-your-wordpress-contact-form-stopped-sending-emails-1m81</id>
-    <title>[Programación] ¿Por qué la forma de contacto de WordPress ya no envía correos electrónicos</title>
-    <updated>2026-09-16T17:08:05.923187+00:00</updated>
+    <id>https://www.unicode.org/versions/Unicode18.0.0/</id>
+    <title>[Programación] Se ha lanzado Unicode 18.0.0</title>
+    <updated>2026-09-17T13:10:23.736419+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/sherial_2e18faf81eaf4982d/why-your-wordpress-contact-form-stopped-sending-emails-1m81"/>
-    <summary>La forma de contacto de WordPress puede fallar en enviar correos electrónicos, lo que puede llevar a la pérdida de enlaces de contacto. Esto puede ocurrir debido a problemas de configuración del dominio o de autenticación. Para solucionar este problema, es importante verificar los registros SPF, DKIM y DMARC, y configurar el envío de correos electrónicos de manera segura. También es recomendable utilizar un servicio de envío de correos electrónicos dedicado y configurar la forma de contacto para que almacene los registros de forma local. De esta manera, se puede detectar cualquier problema de envío y recibir notificaciones de fallos. Es importante realizar pruebas regulares para asegurarse de que la forma de contacto funcione correctamente.
+    <link href="https://www.unicode.org/versions/Unicode18.0.0/"/>
+    <summary>La versión 18.0.0 del Unicode Standard agrega 13.007 caracteres, lo que eleva el total a 172.808 caracteres. Estos nuevos caracteres incluyen tres nuevos scripts: Proto-Cuneiform (numerales), Jurchen y Seal (pequeño sello). Además, se han actualizado varios estándares técnicos Unicode, que ahora están sincronizados con la versión 18.0. Los cambios en esta versión pueden requerir modificaciones en las implementaciones. Se recomienda consultar las secciones D a H para obtener más detalles sobre los cambios en esta versión del estándar Unicode, sus anexos y los estándares técnicos sincronizados.
 
 Contexto IA (informativo):
-La forma de contacto de WordPress es un componente común en muchos sitios web, y su función es crucial para mantener la comunicación con los visitantes. Sin embargo, debido a la complejidad de la configuración del dominio y la autenticación, puede ocurrir que la forma de contacto ya no envíe correos electrónicos. Esto puede generar pérdidas de enlaces de contacto y problemas de soporte para los visitantes.</summary>
-    <published>2026-09-16T16:58:58+00:00</published>
+Esta es una página de borrador preliminar para una versión futura del Unicode Standard. Algunos detalles pueden estar incompletos o incorrectos, y algunos enlaces pueden estar rotos o no funcionar. Durante el período de revisión beta, se agradece cualquier retroalimentación sobre errores en esta página.</summary>
+    <published>2026-09-17T01:23:48+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/arnab_pramanik_fa38614f21/your-folder-structure-is-a-message-most-teams-are-sending-the-wrong-one-2odc</id>
-    <title>[Programación] La estructura de carpetas es un mensaje. La mayoría de los equipos envían el mensaje equivocado.</title>
-    <updated>2026-09-16T17:08:05.923101+00:00</updated>
+    <id>https://dev.to/hemant_007/from-2d-streets-to-living-worlds-the-engineering-behind-grand-theft-autos-evolution-44l4</id>
+    <title>[Programación] De las calles 2D a mundos vivientes: La ingeniería detrás de la evolución de Grand Theft Auto</title>
+    <updated>2026-09-17T13:10:23.736363+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/arnab_pramanik_fa38614f21/your-folder-structure-is-a-message-most-teams-are-sending-the-wrong-one-2odc"/>
-    <summary>En este artículo, se analiza la importancia de la estructura de carpetas en la arquitectura de software. Se argumenta que la estructura de carpetas no es solo una cuestión de estética, sino que comunica información valiosa sobre la organización del código. Se presentan ejemplos de cómo una estructura de carpetas bien diseñada puede evitar problemas de mantenimiento y mejorar la productividad de los desarrolladores. Se concluye que la estructura de carpetas es un aspecto fundamental de la arquitectura de software y que debe ser considerada cuidadosamente en el diseño de sistemas.
+    <link href="https://dev.to/hemant_007/from-2d-streets-to-living-worlds-the-engineering-behind-grand-theft-autos-evolution-44l4"/>
+    <summary>En este artículo, se explora la ingeniería detrás de la evolución de Grand Theft Auto desde su origen en 2D hasta la creación de mundos vivientes. Se analiza la arquitectura y las tecnología utilizadas para crear un mundo abierto y realista, incluyendo la gestión de la memoria, el rendimiento y la simulación de NPCs. El artículo se centra en la pregunta de cómo se puede crear un mundo convincente y dinámico en una escala tan grande y mantenerlo en ejecución en tiempo real.
 
 Contexto IA (informativo):
-El artículo se basa en la experiencia de un ingeniero que unió a un equipo de iOS de Slack y se enfrentó a la tarea de organizar un códigobase de más de 13.000 archivos. El ingeniero pasó tres meses creando un mapa mental de la estructura del código y aprendió que la estructura de carpetas es un aspecto clave de la arquitectura de software.</summary>
-    <published>2026-09-16T16:59:28+00:00</published>
+La serie Grand Theft Auto ha sido una de las más influyentes en la industria de los videojuegos, con su evolución desde 2D hasta mundos vivientes. La pregunta es cómo se puede lograr este logro y cómo se puede mantener un mundo abierto y realista en ejecución en tiempo real.</summary>
+    <published>2026-09-17T12:51:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/grace_dami_db305a61f2ab16/5-signs-your-saas-onboarding-is-losing-customers-and-how-to-fix-each-one-32k6</id>
+    <title>[Programación] 5 Signos de que tu onboarding de SaaS está perdiendo clientes (Y cómo solucionar cada uno de ellos)</title>
+    <updated>2026-09-17T13:10:23.736259+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/grace_dami_db305a61f2ab16/5-signs-your-saas-onboarding-is-losing-customers-and-how-to-fix-each-one-32k6"/>
+    <summary>La mayoría de las empresas de SaaS se enfocan en la adquisición — gastos de publicidad, páginas de aterrizaje, pruebas gratuitas — y luego pierden una gran cantidad de usuarios ganados en la primera semana. El problema es casi siempre el onboarding. Aquí hay cómo identificar los signos de advertencia, y qué hacer sobre ellos. Los 5 signos de advertencia son: 1) los usuarios se suscriben pero nunca abren el producto. 2) los soportes reciben un gran número de solicitudes en la primera semana. 3) los usuarios que prueban el producto tienen una baja tasa de conversión. 4) las características de poder se utilizan muy poco. 5) el desvío de clientes se produce alrededor del día 30, no al día 1. Las soluciones son: 1) rediseñar el onboarding para que los usuarios lleguen a la acción de valor en minutos. 2) convertir las cinco solicitudes más comunes en herramientas de ayuda en-producto. 3) agregar seguimiento ligero de progreso para mostrar a los usuarios lo que han logrado y lo que queda por hacer. 4) introducir las características de poder de manera contextual cuando los usuarios estén listos. 5) desencadenar check-ins, nudges de uso o correos electrónicos con lo que los usuarios están perdiendo para cuando la participación natural comienza a disminuir. La idea clave es que el onboarding no es un tutorial, sino el camino más rápido posible para que un usuario experimente valor, seguido de una revelación lenta y deliberada de todo lo que puede hacer el producto. Las empresas que tratan el onboarding como un levar de crecimiento, no como un checkbox, ven que se traduce en una mayor retención que cualquier canal de adquisición
+
+Contexto IA (informativo):
+La clave para un buen onboarding es proporcionar un valor inmediato a los usuarios desde el momento en que se suscriben, y luego revelar gradualmente todas las características y funcionalidades del producto. Esto requiere una comprensión profunda de los hábitos y necesidades de los usuarios, así como una capacidad para personalizar la experiencia de onboarding para cada uno de ellos.</summary>
+    <published>2026-09-17T12:52:34+00:00</published>
   </entry>
 </feed>
