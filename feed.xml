@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-21T14:09:52.200307+00:00</updated>
+  <updated>2026-09-22T13:09:40.272067+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,121 +11,93 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street</id>
-    <title>[Economía] El boom de la inteligencia artificial complica la diversificación de las inversiones para Wall Street</title>
-    <updated>2026-09-21T14:09:52.201355+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates</id>
+    <title>[Economía] Acciones estadounidenses mantienen ganancias ante el discurso de Trump en la ONU</title>
+    <updated>2026-09-22T13:09:40.273028+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street"/>
-    <summary>Las pensiones y los fondos de riqueza soberanos con billones de dólares para invertir están descubriendo que la diversificación que una vez dependían es una ilusión. Esto se debe a que la creciente dependencia de la inteligencia artificial en sus inversiones está haciendo que sea cada vez más difícil encontrar activos que no estén relacionados con el mercado de valores. Además, la falta de transparencia en la inversión en inteligencia artificial está haciendo que sea difícil para los inversores tomar decisiones informadas. Por lo tanto, las instituciones financieras están buscando nuevas formas de diversificar sus carteras y reducir su exposición a los riesgos asociados con la inteligencia artificial.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates"/>
+    <summary>Las acciones estadounidenses mantuvieron su estabilidad después de una racha de crecimiento en el comercio de inteligencia artificial, mientras que las bajas precios del petróleo continuaban estableciendo el tono para los mercados. Los inversores siguen monitoreando los esfuerzos diplomáticos para poner fin a la guerra entre Estados Unidos e Irán.
 
 Contexto IA (informativo):
-En un momento en que la inteligencia artificial está revolucionando la forma en que se toman las decisiones financieras, las instituciones financieras están comenzando a darse cuenta de que la diversificación de sus inversiones es cada vez más difícil. Esto se debe a que la creciente dependencia de la inteligencia artificial en sus inversiones está haciendo que sea cada vez más difícil encontrar activos que no estén relacionados con el mercado de valores.</summary>
-    <published>2026-09-20T21:00:01+00:00</published>
+Los precios del petróleo han caído debido a la reducción de la producción en Venezuela y a la creciente oferta de petróleo en el mercado global.</summary>
+    <published>2026-09-21T22:18:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html</id>
-    <title>[Economía] Bessent y China celebran progreso en las conversaciones sobre A.I., ahora viene el parte difícil</title>
-    <updated>2026-09-21T14:09:52.201321+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html"/>
-    <summary>Se espera que la inteligencia artificial y otros temas sean importantes en el próximo encuentro entre el presidente Trump y el líder chino Xi Jinping. El presidente de Bessent ha expresado su apoyo a la cooperación entre Estados Unidos y China en el ámbito de la inteligencia artificial. El tema será discutido en el próximo encuentro entre ambos líderes. La cooperación en inteligencia artificial puede tener un impacto significativo en la economía y la seguridad nacional de ambos países.
-
-Contexto IA (informativo):
-El presidente de Bessent ha expresado su apoyo a la cooperación entre Estados Unidos y China en el ámbito de la inteligencia artificial, lo que puede ser un paso importante hacia una mayor colaboración entre ambos países.</summary>
-    <published>2026-09-21T12:01:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html</id>
-    <title>[Economía] La piscina de televisión de la Casa Blanca dejará de cubrir a Trump después de la prohibición de CNN</title>
-    <updated>2026-09-21T14:09:52.201285+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html</id>
+    <title>[Economía] Trump y Xi buscan estabilidad y acuerdos comerciales, pero la IA, las tarifas y la Irán lo hacen más complicado</title>
+    <updated>2026-09-22T13:09:40.272994+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html"/>
-    <summary>La piscina de televisión de la Casa Blanca, que cubre eventos del presidente Donald Trump de manera rotativa, dejará de cubrir esos eventos debido a la prohibición de CNN de ser parte de ese grupo de cinco miembros. La decisión de los otros cuatro miembros del grupo de televisión para no cubrir a Trump se produce en un momento en el que CNN, junto con MS NOW y Politico, anunció que están presentando una demanda contra Trump para anular la prohibición de esos tres medios de comunicación en la Casa Blanca. Además de CNN, los otros miembros del grupo de televisión de la Casa Blanca son NBC, ABC, CBS y Fox. Este es un desarrollo en tiempo real, por lo que se recomienda refrescar para obtener actualizaciones.
+    <link href="https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html"/>
+    <summary>El presidente Donald Trump y el líder chino Xi Jinping buscan fortalecer la estabilidad comercial y alcanzar acuerdos económicos, pero la discusión sobre la inteligencia artificial, las tarifas y la situación en Irán pueden complicar la situación. Los dos líderes se reunirán en Washington para su segunda cumbre cara a cara este año. A pesar de los gestos de buena voluntad, las dos partes siguen lanzando acusaciones y acciones comerciales retaliatorias. El secretario del Tesoro Scott Bessent señaló que Trump y Xi tienen un gran respeto mutuo que se traduce en las negociaciones más amplias. Sin embargo, también destacó que algunos acuerdos comerciales no se cumplieron completamente. Los analistas chinos han expresado preocupación sobre la disposición única de los dos líderes para la diplomacia económica. El presidente Trump busca consolidar su imagen en las elecciones, mientras que Xi Jinping busca mantener la estabilidad económica. La relación comercial entre Estados Unidos y China sigue siendo tensa, con tarifas altas y un comercio deficitario significativo. La reunión de Trump y Xi es crucial para determinar el futuro de la relación comercial entre ambos países.
 
 Contexto IA (informativo):
-La decisión de la piscina de televisión de la Casa Blanca se produce en un contexto en el que la relación entre la Casa Blanca y los medios de comunicación ha estado tensa en los últimos tiempos. La prohibición de CNN de ser parte del grupo de televisión es la última en una serie de medidas tomadas por la administración Trump para limitar la cobertura de los medios de comunicación en la Casa Blanca.</summary>
-    <published>2026-09-21T13:42:27+00:00</published>
+La reunión de Trump y Xi Jinping es importante para determinar el futuro de la relación comercial entre Estados Unidos y China. La situación en Irán y la discusión sobre la inteligencia artificial pueden complicar la situación. Los líderes chinos y estadounidenses buscan fortalecer la estabilidad comercial y alcanzar acuerdos económicos, pero la tensión entre ambos países sigue siendo alta.</summary>
+    <published>2026-09-21T22:25:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html</id>
-    <title>[Economía] CNN, MS NOW y Politico demandan a la administración de Trump por el acceso a la Casa Blanca</title>
-    <updated>2026-09-21T14:09:52.201252+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html"/>
-    <summary>Las tres cadenas de noticias, que incluyen CNN, MS NOW y Politico, argumentan que la decisión del presidente Trump de prohibirles el acceso a las tierras de la Casa Blanca viola sus derechos constitucionales. Estas cadenas de noticias afirman que su derecho a informar es esencial para una democracia saludable. La administración de Trump ha mantenido que las cadenas de noticias deben cumplir con ciertos requisitos para obtener acceso a la Casa Blanca. Sin embargo, las cadenas de noticias argumentan que estos requisitos son inconstitucionales y que su acceso a la Casa Blanca es esencial para realizar su función periodística. Las tres cadenas de noticias han decidido presentar una demanda contra la administración de Trump por este motivo.
-
-Contexto IA (informativo):
-Esta decisión de la administración de Trump ha generado una gran controversia en el mundo periodístico, ya que las cadenas de noticias argumentan que su derecho a informar es fundamental para una democracia. La administración de Trump ha mantenido que las cadenas de noticias deben cumplir con ciertos requisitos para obtener acceso a la Casa Blanca, pero estas cadenas de noticias argumentan que estos requisitos son inconstitucionales.</summary>
-    <published>2026-09-21T13:42:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html</id>
-    <title>[Economía] El secretario del Tesoro estadounidense rechaza la idea de dar a los líderes del AI una 'exención de responsabilidad', Bessent</title>
-    <updated>2026-09-21T14:09:52.201217+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html</id>
+    <title>[Economía] McDonald's anuncia día de inversores con estrategia para recuperar clientes</title>
+    <updated>2026-09-22T13:09:40.272960+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html"/>
-    <summary>El secretario del Tesoro estadounidense, Scott Bessent, ha dicho que los desarrolladores de inteligencia artificial deben asumir la responsabilidad de sus acciones en lugar de esperar que el gobierno les dé una 'exención de responsabilidad'. Bessent también ha hablado sobre las conversaciones que tiene con el vicepremier chino, He Lifeng, y ha confirmado que el presidente Trump planea visitar China en el próximo mes. Además, ha hablado sobre las tensiones comerciales entre Estados Unidos y China, y ha dicho que las tasas de interés pueden disminuir una vez que se acabe la guerra con Irán.
+    <link href="https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html"/>
+    <summary>McDonald's presentará detalles sobre su nueva estrategia para recuperar clientes en su día de inversores en Chicago. La empresa ha anunciado un plan de crecimiento global llamado McDonald's &gt; NEXT, que incluye una nueva diseño de restaurantes, alimentos y bebidas de mejor calidad y innovación consumidor-led. La empresa ha tenido dificultades en su negocio de Estados Unidos, con una venta de mismo establecimiento del 0,8% y una disminución de la tráfico en sus restaurantes. El CEO Chris Kempczinski ha explicado que los problemas se debieron a una mala ejecución, no a problemas con la estrategia en general. La empresa espera que su nueva estrategia sea bien recibida por los inversores, que están preocupados por la capacidad de la empresa para recuperar clientes en el corto plazo. La empresa ha tenido una caída del 18% en su valor de acciones en el último año, lo que ha afectado su mercado de valores, que se encuentra en $175 mil millones. La empresa espera que su nueva estrategia sea clave para su éxito. La empresa ha anunciado planes para mejorar su oferta de valor, con un enfoque en la calidad de sus alimentos y bebidas, y en la innovación consumidor-led. La empresa también ha anunciado planes para remodelar sus restaurantes para mejorar su diseño y tecnología. La empresa espera que su nueva estrategia sea bien recibida por los inversores y que sea clave para su éxito en el futuro.
 
 Contexto IA (informativo):
-El secretario del Tesoro estadounidense, Scott Bessent, ha sido un defensor de la política de Trump en cuanto a la expansión de la industria de la inteligencia artificial en Estados Unidos. Sin embargo, su comentario sobre la responsabilidad de los desarrolladores de inteligencia artificial ha generado controversia. Mientras tanto, las tensiones comerciales entre Estados Unidos y China siguen siendo un tema de debate, y el presidente Trump planea visitar China en el próximo mes. La visita se llevará a cabo en el aeropuerto de Maryland y se espera que sea una oportunidad para mejorar las relaciones entre ambos países.</summary>
-    <published>2026-09-21T13:48:25+00:00</published>
+El día de inversores de McDonald's es una oportunidad para la empresa para presentar su nueva estrategia y ganar la confianza de los inversores, que están preocupados por la capacidad de la empresa para recuperar clientes en el corto plazo. La empresa ha tenido dificultades en su negocio de Estados Unidos, pero espera que su nueva estrategia sea clave para su éxito.</summary>
+    <published>2026-09-22T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-09-21/us-china-have-time-for-trade-truce-extension-greer-video</id>
-    <title>[Economía] Estados Unidos y China tienen tiempo para discutir la extensión del trato comercial</title>
-    <updated>2026-09-21T14:09:52.201184+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html</id>
+    <title>[Economía] ¿Qué sigue para Paramount</title>
+    <updated>2026-09-22T13:09:40.272929+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html"/>
+    <summary>Los observadores de Hollywood creen que la estrella de Paramount prevaleció en los estados que buscaban bloquear su acuerdo con Warner Bros. Discovery. Ahora tiene la libertad de redefinir la industria de los medios.
+
+Contexto IA (informativo):
+La decisión de Paramount se considera un paso importante en la evolución de la industria de los medios, pero también genera preocupación sobre el impacto en la competencia y la diversidad de contenido.</summary>
+    <published>2026-09-22T12:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1</id>
+    <title>[Economía] El precio del petróleo cae a $98 mientras Arabia Saudita anuncia el reabrimiento del pipeline Este-Oeste</title>
+    <updated>2026-09-22T13:09:40.272896+00:00</updated>
+    <author>
+      <name>International homepage</name>
+    </author>
+    <link href="https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1"/>
+    <summary>El precio del petróleo ha disminuido a $98 debido a las señales de Arabia Saudita de reabrir el pipeline Este-Oeste. Esto podría tener un impacto en el mercado de los combustibles. La empresa petrolera internacional ha expresado su apoyo a la decisión. El precio del petróleo ha caído significativamente desde su pico en 2020. La empresa ha anunciado planes para aumentar la producción de petróleo en los próximos meses. El reabrimiento del pipeline podría mejorar la eficiencia de la producción de petróleo y reducir los costos.
+
+Contexto IA (informativo):
+El precio del petróleo ha sido un tema de interés en los últimos meses debido a la crisis en Ucrania y las tensiones entre los países occidentales y rusos. La decisión de Arabia Saudita de reabrir el pipeline Este-Oeste podría tener un impacto significativo en el mercado de los combustibles y en la economía global.</summary>
+    <published>2026-09-22T12:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip</id>
+    <title>[Economía] Las futuras de las acciones estadounidenses se desvían después de la ralentización impulsada por la inteligencia artificial, los precios del petróleo disminuyen</title>
+    <updated>2026-09-22T13:09:40.272863+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-21/us-china-have-time-for-trade-truce-extension-greer-video"/>
-    <summary>El representante comercial de Estados Unidos, Jamieson Greer, indicó que China y Estados Unidos siguen divididos sobre los términos de la extensión del trato comercial. Aunque un acuerdo de tres a seis meses es una posibilidad, no se espera que se anuncie esta semana. Greer habló en el programa "Bloomberg Surveillance".
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip"/>
+    <summary>Las futuras de las acciones estadounidenses se desviaron el martes por la mañana, mientras los traders mantienen sus ganancias impulsadas por la inteligencia artificial y buscan noticias positivas sobre el conflicto en el Medio Oriente que podrían llevar a precios de petróleo más bajos. Los precios del petróleo han disminuido en la sesión. La situación en el Medio Oriente sigue siendo incierta, con varias partes involucradas en las negociaciones. Los expertos esperan que una solución pacífica pueda reducir la tensión y llevar a una disminución en los precios del petróleo. Sin embargo, la situación sigue siendo delicada y los precios del petróleo pueden seguir siendo volátiles.
 
 Contexto IA (informativo):
-El comentario de Greer se hizo público en el programa de Bloomberg, donde se discutió la situación actual de las relaciones comerciales entre ambos países.</summary>
-    <published>2026-09-21T13:51:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/the-post-training-process-openai-used-for-chatgpt/</id>
-    <title>[Data Science] El proceso de entrenamiento posterior utilizado por OpenAI para ChatGPT</title>
-    <updated>2026-09-21T14:09:52.201149+00:00</updated>
-    <author>
-      <name>Radar</name>
-    </author>
-    <link href="https://www.oreilly.com/radar/the-post-training-process-openai-used-for-chatgpt/"/>
-    <summary>En este artículo, exploraremos los cambios en el comportamiento de ChatGPT después de su lanzamiento. Se analizará cómo ChatGPT se entrenó y qué capacidades adquirió en comparación con sus predecesores. También se discutirá la importancia del proceso de entrenamiento posterior para hacer que los modelos sean más conversacionales, seguros y capaces de utilizar herramientas. Se destacará la importancia de encontrar un equilibrio entre la seguridad y la ayuda, y cómo este proceso se utiliza para mejorar la experiencia del usuario. Finalmente, se presentará un ejemplo de cómo ChatGPT se utiliza para realizar tareas específicas, como la programación de citas de veterinario.
-
-Contexto IA (informativo):
-El proceso de entrenamiento posterior es un tema de gran interés en el campo de la inteligencia artificial, ya que permite a los modelos aprender de sus errores y mejorar su rendimiento. En este artículo, se analizará cómo OpenAI utilizó este proceso para mejorar ChatGPT y qué capacidades adquirió en comparación con sus predecesores.</summary>
-    <published>2026-09-21T10:55:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation</id>
-    <title>[Data Science] 3 Trucos de Polars para la Manipulación de Datos a Alta Velocidad</title>
-    <updated>2026-09-21T14:09:52.201116+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation"/>
-    <summary>Polars puede mejorar la velocidad de tus scripts gracias a su motor de expresiones y optimizador. Sin embargo, muchos scripts lentos carecen de una de estas dos características. En este artículo, exploraremos tres trucos para mejorar la velocidad de tus scripts Polars. Primero, aprendamos a escanear un archivo en lugar de leerlo todo en memoria. Segundo, descubramos cómo utilizar el método .over() para realizar cálculos grupales sin pasar por un round trip. Finalmente, aprendamos a evitar el uso de map() y utilizar en su lugar el método .when() para realizar operaciones condicionales. Con estos trucos, podrás mejorar la velocidad de tus scripts Polars y realizar tareas de manipulación de datos de manera más eficiente.
-
-Contexto IA (informativo):
-Polars es una biblioteca de procesamiento de datos muy popular en la comunidad de Python. Su motor de expresiones y optimizador son clave para mejorar la velocidad de tus scripts. Sin embargo, muchos desarrolladores no saben cómo aprovechar al máximo estas características. En este artículo, exploraremos tres trucos para mejorar la velocidad de tus scripts Polars y proporcionaremos ejemplos prácticos para que puedas empezar a aplicarlos en tus propios proyectos.</summary>
-    <published>2026-09-21T12:00:24+00:00</published>
+La ralentización de las futuras de las acciones estadounidenses se debe en parte a la caída de los precios del petróleo, que ha sido impulsada por la creciente competencia en el mercado de la inteligencia artificial. Los precios del petróleo han disminuido en la sesión, lo que ha llevado a una disminución en las ganancias de los inversores. La situación en el Medio Oriente sigue siendo incierta, con varias partes involucradas en las negociaciones. Los expertos esperan que una solución pacífica pueda reducir la tensión y llevar a una disminución en los precios del petróleo.</summary>
+    <published>2026-09-22T12:29:15+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/</id>
     <title>[Data Science] El camino hacia la optimización de la inferencia de modelos de lenguaje</title>
-    <updated>2026-09-21T14:09:52.201081+00:00</updated>
+    <updated>2026-09-22T13:09:40.272827+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -137,255 +109,269 @@ La optimización de la inferencia de modelos de lenguaje es un tema importante e
     <published>2026-09-21T12:00:43+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/</id>
-    <title>[Data Science] ¿Cuál es el valor de tus datos operativos?</title>
-    <updated>2026-09-21T14:09:52.201047+00:00</updated>
+    <id>https://towardsdatascience.com/a-new-kind-of-model-for-ai-decision-making/</id>
+    <title>[Data Science] Un nuevo tipo de modelo para la toma de decisiones en el AI</title>
+    <updated>2026-09-22T13:09:40.272795+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/"/>
-    <summary>La aerolínea Spirit Airlines ha ofrecido sus datos operativos a Google por $10 millones. Esto incluye 100 millones de correos electrónicos, 500 millones de mensajes de Teams y 30 millones de líneas de código. La empresa busca valorar sus datos operativos utilizando principios de valorización de activos, como el enfoque de ingresos. Sin embargo, la aerolínea ha expresado preocupación por la privacidad de sus datos. El valor de los datos operativos se estima utilizando técnicas como el enfoque de ingresos, que considera el flujo de caja esperado y los costos operativos. Este enfoque se puede aplicar a otros activos, incluyendo los datos.
+    <link href="https://towardsdatascience.com/a-new-kind-of-model-for-ai-decision-making/"/>
+    <summary>TypeSafe.AI lanzó recientemente su primer modelo, Jev, que se diferencia de los modelos de LLMs (llamados System One) en su enfoque en la evaluación de estados y la producción de respuestas estructuradas. El modelo utiliza un enfoque diferente para la formación, utilizando RLCD (Reinforcement Learning for Calibrated Decisions) en lugar de RLHF (Reinforcement Learning from Human Feedback). Esto permite a Jev proporcionar respuestas más precisas y confiables en situaciones de toma de decisiones. El modelo se compara con OpenAI en la clasificación de intenciones de banca, y se muestra que Jev es 193.6 veces más rápido y 444.6 veces más económico que OpenAI.
 
 Contexto IA (informativo):
-La aerolínea Spirit Airlines ha sido objeto de interés por parte de empresas tecnológicas debido a la valiosa información que contiene sus datos operativos. La empresa ha ofrecido sus datos a Google por $10 millones, lo que ha generado interés en cómo valorar estos activos. Sin embargo, la aerolínea ha expresado preocupación por la privacidad de sus datos, lo que plantea desafíos para la valorización de estos activos.</summary>
-    <published>2026-09-21T12:30:02+00:00</published>
+El modelo Jev de TypeSafe.AI se centra en la evaluación de estados y la producción de respuestas estructuradas, lo que lo distingue de los modelos de LLMs. Este enfoque permite a Jev proporcionar respuestas más precisas y confiables en situaciones de toma de decisiones.</summary>
+    <published>2026-09-21T15:30:02+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/</id>
-    <title>[Data Science] GPT-6 Astra alcanza el nivel de riesgo de seguridad más alto de OpenAI</title>
-    <updated>2026-09-21T14:09:52.201010+00:00</updated>
+    <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-sports-concierge-agent-with-chester-ismay/</id>
+    <title>[Data Science] De cero a agente en 30 minutos: Construye un asistente de concierge deportivo con Chester Ismay</title>
+    <updated>2026-09-22T13:09:40.272761+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-sports-concierge-agent-with-chester-ismay/"/>
+    <summary>Chester Ismay, un educador de ciencia de datos y consultor de inteligencia artificial, creó un espectador de horarios para seguir los deportes que le gustan, incluyendo la WNBA, NFL, NBA y Premier League. Sin embargo, todavía tenía que decidir cuáles partidos merecían su atención cada semana. En esta episodio de  Zero to Agent in 30 Minutes , Chester construyó un asistente de concierge deportivo que muestra los partidos que debe ver. Lee sus preferencias y horarios actuales, y envía una resumen semanal a su teléfono. Tomó al público a través del setup, que combina un archivo de preferencias estructurado, permisos limitados de herramientas, un calendario y notificaciones. El asistente de concierge es una herramienta útil para cualquier fanático de deportes que quiera ahorrar tiempo y enfocarse en los partidos más importantes. Chester también definió una política para el asistente, que establece los objetivos, identifica las fuentes de datos y define las reglas para decidir cuáles partidos recomendar. El asistente utiliza una combinación de herramientas y fuentes de datos para generar recomendaciones personalizadas. Chester también configuró permisos limitados para que el asistente solo accediera a los archivos y herramientas necesarios para el trabajo. El asistente se ejecuta semanalmente y envía las recomendaciones a su teléfono. Chester también incluyó una política de manejo de errores y ajustes para mejorar la precisión de las recomendaciones. En resumen, este asistente de concierge deportivo es una herramienta útil para cualquier fanático de deportes que quiera ahorrar tiempo y enfocarse en los partidos más importantes.
+
+Contexto IA (informativo):
+Este asistente de concierge deportivo es una herramienta útil para cualquier fanático de deportes que quiera ahorrar tiempo y enfocarse en los partidos más importantes. El asistente utiliza una combinación de herramientas y fuentes de datos para generar recomendaciones personalizadas. Chester Ismay, el creador del asistente, también incluyó una política de manejo de errores y ajustes para mejorar la precisión de las recomendaciones.</summary>
+    <published>2026-09-21T17:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/an-introduction-to-jev/</id>
+    <title>[Data Science] Introducción a Jev</title>
+    <updated>2026-09-22T13:09:40.272727+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/"/>
-    <summary>El lanzamiento del modelo GPT-6 Astra generó mucha atención, pero una línea clave en la publicación fue ignorada por la mayoría de los medios. Astra es el primer modelo de OpenAI clasificado como 'Crítico' por su capacidad de seguridad, lo que indica que puede encontrar y weaponizar vulnerabilidades desconocidas en sistemas reforzados. Esto se debe a que el modelo puede ejecutar ataques completos desde un objetivo de alto nivel, sin necesidad de humanos para guiarlo. La clasificación 'Crítico' es un indicador de que el modelo tiene una capacidad de seguridad muy alta, pero también sugiere que la industria aún no ha encontrado una forma efectiva de medir el riesgo de seguridad en los modelos de inteligencia artificial.
+    <link href="https://towardsdatascience.com/an-introduction-to-jev/"/>
+    <summary>Jev es un nuevo modelo de inteligencia artificial desarrollado por TypeSafe AI que se enfoca en hacer decisiones estructuradas y rápidas que pueden ser consumidas directamente por software. A diferencia de otros modelos de inteligencia artificial, Jev no devuelve texto arbitrario, sino valores de estructuras que se definen con anticipación. Este modelo es especialmente interesante para software sistemas que requieren decisiones rápidas y estructuradas, como la lógica de if-then. Jev es el primer modelo de TypeSafe que utiliza un sistema de uno, un tipo de modelo diseñado para hacer decisiones rápidas y estructuradas. El modelo tiene un costo bajo, con un precio de entrada de una fracción de centavo por millón de tokens y salida gratuita. Jev se diferencia de otros modelos de inteligencia artificial en que no requiere una gran cantidad de entrenamiento o datos para tomar decisiones, lo que lo hace más eficiente y rápido. En resumen, Jev es un modelo de inteligencia artificial que se enfoca en hacer decisiones estructuradas y rápidas que pueden ser consumidas directamente por software, lo que lo hace ideal para aplicaciones que requieren lógica de if-then y decisiones rápidas.
 
 Contexto IA (informativo):
-La clasificación 'Crítico' de Astra es un punto importante en la discusión sobre la seguridad de los modelos de inteligencia artificial, pero también destaca la necesidad de mejorar la forma en que se mide y se reporta el riesgo de seguridad en estos modelos.</summary>
-    <published>2026-09-21T14:00:01+00:00</published>
+Jev es el resultado de la investigación de Diogo Almeida, fundador de TypeSafe AI, quien anteriormente trabajó en OpenAI y co-inventó los métodos RLHF y InstructGPT, que llevaron a ChatGPT y GPT-4. Su investigación ha ayudado a moldear los modelos de lenguaje modernos y continúa empujando los límites de los sistemas de inteligencia artificial.</summary>
+    <published>2026-09-22T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/19/brawl-in-bristol-hocevar-blaney-exchange-blows-on-pit-road-after-late-crash</id>
-    <title>[Fórmula 1] Confrontación en Bristol: Hocevar y Blaney intercambian golpes en la pista de servicio después de un choque</title>
-    <updated>2026-09-21T14:09:52.200975+00:00</updated>
+    <id>https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/</id>
+    <title>[Data Science] 4 Maneras de Utilizar AI en una Tesis de Doctorado</title>
+    <updated>2026-09-22T13:09:40.272695+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://racer.com/2026/09/19/brawl-in-bristol-hocevar-blaney-exchange-blows-on-pit-road-after-late-crash"/>
-    <summary>Después de un choque en la última etapa de la primera raza tradicional de la serie de Cup Series en Bristol, los conductores Ryan Blaney y Kyle Hocevar se enfrentaron en la pista de servicio, lo que llevó a una confrontación física. La situación se intensificó cuando ambos conductores intercambiaron golpes. La policía intervino para separarlos. El choque fue causado por una maniobra errónea de Blaney. La serie de Cup Series ha establecido una serie de reglas para evitar situaciones similares en el futuro.
+    <link href="https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/"/>
+    <summary>En este artículo, se presentan cuatro formas de utilizar herramientas de inteligencia artificial para mejorar la escritura de una tesis de doctorado. Se incluye la creación de un asistente de investigación para encontrar citas, la consolidación de código en repositorios de código, la verificación de hechos y la preparación de preguntas para la defensa. Estas herramientas pueden ayudar a los estudiantes a organizar sus ideas y producir un trabajo de calidad. Sin embargo, es importante recordar que las herramientas de AI no reemplazan la creatividad y la originalidad del escritor, sino que las ayudan a producir un trabajo mejor. El autor de la tesis comparte sus experiencias personales con la utilización de estas herramientas y ofrece consejos prácticos para aprovechar su potencial.
 
 Contexto IA (informativo):
-El choque ocurrió en la última etapa de la carrera, cuando Blaney intentó pasar a Hocevar en la recta final. La policía intervino para separar a los conductores y evitar más violencia. La serie de Cup Series ha establecido reglas para evitar situaciones similares en el futuro.</summary>
-    <published>2026-09-20T03:20:59+00:00</published>
+La creación de una tesis de doctorado es un proceso complejo que requiere organización, creatividad y dedicación. La utilización de herramientas de inteligencia artificial puede ser una herramienta valiosa para ayudar a los estudiantes a superar los desafíos de la escritura de una tesis. Sin embargo, es importante recordar que las herramientas de AI no reemplazan la creatividad y la originalidad del escritor, sino que las ayudan a producir un trabajo mejor.</summary>
+    <published>2026-09-22T12:30:01+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/20/bmw-m-team-wrt-scores-dramatic-maiden-imsa-victory-at-ims</id>
-    <title>[Fórmula 1] BMW M Team WRT logra victoria emocionante en su debut en IMSA</title>
-    <updated>2026-09-21T14:09:52.200941+00:00</updated>
-    <author>
-      <name>RACER</name>
-    </author>
-    <link href="https://racer.com/2026/09/20/bmw-m-team-wrt-scores-dramatic-maiden-imsa-victory-at-ims"/>
-    <summary>El equipo BMW M Hybrid V8, conducido por Sheldon van der Linde, superó al No. 31 Cadillac Whelen V-Series.R de Earl Bamber en el último minuto, asegurando la victoria. Esta es la primera victoria del equipo en la serie desde que se unió al programa. El No. 24 BMW M Hybrid V8 de van der Linde lideró la carrera con menos de seis minutos de tiempo restante. La victoria es un logro importante para el equipo, que busca consolidarse en la serie.
-
-Contexto IA (informativo):
-La victoria de BMW M Team WRT en su debut en IMSA es un gran paso adelante para el equipo, que busca establecerse como una fuerza competitiva en la serie. La carrera fue emocionante, con varios cambios de liderazgo y una gran lucha entre los pilotos.</summary>
-    <published>2026-09-20T22:11:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/</id>
-    <title>[Fórmula 1] Red Bull admite que el problema misterioso del coche de Verstappen no puede ser completamente solucionado hasta 2027</title>
-    <updated>2026-09-21T14:09:52.200905+00:00</updated>
+    <id>https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/</id>
+    <title>[Fórmula 1] Aprobación de F1 para carreras más cortas en 2027 para ajustar el plan de unidad de potencia</title>
+    <updated>2026-09-22T13:09:40.272662+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/"/>
-    <summary>Max Verstappen ha expresado que el coche de Red Bull se vuelve cada vez más ineficiente a lo largo de una sesión o carrera. Este problema, que afecta principalmente el eje trasero, ha sido notorio en eventos como el Gran Premio de Italia, donde Verstappen describió al RB22 como 'un coche hecho de papel'. El cuatro veces campeón mundial ha estado quejándose de este problema internamente durante años. La situación es preocupante para Red Bull, que busca mejorar su desempeño en la temporada actual.
+    <link href="https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/"/>
+    <summary>La Comisión F1 ha aprobado las modificaciones propuestas para reducir la longitud de las carreras en 2027 en 15km, en consonancia con los cambios esperados en el plan de unidad de potencia para la próxima temporada. Durante la reunión de la Comisión F1 en Londres el lunes, se acordó reducir la longitud estándar de la gran premio de 305km a 290km, con el objetivo de reducir los costos asociados, lo cual aún debe ser aprobado por el Consejo Mundial de la FIA. Estas modificaciones buscan optimizar la eficiencia energética y reducir el impacto ambiental de las carreras. La F1 busca adoptar tecnologías más sostenibles y reducir su huella de carbono. Los cambios también tienen como objetivo mejorar la experiencia del espectador y aumentar la competitividad de las carreras.
 
 Contexto IA (informativo):
-El problema del coche de Verstappen es solo el último en una serie de desafíos que enfrenta Red Bull en la temporada de Fórmula 1. La escudería ha estado buscando mejorar su rendimiento y reducir la variabilidad en el desempeño de sus coches.</summary>
-    <published>2026-09-21T08:13:58+00:00</published>
+Estas modificaciones son parte de un esfuerzo más amplio por la F1 para reducir su impacto ambiental y adoptar tecnologías más sostenibles. La F1 ha estado trabajando en la implementación de tecnologías de reciclaje de energía y reducción de residuos en sus eventos.</summary>
+    <published>2026-09-21T16:57:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/</id>
-    <title>[Fórmula 1] Gabriel Bortoleto habla sobre la personalidad de Fernando Alonso fuera de las cámaras de F1</title>
-    <updated>2026-09-21T14:09:52.200870+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/</id>
+    <title>[Fórmula 1] Doriane Pin comparte consejos poderosos para jóvenes chicas que buscan alcanzar el motorsport</title>
+    <updated>2026-09-22T13:09:40.272630+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/"/>
-    <summary>El piloto de Audi Gabriel Bortoleto afirma que su gerente, el campeón dos veces Fernando Alonso, es igual de amable y tranquilo que parece en las redes sociales. Bortoleto, que es de su segunda temporada en la categoría, hizo su debut en F1 en 2025 con Sauber antes de que Audi asumiera el equipo suizo al inicio del año. Durante su ascenso por las filas del motor deporte, el brasileño ha tenido la oportunidad de conocer a Alonso en diferentes ocasiones. Según Bortoleto, Alonso es una persona muy amable y tranquila, que siempre está dispuesto a ayudar a sus compañeros de equipo. Además, Bortoleto ha mencionado que Alonso es un gran líder y que siempre está dispuesto a compartir sus conocimientos y experiencias con los demás. En general, Bortoleto ha hablado muy bien de Alonso y ha destacado su personalidad positiva y su capacidad para liderar al equipo.
+    <link href="https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/"/>
+    <summary>La conductora de desarrollo de Mercedes para Fórmula 1 y campeona del F1 Academy 2025, Doriane Pin, animó a las jóvenes chicas que buscan una carrera en el motorsport a "darse cuenta" de sus ambiciones. Pin comenzó a practicar karting a los 9 años y comenzó a competir en la nacional en 2016, cuando tenía 12 años. En sus tres años en la nacional, terminó en el décimo lugar y en el quinto lugar en la clase junior en el ...
 
 Contexto IA (informativo):
-En una entrevista reciente, Bortoleto habló sobre su experiencia con Alonso y cómo ha sido trabajar con él. Aunque Alonso es una figura muy conocida en el mundo del motor deporte, Bortoleto ha asegurado que su gerente es una persona muy humilde y amable, que siempre está dispuesto a ayudar a los demás. Esto ha sido un gran beneficio para Bortoleto, que ha podido aprender mucho de Alonso y crecer como piloto gracias a su experiencia y sabiduría.</summary>
-    <published>2026-09-21T10:40:13+00:00</published>
+La experiencia de Pin en el motorsport es un ejemplo de cómo las mujeres pueden lograr grandes cosas con dedicación y perseverancia. Su historia es un inspirador recordatorio de que las oportunidades están disponibles para todas las personas que tengan pasión y determinación.</summary>
+    <published>2026-09-22T08:00:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/</id>
-    <title>[Fórmula 1] Doriane Pin establece un plazo para conseguir asiento en la pista de F1</title>
-    <updated>2026-09-21T14:09:52.200833+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/</id>
+    <title>[Fórmula 1] Isack Hadjar regresa a Red Bull en el GP de Azerbaiyán</title>
+    <updated>2026-09-22T13:09:40.272597+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/"/>
-    <summary>La piloto de pruebas de Mercedes Doriane Pin ha establecido un plazo de cinco años para conseguir un asiento en la pista de F1. En una entrevista reciente, Pin confirmó sus objetivos a largo plazo y su creencia de que las pilotos femeninas pueden alcanzar el campeonato. Cuando se le preguntó dónde se vería en cinco años, Pin respondió directamente: "En Formula 1."
+    <link href="https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/"/>
+    <summary>Isack Hadjar volverá a conducir para Red Bull en el próximo GP de Azerbaiyán, después de recuperarse de una lesión en el brazo. El piloto francés había sufrido la lesión durante el entrenamiento de verano y, siguiendo las recomendaciones médicas, se le ordenó evitar conducir para gestionar su recuperación. En su ausencia, Liam Lawson asumió su lugar en Red Bull, comenzando con el Gran Premio de los Países Bajos. El piloto neozelandés se desplazará a Azerbaiyán para reemplazar a Hadjar en el GP de Azerbaiyán. El equipo de Red Bull ha anunciado que Lawson regresará a Racing Bulls, lo que sugiere que Hadjar volverá a conducir para el equipo en el futuro. La noticia de la vuelta de Hadjar a Red Bull ha generado expectación entre los aficionados al F1.
 
 Contexto IA (informativo):
-La piloto de pruebas de Mercedes Doriane Pin ha hablado sobre sus objetivos a largo plazo y su visión para el futuro en el mundo de la F1.</summary>
-    <published>2026-09-21T11:57:16+00:00</published>
+El GP de Azerbaiyán es una de las carreras más importantes del calendario de F1, ya que se cuenta con una pista de gran longitud y una gran cantidad de curvas. La carrera se disputará el próximo domingo en la ciudad de Baku, que ha sido sede de la carrera desde su creación en 2017.</summary>
+    <published>2026-09-22T08:29:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/</id>
-    <title>[Fórmula 1] ¿Por qué Leclerc no copió el estilo de conducción de Hamilton en la lucha por F1 2026</title>
-    <updated>2026-09-21T14:09:52.200799+00:00</updated>
+    <id>https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/</id>
+    <title>[Fórmula 1] Hadjar regresa a Red Bull en GP de Azerbaiyán después de recuperación de lesión</title>
+    <updated>2026-09-22T13:09:40.272563+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/"/>
-    <summary>Charles Leclerc explicó por qué no intentó copiar el estilo de conducción de Lewis Hamilton para sacar el máximo de la Ferrari 2026. En la temporada actual, con las nuevas regulaciones, Leclerc enfrentó dificultades con el SF-26. A pesar de que superó a su compañero de equipo Hamilton en el año pasado, su rivalidad ha sido mucho más intensa en esta temporada. Leclerc ha estado buscando formas de mejorar el rendimiento del equipo y ha estado trabajando arduamente para encontrar la mejor forma de conducir. Su objetivo es llevar a Ferrari a la victoria en la temporada y demostrar su valía como piloto.
+    <link href="https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/"/>
+    <summary>Isack Hadjar volverá a conducir para Red Bull en el GP de Azerbaiyán este fin de semana, después de recuperarse de una lesión en el brazo. El francés había sufrido la lesión durante el entrenamiento de verano y, siguiendo las recomendaciones médicas, se le aconsejó evitar conducir para gestionar su recuperación. En su ausencia, Liam Lawson reemplazó a Hadjar en el equipo Red Bull. El alemán Liam Lawson regresa al equipo Racing Bulls
 
 Contexto IA (informativo):
-La temporada de F1 2026 ha sido marcada por cambios significativos en las regulaciones, lo que ha presentado desafíos para muchos equipos y pilotos. Ferrari, en particular, ha estado buscando formas de mejorar el rendimiento de su equipo y Leclerc ha sido clave en este esfuerzo.</summary>
-    <published>2026-09-21T13:52:43+00:00</published>
+El equipo Red Bull había anunciado anteriormente que Liam Lawson reemplazaría a Isack Hadjar en el equipo, pero la lesión de Hadjar ha cambiado los planes. La recuperación de Hadjar ha sido un proceso lento, pero parece que está listo para regresar al volante este fin de semana.</summary>
+    <published>2026-09-22T08:33:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/google-launches-googlebook-laptops/</id>
-    <title>[Tecnología] ¿Tienes un teléfono Android? Google piensa que probablemente querrás un portátil Googlebook</title>
-    <updated>2026-09-21T14:09:52.200760+00:00</updated>
+    <id>https://racer.com/2026/09/22/hadjar-back-in-the-saddle-for-baku</id>
+    <title>[Fórmula 1] Hadjar vuelve a la acción en Baku</title>
+    <updated>2026-09-22T13:09:40.272530+00:00</updated>
+    <author>
+      <name>RACER</name>
+    </author>
+    <link href="https://racer.com/2026/09/22/hadjar-back-in-the-saddle-for-baku"/>
+    <summary>Después de tres carreras sin participar debido a una lesión en el brazo, Isack Hadjar regresará a la pista este fin de semana en el Gran Premio de Azerbaiyán. La lesión lo mantuvo fuera de las carreras de Barcelona, Monza y Silverstone. El piloto francés se encuentra en buen estado y está listo para enfrentar el desafío en el circuito de Baku. La escudería de Hadjar, Alfa Romeo F1 Team, ha confirmado que el piloto estará en la pista este sábado.
+
+Contexto IA (informativo):
+El Gran Premio de Azerbaiyán es una de las carreras más importantes del calendario de F1, y Hadjar está ansioso por regresar a la acción y demostrar su capacidad como piloto.</summary>
+    <published>2026-09-22T11:18:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://racer.com/2026/09/22/f1-commission-cuts-grand-prix-race-distances-for-2027</id>
+    <title>[Fórmula 1] Comisión F1 reduce la distancia de los grand prix para 2027</title>
+    <updated>2026-09-22T13:09:40.272486+00:00</updated>
+    <author>
+      <name>RACER</name>
+    </author>
+    <link href="https://racer.com/2026/09/22/f1-commission-cuts-grand-prix-race-distances-for-2027"/>
+    <summary>La Comisión F1 ha decidido reducir la distancia de los grand prix para 2027, con el objetivo de preservar la calidad de la carrera afectada por los cambios en el flujo de combustible y las regulaciones de los motores. Esto se debe a que los cambios en el rendimiento de los vehículos podrían afectar la competitividad de los pilotos. La Comisión busca equilibrar la velocidad y la seguridad en las pistas. Los pilotos y equipos deben adaptarse a las nuevas normas para mantener la calidad de la carrera.
+
+Contexto IA (informativo):
+La decisión se tomó después de una discusión en la que se consideraron las implicaciones de los cambios en el rendimiento de los vehículos y la necesidad de mantener la competitividad de los pilotos.</summary>
+    <published>2026-09-22T12:07:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea</id>
+    <title>[Tecnología] Apple abre su primera sala de conciertos en vivo bajo sus instalaciones en el Reino Unido</title>
+    <updated>2026-09-22T13:09:40.272453+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea"/>
+    <summary>Apple está a punto de abrir una nueva sala de conciertos en vivo de 600 asientos en el Reino Unido, donde se pueden realizar actuaciones, sesiones de grabación y transmisiones de video. La sala, llamada Apple Music Hall, se encuentra debajo de las instalaciones europeas de Apple en Battersea Power Station en Londres y se espera que abra el próximo 28 de septiembre. No se han anunciado detalles sobre el show de inauguración. La pasión de Apple por la música se remonta a la primera aparición del iPod y el longevo iTunes Music Festival, así como la debut del Apple Music.
+
+Contexto IA (informativo):
+La sala de conciertos se ubica en un lugar emblemático, ya que también es reconocido por aparecer en la portada del álbum de Pink Floyd 'Animales'.</summary>
+    <published>2026-09-22T08:35:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram</id>
+    <title>[Tecnología] ¿Puedes olvidar cómo te sientes sobre Meta?</title>
+    <updated>2026-09-22T13:09:40.272420+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"/>
+    <summary>En 2021, un whistleblower emergió con acusaciones dramáticas que afirmaban que Facebook estaba perjudicando a los niños, y el CEO Mark Zuckerberg publicó una respuesta en Facebook. Aunque inicialmente parecía que Zuckerberg se tomaba la cuestión de la seguridad infantil muy en serio, posteriormente se centró en su visión para el futuro, incluyendo la creación del metaverse. A pesar de los esfuerzos de la empresa para mejorar la seguridad infantil, la compañía sigue enfrentando problemas y críticas. En 2023, Meta lanzó un nuevo proyecto llamado Muse, que parece ser su próxima inversión en el metaverse. Sin embargo, la pregunta sigue siendo: ¿puede una empresa que ha sido asociada con problemas de seguridad y privacidad convertirse en una voz dominante en el mundo de la inteligencia artificial?
+
+Contexto IA (informativo):
+En los últimos años, Meta ha estado enfrentando una serie de desafíos, incluyendo problemas de seguridad infantil, críticas por su falta de progreso en la carrera de inteligencia artificial y una serie de problemas legales. A pesar de esto, la empresa sigue siendo una de las más valiosas del mundo y sigue innovando en su búsqueda por el futuro.</summary>
+    <published>2026-09-22T10:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/review/gopro-mission-1-ils-camera/</id>
+    <title>[Tecnología] Revisión del GoPro Mission 1 Pro ILS: Cámara de acción de alta calidad para cine</title>
+    <updated>2026-09-22T13:09:40.272385+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/story/google-launches-googlebook-laptops/"/>
-    <summary>Google está trayendo la experiencia de conexión sin problemas entre los teléfonos móviles y los ordenadores a los usuarios de Android. Esto se debe a que Google quiere ofrecer una experiencia similar a la de Apple, que permite a los usuarios transferir archivos y acceder a sus dispositivos desde cualquier otro dispositivo de la misma marca. Además, Google está trabajando en una plataforma de desarrollo que permitirá a los desarrolladores crear aplicaciones que funcionen en ambos dispositivos. Esto podría ser un paso importante hacia la integración de Google en el mercado de los dispositivos móviles.
+    <link href="https://www.wired.com/review/gopro-mission-1-ils-camera/"/>
+    <summary>La cámara GoPro Mission 1 Pro ILS es una excelente opción para aquellos que buscan una cámara de acción de alta calidad para cine. Aunque tiene algunas limitaciones, como la falta de contactos eléctricos y la necesidad de enfocar manualmente, ofrece una gran calidad de imagen y una gran flexibilidad en la configuración de la cámara. Es importante mencionar que la cámara se vende en versión cuerpo solo, por lo que no incluye una lente. Además, la cámara requiere la utilización de un teléfono o monitor externo para enfocar, lo que puede ser un inconveniente para algunos usuarios. Sin embargo, la calidad de la imagen es impresionante y la cámara es ideal para aquellos que buscan una solución de cámara de acción de alta calidad para cine.
 
 Contexto IA (informativo):
-En el pasado, Google ha estado trabajando en la integración de sus dispositivos, pero hasta ahora no ha logrado la misma experiencia de conexión que ofrece Apple. Sin embargo, con esta nueva iniciativa, Google parece estar dispuesto a invertir más en la integración de sus dispositivos y ofrecer una experiencia de usuario más coherente.</summary>
-    <published>2026-09-21T13:00:00+00:00</published>
+La cámara GoPro Mission 1 Pro ILS es una de las últimas ofertas de cámara de acción de alta calidad del mercado. Con su gran sensor y tecnología de estabilización, ofrece una imagen de alta calidad y una gran flexibilidad en la configuración de la cámara. Sin embargo, es importante tener en cuenta que la cámara tiene algunas limitaciones, como la falta de contactos eléctricos y la necesidad de enfocar manualmente, lo que puede ser un inconveniente para algunos usuarios.</summary>
+    <published>2026-09-22T11:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</id>
-    <title>[Tecnología] Propietarios de iPhone pueden presentar una reclamación en el juicio de $250 millones de Siri AI de Apple</title>
-    <updated>2026-09-21T14:09:52.200718+00:00</updated>
+    <id>https://www.engadget.com/2261658/xpeng-building-humanoid-robots-walked-out-after-assembled/</id>
+    <title>[Tecnología] El robot humanoide XPENG camina de pie después de ser montado</title>
+    <updated>2026-09-22T13:09:40.272351+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"/>
-    <summary>Apple está pagando $250 millones para resolver reclamaciones de que no entregó una Siri mejorada con inteligencia artificial. Ahora, los propietarios de iPhone elegibles pueden presentar una reclamación para recibir un pago. Si vive en EE. UU. y compró un iPhone 15 Pro, iPhone 15 Pro Max o cualquier modelo iPhone 16 entre el 10 de junio de 2024 y el 29 de marzo de 2025, puede presentar una reclamación en el sitio web del acuerdo, como se informó anteriormente por MacRumors. Se puede recibir un estimado de $25 por dispositivo elegible, pero el sitio web del acuerdo nota que esto puede aumentar hasta $95 dependiendo de cuántas personas presenten reclamaciones. Para presentar una reclamación, necesitarás ingresar tu nombre, información de contacto y número de serie de iPhone en el …
+    <link href="https://www.engadget.com/2261658/xpeng-building-humanoid-robots-walked-out-after-assembled/"/>
+    <summary>El robot humanoide Iron de XPENG, que se espera que comience la producción en masa a finales de este año, ha demostrado su autonomía al caminar de pie después de ser montado. El robot, que cuenta con 76 grados de libertad en su cuerpo, ha sido equipado con tres chips de procesamiento de Turing y puede realizar tareas complejas sin la intervención de un operador. XPENG ha anunciado que el robot realizará tareas en sus tiendas y campus, y se espera que se entregue en mercados chinos y extranjeros en 2027. Aunque el robot ha demostrado su capacidad para caminar, aún se desconoce si puede realizar tareas durante un día completo. La empresa ha adaptado sistemas de calidad de su negocio de vehículos eléctricos para garantizar la consistencia en la producción de robots.
 
 Contexto IA (informativo):
-El acuerdo se estableció después de una investigación que encontró que Apple no cumplió con sus promesas de mejorar la inteligencia artificial de Siri. Los propietarios de iPhone elegibles pueden recibir un pago por la falta de entrega de estas mejoras.</summary>
-    <published>2026-09-21T13:36:52+00:00</published>
+La empresa XPENG es un fabricante de vehículos eléctricos chino que busca expandirse en el mercado de los robots humanoides. La competencia en este sector está en aumento, con empresas como Tesla y BMW también trabajando en la creación de robots humanoides. El éxito de XPENG dependerá de su capacidad para producir robots de alta calidad y confiables.</summary>
+    <published>2026-09-22T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/alleged-20th-anniversary-iphone-screen-sizes-have-leaked-2000814787</id>
-    <title>[Tecnología] Si encuentras el iPhone 18 Pro aburrido, te encantarás el iPhone del 20º aniversario</title>
-    <updated>2026-09-21T14:09:52.200683+00:00</updated>
+    <id>https://www.engadget.com/2264701/how-to-turn-your-old-pc-into-nas-media-server/</id>
+    <title>[Tecnología] Convierte tu antiguo PC en un servidor de medios de manera sencilla</title>
+    <updated>2026-09-22T13:09:40.272313+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2264701/how-to-turn-your-old-pc-into-nas-media-server/"/>
+    <summary>Convierte tu antiguo PC en un servidor de medios de manera sencilla. Puedes hacerlo con software como Plex o Jellyfin, que son fáciles de instalar y configurar. La elección entre Windows y Linux depende de tus necesidades y preferencias. Si tu PC no soporta Windows 11, considera usar Linux. Los servidores de medios con Linux son más ligeros y pueden ayudar a revitalizar el hardware antiguo. Una vez configurado, puedes disfrutar de una experiencia de streaming de medios personalizada en cualquier dispositivo de tu hogar. Es importante tener en cuenta que la seguridad es un factor importante, por lo que es recomendable utilizar múltiples unidades de almacenamiento y soluciones de RAID para proteger tus archivos.
+
+Contexto IA (informativo):
+La seguridad es un factor importante a considerar al convertir tu PC en un servidor de medios. Si tu PC no soporta Windows 11, es recomendable utilizar Linux para evitar riesgos de seguridad. Además, es importante tener en cuenta que la configuración del servidor de medios puede requerir algunos conocimientos técnicos, pero con software como Plex o Jellyfin, el proceso es relativamente sencillo.</summary>
+    <published>2026-09-22T12:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/ai-assistants-belong-in-your-ears-not-on-your-face-2000814863</id>
+    <title>[Tecnología] Los asistentes de inteligencia artificial pertenecen en tus oídos, no en tu rostro</title>
+    <updated>2026-09-22T13:09:40.272275+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/alleged-20th-anniversary-iphone-screen-sizes-have-leaked-2000814787"/>
-    <summary>La espera para el próximo iPhone ha comenzado. Según una fuente confiable, el iPhone 20 Pro y 20 Pro Max tendrán un diseño con esquinas curvas, un menor Dynamic Island y pantallas más grandes. Estas características podrían hacer que el iPhone 20 Pro sea más similar al iPhone X, pero con menos metal y más vidrio. La cámara del Dynamic Island seguirá siendo un agujero-punch, lo que podría ser un paso hacia un iPhone con una pantalla completamente transparente. El precio del iPhone 20 Pro podría ser más alto que el iPhone 18 Pro, pero menos que el iPhone Duo.
+    <link href="https://gizmodo.com/ai-assistants-belong-in-your-ears-not-on-your-face-2000814863"/>
+    <summary>La industria de la tecnología ha pasado los últimos años tratando de convencernos de que el futuro de la inteligencia artificial vive detrás de una lente. Las empresas como Meta, Google y Samsung están apostando en ella, pero la realidad es que los asistentes de inteligencia artificial en los gafas no son la solución que buscamos. La principal preocupación es la privacidad, ya que las cámaras están diseñadas para grabar video de primera persona y no para proporcionar asistencia conversacional. Además, la industria ha creado un problema con la percepción de que las cámaras están grabando a las personas sin su consentimiento. La solución no radica en la tecnología, sino en cambiar la forma en que pensamos sobre la privacidad y la seguridad en línea.
 
 Contexto IA (informativo):
-Es importante destacar que la información sobre el iPhone 20 Pro y 20 Pro Max es aún muy confusa y no se ha confirmado oficialmente por Apple. Sin embargo, la curvatura del vidrio y el aumento de la pantalla podrían ser características clave de este modelo.</summary>
-    <published>2026-09-21T13:45:12+00:00</published>
+La industria de la tecnología ha estado experimentando un cambio en la forma en que se percibe la privacidad y la seguridad en línea. La creciente toxicidad de la cultura digital y la falta de conciencia sobre la privacidad han llevado a un aumento en los incidentes de acoso y violencia en línea. Las empresas están tratando de encontrar soluciones para estos problemas, pero la clave radica en cambiar la forma en que pensamos sobre la privacidad y la seguridad en línea.</summary>
+    <published>2026-09-22T12:30:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/</id>
-    <title>[Tecnología] El nuevo alimentador inteligente de Petivity pregunta '¿qué pasaría si Flock fuera para gatos?'</title>
-    <updated>2026-09-21T14:09:52.200645+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/"/>
-    <summary>Petivity, propiedad de Purina, ha lanzado un nuevo alimentador inteligente diseñado exclusivamente para gatos. Este dispositivo cuenta con cámaras y algoritmos de reconocimiento facial AI para rastrear cuándo y cuánto come cada gato específico. Este es un paso hacia la 'flockificación' de los alimentadores de mascotas. El dispositivo puede 'aprender los comportamientos de alimentación únicos de hasta cinco gatos'. También proporciona información sobre las porciones, frecuencia de alimentación y patrones de alimentación, lo que puede ayudar a los dueños a tomar decisiones informadas sobre la salud de sus mascotas. El dispositivo es compatible con una aplicación asociada y proporciona alertas cuando la comida se está agotando. El precio es de $150 y no requiere suscripción para acceder a las herramientas de seguimiento de AI.
-
-Contexto IA (informativo):
-En la actualidad, hay varios dispositivos de alimentación inteligente en el mercado que pueden ser controlados remotamente a través de aplicaciones móviles. Sin embargo, este nuevo dispositivo de Petivity es el primero diseñado específicamente para gatos y cuenta con características avanzadas de reconocimiento facial y análisis de datos.</summary>
-    <published>2026-09-21T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2260677/what-uses-most-data-smartphone/</id>
-    <title>[Tecnología] ¿Qué utiliza más datos en un teléfono inteligente?</title>
-    <updated>2026-09-21T14:09:52.200606+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2260677/what-uses-most-data-smartphone/"/>
-    <summary>Según un informe de Ericsson, el mundo consume actualmente entre 150 y 200 exabytes de datos móviles mensuales, lo que equivale a 150-200 millones de terabytes. El consumo de datos por teléfono inteligente ha aumentado significativamente, pasando de 4,9 GB en 2019 a más de 20 GB en 2023. Los principales consumidores de datos son la streaming de video, las redes sociales, las llamadas de video, las actualizaciones de software, los respaldos de la nube y la música en streaming. Aunque es difícil determinar qué utiliza más datos, estos servicios suelen consumir la mayor cantidad. Es importante tener en cuenta que muchos de estos servicios permiten ajustar la calidad para reducir el consumo de datos. El streaming de video y las llamadas de video son los principales consumidores de datos, especialmente si se utilizan a alta resolución. El uso de redes sociales también consume datos, aunque la cantidad varía según la plataforma y el tipo de contenido. Los respaldos de la nube y las actualizaciones de software también consumen datos, aunque en menor medida. El uso de música en streaming utiliza relativamente pocos datos, especialmente si se utiliza la calidad más baja.
-
-Contexto IA (informativo):
-Es importante ser consciente del consumo de datos en nuestros teléfonos inteligentes para evitar sobrecargar nuestros planes de datos y ahorrar dinero. A medida que la tecnología avanza, es probable que el consumo de datos siga aumentando, por lo que es importante estar informado sobre cómo reducirlo.</summary>
-    <published>2026-09-21T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone</id>
-    <title>[Tecnología] ¿Puede CEO John Ternus encontrar la próxima gran cosa de Apple?</title>
-    <updated>2026-09-21T14:09:52.200563+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"/>
-    <summary>Mark Gurman, el mejor informante de Apple del mundo, nos habla sobre el futuro de la empresa. Después de que Apple anunció el iPhone Duo, su primera pantalla doble, Gurman nos explica que este evento fue especial porque fue el primer lanzamiento de Apple CEO John Ternus. También nos habla sobre cómo Ternus planea navegar Apple de la era de los iPhones a la era de la inteligencia artificial. Gurman nos dice que la comunidad de Apple ha cambiado con el tiempo, pero que Ternus puede llevar a una nueva era para la empresa. Además, nos habla sobre la importancia de la inteligencia artificial en Apple y cómo Ternus planea implementarla en la empresa. Gurman nos explica que la empresa toma estos eventos de hardware muy en serio y que el futuro de Apple está lleno de cambios y desafíos. Sin embargo, Gurman también nos dice que la comunidad de Apple sigue siendo apasionada y que Ternus puede llevar a una nueva era de innovación y crecimiento para la empresa.
-
-Contexto IA (informativo):
-El evento de iPhone de Apple fue especial porque fue el primer lanzamiento de CEO John Ternus. La empresa también anunció el iPhone Duo, su primera pantalla doble. Gurman nos explica que la comunidad de Apple ha cambiado con el tiempo, pero que Ternus puede llevar a una nueva era para la empresa.</summary>
-    <published>2026-09-21T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/learnprogramming/comments/1wkbpei/what_have_you_been_working_on_recently_september/</id>
-    <title>[Programación] ¿Qué has estado trabajando recientemente? [19 de septiembre de 2026]</title>
-    <updated>2026-09-21T14:09:52.200525+00:00</updated>
-    <author>
-      <name>learn programming</name>
-    </author>
-    <link href="https://www.reddit.com/r/learnprogramming/comments/1wkbpei/what_have_you_been_working_on_recently_september/"/>
-    <summary>Este thread de discusión está abierto para que los usuarios compartan actualizaciones sobre proyectos que están trabajando, compartan logros importantes o expresen desafíos que han enfrentado. Se solicita que incluyan un enlace a su código fuente si comparten una actualización de proyecto. También se anima a comentar en al menos una otra actualización, hacer preguntas, dar retroalimentación o elogiar algo interesante. Se fomenta la discusión. Este thread permanecerá estickiado durante el fin de semana.
-
-Contexto IA (informativo):
-Este thread es una oportunidad para que los usuarios compartan sus experiencias y conocimientos con la comunidad.</summary>
-    <published>2026-09-19T04:00:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://courses.cs.washington.edu/courses/cse452/23wi/papers/yegge-platform-rant.html</id>
-    <title>[Programación] Introducción a la Disección de Sistemas Distribuidos en Google</title>
-    <updated>2026-09-21T14:09:52.200483+00:00</updated>
+    <id>https://bastrich.tech/coupling-and-cohesion/</id>
+    <title>[Programación] Regresando a la Coupling y la Cohesión</title>
+    <updated>2026-09-22T13:09:40.272234+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://courses.cs.washington.edu/courses/cse452/23wi/papers/yegge-platform-rant.html"/>
-    <summary>El autor, que trabajó en Amazon durante seis años y luego en Google durante el mismo período, compara las dos empresas de manera muy crítica. Afirma que Amazon hace todo mal y Google lo hace todo bien, aunque reconoce que esta es una generalización amplia. El autor destaca varios problemas en Amazon, como su proceso de reclutamiento, su falta de estándares de ingeniería y su enfoque en la lanzamiento temprano sin considerar la retención y la disciplina técnica. Sin embargo, también destaca la capacidad de Amazon para lanzar productos innovadores y su enfoque en la personalización del usuario. En contraste, Google se destaca por su enfoque en la ingeniería de software, su cultura de innovación y su compromiso con la sostenibilidad. El autor también menciona la importancia de la liderazgo y la toma de decisiones en ambas empresas, destacando la capacidad de Jeff Bezos para tomar decisiones difíciles y su enfoque en la innovación y la rentabilidad.
+    <link href="https://bastrich.tech/coupling-and-cohesion/"/>
+    <summary>La coupling y la cohesión en la práctica: métricas cuantitativas significativas y el terreno común detrás de los principios de diseño de software. ¿Cómo aplicar SOLID y KISS de manera efectiva? ¿Qué es la coupling y la cohesión? ¿Cómo medir estas métricas? Este artículo es para los principiantes y los expertos que buscan mejorar su código. La coupling y la cohesión son fundamentales para un buen diseño de software. La coupling mide la interconexión entre los componentes, mientras que la cohesión mide la alineación de las partes de un componente con un propósito único. La coupling y la cohesión no son medidas absolutas y dependen del contexto y las relaciones entre los componentes. Para medir estas métricas, se pueden utilizar fórmulas estadísticas que consideran el esfuerzo y el número de componentes o preocupaciones. Estas fórmulas pueden ayudar a identificar problemas de coupling y cohesión en el código y a tomar decisiones informadas sobre cómo mejorar el diseño de software.
 
 Contexto IA (informativo):
-El texto se refiere a una charla que el autor dio en Google sobre su experiencia en Amazon y su impresión de que Google hace las cosas mejor. El autor destaca la importancia de la liderazgo y la toma de decisiones en ambas empresas y menciona la capacidad de Jeff Bezos para tomar decisiones difíciles. El texto también se refiere a la importancia de la innovación y la rentabilidad en ambas empresas.</summary>
-    <published>2026-09-21T04:00:51+00:00</published>
+Este artículo es una guía práctica para los desarrolladores que buscan mejorar su código y aplicar los principios de diseño de software de manera efectiva. La coupling y la cohesión son fundamentales para un buen diseño de software y pueden ser medidas utilizando fórmulas estadísticas. Al entender cómo medir la coupling y la cohesión, los desarrolladores pueden identificar problemas en su código y tomar decisiones informadas sobre cómo mejorar el diseño de software.</summary>
+    <published>2026-09-21T13:18:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/learnprogramming/comments/1wma2p5/how_do_people_come_up_with_ideas_for_big_projects/</id>
-    <title>[Programación] Cómo surgen las ideas para grandes proyectos</title>
-    <updated>2026-09-21T14:09:52.200427+00:00</updated>
+    <id>https://www.artima.com/insidejvm/whyCAFEBABE.html</id>
+    <title>[Programación] El misterioso número mágico de la clase Java</title>
+    <updated>2026-09-22T13:09:40.272183+00:00</updated>
     <author>
-      <name>learn programming</name>
+      <name>programming</name>
     </author>
-    <link href="https://www.reddit.com/r/learnprogramming/comments/1wma2p5/how_do_people_come_up_with_ideas_for_big_projects/"/>
-    <summary>Un programador principiante se pregunta cómo surgen las ideas para proyectos grandes. Aunque puede pensar en proyectos pequeños para practicar, se siente atascado al generar ideas para proyectos que requieran meses de desarrollo. ¿Los programadores experimentados identifican problemas en sus vidas diarias, combinan sus intereses o se inspiran en algún lugar? ¿Es algo que se adquiere con la experiencia o hay un proceso para encontrar ideas de proyectos buenos?
+    <link href="https://www.artima.com/insidejvm/whyCAFEBABE.html"/>
+    <summary>En mayo de 1996, Bill Venners escribió un artículo en JavaWorld en el que se preguntaba por el significado del número mágico 0xCAFEBABE, que se encuentra en la parte inicial de cada archivo de clase Java. Después de recibir varias respuestas, Venners concluyó que el número fue elegido porque era fácil de manejar y único, y también porque incluía una referencia a la combinación de café y Java. Algunos expertos también sugirieron que el número podría haber sido elegido por razones estéticas, como la posibilidad de que se pareciera a una frase como 'COFFEE' en hexadecimal.
 
 Contexto IA (informativo):
-Este usuario de Reddit busca consejos sobre cómo generar ideas para proyectos grandes, algo que puede ser desafiante para los principiantes. La comunidad de Reddit puede ofrecerle algunas pistas y consejos para superar este obstáculo.</summary>
-    <published>2026-09-21T11:26:34+00:00</published>
+El número mágico 0xCAFEBABE se encuentra en la parte inicial de cada archivo de clase Java y se utiliza para identificar los archivos de clase como válidos. El número fue elegido por la comunidad de Java para ser fácil de manejar y único, y también para incluir una referencia a la combinación de café y Java.</summary>
+    <published>2026-09-21T22:01:27+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/rulereceipt/i-measured-whether-claude-code-actually-follows-my-claudemd-25ao</id>
-    <title>[Programación] Me midí si Claude Code sigue mi CLAUDE.md</title>
-    <updated>2026-09-21T14:09:52.200331+00:00</updated>
+    <id>https://dev.to/jgomezdev/node-24-runs-typescript-with-no-build-step-heres-what-it-wont-do-987</id>
+    <title>[Programación] Node 24 ejecuta TypeScript sin paso de compilación. Aquí está lo que no hace</title>
+    <updated>2026-09-22T13:09:40.272087+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/rulereceipt/i-measured-whether-claude-code-actually-follows-my-claudemd-25ao"/>
-    <summary>El autor de una herramienta de seguimiento de CLAUDE.md descubre que la mayoría de las reglas no se ejecutan como se espera. El autor intentó mejorar la herramienta y encontró que la precisión era del 15,8% y que la herramienta podía hacer acusaciones falsas. La herramienta puede detectar si una regla se ha ejecutado correctamente o no, pero no puede evitar que se ejecute una regla que no se ha ejecutado correctamente. El autor también encontró que la herramienta podía bloquear comandos en algunos casos, pero no siempre era posible evitar que se ejecutaran las reglas incorrectas.
+    <link href="https://dev.to/jgomezdev/node-24-runs-typescript-with-no-build-step-heres-what-it-wont-do-987"/>
+    <summary>Node 24 ejecuta TypeScript sin paso de compilación. Esto significa que no lee el archivo tsconfig.json, no verifica tipos ni genera código. Sin embargo, se puede utilizar la bandera --no-strip-types para revertir a un comportamiento anterior. La forma en que funciona es mediante la creación de un wrapper en WebAssembly que elimina las anotaciones de tipo, lo que permite ejecutar el código TypeScript directamente en V8. Esto permite una ejecución rápida y sin compilación, pero también significa que se pierden las anotaciones de tipo y no se verifica la integridad del código. La forma en que se puede utilizar esta función es mediante la bandera --experimental-strip-types, que se puede pasar o omitir sin afectar la salida en términos de tamaño de bytes. La forma en que se puede verificar el modo de ejecución es mediante la función process.features.typescript, que devuelve una cadena que indica si se está utilizando el modo 'strip', 'transform' o 'falso'.
 
 Contexto IA (informativo):
-El autor de la herramienta de seguimiento de CLAUDE.md intentó mejorar la herramienta y encontró que la precisión era del 15,8% y que la herramienta podía hacer acusaciones falsas. La herramienta puede detectar si una regla se ha ejecutado correctamente o no, pero no puede evitar que se ejecute una regla que no se ha ejecutado correctamente.</summary>
-    <published>2026-09-21T13:50:21+00:00</published>
+Este artículo se centra en la forma en que Node 24 ejecuta TypeScript sin paso de compilación, lo que permite una ejecución rápida y sin compilación. Sin embargo, también significa que se pierden las anotaciones de tipo y no se verifica la integridad del código. El artículo también explora las posibles formas de utilizar esta función y cómo se puede verificar el modo de ejecución.</summary>
+    <published>2026-09-22T12:40:28+00:00</published>
   </entry>
 </feed>
