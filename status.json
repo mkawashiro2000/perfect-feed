@@ -1,158 +1,158 @@
 {
-  "generated_at": "2026-09-24T15:09:10.657406+00:00",
+  "generated_at": "2026-09-25T13:10:59.354308+00:00",
   "site_url": "https://perfect-feed.kawashiro.dev",
   "run": {
-    "id": 51,
-    "started_at": "2026-09-24T15:00:03.277576+00:00",
-    "finished_at": "2026-09-24T15:09:10.642725+00:00",
-    "status": "success",
-    "article_count": 27,
-    "detail": "Desplegado en 547.3s"
+    "id": 52,
+    "started_at": "2026-09-25T13:00:03.998313+00:00",
+    "finished_at": null,
+    "status": "running",
+    "article_count": 0,
+    "detail": null
   },
   "sources": [
     {
       "source_url": "https://css-tricks.com/feed/",
-      "checked_at": "2026-09-24T15:00:13.161145+00:00",
+      "checked_at": "2026-09-25T13:00:09.716587+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 0
     },
     {
       "source_url": "https://dev.to/feed",
-      "checked_at": "2026-09-24T15:00:12.161233+00:00",
+      "checked_at": "2026-09-25T13:00:08.695884+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-      "checked_at": "2026-09-24T15:01:26.502615+00:00",
+      "checked_at": "2026-09-25T13:01:14.194930+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://feeds.feedburner.com/codinghorror",
-      "checked_at": "2026-09-24T15:00:13.987802+00:00",
+      "checked_at": "2026-09-25T13:00:11.301559+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 0
     },
     {
       "source_url": "https://feeds.feedburner.com/oreilly/radar/atom",
-      "checked_at": "2026-09-24T15:01:13.583275+00:00",
+      "checked_at": "2026-09-25T13:01:01.801282+00:00",
       "success": 1,
       "detail": "ok",
-      "candidate_count": 5
+      "candidate_count": 4
     },
     {
       "source_url": "https://gizmodo.com/feed",
-      "checked_at": "2026-09-24T15:00:33.370232+00:00",
+      "checked_at": "2026-09-25T13:00:24.599690+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://machinelearningmastery.com/feed/",
-      "checked_at": "2026-09-24T15:01:18.816571+00:00",
+      "checked_at": "2026-09-25T13:01:02.038327+00:00",
       "success": 1,
       "detail": "ok",
-      "candidate_count": 3
+      "candidate_count": 2
     },
     {
       "source_url": "https://racer.com/feed/",
-      "checked_at": "2026-09-24T15:00:56.283029+00:00",
+      "checked_at": "2026-09-25T13:00:44.798996+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-      "checked_at": "2026-09-24T15:01:31.826346+00:00",
+      "checked_at": "2026-09-25T13:01:19.513923+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://towardsdatascience.com/feed",
-      "checked_at": "2026-09-24T15:01:07.470829+00:00",
+      "checked_at": "2026-09-25T13:00:55.945649+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.autosport.com/rss/f1/news",
-      "checked_at": "2026-09-24T15:00:45.471558+00:00",
+      "checked_at": "2026-09-25T13:00:33.999848+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "checked_at": "2026-09-24T15:01:25.966189+00:00",
+      "checked_at": "2026-09-25T13:01:13.700338+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.engadget.com/rss.xml",
-      "checked_at": "2026-09-24T15:00:28.020945+00:00",
+      "checked_at": "2026-09-25T13:00:19.293403+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.f1technical.net/rss/news.xml",
-      "checked_at": "2026-09-24T15:00:40.041775+00:00",
+      "checked_at": "2026-09-25T13:00:31.533712+00:00",
       "success": 0,
       "detail": "403 Client Error: Forbidden for url: https://www.f1technical.net/rss/news.xml",
       "candidate_count": 0
     },
     {
       "source_url": "https://www.ft.com/?format=rss",
-      "checked_at": "2026-09-24T15:01:37.380270+00:00",
+      "checked_at": "2026-09-25T13:01:25.065601+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.kdnuggets.com/feed",
-      "checked_at": "2026-09-24T15:01:07.803949+00:00",
-      "success": 1,
-      "detail": "ok",
-      "candidate_count": 5
+      "checked_at": "2026-09-25T13:00:56.084306+00:00",
+      "success": 0,
+      "detail": "403 Client Error: Forbidden for url: https://www.kdnuggets.com/feed",
+      "candidate_count": 0
     },
     {
       "source_url": "https://www.motorsport.com/rss/f1/news/",
-      "checked_at": "2026-09-24T15:00:50.737883+00:00",
+      "checked_at": "2026-09-25T13:00:39.274380+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.reddit.com/r/learnprogramming/.rss",
-      "checked_at": "2026-09-24T15:00:14.252356+00:00",
+      "checked_at": "2026-09-25T13:00:11.440888+00:00",
       "success": 0,
       "detail": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/learnprogramming/.rss",
       "candidate_count": 0
     },
     {
       "source_url": "https://www.reddit.com/r/programming/.rss",
-      "checked_at": "2026-09-24T15:00:11.187499+00:00",
+      "checked_at": "2026-09-25T13:00:07.925516+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.theverge.com/rss/index.xml",
-      "checked_at": "2026-09-24T15:00:26.205469+00:00",
+      "checked_at": "2026-09-25T13:00:14.001873+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.wired.com/feed/category/gear/latest/rss",
-      "checked_at": "2026-09-24T15:00:33.641863+00:00",
+      "checked_at": "2026-09-25T13:00:29.846618+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
@@ -160,10 +160,10 @@
   ],
   "rates": {
     "fuente": "InfoDolar.com.do",
-    "timestamp": "24/09/2026 11:00",
+    "timestamp": "25/09/2026 09:00",
     "usd": {
       "promedio": {
-        "compra": "58.22",
+        "compra": "58.23",
         "venta": "60.05"
       },
       "bancos": [
@@ -224,8 +224,8 @@
         },
         {
           "banco": "SCT",
-          "compra": "59.30",
-          "venta": "60.00"
+          "compra": "59.50",
+          "venta": "60.10"
         },
         {
           "banco": "Motor Crédito",
@@ -244,7 +244,7 @@
         }
       ],
       "from_cache": false,
-      "fetched_at": "2026-09-24T15:00:05.141479+00:00"
+      "fetched_at": "2026-09-25T13:00:04.375250+00:00"
     },
     "eur": {
       "promedio": {
@@ -294,7 +294,7 @@
         }
       ],
       "from_cache": false,
-      "fetched_at": "2026-09-24T15:00:05.862516+00:00"
+      "fetched_at": "2026-09-25T13:00:05.175420+00:00"
     }
   }
 }

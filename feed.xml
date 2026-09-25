@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-24T15:09:07.126365+00:00</updated>
+  <updated>2026-09-25T13:10:59.192196+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,107 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-24/gold-holds-drop-as-higher-oil-and-hot-us-data-fan-rate-hike-bets</id>
-    <title>[Economía] Caída del oro mientras los precios del petróleo se recuperan</title>
-    <updated>2026-09-24T15:09:07.128728+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html</id>
+    <title>[Economía] Riesgo de calamidades financieras cuando los tipos de interés suben rápidamente</title>
+    <updated>2026-09-25T13:10:59.193185+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html"/>
+    <summary>El aumento rápido de los tipos de interés en el mercado de bonos de 10 años ha generado preocupación en Wall Street. Según expertos, cuando los tipos de interés suben rápidamente, se ha producido una serie de calamidades financieras en el pasado. Los analistas advierten que este tiempo puede ser especialmente peligroso para el mercado, ya que los riesgos aumentan y los inversores deben ser cautelosos. Los bancos regionales y las empresas de servicios públicos están particularmente expuestos a estos riesgos.
+
+Contexto IA (informativo):
+El aumento de los tipos de interés en el mercado de bonos de 10 años ha generado una serie de preocupaciones en Wall Street, ya que se ha producido un aumento rápido en los tipos de interés en el mercado de bonos de 10 años. Los expertos advierten que este tiempo puede ser especialmente peligroso para el mercado, ya que los riesgos aumentan y los inversores deben ser cautelosos. Los bancos regionales y las empresas de servicios públicos están particularmente expuestos a estos riesgos.</summary>
+    <published>2026-09-24T20:57:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1</id>
+    <title>[Economía] Rusia apunta a centros de datos de Ucrania</title>
+    <updated>2026-09-25T13:10:59.193151+00:00</updated>
+    <author>
+      <name>International homepage</name>
+    </author>
+    <link href="https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1"/>
+    <summary>Los residentes de Kiev experimentan dos días de interrupciones en el internet, lo que genera preocupación sobre el acceso a servicios bancarios y otros servicios en línea. La situación ha sido descrita como 'grave' y 'peligrosa'. La agencia de seguridad de Ucrania ha informado que el ataque se centró en los centros de datos de varias empresas, incluyendo las de Google y Microsoft. La empresa de seguridad de Ucrania, Servicio de Protección de la Información, ha confirmado que el ataque se produjo en varias regiones del país y que se han interrumpido los servicios de internet en varias ciudades. Los expertos temen que este ataque podría tener consecuencias graves para la estabilidad del sistema financiero ucraniano y podría afectar la seguridad de los datos personales de los ciudadanos.
+
+Contexto IA (informativo):
+Este ataque se produce en un momento en que la situación en Ucrania sigue siendo tensa, con la guerra con Rusia que ha durado desde febrero de 2022. La situación ha sido descrita como 'grave' y 'peligrosa' por la comunidad internacional, que ha condenado el ataque y ha llamado a la paz y la negociación.</summary>
+    <published>2026-09-25T11:00:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html</id>
+    <title>[Economía] Un acuerdo entre Trump y China le da tiempo valioso</title>
+    <updated>2026-09-25T13:10:59.193118+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html"/>
+    <summary>El presidente Trump se reunió con el líder chino Xi Jinping el jueves. Las tensiones comerciales con Estados Unidos, que en un momento parecían representar una gran amenaza para China, han disminuido. La reunión se llevó a cabo en un contexto de esfuerzos por resolver las diferencias comerciales entre ambos países. Los expertos consideran que el acuerdo puede proporcionar a China un período de tiempo para reestructurar su economía y prepararse para las negociaciones futuras. Sin embargo, también hay preocupación sobre la falta de progreso en algunos aspectos del acuerdo.
+
+Contexto IA (informativo):
+La reunión entre Trump y Xi Jinping se llevó a cabo en un momento en que las tensiones comerciales entre Estados Unidos y China parecían alcanzar su punto más alto. La presión sobre China para reestructurar su economía y abordar las preocupaciones de Estados Unidos sobre su comercio desigual y su apoyo a estados separatistas es significativa.</summary>
+    <published>2026-09-25T11:59:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html</id>
+    <title>[Economía] Irán ofrece a reabrir el Estrecho de Hormuz y reanudar conversaciones nucleares en 7 días</title>
+    <updated>2026-09-25T13:10:59.193085+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html"/>
+    <summary>El ministro de Exteriores de Irán, Abbas Araghchi, ha propuesto reabrir el Estrecho de Hormuz y reanudar conversaciones nucleares con EE. UU. dentro de 7 días si se aceptan sus condiciones. El presidente de Irán, Masoud Pezeshkian, ha expresado su disposición a negociar, pero ha rechazado cualquier ayuda militar de China. La situación en el Medio Oriente sigue siendo tensa, con ataques de misiles contra Arabia Saudita y una guerra que ha durado casi 7 meses. El presidente de EE. UU., Donald Trump, ha expresado su deseo de que se termine la guerra, pero no ha dado indicaciones claras sobre cómo lograrlo. La situación sigue siendo incierta, y se espera que se mantenga la tensión en las próximas semanas.
+
+Contexto IA (informativo):
+La situación en el Medio Oriente sigue siendo tensa, con la guerra entre Irán y EE. UU. que ha durado casi 7 meses. La situación se ha agudizado con ataques de misiles contra Arabia Saudita y una creciente presión de China para que se termine la guerra. El presidente de EE. UU., Donald Trump, ha expresado su deseo de que se termine la guerra, pero no ha dado indicaciones claras sobre cómo lograrlo.</summary>
+    <published>2026-09-25T12:39:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/articles/2026-09-25/treasury-volatility-set-for-biggest-jump-in-year-as-bonds-churn</id>
+    <title>[Economía] La volatilidad del Tesoro alcanza su mayor salto en un año</title>
+    <updated>2026-09-25T13:10:59.193052+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-24/gold-holds-drop-as-higher-oil-and-hot-us-data-fan-rate-hike-bets"/>
-    <summary>Los precios del petróleo se están recuperando, lo que reforzó la expectativa de que la Reserva Federal necesitará seguir aumentando las tasas de interés para combatir la inflación que está por encima de la meta. Los precios del petróleo se recuperan, lo que reforzó la expectativa de que la Reserva Federal necesitará seguir aumentando las tasas de interés para combatir la inflación que está por encima de la meta. Esto ha llevado a una caída en el precio del oro. Los precios del petróleo se recuperan, lo que reforzó la expectativa de que la Reserva Federal necesitará seguir aumentando las tasas de interés para combatir la inflación que está por encima de la meta. Esto ha llevado a una caída en el precio del oro. Los precios del petróleo se recuperan, lo que reforzó la expectativa de que la Reserva Federal necesitará seguir aumentando las tasas de interés para combatir la inflación que está por encima de la meta. Esto ha llevado a una caída en el precio del oro.
+    <link href="https://www.bloomberg.com/news/articles/2026-09-25/treasury-volatility-set-for-biggest-jump-in-year-as-bonds-churn"/>
+    <summary>La volatilidad del Tesoro está a punto de alcanzar su mayor salto en más de un año, tras los altos rendimientos de las bonas que han sacudido el mercado de su letargo reciente. Los inversores están nerviosos ante la perspectiva de una mayor incertidumbre en el mercado. La tendencia de los rendimientos de las bonas ha sido particularmente significativa en los últimos meses, lo que ha llevado a una mayor inestabilidad en el mercado de valores. La volatilidad del Tesoro ha sido un tema de preocupación para los inversores y los expertos en economía en los últimos tiempos.
 
 Contexto IA (informativo):
-La caída del oro se debe a la recuperación de los precios del petróleo, lo que ha llevado a una reevaluación de las expectativas de la Reserva Federal sobre la necesidad de aumentar las tasas de interés para combatir la inflación.</summary>
-    <published>2026-09-24T00:12:14+00:00</published>
+La tendencia de los rendimientos de las bonas ha sido particularmente significativa en los últimos meses, lo que ha llevado a una mayor inestabilidad en el mercado de valores. La volatilidad del Tesoro ha sido un tema de preocupación para los inversores y los expertos en economía en los últimos tiempos.</summary>
+    <published>2026-09-25T12:41:52+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html</id>
-    <title>[Economía] La tasa de interés del Tesoro de 30 años alcanza su nivel más alto desde 2004 mientras el mercado de bonos sigue su caída</title>
-    <updated>2026-09-24T15:09:07.128652+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-25/nse-ceo-on-growth-after-landmark-listing-video</id>
+    <title>[Economía] CEO de la NSE habla sobre crecimiento después de la lista de mercado</title>
+    <updated>2026-09-25T13:10:59.193020+00:00</updated>
     <author>
-      <name>US Top News and Analysis</name>
+      <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html"/>
-    <summary>Las tasas de interés del Tesoro alcanzaron niveles récord en la semana pasada, con la tasa de 30 años alcanzando su punto más alto desde 2004. Los inversores creen que la Reserva Federal aumentará las tasas de interés nuevamente, lo que ha llevado a una caída en el mercado de bonos. La tasa de 10 años también alcanzó un nivel récord, lo que ha aumentado las expectativas de más ajustes monetarios por parte de la Reserva Federal. Los expertos consideran que la combinación de presiones económicas y políticas puede llevar a una mayor tasa de interés en el futuro.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-25/nse-ceo-on-growth-after-landmark-listing-video"/>
+    <summary>Después del IPO exitoso de la NSE y su debut en el mercado de valores, el CEO Ashishkumar Chauhan habla sobre las oportunidades de crecimiento de la exchange más allá de las derivadas. Explica planes para expandir productos relacionados con commodities, bonos y oro, mientras se amplía la participación de los inversores en los mercados de capital de la India. Según Bloomberg.
 
 Contexto IA (informativo):
-La caída en el mercado de bonos se debe en parte a la expectativa de que la Reserva Federal aumentará las tasas de interés nuevamente, lo que ha llevado a una mayor volatilidad en el mercado. Los expertos consideran que la combinación de presiones económicas y políticas puede llevar a una mayor tasa de interés en el futuro.</summary>
-    <published>2026-09-24T13:44:23+00:00</published>
+La NSE celebró un gran éxito su IPO y su debut en el mercado de valores, lo que ha generado interés en la exchange y su crecimiento futuro.</summary>
+    <published>2026-09-25T12:51:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-order-cnn-msnow-politico.html</id>
-    <title>[Economía] La Casa Blanca sigue bloqueando a CNN, MS NOW y Politico a pesar de la corte que bloqueó el ban de Trump</title>
-    <updated>2026-09-24T15:09:07.128574+00:00</updated>
+    <id>https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/</id>
+    <title>[Data Science] ¿Cómo cambia el Jev de TypeSafe en la construcción de aplicaciones de inteligencia artificial?</title>
+    <updated>2026-09-25T13:10:59.192986+00:00</updated>
     <author>
-      <name>NYT &gt; Business</name>
+      <name>Radar</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-order-cnn-msnow-politico.html"/>
-    <summary>Aunque una corte federal ordenó a Donald Trump que revocara su prohibición a los tres medios, ninguno de ellos fue admitido después de una revisión del morning. La decisión de Trump sigue siendo incierta, lo que genera preocupación entre los periodistas y los lectores. La prohibición afecta a CNN, MS NOW y Politico, que son conocidos por su cobertura en temas políticos. La decisión de la corte es un paso importante en la lucha por la libertad de prensa en Estados Unidos. La situación sigue siendo tensa, y se espera que se resuelva pronto.
+    <link href="https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/"/>
+    <summary>El modelo Jev de TypeSafe es un avance significativo en la inteligencia artificial, ya que puede clasificar, calificar y rutas sin escribir un solo texto. Esto lo hace radicalmente más rápido y económico que los modelos de LLM (llamadas a la acción) para realizar tareas similares. El modelo Jev es 40 a 200 veces más rápido y 40 a 400 veces más económico que los modelos de LLM. En pruebas independientes, el modelo Jev ha demostrado una precisión del 68% y una velocidad de 0,4 segundos por caso, lo que lo convierte en una opción atractiva para las aplicaciones de inteligencia artificial. Sin embargo, es importante tener en cuenta que el modelo Jev no puede generar texto y puede dar respuestas incorrectas dentro de su esquema de trabajo. La pregunta es si este avance cambiará la forma en que construimos nuestras aplicaciones de inteligencia artificial.
 
 Contexto IA (informativo):
-La prohibición de Trump ha sido objeto de controversia desde su implementación en enero de este año. Los medios han denunciado que la medida es una forma de censura y que atenta contra la libertad de prensa en Estados Unidos.</summary>
-    <published>2026-09-24T14:17:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html</id>
-    <title>[Economía] Oracle envía notificación de 'fuerza mayor' sobre proyecto de centro de datos y cae el valor de las acciones en un 5%</title>
-    <updated>2026-09-24T15:09:07.128494+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html"/>
-    <summary>La empresa Oracle ha enviado una notificación de 'fuerza mayor' relacionada con su proyecto de centro de datos en Nuevo México, lo que podría afectar la entrega del proyecto en 2028. La notificación se envió al desarrollador, que es una unidad de Blue Owl Capital, y podría llevar a retrasos en la pago del proyecto. La empresa ha asegurado que la notificación no cambia sus compromisos financieros con el proyecto, que es parte de la construcción de la infraestructura artificial inteligente Stargate. El proyecto ha estado enfrentando numerosos retrasos y obstáculos regulatorios, incluyendo la oposición local y preocupaciones de grupos ambientales. La empresa tiene $18 mil millones en deuda relacionada con el centro de datos, lo que ha generado preocupación sobre su salud financiera.
-
-Contexto IA (informativo):
-El proyecto de centro de datos en Nuevo México es solo uno de los muchos proyectos de infraestructura artificial inteligente que Oracle está desarrollando, y su impacto en la empresa y en el mercado en general es un tema de interés para los inversores y los analistas financieros.</summary>
-    <published>2026-09-24T14:50:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html</id>
-    <title>[Economía] Un agotado Hollywood celebra la perspectiva de fondos federales</title>
-    <updated>2026-09-24T15:09:07.128415+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html"/>
-    <summary>En respuesta a un éxodo de producción cinematográfica y televisiva, se introduce un proyecto de ley en el Congreso que utilizaría créditos fiscales para subsidizar la filmación en los Estados Unidos. El objetivo es atraer más producciones a la industria estadounidense. El proyecto de ley busca compensar a los estados que han perdido producciones, ofreciendo incentivos económicos para que sigan siendo un destino popular para la industria del entretenimiento. Además, se espera que el proyecto de ley genere empleos y estimule la economía local.
-
-Contexto IA (informativo):
-La industria del entretenimiento ha experimentado un declive significativo en los últimos años, lo que ha llevado a una disminución en la cantidad de producciones que se filman en los Estados Unidos. El proyecto de ley busca revertir esta tendencia y hacer de la industria estadounidense un destino más atractivo para las producciones de cine y televisión.</summary>
-    <published>2026-09-24T14:52:19+00:00</published>
+El modelo Jev de TypeSafe es un avance significativo en la inteligencia artificial, ya que puede clasificar, calificar y rutas sin escribir un solo texto. Esto lo hace radicalmente más rápido y económico que los modelos de LLM (llamadas a la acción) para realizar tareas similares.</summary>
+    <published>2026-09-23T16:28:07+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/when-software-subscriptions-become-public-policy/</id>
     <title>[Data Science] Cuándo las suscripciones de software se convierten en política pública</title>
-    <updated>2026-09-24T15:09:07.128330+00:00</updated>
+    <updated>2026-09-25T13:10:59.192948+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -95,297 +123,269 @@ Dan Gookin, quien es alcalde de Coeur d’Alene, Idaho, ha comenzado a pensar en
     <published>2026-09-24T10:54:23+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness</id>
-    <title>[Data Science] Lo que aprendí sobre DeepSeek Harness</title>
-    <updated>2026-09-24T15:09:07.128254+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness"/>
-    <summary>La empresa DeepSeek lanzó recientemente un runtime de agente llamado DeepSeek Harness, que ha generado un gran interés en la comunidad. Este proyecto es el resultado de la adopción de la plataforma de plugins Cordis, que ha demostrado ser efectiva en proyectos de producción durante cuatro años. DeepSeek Harness es model-agnostic y permite la delegación de sub-agents a modelos de competidores. También incluye sandboxing real y session logs append-only. El proyecto es transparente sobre sus limitaciones y es considerado un paso importante hacia la implementación de agentes más abiertos y escalables.
-
-Contexto IA (informativo):
-La adopción de DeepSeek Harness es parte de la estrategia de la empresa para fomentar la colaboración y la transparencia en el desarrollo de agentes. Este proyecto se alinea con la filosofía de la empresa de utilizar infraestructura abierta y fomentar la innovación en el campo de la inteligencia artificial.</summary>
-    <published>2026-09-24T12:00:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/</id>
-    <title>[Data Science] Hacia la automatización de pruebas guiadas por especificación: Part 1</title>
-    <updated>2026-09-24T15:09:07.128176+00:00</updated>
+    <id>https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/</id>
+    <title>[Data Science] Jev vs. LLMs: Cuando el AI se mueve de la generación a la toma de decisiones</title>
+    <updated>2026-09-25T13:10:59.192913+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/"/>
-    <summary>La automatización de pruebas guiadas por especificación es un enfoque que busca separar la verificación y la validación de un sistema. La verificación se refiere a verificar si el sistema cumple con su propia especificación, mientras que la validación se refiere a verificar si el sistema resuelve el problema que se le asignó. El problema es que cuando el desarrollador y el verificador son la misma persona, la verificación se vuelve poco significativa. En este artículo, se explora la importancia de la separación entre la verificación y la validación y se presenta un enfoque para automatizar esta separación.
+    <link href="https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/"/>
+    <summary>El autor probó el modelo Jev de TypeSafe AI en 3.080 tareas de clasificación para comparar su precisión, latencia, calibración y confianza con los LLMs y determinar si funciona como una capa de decisión práctica para los sistemas de AI. El modelo Jev es un System One, no un reemplazo de los LLMs, sino una capa más especializada para decisiones rápidas y estructuradas. En comparación con los LLMs, que son excelentes en lenguaje abierto, explicación y razonamiento, Jev se enfoca en decisiones más pequeñas y estructuradas, como la clasificación, la ruta, el filtrado y los controles de seguridad. Los resultados iniciales de Jev fueron lo que lo llamaron la atención, ya que en pruebas de clasificación y en la medición de la velocidad, Jev superó a otros modelos. Sin embargo, la confianza es un aspecto crucial que requiere ser cuidado, ya que los LLMs pueden cometer errores de confianza. El autor decidió probar Jev para compararlo con Qwen en 3.080 mensajes bancarios, evaluando no solo la precisión, sino también la velocidad y la confianza. El modelo Jev se llama así en honor a William Stanley Jevons, el economista del siglo XIX que descubrió el paradoja de Jevons, y se llama System One en referencia a la teoría de Daniel Kahneman sobre el pensamiento rápido y lento. El modelo Jev es una evolución de los clasificadores de texto BERT-style, pero con una técnica más avanzada que permite la asignación de textos a categorías de manera más precisa y rápida.
 
 Contexto IA (informativo):
-El autor ha trabajado en proyectos de verificación y validación en la industria automotriz y ha experimentado la importancia de la separación entre la verificación y la validación. También ha desarrollado un proyecto de código abierto que busca automatizar esta separación.</summary>
-    <published>2026-09-24T12:30:02+00:00</published>
+El modelo Jev es una capa de decisión para sistemas de AI que busca mejorar la velocidad y la precisión en tareas de clasificación y otros procesos de toma de decisiones. Su creación se inspira en la teoría de Daniel Kahneman sobre el pensamiento rápido y lento, y se llama así en honor a William Stanley Jevons, el economista del siglo XIX que descubrió el paradoja de Jevons. El modelo Jev es una evolución de los clasificadores de texto BERT-style, pero con una técnica más avanzada que permite la asignación de textos a categorías de manera más precisa y rápida.</summary>
+    <published>2026-09-25T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/</id>
-    <title>[Data Science] Hacia un sistema de inteligencia artificial más veraz: construyendo un enfoque en evidencia</title>
-    <updated>2026-09-24T15:09:07.128098+00:00</updated>
+    <id>https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/</id>
+    <title>[Data Science] No es un agente — Construí la capa entre la búsqueda y la acción</title>
+    <updated>2026-09-25T13:10:59.192879+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/"/>
-    <summary>La inteligencia artificial (IA) no es evidencia. Para construir un sistema de IA que demuestre sus propias afirmaciones, debemos superar el error categorial que se repite en muchos modelos de lenguaje grande (LLM). El objetivo es crear un sistema que demuestre evidencia para sus afirmaciones y no solo documentos que las hacen más creíbles. Se requiere un enfoque más fuerte que el uso de RAG (Retrieval-Augmented Generation) y se debe definir una política clara para determinar qué se cuenta como evidencia y cómo manejar los conflictos. El objetivo es crear un sistema que permita a los usuarios actuar sobre la narrativa de manera segura y transparente.
+    <link href="https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/"/>
+    <summary>RAG busca información. Los agentes actúan. Quería ver qué sucede cuando se combinan ambos en lugar de asumir que ambos son necesarios. Construí tres versiones: una que busca información, una que planifica acciones deterministas y una que conecta la búsqueda con las acciones. Luego ejecuté las mismas nueve tareas a través de todas las tres. Encontré dos errores reales mientras construía el sistema. Muestro ambos errores, junto con el output del terminal antes y después de solucionarlos. Este no es solo una comparación conceptual. Es una implementación pequeña y funcional con resultados medidos, más una verificación de fuentes de verdad que atrapó un error del parser antes de ejecutar los tests finales. La suposición que encontré continuamente
 
 Contexto IA (informativo):
-La creación de un sistema de IA que demuestre evidencia para sus afirmaciones es un desafío complejo. La tecnología de RAG es valiosa, pero no es suficiente para garantizar la veracidad de las afirmaciones. Es necesario definir una política clara para determinar qué se cuenta como evidencia y cómo manejar los conflictos. El objetivo es crear un sistema que permita a los usuarios actuar sobre la narrativa de manera segura y transparente.</summary>
-    <published>2026-09-24T14:00:01+00:00</published>
+Comencé a construir un sistema RAG para responder preguntas a partir de mi propia documentación. El conocimiento funcionó. Luego quería que cambiara algo después de encontrar la respuesta. No podía hacerlo. Un ticket de soporte. Alguien presenta un ticket y necesita una categoría. La categoría correcta se basa en la información de la documentación interna. Un sistema RAG puede encontrar esa información, pero no actualiza automáticamente el ticket. Un sistema de acción tiene la otra mitad. Puede actualizar el ticket, pero necesita saber qué categoría usar. Esto era el parte que quería probar. ¿Qué sucede cuando se mantienen la búsqueda y la acción separadas? ¿Qué sucede cuando se conectan?</summary>
+    <published>2026-09-25T12:30:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/mcp-explained-in-5-minutes</id>
-    <title>[Data Science] MCP Explained in 5 Minutes</title>
-    <updated>2026-09-24T15:09:07.128016+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/mcp-explained-in-5-minutes"/>
-    <summary>MCP es una lengua común entre una aplicación de inteligencia artificial y las herramientas que utiliza. Permite a las aplicaciones de inteligencia artificial conectarse a diferentes servidores MCP a través de la misma interfaz estándar. MCP no reemplaza las APIs, sino que standardiza cómo se presentan, se descubren y se llaman las capacidades. Los servidores MCP pueden exponer herramientas, recursos y promps. MCP es especialmente útil para las aplicaciones de agentes de inteligencia artificial, ya que permite a las aplicaciones interactuar con sistemas externos. El sistema sigue una arquitectura de cliente-servidor, pero es más fácil de entender cuando se ven los piezas juntas. MCP permite a las aplicaciones de inteligencia artificial conectarse a diferentes servidores MCP a través de la misma interfaz estándar. El sistema sigue una arquitectura de cliente-servidor, pero es más fácil de entender cuando se ven las piezas juntas. MCP permite a las aplicaciones de inteligencia artificial conectarse a diferentes servidores MCP a través de la misma interfaz estándar. El sistema sigue una arquitectura de cliente-servidor, pero es más fácil de entender cuando se ven las piezas juntas. MCP permite a las aplicaciones de inteligencia artificial conectarse a diferentes servidores MCP a través de la misma interfaz estándar. El sistema sigue una arquitectura de cliente-servidor, pero es más fácil de entender cuando se ven las piezas juntas.
-
-Contexto IA (informativo):
-MCP es una tecnología que permite a las aplicaciones de inteligencia artificial conectarse a diferentes herramientas y sistemas externos de manera estándar. Es especialmente útil para las aplicaciones de agentes de inteligencia artificial, ya que permite a las aplicaciones interactuar con sistemas externos de manera eficiente.</summary>
-    <published>2026-09-24T14:00:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp2-report/10858543/</id>
-    <title>[Fórmula 1] Russell lidera FP2 de GP de Azerbaiyán con una ventaja a Antonelli</title>
-    <updated>2026-09-24T15:09:07.127938+00:00</updated>
+    <id>https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/</id>
+    <title>[Fórmula 1] Por qué el incidente peligroso de Hamilton-Lawson en la práctica de Azerbaiyán no ha llevado a cambios</title>
+    <updated>2026-09-25T13:10:59.192846+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp2-report/10858543/"/>
-    <summary>George Russell, piloto de Mercedes, lideró la segunda práctica de la carrera del GP de Azerbaiyán, superando a su compañero de equipo Kimi Antonelli. La Mercedes disfrutó de una ventaja significativa en las curvas rápidas de Baku. La carrera se llevará a cabo el sábado, coincidiendo con un día de descanso nacional el domingo.
+    <link href="https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/"/>
+    <summary>Lewis Hamilton fue reprimado por impedir a Liam Lawson durante la segunda práctica de FP2, pero esto no fue el final del asunto. Antes de que un solo coche hubiera girado una rueda en el Circuito de la Ciudad de Bakú, se habían planteado preocupaciones sobre cómo los coches que corrían lentamente para recoger o conservar energía eléctrica a través de las últimas curvas podrían representar una peligrosidad para aquellos que hacían una vuelta de empuje. En el pasado...
 
 Contexto IA (informativo):
-La carrera se celebra en un día de descanso nacional en Azerbaiyán, lo que puede afectar la concentración de los pilotos.</summary>
-    <published>2026-09-24T13:05:44+00:00</published>
+En el pasado, se han producido incidentes similares en otros circuitos, lo que ha llevado a cambios en las normas de seguridad.</summary>
+    <published>2026-09-25T08:42:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/jamie-chadwick-joins-exclusive-list-after-williams-f1-test/10858560/</id>
-    <title>[Fórmula 1] Chadwick se une a la lista exclusiva después del test de F1 de Williams</title>
-    <updated>2026-09-24T15:09:07.127860+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/f1-urged-to-rethink-sprint-points-system-as-calendar-expands-in-2027/10858799/</id>
+    <title>[Fórmula 1] F1 debe reevaluar el sistema de puntos de sprint como el calendario se amplía en 2027</title>
+    <updated>2026-09-25T13:10:59.192814+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/f1-urged-to-rethink-sprint-points-system-as-calendar-expands-in-2027/10858799/"/>
+    <summary>Según el presentador Will Buxton, la F1 debe revisar su sistema de puntos de sprint y reevaluar las restricciones de pruebas aerodinámicas para adaptarse a un calendario de finales de sprint que se amplía en 2027. El calendario de 2027 incluye 10 finales de sprint en Bahrain, Australia, Japón, Canadá, Mónaco, Reino Unido, Italia, Brasil, Catar y Abu Dhabi. Buxton lo expresó durante una aparición en el podcast Up To Speed
+
+Contexto IA (informativo):
+El sistema de puntos de sprint ha sido objeto de críticas en el pasado, y algunos expertos creen que es necesario hacer cambios para garantizar una competencia más equilibrada y emocionante.</summary>
+    <published>2026-09-25T09:11:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp3-report/10858797/</id>
+    <title>[Fórmula 1] Max Verstappen lidera en la práctica final del GP de Azerbaiyán</title>
+    <updated>2026-09-25T13:10:59.192782+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp3-report/10858797/"/>
+    <summary>Max Verstappen de Red Bull sorprendentemente lideró la práctica final del GP de Azerbaiyán, superando a George Russell de Mercedes y a Lewis Hamilton de Ferrari en el circuito de Baku. Verstappen se impuso al final de la sesión de una hora, cuando los equipos cambiaron a carreras de calificación, desafiando el favorito de Mercedes en Baku al aprovechar una gran corriente de aire para ir ...
+
+Contexto IA (informativo):
+La práctica final del GP de Azerbaiyán fue una sesión intensa, con los pilotos ajustando sus carreras para la calificación. La victoria de Verstappen sorprendió a muchos, pero no cambió la dinámica de la carrera, que sigue siendo entre Verstappen y Hamilton.</summary>
+    <published>2026-09-25T09:37:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp3-report-10858801/10858801/</id>
+    <title>[Fórmula 1] Verstappen supera a Russell y Hamilton en FP3 de GP de Azerbaiyán</title>
+    <updated>2026-09-25T13:10:59.192750+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/jamie-chadwick-joins-exclusive-list-after-williams-f1-test/10858560/"/>
-    <summary>La piloto británica Jamie Chadwick se convirtió en la última mujer en conducir un coche de F1 después de completar un programa de pruebas de vehículos anteriores para Williams en el circuito de Portimao. La 28-year-old completó 32 vueltas en Portugal el lunes a bordo del FW47 de la temporada anterior, como parte de sus deberes como piloto de desarrollo para la británica. Esto significó que se convirtió en la segunda mujer en conducir un coche de F1 este año después de Doriane Pin, quien completó un programa de pruebas de vehículos anteriores para una otra equipo. Chadwick demostró su habilidad y dedicación al conducir el FW47, un coche que ya había utilizado en pruebas previas. Su experiencia y habilidad en el FW47 la convierten en una candidata potencial para el equipo de F1 de Williams. La noticia de Chadwick se unió a la lista de mujeres que han conducido un coche de F1 este año, un logro que demuestra su compromiso con la igualdad de género en el deporte.
+    <link href="https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp3-report-10858801/10858801/"/>
+    <summary>Max Verstappen de Red Bull sorprendentemente lideró la tercera y final práctica del GP de Azerbaiyán, superando a George Russell de Mercedes y Lewis Hamilton de Ferrari en el circuito de Baku. Verstappen se impuso al final de la sesión de una hora, aprovechando un gran esguince para pasar a la fase de calificación, desafiando la favorita de Mercedes en Baku.
 
 Contexto IA (informativo):
-La inclusión de Chadwick en el equipo de desarrollo de Williams es un paso importante hacia la igualdad de género en el deporte de la F1. La organización ha estado trabajando para aumentar la representación de mujeres en el deporte, y Chadwick es un ejemplo de cómo se puede lograr esto a través de la oportunidad y el desarrollo.</summary>
-    <published>2026-09-24T13:09:58+00:00</published>
+La victoria de Verstappen en la práctica fue un golpe para Mercedes, que habían sido considerados favoritos en Baku. La sesión de calificación será crucial para determinar la orden de salida en la carrera.</summary>
+    <published>2026-09-25T09:38:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/lewis-hamilton-summoned-to-f1-stewards-after-azerbaijan-gp-incident/10858572/</id>
-    <title>[Fórmula 1] Lewis Hamilton llamado a los stewards de F1 tras incidente en GP de Azerbaiyán</title>
-    <updated>2026-09-24T15:09:07.127784+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/lewis-hamilton-summoned-to-f1-stewards-after-azerbaijan-gp-incident/10858572/"/>
-    <summary>Lewis Hamilton ha sido llamado a los stewards de la Fórmula 1 después de ser acusado de obstaculizar a Liam Lawson durante la segunda práctica del GP de Azerbaiyán. En el sector final de la pista de Baku, Hamilton estaba capturando energía, mientras que Lawson estaba haciendo una vuelta caliente en su coche Racing Bulls. Esto le obligó a Lawson a tomar medidas de evasión en la curva penúltima
-
-Contexto IA (informativo):
-El incidente ocurrió durante la segunda práctica del GP de Azerbaiyán, que se llevó a cabo el viernes en la pista de Baku. La Fórmula 1 ha tomado medidas para investigar el incidente y determinar si Hamilton cometió una infracción reglamentaria.</summary>
-    <published>2026-09-24T13:45:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/09/24/coyne-blames-communication-breakdown-for-hauger-s-departure-i-think-he-got-spooked-</id>
-    <title>[Fórmula 1] Coyne culpa la falta de comunicación por la partida de Hauger: 'Creo que se asustó'</title>
-    <updated>2026-09-24T15:09:07.127708+00:00</updated>
+    <id>https://racer.com/2026/09/25/verstappen-takes-charge-in-third-f1-practice-session-at-baku</id>
+    <title>[Fórmula 1] Verstappen toma el control en la tercera sesión de práctica de F1 en Baku</title>
+    <updated>2026-09-25T13:10:59.192718+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/24/coyne-blames-communication-breakdown-for-hauger-s-departure-i-think-he-got-spooked-"/>
-    <summary>El propietario de la escudería Dale Coyne no esperaba tener que correr IndyCar sin su Rookie of the Year Dennis Hauger la próxima temporada. Se habían planeado elevar al noruego a la cartera de liderazgo y unirlo con el nuevo campeón de Indy NXT Nikita Johnson, pero sin sus firmas en contratos, Coyne cree que...
+    <link href="https://racer.com/2026/09/25/verstappen-takes-charge-in-third-f1-practice-session-at-baku"/>
+    <summary>Max Verstappen lideró la tercera sesión de práctica de F1 en Baku, superando a George Russell y Lewis Hamilton. Esto impidió a Mercedes un limpio dominio en la sesión de práctica. Verstappen demostró su habilidad para adaptarse a las condiciones del circuito. La victoria de Verstappen en la tercera sesión de práctica es un buen indicador de su potencial en la carrera.
 
 Contexto IA (informativo):
-Hauger había estado en la escudería desde 2022 y había demostrado ser un piloto prometedor. La falta de comunicación y la falta de progreso en sus contratos han llevado a su partida.</summary>
-    <published>2026-09-24T13:48:48+00:00</published>
+La tercera sesión de práctica de F1 en Baku es una oportunidad para los pilotos ajustar sus vehículos y prepararse para la carrera. La competencia es fuerte y cualquier pequeño error puede tener consecuencias.</summary>
+    <published>2026-09-25T11:15:17+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/24/what-exactly-is-a-grand-prix-</id>
-    <title>[Fórmula 1] ¿Qué es exactamente un gran premio?</title>
-    <updated>2026-09-24T15:09:07.127626+00:00</updated>
+    <id>https://racer.com/2026/09/25/martins-puts-alpine-on-top-for-second-wec-practice-at-fuji</id>
+    <title>[Fórmula 1] Martins lidera el camino con Alpine en segunda práctica WEC en Fuji</title>
+    <updated>2026-09-25T13:10:59.192684+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/24/what-exactly-is-a-grand-prix-"/>
-    <summary>La decisión de la Comisión F1 de reducir las longitudes de los GP a partir de 2027 es el último signo de que ninguna parte del deporte está a salvo de la presión de F1 para evolucionar. Ni siquiera los conductores pueden estar de acuerdo en si eso es una buena cosa. La reducción de las distancias de carrera puede afectar la seguridad y la competitividad en las pistas. Algunos expertos expresan su preocupación por el impacto que esto puede tener en el deporte. Por otro lado, otros defienden la innovación y la mejora continua de la carrera. La F1 sigue evolucionando y adaptándose para mantener su relevancia en el mundo del deporte motor. La reducción de las distancias de carrera es solo una de las medidas que la F1 está considerando para mejorar la experiencia del espectador y aumentar la competitividad en las carreras.
+    <link href="https://racer.com/2026/09/25/martins-puts-alpine-on-top-for-second-wec-practice-at-fuji"/>
+    <summary>El equipo Alpine Endurance Team logró un buen resultado en la segunda práctica de la WEC en el circuito de Fuji, con el número 36 A424 liderando las tiempos con un tiempo de 1m29.304s de Victor Martins. Este tiempo superó al de Ryo Hirakawa, quien logró un tiempo de 1m29.6s. La práctica se centró en un simulacro de calificación temprano, lo que permitió a los pilotos ajustar sus vehículos y mejorar su rendimiento.
 
 Contexto IA (informativo):
-En los últimos años, F1 ha estado trabajando en varias iniciativas para mejorar la seguridad y la competitividad en las carreras. La reducción de las distancias de carrera es la última de estas iniciativas, y se espera que tenga un impacto significativo en el deporte.</summary>
-    <published>2026-09-24T14:30:51+00:00</published>
+La segunda práctica de la WEC en Fuji se llevó a cabo en un entorno de simulación de calificación, lo que permitió a los pilotos probar diferentes estrategias y ajustes en sus vehículos. El equipo Alpine Endurance Team se mostró comprometido con su objetivo de lograr un buen resultado en la carrera.</summary>
+    <published>2026-09-25T11:42:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/jamie-chadwick-reflects-on-surreal-maiden-williams-f1-test/10858603/</id>
-    <title>[Fórmula 1] Jamie Chadwick reflexiona sobre su primera prueba de F1 con Williams</title>
-    <updated>2026-09-24T15:09:07.127546+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/jamie-chadwick-reflects-on-surreal-maiden-williams-f1-test/10858603/"/>
-    <summary>Jamie Chadwick describió su primera prueba de F1 con Williams como "surreal" mientras reflejaba sobre la experiencia, revelando su aprecio por el campeonato, que ahora ha aumentado significativamente. La 28-year-old británica, quien se convirtió en la primera mujer en más de una década en probar un coche de F1 de Williams, tomó el track en Portimao con el coche de 2025 de la escuderia y completó 32 vueltas como parte de F1's ...
-
-Contexto IA (informativo):
-La prueba de Chadwick fue parte de un esfuerzo de Williams para aumentar su presencia en el mundo de la F1 y mejorar su competitividad en el campeonato.</summary>
-    <published>2026-09-24T14:49:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/</id>
-    <title>[Tecnología] El chip Snapdragon Sound Elite de Qualcomm es una nueva caja de sonido con inteligencia artificial para dispositivos de audio</title>
-    <updated>2026-09-24T15:09:07.127465+00:00</updated>
+    <id>https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28/</id>
+    <title>[Tecnología] Prueba de vuelo orbital de Starship SpaceX en curso después de un ensayo de lanzamiento exitoso</title>
+    <updated>2026-09-25T13:10:59.192649+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/"/>
-    <summary>El chip Snapdragon Sound Elite de Qualcomm es una nueva caja de sonido con inteligencia artificial para dispositivos de audio. Este chip permitirá una mayor capacidad de procesamiento de inteligencia artificial en dispositivos de audio, como auriculares, altavoces y gafas de audio. La empresa espera que este chip mejore la experiencia del usuario con características como la traducción en tiempo real y la amplificación de sonidos para aquellos con dificultades auditivas. El chip también incluye tecnologías de audio inmersivo y Wi-Fi 6E para una mayor velocidad y conectividad.
+    <link href="https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28/"/>
+    <summary>La empresa SpaceX ha realizado un ensayo de lanzamiento exitoso para su vehículo Starship, lo que indica que la prueba de vuelo orbital programada para el 28 de septiembre está en curso. El vehículo se encuentra listo para su próximo vuelo de prueba, que será un hito importante para el vehículo si todo sale según lo planeado. El ensayo de lanzamiento simuló la secuencia de lanzamiento completa, incluyendo la carga de propulentes líquidos, la verificación de la software y la comunicación con el equipo de tierra. El equipo de lanzamiento también simuló la secuencia de contabilización de lanzamiento y la eliminación de propulentes. Con el éxito de este ensayo, Starship está a punto de despegar para su vuelo de prueba número 14 el 28 de septiembre, con una ventana de lanzamiento de 75 minutos que comienza a las 8:15 AM hora este. El vehículo realizará seis órbitas alrededor de la Tierra en las primeras 10 horas antes de reentrarse en la atmósfera y desintegrarse en el océano. Además, el vehículo transportará 26 satélites Starlink V3 a órbita, que serán los primeros modelos de próxima generación en la constelación de satélites de internet de SpaceX. Los espectadores podrán ver el lanzamiento de Starship el 28 de septiembre en X.
 
 Contexto IA (informativo):
-El chip Snapdragon Sound Elite es el resultado de la evolución de la tecnología de audio de Qualcomm, que busca mejorar la experiencia del usuario con la inteligencia artificial. La empresa espera que este chip sea un paso importante en la integración de la inteligencia artificial en dispositivos de audio.</summary>
-    <published>2026-09-24T11:23:00+00:00</published>
+El éxito del ensayo de lanzamiento es un paso importante hacia la prueba de vuelo orbital de Starship, que será un hito significativo para la empresa. La prueba de vuelo orbital es un paso crucial para el desarrollo del vehículo, ya que permitirá a SpaceX demostrar la capacidad de su vehículo para alcanzar órbita y realizar misiones de transporte de satélites.</summary>
+    <published>2026-09-25T11:55:23+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/bose-ultra-open-deal-september-2026/</id>
-    <title>[Tecnología] Bose Ultra Open Earbuds están a $100 de descuento ahora</title>
-    <updated>2026-09-24T15:09:07.127380+00:00</updated>
+    <id>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</id>
+    <title>[Tecnología] Microsoft lanza su nueva aplicación 'Copilot' como superaplicación</title>
+    <updated>2026-09-25T13:10:59.192616+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://www.wired.com/story/bose-ultra-open-deal-september-2026/"/>
-    <summary>Los Bose Ultra Open Earbuds son un tipo de auriculares abiertos que se colocan alrededor del oído, permitiendo escuchar música o audiobooks mientras se mantiene la conexión con el entorno. Estos auriculares son una excelente opción para cuando se quiere disfrutar de la música o un libro, pero también querer estar atento a lo que sucede alrededor. La marca Bose ha lanzado una nueva serie de auriculares abiertos, incluyendo los Bose Sport Open Earbuds y los Bose Ultra Open Earbuds (2da generación), que se lanzarán el 1 de octubre. En este momento, los original Ultra Open Earbuds están en oferta, lo que es la menor precio que se ha visto hasta ahora. Estos auriculares son premium, tienen mejoras en el control, el sonido y la comodidad, y son una excelente opción para correr o hacer ciclismo al aire libre, ya que se pueden escuchar música o un podcast mientras se mantiene la conexión con el entorno. Los Bose Ultra Open Earbuds son mi elección para los mejores auriculares abiertos premium, y ahora es una excelente oportunidad de comprarlos a un precio más asequible. Los Bose Ultra Open Earbuds son una excelente opción para aquellos que buscan una experiencia de audio de alta calidad y la libertad de escuchar música o un libro mientras se mantiene la conexión con el entorno.
+    <link href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"/>
+    <summary>Microsoft ha lanzado su nueva aplicación Copilot, que combina tres capacidades de inteligencia artificial en una interfaz única de chat, codificación y agentes. La aplicación cuenta con tres pestañas para Home, Code y Autopilot, y su experiencia de usuario se centra en la interacción con el usuario. Además, se incluye una función de hoy que actúa como una pantalla de inicio personalizada para los usuarios. La aplicación busca reemplazar a Office como herramienta fundamental para los usuarios
 
 Contexto IA (informativo):
-Los Bose Ultra Open Earbuds son una excelente opción para aquellos que buscan una experiencia de audio de alta calidad y la libertad de escuchar música o un libro mientras se mantiene la conexión con el entorno. La marca Bose ha lanzado una nueva serie de auriculares abiertos, incluyendo los Bose Sport Open Earbuds y los Bose Ultra Open Earbuds (2da generación), que se lanzarán el 1 de octubre.</summary>
-    <published>2026-09-24T11:36:00+00:00</published>
+La aplicación Copilot es el resultado de la reestructuración de la aplicación Scout, que fue rebranding como Autopilot. La aplicación busca ser una herramienta versátil para los usuarios, ofreciendo una experiencia de usuario única y personalizada.</summary>
+    <published>2026-09-25T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/</id>
-    <title>[Tecnología] Cómo obtener tu parte del $250 millones de la sentencia de Siri de Apple</title>
-    <updated>2026-09-24T15:09:07.127296+00:00</updated>
+    <id>https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/</id>
+    <title>[Tecnología] Microsoft actualiza su aplicación Copilot con nuevas funcionalidades</title>
+    <updated>2026-09-25T13:10:59.192583+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/"/>
-    <summary>Si has comprado un iPhone en los últimos dos años, podrías estar calificado para recibir una compensación. Apple ha acordado pagar $250 millones a clientes en los Estados Unidos que compraron ciertas modelos de iPhone entre junio de 2024 y marzo de 2025. Los pagos pueden ser de $25 a $95 por dispositivo. Para calificar, debes presentar tu reclamación antes del 21 de diciembre de 2026. El acuerdo cubre a clientes que compraron iPhones en los Estados Unidos y no en el Reino Unido, Canadá, Francia o otros países. Debes proporcionar detalles personales, el número de serie del iPhone y un método de pago para recibir tu compensación.
+    <link href="https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/"/>
+    <summary>La aplicación Copilot de Microsoft ha sido actualizada con una nueva interfaz y la integración directa de aplicaciones de Office. La aplicación ahora cuenta con tres tablas: Home, Code y Autopilot. La Home tab permite interactuar con Copilot de manera natural, mientras que la Code tab permite crear tareas sin necesidad de habilidades de programación. La Autopilot tab permite a Copilot automatizar tareas y responder a mensajes sin intervención humana. Estas nuevas funcionalidades buscan hacer que Copilot sea más útil para consumidores y empresas.
 
 Contexto IA (informativo):
-El acuerdo de $250 millones de Apple se debe a que el equipo de inteligencia de la empresa no pudo cumplir con la promesa de introducir Apple Intelligence en el WWDC 2024. La promesa se retrasó y finalmente se lanzó en fall 2026. El acuerdo compensa a los clientes que compraron iPhones en los Estados Unidos entre junio de 2024 y marzo de 2025, creyendo que Apple Intelligence se lanzaría en ese momento.</summary>
-    <published>2026-09-24T12:00:00+00:00</published>
+La actualización de Copilot es parte de la estrategia de Microsoft para hacer que su aplicación sea más atractiva para consumidores y empresas. Aunque la aplicación no ha sido muy popular entre los consumidores, es una herramienta valiosa para las empresas que necesitan procesar grandes cantidades de datos y generar informes y presentaciones.</summary>
+    <published>2026-09-25T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</id>
-    <title>[Tecnología] ¿Por qué no podemos simplemente mantener a las inteligencias artificiales maliciosas fuera de Internet?</title>
-    <updated>2026-09-24T15:09:07.127213+00:00</updated>
+    <id>https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview</id>
+    <title>[Tecnología] Insta360 se convierte en líder de cámaras 360° y ahora mira a los gafas</title>
+    <updated>2026-09-25T13:10:59.192547+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"/>
-    <summary>Los agentes de inteligencia artificial continúan escapando de los tests seguros, atacando objetivos reales, tomando el control de wikis poco conocidos y dejando instrucciones para otros agentes. Los investigadores prueban estos sistemas porque pueden comportarse de manera impredecible y peligrosa. ¿No sería más seguro mantener los agentes fuera de Internet? En teoría, sí. Se puede aislar a los ordenadores que ejecutan herramientas de inteligencia artificial de Internet y otras redes externas, un método conocido como 'aire aislante'. Esto puede significar eliminar o deshabilitar físicamente los cables. Sin embargo, se trata de un equilibrio, no de un problema técnico fundamental.
+    <link href="https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"/>
+    <summary>Insta360 es conocida por sus cámaras 360° que capturan todos los ángulos al mismo tiempo, permitiendo a los usuarios grabar y luego editar en cualquier momento. La empresa ha dominado el mercado con un 73% de participación mundial, lo que la ha llevado a invertir $298 millones en memoria, una cantidad que supera la valiación de GoPro. Con la venta de su millón de décima cámara, Insta360 está expandiendo su presencia con su primera tienda flagship en Nueva York, pero ahora está considerando un nuevo desafío: los gafas. La empresa busca desafiar a Canon y otros competidores en el mercado de la tecnología de realidad aumentada. La empresa está preparada para lanzar una nueva línea de productos que incluirá cámaras 360° y gafas con tecnología de realidad aumentada. Insta360 está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada. La empresa espera que su nueva línea de productos sea lanzada en el próximo año y que sea un éxito en el mercado. Insta360 está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada. La empresa espera que su nueva línea de productos sea lanzada en el próximo año y que sea un éxito en el mercado.
 
 Contexto IA (informativo):
-Los investigadores están explorando formas de mejorar la seguridad de las inteligencias artificiales y evitar que se conviertan en una amenaza para la sociedad. La cuestión de si mantener a las inteligencias artificiales fuera de Internet es una discusión abierta entre los expertos en el campo.</summary>
-    <published>2026-09-24T14:30:00+00:00</published>
+Insta360 ha demostrado su capacidad para innovar y adaptarse a los cambios en el mercado de la tecnología. La empresa ha establecido una fuerte presencia en el mercado de las cámaras 360° y ahora está considerando un nuevo desafío: la realidad aumentada. La empresa está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada.</summary>
+    <published>2026-09-25T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter</id>
-    <title>[Tecnología] Puede que no te des cuenta de lo que Nikon eliminó de su cámara full-frame Z5 IIC más asequible</title>
-    <updated>2026-09-24T15:09:07.127128+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter"/>
-    <summary>Nikon anunció una nueva versión de su cámara Z5 II, que elimina características en lugar de introducir mejoras para hacerla más asequible para los fotógrafos principiantes. La cámara Z5 IIC es $450 más barata que la Z5 II, que comienza a $1,849.95, y cuenta con un diseño actualizado y todas las mejores características del original. La cámara utiliza el mismo sensor de 24,5 megapíxeles de full-frame iluminado por espalda y el mismo motor de procesamiento de imágenes EXPEED 7 que la Z5 II, además de tener estabilización in-body. La Nikon Z5 IIC es una opción más asequible para los fotógrafos que buscan una cámara de alta calidad sin gastar una fortuna. Sin embargo, es importante tener en cuenta que la cámara elimina algunas características que se encontraban en la Z5 II, como la función de disparo continuo. En general, la Nikon Z5 IIC es una buena opción para los fotógrafos que buscan una cámara de full-frame asequible y con características avanzadas.
-
-Contexto IA (informativo):
-La Nikon Z5 IIC es una cámara de full-frame que se destaca por su diseño actualizado y su capacidad para capturar imágenes de alta calidad. Aunque elimina algunas características que se encontraban en la Z5 II, sigue siendo una opción atractiva para los fotógrafos que buscan una cámara de alta calidad sin gastar una fortuna.</summary>
-    <published>2026-09-24T14:53:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/signal-finally-lets-you-skip-the-phone-number-but-now-google-is-involved-2000816351</id>
-    <title>[Tecnología] Puedes unirte a Signal sin número de teléfono, pero ahora Google está involucrado</title>
-    <updated>2026-09-24T15:09:07.127043+00:00</updated>
+    <id>https://gizmodo.com/your-body-heat-could-power-the-next-generation-of-wearables-2000816753</id>
+    <title>[Tecnología] Calor corporal podría impulsar la próxima generación de dispositivos de vestido</title>
+    <updated>2026-09-25T13:10:59.192512+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/signal-finally-lets-you-skip-the-phone-number-but-now-google-is-involved-2000816351"/>
-    <summary>Signal ha comenzado a testear una función que te permite unirte al mensajero cifrado sin proporcionar un número de teléfono. La función, llamada Signal Login, está disponible en la versión beta de Android 8.28 y se planea lanzar en iOS. Para utilizar esta función, debes pagar una tarifa de $2.99 o €3.49, que se utiliza para obtener un ID de cuenta y una clave de recuperación. Estas credenciales se utilizan como un nombre de usuario y contraseña, y es importante almacenarlas de manera segura. La función es una solución para evitar que los spammer se beneficien de la función de registro sin número de teléfono. Sin embargo, la compra sigue pasando por el proceso de pago de Google, lo que puede ser un problema para aquellos que desean evitar la rastreabilidad de Google.
+    <link href="https://gizmodo.com/your-body-heat-could-power-the-next-generation-of-wearables-2000816753"/>
+    <summary>Los dispositivos de vestido han vuelto a ser una parte integral de nuestra vida diaria, y su crecimiento en el mercado es notable. Sin embargo, su limitación principal es su necesidad de ser llevados continuamente para proporcionar la utilidad deseada, lo que genera inconvenientes. La solución podría estar en la generación de electricidad a partir del calor corporal, lo que podría reducir la necesidad de recargarlos constantemente. Los dispositivos de vestido con tecnología de generación de electricidad a partir del calor corporal podrían proporcionar una mayor autonomía y reducir la necesidad de recargarlos durante largos períodos de tiempo. Esto podría ser especialmente beneficioso para dispositivos que requieren una gran cantidad de energía, como los rastreadores de sueño, que son precisos porque no se notan mientras se llevan.
 
 Contexto IA (informativo):
-La función de registro sin número de teléfono es una solución para evitar que los spammer se beneficien de la función de registro sin número de teléfono. Sin embargo, la compra sigue pasando por el proceso de pago de Google, lo que puede ser un problema para aquellos que desean evitar la rastreabilidad de Google.</summary>
-    <published>2026-09-24T14:55:59+00:00</published>
+La tecnología de generación de electricidad a partir del calor corporal es un campo en constante evolución, y se está explorando su potencial para mejorar la autonomía de los dispositivos de vestido. La idea es que los dispositivos de vestido podrían generar electricidad a partir del calor corporal, lo que reduciría la necesidad de recargarlos constantemente y les permitiría funcionar durante períodos más largos.</summary>
+    <published>2026-09-25T12:30:25+00:00</published>
   </entry>
   <entry>
-    <id>https://httptoolkit.com/blog/android-17-certificate-transparency/</id>
-    <title>[Programación] Android 17 permite la transparencia de certificados y rompe las configuraciones de CAs personalizadas</title>
-    <updated>2026-09-24T15:09:07.126952+00:00</updated>
+    <id>https://kant2002.github.io/en/git/hacking/2026/09/25/cloning-linux-on-windows.html</id>
+    <title>[Programación] Clonar Linux en Windows</title>
+    <updated>2026-09-25T13:10:59.192477+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://httptoolkit.com/blog/android-17-certificate-transparency/"/>
-    <summary>En Android 17, se ha habilitado la transparencia de certificados por defecto para todas las aplicaciones, lo que hace que sea imposible controlar quién se confía como autoridad de certificados (CA) y ver o modificar el tráfico de las aplicaciones. Esto afecta a la seguridad y la privacidad de los usuarios, ya que no pueden interceptar el tráfico de las aplicaciones sin rootear su dispositivo. La transparencia de certificados es importante para la investigación de seguridad y privacidad, así como para el reverse engineering de aplicaciones. Sin embargo, Google ha tomado medidas para limitar esta capacidad, lo que puede ser problemático para los usuarios que desean controlar su seguridad y privacidad.
+    <link href="https://kant2002.github.io/en/git/hacking/2026/09/25/cloning-linux-on-windows.html"/>
+    <summary>El autor intentó clonar Linux en Windows utilizando Git, pero se encontró con un problema con el nombre de archivo 'prn.ap' que estaba reservado por Windows. Después de investigar y encontrar la causa del problema, el autor decidió reportar el problema a la comunidad de Git para Windows. Aunque no se resolvió de inmediato, el autor intentó encontrar soluciones alternativas y discutir con el maintainer, pero finalmente se dio cuenta de que en proyectos de código abierto, a veces hay un conflicto entre la velocidad del cambio y la prudencia del maintainer.
 
 Contexto IA (informativo):
-Google ha estado trabajando para mejorar la seguridad de Android, pero algunas medidas pueden ser problemáticas para los usuarios que desean controlar su seguridad y privacidad. La transparencia de certificados es una medida importante para la investigación de seguridad y privacidad, pero su implementación puede ser un obstáculo para los usuarios que desean interceptar el tráfico de las aplicaciones sin rootear su dispositivo.</summary>
-    <published>2026-09-23T08:26:45+00:00</published>
+El autor de la noticia es un desarrollador experimentado que ha trabajado con Git y otros sistemas de control de versiones. Ha encontrado varias formas de superar obstáculos y ha aprendido a ser paciente y persistente en su búsqueda de soluciones.</summary>
+    <published>2026-09-25T10:25:56+00:00</published>
   </entry>
   <entry>
-    <id>https://ipsator.com/blog/mysql-table-partitioning</id>
-    <title>[Programación] División de tablas en MySQL: Cómo redujimos el carga de base de más del 80%.</title>
-    <updated>2026-09-24T15:09:07.126862+00:00</updated>
+    <id>https://blog.dochia.dev/blog/retries/</id>
+    <title>[Programación] Cómo las reintentos convierten una caída corta en una larga</title>
+    <updated>2026-09-25T13:10:59.192439+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://ipsator.com/blog/mysql-table-partitioning"/>
-    <summary>Cuando las aplicaciones maduran y la adopción de los usuarios crece, las tablas de base de datos pueden acumular millones o incluso decenas de millones de registros. Esto puede llevar a mayores índices, consultas más lentas, mantenimiento más largo y costos de infra más altos. En una de nuestras aplicaciones de producción, el problema era similar: el volumen de pedidos crecía constantemente y la tabla había crecido a decenas de millones de filas. Los índices se habían vuelto demasiado grandes y habíamos alcanzado los límites de rendimiento. Después de varios años en producción, decidimos dividir la tabla para reducir el carga de base. Primero, identificamos las claves foráneas que se referían a la tabla de transacciones. Luego, eliminamos las claves foráneas de las tablas dependientes y verificamos que no hubiera problemas de referencialidad. Finalmente, dividimos la tabla en particiones y verificamos que todo funcionara correctamente. La clave para nuestro problema era que la mayoría de las consultas que se ejecutaban en la tabla de transacciones solo necesitaban un rango de fechas recientes. Por lo tanto, decidimos dividir la tabla para evitar que MySQL tuviera que escanear años de datos innecesarios. La división de tablas no fue una decisión casual y requirió considerar los riesgos y los beneficios. Al dividir la tabla, perdimos la referencialidad de las claves foráneas, pero pudimos reducir significativamente el carga de base. En resumen, dividir la tabla de transacciones fue la solución adecuada para nuestro problema, pero requirió una planificación cuidadosa y una ejecución exhaustiva.
+    <link href="https://blog.dochia.dev/blog/retries/"/>
+    <summary>La necesidad de reintentar es instintiva. Cuando algo no funciona, intentamos de nuevo. Esto se aplica tanto a un tarjeta de pago que rechaza como a un portal que no carga. En el código, también se reintentan cosas, y casi todos los sistemas de código que he trabajado tienen reintentos. Sin embargo, los reintentos pueden tener consecuencias negativas si no se manejan correctamente. En este artículo, exploraremos los posibles problemas con los reintentos y cómo abordarlos. Primero, consideremos el caso de un reintento simple, como un método que reintentará una llamada hasta tres veces. A continuación, examinaremos otros escenarios más complejos, como cuando un servidor tiene un problema y los reintentos solo empeoran. También exploraremos cómo los reintentos pueden afectar a la capacidad del servidor y cómo abordar estos problemas. En última instancia, el objetivo es encontrar una solución que equilibre la necesidad de reintentar con la necesidad de evitar sobrecargar el sistema. Los reintentos son una parte importante de muchos sistemas de código, pero es importante abordarlos con cuidado para evitar problemas. En este artículo, exploraremos cómo abordar estos problemas y encontrar una solución que funcione para todos los casos.
 
 Contexto IA (informativo):
-La decisión de dividir la tabla de transacciones fue un paso crucial para reducir el carga de base y mejorar el rendimiento de la aplicación. La clave para nuestro problema era que la mayoría de las consultas que se ejecutaban en la tabla de transacciones solo necesitaban un rango de fechas recientes. Por lo tanto, decidimos dividir la tabla para evitar que MySQL tuviera que escanear años de datos innecesarios.</summary>
-    <published>2026-09-24T11:30:26+00:00</published>
+Los reintentos son una parte común de muchos sistemas de código, pero también pueden tener consecuencias negativas si no se manejan correctamente. Es importante abordar estos problemas con cuidado para evitar sobrecargar el sistema y garantizar que el sistema funcione correctamente.</summary>
+    <published>2026-09-25T11:43:06+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/socialawy/you-cant-buy-the-best-local-ai-pc-in-2026-2i70</id>
-    <title>[Programación] No se puede comprar el mejor PC de AI local en 2026</title>
-    <updated>2026-09-24T15:09:07.126771+00:00</updated>
+    <id>https://visualneo.com/visualneo-win/from-neobook-to-visualneo-win-30-years-of-keeping-a-development-tool-alive</id>
+    <title>[Programación] Mantenemos un desarrollo de herramienta que se lanzó en 1993. ¿Qué veo en 30+ años de compatibilidad retroactiva?</title>
+    <updated>2026-09-25T13:10:59.192402+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://visualneo.com/visualneo-win/from-neobook-to-visualneo-win-30-years-of-keeping-a-development-tool-alive"/>
+    <summary>El desarrollo de VisualNEO Win, que comenzó como NeoBook en 1993, ha sobrevivido a lo largo de los años gracias a su compatibilidad retroactiva. Aunque el proyecto ha evolucionado, sigue siendo una herramienta de desarrollo visual que permite a los usuarios crear interfaces, agregar acciones y scripts, y compilar proyectos en un ejecutable de Windows. A lo largo de los años, se ha agregado una amplia gama de plug-ins que han permitido a los desarrolladores crear aplicaciones comerciales y de negocio. El desarrollo de NeoBook fue transferido al actual propietario en 2018, quien decidió mantener la compatibilidad retroactiva para evitar sorprender a los usuarios con cambios significativos. En 2026, se migró el entorno de desarrollo a Delphi 11, lo que agregó nuevas características y mejoras, pero mantuvo la compatibilidad con los proyectos antiguos.
+
+Contexto IA (informativo):
+La historia de VisualNEO Win es un ejemplo de cómo una herramienta de desarrollo puede sobrevivir a lo largo de los años gracias a su compatibilidad retroactiva. Aunque el proyecto ha evolucionado, sigue siendo una herramienta de desarrollo visual que permite a los usuarios crear interfaces, agregar acciones y scripts, y compilar proyectos en un ejecutable de Windows.</summary>
+    <published>2026-09-25T12:00:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/yanng981/open-source-jev-alternatives-system-one-models-you-can-self-host-i5e</id>
+    <title>[Programación] Alternativas de Jev de código abierto: modelos System One que puedes autocompiar</title>
+    <updated>2026-09-25T13:10:59.192363+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/socialawy/you-cant-buy-the-best-local-ai-pc-in-2026-2i70"/>
-    <summary>Hasta hace poco, un presupuesto de $2,500 colocaba a un comprador en la cima de la pirámide de consumo de computadoras. En 2026, $2,500 aún compra un ordenador extremadamente potente. Sin embargo, obtener rendimiento rápido de GPU de cálculo, capacidad de modelo local grande y compatibilidad con software de AI amplia y un camino fácil de actualización en una sola máquina ahora requiere un presupuesto mucho mayor. Los precios han subido y al mismo tiempo, los cargos de trabajo de AI han atraído el hardware en direcciones diferentes. El mercado de AI personal se ha dividido efectivamente en dos caminos principales: NVIDIA / CUDA: amplia compatibilidad con software y rendimiento de cálculo alto, pero capacidades de memoria unidas grandes se vuelven caras rápidamente. En el otro lado, la memoria unida grande: rendimiento depende mucho del stack de software. Un punto medio más caro se encuentra entre ellos: sistemas como NVIDIA DGX Spark y RTX PRO workstations combinan grandes capacidades de memoria con el ecosistema de NVIDIA. La pregunta útil en 2026 es: ¿cuál es el primer obstáculo que deseas eliminar?
+    <link href="https://dev.to/yanng981/open-source-jev-alternatives-system-one-models-you-can-self-host-i5e"/>
+    <summary>Después de que TypeSafe Jev introdujo los modelos System One el 15 de septiembre de 2026, surgieron alternativas de código abierto que realizan la misma función en tu propio hardware. Esta lista incluye las mejores opciones que aceptan solicitudes de Jev API sin cambios, y qué se toma para autocompiar uno. La ventaja de buscar una alternativa de Jev es que los datos permanecen en tu infraestructura, no hay costos a volumen, no hay cola, puedes fine-tunar y se pueden utilizar en entornos offline y de borde. Algunas de las mejores alternativas son Laya, Kev, Decider, Von y OpenThai-SystemOne, que ofrecen modelos de tamaño pequeño y gran capacidad para diferentes idiomas. También hay servidores Jev compatibles que ponen una API Jev estilo delante de un modelo abierto, lo que te permite cambiar de modelo sin modificar el código de tu cliente. Para cambiar de Jev a un modelo autocompiado, debes elegir un modelo, iniciar su servidor localmente y cambiar la URL de base en tu cliente. Es importante comparar la precisión y la latencia en tus propios datos y recalibrar los umbrales de confianza.
 
 Contexto IA (informativo):
-El mercado de hardware de AI se siente extraño porque una máquina con 128GB o 512GB de memoria unida puede cargar una clase de modelos que una tarjeta NVIDIA no puede contener por completo en VRAM, mientras que aún se ejecuta más lento que una tarjeta NVIDIA de 24GB o 32GB en los modelos que ambas pueden contener.</summary>
-    <published>2026-09-24T14:49:45+00:00</published>
+Los modelos System One de TypeSafe Jev son una introducción reciente, que permite enviar un estado y preguntas tipo y recibir respuestas con probabilidades en lugar de texto generado. Sin embargo, las alternativas de código abierto que ofrecen la misma función en tu propio hardware son una opción a considerar para aquellos que buscan costos, privacidad y latencia mejoradas.</summary>
+    <published>2026-09-25T12:55:18+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/nuvyantralabs_ccee/from-xamarin-to-net-maui-an-enterprise-migration-playbook-5g23</id>
-    <title>[Programación] Un plan de migración para aplicaciones móviles de empresas a .NET MAUI</title>
-    <updated>2026-09-24T15:09:07.126644+00:00</updated>
+    <id>https://dev.to/tech_ng/cybercrime-isnt-always-hacking-what-the-black-axe-extradition-case-teaches-us-about-social-5cc7</id>
+    <title>[Programación] El cybercrimen no siempre implica hacking: lo que el caso de extradición de Black Axe nos enseña sobre la ingeniería social</title>
+    <updated>2026-09-25T13:10:59.192309+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/nuvyantralabs_ccee/from-xamarin-to-net-maui-an-enterprise-migration-playbook-5g23"/>
-    <summary>La migración de una aplicación móvil de una empresa de Xamarin a .NET MAUI no es un proceso sencillo. Requiere una planificación cuidadosa y una estrategia de migración controlada. El objetivo es mover la aplicación a una plataforma moderna sin interrumpir el negocio. El plan de migración debe incluir una evaluación detallada de la aplicación, la creación de un inventario de migración y la documentación de los criterios de aceptación. Es importante establecer un baseline de datos de producción antes de comenzar la migración. La migración debe ser un proceso gradual y controlado, con checkpoints y validaciones regulares.
+    <link href="https://dev.to/tech_ng/cybercrime-isnt-always-hacking-what-the-black-axe-extradition-case-teaches-us-about-social-5cc7"/>
+    <summary>El caso de extradición de seis nigerianos acusados de ser miembros del Black Axe organizado del crimen ha resaltado la importancia de la ingeniería social en el cybercrimen. Los acusados utilizaron técnicas de romance y fraude para obtener dinero de más de 100 mujeres en Estados Unidos, con pérdidas estimadas en más de $6,2 millones. El caso destaca la necesidad de considerar dos modelos de ataque: el técnico y el social, y la importancia de la educación en seguridad y la cooperación internacional para combatir el crimen cibernético. Los acusados aún no han sido condenados y se les considera inocentes hasta que se les pruebe la culpabilidad.
 
 Contexto IA (informativo):
-La migración de una aplicación móvil de una empresa de Xamarin a .NET MAUI es un proceso complejo que requiere una planificación cuidadosa y una estrategia de migración controlada. La aplicación debe ser evaluada detalladamente para identificar las áreas que requieren atención especial. El plan de migración debe incluir la creación de un inventario de migración y la documentación de los criterios de aceptación. La migración debe ser un proceso gradual y controlado, con checkpoints y validaciones regulares, para asegurarse de que se minimicen los riesgos y se garantice la calidad del resultado final.</summary>
-    <published>2026-09-24T14:50:19+00:00</published>
+El caso de extradición de Black Axe es un ejemplo de cómo el cybercrimen puede tener implicaciones globales y cómo la ingeniería social puede ser una amenaza significativa para la seguridad en línea.</summary>
+    <published>2026-09-25T12:57:14+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/subratkumarpadhy/building-an-agentic-fraud-investigation-system-with-tigergraph-langgraph-mcp-obd</id>
-    <title>[Programación] Investigación de fraude agente con TigerGraph, LangGraph y MCP</title>
-    <updated>2026-09-24T15:09:07.126405+00:00</updated>
+    <id>https://dev.to/session_replay/your-own-browser-is-the-worst-instrument-you-own-for-testing-your-own-site-2hei</id>
+    <title>[Programación] Tu propio navegador es el peor instrumento que tienes para probar tu propio sitio</title>
+    <updated>2026-09-25T13:10:59.192216+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/subratkumarpadhy/building-an-agentic-fraud-investigation-system-with-tigergraph-langgraph-mcp-obd"/>
-    <summary>Un equipo de investigadores creó un sistema de investigación de fraude agente que utiliza LangGraph, TigerGraph Community Edition y NVIDIA NIM. El sistema investiga casos de fraude de manera end-to-end, generando narrativas de SAR en formato FinCEN para casos que requieren presentación regulatoria. El sistema es una capa de investigación que lleva a cabo la recopilación de evidencia, la investigación gráfica, la razón de política, la ejecución de acciones y la almacenamiento permanente de casos. El sistema se organiza en capas distintas, con el gráfico proporcionando el contexto de investigación, MCP exponiendo operaciones gráficas como herramientas y LangGraph coordinando el flujo de trabajo de investigación.
+    <link href="https://dev.to/session_replay/your-own-browser-is-the-worst-instrument-you-own-for-testing-your-own-site-2hei"/>
+    <summary>Un tipo de error que es invisible para la persona más adecuada para solucionarlo, debido a razones estructurales más que a la falta de cuidado. El ejemplo más claro es el bucle de redirección de inicio de sesión. El navegador encuentra una sesión inválida y redirige al /login. La página de inicio de sesión cree que está firmado y redirige de nuevo. Esto se repite hasta que el navegador se rinde. Esto reproduce para cada nuevo visitante, pero no para ti, porque tu cookie de sesión se estableció semanas atrás y funciona correctamente. No puedes verlo, y no importa cuánto cuidado pongas, no puedes verlo. Estás en un estado que la persona afectada no está, y no puedes salir de él mirando más. El reflejo, y lo que cubre
 
 Contexto IA (informativo):
-El sistema se basa en el uso de LangGraph como coordinador del flujo de trabajo de investigación, MCP para exponer operaciones gráficas como herramientas y NVIDIA NIM para la razón de política. El sistema utiliza TigerGraph Community Edition como substrate de investigación y memoria, y carga 41.011 transacciones, 5.565 casos cerrados, 1.927 tarjetas, 1.896 clientes, 2.034 perfiles de dispositivo, 47 dominios de correo electrónico y 96 regiones de facturación en el gráfico. El sistema investiga 20 casos de investigación y carga datos adicionales de transacciones relacionadas con casos para proporcionar contexto de investigación.</summary>
-    <published>2026-09-24T14:56:24+00:00</published>
+El reflejo es una ventana privada, y es un buen reflejo. Elimina cookies, almacenamiento y caché, lo que es la mayoría del estado del lado del cliente que te hace inrepresentativo. Sin embargo, no toca todo. Tu cuenta. Si el error depende de un usuario con datos antiguos, un conjunto de permisos inusuales o un registro creado antes de una migración, una ventana privada te da un navegador firmado y el mismo banco de datos. Inicia sesión de nuevo y estás de vuelta en tu cuenta privilegiada, bien seedada, con tres años de antigüedad.</summary>
+    <published>2026-09-25T12:57:59+00:00</published>
   </entry>
 </feed>
