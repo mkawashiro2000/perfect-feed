@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-09-25T13:10:59.192196+00:00</updated>
+  <updated>2026-09-26T13:07:11.920504+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,331 +11,331 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html</id>
-    <title>[Economía] Riesgo de calamidades financieras cuando los tipos de interés suben rápidamente</title>
-    <updated>2026-09-25T13:10:59.193185+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html</id>
+    <title>[Economía] La visita de Trump a Xi Jinping: más espectáculo que sustancia</title>
+    <updated>2026-09-26T13:07:11.921577+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html"/>
-    <summary>El aumento rápido de los tipos de interés en el mercado de bonos de 10 años ha generado preocupación en Wall Street. Según expertos, cuando los tipos de interés suben rápidamente, se ha producido una serie de calamidades financieras en el pasado. Los analistas advierten que este tiempo puede ser especialmente peligroso para el mercado, ya que los riesgos aumentan y los inversores deben ser cautelosos. Los bancos regionales y las empresas de servicios públicos están particularmente expuestos a estos riesgos.
+    <link href="https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html"/>
+    <summary>La visita de Donald Trump a Xi Jinping, líder chino, fue un evento de gran expectación que vio la participación de varios líderes mundiales. Aunque se esperaban acuerdos significativos, la realidad fue que la visita se centró más en la pageantería que en la sustancia. Trump y Xi firmaron una extensión del acuerdo comercial, pero no se alcanzaron acuerdos sobre la compra de bienes estadounidenses o la resolución de conflictos globales. La visita también vio la promesa de enviar pandas a Atlanta, pero no se alcanzaron acuerdos sobre la cuestión de la inteligencia artificial o la guerra en Irán. Los expertos consideran que la visita fue intencionalmente diseñada para mantener la calma en el mercado y evitar conflictos, especialmente en el contexto de las elecciones midterm en Estados Unidos. La visita también vio la reafirmación de la posición de China en la región del Pacífico y la importancia de la cooperación sin confrontación. En general, la visita se consideró un éxito para China, que se sintió bien recibida en Washington D.C. y se vio como un paso importante en la búsqueda de una relación más estrecha con Estados Unidos. Sin embargo, los expertos también advierten que la calma en el mercado puede no durar, y que la relación entre Estados Unidos y China sigue siendo volátil.
 
 Contexto IA (informativo):
-El aumento de los tipos de interés en el mercado de bonos de 10 años ha generado una serie de preocupaciones en Wall Street, ya que se ha producido un aumento rápido en los tipos de interés en el mercado de bonos de 10 años. Los expertos advierten que este tiempo puede ser especialmente peligroso para el mercado, ya que los riesgos aumentan y los inversores deben ser cautelosos. Los bancos regionales y las empresas de servicios públicos están particularmente expuestos a estos riesgos.</summary>
-    <published>2026-09-24T20:57:11+00:00</published>
+La visita de Trump a Xi Jinping fue un evento significativo en la política internacional, y vio la participación de varios líderes mundiales. La relación entre Estados Unidos y China sigue siendo un tema de gran interés y debate en la comunidad internacional.</summary>
+    <published>2026-09-25T21:38:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1</id>
-    <title>[Economía] Rusia apunta a centros de datos de Ucrania</title>
-    <updated>2026-09-25T13:10:59.193151+00:00</updated>
-    <author>
-      <name>International homepage</name>
-    </author>
-    <link href="https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1"/>
-    <summary>Los residentes de Kiev experimentan dos días de interrupciones en el internet, lo que genera preocupación sobre el acceso a servicios bancarios y otros servicios en línea. La situación ha sido descrita como 'grave' y 'peligrosa'. La agencia de seguridad de Ucrania ha informado que el ataque se centró en los centros de datos de varias empresas, incluyendo las de Google y Microsoft. La empresa de seguridad de Ucrania, Servicio de Protección de la Información, ha confirmado que el ataque se produjo en varias regiones del país y que se han interrumpido los servicios de internet en varias ciudades. Los expertos temen que este ataque podría tener consecuencias graves para la estabilidad del sistema financiero ucraniano y podría afectar la seguridad de los datos personales de los ciudadanos.
-
-Contexto IA (informativo):
-Este ataque se produce en un momento en que la situación en Ucrania sigue siendo tensa, con la guerra con Rusia que ha durado desde febrero de 2022. La situación ha sido descrita como 'grave' y 'peligrosa' por la comunidad internacional, que ha condenado el ataque y ha llamado a la paz y la negociación.</summary>
-    <published>2026-09-25T11:00:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html</id>
-    <title>[Economía] Un acuerdo entre Trump y China le da tiempo valioso</title>
-    <updated>2026-09-25T13:10:59.193118+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html</id>
+    <title>[Economía] Un enfrentamiento de 7 días que reveló mucho sobre Trump y los medios</title>
+    <updated>2026-09-26T13:07:11.921544+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html"/>
-    <summary>El presidente Trump se reunió con el líder chino Xi Jinping el jueves. Las tensiones comerciales con Estados Unidos, que en un momento parecían representar una gran amenaza para China, han disminuido. La reunión se llevó a cabo en un contexto de esfuerzos por resolver las diferencias comerciales entre ambos países. Los expertos consideran que el acuerdo puede proporcionar a China un período de tiempo para reestructurar su economía y prepararse para las negociaciones futuras. Sin embargo, también hay preocupación sobre la falta de progreso en algunos aspectos del acuerdo.
+    <link href="https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"/>
+    <summary>El periodista James Gordon Meissner, que cubrió el evento, describió el ambiente tenso y la falta de cooperación por parte de la administración Trump. El periodista afirmó que la presencia de Xi Jinping en la Casa Blanca fue un momento significativo en la relación entre Estados Unidos y China. La reunión también generó un gran interés en los medios, con muchos periodistas presentes en el evento.
 
 Contexto IA (informativo):
-La reunión entre Trump y Xi Jinping se llevó a cabo en un momento en que las tensiones comerciales entre Estados Unidos y China parecían alcanzar su punto más alto. La presión sobre China para reestructurar su economía y abordar las preocupaciones de Estados Unidos sobre su comercio desigual y su apoyo a estados separatistas es significativa.</summary>
-    <published>2026-09-25T11:59:29+00:00</published>
+La reunión fue vista como un paso importante en la relación entre Estados Unidos y China, y generó un gran interés en los medios. La presencia de Xi Jinping en la Casa Blanca fue un momento significativo en la historia reciente de la relación entre ambos países.</summary>
+    <published>2026-09-26T09:03:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html</id>
-    <title>[Economía] Irán ofrece a reabrir el Estrecho de Hormuz y reanudar conversaciones nucleares en 7 días</title>
-    <updated>2026-09-25T13:10:59.193085+00:00</updated>
+    <id>https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html</id>
+    <title>[Economía] Aerolíneas anulan los costos de cambio de vuelo a medida que se acerca el nor'easter</title>
+    <updated>2026-09-26T13:07:11.921506+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html"/>
-    <summary>El ministro de Exteriores de Irán, Abbas Araghchi, ha propuesto reabrir el Estrecho de Hormuz y reanudar conversaciones nucleares con EE. UU. dentro de 7 días si se aceptan sus condiciones. El presidente de Irán, Masoud Pezeshkian, ha expresado su disposición a negociar, pero ha rechazado cualquier ayuda militar de China. La situación en el Medio Oriente sigue siendo tensa, con ataques de misiles contra Arabia Saudita y una guerra que ha durado casi 7 meses. El presidente de EE. UU., Donald Trump, ha expresado su deseo de que se termine la guerra, pero no ha dado indicaciones claras sobre cómo lograrlo. La situación sigue siendo incierta, y se espera que se mantenga la tensión en las próximas semanas.
+    <link href="https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html"/>
+    <summary>Las aerolíneas estadounidenses han anulado los costos de cambio de vuelo para los días viernes, sábado y domingo, a medida que se acerca el nor'easter que amenaza con fuertes vientos y lluvias, con el potencial de inundaciones peligrosas. Hasta el sábado por la mañana, se habían cancelado alrededor de 250 vuelos de Boston, un cuarto de la programación del día, según FlightAware. Los vuelos a y desde el Aeropuerto de LaGuardia en Nueva York se habían retrasado el viernes más de 60% de la programación, con decenas de otros retrasados en aeropuertos de Nueva Inglaterra y Nueva York. Las aerolíneas están evaluando el potencial del nor'easter y su impacto, pero cancelarán una gran parte de sus programaciones durante tormentas de invierno o huracanes para asegurarse de que los aviones, pasajeros y tripulaciones no estén fuera de lugar. American Airlines, United Airlines, Delta Air Lines y JetBlue Airways permiten a los clientes cambiar vuelos a una variedad de aeropuertos en la zona de Nueva York, Boston y aeropuertos más pequeños de Nueva Inglaterra sin pagar un costo de cambio o diferencia de tarifa si pueden volar en cualquier momento antes de la mitad de la semana siguiente.
 
 Contexto IA (informativo):
-La situación en el Medio Oriente sigue siendo tensa, con la guerra entre Irán y EE. UU. que ha durado casi 7 meses. La situación se ha agudizado con ataques de misiles contra Arabia Saudita y una creciente presión de China para que se termine la guerra. El presidente de EE. UU., Donald Trump, ha expresado su deseo de que se termine la guerra, pero no ha dado indicaciones claras sobre cómo lograrlo.</summary>
-    <published>2026-09-25T12:39:00+00:00</published>
+El nor'easter se acerca con fuertes vientos y lluvias, lo que podría causar inundaciones peligrosas. Las aerolíneas están preparándose para posibles retrasos y cancelaciones de vuelos.</summary>
+    <published>2026-09-26T12:19:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-09-25/treasury-volatility-set-for-biggest-jump-in-year-as-bonds-churn</id>
-    <title>[Economía] La volatilidad del Tesoro alcanza su mayor salto en un año</title>
-    <updated>2026-09-25T13:10:59.193052+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-26/higher-bond-yields-mark-a-return-to-normal-video</id>
+    <title>[Economía] Aumentos de los rendimientos de la deuda indican un regreso a la normalidad</title>
+    <updated>2026-09-26T13:07:11.921474+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-25/treasury-volatility-set-for-biggest-jump-in-year-as-bonds-churn"/>
-    <summary>La volatilidad del Tesoro está a punto de alcanzar su mayor salto en más de un año, tras los altos rendimientos de las bonas que han sacudido el mercado de su letargo reciente. Los inversores están nerviosos ante la perspectiva de una mayor incertidumbre en el mercado. La tendencia de los rendimientos de las bonas ha sido particularmente significativa en los últimos meses, lo que ha llevado a una mayor inestabilidad en el mercado de valores. La volatilidad del Tesoro ha sido un tema de preocupación para los inversores y los expertos en economía en los últimos tiempos.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-26/higher-bond-yields-mark-a-return-to-normal-video"/>
+    <summary>Según el fundador de Ritholtz Wealth Management, Barry Ritholtz, los aumentos de los rendimientos de la deuda reflejan tanto la normalización de las tasas de interés como las presiones inflacionarias causadas por factores como los aranceles y los precios de la energía más altos. Ritholtz sostiene que los rendimientos más altos han hecho que la deuda fija sea más atractiva para los inversores, mientras que deben considerar si las ganancias fuertes de las acciones han empujado sus carteras lejos de sus asignaciones intencionadas. (Fuente: Bloomberg)
 
 Contexto IA (informativo):
-La tendencia de los rendimientos de las bonas ha sido particularmente significativa en los últimos meses, lo que ha llevado a una mayor inestabilidad en el mercado de valores. La volatilidad del Tesoro ha sido un tema de preocupación para los inversores y los expertos en economía en los últimos tiempos.</summary>
-    <published>2026-09-25T12:41:52+00:00</published>
+El fundador de Ritholtz Wealth Management, Barry Ritholtz, expresó su opinión en una entrevista con los anfitriones de Bloomberg This Weekend. La entrevista se llevó a cabo con los anfitriones David Gura y Christina Ruffini.</summary>
+    <published>2026-09-26T12:33:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-09-25/nse-ceo-on-growth-after-landmark-listing-video</id>
-    <title>[Economía] CEO de la NSE habla sobre crecimiento después de la lista de mercado</title>
-    <updated>2026-09-25T13:10:59.193020+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-09-26/by-the-way-headlines-you-may-have-missed-video</id>
+    <title>[Economía] Por casualidad: Títulos que podrías haber perdido</title>
+    <updated>2026-09-26T13:07:11.921438+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-25/nse-ceo-on-growth-after-landmark-listing-video"/>
-    <summary>Después del IPO exitoso de la NSE y su debut en el mercado de valores, el CEO Ashishkumar Chauhan habla sobre las oportunidades de crecimiento de la exchange más allá de las derivadas. Explica planes para expandir productos relacionados con commodities, bonos y oro, mientras se amplía la participación de los inversores en los mercados de capital de la India. Según Bloomberg.
+    <link href="https://www.bloomberg.com/news/videos/2026-09-26/by-the-way-headlines-you-may-have-missed-video"/>
+    <summary>En este programa, Alexis Christoforous, David Gura y Christina Ruffini presentan una selección de noticias que podrías haber olvidado, pero que son importantes de ver. Entre ellas, se habla de un caso de contrabando de mantequilla en un campus, la importancia de llevar café helado a una entrevista de trabajo y la pregunta del día: ¿qué hay para cenar?
 
 Contexto IA (informativo):
-La NSE celebró un gran éxito su IPO y su debut en el mercado de valores, lo que ha generado interés en la exchange y su crecimiento futuro.</summary>
-    <published>2026-09-25T12:51:06+00:00</published>
+El programa es una revisión de las noticias más destacadas del día, presentadas por un equipo de presentadores experimentados.</summary>
+    <published>2026-09-26T12:40:10+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/</id>
-    <title>[Data Science] ¿Cómo cambia el Jev de TypeSafe en la construcción de aplicaciones de inteligencia artificial?</title>
-    <updated>2026-09-25T13:10:59.192986+00:00</updated>
+    <id>https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</id>
+    <title>[Economía] ¿Dónde está mi descuento? La A.I. hace que las firmas de abogados sean más eficientes</title>
+    <updated>2026-09-26T13:07:11.921405+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/"/>
-    <summary>El modelo Jev de TypeSafe es un avance significativo en la inteligencia artificial, ya que puede clasificar, calificar y rutas sin escribir un solo texto. Esto lo hace radicalmente más rápido y económico que los modelos de LLM (llamadas a la acción) para realizar tareas similares. El modelo Jev es 40 a 200 veces más rápido y 40 a 400 veces más económico que los modelos de LLM. En pruebas independientes, el modelo Jev ha demostrado una precisión del 68% y una velocidad de 0,4 segundos por caso, lo que lo convierte en una opción atractiva para las aplicaciones de inteligencia artificial. Sin embargo, es importante tener en cuenta que el modelo Jev no puede generar texto y puede dar respuestas incorrectas dentro de su esquema de trabajo. La pregunta es si este avance cambiará la forma en que construimos nuestras aplicaciones de inteligencia artificial.
+    <link href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"/>
+    <summary>Los clientes están presionando a las firmas de abogados para que dejen de medir el tiempo en las horas facturables. Sin embargo, las grandes firmas no están dispuestas a cambiar su modelo de negocio. Muchos clientes se sienten frustrados al no recibir descuentos por la eficiencia de la A.I. en la gestión de casos. La industria está en un punto de inflexión, pero la adopción de nuevas tecnologías es lenta. Los clientes esperan ver cambios más rápidos en el futuro.
 
 Contexto IA (informativo):
-El modelo Jev de TypeSafe es un avance significativo en la inteligencia artificial, ya que puede clasificar, calificar y rutas sin escribir un solo texto. Esto lo hace radicalmente más rápido y económico que los modelos de LLM (llamadas a la acción) para realizar tareas similares.</summary>
-    <published>2026-09-23T16:28:07+00:00</published>
+La A.I. está revolucionando la forma en que las firmas de abogados gestionan casos y proporcionan servicios legales. Sin embargo, la mayoría de las firmas siguen utilizando el sistema de facturación por hora, lo que puede ser frustrante para los clientes que ven la eficiencia de la A.I. como una oportunidad para obtener descuentos.</summary>
+    <published>2026-09-26T12:45:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/when-software-subscriptions-become-public-policy/</id>
-    <title>[Data Science] Cuándo las suscripciones de software se convierten en política pública</title>
-    <updated>2026-09-25T13:10:59.192948+00:00</updated>
+    <id>https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills</id>
+    <title>[Data Science] 7 Trucos Avanzados de Python para Aumentar tus Habilidades de Programación</title>
+    <updated>2026-09-26T13:07:11.921368+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.oreilly.com/radar/when-software-subscriptions-become-public-policy/"/>
-    <summary>Mi conversación con Dan Gookin, el autor original de For Dummies y ahora alcalde de Coeur d’Alene, Idaho, comenzó como una reunión de publicación. Se convirtió en una cuestión más amplia: ¿Qué sucede cuando la software que alquilas se convierte en infraestructura que no puedes dejar? Dan Gookin, quien escribió más de 180 libros de tecnología con más de 12 millones de copias impresas, expresó su preocupación por la falta de control práctico sobre la información de la ciudad. También mencionó que la ciudad paga $700,000 al año por una suscripción de software, lo que le preocupa porque no sabe si podrá recuperar sus datos si el proveedor es hackeado o si la ciudad decide cambiar. Dan Gookin cree que la reversibilidad es una propiedad arquitectónica que debe ser considerada en la evaluación de software. También mencionó que la ciudad debería tener una política más clara sobre la exportación de datos y la migración de conocimientos institucionales. En resumen, Dan Gookin está preocupado por la falta de control y la falta de transparencia en las suscripciones de software, y cree que la ciudad debe tomar medidas para proteger sus intereses
+    <link href="https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills"/>
+    <summary>A nivel avanzado, Python ofrece muchas soluciones que no se mencionan en los tutoriales. En este artículo, exploraremos 7 trucos que pueden mejorar tus habilidades de programación. Comenzaremos con la utilización de iter() para leer archivos de manera eficiente, luego exploraremos la gestión de recursos con ExitStack, la manipulación de datos binarios con memoryview, la gestión de excepciones con ExceptionGroup, la creación de configuraciones con ChainMap y más. Cada truco viene con su propio conjunto de ventajas y desventajas, por lo que es importante entender cómo funcionan antes de implementarlos en tus proyectos.
 
 Contexto IA (informativo):
-Dan Gookin, quien es alcalde de Coeur d’Alene, Idaho, ha comenzado a pensar en la ciudad’s software de manera similar a como ha estado pensando en su propia. También ha expresado su preocupación por la falta de control práctico sobre la información de la ciudad y la posibilidad de que el proveedor de software sea hackeado o que la ciudad decida cambiar.</summary>
-    <published>2026-09-24T10:54:23+00:00</published>
+En la programación, es común sentir que hay algo más que se puede hacer. A nivel avanzado, Python ofrece muchas soluciones que no se mencionan en los tutoriales. Estos trucos pueden mejorar tus habilidades de programación y hacer que tus proyectos sean más eficientes y escalables.</summary>
+    <published>2026-09-25T12:00:22+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/</id>
-    <title>[Data Science] Jev vs. LLMs: Cuando el AI se mueve de la generación a la toma de decisiones</title>
-    <updated>2026-09-25T13:10:59.192913+00:00</updated>
+    <id>https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/</id>
+    <title>[Data Science] Elige el Primitive de Acción Correcto para Agentes de Inteligencia Artificial</title>
+    <updated>2026-09-26T13:07:11.921336+00:00</updated>
+    <author>
+      <name>MachineLearningMastery.com</name>
+    </author>
+    <link href="https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/"/>
+    <summary>Este artículo explora las diferencias entre el llamado a herramientas y la ejecución de código como primitives de acción para agentes de inteligencia artificial. Aprende sobre las ventajas y desventajas de cada enfoque, y cómo elegir el correcto según las necesidades de tu proyecto. El artículo también proporciona un marco de decisión basado en números para ayudarte a tomar la mejor decisión para tu aplicación.
+
+Contexto IA (informativo):
+La elección del primitive de acción correcto puede tener consecuencias significativas en términos de costo, latencia y precisión. Es importante entender las diferencias entre el llamado a herramientas y la ejecución de código, y cómo cada enfoque se aplica en diferentes escenarios.</summary>
+    <published>2026-09-25T12:00:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization</id>
+    <title>[Data Science] Optimización de SLM mediante batcheo por longitud en lugar de procesar item por item</title>
+    <updated>2026-09-26T13:07:11.921300+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization"/>
+    <summary>En este artículo, se explora la optimización de modelos de lenguaje grande (SLM) mediante el batcheo por longitud en lugar de procesar item por item. Se analiza cómo este enfoque puede reducir el desperdicio de memoria y velocidad de procesamiento. Se presentan los resultados de benchmarks realizados con el modelo Qwen2.5-0.5B-Instruct, y se discuten las implicaciones de este enfoque para la automatización de la resolución de problemas de soporte.
+
+Contexto IA (informativo):
+El batcheo por longitud es una técnica que se utiliza para reducir el desperdicio de memoria y velocidad de procesamiento en los modelos de lenguaje grande. Se trata de agrupar los datos en lotes de tamaño similar y procesarlos de manera conjunta, en lugar de procesar cada item por separado. Este enfoque puede ser particularmente útil en aplicaciones de automatización de la resolución de problemas de soporte, donde se necesitan procesar grandes cantidades de datos de manera eficiente.</summary>
+    <published>2026-09-25T14:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/</id>
+    <title>[Data Science] 10 Cosas que Estoy Aprendiendo Más Allá de la Inteligencia Artificial para Convertirme en un Profissional Tecnológicamente Fluido</title>
+    <updated>2026-09-26T13:07:11.921261+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/"/>
-    <summary>El autor probó el modelo Jev de TypeSafe AI en 3.080 tareas de clasificación para comparar su precisión, latencia, calibración y confianza con los LLMs y determinar si funciona como una capa de decisión práctica para los sistemas de AI. El modelo Jev es un System One, no un reemplazo de los LLMs, sino una capa más especializada para decisiones rápidas y estructuradas. En comparación con los LLMs, que son excelentes en lenguaje abierto, explicación y razonamiento, Jev se enfoca en decisiones más pequeñas y estructuradas, como la clasificación, la ruta, el filtrado y los controles de seguridad. Los resultados iniciales de Jev fueron lo que lo llamaron la atención, ya que en pruebas de clasificación y en la medición de la velocidad, Jev superó a otros modelos. Sin embargo, la confianza es un aspecto crucial que requiere ser cuidado, ya que los LLMs pueden cometer errores de confianza. El autor decidió probar Jev para compararlo con Qwen en 3.080 mensajes bancarios, evaluando no solo la precisión, sino también la velocidad y la confianza. El modelo Jev se llama así en honor a William Stanley Jevons, el economista del siglo XIX que descubrió el paradoja de Jevons, y se llama System One en referencia a la teoría de Daniel Kahneman sobre el pensamiento rápido y lento. El modelo Jev es una evolución de los clasificadores de texto BERT-style, pero con una técnica más avanzada que permite la asignación de textos a categorías de manera más precisa y rápida.
+    <link href="https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/"/>
+    <summary>En un mundo donde la inteligencia artificial (IA) parece dominar cada aspecto de nuestra vida, es importante recordar que la IA es solo una pieza de un panorama tecnológico más amplio. Para convertirse en un profesional tecnológicamente sofisticado, es necesario seguir aprendiendo y expandiendo el conocimiento. El autor de esta entrada se ha dado cuenta de que la IA puede ser un recurso valioso para aprender sobre la tecnología más allá de su uso en tareas fáciles. Ha leído cientos de artículos, utilizado la IA para entender conceptos complejos y anotado palabras clave que pueden no hacerse notorias pero que tienen un impacto significativo en la forma en que operamos en el mundo digital. El objetivo es convertirse en un profesional más tecnológicamente flujo, que comprende los sistemas que están cambiando nuestras vidas y carreras. En este artículo, se exploran dos áreas clave: la evolución de los ordenadores y la criptografía cuántica. La primera se centra en la física cuántica y su aplicación en la computación cuántica, mientras que la segunda aborda la seguridad de la información en un mundo donde los ordenadores cuánticos pueden resolver problemas matemáticos complejos en un tiempo récord. Es importante entender cómo la tecnología puede cambiar nuestra vida y cómo podemos prepararnos para estos cambios.
 
 Contexto IA (informativo):
-El modelo Jev es una capa de decisión para sistemas de AI que busca mejorar la velocidad y la precisión en tareas de clasificación y otros procesos de toma de decisiones. Su creación se inspira en la teoría de Daniel Kahneman sobre el pensamiento rápido y lento, y se llama así en honor a William Stanley Jevons, el economista del siglo XIX que descubrió el paradoja de Jevons. El modelo Jev es una evolución de los clasificadores de texto BERT-style, pero con una técnica más avanzada que permite la asignación de textos a categorías de manera más precisa y rápida.</summary>
-    <published>2026-09-25T11:00:01+00:00</published>
+La creciente dependencia de la tecnología en nuestras vidas y carreras nos recuerda la importancia de seguir aprendiendo y expandiendo nuestro conocimiento. La inteligencia artificial es solo una herramienta entre muchas que pueden ayudarnos a entender y aprovechar al máximo las oportunidades que la tecnología ofrece.</summary>
+    <published>2026-09-25T15:30:01+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/</id>
-    <title>[Data Science] No es un agente — Construí la capa entre la búsqueda y la acción</title>
-    <updated>2026-09-25T13:10:59.192879+00:00</updated>
+    <id>https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/</id>
+    <title>[Data Science] El espacio curvo de las páginas en un modelo de lenguaje</title>
+    <updated>2026-09-26T13:07:11.921225+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/"/>
-    <summary>RAG busca información. Los agentes actúan. Quería ver qué sucede cuando se combinan ambos en lugar de asumir que ambos son necesarios. Construí tres versiones: una que busca información, una que planifica acciones deterministas y una que conecta la búsqueda con las acciones. Luego ejecuté las mismas nueve tareas a través de todas las tres. Encontré dos errores reales mientras construía el sistema. Muestro ambos errores, junto con el output del terminal antes y después de solucionarlos. Este no es solo una comparación conceptual. Es una implementación pequeña y funcional con resultados medidos, más una verificación de fuentes de verdad que atrapó un error del parser antes de ejecutar los tests finales. La suposición que encontré continuamente
+    <link href="https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/"/>
+    <summary>Un experimento diseñado para investigar si el modelo de lenguaje captura la posición de manera similar a como lo hace nuestra intuición. El autor analiza cómo el modelo de lenguaje maneja la estructura jerárquica del texto, que no se captura con la codificación estándar de posición. El autor presenta un nuevo mecanismo de codificación jerárquica, hRoPE, que permite separar la posición en diferentes niveles. Los resultados muestran que el modelo de lenguaje puede aprender a reconocer límites y estructuras jerárquicas en el texto, incluso cuando se le proporciona información adicional sobre la posición.
 
 Contexto IA (informativo):
-Comencé a construir un sistema RAG para responder preguntas a partir de mi propia documentación. El conocimiento funcionó. Luego quería que cambiara algo después de encontrar la respuesta. No podía hacerlo. Un ticket de soporte. Alguien presenta un ticket y necesita una categoría. La categoría correcta se basa en la información de la documentación interna. Un sistema RAG puede encontrar esa información, pero no actualiza automáticamente el ticket. Un sistema de acción tiene la otra mitad. Puede actualizar el ticket, pero necesita saber qué categoría usar. Esto era el parte que quería probar. ¿Qué sucede cuando se mantienen la búsqueda y la acción separadas? ¿Qué sucede cuando se conectan?</summary>
-    <published>2026-09-25T12:30:01+00:00</published>
+El autor se refiere a la teoría de la relatividad general, que describe la estructura del espacio-tiempo. En este contexto, la posición no es solo una cuestión de distancia, sino también de la estructura jerárquica del espacio. El autor busca entender cómo el modelo de lenguaje maneja esta estructura jerárquica y cómo puede ser mejorada para mejorar su capacidad para reconocer límites y estructuras en el texto.</summary>
+    <published>2026-09-26T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/</id>
-    <title>[Fórmula 1] Por qué el incidente peligroso de Hamilton-Lawson en la práctica de Azerbaiyán no ha llevado a cambios</title>
-    <updated>2026-09-25T13:10:59.192846+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/"/>
-    <summary>Lewis Hamilton fue reprimado por impedir a Liam Lawson durante la segunda práctica de FP2, pero esto no fue el final del asunto. Antes de que un solo coche hubiera girado una rueda en el Circuito de la Ciudad de Bakú, se habían planteado preocupaciones sobre cómo los coches que corrían lentamente para recoger o conservar energía eléctrica a través de las últimas curvas podrían representar una peligrosidad para aquellos que hacían una vuelta de empuje. En el pasado...
-
-Contexto IA (informativo):
-En el pasado, se han producido incidentes similares en otros circuitos, lo que ha llevado a cambios en las normas de seguridad.</summary>
-    <published>2026-09-25T08:42:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/f1-urged-to-rethink-sprint-points-system-as-calendar-expands-in-2027/10858799/</id>
-    <title>[Fórmula 1] F1 debe reevaluar el sistema de puntos de sprint como el calendario se amplía en 2027</title>
-    <updated>2026-09-25T13:10:59.192814+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/f1-urged-to-rethink-sprint-points-system-as-calendar-expands-in-2027/10858799/"/>
-    <summary>Según el presentador Will Buxton, la F1 debe revisar su sistema de puntos de sprint y reevaluar las restricciones de pruebas aerodinámicas para adaptarse a un calendario de finales de sprint que se amplía en 2027. El calendario de 2027 incluye 10 finales de sprint en Bahrain, Australia, Japón, Canadá, Mónaco, Reino Unido, Italia, Brasil, Catar y Abu Dhabi. Buxton lo expresó durante una aparición en el podcast Up To Speed
-
-Contexto IA (informativo):
-El sistema de puntos de sprint ha sido objeto de críticas en el pasado, y algunos expertos creen que es necesario hacer cambios para garantizar una competencia más equilibrada y emocionante.</summary>
-    <published>2026-09-25T09:11:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp3-report/10858797/</id>
-    <title>[Fórmula 1] Max Verstappen lidera en la práctica final del GP de Azerbaiyán</title>
-    <updated>2026-09-25T13:10:59.192782+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp3-report/10858797/"/>
-    <summary>Max Verstappen de Red Bull sorprendentemente lideró la práctica final del GP de Azerbaiyán, superando a George Russell de Mercedes y a Lewis Hamilton de Ferrari en el circuito de Baku. Verstappen se impuso al final de la sesión de una hora, cuando los equipos cambiaron a carreras de calificación, desafiando el favorito de Mercedes en Baku al aprovechar una gran corriente de aire para ir ...
-
-Contexto IA (informativo):
-La práctica final del GP de Azerbaiyán fue una sesión intensa, con los pilotos ajustando sus carreras para la calificación. La victoria de Verstappen sorprendió a muchos, pero no cambió la dinámica de la carrera, que sigue siendo entre Verstappen y Hamilton.</summary>
-    <published>2026-09-25T09:37:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp3-report-10858801/10858801/</id>
-    <title>[Fórmula 1] Verstappen supera a Russell y Hamilton en FP3 de GP de Azerbaiyán</title>
-    <updated>2026-09-25T13:10:59.192750+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp3-report-10858801/10858801/"/>
-    <summary>Max Verstappen de Red Bull sorprendentemente lideró la tercera y final práctica del GP de Azerbaiyán, superando a George Russell de Mercedes y Lewis Hamilton de Ferrari en el circuito de Baku. Verstappen se impuso al final de la sesión de una hora, aprovechando un gran esguince para pasar a la fase de calificación, desafiando la favorita de Mercedes en Baku.
-
-Contexto IA (informativo):
-La victoria de Verstappen en la práctica fue un golpe para Mercedes, que habían sido considerados favoritos en Baku. La sesión de calificación será crucial para determinar la orden de salida en la carrera.</summary>
-    <published>2026-09-25T09:38:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/09/25/verstappen-takes-charge-in-third-f1-practice-session-at-baku</id>
-    <title>[Fórmula 1] Verstappen toma el control en la tercera sesión de práctica de F1 en Baku</title>
-    <updated>2026-09-25T13:10:59.192718+00:00</updated>
+    <id>https://racer.com/2026/09/25/blaney-and-his-black-eye-get-ready-to-get-back-to-racing-at-kansas</id>
+    <title>[Fórmula 1] Blaney y su ojo negro se preparan para volver a la carrera en Kansas</title>
+    <updated>2026-09-26T13:07:11.921190+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/25/verstappen-takes-charge-in-third-f1-practice-session-at-baku"/>
-    <summary>Max Verstappen lideró la tercera sesión de práctica de F1 en Baku, superando a George Russell y Lewis Hamilton. Esto impidió a Mercedes un limpio dominio en la sesión de práctica. Verstappen demostró su habilidad para adaptarse a las condiciones del circuito. La victoria de Verstappen en la tercera sesión de práctica es un buen indicador de su potencial en la carrera.
+    <link href="https://racer.com/2026/09/25/blaney-and-his-black-eye-get-ready-to-get-back-to-racing-at-kansas"/>
+    <summary>Ryan Blaney regresará a Kansas Speedway después de su lesión en el último evento de NASCAR Cup Series. El conductor se vio afectado por un accidente en el circuito y ahora se encuentra recuperándose. Blaney está listo para volver a la acción y competir en el evento de este fin de semana.
 
 Contexto IA (informativo):
-La tercera sesión de práctica de F1 en Baku es una oportunidad para los pilotos ajustar sus vehículos y prepararse para la carrera. La competencia es fuerte y cualquier pequeño error puede tener consecuencias.</summary>
-    <published>2026-09-25T11:15:17+00:00</published>
+El accidente ocurrió durante una práctica de carreras y Blaney sufrió una lesión en la cara que lo obligó a abandonar el evento. Aunque aún se recupera, Blaney está decidido a volver a la pista y demostrar su capacidad como conductor.</summary>
+    <published>2026-09-25T20:40:26+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/09/25/martins-puts-alpine-on-top-for-second-wec-practice-at-fuji</id>
-    <title>[Fórmula 1] Martins lidera el camino con Alpine en segunda práctica WEC en Fuji</title>
-    <updated>2026-09-25T13:10:59.192684+00:00</updated>
+    <id>https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/</id>
+    <title>[Fórmula 1] ¿Por qué Verstappen siente que Baku fue la mejor oportunidad para Red Bull ganar en F1 2026</title>
+    <updated>2026-09-26T13:07:11.921157+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/"/>
+    <summary>Max Verstappen admitió que una falla en el motor de combustión interna le costó una buena posición de partida para el Gran Premio de Azerbaiyán de F1. Aunque no podría haber superado el tiempo de pole de George Russell, una posición en la primera fila habría sido lógica dada la gran brecha que lo separaba. Sin embargo, debido a un problema con el motor de Red Bull, la oportunidad de ganar se perdió. Verstappen reconoció que el problema con el motor fue un factor clave en su pobre rendimiento durante el fin de semana.
+
+Contexto IA (informativo):
+El problema con el motor de combustión interna que afectó a Verstappen durante el fin de semana fue un tema de conversación entre los pilotos y los técnicos de las escuderías. Los expertos analizaron la situación y concluyeron que el problema con el motor fue un factor importante en la pobre rendimiento de Verstappen durante el Gran Premio de Azerbaiyán.</summary>
+    <published>2026-09-26T06:54:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://racer.com/2026/09/26/no-36-alpine-on-fuji-pole-after-qualifying-washout</id>
+    <title>[Fórmula 1] N.° 36 Alpine en la pole posición después de la cancelación de la clasificación</title>
+    <updated>2026-09-26T13:07:11.921124+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/09/25/martins-puts-alpine-on-top-for-second-wec-practice-at-fuji"/>
-    <summary>El equipo Alpine Endurance Team logró un buen resultado en la segunda práctica de la WEC en el circuito de Fuji, con el número 36 A424 liderando las tiempos con un tiempo de 1m29.304s de Victor Martins. Este tiempo superó al de Ryo Hirakawa, quien logró un tiempo de 1m29.6s. La práctica se centró en un simulacro de calificación temprano, lo que permitió a los pilotos ajustar sus vehículos y mejorar su rendimiento.
+    <link href="https://racer.com/2026/09/26/no-36-alpine-on-fuji-pole-after-qualifying-washout"/>
+    <summary>La clasificación de la prueba se canceló debido a condiciones climáticas adversas, lo que significa que el Alpine, que era el líder en el ritmo de práctica, se colocará en la pole posición para la carrera del domingo. El equipo francés se prepara para la 6 Horas de Fuji.
 
 Contexto IA (informativo):
-La segunda práctica de la WEC en Fuji se llevó a cabo en un entorno de simulación de calificación, lo que permitió a los pilotos probar diferentes estrategias y ajustes en sus vehículos. El equipo Alpine Endurance Team se mostró comprometido con su objetivo de lograr un buen resultado en la carrera.</summary>
-    <published>2026-09-25T11:42:46+00:00</published>
+El clima en el circuito de Fuji se volvió incierto justo antes de la clasificación, lo que obligó a cancelar la sesión de práctica.</summary>
+    <published>2026-09-26T10:36:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28/</id>
-    <title>[Tecnología] Prueba de vuelo orbital de Starship SpaceX en curso después de un ensayo de lanzamiento exitoso</title>
-    <updated>2026-09-25T13:10:59.192649+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/f1-azerbaijan-gp-report/10859223/</id>
+    <title>[Fórmula 1] George Russell gana la carrera de F1 de Azerbaiyán</title>
+    <updated>2026-09-26T13:07:11.921091+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28/"/>
-    <summary>La empresa SpaceX ha realizado un ensayo de lanzamiento exitoso para su vehículo Starship, lo que indica que la prueba de vuelo orbital programada para el 28 de septiembre está en curso. El vehículo se encuentra listo para su próximo vuelo de prueba, que será un hito importante para el vehículo si todo sale según lo planeado. El ensayo de lanzamiento simuló la secuencia de lanzamiento completa, incluyendo la carga de propulentes líquidos, la verificación de la software y la comunicación con el equipo de tierra. El equipo de lanzamiento también simuló la secuencia de contabilización de lanzamiento y la eliminación de propulentes. Con el éxito de este ensayo, Starship está a punto de despegar para su vuelo de prueba número 14 el 28 de septiembre, con una ventana de lanzamiento de 75 minutos que comienza a las 8:15 AM hora este. El vehículo realizará seis órbitas alrededor de la Tierra en las primeras 10 horas antes de reentrarse en la atmósfera y desintegrarse en el océano. Además, el vehículo transportará 26 satélites Starlink V3 a órbita, que serán los primeros modelos de próxima generación en la constelación de satélites de internet de SpaceX. Los espectadores podrán ver el lanzamiento de Starship el 28 de septiembre en X.
+    <link href="https://www.motorsport.com/f1/news/f1-azerbaijan-gp-report/10859223/"/>
+    <summary>George Russell, piloto de Mercedes, ha ganado la carrera de F1 de Azerbaiyán, superando una carga de Max Verstappen en el final de la carrera. Russell lideró la carrera después de dos paradas de seguridad y se llevó su tercera victoria de la temporada. La victoria de Russell consolidó la dominancia de Mercedes en la carrera.
 
 Contexto IA (informativo):
-El éxito del ensayo de lanzamiento es un paso importante hacia la prueba de vuelo orbital de Starship, que será un hito significativo para la empresa. La prueba de vuelo orbital es un paso crucial para el desarrollo del vehículo, ya que permitirá a SpaceX demostrar la capacidad de su vehículo para alcanzar órbita y realizar misiones de transporte de satélites.</summary>
-    <published>2026-09-25T11:55:23+00:00</published>
+La victoria de Russell fue una sorpresa para muchos, ya que Verstappen había estado en la punta de la pista durante gran parte de la carrera. Sin embargo, Russell demostró su habilidad para liderar y mantener la presión en el final de la carrera.</summary>
+    <published>2026-09-26T12:47:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</id>
-    <title>[Tecnología] Microsoft lanza su nueva aplicación 'Copilot' como superaplicación</title>
-    <updated>2026-09-25T13:10:59.192616+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/five-quick-takeaways-from-azerbaijan-gp/10859211/</id>
+    <title>[Fórmula 1] 5 puntos clave de la Gran Premio de Azerbaiyán</title>
+    <updated>2026-09-26T13:07:11.921056+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/five-quick-takeaways-from-azerbaijan-gp/10859211/"/>
+    <summary>George Russell aprovechó su oportunidad para cerrar la brecha con Lewis Hamilton. Aunque su victoria en Baku no aumentó significativamente sus posibilidades de ganar el campeonato, sí redujo la brecha entre él y Hamilton. Russell se coloca en segundo lugar en la clasificación general, a solo dos puntos de Hamilton. La victoria de Russell fue un buen desafío para el equipo Mercedes, que tenía una ventaja significativa sobre la competencia. La victoria de Russell también muestra que Russell es un piloto capaz y competente. La victoria de Russell fue un buen desafío para el equipo Mercedes, que tenía una ventaja significativa sobre la competencia. La victoria de Russell también muestra que Russell es un piloto capaz y competente. La victoria de Russell fue un buen desafío para el equipo Mercedes, que tenía una ventaja significativa sobre la competencia. La victoria de Russell también muestra que Russell es un piloto capaz y competente.
+
+Contexto IA (informativo):
+La victoria de Russell en Baku fue un buen desafío para el equipo Mercedes, que tenía una ventaja significativa sobre la competencia. La victoria de Russell también muestra que Russell es un piloto capaz y competente.</summary>
+    <published>2026-09-26T12:48:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/</id>
+    <title>[Fórmula 1] Russell supera a Verstappen para la victoria en el GP de Azerbaiyán</title>
+    <updated>2026-09-26T13:07:11.921020+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/"/>
+    <summary>George Russell, piloto de Mercedes, logró una victoria dominante en el GP de Azerbaiyán, superando a Max Verstappen y consolidando la dominancia de Mercedes en la carrera. Russell lideró desde el inicio, aunque tuvo que superar dos safety cars para asegurar su victoria. Este triunfo es el tercero de la temporada para Russell y su primer en el GP de Azerbaiyán. La victoria de Russell se produjo después de que Verstappen sufriera una penalización por ultraje a las reglas.
+
+Contexto IA (informativo):
+La victoria de Russell se produjo en un GP marcado por la presión de Verstappen, quien buscaba su segunda victoria consecutiva. Colapinto, el piloto de AlphaTauri, logró una buena actuación, pero no pudo superar a Russell en la línea de meta.</summary>
+    <published>2026-09-26T12:49:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox</id>
+    <title>[Tecnología] ¿Pueden las bicicletas eléctricas eSUV realmente pasar de la ciudad a la naturaleza?</title>
+    <updated>2026-09-26T13:07:11.920985+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"/>
-    <summary>Microsoft ha lanzado su nueva aplicación Copilot, que combina tres capacidades de inteligencia artificial en una interfaz única de chat, codificación y agentes. La aplicación cuenta con tres pestañas para Home, Code y Autopilot, y su experiencia de usuario se centra en la interacción con el usuario. Además, se incluye una función de hoy que actúa como una pantalla de inicio personalizada para los usuarios. La aplicación busca reemplazar a Office como herramienta fundamental para los usuarios
+    <link href="https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"/>
+    <summary>Las bicicletas eléctricas eSUV prometen una transición fácil entre la rutina urbana y las aventuras en tierra y grava. Estas bicicletas tienen ruedas anchas, suspensión en ambos ejes y accesorios prácticos como frenos y portaequipajes. Después de un mes de prueba en el corazón de Ámsterdam, incluyendo un viaje de bicicleta de montaña de tres días a lo largo de la costa, se puede concluir que estas bicicletas cumplen con sus promesas. Sin embargo, es importante mencionar que la eficiencia de estas bicicletas puede variar dependiendo del terreno y la carga que se lleve. En general, las bicicletas eSUV ofrecen una excelente opción para aquellos que buscan una bicicleta versátil y práctica.
 
 Contexto IA (informativo):
-La aplicación Copilot es el resultado de la reestructuración de la aplicación Scout, que fue rebranding como Autopilot. La aplicación busca ser una herramienta versátil para los usuarios, ofreciendo una experiencia de usuario única y personalizada.</summary>
-    <published>2026-09-25T12:00:00+00:00</published>
+En la actualidad, las bicicletas eléctricas están ganando popularidad debido a su eficiencia y prácticidad. Las bicicletas eSUV son una subclase de estas bicicletas que se enfocan en la transición entre la ciudad y la naturaleza, ofreciendo una solución ideal para aquellos que buscan una bicicleta versátil y práctica.</summary>
+    <published>2026-09-26T07:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/</id>
-    <title>[Tecnología] Microsoft actualiza su aplicación Copilot con nuevas funcionalidades</title>
-    <updated>2026-09-25T13:10:59.192583+00:00</updated>
+    <id>https://www.wired.com/gallery/best-white-elephant-gifts-2026/</id>
+    <title>[Tecnología] Regalos de boda de elefante blancos: 12 opciones más una caja de bromas para ponerlos</title>
+    <updated>2026-09-26T13:07:11.920951+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/gallery/best-white-elephant-gifts-2026/"/>
+    <summary>En este artículo, te presentamos las mejores opciones para regalos de boda de elefante blanco que todos querrán ganar en tu próximo fiesta de fin de año. Desde un corte de chaqueta adorável para una lata de cerveza hasta magnetos que desearían poder comer, tenemos las mejores ideas para sorprender a tus invitados. Estas opciones son divertidas, creativas y seguras para todos los gustos. ¡Descubre las mejores opciones para regalos de boda de elefante blanco que harán que todos se sientan especiales!
+
+Contexto IA (informativo):
+En este artículo, te ofrecemos ideas creativas y divertidas para regalos de boda de elefante blanco que harán que tu fiesta de fin de año sea inolvidable. Estas opciones son ideales para sorprender a tus invitados y hacer que se sientan especiales.</summary>
+    <published>2026-09-26T11:36:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/</id>
+    <title>[Tecnología] ¿Cuál es el modo de sueño o apagado más adecuado para usar diariamente en tu MacBook?</title>
+    <updated>2026-09-26T13:07:11.920917+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/"/>
-    <summary>La aplicación Copilot de Microsoft ha sido actualizada con una nueva interfaz y la integración directa de aplicaciones de Office. La aplicación ahora cuenta con tres tablas: Home, Code y Autopilot. La Home tab permite interactuar con Copilot de manera natural, mientras que la Code tab permite crear tareas sin necesidad de habilidades de programación. La Autopilot tab permite a Copilot automatizar tareas y responder a mensajes sin intervención humana. Estas nuevas funcionalidades buscan hacer que Copilot sea más útil para consumidores y empresas.
+    <link href="https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/"/>
+    <summary>La elección entre el modo de sueño y el apagado en tu MacBook depende de las circunstancias. Aunque ambos modos son seguros, es mejor utilizar el modo de sueño cuando no estés trabajando y el apagado cuando estés en una sesión prolongada. El apagado es como apagar cualquier otro ordenador, lo que cierra todas las aplicaciones y deja el sistema desactivado. El modo de sueño, por otro lado, mantiene la sesión en memoria, por lo que puedes continuar trabajando sin problemas. Sin embargo, es importante ajustar las configuraciones de la pantalla y la batería para ahorrar energía. También es recomendable evitar cerrar la pantalla o apagar el ordenador mientras se encuentra en modo de sueño, ya que esto puede causar problemas de rendimiento. En resumen, el apagado es mejor cuando se necesita un corte total de energía, mientras que el modo de sueño es más adecuado para sesiones cortas o cuando se necesita ahorrar energía.
 
 Contexto IA (informativo):
-La actualización de Copilot es parte de la estrategia de Microsoft para hacer que su aplicación sea más atractiva para consumidores y empresas. Aunque la aplicación no ha sido muy popular entre los consumidores, es una herramienta valiosa para las empresas que necesitan procesar grandes cantidades de datos y generar informes y presentaciones.</summary>
-    <published>2026-09-25T12:00:00+00:00</published>
+En resumen, la elección entre el modo de sueño y el apagado depende de las circunstancias y de las necesidades del usuario. Es importante entender las diferencias entre ambos modos y ajustar las configuraciones de la pantalla y la batería para ahorrar energía y optimizar el rendimiento del ordenador.</summary>
+    <published>2026-09-26T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview</id>
-    <title>[Tecnología] Insta360 se convierte en líder de cámaras 360° y ahora mira a los gafas</title>
-    <updated>2026-09-25T13:10:59.192547+00:00</updated>
+    <id>https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers</id>
+    <title>[Tecnología] Los coleccionistas de tarjetas de Pokémon han convertido la recopilación en un deporte de sangre en línea</title>
+    <updated>2026-09-26T13:07:11.920882+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"/>
-    <summary>Insta360 es conocida por sus cámaras 360° que capturan todos los ángulos al mismo tiempo, permitiendo a los usuarios grabar y luego editar en cualquier momento. La empresa ha dominado el mercado con un 73% de participación mundial, lo que la ha llevado a invertir $298 millones en memoria, una cantidad que supera la valiación de GoPro. Con la venta de su millón de décima cámara, Insta360 está expandiendo su presencia con su primera tienda flagship en Nueva York, pero ahora está considerando un nuevo desafío: los gafas. La empresa busca desafiar a Canon y otros competidores en el mercado de la tecnología de realidad aumentada. La empresa está preparada para lanzar una nueva línea de productos que incluirá cámaras 360° y gafas con tecnología de realidad aumentada. Insta360 está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada. La empresa espera que su nueva línea de productos sea lanzada en el próximo año y que sea un éxito en el mercado. Insta360 está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada. La empresa espera que su nueva línea de productos sea lanzada en el próximo año y que sea un éxito en el mercado.
+    <link href="https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"/>
+    <summary>En un video publicado en febrero, la creadora de contenido de Pokémon Natalie Roush mostró dos cajas premium de tarjetas que no habían sido oficialmente lanzadas, lo que generó una gran controversia entre la comunidad de coleccionistas. Algunos creadores de contenido la acusaron de haber comprado las tarjetas robadas a la fabricante y de venderlas a precios exorbitantes. La situación de Roush es un ejemplo claro de cómo la cultura de la recopilación de tarjetas de Pokémon ha sido alterada por la economía de los influencers y las personas que intentan lucrar con la hobby. La comunidad de coleccionistas se ha vuelto cada vez más competitiva y algunos se han vuelto a cazar tarjetas que aún no han sido lanzadas, lo que ha llevado a una especie de 'caza de recompensas' en línea. Los precios de las tarjetas han aumentado significativamente, lo que ha hecho que la recopilación se convierta en un deporte de sangre en línea. La situación ha generado un gran debate sobre la ética de la recopilación de tarjetas de Pokémon y la forma en que se pueden lucrar con la hobby.
 
 Contexto IA (informativo):
-Insta360 ha demostrado su capacidad para innovar y adaptarse a los cambios en el mercado de la tecnología. La empresa ha establecido una fuerte presencia en el mercado de las cámaras 360° y ahora está considerando un nuevo desafío: la realidad aumentada. La empresa está trabajando en un proyecto de realidad aumentada que permitirá a los usuarios interactuar con el mundo físico de manera más inmersiva. La empresa también está explorando la posibilidad de integrar sus cámaras 360° con otros dispositivos, como smartphones y tabletas. Con su experiencia en cámaras 360°, Insta360 está bien posicionada para liderar el mercado de la realidad aumentada.</summary>
-    <published>2026-09-25T12:00:00+00:00</published>
+La situación de Natalie Roush ha generado un gran debate en la comunidad de coleccionistas de tarjetas de Pokémon, que se ha vuelto cada vez más competitiva y agresiva. La recopilación de tarjetas de Pokémon ha sido una hobby tradicional y pacífica, pero la influencia de la economía de los influencers ha cambiado todo esto.</summary>
+    <published>2026-09-26T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/your-body-heat-could-power-the-next-generation-of-wearables-2000816753</id>
-    <title>[Tecnología] Calor corporal podría impulsar la próxima generación de dispositivos de vestido</title>
-    <updated>2026-09-25T13:10:59.192512+00:00</updated>
+    <id>https://gizmodo.com/in-silicon-valley-the-end-of-humanity-has-always-been-part-of-the-plan-2000816237</id>
+    <title>[Tecnología] El fin de la humanidad siempre ha sido parte del plan en Silicon Valley</title>
+    <updated>2026-09-26T13:07:11.920847+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/your-body-heat-could-power-the-next-generation-of-wearables-2000816753"/>
-    <summary>Los dispositivos de vestido han vuelto a ser una parte integral de nuestra vida diaria, y su crecimiento en el mercado es notable. Sin embargo, su limitación principal es su necesidad de ser llevados continuamente para proporcionar la utilidad deseada, lo que genera inconvenientes. La solución podría estar en la generación de electricidad a partir del calor corporal, lo que podría reducir la necesidad de recargarlos constantemente. Los dispositivos de vestido con tecnología de generación de electricidad a partir del calor corporal podrían proporcionar una mayor autonomía y reducir la necesidad de recargarlos durante largos períodos de tiempo. Esto podría ser especialmente beneficioso para dispositivos que requieren una gran cantidad de energía, como los rastreadores de sueño, que son precisos porque no se notan mientras se llevan.
+    <link href="https://gizmodo.com/in-silicon-valley-the-end-of-humanity-has-always-been-part-of-the-plan-2000816237"/>
+    <summary>El visionario roboticista Hans Moravec creía que la humanidad estaba a punto de trascender la evolución darwiniana y la mortalidad. En su lugar, se crearían seres robóticos superiores que podrían vivir eternamente. La idea de una transhumanidad, que busca liberar a la humanidad de las limitaciones biológicas, se ha convertido en una quasi-religión entre los principales jugadores de la industria tecnológica. Sin embargo, algunos expertos como Dario Amodei argumentan que la creación de superinteligencia podría ser un peligro para la humanidad. Otros, como Peter Thiel, creen que la humanidad debe sobrevivir en el futuro, pero con una forma de transhumanidad que combine la tecnología con la fe cristiana. Marc Andreessen, por su parte, considera que la transhumanidad es una necesidad para el progreso humano. La cuestión es si la creación de superinteligencia es un riesgo que vale la pena asumir. La respuesta a esta pregunta depende de cómo se aborde el tema de la transhumanidad y su impacto en la sociedad.
 
 Contexto IA (informativo):
-La tecnología de generación de electricidad a partir del calor corporal es un campo en constante evolución, y se está explorando su potencial para mejorar la autonomía de los dispositivos de vestido. La idea es que los dispositivos de vestido podrían generar electricidad a partir del calor corporal, lo que reduciría la necesidad de recargarlos constantemente y les permitiría funcionar durante períodos más largos.</summary>
-    <published>2026-09-25T12:30:25+00:00</published>
+La idea de una transhumanidad se ha convertido en un tema de debate en Silicon Valley. Algunos expertos creen que la creación de superinteligencia podría ser un peligro para la humanidad, mientras que otros ven en ella una oportunidad para mejorar la condición humana. La cuestión es si la creación de superinteligencia es un riesgo que vale la pena asumir y cómo abordar este tema de manera responsable.</summary>
+    <published>2026-09-26T12:00:05+00:00</published>
   </entry>
   <entry>
-    <id>https://kant2002.github.io/en/git/hacking/2026/09/25/cloning-linux-on-windows.html</id>
-    <title>[Programación] Clonar Linux en Windows</title>
-    <updated>2026-09-25T13:10:59.192477+00:00</updated>
+    <id>https://www.engadget.com/2265444/how-to-get-gta-6-free-xbox-reward-points/</id>
+    <title>[Tecnología] Jugadores de Xbox obtienen GTA 6 de forma gratuita de manera difícil</title>
+    <updated>2026-09-26T13:07:11.920813+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://kant2002.github.io/en/git/hacking/2026/09/25/cloning-linux-on-windows.html"/>
-    <summary>El autor intentó clonar Linux en Windows utilizando Git, pero se encontró con un problema con el nombre de archivo 'prn.ap' que estaba reservado por Windows. Después de investigar y encontrar la causa del problema, el autor decidió reportar el problema a la comunidad de Git para Windows. Aunque no se resolvió de inmediato, el autor intentó encontrar soluciones alternativas y discutir con el maintainer, pero finalmente se dio cuenta de que en proyectos de código abierto, a veces hay un conflicto entre la velocidad del cambio y la prudencia del maintainer.
+    <link href="https://www.engadget.com/2265444/how-to-get-gta-6-free-xbox-reward-points/"/>
+    <summary>La edición estándar de GTA 6 cuesta $80, mientras que la edición ultimate es $100. Sin embargo, si se aprovechan de las ventajas de Microsoft, algunos jugadores pueden obtener la juego de forma gratuita. Para ello, deben acumular 100.000 puntos de Microsoft Rewards, que equivalen a $1 cada uno. Estos puntos se pueden ganar realizando tareas en la aplicación de Xbox, haciendo compras en la tienda de Microsoft o utilizando el motor de búsqueda Bing. Al acumular puntos, los jugadores pueden obtener una gran descarga al momento de la salida del juego en noviembre.
 
 Contexto IA (informativo):
-El autor de la noticia es un desarrollador experimentado que ha trabajado con Git y otros sistemas de control de versiones. Ha encontrado varias formas de superar obstáculos y ha aprendido a ser paciente y persistente en su búsqueda de soluciones.</summary>
-    <published>2026-09-25T10:25:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.dochia.dev/blog/retries/</id>
-    <title>[Programación] Cómo las reintentos convierten una caída corta en una larga</title>
-    <updated>2026-09-25T13:10:59.192439+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://blog.dochia.dev/blog/retries/"/>
-    <summary>La necesidad de reintentar es instintiva. Cuando algo no funciona, intentamos de nuevo. Esto se aplica tanto a un tarjeta de pago que rechaza como a un portal que no carga. En el código, también se reintentan cosas, y casi todos los sistemas de código que he trabajado tienen reintentos. Sin embargo, los reintentos pueden tener consecuencias negativas si no se manejan correctamente. En este artículo, exploraremos los posibles problemas con los reintentos y cómo abordarlos. Primero, consideremos el caso de un reintento simple, como un método que reintentará una llamada hasta tres veces. A continuación, examinaremos otros escenarios más complejos, como cuando un servidor tiene un problema y los reintentos solo empeoran. También exploraremos cómo los reintentos pueden afectar a la capacidad del servidor y cómo abordar estos problemas. En última instancia, el objetivo es encontrar una solución que equilibre la necesidad de reintentar con la necesidad de evitar sobrecargar el sistema. Los reintentos son una parte importante de muchos sistemas de código, pero es importante abordarlos con cuidado para evitar problemas. En este artículo, exploraremos cómo abordar estos problemas y encontrar una solución que funcione para todos los casos.
-
-Contexto IA (informativo):
-Los reintentos son una parte común de muchos sistemas de código, pero también pueden tener consecuencias negativas si no se manejan correctamente. Es importante abordar estos problemas con cuidado para evitar sobrecargar el sistema y garantizar que el sistema funcione correctamente.</summary>
-    <published>2026-09-25T11:43:06+00:00</published>
+La edición estándar de GTA 6 es más barata que la edición ultimate, pero la última tiene algunas ventajas exclusivas. La edición estándar cuesta $80, mientras que la edición ultimate es $100. La edición ultimate incluye algunos vehículos exclusivos, armas y tiendas adicionales, así como algunas actividades secundarias. Sin embargo, la edición estándar es la opción más económica para aquellos que no desean las ventajas exclusivas de la edición ultimate.</summary>
+    <published>2026-09-26T12:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://visualneo.com/visualneo-win/from-neobook-to-visualneo-win-30-years-of-keeping-a-development-tool-alive</id>
     <title>[Programación] Mantenemos un desarrollo de herramienta que se lanzó en 1993. ¿Qué veo en 30+ años de compatibilidad retroactiva?</title>
-    <updated>2026-09-25T13:10:59.192402+00:00</updated>
+    <updated>2026-09-26T13:07:11.920777+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -347,45 +347,73 @@ La historia de VisualNEO Win es un ejemplo de cómo una herramienta de desarroll
     <published>2026-09-25T12:00:31+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/yanng981/open-source-jev-alternatives-system-one-models-you-can-self-host-i5e</id>
-    <title>[Programación] Alternativas de Jev de código abierto: modelos System One que puedes autocompiar</title>
-    <updated>2026-09-25T13:10:59.192363+00:00</updated>
+    <id>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</id>
+    <title>[Programación] Si no paramos de ayudarnos mutuamente, de qué somos?</title>
+    <updated>2026-09-26T13:07:11.920741+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Coding Horror</name>
     </author>
-    <link href="https://dev.to/yanng981/open-source-jev-alternatives-system-one-models-you-can-self-host-i5e"/>
-    <summary>Después de que TypeSafe Jev introdujo los modelos System One el 15 de septiembre de 2026, surgieron alternativas de código abierto que realizan la misma función en tu propio hardware. Esta lista incluye las mejores opciones que aceptan solicitudes de Jev API sin cambios, y qué se toma para autocompiar uno. La ventaja de buscar una alternativa de Jev es que los datos permanecen en tu infraestructura, no hay costos a volumen, no hay cola, puedes fine-tunar y se pueden utilizar en entornos offline y de borde. Algunas de las mejores alternativas son Laya, Kev, Decider, Von y OpenThai-SystemOne, que ofrecen modelos de tamaño pequeño y gran capacidad para diferentes idiomas. También hay servidores Jev compatibles que ponen una API Jev estilo delante de un modelo abierto, lo que te permite cambiar de modelo sin modificar el código de tu cliente. Para cambiar de Jev a un modelo autocompiado, debes elegir un modelo, iniciar su servidor localmente y cambiar la URL de base en tu cliente. Es importante comparar la precisión y la latencia en tus propios datos y recalibrar los umbrales de confianza.
+    <link href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/"/>
+    <summary>Un usuario compartió una experiencia personal sobre cómo la comunidad de Stack Overflow le ayudó durante un momento difícil. A pesar de tener habilidades técnicas destacadas, enfrentaba dificultades para entrevistarse y necesitaba ayuda. La comunidad de Stack Overflow le brindó apoyo y orientación, lo que le permitió superar sus desafíos. El usuario expresa su gratitud y temor por la posible pérdida de estas comunidades, que considera esenciales para nuestra conexión y apoyo mutuo.
 
 Contexto IA (informativo):
-Los modelos System One de TypeSafe Jev son una introducción reciente, que permite enviar un estado y preguntas tipo y recibir respuestas con probabilidades en lugar de texto generado. Sin embargo, las alternativas de código abierto que ofrecen la misma función en tu propio hardware son una opción a considerar para aquellos que buscan costos, privacidad y latencia mejoradas.</summary>
-    <published>2026-09-25T12:55:18+00:00</published>
+El usuario destaca la importancia de las comunidades en línea y la necesidad de seguir ayudándonos mutuamente para evitar perder esa conexión y apoyo. También menciona la diferencia entre las comunidades que se centran en brindar respuestas y aquellas que fomentan la conexión y el apoyo entre sus miembros.</summary>
+    <published>2026-09-25T20:54:04+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/tech_ng/cybercrime-isnt-always-hacking-what-the-black-axe-extradition-case-teaches-us-about-social-5cc7</id>
-    <title>[Programación] El cybercrimen no siempre implica hacking: lo que el caso de extradición de Black Axe nos enseña sobre la ingeniería social</title>
-    <updated>2026-09-25T13:10:59.192309+00:00</updated>
+    <id>https://martinfowler.com/bliki/MonolithFirst.html</id>
+    <title>[Programación] Microservicios son el endeudamiento organizacional disfrazado de arquitectura</title>
+    <updated>2026-09-26T13:07:11.920704+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/tech_ng/cybercrime-isnt-always-hacking-what-the-black-axe-extradition-case-teaches-us-about-social-5cc7"/>
-    <summary>El caso de extradición de seis nigerianos acusados de ser miembros del Black Axe organizado del crimen ha resaltado la importancia de la ingeniería social en el cybercrimen. Los acusados utilizaron técnicas de romance y fraude para obtener dinero de más de 100 mujeres en Estados Unidos, con pérdidas estimadas en más de $6,2 millones. El caso destaca la necesidad de considerar dos modelos de ataque: el técnico y el social, y la importancia de la educación en seguridad y la cooperación internacional para combatir el crimen cibernético. Los acusados aún no han sido condenados y se les considera inocentes hasta que se les pruebe la culpabilidad.
+    <link href="https://martinfowler.com/bliki/MonolithFirst.html"/>
+    <summary>La arquitectura de microservicios es útil, pero incurre en un 'premium' significativo que puede ralentizar a un equipo. Antes de empezar un proyecto con microservicios, es importante considerar si el sistema será lo suficientemente complejo como para justificar el uso de esta arquitectura. Un enfoque monolítico inicial puede ser una mejor opción, ya que permite priorizar la velocidad y obtener retroalimentación de manera más rápida. Además, permite establecer los límites adecuados entre los servicios antes de diseñar una arquitectura de microservicios. Esto puede facilitar la transición a una arquitectura de microservicios más adelante, si es necesario.
 
 Contexto IA (informativo):
-El caso de extradición de Black Axe es un ejemplo de cómo el cybercrimen puede tener implicaciones globales y cómo la ingeniería social puede ser una amenaza significativa para la seguridad en línea.</summary>
-    <published>2026-09-25T12:57:14+00:00</published>
+La arquitectura de microservicios es una opción viable para sistemas complejos, pero requiere una planificación cuidadosa y una buena gestión de los límites entre los servicios. Es importante considerar que no todas las aplicaciones pueden beneficiarse de esta arquitectura, y que un enfoque monolítico inicial puede ser una mejor opción para sistemas más simples.</summary>
+    <published>2026-09-25T21:35:37+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/session_replay/your-own-browser-is-the-worst-instrument-you-own-for-testing-your-own-site-2hei</id>
-    <title>[Programación] Tu propio navegador es el peor instrumento que tienes para probar tu propio sitio</title>
-    <updated>2026-09-25T13:10:59.192216+00:00</updated>
+    <id>https://www.philipzucker.com/proof_uf/</id>
+    <title>[Programación] Unión Find en Python: Un Enfoque Lean para la Producción de Proofs</title>
+    <updated>2026-09-26T13:07:11.920668+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/session_replay/your-own-browser-is-the-worst-instrument-you-own-for-testing-your-own-site-2hei"/>
-    <summary>Un tipo de error que es invisible para la persona más adecuada para solucionarlo, debido a razones estructurales más que a la falta de cuidado. El ejemplo más claro es el bucle de redirección de inicio de sesión. El navegador encuentra una sesión inválida y redirige al /login. La página de inicio de sesión cree que está firmado y redirige de nuevo. Esto se repite hasta que el navegador se rinde. Esto reproduce para cada nuevo visitante, pero no para ti, porque tu cookie de sesión se estableció semanas atrás y funciona correctamente. No puedes verlo, y no importa cuánto cuidado pongas, no puedes verlo. Estás en un estado que la persona afectada no está, y no puedes salir de él mirando más. El reflejo, y lo que cubre
+    <link href="https://www.philipzucker.com/proof_uf/"/>
+    <summary>El unión find es una estructura de datos útil para gestionar componentes conectados de un grafo. En este artículo, se explora cómo utilizar unión find para producir certificados de proofs en Python. Se discuten las implicaciones de utilizar unión find en la producción de proofs y se presenta un ejemplo básico de implementación en Lean. El artículo también aborda la relación entre el unión find y las gráficas de e-graphs, y se analiza cómo utilizar la técnica de path compression para mejorar la eficiencia de la implementación.
 
 Contexto IA (informativo):
-El reflejo es una ventana privada, y es un buen reflejo. Elimina cookies, almacenamiento y caché, lo que es la mayoría del estado del lado del cliente que te hace inrepresentativo. Sin embargo, no toca todo. Tu cuenta. Si el error depende de un usuario con datos antiguos, un conjunto de permisos inusuales o un registro creado antes de una migración, una ventana privada te da un navegador firmado y el mismo banco de datos. Inicia sesión de nuevo y estás de vuelta en tu cuenta privilegiada, bien seedada, con tres años de antigüedad.</summary>
-    <published>2026-09-25T12:57:59+00:00</published>
+El unión find es una estructura de datos que se utiliza para gestionar componentes conectados de un grafo. En este artículo, se explora cómo utilizar el unión find para producir certificados de proofs en Python. El artículo se centra en la implementación de un unión find básico en Lean y se analiza cómo utilizar la técnica de path compression para mejorar la eficiencia de la implementación.</summary>
+    <published>2026-09-25T23:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://adekau.github.io/posts/2020/llamas.html</id>
+    <title>[Programación] Análisis de Fourier: Dibujando Llamas con Circulos</title>
+    <updated>2026-09-26T13:07:11.920615+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://adekau.github.io/posts/2020/llamas.html"/>
+    <summary>El análisis de Fourier es una técnica para transformar una señal de dominio del tiempo a dominio de la frecuencia. Se utiliza en diversas aplicaciones, como la edición de audio y la compresión de imágenes. En este artículo, se explora cómo se puede utilizar el análisis de Fourier para dibujar formas complejas utilizando círculos rotando en diferentes frecuencias. Se presentan ejemplos de cómo se pueden modificar los círculos para crear diferentes formas, como un cuadrado o una curva que recuerda a un pez. El artículo también introduce la concepto de epíciclos, que son curvas cerradas que se pueden dibujar utilizando círculos conectados. La transformación de Fourier es una herramienta poderosa para comprender cómo se crean estas formas complejas.
+
+Contexto IA (informativo):
+El análisis de Fourier es una técnica matemática que permite transformar una señal de dominio del tiempo a dominio de la frecuencia. Esta técnica se utiliza en diversas aplicaciones, como la edición de audio y la compresión de imágenes. En este artículo, se explora cómo se puede utilizar el análisis de Fourier para crear formas complejas utilizando círculos rotando en diferentes frecuencias.</summary>
+    <published>2026-09-26T07:54:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/</id>
+    <title>[Programación] Optimizando un Buffre de Bolas Libres de Bloqueo</title>
+    <updated>2026-09-26T13:07:11.920524+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://david.alvarezrosa.com/posts/optimizing-a-lock-free-ring-buffer/"/>
+    <summary>En este artículo, se explora la implementación de un buffre de bolas libres de bloqueo (ring buffer) desde cero. Se describe cómo implementar un buffre de bolas libres de bloqueo para la menor latencia posible. El artículo se centra en la implementación de un buffre de bolas libres de bloqueo para compartir datos entre hilos en entornos de baja latencia. El buffre de bolas libres de bloqueo es una estructura de datos que permite a un productor insertar datos en un buffer y a un consumidor leer los datos del buffer de manera ordenada. El artículo también explora cómo implementar un buffre de bolas libres de bloqueo de manera thread-safe y cómo optimizar su rendimiento. El artículo se centra en la implementación de un buffre de bolas libres de bloqueo utilizando átomos en lugar de bloques de código para mejorar la latencia. El artículo también explora cómo utilizar un buffre de bolas libres de bloqueo para compartir datos entre hilos de manera eficiente y precisa.
+
+Contexto IA (informativo):
+El uso de buffres de bolas libres de bloqueo se ha vuelto cada vez más común en la programación concurrente debido a su capacidad para compartir datos entre hilos de manera eficiente y precisa. Sin embargo, la implementación de un buffre de bolas libres de bloqueo puede ser compleja y requiere una buena comprensión de las técnicas de programación concurrente. En este artículo, se explora la implementación de un buffre de bolas libres de bloqueo desde cero y se discute cómo optimizar su rendimiento para la menor latencia posible.</summary>
+    <published>2026-09-26T11:49:56+00:00</published>
   </entry>
 </feed>
