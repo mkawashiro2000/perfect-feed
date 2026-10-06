@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-05T13:08:48.582058+00:00</updated>
+  <updated>2026-10-06T13:09:09.665708+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,191 +11,135 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html</id>
-    <title>[Economía] China cierra cientos de bancos para fortalecer su sistema financiero</title>
-    <updated>2026-10-05T13:08:48.583518+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html"/>
-    <summary>China acelera la consolidación de bancos menores y rurales para fortalecer su sistema financiero, amidst preocupaciones crecientes sobre un posible estancamiento económico en el país. La consolidación vio la clausura de un récord de 670 prestamistas en 2025, lo que representa un cuarto de los bancos en el país. Las autoridades buscan crear instituciones más grandes y mejor capitalizadas para mejorar la supervisión y reducir la regulación arbitraja. Aunque el impacto en el sistema financiero es limitado, la medida busca mejorar la competencia entre los prestamistas menores. La economía china enfrenta signos de estrés, con un crecimiento del PIB del 4.3% en el segundo trimestre, su menor ritmo desde 2022.
-
-Contexto IA (informativo):
-La consolidación de bancos menores en China se lleva a cabo en un contexto de preocupación creciente sobre el crecimiento económico del país, que ha sido lento en los últimos meses. La medida busca fortalecer el sistema financiero y reducir la exposición a riesgos, aunque su impacto en la competencia entre los prestamistas menores es aún incierto.</summary>
-    <published>2026-10-05T10:20:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html</id>
-    <title>[Economía] Los rendimientos del Tesoro estadounidense mantienen niveles de alta durante varios años mientras los traders esperan datos y minutos de la Reserva Federal</title>
-    <updated>2026-10-05T13:08:48.583480+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html"/>
-    <summary>Los rendimientos del Tesoro estadounidense se mantuvieron estables cerca de los niveles de alta durante varios años después de una fuerte caída la semana anterior. Los inversores esperan la publicación de nuevos datos y minutos de la Reserva Federal de septiembre. Los rendimientos de la deuda de 10 años cayeron menos de 1 punto base en 5,273%. Los rendimientos de la deuda de 30 años también cayeron ligeramente a 5,626%. Un punto base es igual a 0,01% y los rendimientos y precios se mueven en direcciones opuestas. Los inversores han luchado con una caída del mercado de bonos durante las últimas semanas, mientras que un informe de empleos mensual débil el viernes ayudó a reducir los rendimientos y aliviar las preocupaciones sobre otra subida de las tasas. Los traders ahora están poniendo en precio una probabilidad del 82% de que la Reserva Federal mantenga las tasas sin cambios en su próxima reunión, según el CME Group's FedWatch Tool. En el frente de los datos económicos, el informe de actividad de servicios de la Institute for Supply Management está programado para el lunes, mientras que los inversores se están preparando para la publicación de los minutos de la reunión de la Reserva Federal de septiembre el miércoles. Los analistas de Deutsche Bank dijeron en un comunicado: "El mercado de bonos muy volátil hace que los datos y la comunicación de la Reserva Federal sean particularmente relevantes. Por lo tanto, los minutos serán de interés para ver cómo el Comité está definiendo el ciclo de ajuste actual y para su discusión sobre la tasa neutral, donde las estimaciones se han movido hacia arriba en el SEP de septiembre."
-
-Contexto IA (informativo):
-La Reserva Federal ha estado trabajando para controlar la inflación y mantener la estabilidad económica en el país. Los rendimientos del Tesoro estadounidense son un indicador importante de la salud de la economía.</summary>
-    <published>2026-10-05T11:20:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1</id>
-    <title>[Economía] Flávio Bolsonaro se coloca en la primera posición en la elección brasileña</title>
-    <updated>2026-10-05T13:08:48.583447+00:00</updated>
-    <author>
-      <name>International homepage</name>
-    </author>
-    <link href="https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1"/>
-    <summary>El hijo del expresidente Jair Bolsonaro, Flávio Bolsonaro, se encuentra en la primera posición en la primera ronda de la elección presidencial brasileña, con una ventaja significativa sobre el actual presidente Luiz Inácio Lula da Silva. La moneda brasileña ha fortalecido en respuesta a la situación política. La elección se llevará a cabo en el próximo mes de octubre.
-
-Contexto IA (informativo):
-La elección presidencial brasileña se llevará a cabo en octubre y es considerada una de las más importantes de la región. El expresidente Jair Bolsonaro, padre de Flávio, está en prisión por cargos relacionados con su mandato.</summary>
-    <published>2026-10-05T12:11:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-05/saudi-ipo-proposals-face-bank-pushback-over-unsold-share-risk</id>
-    <title>[Economía] Propuestas de IPO saudíes enfrentan resistencia bancaria sobre el riesgo de acciones no vendidas</title>
-    <updated>2026-10-05T13:08:48.583415+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/canada-exports-to-us-surged-in-august-ahead-of-new-tariffs</id>
+    <title>[Economía] Exportaciones canadienses a EE. UU. crecieron en agosto ante nuevos aranceles</title>
+    <updated>2026-10-06T13:09:09.666710+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-05/saudi-ipo-proposals-face-bank-pushback-over-unsold-share-risk"/>
-    <summary>Los banqueros se oponen a las propuestas del regulador saudí para reformar las reglas de listado, incluyendo planes que obligarían a los subastadores a comprar cualquier acción no vendida. Esto podría empeorar la situación del mercado para las ofertas públicas iniciales. Los expertos advierten que la medida podría tener un impacto negativo en la oferta de acciones. Además, se cuestiona la viabilidad de las propuestas, ya que no se han presentado datos concretos sobre el riesgo de acciones no vendidas. La resistencia bancaria podría obstaculizar el proceso de listado de acciones en Arabia Saudita.
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/canada-exports-to-us-surged-in-august-ahead-of-new-tariffs"/>
+    <summary>Las exportaciones canadienses a Estados Unidos aumentaron significativamente en agosto, según fuentes, debido a la presión de los importadores para obtener bienes antes de que se implementen nuevos aranceles impuestos por la administración Trump a fin de mes. Esto se debe en parte a la preocupación de que los aranceles podrían aumentar significativamente el costo de importar bienes canadienses. Además, los importadores pueden haber querido asegurarse de tener una reserva de bienes antes de que se implementen los aranceles. La situación ha generado preocupación entre los comerciantes canadienses y estadounidenses. Los aranceles se implementarán el 1 de septiembre y podrían afectar a una variedad de productos canadienses. Los detalles sobre los aranceles y su impacto en el comercio entre Canadá y EE. UU. aún no están claros.
 
 Contexto IA (informativo):
-La propuesta de reforma de las reglas de listado busca aumentar la transparencia y la confianza en el mercado de valores saudí. Sin embargo, la oposición de los banqueros podría llevar a una retrasada implementación de estas medidas.</summary>
-    <published>2026-10-05T12:43:56+00:00</published>
+La decisión de implementar aranceles ha sido un tema de debate entre Canadá y EE. UU. en las últimas semanas. Los aranceles podrían tener un impacto significativo en el comercio entre ambos países.</summary>
+    <published>2026-10-06T12:30:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-05/bmo-s-davis-says-30-year-treasury-yields-will-hit-6-video</id>
-    <title>[Economía] Se espera que los rendimientos de los bonos del Tesoro estadounidenses alcancen el 6%</title>
-    <updated>2026-10-05T13:08:48.583379+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/us-trade-deficit-widens-to-105-6-billion-on-oil-capital-goods</id>
+    <title>[Economía] El déficit comercial de EE. UU. se amplía a $105.6 mil millones</title>
+    <updated>2026-10-06T13:09:09.666676+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-05/bmo-s-davis-says-30-year-treasury-yields-will-hit-6-video"/>
-    <summary>Según Earl Davis, jefe de fideicomisos de activos de BMO Global Asset Management, los rendimientos de los bonos del Tesoro estadounidenses de 30 años probablemente superarán el 6% en el próximo mes. Este pronóstico se basa en su análisis de la tendencia actual en el mercado de bonos. Davis también destaca la importancia de considerar las implicaciones de este aumento en la economía y los inversores. Los expertos consideran que este aumento podría tener un impacto significativo en la economía y los mercados financieros.
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/us-trade-deficit-widens-to-105-6-billion-on-oil-capital-goods"/>
+    <summary>El déficit comercial de EE. UU. aumentó significativamente en agosto a su mayor nivel desde principios de 2025, impulsado por un aumento en las importaciones de bienes de capital. Las importaciones alcanzaron un récord en este período. El déficit comercial se ha visto afectado por una mayor demanda de bienes de capital en el extranjero. Esto ha llevado a un aumento en las importaciones de bienes de capital, lo que ha contribuido a un mayor déficit comercial.
 
 Contexto IA (informativo):
-El pronóstico de Davis se basa en su análisis de la tendencia actual en el mercado de bonos, que ha experimentado un aumento en los rendimientos en los últimos meses. Los expertos consideran que este aumento podría ser el resultado de la política monetaria de la Reserva Federal y la situación económica global.</summary>
-    <published>2026-10-05T12:56:21+00:00</published>
+El aumento en las importaciones de bienes de capital ha sido un factor clave en el aumento del déficit comercial. Esto se debe a que las empresas estadounidenses han aumentado su demanda de bienes de capital en el extranjero, lo que ha llevado a un mayor flujo de dinero hacia el extranjero.</summary>
+    <published>2026-10-06T12:32:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet</id>
-    <title>[Data Science] Fondamentos de Python para Ingeniería: Una Guía de KDnuggets</title>
-    <updated>2026-10-05T13:08:48.583305+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html</id>
+    <title>[Economía] El déficit comercial de EE. UU. se amplía en agosto</title>
+    <updated>2026-10-06T13:09:09.666642+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html"/>
+    <summary>Según datos del Departamento de Comercio, las importaciones aumentaron en el mes, a pesar de los esfuerzos del gobierno de Trump por limitar productos extranjeros. Esto se debe en parte a una mayor demanda de bienes importados, como tecnología y medicamentos. Además, la tasa de cambio del dólar estadounidense se volvió más favorable para los exportadores extranjeros. Estos factores contribuyeron a un aumento en el déficit comercial de EE. UU. en agosto.
+
+Contexto IA (informativo):
+El déficit comercial de EE. UU. ha sido un tema de debate en los últimos años, con algunos argumentando que es un problema de seguridad nacional y otros que es una consecuencia de la globalización. Los expertos esperan que el gobierno de Trump continúe trabajando para reducir el déficit, pero también reconocen que es un desafío complejo que requiere soluciones innovadoras.</summary>
+    <published>2026-10-06T12:51:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html</id>
+    <title>[Economía] Paramount Cierra su Acuerdo con Warner Bros. Discovery</title>
+    <updated>2026-10-06T13:09:09.666609+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html"/>
+    <summary>Después de una batalla legal, Paramount ha finalmente adquirido Warner Bros. Discovery. La nueva empresa, Skydance, combina estudios de Hollywood, servicios de streaming y redes de cable. Esta transacción busca fortalecer la posición de Paramount en el mercado de entretenimiento. La empresa espera aprovechar las oportunidades de crecimiento y expansión en el sector de los medios. El acuerdo también incluye la adquisición de varias propiedades de Warner Bros. Discovery, como HBO Max y Discovery+, lo que amplía la oferta de contenido de Skydance.
+
+Contexto IA (informativo):
+La compra de Warner Bros. Discovery es una de las más grandes en la historia de la industria del entretenimiento. La empresa busca aprovechar la diversidad de contenido y la experiencia de Warner Bros. Discovery para impulsar su crecimiento y expansión en el mercado.</summary>
+    <published>2026-10-06T12:58:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html</id>
+    <title>[Economía] Exportaciones de petróleo en el Estrecho de Hormuz se ven amenazadas por ataques iraníes a tanques</title>
+    <updated>2026-10-06T13:09:09.666575+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html"/>
+    <summary>Iran ha aumentado sus ataques a tanques que transitan por el Estrecho de Hormuz, lo que pone en riesgo la recuperación de las exportaciones de petróleo del Golfo Pérsico. En el último mes, casi 20 barcos comerciales, la mayoría tanques, han sido objeto de ataques mientras navegan por Hormuz, el Golfo Pérsico o cerca de Omán. La seguridad en el Estrecho de Hormuz sigue siendo peligrosa, lo que hace dudar de la durabilidad de la recuperación de las exportaciones de petróleo. Los barcos que transportan petróleo a través de Hormuz deben seguir un sistema de transferencia de carga que aumenta el riesgo de ataques, pero también reduce la exposición. Los expertos consideran que la situación no es sostenible a largo plazo y que los precios del petróleo seguirán siendo altos debido a los costos de seguridad y transporte. La libertad de navegación en el Estrecho de Hormuz no ha sido restaurada y Teherán sigue insistiendo en que controla el estrecho.
+
+Contexto IA (informativo):
+La situación en el Golfo Pérsico sigue siendo tensa y la recuperación de las exportaciones de petróleo depende en gran medida de la seguridad de los barcos que transportan petróleo a través de Hormuz. Los ataques a tanques por parte de Irán han aumentado en el último mes, lo que pone en riesgo la estabilidad de la región.</summary>
+    <published>2026-10-06T13:00:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do</id>
+    <title>[Data Science] Meta Muse Explained: ¿Qué es, cómo funciona y qué puede hacer?</title>
+    <updated>2026-10-06T13:09:09.666541+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet"/>
-    <summary>Esta guía de KDnuggets recopila los conceptos fundamentales de Python que no se dejan atrapados por frameworks posteriores. Aprender estos conceptos es esencial para cualquier proyecto de ingeniería. El autor destaca la importancia de entender los fundamentos de Python, ya que permiten a los desarrolladores trabajar de manera efectiva y eficiente. La guía cubre temas como la seguridad al abrir archivos, la conversión de formatos de configuración y API, y la reproducción de resultados. Al entender estos conceptos, los desarrolladores pueden trabajar de manera más segura y eficiente.
+    <link href="https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do"/>
+    <summary>Meta ha lanzado Muse, un agente de inteligencia artificial personal diseñado para hacer más que responder preguntas. Muse puede realizar acciones reales, como navegar por sitios web, conectar con aplicaciones, enviar correos electrónicos y realizar compras. El agente utiliza un enfoque diferente al de los chatbots actuales, que siguen un patrón de respuesta a preguntas. Muse se basa en un enfoque de planificación y ejecución de tareas, lo que le permite trabajar de manera más eficiente y segura. La empresa CEO Mark Zuckerberg ha destacado la capacidad de Muse para entender los objetivos de los usuarios y trabajar 24/7 para completar tareas. Sin embargo, la integración de Muse con servicios externos ha generado preocupaciones sobre la privacidad, la seguridad y el control que se le otorga a los agentes de inteligencia artificial.
 
 Contexto IA (informativo):
-La guía de KDnuggets es una herramienta valiosa para cualquier desarrollador que desee mejorar sus habilidades en Python. Al entender los fundamentos de Python, los desarrolladores pueden trabajar de manera más efectiva y eficiente, lo que les permite crear proyectos más complejos y seguros.</summary>
-    <published>2026-10-02T14:00:17+00:00</published>
+La introducción de Muse ha generado un debate sobre la seguridad y la privacidad en la era de la inteligencia artificial. Mientras que algunos ven a Muse como una herramienta innovadora para mejorar la productividad y la eficiencia, otros expresan preocupación sobre el potencial de errores o manipulación por parte de agentes maliciosos.</summary>
+    <published>2026-10-05T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-govern-ai-agents/</id>
-    <title>[Data Science] Cómo gobernar agentes de inteligencia artificial</title>
-    <updated>2026-10-05T13:08:48.583243+00:00</updated>
+    <id>https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/</id>
+    <title>[Data Science] Cuatro trampas en un tarea de predicción. ¿Qué hicieron cuatro asistentes de inteligencia artificial?</title>
+    <updated>2026-10-06T13:09:09.666508+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-govern-ai-agents/"/>
-    <summary>La gobernanza de los agentes de inteligencia artificial ha evolucionado significativamente en los últimos años. Con la creciente cantidad de agentes y sub-agentes en uso, las organizaciones enfrentan desafíos para garantizar la seguridad, la privacidad y la responsabilidad en la implementación de estos sistemas. La falta de gobernanza adecuada puede llevar a brechas de seguridad, pérdida de datos y costos innecesarios. En este artículo, se discuten las cuatro pilares de gobernanza para agentes de inteligencia artificial: gestión de ciclo de vida, gestión de riesgos, seguridad y observabilidad. Se presentan ejemplos concretos de cómo aplicar estas pilas para garantizar la gobernanza de los agentes y evitar problemas.
+    <link href="https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/"/>
+    <summary>Un experimento controlado con Gemini, DeepSeek, ChatGPT y Claude para evaluar cómo manejan cuatro trampas en un dataset de ventas: una columna que sabe la respuesta, retrasos en la entrega de datos, efectos de promoción y roturas estructurales. Los modelos superaron la prueba de la columna que sabe la respuesta, pero la de los retrasos en la entrega de datos y los efectos de promoción fueron más desafiantes. La prueba de roturas estructurales fue la más difícil, ya que requiere que los modelos detecten cambios en el dataset que no están documentados. Los resultados sugieren que los modelos pueden aprender a manejar estas trampas, pero es importante evaluar su rendimiento en entornos reales.
 
 Contexto IA (informativo):
-La gobernanza de los agentes de inteligencia artificial es un tema cada vez más relevante en la era de la inteligencia artificial. La creciente cantidad de agentes y sub-agentes en uso ha llevado a una mayor necesidad de garantizar la seguridad, la privacidad y la responsabilidad en su implementación.</summary>
-    <published>2026-10-04T14:00:00+00:00</published>
+La evaluación de los modelos de inteligencia artificial es crucial para garantizar su precisión y confiabilidad en aplicaciones prácticas. Sin embargo, muchos modelos pueden fallar en situaciones complejas, como la detección de trampas en el datos. En este artículo, se presenta un experimento controlado para evaluar cómo manejan cuatro trampas en un dataset de ventas: una columna que sabe la respuesta, retrasos en la entrega de datos, efectos de promoción y roturas estructurales. Los resultados sugieren que los modelos pueden aprender a manejar estas trampas, pero es importante evaluar su rendimiento en entornos reales.</summary>
+    <published>2026-10-06T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/</id>
-    <title>[Data Science] Cómo construir un router de modelo económico y confiable con Jev</title>
-    <updated>2026-10-05T13:08:48.583210+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/"/>
-    <summary>El modelado de rutas es una forma inteligente de optimizar un sistema de inteligencia artificial. Jev es un modelo que puede elegir el modelo óptimo según la complejidad del tarea. Este enfoque permite a los desarrolladores crear aplicaciones más eficientes y confiables. Aunque Jev ofrece beneficios significativos, su adopción es limitada debido a la falta de confiabilidad y latencia aumentada. En este artículo, se explora cómo utilizar Jev para modelado de rutas y se presenta un ejemplo de código.
-
-Contexto IA (informativo):
-El uso de modelos de rutas en sistemas de inteligencia artificial ha sido limitado debido a la falta de confiabilidad y latencia aumentada. Sin embargo, Jev ofrece una solución a este problema. Este modelo puede elegir el modelo óptimo según la complejidad de la tarea, lo que permite a los desarrolladores crear aplicaciones más eficientes y confiables.</summary>
-    <published>2026-10-05T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/</id>
-    <title>[Data Science] Cómo (y por qué) construir un agente de inteligencia artificial desde cero en Python</title>
-    <updated>2026-10-05T13:08:48.583169+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/"/>
-    <summary>En este artículo, aprenderás qué es un agente de inteligencia artificial y cómo construir uno desde cero en Python utilizando la API Anthropic, sin depender de ningún framework de coordinación. Cubrimos temas como: por qué el llamado a herramientas es necesario y cómo definir una herramienta que el modelo pueda utilizar. También aprenderás a implementar el ciclo de petición-execución-respuesta que impulsa el comportamiento del agente. Además, aprenderás a agregar memoria persistente para que el agente mantenga contexto a lo largo de múltiples turnos. La introducción explica que un agente de inteligencia artificial es lo que resulta cuando el modelo puede llamar a algo más, como una función, una consulta a una base de datos o una API, y utilizar el resultado antes de responder. El artículo cubre cómo escribir un agente desde cero en plain Python, utilizando una llamada API directa, lo que hace que la arquitectura subyacente sea clara. En su esencia, hay solo un modelo, un ciclo que maneja la interacción, y una pequeña serie de funciones bien definidas que le dan al modelo las capacidades que necesita. Al despejar los frameworks y las abstracciones, se hace más fácil ver cómo estos piezas se encajan y qué está realmente sucediendo bajo la capa. El artículo cubre: por qué el llamado a herramientas es necesario y qué necesitas instalado para intentarlo, cómo describir una herramienta para que el modelo la conozca, qué es el ciclo de petición-execución-respuesta en código, y cómo agregar memoria para que el agente mantenga contexto a lo largo de turnos. Puedes encontrar el código complementario para este artículo en este repositorio de GitHub. Las pruebas iniciales requieren Python 3.10 o más tarde, una clave de API Anthropic y la biblioteca de Python Anthropic. Establece tu clave como una variable de entorno para que el cliente la utilice sin codificarla en ningún lugar. Este es todo lo que necesitas para empezar. Puedes encontrar todo el código en el archivo agent.py. ⚠️ Un aviso para los lectores: Anthropic retirará oficialmente el modelo Claude Sonnet 4.5 el 30 de noviembre de 2026. Si sigues siguiendo este tutorial después de esa fecha, el código específico utilizado en estos ejemplos dejará de funcionar. Para asegurarte de que tu proyecto funcione correctamente, reemplaza la cadena del modelo en las llamadas API con una versión más nueva o la última disponible. Configurando el llamado al modelo
-
-Contexto IA (informativo):
-Un agente de inteligencia artificial es lo que resulta cuando el modelo puede llamar a algo más, como una función, una consulta a una base de datos o una API, y utilizar el resultado antes de responder. El artículo cubre cómo escribir un agente desde cero en plain Python, utilizando una llamada API directa, lo que hace que la arquitectura subyacente sea clara. En su esencia, hay solo un modelo, un ciclo que maneja la interacción, y una pequeña serie de funciones bien definidas que le dan al modelo las capacidades que necesita. Al despejar los frameworks y las abstracciones, se hace más fácil ver cómo estos piezas se encajan y qué está realmente sucediendo bajo la capa.</summary>
-    <published>2026-10-05T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting</id>
-    <title>[Data Science] 3 Trucos de Statsmodels para el Análisis y Predicción de Series Temporales</title>
-    <updated>2026-10-05T13:08:48.583133+00:00</updated>
+    <id>https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries</id>
+    <title>[Data Science] 5 Mejores Prácticas para Construir Bibliotecas de Inteligencia Artificial Robustas en Python</title>
+    <updated>2026-10-06T13:09:09.666473+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting"/>
-    <summary>En este artículo se presentan tres trucos para mejorar el análisis y la predicción de series temporales utilizando la biblioteca Statsmodels. El primer truco consiste en pedir el intervalo de confianza en lugar de solo el valor predicho. El segundo truco es agregar nuevos datos sin refitjar el modelo. El tercer truco es utilizar la función STLForecast para hacer la seasonality de manera automática. Estos trucos pueden mejorar la precisión de las predicciones y ahorrar tiempo en el proceso de análisis.
+    <link href="https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries"/>
+    <summary>Esta artículo cubre las mejores prácticas para construir bibliotecas de inteligencia artificial robustas en Python específicamente, las mejores prácticas de SDK de Python de inteligencia artificial, y qué diferencia una biblioteca de producción lista de una que solo sobrevive en su propio demo. Se analiza cómo una biblioteca de inteligencia artificial bien diseñada debe funcionar, y qué características debe tener para ser considerada robusta. Se presentan cinco prácticas, cada una con código real y funcionando que se construye hacia una pequeña biblioteca de ejemplo, así como los errores que se deben evitar a lo largo del camino. Se requiere conocimiento de modernas prácticas de paquetización de Python, pytest y una gran cantidad de modelos de lenguaje o proveedores de modelos API. Se analiza cómo una biblioteca de inteligencia artificial debe ser diseñada para ser robusta y se presentan ejemplos reales de código para ilustrar cada práctica.
 
 Contexto IA (informativo):
-Estos trucos se pueden aplicar a diferentes tipos de series temporales y pueden ser útiles para mejorar la precisión de las predicciones y reducir el tiempo de análisis.</summary>
-    <published>2026-10-05T12:00:37+00:00</published>
+La construcción de bibliotecas de inteligencia artificial robustas en Python es un tema importante, ya que muchas bibliotecas de inteligencia artificial no son robustas y solo funcionan en su propio demo. La biblioteca de inteligencia artificial debe ser diseñada para ser robusta, lo que significa que debe ser capaz de manejar diferentes escenarios y errores. La biblioteca debe ser capaz de validar sus entradas y salidas, aislar sus dependencias y tener un pipeline de integración continuo. También es importante que la biblioteca sea fácil de usar y tenga una interfaz pública clara y documentada.</summary>
+    <published>2026-10-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29409</id>
-    <title>[Fórmula 1] Mekies celebra victoria histórica de Red Bull en GP de Bahrain</title>
-    <updated>2026-10-05T13:08:48.583068+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/</id>
+    <title>[Data Science] Cómo hacer que un nube lea la mente de un dron y reduzca el uso de datos en un 94%</title>
+    <updated>2026-10-06T13:09:09.666439+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29409"/>
-    <summary>La victoria de Max Verstappen en el GP de Bahrain marcó un hito en la historia de Red Bull, ya que el piloto convertió su posición de pole en una victoria dominante. La victoria fue el resultado de cinco años de trabajo en el proyecto de unidad de potencia de Red Bull, desarrollado en colaboración con Ford. Mekies destacó el trabajo de todos los involucrados y expresó su agradecimiento a la fuerza laboral de Red Bull y el circuito de Sepang. La victoria también fue un éxito para Red Bull, que demostró su progreso en la temporada 2026. Sin embargo, la celebración estuvo acompañada de la decepción de Isack Hadjar, que perdió la oportunidad de un podio después de una falla de potencia en su coche.
+    <link href="https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/"/>
+    <summary>Un dron y una nube están actualmente conectados de manera constante, enviando una gran cantidad de datos a la nube, lo que resulta en un alto consumo de banda. Un mundo de modelos de inteligencia artificial puede ayudar a reducir este consumo de datos. El mundo de modelo es un programa que puede imaginar qué sucede a continuación. Se le da a mano dos cosas: la situación actual y la acción que se está tomando. Luego, le devuelve la situación una vez más. El modelo no aprende esto de un libro de física, sino que lo aprende observando muchos ejemplos. El modelo puede jugar el futuro en su cabeza, sin que haya una máquina real involucrada. En este artículo, se muestra cómo un mundo de modelo puede ayudar a reducir el consumo de datos de un dron y una nube. Se utiliza un ejemplo de un cartucho, un polea y el viento para ilustrar el concepto.
 
 Contexto IA (informativo):
-La victoria de Verstappen en el GP de Bahrain fue un momento importante en la historia de Red Bull, ya que marcó el primer éxito de la escudería como fabricante de unidades de potencia en su primera temporada. La victoria también fue un reflejo del progreso de Red Bull en la temporada 2026, que ha demostrado una mejora significativa en la performance y la conducción de su equipo.</summary>
-    <published>2026-10-05T08:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195/</id>
-    <title>[Fórmula 1] Honda HRC obtendrá un nuevo jefe con Watanabe a punto de retirarse</title>
-    <updated>2026-10-05T13:08:48.583035+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195/"/>
-    <summary>Koji Watanabe, el largo tiempo jefe de las actividades de carreras de Honda bajo HRC, se retirará el 1 de enero de 2027, con Keiichi Yasuda designado como su sucesor. Después de unirse a la marca japonesa en 1987, Watanabe se convirtió en el jefe de la división de carreras de Honda en 2022. Durante ese tiempo, Watanabe supervisó la fusión de las divisiones de cuatro y dos ruedas de la empresa, así como su
-
-Contexto IA (informativo):
-El anuncio de la retiro de Watanabe se hace coincidir con la llegada de Yasuda, quien se une a Honda con una larga trayectoria en la empresa. La noticia ha generado expectación entre los aficionados a la carreras de motocicletas.</summary>
-    <published>2026-10-05T08:28:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29415</id>
-    <title>[Fórmula 1] Mercedes admite que el ritmo de Sepang no fue suficiente para Russell</title>
-    <updated>2026-10-05T13:08:48.582994+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29415"/>
-    <summary>Mercedes reconoce que no logró el ritmo necesario para desafiar a Verstappen para ganar en Sepang. A pesar de haber tomado la decisión correcta al poner a ambos pilotos en neumáticos intermedios, el equipo no pudo mantener el ritmo de Verstappen, que demostró una gran velocidad en los softs. Russell sufrió una retirada prematura debido a un posible fallo en el sistema de potencia. A pesar de la frustración de Russell, Mercedes está satisfecho con su ejecución estratégica y la segunda posición de Antonelli. El equipo ahora se enfoca en analizar los datos y mejorar su rendimiento en la próxima carrera en Singapur.
-
-Contexto IA (informativo):
-El equipo Mercedes enfrenta un desafío significativo para mejorar su rendimiento en las próximas carreras, especialmente en circuitos con temperaturas extremas como Sepang. La retirada de Russell ha sido un golpe para el equipo, pero Mercedes está determinada a aprender de sus errores y regresar más fuerte en Singapur.</summary>
-    <published>2026-10-05T09:00:00+00:00</published>
+El consumo de banda de las máquinas remotas, como drones y robots, es un problema común. La solución puede estar en la inteligencia artificial. Un mundo de modelo puede ayudar a reducir el consumo de datos de estas máquinas. Sin embargo, es importante destacar que este artículo no se trata de una solución real para drones y robots, sino de un ejemplo de cómo funciona un mundo de modelo en un entorno simulado.</summary>
+    <published>2026-10-06T12:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/the-added-consequence-of-george-russells-retirement-in-malaysia/10862235/</id>
     <title>[Fórmula 1] La consecuencia direta de la retirada de Russell en el GP de Bahrain</title>
-    <updated>2026-10-05T13:08:48.582908+00:00</updated>
+    <updated>2026-10-06T13:09:09.666406+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
@@ -207,149 +151,163 @@ La retirada de Russell fue un golpe sorpresa para muchos, ya que había estado t
     <published>2026-10-05T11:15:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/andrea-stella-f1-must-avoid-sepang-repeat-but-accept-occasional-glitches/10862197/</id>
-    <title>[Fórmula 1] Andrea Stella: La F1 debe evitar la repetición de Sepang, pero acepta "glitchs" ocasionales</title>
-    <updated>2026-10-05T13:08:48.582867+00:00</updated>
+    <id>https://www.f1technical.net/news/29412</id>
+    <title>[Fórmula 1] Leclerc defiende a Vasseur y pide a Ferrari que silencien las ‘rumores tontos’ después de la recuperación en Sepang</title>
+    <updated>2026-10-06T13:09:09.666372+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29412"/>
+    <summary>Después de la recuperación en el Gran Premio de Bahrain, Charles Leclerc ha defendido a su jefe de equipo Fred Vasseur y ha pedido a Ferrari que silencien las ‘rumores tontos’ que rodean su futuro. Leclerc ha expresado su satisfacción con el resultado, que le permitió terminar cuarto, y ha llamado a la equipo para que aprendan de sus errores y mejoren su ejecución en condiciones cambiantes. El piloto monegascuense ha asegurado que Ferrari sigue unida y enfocada en regresar a la cima, y ha expresado su frustración con las noticias que han circulado sobre el equipo.
+
+Contexto IA (informativo):
+La recuperación de Leclerc en el Gran Premio de Bahrain ha proporcionado evidencia de que Ferrari sigue unida y enfocada en regresar a la cima, a pesar de las presiones externas. El equipo ha demostrado una sólida velocidad subyacente, pero su ejecución en condiciones cambiantes sigue siendo un área que necesita mejora.</summary>
+    <published>2026-10-05T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29427</id>
+    <title>[Fórmula 1] Las lecciones que Antonelli aprendió de Verstappen y Hamilton en Sepang</title>
+    <updated>2026-10-06T13:09:09.666338+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29427"/>
+    <summary>Kimi Antonelli, el joven piloto de Mercedes, ha aprendido valiosas lecciones de Max Verstappen y Lewis Hamilton durante el Gran Premio de Bahrain en Sepang. Aunque su segundo lugar en la carrera le extendió su liderazgo en la clasificación de pilotos a 84 puntos, Antonelli reconoció que la actuación de Verstappen durante la carrera proporcionó otra oportunidad de aprendizaje. La decisión de Mercedes de poner a Antonelli y George Russell en neumáticos intermedios antes del inicio fue correcta y se tradujo en una excelente salida para Antonelli, que tomó la liderazgo y Russell siguió en segundo lugar. Sin embargo, cuando ambos Mercedes drivers cambiaron a neumáticos medios durante el primer período de seguridad, Verstappen, que había optado por neumáticos suaves, se convirtió en la carroza más rápida y superó a ambos pilotos en la reapertura. Antonelli se impresionó especialmente con cómo Verstappen posicionó su Red Bull a través de las primeras curvas, lo que le permitió maximizar la adhesión en la pista húmeda.
+
+Contexto IA (informativo):
+La experiencia de Antonelli con Verstappen y Hamilton es única, ya que ambos pilotos tienen estilos y niveles de experiencia muy diferentes. Aunque Verstappen es un piloto más joven y experimentado, Hamilton ha acumulado décadas de experiencia en la categoría y es un ejemplo a seguir para Antonelli en términos de mantener la concentración en situaciones difíciles.</summary>
+    <published>2026-10-06T05:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/</id>
+    <title>[Fórmula 1] ¿Qué causó la deficiencia de ritmo de Mercedes en Sepang a pesar de la actualización del W17?</title>
+    <updated>2026-10-06T13:09:09.666305+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/"/>
+    <summary>Mercedes presentó un paquete de actualización en el circuito de Sepang, pero no logró aprovecharlo debido a las condiciones difíciles. El equipo ha investigado su rendimiento en el Gran Premio de Bahrain, donde se enfrentó a problemas para comprender su nuevo paquete de actualización. La deficiencia de ritmo se debió a la dificultad para optimizar el nuevo paquete de actualización, lo que afectó su rendimiento en el circuito de Sepang.
+
+Contexto IA (informativo):
+El equipo de Mercedes presentó un paquete de actualización para el circuito de Sepang, pero no logró aprovecharlo debido a las condiciones difíciles. El equipo ha investigado su rendimiento en el Gran Premio de Bahrain, donde se enfrentó a problemas para comprender su nuevo paquete de actualización.</summary>
+    <published>2026-10-06T09:54:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/lewis-hamilton-reveals-full-ferrari-f40-restoration-in-new-video/10862512/</id>
+    <title>[Fórmula 1] Lewis Hamilton revela la restauración completa del Ferrari F40 en nuevo video</title>
+    <updated>2026-10-06T13:09:09.666274+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/andrea-stella-f1-must-avoid-sepang-repeat-but-accept-occasional-glitches/10862197/"/>
-    <summary>El director de McLaren, Andrea Stella, ha aceptado que los problemas de software que afectaron al Gran Premio de Bahrain sean una posibilidad con las actuales regulaciones. Sin embargo, espera que la FIA pueda evitar una repetición. El inicio en el circuito húmedo de Sepang fue abortado después de que muchos coches sufrieron un problema de software que los dejó sin entrada de gasolina durante los formularios. El problema fue ...
+    <link href="https://www.motorsport.com/f1/news/lewis-hamilton-reveals-full-ferrari-f40-restoration-in-new-video/10862512/"/>
+    <summary>Lewis Hamilton ha publicado el video completo de la restauración de su Ferrari F40 en YouTube. El siete veces campeón de Fórmula 1 reveló la carretera antes del Gran Premio de Italia este año. En el video, Hamilton describe su conexión con el vehículo y su importancia para él. La restauración del F40 es un proyecto personal para el piloto británico.
 
 Contexto IA (informativo):
-El incidente en Sepang fue un recordatorio de los desafíos que enfrenta la F1 en términos de seguridad y rendimiento, y de la importancia de la cooperación entre los equipos y la FIA para abordar estos problemas.</summary>
-    <published>2026-10-05T12:40:37+00:00</published>
+El video de la restauración del F40 se publicó después de que Hamilton revelara la carretera en el Gran Premio de Italia. La noticia generó gran interés entre los fanáticos de Fórmula 1 y los entusiastas de la marca Ferrari.</summary>
+    <published>2026-10-06T12:28:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/george-russell-criticises-complicated-f1-after-chaotic-bahrain-gp/10862295/</id>
-    <title>[Fórmula 1] George Russell critica la "complicada" F1 después del GP de Bahrain</title>
-    <updated>2026-10-05T13:08:48.582782+00:00</updated>
+    <id>https://racer.com/2026/10/06/did-mclaren-s-latest-upgrade-work-not-even-mclaren-is-sure-yet</id>
+    <title>[Fórmula 1] ¿Funcionó el último upgrade de McLaren?</title>
+    <updated>2026-10-06T13:09:09.666241+00:00</updated>
     <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
+      <name>RACER</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/george-russell-criticises-complicated-f1-after-chaotic-bahrain-gp/10862295/"/>
-    <summary>El piloto de Mercedes George Russell ha criticado el GP de Bahrain de F1 como "no muy F1" debido a la caída de su unidad de potencia en el último tramo, lo que le quitó sus posibilidades de alcanzar el podio. Russell había estado en la lucha por el podio en el circuito de Sepang antes de que su unidad de potencia fallara en la 50ª vuelta. Este incidente se sumó a una campaña difícil para el piloto. Russell expresó su insatisfacción con el resultado y la complejidad del evento
+    <link href="https://racer.com/2026/10/06/did-mclaren-s-latest-upgrade-work-not-even-mclaren-is-sure-yet"/>
+    <summary>El equipo de McLaren, liderado por Andrea Stella, ha afirmado que las últimas actualizaciones mejoraron la potencialidad de su coche, pero aún no está claro si ha logrado mejorar su posición en el ranking de F1. La actualización incluyó cambios en el sistema de frenado y en la configuración del motor. El equipo está trabajando para optimizar el rendimiento de su vehículo antes del próximo Gran Premio de España. La competencia sigue siendo intensa, y el equipo de McLaren debe demostrar su capacidad para mantenerse en el liderato.
 
 Contexto IA (informativo):
-El GP de Bahrain fue el segundo de la temporada de F1 y se llevó a cabo en el circuito de Sepang. La carrera fue marcada por varios incidentes y accidentes, lo que generó una gran cantidad de controversia entre los pilotos y los aficionados.</summary>
-    <published>2026-10-05T12:54:13+00:00</published>
+El equipo de McLaren ha estado trabajando arduamente para mejorar su rendimiento en la temporada actual. La última actualización es solo el último paso en su esfuerzo por mantenerse competitivo en el mundo de F1.</summary>
+    <published>2026-10-06T12:45:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance</id>
-    <title>[Tecnología] Google admite que no todos los aplicativos Android funcionan bien en laptops Intel Googlebooks</title>
-    <updated>2026-10-05T13:08:48.582715+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance"/>
-    <summary>Google ha reconocido que algunos aplicativos Android pueden tener problemas de rendimiento en las laptops Intel Googlebooks. Aunque la mayoría de los aplicativos Android funcionan sin problemas en ambas versiones, algunos pueden tener dificultades. Esto se debe a que algunos aplicativos no están optimizados para funcionar en la plataforma Intel. Google ha asegurado que los usuarios tendrán acceso a la biblioteca completa de aplicaciones del Play Store y que podrán interactuar con sus dispositivos móviles de manera efectiva. Sin embargo, es posible que algunos usuarios experimenten problemas de rendimiento con algunos aplicativos. Es importante tener en cuenta que la mayoría de los aplicativos Android funcionan sin problemas en las laptops Intel Googlebooks
-
-Contexto IA (informativo):
-Google ha estado enfocándose en la compatibilidad de sus laptops con la plataforma Android, lo que ha llevado a una mayor accesibilidad para los usuarios. La empresa ha estado trabajando para asegurarse de que sus laptops funcionen de manera efectiva con la mayoría de los aplicativos Android.</summary>
-    <published>2026-10-05T10:58:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/spider-man-brand-new-day-gets-one-last-win-before-home-release-2000821415</id>
-    <title>[Tecnología] Spider-Man: Brand New Day obtiene su última victoria antes de su estreno en casa</title>
-    <updated>2026-10-05T13:08:48.582679+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/spider-man-brand-new-day-gets-one-last-win-before-home-release-2000821415"/>
-    <summary>Spider-Man: Brand New Day se estrenará en VOD el martes, pero todavía está en cines y sigue ganando dinero. Con esta última semana, el presupuesto global de Spidey supera los 2.500 millones de dólares. Además, se convierte en el tercero más alto de todos los tiempos y el más alto de 2026 y en América del Norte. Según el Hollywood Reporter, Brand New Day también es el más alto de todos los tiempos para el personaje de Spider-Man. Además, las películas de Peter Parker, incluyendo sus títulos principales y apariciones especiales en otras películas, han recaudado más de 17.500 millones de dólares en todo el mundo. La película Avengers Endgame: Encore sigue ganando dinero en su segunda semana, con 18.800 millones de dólares en todo el mundo, 14.400 millones de dólares de los cuales provienen de territorios internacionales. Con la reestreno, Endgame vuelve a ser el número uno de todos los tiempos con 2.925.500 millones de dólares en todo el mundo, solo un poco por delante de Avatar con 2.923.700 millones de dólares. Hasta que Avatar cumpla 20 años en 2009, o que otra película de Avengers o Star Wars llegue, Endgame puede mantener su puesto en el número uno por un tiempo. Se han rumorado que Sony podría intentar doblegar con Brand New Day y ponerla de nuevo en cines con algunos extras. Esto no sería la primera vez que una película de Holland Spidey se reestrena, por lo que si lo hace, sería un sorpreso interesante para los Avengers de perder su puesto por una de sus propias películas.
-
-Contexto IA (informativo):
-La película de Spider-Man: Brand New Day sigue ganando dinero en las taquillas, lo que la convierte en una de las películas más exitosas de la historia. La reestreno de Avengers Endgame: Encore también sigue ganando dinero, lo que lo mantiene en el número uno de las taquillas. La industria del cine sigue siendo emocionante y lleno de sorpresas, y es probable que se mantenga así en el futuro.</summary>
-    <published>2026-10-05T12:00:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo</id>
-    <title>[Tecnología] El teléfono de TCL con pantalla OLED 'papelike' me ha hecho más emocionado con el iPhone Duo</title>
-    <updated>2026-10-05T13:08:48.582646+00:00</updated>
+    <id>https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin</id>
+    <title>[Tecnología] Una ola planetaria que llega a California no es lo que crees</title>
+    <updated>2026-10-06T13:09:09.666206+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo"/>
-    <summary>El teléfono TCL P80 Ultra cuenta con una pantalla OLED con acabado 'papelike' que me ha impresionado. Aunque la pantalla no es única, su acabado y la experiencia de uso me han hecho reflexionar sobre el iPhone Duo con su pantalla interna matte. La tecnología Nxtpaper es más que un acabado matte, también incluye un sentimiento de papel y modos de bajo consumo que crean una simulación razonable de una pantalla E Ink. Lo que más me ha gustado es el acabado matte, que ha sido un gran punto de interés para mí.
+    <link href="https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin"/>
+    <summary>Una ola planetaria llamada Kelvin que transporta agua cálida hacia las Américas está llegando hacia California, lo que puede exacerbar problemas en costas vulnerables. Estas olas son comunes y pueden tener consecuencias más dramáticas que de costumbre. Es importante entender qué es y qué no es una ola planetaria para no caer en exageraciones alarmistas. La llegada de esta ola puede tener un impacto significativo en las costas californianas.
 
 Contexto IA (informativo):
-La tecnología Nxtpaper se introdujo en el TCL Nxtpaper 40 en 2023 y se ha utilizado en tabletas desde 2021. La pantalla OLED del P80 Ultra es una de las mejores que he probado en un teléfono.</summary>
-    <published>2026-10-05T12:02:41+00:00</published>
+Las olas planetarias son fenómenos naturales que ocurren cuando el agua cálida del océano se mueve hacia las costas. Aunque pueden parecer amenazantes, son eventos comunes que pueden tener consecuencias más graves que de costumbre.</summary>
+    <published>2026-10-06T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2277034/google-admits-some-complex-android-apps-run-poorly-on-intel-googlebooks/</id>
-    <title>[Tecnología] Google admite que algunos aplicativos Android funcionan mal en libros Google Intel</title>
-    <updated>2026-10-05T13:08:48.582613+00:00</updated>
+    <id>https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/</id>
+    <title>[Tecnología] ¿Qué significa el icono de la escudo en tu Samsung Galaxy?</title>
+    <updated>2026-10-06T13:09:09.666173+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2277034/google-admits-some-complex-android-apps-run-poorly-on-intel-googlebooks/"/>
-    <summary>Google admite que algunos aplicativos Android complejos pueden tener problemas de compatibilidad en los libros Google Intel. Aunque la mayoría de los aplicativos Android funcionan bien en ambos tipos de libros, algunos requieren ajustes de los desarrolladores para funcionar al máximo. Google está trabajando con los desarrolladores de aplicaciones, Intel y Qualcomm para mejorar la compatibilidad y el rendimiento. Los libros Google Intel ofrecen una curada selección de aplicaciones optimizadas, pero algunos aplicativos pueden funcionar mal sin ajustes.
+    <link href="https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/"/>
+    <summary>El icono de la escudo en la batería de tu Samsung Galaxy no es una característica de seguridad, sino una protección contra la degradación de la batería. Al limitar la carga de la batería, se evita el agotamiento prematuro y se prolonga su vida útil. La protección de la batería ofrece diferentes modos, como Basic y Maximum, que permiten ajustar la carga de la batería según las necesidades del usuario. Es recomendable activar esta función si tienes un hábito de dejar la batería cargada durante largas horas, ya que esto puede afectar negativamente la salud de la batería. Por otro lado, si tienes un hábito de cargar la batería rápidamente, es posible que no necesites esta función.
 
 Contexto IA (informativo):
-Los libros Google Intel están diseñados para funcionar bien con los smartphones Android, pero algunos aplicativos pueden tener problemas de compatibilidad en las versiones con procesador Intel.</summary>
-    <published>2026-10-05T12:38:55+00:00</published>
+Las baterías de iones de litio, como las utilizadas en los teléfonos Samsung, se ven afectadas por la carga repetida y pueden agotarse más rápido. La protección de la batería es una característica diseñada para prevenir este tipo de degradación y prolongar la vida útil de la batería.</summary>
+    <published>2026-10-06T12:15:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2275004/how-far-wifi-extender-placement-from-router/</id>
-    <title>[Tecnología] ¿Cuán lejos puede estar un extender de Wi-Fi de tu router?</title>
-    <updated>2026-10-05T13:08:48.582575+00:00</updated>
+    <id>https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale</id>
+    <title>[Tecnología] El reloj inteligente más recomendado de Apple se ofrece a $50 de descuento</title>
+    <updated>2026-10-06T13:09:09.666136+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://www.engadget.com/2275004/how-far-wifi-extender-placement-from-router/"/>
-    <summary>Los extenders de Wi-Fi pueden ser finicos y la colocación es crucial. Aunque el número de antenas de tu router no importa, su señal se ve afectada por la distancia. Los extenders pueden ayudar a cubrir zonas muertas, pero tienen sus limitaciones. La colocación adecuada es vital porque los extenders reciben y retransmiten la señal, lo que reduce su capacidad de banda. La distancia ideal varía según el modelo y la construcción del espacio. En general, se recomienda colocar el extender a medio camino entre el dispositivo o la zona muerta y el router, pero esto puede variar. Es importante considerar obstáculos como paredes de concreto, madera, metales y otros objetos que pueden interferir con la señal. Para encontrar la posición perfecta, es recomendable utilizar el LED de señal del extender y moverlo gradualmente hacia la zona muerta hasta encontrar un punto equilibrado. También es importante mantener el extender a una altura de cuatro pies y orientar las antenas hacia arriba.
+    <link href="https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale"/>
+    <summary>El reloj inteligente Apple Watch SE 3 es una excelente opción para la mayoría de las personas debido a su precio asequible y sus características, que incluyen una pantalla siempre encendida, un sensor de temperatura en el brazo y un procesador más potente. En la última Oktoberfest Prime Day, Amazon ofreció descuentos en toda la línea, incluyendo tamaños de 40mm y 44mm, y opciones con GPS o conexión celular. El modelo Wi-Fi y GPS se ofrece a $199 para el tamaño de 40mm, mientras que el modelo 44mm se ofrece a $229. Si también deseas una conexión celular, el modelo 40mm se ofrece a $249 y el modelo 44mm a $279. Este reloj ha mejorado significativamente con la adición de una pantalla siempre encendida, un sensor de temperatura en el brazo, un procesador más potente y una carga rápida. Puedes leer nuestra revisión del reloj. El Apple Watch SE 3 es una excelente opción para aquellos que buscan un reloj inteligente asequible con características avanzadas. El reloj se ofrece en diferentes tamaños y opciones de conexión, lo que lo hace accesible para una amplia gama de usuarios. El precio de $199 para el modelo Wi-Fi y GPS es una excelente oferta para aquellos que buscan un reloj inteligente con características avanzadas. El reloj también ofrece una buena relación calidad-precio, lo que lo hace una excelente opción para aquellos que buscan un reloj inteligente sin gastar mucho dinero. El Apple Watch SE 3 es una excelente opción para aquellos que buscan un reloj inteligente con características avanzadas y un precio asequible. El reloj se ofrece en diferentes tamaños y opciones de conexión, lo que lo hace accesible para una amplia gama de usuarios. El precio de $199 para el modelo Wi-Fi y GPS es una excelente oferta para aquellos que buscan un reloj inteligente con características avanzadas. El reloj también ofrece una buena relación calidad-precio, lo que lo hace una excelente opción para aquellos que buscan un reloj inteligente sin gastar mucho dinero.
 
 Contexto IA (informativo):
-En resumen, los extenders de Wi-Fi pueden ser una solución sencilla y económica para cubrir zonas muertas, pero no son infalibles. En algunos casos, pueden no ofrecer una buena conexión debido a la interferencia o la distancia. En estos casos, se pueden considerar otras opciones como cables Ethernet o sistemas de Wi-Fi mesh, que ofrecen una conexión más estable y eficiente.</summary>
-    <published>2026-10-05T12:45:00+00:00</published>
+El Apple Watch SE 3 es una excelente opción para aquellos que buscan un reloj inteligente con características avanzadas y un precio asequible. El reloj se ofrece en diferentes tamaños y opciones de conexión, lo que lo hace accesible para una amplia gama de usuarios. El precio de $199 para el modelo Wi-Fi y GPS es una excelente oferta para aquellos que buscan un reloj inteligente con características avanzadas.</summary>
+    <published>2026-10-06T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/stephen-colberts-lord-of-the-rings-movie-reportedly-paused-over-paramount-warner-bros-merger-2000821429</id>
-    <title>[Tecnología] El filme de Lord de los Anillos de Stephen Colbert se ha pospuesto debido al cambio de dueños de Paramount y Warner Bros.</title>
-    <updated>2026-10-05T13:08:48.582509+00:00</updated>
+    <id>https://gizmodo.com/how-an-open-source-tool-banished-apple-intelligence-and-saved-my-lost-disk-space-2000821876</id>
+    <title>[Tecnología] Cómo una herramienta de código abierto eliminó la inteligencia artificial de Apple (y recuperó mi espacio de disco perdido)</title>
+    <updated>2026-10-06T13:09:09.666102+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/stephen-colberts-lord-of-the-rings-movie-reportedly-paused-over-paramount-warner-bros-merger-2000821429"/>
-    <summary>Según un informe de Knight Edge Media, el filme de Stephen Colbert, Lord de los Anillos: Shadow of the Past, se ha pospuesto debido al cambio de dueños de Paramount Pictures y Warner Bros. El informe indica que el director, Stephen Colbert, está de nuevo al mercy del CEO David Ellison, aunque estaba trabajando en el filme para Warner Bros. Otro informe de World of Reel indica que Glen Powell ya no está involucrado en el filme Tesseract debido a preocupaciones con el guion. Además, se ha reportado que el filme Avengers: Secret Wars se ha retrasado hasta enero de 2027.
+    <link href="https://gizmodo.com/how-an-open-source-tool-banished-apple-intelligence-and-saved-my-lost-disk-space-2000821876"/>
+    <summary>Mientras intentaba liberar espacio en mi disco duro, descubrí que la última actualización de macOS había instalado una gran cantidad de herramientas de inteligencia artificial que estaban consumiendo espacio. Después de buscar una solución, encontré una herramienta de código abierto llamada RemoveMacAi que me permitió desactivar la inteligencia artificial de Apple y recuperar mi espacio de disco. La herramienta es fácil de usar y funciona como se promete. Sin embargo, es importante tener en cuenta que la inteligencia artificial de Apple es una característica estándar en la mayoría de los sistemas operativos, por lo que es posible que debas volver a activarla en el futuro. En cualquier caso, la herramienta me permitió recuperar mi espacio de disco y evitar que Apple me cobrara por una característica que no deseaba
 
 Contexto IA (informativo):
-El cambio de dueños de Paramount Pictures y Warner Bros. ha generado incertidumbre en varios proyectos de cine y televisión. En este contexto, es interesante recordar que Stephen Colbert estaba trabajando en el filme Lord de los Anillos: Shadow of the Past para Warner Bros. y que Glen Powell ya no está involucrado en el filme Tesseract debido a preocupaciones con el guion.</summary>
-    <published>2026-10-05T12:52:00+00:00</published>
+La inteligencia artificial de Apple se ha vuelto una característica estándar en la mayoría de los sistemas operativos, y su instalación puede consumir un gran cantidad de espacio en el disco duro. Sin embargo, no todos están satisfechos con esta característica y prefieren desactivarla. En este caso, el autor de la noticia encontró una herramienta de código abierto que le permitió desactivar la inteligencia artificial de Apple y recuperar su espacio de disco.</summary>
+    <published>2026-10-06T12:30:42+00:00</published>
   </entry>
   <entry>
-    <id>https://totaldraw.com/blog/color-mixing/</id>
-    <title>[Programación] Corregir la mezcla de colores en Total Draw</title>
-    <updated>2026-10-05T13:08:48.582430+00:00</updated>
+    <id>https://www.wired.com/story/macbook-air-prime-day-10-6-2026/</id>
+    <title>[Tecnología] MacBook Air alcanza su precio más bajo desde junio durante Prime Day</title>
+    <updated>2026-10-06T13:09:09.666066+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://totaldraw.com/blog/color-mixing/"/>
-    <summary>El autor describe cómo ha estado trabajando en la herramienta de mezcla de colores de Total Draw, específicamente en la eliminación de la banda oscura que aparece cuando se mezclan colores. Después de investigar, descubrió que el problema se debe a que los programas de computadora no almacenan la intensidad de los colores, sino la raíz cuadrada de ella. Esto hace que la mezcla de colores no sea precisa. El autor explica que la solución es convertir a un espacio de color perceptual, como OKLab, que toma en cuenta la forma en que percibimos la luz. La implementación de esta solución tiene algunos costos, como una mayor complejidad en los pinceles y la necesidad de mantener la opacidad de las capas y los modos de mezcla clásicos. El autor explica que la solución final es convertir a OKLab en tiempo de ejecución y luego convertirlo de nuevo cuando se escribe el resultado, lo que arregla la mayoría de los problemas que ha estado experimentando.
+    <link href="https://www.wired.com/story/macbook-air-prime-day-10-6-2026/"/>
+    <summary>La MacBook Air M5 está disponible en Amazon con un descuento de $200, lo que la convierte en una oferta atractiva para aquellos que buscan un laptop de alta calidad. Este modelo cuenta con 16 GB de RAM, 512 GB de almacenamiento y una pantalla de 13.6 pulgadas. Es una excelente oportunidad para comprar un MacBook Air a un precio razonable, especialmente considerando que el precio original había aumentado $200. Sin embargo, es importante tener en cuenta que los precios de los modelos más antiguos no son tan atractivos en comparación. Si estás en el mercado de laptops, la MacBook Air M5 es una excelente opción que vale la pena considerar.
 
 Contexto IA (informativo):
-El autor menciona que el problema de la banda oscura se debe a que los programas de computadora no almacenan la intensidad de los colores, sino la raíz cuadrada de ella, lo que hace que la mezcla de colores no sea precisa. También menciona que la solución es convertir a un espacio de color perceptual, como OKLab, que toma en cuenta la forma en que percibimos la luz.</summary>
-    <published>2026-10-04T11:08:30+00:00</published>
+En un momento en que la industria tecnológica experimenta una serie de aumentos de precios, esta oferta de MacBook Air es una noticia agradable para los consumidores. Además, la expectativa de que Apple anuncie un nuevo modelo de MacBook Pro con pantalla OLED en el próximo mes de octubre hace que esta compra sea aún más atractiva.</summary>
+    <published>2026-10-06T12:38:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=9A-XJjnU5Oo</id>
-    <title>[Programación] 8-pinski: Una introducción de ocho bytes para MSDOS</title>
-    <updated>2026-10-05T13:08:48.582394+00:00</updated>
+    <id>https://www.engadget.com/2276615/how-to-fix-distorted-audio-ps5/</id>
+    <title>[Tecnología] Solucionar audio distorsionado en tu PS5</title>
+    <updated>2026-10-06T13:09:09.666027+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.youtube.com/watch?v=9A-XJjnU5Oo"/>
-    <summary>La introducción de 8-pinski es un programa de ocho bytes diseñado para MSDOS. No se proporciona información sobre su funcionalidad específica, pero se destaca su brevedad y simplicidad. El programa se puede considerar un ejemplo de código compacto para el sistema operativo MSDOS. La información disponible sobre 8-pinski es limitada y no se ha proporcionado ninguna descripción detallada de su comportamiento o características.
+    <link href="https://www.engadget.com/2276615/how-to-fix-distorted-audio-ps5/"/>
+    <summary>Si el sonido de tu PS5 está distorsionado, no te dejes llevar por la emoción de la aventura o por la competencia. El sonido es fundamental para tu experiencia de juego, y una buena calidad de sonido puede hacer que la diferencia entre ganar y perder sea significativa. Sin embargo, aumentar el volumen no soluciona el problema de audio distorsionado. Para solucionar este problema, debes investigar y diagnosticar el problema, probando diferentes soluciones antes de considerar la posibilidad de reemplazar tu TV, sistema de sonido o consola. Primero, reinicia todos tus dispositivos y trata de identificar la causa del problema. Si el problema persiste, prueba con diferentes dispositivos y configuraciones para determinar si el problema es específico de tu PS5 o si hay otro factor en juego. Si el problema no ocurre cuando usas aplicaciones nativas de tu TV, es probable que el problema esté en el sistema de sonido de tu TV. Si tienes un dispositivo de HDMI adicional, como una computadora o un dispositivo de streaming como Roku o Apple TV, prueba esos dispositivos con el mismo cable y puerto HDMI que tu PS5. Esto te ayudará a determinar si el problema es específico de tu PS5 o si hay un problema con tus cables. Verifica tus cables y simplifica tus conexiones. Prueba con diferentes puertos HDMI y cables para determinar si el problema es específico de tu PS5 o si hay un problema con tus cables. Si tienes un sistema de sonido externo, prueba con diferentes configuraciones y dispositivos para determinar si el problema es específico de tu PS5 o si hay otro factor en juego. Finalmente, verifica las configuraciones de audio de tu PS5 y ajusta las opciones según sea necesario. Asegúrate de que el formato de audio se ajuste a tu sistema de sonido. Por ejemplo, si estás utilizando tu TV para reproducir audio, selecciona el formato de audio más adecuado para tu sistema de sonido. También es importante verificar que el formato de audio sea compatible con tu sistema de sonido. Si tu TV pasa el audio a un sistema de sonido, debes asegurarte de que el formato de audio sea compatible con ese sistema. Por ejemplo, si estás utilizando un sistema de sonido con Dolby Audio, debes asegurarte de que el formato de audio sea compatible con ese sistema. En resumen, solucionar audio distorsionado en tu PS5 requiere paciencia, investigación y ajustes en las configuraciones de audio. No te rindas, sigue probando diferentes soluciones hasta que encuentres la que funcione para ti.
 
 Contexto IA (informativo):
-Aunque 8-pinski es un programa relativamente pequeño, su diseño y funcionalidad siguen siendo objeto de interés para los entusiastas de la programación y los historietas de la computación antigua.</summary>
-    <published>2026-10-04T19:34:01+00:00</published>
+Es importante recordar que cada consola de PlayStation tiene sus propias características y limitaciones, y que la calidad del sonido puede variar dependiendo de la configuración y del equipo utilizado. Por lo tanto, es fundamental investigar y diagnosticar el problema para encontrar la solución adecuada.</summary>
+    <published>2026-10-06T12:45:00+00:00</published>
   </entry>
   <entry>
     <id>https://elm-lang.org/news/another-step-towards-elm-v1</id>
     <title>[Programación] Otro paso hacia Elm 1.0</title>
-    <updated>2026-10-05T13:08:48.582357+00:00</updated>
+    <updated>2026-10-06T13:09:09.665991+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -361,31 +319,73 @@ Elm ha estado trabajando en un ciclo de liberación más rápido para mejorar la
     <published>2026-10-05T12:40:32+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/session_replay/your-template-set-the-title-something-else-decided-what-shipped-4ple</id>
-    <title>[Programación] El título de una página no se muestra completo</title>
-    <updated>2026-10-05T13:08:48.582282+00:00</updated>
+    <id>https://youtu.be/7mYWbTgEGb8</id>
+    <title>[Programación] Gestión de memoria, explicada de manera sencilla (Parte 2)</title>
+    <updated>2026-10-06T13:09:09.665953+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/session_replay/your-template-set-the-title-something-else-decided-what-shipped-4ple"/>
-    <summary>Un título de página no se muestra completo en los resultados de búsqueda y en las redes sociales. Esto se debe a que el título se truncaba en un punto de palabra, lo que resultaba en un título incompleto. El problema se debió a que el título se estaba asignando a dos lugares diferentes sin que nadie se diera cuenta. El problema se solucionó cuando se identificó que el título se estaba truncando en un punto de palabra y se corrigió el código. El problema no se detectó en los tests porque se estaba asumiendo que el título se estaba mostrando completo. El problema es más grave que un error que lanza una excepción porque no produce ningún evento y no se detecta hasta que alguien busca la información en una herramienta externa. Es importante asegurarse de que los títulos se muestren completo y que se detecten los problemas antes de que alguien los notifique.
+    <link href="https://youtu.be/7mYWbTgEGb8"/>
+    <summary>En este artículo, se explora en detalle la gestión de memoria, un tema fundamental en la programación. Se abordan conceptos como la memoria virtual, la gestión de la memoria y la optimización de la memoria. El artículo proporciona una visión general clara y concisa de este tema complejo, ideal para programadores principiantes y expertos por igual.
 
 Contexto IA (informativo):
-La falta de detección de errores en sistemas de software puede ser un problema grave. Los errores que no se detectan en el sistema mismo, pero que se notan en herramientas externas o en usuarios finales, pueden ser más difíciles de solucionar que los errores que se detectan en el sistema. Es importante realizar pruebas exhaustivas y asegurarse de que los sistemas se comporten correctamente en diferentes escenarios.</summary>
-    <published>2026-10-05T12:58:17+00:00</published>
+Este artículo forma parte de una serie de artículos que explican conceptos fundamentales de la programación de manera sencilla y accesible. La serie busca proporcionar una comprensión clara y concisa de temas complejos, permitiendo a los lectores avanzar en su conocimiento y habilidades en el campo de la programación.</summary>
+    <published>2026-10-06T08:25:21+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/orbistats/getting-your-first-orbistats-api-key-a-5-minute-quickstart-walkthrough-3a70</id>
-    <title>[Programación] Cómo obtener tu primera clave de Orbistats API: una guía de 5 minutos</title>
-    <updated>2026-10-05T13:08:48.582079+00:00</updated>
+    <id>https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0</id>
+    <title>[Programación] Se ha lanzado ComfyUI v0.39.0</title>
+    <updated>2026-10-06T13:09:09.665916+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0"/>
+    <summary>En esta versión se han agregado varias características y mejoras, incluyendo el soporte para la luz LynnReal Minimax-H3 vae, la actualización de los documentos embutidos y la adición de un widget de grupo dinámico. También se han solucionado varios problemas y se han mejorado las características de la interfaz de usuario. La versión incluye soporte para 16 bits de punto flotante y actualizaciones de plantillas de flujo de trabajo.
+
+Contexto IA (informativo):
+Esta versión se considera una versión estable y se recomienda para uso general. Sin embargo, es importante mencionar que esta versión incluye cambios significativos en la interfaz de usuario y en las características de la herramienta, por lo que es recomendable leer el cambio de versión completo para obtener más información.</summary>
+    <published>2026-10-06T10:11:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/techdrifting/what-is-http3-why-most-of-the-web-still-isnt-using-it-m4a</id>
+    <title>[Programación] ¿Qué es HTTP/3? Por qué la mayoría del web aún no lo utiliza</title>
+    <updated>2026-10-06T13:09:09.665876+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/orbistats/getting-your-first-orbistats-api-key-a-5-minute-quickstart-walkthrough-3a70"/>
-    <summary>Esta guía te guía a través de los pasos necesarios para obtener tu primera clave de Orbistats API. Comienza creando una cuenta gratuita, luego copia la clave de la dashboard y entiende el patrón de autenticación. Finalmente, haz tu primera solicitud y entiende tus límites. La guía cubre los pasos necesarios para obtener la clave, entender el patrón de autenticación y hacer una solicitud exitosa. También cubre la seguridad de la clave y cómo evitar errores comunes.
+    <link href="https://dev.to/techdrifting/what-is-http3-why-most-of-the-web-still-isnt-using-it-m4a"/>
+    <summary>Aunque los principales navegadores decidieron que HTTP/3 estaba listo hace años, solo el 40,8% de los sitios web utilizan esta tecnología. La razón no es el protocolo en sí, sino que los servidores aún no están preparados para utilizarlo. HTTP/3 es un protocolo que utiliza QUIC sobre UDP en lugar de TCP, lo que elimina el bloqueo de línea de cabeza, lo que significa que una pérdida de paquete solo estalla una de las streams en lugar de todo el conexión. La velocidad ganada es mayor en redes móviles y redes inestables, pero en conexiones estables y de baja latencia, la diferencia es marginal. Los firewalls corporativos y universitarios pueden bloquear el tráfico UDP que requiere QUIC, pero los navegadores detectan esto y caen de vuelta a HTTP/2 automáticamente, lo que significa que activar HTTP/3 rara vez rompe nada. El verdadero historial detrás de HTTP/3 es la demora en los servidores, no un problema de navegadores. Los navegadores han avanzado rápidamente, pero los servidores siguen siendo un problema. El protocolo de transporte subyacente, QUIC, es el que ha cambiado, no HTTP/3 en sí. QUIC es un protocolo seguro por defecto que reconstruye las características de confiabilidad de TCP, como la retransmisión y el envío ordenado, pero lo hace con streams independientes por solicitud en lugar de una conexión compartida. Esto elimina el bloqueo de línea de cabeza, lo que significa que una pérdida de paquete solo estalla una de las streams en lugar de todo el conexión. El protocolo también combina el handshake de TLS 1.3 con el transporte, y soporta la resolución 0-RTT, lo que permite a un navegador que ha conectado antes enviar datos sin esperar un nuevo handshake. En resumen, HTTP/3 ayuda más en redes móviles y con pérdida de paquetes, pero en conexiones estables y de baja latencia, la diferencia es marginal. Los navegadores detectan los firewalls corporativos y universitarios y caen de vuelta a HTTP/2 automáticamente, lo que significa que activar HTTP/3 rara vez rompe nada.
 
 Contexto IA (informativo):
-Orbistats es una plataforma que ofrece datos de deportes en tiempo real. La clave de API es necesaria para acceder a estos datos. La guía de este artículo te ayudará a entender cómo obtener y utilizar la clave de manera segura.</summary>
-    <published>2026-10-05T12:58:29+00:00</published>
+Aunque los navegadores han avanzado rápidamente, los servidores siguen siendo un problema. La tecnología HTTP/3 es un protocolo que utiliza QUIC sobre UDP en lugar de TCP, lo que elimina el bloqueo de línea de cabeza. Sin embargo, la adopción de HTTP/3 en los servidores sigue siendo baja, lo que significa que muchos sitios web no están utilizando esta tecnología. La velocidad ganada de HTTP/3 es mayor en redes móviles y redes inestables, pero en conexiones estables y de baja latencia, la diferencia es marginal.</summary>
+    <published>2026-10-06T12:53:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/diogoheleno/building-a-multilingual-documentation-pipeline-for-eu-battery-regulation-20231542-compliance-3ep5</id>
+    <title>[Programación] Creación de una pipeline de documentación multilingüe para la regulación de baterías de la UE (2023/1542) cumplimiento</title>
+    <updated>2026-10-06T13:09:09.665821+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/diogoheleno/building-a-multilingual-documentation-pipeline-for-eu-battery-regulation-20231542-compliance-3ep5"/>
+    <summary>La regulación (EU) 2023/1542 requiere que los documentos técnicos de las baterías estén disponibles en el idioma oficial de cada país donde se venda el producto. Esto significa que los desarrolladores de productos deben crear una pipeline de documentación que mantenga 20+ versiones de contenido técnico en sincronía sin perder la mente. La traducción no es el único desafío, ya que también se deben manejar cambios frecuentes en la documentación y la legalidad de la información. Para abordar estos desafíos, se deben tratar los documentos como objetos de contenido estructurados, no como archivos estáticos. Se recomienda utilizar una estructura de archivo como un archivo YAML, donde se almacenan los detalles de cada documento, como la categoría, los estándares armonizados y la fecha de actualización. Además, se deben utilizar herramientas de gestión de términos para mantener una lista de términos aprobados y evitar errores de traducción. La pipeline de documentación debe incluir un paso de comparación de hashes para detectar cambios en la documentación y mantener la sincronía de los diferentes idiomas.
+
+Contexto IA (informativo):
+La regulación (EU) 2023/1542 es una norma que requiere que los productos de baterías cumplan con ciertos requisitos de seguridad y medio ambiente. La implementación de esta regulación puede ser compleja y requiere una pipeline de documentación que sea capaz de manejar cambios frecuentes y mantener la sincronía de los diferentes idiomas.</summary>
+    <published>2026-10-06T12:54:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/capilabs/i-built-a-chrome-extension-to-extract-tailwind-figma-tokens-and-got-blocked-by-reddit-bots--1cgg</id>
+    <title>[Programación] Construí uma extensão do Chrome para extraír tokens de Tailwind e Figma (e fui bloqueado por bots do Reddit 🤖)</title>
+    <updated>2026-10-06T13:09:09.665728+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/capilabs/i-built-a-chrome-extension-to-extract-tailwind-figma-tokens-and-got-blocked-by-reddit-bots--1cgg"/>
+    <summary>Como um designer de UI/UX que constantemente trabalha em Figma e escreve componentes em Tailwind, estava perdiendo horas manualmente inspecionando CSS computado para extrair códigos de hexa e construir arquivos tailwind.config.js. Ao fim de fins de semana, construí o Token Inspector, uma extensão 100% do lado do cliente do Chrome para automatizar isso. Com um clique, exporta configurações de Tailwind prontas, estúdios de tokens JSON e zipifica todos os SVGs inline. Tentei compartilhar isso no Reddit esta manhã para obter meus primeiros 20 usuários, mas os automods eliminaram meu post instantaneamente devido ao link. Então, estou dando o código promocional que fiz para eles para a comunidade Dev.to em vez disso. Use o código REDDITPRO no checkout para saltar a parede de pagamento e obter a versão premium 100% gratuita. Você pode pegar isso do Chrome Web Store aqui: https://chromewebstore.google.com/detail/token-inspector–ui-desi/ahhkpfngdhkjiipkhfnefpkiniliafdh?ref=producthunt
+
+Contexto IA (informativo):
+A extensão do Chrome Token Inspector permite que os usuários exportem configurações de Tailwind prontas e estúdios de tokens JSON com apenas um clique.</summary>
+    <published>2026-10-06T12:54:37+00:00</published>
   </entry>
 </feed>
