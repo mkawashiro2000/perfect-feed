@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-08T13:08:06.946653+00:00</updated>
+  <updated>2026-10-09T13:13:19.553608+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,345 +11,317 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates</id>
-    <title>[Economía] La caída en el precio del petróleo provoca una nueva caída en los mercados</title>
-    <updated>2026-10-08T13:08:06.947718+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates"/>
-    <summary>El precio del petróleo aumentó, lo que llevó a una nueva ronda de ventas en los mercados de valores. Las acciones de tecnología cayeron después de que Samsung Electronics Co. no alcanzó las expectativas de ganancias. Las acciones de empresas de tecnología se derrumbaron después de que Samsung Electronics Co. no alcanzó las expectativas de ganancias. Las acciones de empresas de tecnología se derrumbaron después de que Samsung Electronics Co. no alcanzó las expectativas de ganancias. El precio del petróleo aumentó, lo que llevó a una nueva ronda de ventas en los mercados de valores. Las acciones de tecnología cayeron después de que Samsung Electronics Co. no alcanzó las expectativas de ganancias.
-
-Contexto IA (informativo):
-El mercado de valores experimentó una nueva ronda de caída después de que el precio del petróleo aumentó. El precio del petróleo aumentó, lo que llevó a una nueva ronda de ventas en los mercados de valores. Las acciones de tecnología cayeron después de que Samsung Electronics Co. no alcanzó las expectativas de ganancias.</summary>
-    <published>2026-10-07T22:03:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-08/devon-to-sell-4-2-billon-shale-oil-assets-to-crescent-energy</id>
-    <title>[Economía] Devon vende activos de petróleo de shale a Crescent por $4.2 mil millones</title>
-    <updated>2026-10-08T13:08:06.947685+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-08/devon-to-sell-4-2-billon-shale-oil-assets-to-crescent-energy"/>
-    <summary>Devon Energy Corp. ha acordado vender su cartera de perforaciones en la cuenca del shale de Eagle Ford en Texas del Sur a Crescent Energy Co., una productora de petróleo apoyada por KKR &amp; Co., por aproximadamente $4.2 mil millones. La venta incluye activos en Texas y Oklahoma. La transacción se espera que se complete en el primer semestre de 2024. La venta permitirá a Devon enfocarse en su negocio de producción de petróleo en el Medio Oriente. La empresa espera generar ingresos de alrededor de $1.1 mil millones anuales desde la venta.
-
-Contexto IA (informativo):
-La venta es parte de la estrategia de diversificación de Devon para adaptarse a los cambios en el mercado y la regulación. Crescent Energy Co. es una empresa de petróleo con operaciones en varios países de América del Norte y Medio Oriente.</summary>
-    <published>2026-10-08T11:17:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html</id>
-    <title>[Economía] La inflación en muchos artículos cotidianos fue completamente debida a las tarifas, dice la NY Fed</title>
-    <updated>2026-10-08T13:08:06.947647+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html"/>
-    <summary>Según la New York Federal Reserve, el costo de muchos artículos cotidianos habría disminuido el año pasado y al principio de este año sin las tarifas impuestas por el presidente Donald Trump. Los precios de 67 categorías de bienes aumentaron un 2,9 puntos porcentuales gracias a las tarifas, según un informe de un equipo de investigadores de la rama de la NY Fed. Sin las tarifas, los precios de los productos estudiosos habrían disminuido en casi un 1%. El informe de la NY Fed ofrece la evidencia más clara hasta ahora del impacto de las tarifas de Trump en las bolsas de los consumidores. Los economistas esperaban que las tarifas impusieran un aumento en los precios, aunque era difícil estimar con precisión los efectos debido a la naturaleza cambiante de la política y la falta de transparencia en cómo las empresas establecen sus precios. El equipo de investigadores no dijo cuáles eran las 67 categorías de bienes que evaluaron. Para cada punto porcentual de aumento en la tasa media de la tarifa, el equipo dijo que los precios de los bienes de consumo aumentaban en aproximadamente un cuarto de punto porcentual al año siguiente. El crecimiento anual de los precios en las docenas de bienes que se estudiaron alcanzó su punto máximo al principio de 2026, según el informe. Sin embargo, los consumidores siguen esperando pagar precios elevados hasta 2027 debido a la política, según el informe. La mayor parte de la impactación de precios debido a las tarifas ha sido directa, según el informe de la NY Fed. La mayor parte del aumento de precios fue causado por efectos secundarios, como las empresas estadounidenses que utilizan partes y materiales importados en sus productos. "Las tarifas tienen un impacto más grande y más prolongado en los precios de los consumidores que el efecto directo solo sugiere", escribieron los tres autores del estudio, Mary Amiti, Sebastian Heise y David Weinstein. Trump argumentó que las empresas podían absorber el aumento de costos debido a las tarifas en lugar de pasarlos a los consumidores en forma de precios más altos. La NY Fed dijo que alrededor del 26% de las aumentaciones de tarifas del año pasado terminaron afectando los precios. La Corte Suprema en febrero desmanteló muchas de las tarifas de Trump, lo que resultó en millones de dólares en devoluciones a los comerciantes. La Casa Blanca ha prometido seguir adelante con las tarifas a través de medidas alternativas, y muchos productos importados de muchos países ahora enfrentan tarifas de alrededor de 10%. En muchos casos, esa es significativamente menos que lo que eran las tarifas de la ronda anterior de tarifas.
-
-Contexto IA (informativo):
-El informe de la NY Fed es una de las primeras veces que se ha analizado el impacto de las tarifas de Trump en los precios de los consumidores. El informe también ofrece una visión más clara de cómo las tarifas afectan a las empresas estadounidenses que importan bienes y servicios. El informe de la NY Fed es un ejemplo de cómo los bancos centrales pueden utilizar sus herramientas para estudiar el impacto de las políticas económicas en los precios de los consumidores.</summary>
-    <published>2026-10-08T12:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html</id>
-    <title>[Economía] Precios del petróleo saltan debido a la explosión de violencia en el Medio Oriente</title>
-    <updated>2026-10-08T13:08:06.947614+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html</id>
+    <title>[Economía] Los fondos de acciones que ganaron esta vez no fueron de tecnología, sino de energía</title>
+    <updated>2026-10-09T13:13:19.554606+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html"/>
-    <summary>Los precios del petróleo han aumentado debido a los ataques a los barcos en el Golfo Pérsico, mientras que la guerra entre Arabia Saudita y las milicias de Houthi continúa intensificándose. La situación en la región ha generado preocupación entre los inversores y los consumidores. Los líderes mundiales están monitoreando la situación y consideran posibles medidas para mitigar su impacto. La Organización de los Estados Unidos del Petróleo (OEP) ha anunciado una reunión de emergencia para discutir la crisis.
+    <link href="https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html"/>
+    <summary>Los rendimientos de los fondos de acciones y bonos para el trimestre fueron malos en casi todas partes. Sin embargo, los fondos de energía se elevaron gracias a la guerra con Irán, lo que los convirtió en una excepción. Los inversores que apostaron por la energía se recompensaron con ganancias. La guerra con Irán también impulsó el precio del petróleo, lo que benefició a las empresas de energía. Los fondos de energía se convirtieron en una opción atractiva para los inversores que buscan ganancias en un mercado difícil.
 
 Contexto IA (informativo):
-La situación en el Medio Oriente ha estado en constante evolución en los últimos años, con una serie de conflictos y ataques que han afectado a la región. La guerra entre Arabia Saudita y las milicias de Houthi es la más reciente y ha generado una gran cantidad de violencia y pérdidas humanas.</summary>
-    <published>2026-10-08T12:12:33+00:00</published>
+La guerra con Irán ha sido un tema de interés para los inversores en los últimos meses. La situación en el Medio Oriente ha sido un factor clave en la volatilidad del mercado. Los fondos de energía se han convertido en una opción atractiva para aquellos que buscan ganancias en un mercado en constante cambio.</summary>
+    <published>2026-10-09T09:03:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/10/08/business/france-bond-yields.html</id>
-    <title>[Economía] Francia se adentra en un potencial crisis de deuda, un aviso al mundo</title>
-    <updated>2026-10-08T13:08:06.947581+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html</id>
+    <title>[Economía] La consecuencia del sorpresivo aumento de las ganancias de OpenAI</title>
+    <updated>2026-10-09T13:13:19.554573+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/10/08/business/france-bond-yields.html"/>
-    <summary>La crisis fiscal de Francia destaca los riesgos que enfrentan los gobiernos endeudados cuando los costos de emisión de deuda aumentan y el gasto público en salud, pensiones y defensa crece. Esto se debe a que el gobierno francés ha aumentado su deuda en los últimos años para financiar sus gastos. La crisis de deuda puede tener consecuencias graves para la economía francesa y su lugar en la Unión Europea. El gobierno francés está trabajando para reducir su deuda y mejorar su situación financiera. Sin embargo, la crisis de deuda es un recordatorio de que los gobiernos deben ser prudentes con sus finanzas y no dejar que sus deudas crezcan sin control.
+    <link href="https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html"/>
+    <summary>La noticia de que las ventas de la gigante de inteligencia artificial no estaban creciendo a la velocidad que esperaban los inversores ha aumentado las preocupaciones sobre el boom de la inteligencia artificial. Los expertos expresan su sorpresa ante el resultado, que ha generado dudas sobre la sostenibilidad del crecimiento de la empresa. Además, la noticia ha generado un debate sobre la rentabilidad de la inversión en tecnología de inteligencia artificial. Los analistas de mercado están analizando el impacto de este resultado en el mercado de las tecnologías de inteligencia artificial.
 
 Contexto IA (informativo):
-La crisis de deuda de Francia se debe en parte a la creciente demanda de servicios públicos y la necesidad de financiar proyectos de infraestructura. El gobierno francés también está enfrentando presión para cumplir con sus compromisos de reducción de la deuda. La crisis de deuda es un tema de interés para la comunidad internacional, ya que puede tener implicaciones para la economía global y la estabilidad financiera.</summary>
-    <published>2026-10-08T12:44:55+00:00</published>
+El resultado ha generado un interés renovado en las tendencias de crecimiento de la industria de la inteligencia artificial, lo que podría llevar a una mayor inversión en investigación y desarrollo en este sector.</summary>
+    <published>2026-10-09T12:06:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html</id>
-    <title>[Economía] Skydance anuncia que la empresa combinada está 'posicionada para ganar en cada vertical'</title>
-    <updated>2026-10-08T13:08:06.947545+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-09/canada-employment-falls-by-68-300-amid-public-sector-decline</id>
+    <title>[Economía] Caída del empleo en Canadá supera 68.300</title>
+    <updated>2026-10-09T13:13:19.554540+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-09/canada-employment-falls-by-68-300-amid-public-sector-decline"/>
+    <summary>El empleo en Canadá disminuyó en 68.300 personas en el último mes, lo que anula los ganancias previas de empleo este año debido a la prolongada guerra comercial con Estados Unidos. La caída se debe principalmente a la disminución en el sector público. Los empleos en el sector privado también han disminuido, aunque a un ritmo más lento. La situación económica en Canadá sigue siendo preocupante, especialmente en relación con la guerra comercial con Estados Unidos.
+
+Contexto IA (informativo):
+La caída del empleo en Canadá se debe en parte a la disminución en el sector público, que ha sido afectado por las recortes presupuestarios. El gobierno canadiense ha anunciado planes para reducir el gasto público en varias áreas, incluyendo la defensa y la educación.</summary>
+    <published>2026-10-09T12:30:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html</id>
+    <title>[Economía] La Tesorería de Judy Shelton, ex candidata a la Junta Monetaria de Trump, se convierte en consejera de Bessent</title>
+    <updated>2026-10-09T13:13:19.554506+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html"/>
-    <summary>David Ellison, co-CEO de Skydance, ha declarado que la empresa combinada está 'posicionada para ganar en cada vertical' que opera. La empresa incluye estudios de cine Paramount y Warner Bros., la red de televisión CBS, una amplia gama de televisión por pago que incluye CNN, TNT, MTV y BET, y servicios de streaming Paramount+ y HBO Max. Ellison destaca la combinación de contenido, la propiedad de derechos de bloquebusters y una fuerte cartera deportiva. La empresa también ha anunciado planes para fusionar los servicios de streaming Paramount+ y HBO Max. Los co-CEOs David Ellison y Ynon Kreiz planificarán dividir las responsabilidades ejecutivas, con Ellison enfocándose en la visión creativa, las innovaciones tecnológicas y la estrategia a largo plazo, mientras que Kreiz liderará la integración de las dos empresas y manejará la gestión diaria y las operaciones. La empresa tiene la oportunidad de construir la próxima compañía de medios y entretenimiento global que se basa en la creatividad y la tecnología. La combinación de los activos, la capacidad y la gente es clave en este momento en que la industria está en un punto de inflexión, donde es cada vez más difícil llegar al consumidor y reunir a los fanáticos.
+    <link href="https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html"/>
+    <summary>La Tesorería de Estados Unidos ha nombrado a Judy Shelton, ex candidata a la Junta Monetaria de Donald Trump, como consejera del secretario Scott Bessent. Shelton será responsable de evaluar las condiciones financieras en China. Aunque no es experta en China, ha escrito sobre la necesidad de un régimen monetario internacional unificado. Su nombramiento llega en un momento de inestabilidad en la Tesorería, con varios funcionarios que han abandonado su cargo en los últimos meses. Shelton fue rechazada por el Senado en 2019 debido a sus ideas económicas controvertidas. Su experiencia se centra en analizar las condiciones monetarias internas de los países y su impacto en las tasas de cambio. La Tesorería ha anunciado su nombramiento, que se hará público más tarde este viernes.
 
 Contexto IA (informativo):
-La noticia de la combinación de Skydance y Paramount se ha anunciado después de que la adquisición de Warner Bros. Discovery se haya completado oficialmente. La empresa combinada tendrá una gran variedad de activos, incluyendo estudios de cine, redes de televisión y servicios de streaming. La combinación de estos activos podría tener un impacto significativo en la industria de los medios y la entretenimiento.</summary>
-    <published>2026-10-08T12:56:59+00:00</published>
+El nombramiento de Shelton es el segundo en un período de inestabilidad en la Tesorería, con varios funcionarios que han abandonado su cargo en los últimos meses. La Tesorería ha estado buscando reemplazar a varios funcionarios que han dejado su puesto, lo que ha generado especulaciones sobre las motivaciones detrás de estos cambios.</summary>
+    <published>2026-10-09T12:49:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check</id>
-    <title>[Data Science] OpenAI Dots: La realidad check para los científicos de datos</title>
-    <updated>2026-10-08T13:08:06.947513+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-10-09/delta-demand-looks-good-despite-fuel-prices-jeffries-video</id>
+    <title>[Economía] Los precios de los combustibles parecen buenos para Delta, según un analista de Jefferies</title>
+    <updated>2026-10-09T13:13:19.554473+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-09/delta-demand-looks-good-despite-fuel-prices-jeffries-video"/>
+    <summary>La analista de investigación de acciones de Jefferies, Sheila Kahyaoglu, ha examinado los resultados del tercer trimestre de Delta Air Lines, que redujo su perspectiva de ganancias anuales debido a los altos precios de los combustibles. Según Kahyaoglu, la empresa ha mantenido su demanda, lo que sugiere que los precios de los combustibles no han afectado significativamente su negocio. La empresa ha mantenido su producción y no ha anunciado planes de reducción de personal. Los precios de los combustibles siguen siendo un factor de riesgo para la industria aérea
+
+Contexto IA (informativo):
+La declaración de Delta Air Lines sobre la reducción de su perspectiva de ganancias se debe en gran medida a los altos precios de los combustibles, que han aumentado significativamente en los últimos meses. Los precios de los combustibles siguen siendo un factor de riesgo para la industria aérea, pero la empresa ha demostrado su capacidad para adaptarse a las condiciones cambiantes del mercado.</summary>
+    <published>2026-10-09T12:53:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai</id>
+    <title>[Data Science] Conectando el Diseño Algorítmico y las Normas Regulatorias en la Inteligencia Artificial Empresarial</title>
+    <updated>2026-10-09T13:13:19.554438+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check"/>
-    <summary>OpenAI Dots es una herramienta de inteligencia artificial que promete cambiar la forma en que los científicos de datos trabajan. Con Dots, los usuarios pueden delegar tareas a una herramienta de inteligencia artificial que puede aprender sus preferencias y trabajar de manera proactiva. Aunque la herramienta tiene potencial, es importante tener en cuenta las limitaciones y los riesgos asociados con su uso. Por ejemplo, Dots no puede tener su propio correo electrónico y no puede iniciar llamadas. Además, la herramienta puede cometer errores y no hay garantías de privacidad. Los usuarios deben revisar el trabajo consequential con cuidado.
+    <link href="https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai"/>
+    <summary>La Inteligencia Artificial (IA) está evolucionando rápidamente y su adopción está creciendo, pero la confianza pública en su uso es limitada. Para reconciliar la necesidad de innovación con la necesidad de cumplir con las normas regulatorias, las organizaciones deben incorporar la gobernanza en cada etapa del ciclo de aprendizaje de máquina. Esto incluye la creación de modelos explicables y la automatización de la gobernanza a través de la operación de máquina aprendida. La confianza en la IA es crucial para su éxito, ya que la falta de confianza puede hacer que un modelo técnicamente sofisticado pierda valor. Las normas regulatorias, como la Regulación General de Protección de Datos (GDPR) y la Ley de Privacidad del Consumidor de California (CCPA), establecen requisitos para la gestión de datos que deben ser considerados desde el inicio del proceso de selección de datos de entrenamiento y la definición del comportamiento de los modelos. La gobernanza en la IA no puede ser tratada como un último control de cumplimiento, sino que debe ser considerada en cada paso del ciclo de aprendizaje de máquina. La implementación de esta gobernanza puede proporcionar la libertad de desarrollar modelos mientras se establecen límites claros sobre cómo manejan la información y qué salida producen. La gobernanza en la IA es crucial para su éxito y debe ser considerada desde el inicio del proceso de desarrollo.
 
 Contexto IA (informativo):
-La introducción de Dots es un paso importante en la evolución de las herramientas de inteligencia artificial para la comunidad de científicos de datos. Aunque la herramienta tiene potencial, es importante abordar las limitaciones y los riesgos asociados con su uso. Los usuarios deben considerar cuidadosamente si Dots es la herramienta adecuada para sus necesidades y si están dispuestos a asumir los riesgos asociados con su uso.</summary>
-    <published>2026-10-07T16:00:00+00:00</published>
+La Inteligencia Artificial (IA) está en constante evolución y su adopción está creciendo rápidamente. Sin embargo, la confianza pública en su uso es limitada. La gobernanza en la IA es crucial para su éxito, ya que la falta de confianza puede hacer que un modelo técnicamente sofisticado pierda valor.</summary>
+    <published>2026-10-08T16:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/</id>
-    <title>[Data Science] Los ingenieros de inteligencia artificial, científicos aplicados y ingenieros desplegados: Desglosemos.</title>
-    <updated>2026-10-08T13:08:06.947480+00:00</updated>
+    <id>https://www.oreilly.com/radar/intent-not-identity/</id>
+    <title>[Data Science] La identidad no es lo que se pensaba</title>
+    <updated>2026-10-09T13:13:19.554405+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/intent-not-identity/"/>
+    <summary>Los sistemas de seguridad tradicionales están siendo desafiados por la creciente presencia de agentes de inteligencia artificial en la red. Estos agentes pueden interactuar de manera indistinguible de los usuarios humanos y pueden ser utilizados para realizar acciones maliciosas. Para abordar este problema, las empresas están adoptando una nueva estrategia de seguridad que se centra en la gestión de la identidad de los agentes y en la protección de los endpoints. Esto incluye la implementación de firmas de mensaje HTTP, la verificación de la intención detrás de las solicitudes y la adopción de estándares para el comercio agente.
+
+Contexto IA (informativo):
+La creciente presencia de agentes de inteligencia artificial en la red está cambiando la forma en que las empresas abordan la seguridad. Los agentes pueden operar de manera indistinguible de los usuarios humanos y pueden ser utilizados para realizar acciones maliciosas. Es importante que las empresas adopten una nueva estrategia de seguridad que se centra en la gestión de la identidad de los agentes y en la protección de los endpoints.</summary>
+    <published>2026-10-09T10:54:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/stop-using-ai-start-hiring-it/</id>
+    <title>[Data Science] Deja de usar la inteligencia artificial, comienza a contratarla</title>
+    <updated>2026-10-09T13:13:19.554370+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/"/>
-    <summary>La creciente popularidad de los modelos de lenguaje grandes (LLMs) ha dado lugar a la emergencia de nuevos roles en el campo de la ciencia de datos. A medida que el mundo se adapta a la creciente influencia de la inteligencia artificial, es importante reconocer cómo estos nuevos roles están cambiando el panorama laboral. En este artículo, exploraremos cómo los LLMs han transformado la data science y cómo podemos prepararnos para estos cambios. El papel del ingeniero de inteligencia artificial es crucial en este proceso, ya que se encarga de diseñar y entregar sistemas de lenguaje natural confiables y seguros para su uso en producción. A medida que la tecnología avanza, es esencial estar al día con las últimas tendencias y habilidades necesarias para mantenerse competitivo en este campo en constante evolución.
+    <link href="https://towardsdatascience.com/stop-using-ai-start-hiring-it/"/>
+    <summary>Los agentes de inteligencia artificial han alcanzado un nivel de productividad suficiente como para que encontrar la atención humana para revisar su trabajo sea el problema más difícil. Esto cambia la forma en que pensamos sobre la inteligencia artificial. En lugar de tratarla como un herramienta que se puede usar, debemos tratarla como alguien que se contrata. El artículo explora cómo se puede hacer esto y los beneficios que se pueden obtener. Se presentan ejemplos de cómo los agentes pueden ser utilizados para realizar tareas complejas, como la creación de código y la resolución de problemas. También se discuten las limitaciones de esta forma de trabajo y cómo se pueden superar. En última instancia, el artículo concluye que la inteligencia artificial puede ser una herramienta valiosa para las empresas que están dispuestas a adaptarse a su uso.
 
 Contexto IA (informativo):
-La creciente popularidad de los modelos de lenguaje grandes ha llevado a una reevaluación de los roles en la data science. Mientras algunos se preocupan por la pérdida de empleos, otros ven oportunidades en la creación de nuevos puestos y la evolución de los existentes. En este artículo, se explora cómo los LLMs han cambiado el panorama laboral y cómo podemos prepararnos para estos cambios.</summary>
-    <published>2026-10-08T11:00:00+00:00</published>
+La inteligencia artificial ha sido objeto de debate en los últimos años, con algunos argumentando que puede reemplazar a los humanos en ciertas tareas, mientras que otros sostienen que puede ser una herramienta valiosa para mejorar la productividad y la eficiencia. En este artículo, se explora la forma en que los agentes de inteligencia artificial pueden ser utilizados para realizar tareas complejas y se discuten las limitaciones de esta forma de trabajo.</summary>
+    <published>2026-10-09T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents</id>
-    <title>[Data Science] 7 Mejores Recursos para Aprender sobre Agentes Inteligentes que Evolucionan a Si Mismos</title>
-    <updated>2026-10-08T13:08:06.947448+00:00</updated>
+    <id>https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists</id>
+    <title>[Data Science] 10 Herramientas de Inteligencia Artificial Gratas que Reemplazan Software Costoso para Ciencia de Datos</title>
+    <updated>2026-10-09T13:13:19.554336+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents"/>
-    <summary>Los agentes inteligentes están avanzando rápidamente más allá de los sistemas que simplemente reciben una instrucción, llaman a una herramienta y devuelven una respuesta. Un enfoque de investigación más ambicioso pregunta si un agente puede mejorar a sí mismo a través de la experiencia. Estos sistemas se conocen como agentes evolucionados (o auto-mejorados / auto-mejorados recursivamente) AI. En este artículo, cubriremos los 7 mejores recursos para aprender sobre agentes evolucionados AI.
+    <link href="https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists"/>
+    <summary>Las herramientas de inteligencia artificial gratuitas han mejorado significativamente en calidad y madurez, lo que las hace competitivas con sus equivalentes pagos. Ahora, los equipos de ciencia de datos pueden construir un conjunto de herramientas de ciencia de datos de producción de gracia sin gastar un centavo. Las herramientas que antes requerían infraestructura de nube y licencias comerciales ahora se ejecutan localmente, funcionan a niveles de estado del arte y, en algunos casos, hacen cosas que sus equivalentes pagos no pueden. Este artículo cubre diez herramientas gratuitas, cada una correspondiente a una categoría específica de software costoso, y explica qué las hace una reemplazo creíble. La selección abarca todo el flujo de trabajo de la ciencia de datos: inferencia local, asistencia de inteligencia artificial, automatización de aprendizaje automático (AutoML), exploración de datos de lenguaje natural, búsqueda-augmentada de generación (RAG), anotación de datos, visualización de datos, seguimiento de experimentos, análisis local y observabilidad de modelos de lenguaje. 1. Reemplazando APIs de OpenAI y Anthropic con Ollama + Open WebUI. 2. Reemplazando GitHub Copilot Business y Tabnine con Tabby. 3. Reemplazando DataRobot y H2O Driverless AI con AutoGluon.
 
 Contexto IA (informativo):
-La investigación sobre agentes evolucionados es un campo en constante evolución, con nuevas ideas y enfoques emergiendo constantemente. Algunos de los recursos más destacados para aprender sobre este tema incluyen cursos, artículos de investigación, repositorios y bibliotecas. Estos recursos ofrecen una visión general de la investigación actual, así como herramientas y técnicas para desarrollar y mejorar agentes evolucionados.</summary>
-    <published>2026-10-08T12:00:00+00:00</published>
+La calidad y madurez de las herramientas de inteligencia artificial gratuitas han mejorado significativamente en los últimos tiempos, lo que las hace competitivas con sus equivalentes pagos. Ahora, los equipos de ciencia de datos pueden construir un conjunto de herramientas de ciencia de datos de producción de gracia sin gastar un centavo. Las herramientas que antes requerían infraestructura de nube y licencias comerciales ahora se ejecutan localmente, funcionan a niveles de estado del arte y, en algunos casos, hacen cosas que sus equivalentes pagos no pueden. Esto significa que los equipos de ciencia de datos pueden ahorrar dinero y trabajar de manera más eficiente.</summary>
+    <published>2026-10-09T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/</id>
-    <title>[Data Science] El error del modelo de MSE: una solucion</title>
-    <updated>2026-10-08T13:08:06.947413+00:00</updated>
+    <id>https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/</id>
+    <title>[Data Science] Crear tu primer agente de inteligencia artificial con una herramienta única</title>
+    <updated>2026-10-09T13:13:19.554302+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/"/>
-    <summary>Un modelo de predicción probabilística para series temporales: por que un pronostico puede tener la media y la desviacion cuadratica correctas y sin embargo describir un futuro que nunca sucede, y como solucionarlo. En esta serie de artículos, se analiza el problema de la predicción con MSE y se busca una solucion. Se encuentra que el problema se debe a la funcion de pérdida, y se propone una solucion con un segundo cabezal de varianza. Sin embargo, esta solucion tiene un problema cuando se predice mas de un paso adelante. Se propone una solucion con un cabezal de retroalimentacion de muestras. El modelo de diffusion es una posible solucion a este problema. Este articulo explora la forma en que la dispersion de la prediccion puede ser incorrecta para sistemas que pueden saltar o cambiar de estado. Se analiza el problema de la dispersion y se busca una solucion. El articulo concluye que el modelo de diffusion es una posible solucion a este problema.
+    <link href="https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/"/>
+    <summary>En este artículo, aprenderás a crear tu primer agente de inteligencia artificial con una herramienta única. Comprenderás qué es un agente de inteligencia artificial y cómo funciona. También aprenderás a crear un agente que pueda responder preguntas sobre pedidos de una tienda en línea. El agente utilizará un modelo de lenguaje natural para solicitar una función de Python y obtener la respuesta correcta. El proceso se realizará de manera segura y controlada, sin necesidad de que el modelo realice las operaciones en sí mismo. El código utilizado en este artículo es compatible con otras bibliotecas de LLM, pero requiere una configuración específica para funcionar correctamente.
 
 Contexto IA (informativo):
-Este articulo es una continuacion de la serie de artículos sobre prediccion con MSE. El articulo anterior analizo el problema de la prediccion con MSE y se propuso una solucion con un segundo cabezal de varianza. En este articulo, se analiza la forma en que la dispersion de la prediccion puede ser incorrecta para sistemas que pueden saltar o cambiar de estado. El articulo concluye que el modelo de diffusion es una posible solucion a este problema.</summary>
-    <published>2026-10-08T12:30:00+00:00</published>
+El uso de agentes de inteligencia artificial es común en el mundo de la programación y la inteligencia artificial. Sin embargo, es importante entender qué es un agente de inteligencia artificial y cómo funciona. En este artículo, se explicará cómo crear un agente que pueda responder preguntas sobre pedidos de una tienda en línea. El agente utilizará un modelo de lenguaje natural para solicitar una función de Python y obtener la respuesta correcta. El objetivo es mostrar cómo se puede crear un agente de inteligencia artificial de manera sencilla y segura.</summary>
+    <published>2026-10-09T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/russell-suffers-grid-penalty-for-singapore-gp/10862656/</id>
-    <title>[Fórmula 1] Mercedes confirma penalización de la grilla para Russell en GP de Singapur</title>
-    <updated>2026-10-08T13:08:06.947376+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/russell-suffers-grid-penalty-for-singapore-gp/10862656/"/>
-    <summary>George Russell, piloto de Mercedes, recibirá una penalización de la grilla para el GP de Singapur debido a su retiro en el GP de Malasia. El piloto estaba en el tercer lugar bajo la bandera roja, pero se retiró en la curva 1 con cinco vueltas por delante debido a un fallo en el unidad de potencia en Sepang. La penalización se debe a que Russell no completó la mayor parte de las vueltas programadas. El equipo de Mercedes ha confirmado que Russell se verá penalizado en la grilla para el GP de Singapur. El piloto se verá obligado a comenzar desde la última posición en la grilla. La penalización se debe a que Russell no completó la mayor parte de las vueltas programadas y no cumplió con los requisitos de seguridad establecidos por el equipo. El equipo de Mercedes ha confirmado que Russell se verá penalizado en la grilla para el GP de Singapur. El piloto se verá obligado a comenzar desde la última posición en la grilla. La penalización se debe a que Russell no completó la mayor parte de las vueltas programadas y no cumplió con los requisitos de seguridad establecidos por el equipo.
-
-Contexto IA (informativo):
-El GP de Singapur es uno de los eventos más importantes de la temporada de F1 y se espera que sea un gran desafío para los pilotos. El equipo de Mercedes ha estado trabajando arduamente para optimizar el rendimiento de su vehículo y se espera que Russell esté listo para enfrentar el desafío.</summary>
-    <published>2026-10-07T09:09:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/</id>
-    <title>[Fórmula 1] Alonso se compromete a participar en el Dakar Rally de 2027 con Aston Martin</title>
-    <updated>2026-10-08T13:08:06.947344+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/"/>
-    <summary>Fernando Alonso ha logrado un acuerdo con Aston Martin para permanecer en F1 en 2027, además de convencer al fabricante para que lo apoye en su próxima participación en el Dakar Rally. Este acuerdo se alcanzó en agosto de este año. Alonso ha estado especulando sobre su futuro en F1 en los últimos meses, pero ahora parece que ha encontrado una salida clara para seguir competiendo en el Dakar Rally. La participación de Alonso en el Dakar Rally de 2027 se considera un gran golpe para el evento, ya que es uno de los pilotos más destacados y experimentados en la historia del rally.
-
-Contexto IA (informativo):
-Aunque Alonso ha estado hablando sobre su futuro en F1, su compromiso con el Dakar Rally ha sido constante. En el pasado, ha participado en el evento varias veces y ha demostrado ser uno de los pilotos más valientes y habilidosos en la competencia.</summary>
-    <published>2026-10-07T12:08:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/</id>
-    <title>[Fórmula 1] FIA concluye la investigación sobre el caos en F1 en Malasia y anuncia medidas</title>
-    <updated>2026-10-08T13:08:06.947310+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/"/>
-    <summary>Antes del Gran Premio de Singapur, la FIA emitió un comunicado tras los eventos en Sepang. En el primer tramo del Gran Premio de Bahrain en Malasia, la carrera se convirtió en caos cuando la mitad del campo se detuvo detrás del coche de seguridad. Se descubrió que el problema se debía a un fallo de software relacionado con las restricciones de 250 kW impuestas por la FIA para carreras en condiciones de lluvia. Nikolas Tombazis proporcionó una explicación inmediata
-
-Contexto IA (informativo):
-La FIA tomó medidas para evitar que este tipo de incidentes vuelvan a ocurrir en el futuro. La organización también expresó su aprecio por la cooperación de los pilotos y el equipo de seguridad.</summary>
-    <published>2026-10-08T08:11:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/10/08/fia-concludes-investigation-into-bahrain-gp-software-glitch</id>
-    <title>[Fórmula 1] FIA concluye la investigación sobre el glitch de software en el GP de Bahrain</title>
-    <updated>2026-10-08T13:08:06.947238+00:00</updated>
+    <id>https://racer.com/2026/10/08/imsa-has-a-yellow-flag-problem-and-everyone-has-different-ideas-about-fixing-it</id>
+    <title>[Fórmula 1] IMSA enfrenta problemas con la bandera amarilla y nadie tiene la misma idea para solucionarlos</title>
+    <updated>2026-10-09T13:13:19.554268+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/10/08/fia-concludes-investigation-into-bahrain-gp-software-glitch"/>
-    <summary>La FIA ha concluido una revisión sobre el glitch de software que retrasó el inicio del Gran Premio de Bahrain en Malasia. Se han planeado mejoras adicionales. En condiciones de lluvia, se planificaron dos vueltas de formación detrás del coche de seguridad, pero varios coches se ralentizaron o incluso se detuvieron
+    <link href="https://racer.com/2026/10/08/imsa-has-a-yellow-flag-problem-and-everyone-has-different-ideas-about-fixing-it"/>
+    <summary>Los estándares de conducción de IMSA se vieron cuestionados después de que Road America produjera una cantidad desproporcionada de accidentes. Los top officials prometieron hacerlo mejor y lo hicieron, pero al final del fin de semana del Petit Le Mans, nos encontramos de nuevo en un punto muerto. La seguridad sigue siendo un tema de debate entre los expertos y los equipos. La IMSA ha anunciado planes para mejorar la seguridad en las pistas, pero aún no se ha visto el resultado de estos esfuerzos.
 
 Contexto IA (informativo):
-El incidente ocurrió en un evento de automovilismo, específicamente en un Gran Premio de Fórmula 1.</summary>
-    <published>2026-10-08T12:28:56+00:00</published>
+La seguridad en las carreras de IMSA ha sido un tema de preocupación durante varios años. Aunque se han tomado medidas para mejorar la seguridad, todavía se encuentran desafíos a superar.</summary>
+    <published>2026-10-08T15:40:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/</id>
-    <title>[Fórmula 1] George Russell: "Sin duda" seguir con el coche anterior de Mercedes en Singapur</title>
-    <updated>2026-10-08T13:08:06.947202+00:00</updated>
+    <id>https://www.autosport.com/f1/news/it-should-be-banned-f1-drivers-still-divided-over-cooling-vests/10863347/</id>
+    <title>[Fórmula 1] Los pilotos de F1 siguen divididos sobre los vestidos de enfriamiento</title>
+    <updated>2026-10-09T13:13:19.554235+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/it-should-be-banned-f1-drivers-still-divided-over-cooling-vests/10863347/"/>
+    <summary>Los pilotos de F1 están divididos sobre la importancia y uso de los vestidos de enfriamiento, especialmente en las carreras que se llevarán a cabo en climas extremadamente calurosos. Después de los síntomas de agotamiento por el calor experimentados por varios pilotos durante el Gran Premio de Qatar de 2023, la FIA y las equipos de F1 realizaron investigaciones exhaustivas que resultaron en la creación de un vestido de enfriamiento estándar. Sin embargo, algunos pilotos siguen expresando sus inquietudes sobre la eficacia de estos dispositivos. La seguridad de los pilotos es una preocupación constante en la serie, y la FIA está trabajando para garantizar que todos los pilotos tengan las medidas de protección necesarias para competir de manera segura en condiciones extremadamente calurosas.
+
+Contexto IA (informativo):
+La FIA y las equipos de F1 han estado trabajando juntos para mejorar la seguridad de los pilotos en las carreras, especialmente en los climas extremadamente calurosos. La investigación sobre los vestidos de enfriamiento es solo una de las medidas que se están considerando para garantizar la seguridad de los pilotos.</summary>
+    <published>2026-10-09T10:42:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29429</id>
+    <title>[Fórmula 1] Los desafíos técnicos clave en el Gran Premio de Singapur</title>
+    <updated>2026-10-09T13:13:19.554201+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29429"/>
+    <summary>El Gran Premio de Singapur presentará desafíos técnicos y estratégicos significativos para las equipos, incluyendo la gestión de energía limitada, la alta probabilidad de un Safety Car y la necesidad de maximizar la downforce y la grip mecánica en una pista con muchos cambios de camber y baches. Los equipos priorizarán la gestión de la temperatura de los neumáticos y la reducción del riesgo de bloqueo de ruedas durante el frenado. La combinación de la pista con condiciones climáticas inciertas y la Sprint format adden más complejidad a la situación. Los equipos deben gestionar la energía y el turbo lag de manera efectiva, especialmente en la entrega de energía y la respuesta del turbo. La selección de los neumáticos más suaves por parte de Pirelli agrega otro desafío, ya que los equipos deben adaptarse a las condiciones de la pista y preparar sus neumáticos para la calificación y la carrera. La limitación de la vida útil de los neumáticos en la parte posterior de la pista será un factor clave durante la carrera.
+
+Contexto IA (informativo):
+El Gran Premio de Singapur es una de las pistas más exigentes del calendario de F1, con 19 curvas, baches y cambios de camber. La pista se utilizará principalmente por la noche, lo que agrega más complejidad a la situación. La combinación de la pista con condiciones climáticas inciertas y la Sprint format hace que la situación sea aún más desafiante.</summary>
+    <published>2026-10-09T11:19:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29430</id>
+    <title>[Fórmula 1] MotoGP: Conocer los cambios formativos para la próxima temporada</title>
+    <updated>2026-10-09T13:13:19.554163+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29430"/>
+    <summary>La MotoGP introducirá un nuevo formato de fin de semana para la próxima temporada, con una sesión de calificación dedicada para la carrera de sprint y separadas grillas de inicio para la carrera de sprint y la gran premio en cada ronda. Estos cambios acompañarán la introducción de nuevas regulaciones técnicas y motocicletas, marcando una evolución significativa en el formato deportivo de la competencia. El nuevo horario está diseñado para entregar más acción competitiva para los fanáticos mientras se mantiene un equilibrio adecuado de tiempo de pista para los pilotos, equipos y fabricantes. El nuevo sistema determinará la grilla de inicio para la carrera de sprint el viernes, mientras que una sesión de calificación separada el sábado decidirá las posiciones de inicio para la gran premio. El viernes, la sesión de calificación de sprint será la primera, seguida de una sesión de práctica de 30 minutos, que proporcionará a los equipos más tiempo de pista para trabajar en sus configuraciones y prepararse para el resto del fin de semana. El viernes, la sesión de calificación de sprint determinará la grilla de inicio para la carrera de sprint el sábado. El sábado, la acción comenzará con una nueva sesión de práctica de 20 minutos, seguida de la calificación para la gran premio. La calificación para la gran premio seguirá su estructura tradicional, pero todos los pilotos participarán en la primera fase de calificación, y los 12 pilotos más rápidos avanzarán a la segunda fase. La segunda fase de calificación también durará 15 minutos y decidirá las posiciones de inicio para la gran premio. El sábado, la carrera de sprint se llevará a cabo con la grilla determinada exclusivamente por la sesión de calificación de sprint del viernes. Este cambio aumenta la importancia del viernes, ya que los pilotos tendrán que entregar un rendimiento competitivo en la calificación de sprint antes de regresar al track el sábado para la calificación de la gran premio. El domingo, la programación también cambiará, con las carreras de Moto3 y Moto2 que se llevarán a cabo antes de la carrera de gran premio. El tiempo de pista actualmente asignado a la sesión de calentamiento se moverá a una apertura de pitlane de 10 minutos antes de la carrera de gran premio. Durante este período, los pilotos podrán completar múltiples vueltas de calentamiento y verificar sus motocicletas antes de regresar a la pista para el inicio. Este arreglo proporcionará a los pilotos una oportunidad final para evaluar sus motocicletas antes de la carrera de gran premio, aunque será diferente de la sesión de calentamiento tradicional. La carrera de gran premio comenzará con su grilla de inicio determinada por las sesiones de calificación del sábado, por completo separada de los resultados de la calificación de sprint. La nueva era para la MotoGP en 2027
+
+Contexto IA (informativo):
+Estos cambios acompañarán la introducción de nuevas regulaciones técnicas y motocicletas para la próxima temporada, lo que marcará una evolución significativa en el formato deportivo de la competencia. El nuevo sistema está diseñado para entregar más acción competitiva para los fanáticos mientras se mantiene un equilibrio adecuado de tiempo de pista para los pilotos, equipos y fabricantes.</summary>
+    <published>2026-10-09T11:25:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/toto-wolff-hits-back-at-brainless-george-russell-conspiracy-theory/10863399/</id>
+    <title>[Fórmula 1] ¿Es Antonelli favorito de Mercedes? Wolff responde a las últimas acusaciones</title>
+    <updated>2026-10-09T13:13:19.554130+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/toto-wolff-hits-back-at-brainless-george-russell-conspiracy-theory/10863399/"/>
+    <summary>El principal de la escuadra de Fórmula 1 de Mercedes, Toto Wolff, ha respondido a las acusaciones de que Kimi Antonelli está siendo favorecido sobre George Russell, calificando a quienes lo sugieren de 'brillosos' y les aconseja que se limiten a 'mirar Teletubbies'. Las teorías de conspiración surgieron después de que el motor de Russell se fallara en Malasia, lo que obligó a cambiar su unidad de potencia temprano y a recibir una penalización de la grilla, lo que había sido esperado que le permitiera beneficiarse de la ADUO
+
+Contexto IA (informativo):
+La situación se intensificó después de que Russell sufriera un motor fallido en la carrera de Malasia, lo que generó especulaciones sobre la posible influencia de Mercedes en la elección de Antonelli como su compañero de equipo.</summary>
+    <published>2026-10-09T11:46:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/why-kimi-antonelli-and-george-russell-are-test-pilots-for-mercedes-at-singapore-gp/10863412/</id>
+    <title>[Fórmula 1] ¿Por qué Kimi Antonelli y George Russell son "pilotos de prueba" para Mercedes en el GP de Singapur</title>
+    <updated>2026-10-09T13:13:19.554096+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/"/>
-    <summary>Mercedes decidirá correr su coche W17 en especificaciones divididas para el Gran Premio de Singapur, con Kimi Antonelli listo para correr sus actualizaciones de Sepang nuevamente. George Russell volverá a correr el coche que tenía en Baku, mientras que el equipo introdujo un nuevo piso y un paquete de cuerpo para el Gran Premio de Bahrain en Malasia, con tablas de suelo modificadas detrás de las ruedas delantera y un lado superior con una rampa. El equipo ha estado trabajando en la actualización de su coche desde el Gran Premio de Baku, donde Russell terminó en el puesto 8. La actualización de Sepang incluye cambios en el sistema de frenado y en la suspensión. El equipo ha estado trabajando en la actualización de su coche desde el Gran Premio de Baku, donde Russell terminó en el puesto 8. La actualización de Sepang incluye cambios en el sistema de frenado y en la suspensión. El equipo ha estado trabajando en la actualización de su coche desde el Gran Premio de Baku, donde Russell terminó en el puesto 8. La actualización de Sepang incluye cambios en el sistema de frenado y en la suspensión. El equipo ha estado trabajando en la actualización de su coche desde el Gran Premio de Baku, donde Russell terminó en el puesto 8. La actualización de Sepang incluye cambios en el sistema de frenado y en la suspensión.
+    <link href="https://www.motorsport.com/f1/news/why-kimi-antonelli-and-george-russell-are-test-pilots-for-mercedes-at-singapore-gp/10863412/"/>
+    <summary>El jefe de Mercedes, Toto Wolff, ha calificado a sus pilotos Kimi Antonelli y George Russell como "dos pilotos de prueba" debido a que conducen diferentes especificaciones de coche en el próximo GP de Singapur. A pesar de que Mercedes ha sido el equipo dominante en 2026, con 11 victorias de 16 Grandes Premios, su autoridad fue desafiada por Red Bull en el GP de Sepang anteriormente, donde Max Verstappen ganó desde la pole position.
 
 Contexto IA (informativo):
-El equipo de Mercedes ha estado trabajando en la actualización de su coche para el Gran Premio de Singapur, que se llevará a cabo el próximo fin de semana en el circuito de Marina Bay. La actualización incluye cambios en el sistema de frenado y en la suspensión, que se espera que mejoren la estabilidad del coche en las curvas. El equipo busca aprovechar la oportunidad de correr en una carrera de alta presión para recopilar datos y mejorar su rendimiento.</summary>
-    <published>2026-10-08T12:36:39+00:00</published>
+En la temporada 2026, Mercedes ha demostrado ser un equipo muy competitivo, pero su dominio ha sido desafiado por Red Bull en varias ocasiones. El GP de Singapur será una oportunidad para que los pilotos de Mercedes prueben diferentes especificaciones de coche y obtener una mejor comprensión de su rendimiento.</summary>
+    <published>2026-10-09T12:24:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863053/</id>
-    <title>[Fórmula 1] “Construyeron los mejores motores” – Los pilotos de Audi revelan la limitación más grande y cómo abordarla</title>
-    <updated>2026-10-08T13:08:06.947170+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863053/"/>
-    <summary>Los pilotos de Audi, liderados por Allan McNish, creen que la pista de Marina Bay en Singapur es adecuada para ellos. Aunque en teoría deberían beneficiarse de las pistas que tienen menos sensibilidad al poder, esta regla no es necesariamente aplicable en Asia. Los pilotos consideran que el gap de poder con los líderes en el mercado es menor, pero también reconocen que hay otras limitaciones que deben abordarse.
-
-Contexto IA (informativo):
-La pista de Marina Bay es conocida por ser una de las más desafiantes del calendario de F1, con una combinación de curvas y rectas que requieren una gran precisión y habilidad para manejar. Los pilotos de Audi deben adaptarse a estas condiciones y encontrar formas de mejorar su rendimiento en la pista.</summary>
-    <published>2026-10-08T12:56:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/</id>
-    <title>[Tecnología] El BMW iX4 renace como un EV</title>
-    <updated>2026-10-08T13:08:06.947136+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/"/>
-    <summary>El BMW iX4 es una versión eléctrica del X4, con una excelente autonomía de 428 millas y hasta 603 caballos de fuerza. El nuevo modelo ofrece una forma similar a la del X4 de gasolina, pero con un motor eléctrico y dos configuraciones que ofrecen una gran velocidad y rango. El iX4 cuenta con un diseño deportivo y tecnológico, con un interior lujoso y una infotecnica avanzada. El precio del modelo base es de $67,695, mientras que el iX4 M60 xDrive se estima en alrededor de $20,000 más.
-
-Contexto IA (informativo):
-El BMW iX4 es el tercer modelo de la Neue Klasse EV de la marca, siguiendo al iX5 y al iX3. El modelo se estrenará en showrooms en marzo de 2027.</summary>
-    <published>2026-10-08T08:45:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/</id>
-    <title>[Tecnología] Teenage Engineering dejará de fabricar sintetizadores para enfocarse en... lo que le parezca</title>
-    <updated>2026-10-08T13:08:06.947103+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/"/>
-    <summary>La empresa Teenage Engineering, conocida por sus sintetizadores, anunció que dejará de fabricarlos. El CEO, Jesper Kouthoofd, explicó que los productos no son la verdadera business de la empresa. Aunque la mayoría de sus productos son dispositivos de música o audio, esto podría significar que la empresa deja de ser una empresa de fabricación de productos. Kouthoofd mencionó que, como parte de una reorganización, anunció que dejará de fabricar sintetizadores, incluyendo el famoso OP-1. La empresa tiene un pedigree de diseño en productos fuera de sus propios, como el console Playdate y el Rabbit R1, y ha trabajado con la empresa de smartphones y audio Nothing. También ha realizado proyectos unicos como el Mayku Multiplier y la cámara Impossible, junto con colaboraciones con IKEA. Los usuarios regulares de TE productos se alarmaron un poco con la noticia, especialmente porque la empresa fue muy vaga sobre el timeline. Sin embargo, según el artículo, algunos proyectos futuros podrían tardar 5 a 10 años en ser lanzados.
-
-Contexto IA (informativo):
-La noticia generó una gran expectativa entre los usuarios de TE, pero el CEO Kouthoofd aseguró que la empresa seguirá innovando y creciendo en otros ámbitos.</summary>
-    <published>2026-10-08T10:49:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/do-cats-really-love-us-2000817878</id>
-    <title>[Tecnología] ¿Los gatos realmente nos aman?</title>
-    <updated>2026-10-08T13:08:06.947070+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/do-cats-really-love-us-2000817878"/>
-    <summary>Un investigador comparte su experiencia con su gato Cheddar, quien ha sido su compañero durante casi una década. Aunque muchos expertos en comportamiento animal consideran que el comportamiento de los gatos hacia los humanos se asemeja al amor, la investigación sugiere que los gatos pueden formar relaciones sociales significativas con los humanos. Los expertos en comportamiento animal destacan la importancia de considerar la variación individual en el comportamiento social de los gatos y la necesidad de evitar la antropomorfización. La relación entre los gatos y los humanos es única y no se puede reducir a la experiencia humana de amor.
-
-Contexto IA (informativo):
-La relación entre los gatos y los humanos es compleja y ha sido objeto de estudio en la comunidad científica. Los expertos en comportamiento animal destacan la importancia de considerar la variación individual en el comportamiento social de los gatos y la necesidad de evitar la antropomorfización.</summary>
-    <published>2026-10-08T11:30:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events</id>
-    <title>[Tecnología] Xbox lanza una nueva división de cine y televisión</title>
-    <updated>2026-10-08T13:08:06.947037+00:00</updated>
+    <id>https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes</id>
+    <title>[Tecnología] Los usuarios de Microsoft 365 Family podrán compartir los beneficios de la inteligencia artificial</title>
+    <updated>2026-10-09T13:13:19.554063+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events"/>
-    <summary>Xbox está lanzando una nueva división llamada 'XP' que se enfoca en experiencias de Xbox que no son videojuegos, incluyendo películas y adaptaciones de televisión, productos de consumo, eventos en vivo y colaboraciones con creadores y marcas. Esta división centralizará el trabajo que ya se está haciendo en diferentes equipos de Xbox. La división 'XP' formaliza cuatro 'áreas de inversión', según un post de blog de Matthew Ball, director de estrategia de Xbox. Estas áreas incluyen: XBOX PICTURES, que busca llevar los mundos y personajes de Xbox a nuevos públicos a través de la narrativa lineal; XBOX PRODUCTS, que crea productos auténticos a los fanáticos de la franquicia.
+    <link href="https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"/>
+    <summary>Microsoft 365 Family y Premium permitirán a los usuarios compartir los beneficios de la inteligencia artificial, como Copilot y las características de uso de AI, junto con acceso a aplicaciones de Office y almacenamiento en OneDrive, con hasta cinco personas en un plan. Esta medida se implementará en los próximos meses, según un correo electrónico enviado a los suscriptores vistos por The Verge. Los cambios incluyen la capacidad de compartir los beneficios de la inteligencia artificial con otros usuarios en el plan, lo que permitirá a más personas aprovechar las características de Copilot y las características de uso de AI. Además, los usuarios podrán acceder a las aplicaciones de Office y el almacenamiento en OneDrive. La medida se implementará en los próximos meses, según el correo electrónico enviado a los suscriptores. Los detalles de la medida se pueden leer en la página de The Verge.
 
 Contexto IA (informativo):
-Esta nueva división de Xbox busca expandir su presencia en el mundo del entretenimiento, pero no se trata de una competencia directa con las grandes cadenas de cine y televisión. La división 'XP' se enfoca en crear experiencias únicas y auténticas para los fanáticos de Xbox, aprovechando su base de jugadores y entusiastas.</summary>
-    <published>2026-10-08T12:01:12+00:00</published>
+En el correo electrónico, Microsoft destaca la importancia de compartir los beneficios de la inteligencia artificial con otros usuarios en el plan, lo que permitirá a más personas aprovechar las características de Copilot y las características de uso de AI. La medida se implementará en los próximos meses, según el correo electrónico enviado a los suscriptores.</summary>
+    <published>2026-10-09T07:14:32+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/shin-godzilla-2-is-reportedly-filming-this-november-2000823343</id>
-    <title>[Tecnología] Noticias de Hollywood: 'Shin Godzilla 2' comienza filming en noviembre</title>
-    <updated>2026-10-08T13:08:06.947004+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/shin-godzilla-2-is-reportedly-filming-this-november-2000823343"/>
-    <summary>Se espera que la secuela de 'Shin Godzilla' comience a filmarse en Japón en noviembre, con algunos actores originales y nuevos en el reparto. Además, se han anunciado varios proyectos de cine y televisión, incluyendo 'Fast Forever', 'Doom Scroll' y 'Widow's Bay', que tienen fechas de estreno inciertas. En el mundo de la televisión, se han anunciado nuevos proyectos como 'Daredevil: Born Again' y 'VisionQuest', que ofrecen nuevos desafíos para los personajes de los personajes de Marvel.
-
-Contexto IA (informativo):
-En un mundo donde la industria del entretenimiento es cada vez más dinámica, es importante mantenerse al tanto de las últimas noticias y proyectos en marcha. Desde secuelas de películas hasta nuevas series de televisión, hay algo para todos los gustos.</summary>
-    <published>2026-10-08T12:02:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal</id>
-    <title>[Tecnología] Joe Rogan y Spotify renuevan un acuerdo de podcast masivo</title>
-    <updated>2026-10-08T13:08:06.946970+00:00</updated>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers</id>
+    <title>[Tecnología] OpenAI se mantiene firme en la decisión de despedir a tres investigadores de seguridad de AI</title>
+    <updated>2026-10-09T13:13:19.554027+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal"/>
-    <summary>Spotify ha renovado su acuerdo de licencia con Joe Rogan, quien sigue siendo el programa de podcast número uno en la plataforma y en el mundo. Según informó The Wall Street Journal, el acuerdo a largo plazo se valora en alrededor de $250 millones, permitiendo que los nuevos episodios de The Joe Rogan Experience aparezcan en Spotify y en otras plataformas cada semana. Este acuerdo se basa en la relación lucrativa entre Spotify y Rogan que comenzó con un acuerdo de streaming exclusivo para The Joe Rogan Experience en 2020. La compañía más tarde permitió que el programa se distribuyera en YouTube, Apple y otras plataformas de podcasteo como parte de su acuerdo de 2024 con Rogan.
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"/>
+    <summary>OpenAI ha confirmado su decisión de despedir a tres investigadores de seguridad de AI después de una investigación que encontró que habían violado 'policías claras sobre manejo de información sensible'. La empresa asegura que la decisión no se debe a que los investigadores hablaron sobre la empresa y sus preocupaciones sobre la seguridad de la inteligencia artificial. Los investigadores habían publicado una carta abierta y una serie de publicaciones en redes sociales, en las que expresaban su descontento con la falta de transparencia de la empresa. La decisión de despedir a los investigadores se considera una 'brecha significativa de confianza' según la empresa. La investigación encontró que los investigadores habían violado las políticas de manejo de información sensible, lo que llevó a su despedida. La empresa ha asegurado que su decisión no se debe a que los investigadores hablaron sobre la empresa y sus preocupaciones sobre la seguridad de la inteligencia artificial. La decisión de despedir a los investigadores se considera una 'brecha significativa de confianza' según la empresa. La investigación encontró que los investigadores habían violado las políticas de manejo de información sensible, lo que llevó a su despedida. La empresa ha asegurado que su decisión no se debe a que los investigadores hablaron sobre la empresa y sus preocupaciones sobre la seguridad de la inteligencia artificial. La decisión de despedir a los investigadores se considera una 'brecha significativa de confianza' según la empresa. La investigación encontró que los investigadores habían violado las políticas de manejo de información sensible, lo que llevó a su despedida. La empresa ha asegurado que su decisión no se debe a que los investigadores hablaron sobre la empresa y sus preocupaciones sobre la seguridad de la inteligencia artificial.
 
 Contexto IA (informativo):
-El acuerdo refuerza la relación entre Spotify y Rogan que comenzó con un acuerdo de streaming exclusivo para The Joe Rogan Experience en 2020. La compañía más tarde permitió que el programa se distribuyera en YouTube, Apple y otras plataformas de podcasteo como parte de su acuerdo de 2024 con Rogan.</summary>
-    <published>2026-10-08T12:56:05+00:00</published>
+La decisión de despedir a los investigadores de seguridad de AI de OpenAI ha generado un gran revuelo en la comunidad de la inteligencia artificial. La empresa ha asegurado que su decisión no se debe a que los investigadores hablaron sobre la empresa y sus preocupaciones sobre la seguridad de la inteligencia artificial, pero la investigación encontró que habían violado las políticas de manejo de información sensible.</summary>
+    <published>2026-10-09T09:48:26+00:00</published>
   </entry>
   <entry>
-    <id>https://2026.stateofdevs.com/en-US/</id>
-    <title>[Programación] Estado de los Desarrolladores 2026</title>
-    <updated>2026-10-08T13:08:06.946935+00:00</updated>
+    <id>https://www.wired.com/story/best-mac-desktop/</id>
+    <title>[Tecnología] La mejor computadora de escritorio Mac para comprar (2026): Mac Mini, Mac Studio o iMac?</title>
+    <updated>2026-10-09T13:13:19.553995+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://2026.stateofdevs.com/en-US/"/>
-    <summary>El Estado de los Desarrolladores 2026 revela una situación incierta para los desarrolladores. La mitad de los respondientes experimentaron inseguridad laboral y salarios insuficientes, mientras que un cuarto fue despedido en algún momento de su carrera. Además, se anticipa que un tercio de los desarrolladores necesitarán cambiar de carrera en los próximos 5 años. Los resultados también muestran que la mayoría de los desarrolladores se sienten menos motivados y más cínicos, y que la presión para adaptarse a la tecnología y el cambio es abrumadora. Sin embargo, también se destaca la importancia de abordar temas como la discriminación y la discriminación en el lugar de trabajo.
+    <link href="https://www.wired.com/story/best-mac-desktop/"/>
+    <summary>Las computadoras de escritorio Mac han ganado popularidad este año gracias al interés creciente en el agente artificial. Aquí te presentamos las opciones más adecuadas según tu uso.
 
 Contexto IA (informativo):
-El informe destaca la necesidad de conversaciones abiertas sobre temas como la discriminación y la discriminación en el lugar de trabajo, así como la importancia de encontrar formas de hacer que la tecnología y el cambio sean más accesibles y justos para todos.</summary>
-    <published>2026-10-07T22:48:04+00:00</published>
+En este artículo, exploraremos las características y ventajas de cada modelo para ayudarte a tomar una decisión informada.</summary>
+    <published>2026-10-09T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://sheets.works/data-viz/holding-up-the-internet</id>
-    <title>[Programación] Los guardianes del internet</title>
-    <updated>2026-10-08T13:08:06.946898+00:00</updated>
+    <id>https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/</id>
+    <title>[Tecnología] ¿Qué esperar de la presentación de Apple 'Bienvenido a casa' la próxima semana</title>
+    <updated>2026-10-09T13:13:19.553961+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://sheets.works/data-viz/holding-up-the-internet"/>
-    <summary>Billones de teléfonos dependen de un código que un grupo reducido de personas cuida. Un equipo de investigadores descubrió que solo unos pocos individuos están detrás de este código. El código es utilizado por Android y iPhone, y se actualiza periódicamente. En el último año, se realizaron 251 cambios, de los cuales 218 fueron realizados por un hombre llamado Paul, quien también es profesor de ciencias de la computadora en UCLA. El código también ha sido objeto de un caso legal en el que una empresa de software de astrología lo acusó de plagiar su historia. Sin embargo, el caso fue resuelto en 2012. El código es una herramienta fundamental para la comunicación en línea y su mantenimiento es crucial para la estabilidad del internet.
+    <link href="https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/"/>
+    <summary>Apple anuncia su segunda presentación de otoño el 13 de octubre, y la etiqueta 'Bienvenido a casa' sugiere que se centrará en productos de hogar inteligentes. La empresa está reinvirtiendo sus ambiciones de hogar con una pantalla inteligente y una variedad de accesorios. La nueva línea de productos se centra en la funcionalidad mejorada de Siri AI y varios nuevos dispositivos que la ejecutan. El dispositivo estrella de la nueva línea será la pantalla inteligente de Apple, que combinará las capacidades de audio y asistente de Siri con una pantalla que puede mostrar fotos, ejecutar aplicaciones y servir como un dispositivo de FaceTime dedicado. Además, Apple espera introducir actualizaciones en la Apple TV y el HomePod mini, y posiblemente otros accesorios. La empresa también está trabajando en terceros de puerta, cerraduras, cámaras y sensores de temperatura, colaborando con LG Electronics y Schneider Electric.
 
 Contexto IA (informativo):
-El código en cuestión es utilizado por una variedad de aplicaciones y dispositivos, incluyendo teléfonos inteligentes, servidores y computadoras. Su mantenimiento es una tarea compleja que requiere la colaboración de un grupo de personas dedicadas.</summary>
-    <published>2026-10-08T04:53:23+00:00</published>
+La presentación de Apple 'Bienvenido a casa' será la segunda de la empresa en el otoño, y se espera que se centre en productos de hogar inteligentes. La empresa está reinvirtiendo sus ambiciones de hogar con una pantalla inteligente y una variedad de accesorios. La nueva línea de productos se centra en la funcionalidad mejorada de Siri AI y varios nuevos dispositivos que la ejecutan.</summary>
+    <published>2026-10-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/halloween-is-returning-to-theaters-to-celebrate-its-favorite-holiday-2000823794</id>
+    <title>[Tecnología] ‘Halloween’ Vuelve a las Cinemas para Celebrar su Fiesto Favorito</title>
+    <updated>2026-10-09T13:13:19.553925+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/halloween-is-returning-to-theaters-to-celebrate-its-favorite-holiday-2000823794"/>
+    <summary>El clásico slasher de John Carpenter regresa a las pantallas para celebrar su fiesta favorita, Halloween. El film se estrenará en más de 2.000 pantallas en Estados Unidos y se expandirá a 12 países internacionales. La película se estrenará en octubre, coincidiendo con el Día de las Brujas, y se pueden ver más de 180 proyecciones en octubre y febrero. El film sigue la historia de Laurie Strode y su enfrentamiento con Michael Myers, el asesino enmascarado. El original film se estrenará en cines para celebrar su fiesta favorita, Halloween. El film se estrenará en más de 2.000 pantallas en Estados Unidos y se expandirá a 12 países internacionales. La película se estrenará en octubre, coincidiendo con el Día de las Brujas, y se pueden ver más de 180 proyecciones en octubre y febrero. El film sigue la historia de Laurie Strode y su enfrentamiento con Michael Myers, el asesino enmascarado. El original film se estrenará en cines para celebrar su fiesta favorita, Halloween. El film se estrenará en más de 2.000 pantallas en Estados Unidos y se expandirá a 12 países internacionales. La película se estrenará en octubre, coincidiendo con el Día de las Brujas, y se pueden ver más de 180 proyecciones en octubre y febrero. El film sigue la historia de Laurie Strode y su enfrentamiento con Michael Myers, el asesino enmascarado. El original film se estrenará en cines para celebrar su fiesta favorita, Halloween. El film se estrenará en más de 2.000 pantallas en Estados Unidos y se expandirá a 12 países internacionales. La película se estrenará en octubre, coincidiendo con el Día de las Brujas, y se pueden ver más de 180 proyecciones en octubre y febrero. El film sigue la historia de Laurie Strode y su enfrentamiento con Michael Myers, el asesino enmascarado.
+
+Contexto IA (informativo):
+El film original de 1978 fue un éxito y se convirtió en un clásico de la industria del cine de terror. El director John Carpenter escribió la película y la estrenó con Debra Hill. El film sigue la historia de Laurie Strode y su enfrentamiento con Michael Myers, el asesino enmascarado. El film se estrenará en cines para celebrar su fiesta favorita, Halloween.</summary>
+    <published>2026-10-09T12:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/</id>
+    <title>[Tecnología] Telescopio Webb localiza el origen de la explosión de radio más lejana detectada hasta ahora</title>
+    <updated>2026-10-09T13:13:19.553888+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/"/>
+    <summary>El telescopio Webb ha detectado la galaxia de origen de la explosión de radio más lejana detectada hasta ahora. La investigación proporciona luz sobre la formación de estas explosiones. Se detectó la explosión más lejana en 2024 gracias a observaciones del telescopio MeerKAT. Las explosiones de radio son ondas de radio extremadamente rápidas provenientes del espacio que duran solo una fracción de segundo pero liberan la misma cantidad de energía que la sun emite en tres días. Se cree que se produjeron por la colisión de dos estrellas de neutrones. Sin embargo, la investigación sugiere que la explosión más lejana se produjo en una galaxia que existía hace 3 mil millones de años después del Big Bang, lo que indica que la formación de estrellas estaba en su punto más alto en el universo. Además, la galaxia que produjo la explosión es 1.000 veces más pequeña de lo esperado. Las teorías sobre la formación de estas explosiones sugieren que se producen por la colisión de dos estrellas de neutrones o por la explosión de una estrella en supernova y la formación de un magnetar. La investigación sugiere que la explosión más lejana se produjo por una supernova, lo que proporciona apoyo a la teoría de que estas explosiones pueden provenir de una cierta tipo de explosión estelar
+
+Contexto IA (informativo):
+La investigación se publicó en la revista Science y fue liderada por Manisha Caleb de la Universidad de Sydney, Australia. La detección de la explosión de radio más lejana es un avance significativo en la comprensión de estas fenómenos celestes.</summary>
+    <published>2026-10-09T12:28:24+00:00</published>
   </entry>
   <entry>
     <id>https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</id>
     <title>[Programación] Pionera en la computación fallece a los 90 años</title>
-    <updated>2026-10-08T13:08:06.946858+00:00</updated>
+    <updated>2026-10-09T13:13:19.553848+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -361,45 +333,59 @@ La muerte de Margaret Hamilton es un recordatorio de la importancia de las mujer
     <published>2026-10-08T05:55:59+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/bshahin/geetest-v3-why-your-slider-automation-keeps-failing-the-second-check-1cj8</id>
-    <title>[Programación] GeeTest v3: por qué la automatización de la barra de desplazamiento sigue fallando en el segundo chequeo</title>
-    <updated>2026-10-08T13:08:06.946820+00:00</updated>
+    <id>https://ratfactor.com/cards/git-commit-size</id>
+    <title>[Programación] ¿Cuánto ocupa un commit de Git?</title>
+    <updated>2026-10-09T13:13:19.553812+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/bshahin/geetest-v3-why-your-slider-automation-keeps-failing-the-second-check-1cj8"/>
-    <summary>GeeTest v3 es una herramienta de automatización que utiliza una barra de desplazamiento para verificar la autenticidad de un usuario. La automatización funciona correctamente una vez, pero falla en el segundo chequeo debido a que la herramienta verifica no solo la posición de la barra de desplazamiento, sino también el camino que se ha tomado para llegar allí. Esto significa que la automatización debe considerar factores como la aceleración, la velocidad y la trayectoria del movimiento para garantizar que la barra de desplazamiento se mueva de manera natural y plausible. La herramienta también verifica la autenticidad del usuario en función de su entorno, por lo que la automatización debe considerar factores como el navegador utilizado y la conexión a Internet. En resumen, la automatización de GeeTest v3 requiere una aproximación más sofisticada y precisa para garantizar el éxito en el segundo chequeo.
+    <link href="https://ratfactor.com/cards/git-commit-size"/>
+    <summary>Un commit de Git depende del tamaño de los archivos y la cantidad de repetición en ellos. El tamaño de un commit también depende de la eficiencia de la compresión de los objetos. En general, el tamaño de un commit es del 50% al 10% del tamaño de los archivos no comprometidos. En el caso de un commit con un solo archivo, el tamaño del commit es menor que el tamaño del archivo. Los commits pequeños pueden tener un gran peso en la compresión de los objetos. Los objetos de Git se compresionan en paquetes para ahorrar espacio. El tamaño de un commit puede variar dependiendo del tamaño de la estructura de directorios involucrada. En general, Git es muy eficiente en la compresión de los objetos.
 
 Contexto IA (informativo):
-Es importante destacar que GeeTest v3 es una herramienta diferente de GeeTest v4, que tiene un protocolo de autenticación diferente y una validación de carga más estricta. Si se utiliza GeeTest v4, es importante utilizar una guía y una biblioteca específicas para evitar confusiones y errores.</summary>
-    <published>2026-10-08T13:00:00+00:00</published>
+El tamaño de un commit de Git depende de varios factores, incluyendo la cantidad de repetición en los archivos y la eficiencia de la compresión de los objetos. Los commits pequeños pueden tener un gran peso en la compresión de los objetos, por lo que es importante entender cómo funcionan los objetos de Git y cómo se compresionan. En general, Git es muy eficiente en la compresión de los objetos, lo que hace que los commits sean más pequeños de lo que podrían ser si no se hubiera implementado este sistema de compresión.</summary>
+    <published>2026-10-08T22:00:15+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/kadi_bence/how-to-get-all-open-jobs-from-a-list-of-companies-greenhouse-lever-ashby-in-one-spreadsheet-395i</id>
-    <title>[Programación] Cómo obtener todos los empleos abiertos de una lista de empresas (Greenhouse, Lever, Ashby) en una hoja de cálculo</title>
-    <updated>2026-10-08T13:08:06.946765+00:00</updated>
+    <id>https://dev.to/yusufcengiz/bug-reporting-tools-already-exist-what-still-makes-bugs-hard-to-reproduce-5h00</id>
+    <title>[Programación] Los herramientas de reporte de errores ya existen. ¿Qué sigue haciendo que los errores sean difíciles de reproducir?</title>
+    <updated>2026-10-09T13:13:19.553772+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/kadi_bence/how-to-get-all-open-jobs-from-a-list-of-companies-greenhouse-lever-ashby-in-one-spreadsheet-395i"/>
-    <summary>Tienes una lista de empresas: cuentas objetivo, portafolio de startups o simplemente las lugares donde quieres trabajar. Quieres una tabla con todos sus empleos abiertos: título, ubicación, remoto o no, departamento, fecha y salario. El problema: cada empresa utiliza un sistema de seguimiento de aplicantes diferente (ATS). Stripe está en Greenhouse, Ramp está en Ashby, Spotify está en Lever, muchos empresas europeas utilizan Personio o Workable. Ninguno de ellos tiene un botón de exportación a Excel. Copiar a mano no escala más allá de cinco empresas. Este guide muestra cómo obtener todos ellos en una hoja de cálculo, con las mismas columnas para cada empresa, sin código. La disculpa: construí el herramienta utilizada en este guide, el Greenhouse, Lever &amp; Ashby Jobs Scraper en Apify.
+    <link href="https://dev.to/yusufcengiz/bug-reporting-tools-already-exist-what-still-makes-bugs-hard-to-reproduce-5h00"/>
+    <summary>Las herramientas de reporte de errores no son nuevas. A pesar de tener herramientas como Jam.dev que capturan registros de pantalla y contexto técnico, los errores siguen siendo difíciles de reproducir. La cuestión no es cómo agregar un registro de pantalla a un reporte de error, sino qué factores contribuyen a que esto suceda. Un registro de pantalla puede mostrar qué se hizo, pero otros factores como el estado de la cuenta, la información visualizada, el tiempo o algo más pueden hacer que sea difícil reproducir. La captura de más información no siempre es la solución, ya que el ruido puede hacer que los detalles útiles sean más difíciles de encontrar. Un buen reporte de error debe hacer que se aclaren varios puntos, como dónde ocurrió el error, qué pasos llevaron a ello, qué se esperaba y qué pasó en su lugar. También es importante saber si alguien más puede reproducir el error. La parte difícil es obtener ese contexto sin hacer que el usuario que reporta el error complete un largo formulario o se convierta en un detective. Si se utiliza Jam.dev, Marker.io o herramientas similares, la cuestión es qué información se envía de nuevo a Slack para obtener más contexto y qué información no se quiere que se capture automáticamente. El autor está explorando este espacio mientras construye caes.dev, aunque aún no tiene una demo disponible. La lista de espera está disponible en https://caes.dev.
 
 Contexto IA (informativo):
-Este guide es una guía paso a paso para obtener empleos abiertos de diferentes empresas en una hoja de cálculo. El proceso implica utilizar un scraper de Apify que puede detectar el ATS utilizado por cada empresa y obtener los empleos abiertos. El scraper puede filtrar los empleos según diferentes criterios, como ubicación, fecha de publicación y salario. Al final del proceso, se obtiene una hoja de cálculo con todos los empleos abiertos de las empresas seleccionadas, con las mismas columnas para cada empresa.</summary>
-    <published>2026-10-08T13:00:00+00:00</published>
+El autor está explorando la posibilidad de crear una herramienta que pueda ayudar a los usuarios a reproducir errores de manera más fácil. La idea es crear un sistema que pueda capturar la información necesaria sin hacer que el usuario que reporta el error complete un largo formulario o se convierta en un detective. El autor está trabajando en este proyecto mientras construye caes.dev.</summary>
+    <published>2026-10-09T12:56:05+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/ai_openfree_b23025ef075cf/when-more-robot-data-hurts-a-closed-loop-test-of-data-curation-5edm</id>
-    <title>[Programación] Cuándo más datos de robots daña: un test cerrado de curación de datos</title>
-    <updated>2026-10-08T13:08:06.946674+00:00</updated>
+    <id>https://dev.to/byteio_501/name-the-failure-class-before-you-rank-a-coding-agent-3pfc</id>
+    <title>[Programación] Clasificar el fracaso de la clase antes de calificar un agente de codificación</title>
+    <updated>2026-10-09T13:13:19.553717+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/ai_openfree_b23025ef075cf/when-more-robot-data-hurts-a-closed-loop-test-of-data-curation-5edm"/>
-    <summary>En este estudio, se realizó un test cerrado para evaluar el impacto de la curación de datos en la política de comportamiento. Se encontró que la curación es beneficioso solo cuando los datos son incorrectos, como acciones incorrectas o etiquetas incorrectas. Los datos que fallan pero son sensibles locales no necesitan ser eliminados. La curación no es una solución mágica y debe ser utilizada con cuidado. Se recomienda eliminar primero las etiquetas incorrectas y las acciones incorrectas en reverso, ya que estos causan la mayor caída en la cobertura.
+    <link href="https://dev.to/byteio_501/name-the-failure-class-before-you-rank-a-coding-agent-3pfc"/>
+    <summary>Cuando un compañero de equipo comparte una captura de pantalla de un agente de codificación en el canal, es posible que no se abra el log. En este artículo se presenta una forma de abordar este escenario. Se recomienda mantener un registro de los fracasos de cada agente de codificación que se va a citar, que incluye la clase de cada tarea y una sección de control negativo que no debe ser superada. Se enfatiza la importancia de no publicar una tasa si no se puede proporcionar el registro completo. Se discuten las diferentes formas en que un agente de codificación puede fallar, como no compilar, no pasar un test, tiempo limitado, no aplicar un parche o entrar en archivos prohibidos. Se presentan tres formas de crear un control negativo que no sea una trampa. Se recomienda no eliminar una clase solo porque afecta la apariencia del gráfico. Se enfatiza que la publicación de una tasa solo después de eliminar filas es una forma de marketing, incluso si el cálculo es correcto. Se discuten las formas de crear un control negativo que no sea una trampa y se presentan tres formas de hacerlo en código de aplicación propia. Se recomienda mantener un registro de los fracasos de cada agente de codificación y no publicar una tasa si no se puede proporcionar el registro completo. Se enfatiza la importancia de no eliminar una clase solo porque afecta la apariencia del gráfico. Se discuten las formas de crear un control negativo que no sea una trampa y se presentan tres formas de hacerlo en código de aplicación propia. Se recomienda mantener un registro de los fracasos de cada agente de codificación y no publicar una tasa si no se puede proporcionar el registro completo. Se enfatiza la importancia de no eliminar una clase solo porque afecta la apariencia del gráfico. Se discuten las formas de crear un control negativo que no sea una trampa y se presentan tres formas de hacerlo en código de aplicación propia.
 
 Contexto IA (informativo):
-Este estudio se centra en la importancia de la curación de datos en la política de comportamiento de robots. La curación de datos es un proceso que implica eliminar o corregir los datos incorrectos para mejorar la precisión y la eficiencia de la política. En este caso, se utilizó un conjunto de datos de robots y se evaluó el impacto de la curación de datos en la política de comportamiento. Los resultados mostraron que la curación es beneficioso solo cuando los datos son incorrectos, y no es una solución mágica que deba ser utilizada en todos los casos.</summary>
-    <published>2026-10-08T13:00:01+00:00</published>
+Este artículo se centra en la importancia de mantener un registro de los fracasos de cada agente de codificación que se va a citar, y cómo crear un control negativo que no sea una trampa. Se enfatiza la necesidad de no publicar una tasa si no se puede proporcionar el registro completo. El artículo también discute las diferentes formas en que un agente de codificación puede fallar, y cómo crear un control negativo que no sea una trampa.</summary>
+    <published>2026-10-09T12:57:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/chaitrabv/starting-fresh-in-germany-my-journey-in-tech-4pp1</id>
+    <title>[Programación] Empezar de Cero en Alemania: Mi Viaje en Tecnología</title>
+    <updated>2026-10-09T13:13:19.553628+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/chaitrabv/starting-fresh-in-germany-my-journey-in-tech-4pp1"/>
+    <summary>Moverse a Alemania desde la India es emocionante hasta que se da cuenta de que se tiene que empezar de cero en casi todo. Con más de 4 años de experiencia en desarrollo de software, la búsqueda de empleo se siente muy diferente. Actualizar mi perfil, buscar ofertas, verificar requisitos, solicitar y luego verificar mi correo electrónico más de lo que me gustaría admitir. Además, el alemán es un desafío en sí mismo. Encontrar roles que funcionen en inglés es un desafío por sí solo. No tengo una gran historia de éxito que compartir todavía. Estoy empezando, aprendiendo a medida que voy, y tratando de aclarar las cosas. Si estás buscando empleo en Alemania en este momento, ¿cómo te va? Me encantaría escuchar tu experiencia.
+
+Contexto IA (informativo):
+Este blog es una reflexión personal sobre mi experiencia en la búsqueda de empleo en Alemania. Quiero compartir mis aprendizajes, desafíos y logros con otros que pueden estar pasando por una situación similar.</summary>
+    <published>2026-10-09T12:58:20+00:00</published>
   </entry>
 </feed>
