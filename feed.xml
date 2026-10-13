@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-12T13:13:27.533855+00:00</updated>
+  <updated>2026-10-13T13:12:35.861684+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,65 +11,93 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html</id>
-    <title>[Economía] Zelenskyy acusa a Rusia de violar el cesaréo de energía de Trump</title>
-    <updated>2026-10-12T13:13:27.534740+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-12/latest-oil-market-news-and-analysis-for-oct-13</id>
+    <title>[Economía] Noticias del mercado de petróleo y análisis para Oct. 13</title>
+    <updated>2026-10-13T13:12:35.862651+00:00</updated>
     <author>
-      <name>US Top News and Analysis</name>
+      <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html"/>
-    <summary>El presidente ucraniano Volodymyr Zelenskyy ha acusado a Rusia de violar el cesaréo de energía de Trump, que busca reducir los costos de energía. A pesar de la aprobación del acuerdo, Zelenskyy ha advertido que Kyiv se repondrá si Moscú no cumple con sus compromisos. Los ataques de drones rusos continuaron, causando daños a la infraestructura energética ucraniana. El Kremlin ha anunciado que contactos están en curso para alcanzar un acuerdo, pero no ha proporcionado detalles.
+    <link href="https://www.bloomberg.com/news/articles/2026-10-12/latest-oil-market-news-and-analysis-for-oct-13"/>
+    <summary>El petróleo se retiró después de tres días de ganancias, mientras los comerciantes revisaban las últimas amenazas y esfuerzos por calmar las tensiones en el Medio Oriente, Rusia y Ucrania. Los precios del petróleo se estabilizaron en los mercados internacionales. La OPEP mantuvo su producción constante. Los expertos consideran que la situación en Ucrania sigue siendo incierta.
 
 Contexto IA (informativo):
-El acuerdo de cesaréo de energía fue anunciado por Donald Trump el domingo, y se espera que reduzca los costos de energía en el mundo. Sin embargo, la historia de la guerra entre Rusia y Ucrania es compleja y ha tenido muchos intentos de cesaréo que no han sido exitosos hasta la fecha.</summary>
-    <published>2026-10-12T12:36:21+00:00</published>
+La situación en el Medio Oriente sigue siendo tensa, con ataques recientes en la región. La comunidad internacional sigue buscando maneras de reducir la tensión y promover la paz.</summary>
+    <published>2026-10-12T22:01:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html</id>
-    <title>[Economía] Las huelgas ponen a la economía de Arabia Saudita bajo presión</title>
-    <updated>2026-10-12T13:13:27.534708+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html</id>
+    <title>[Economía] Vance, Altman, Musk, Mamdani, Bieber y más en el summit de DealBook</title>
+    <updated>2026-10-13T13:12:35.862620+00:00</updated>
     <author>
       <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html"/>
-    <summary>Las huelgas en Arabia Saudita se suman a los desafíos que enfrenta el país, que busca mantener la producción de energía y seguir adelante con importantes eventos. La situación económica del país se ve afectada por la falta de inversión y la inestabilidad política. La crisis petrolera continúa siendo un tema de preocupación para la economía saudita. La producción de energía sigue siendo una prioridad para el gobierno, pero la situación es delicada y requiere una solución rápida.
+    <link href="https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html"/>
+    <summary>El periodista Andrew Ross Sorkin entrevistó a destacados nombres del mundo de las finanzas en el último summit de DealBook, incluyendo al Secretario del Tesoro Scott Bessent. Durante la entrevista, Sorkin abordó temas como la economía y la política. También se discutió la importancia de las finanzas en la actualidad. El evento fue una oportunidad para que los asistentes conecten con otros líderes del mundo de las finanzas.
 
 Contexto IA (informativo):
-La situación económica de Arabia Saudita se ve afectada por la falta de inversión y la inestabilidad política. La producción de energía sigue siendo una prioridad para el gobierno, pero la situación es delicada y requiere una solución rápida.</summary>
-    <published>2026-10-12T12:44:16+00:00</published>
+El DealBook Summit es un evento anual que reúne a líderes de las finanzas y políticas para discutir temas de actualidad. El evento ha sido organizado por el periodista Andrew Ross Sorkin desde su creación en 2010.</summary>
+    <published>2026-10-13T11:43:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-12/citi-economist-sees-rates-restrictive-for-real-economy-video</id>
-    <title>[Economía] La economista de Citi ve tasas restrictivas para la economía real</title>
-    <updated>2026-10-12T13:13:27.534676+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html</id>
+    <title>[Economía] Irán se fortalece nuclearmente en preparación para posibles ataques de EE. UU.</title>
+    <updated>2026-10-13T13:12:35.862587+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html"/>
+    <summary>Irán se prepara para posibles ataques de EE. UU. después de las elecciones medioambientales. El gobierno iraní ha fortalecido sus defensas en sitios sensibles como centros nucleares y ha advertido a los funcionarios regionales de que responderá con medidas de represalia en todo el Medio Oriente. Además, el régimen iraní se está preparando para la guerra convocando reuniones y enviando paramilitares a leer historias de guerra a niños. El presidente de EE. UU., Donald Trump, ha asegurado que no atacará a Irán antes de las elecciones. En otro lado, un coalición saudita ha interceptado un misil balístico dirigido a la capital saudita, Riyadh. La situación en Yemen sigue siendo tensa con ataques de Houthi contra la capital saudita. El gobierno británico ha advertido a Irán de que no tolerará amenazas en su territorio. En el Reino Unido, cinco hombres fueron detenidos el pasado septiembre por sospecha de delitos terroristas relacionados con un supuesto intento de atacar una base aérea. El presidente de EE. UU. ha retirado a los bombardeos de largo alcance de la base.
+
+Contexto IA (informativo):
+La situación en Yemen sigue siendo tensa con ataques de Houthi contra la capital saudita. El gobierno británico ha advertido a Irán de que no tolerará amenazas en su territorio. En el Reino Unido, cinco hombres fueron detenidos el pasado septiembre por sospecha de delitos terroristas relacionados con un supuesto intento de atacar una base aérea.</summary>
+    <published>2026-10-13T11:53:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bloomberg.com/news/videos/2026-10-13/citi-s-ficc-traders-drive-third-quarter-beat-on-revenue-video</id>
+    <title>[Economía] Los traders de ingresos fijos de Citi superan las expectativas</title>
+    <updated>2026-10-13T13:12:35.862555+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-12/citi-economist-sees-rates-restrictive-for-real-economy-video"/>
-    <summary>La economista estadounidense Veronica Clark, de Citi Research, indica que la actividad económica está lentamente disminuyendo fuera del ámbito de la Inteligencia Artificial. Sugiere que un aumento moderado en la inflación podría mantener a la Reserva Federal en su actitud de inmovilidad en octubre y diciembre. Según sus declaraciones en 'Bloomberg Surveillance'
+    <link href="https://www.bloomberg.com/news/videos/2026-10-13/citi-s-ficc-traders-drive-third-quarter-beat-on-revenue-video"/>
+    <summary>Los traders de ingresos fijos de Citigroup superaron las expectativas de los analistas con sus mejores resultados del tercer trimestre en al menos una década, lo que llevó a un récord de ingresos para el período. Los mejores resultados en trading de ingresos fijos, monedas y commodities, así como servicios, ayudaron a compensar un trimestre más lento de la empresa que asesoraba a los clientes sobre fusiones y adquisiciones. Kristine Aquino informa en Bloomberg Television.
 
 Contexto IA (informativo):
-La economista Clark hace estas afirmaciones en un contexto en el que la actividad económica está experimentando un lento declive, lo que podría tener implicaciones para la política monetaria de la Reserva Federal.</summary>
-    <published>2026-10-12T12:51:33+00:00</published>
+La mejora en los resultados de trading de ingresos fijos y servicios de Citi compensó en parte una cuarta que fue más lenta que las anteriores. La empresa sigue trabajando para mejorar su desempeño en el mercado.</summary>
+    <published>2026-10-13T12:50:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-12/saudi-arabia-faces-fresh-attacks-video</id>
-    <title>[Economía] Arabia Saudita enfrenta nuevos ataques</title>
-    <updated>2026-10-12T13:13:27.534642+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html</id>
+    <title>[Economía] Las tasas de interés más altas sacan el mordisco a las ganancias de JPMorgan</title>
+    <updated>2026-10-13T13:12:35.862524+00:00</updated>
     <author>
-      <name>Bloomberg Markets</name>
+      <name>NYT &gt; Business</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-12/saudi-arabia-faces-fresh-attacks-video"/>
-    <summary>Arabia Saudita informó que se encuentra enfrentando nuevos ataques con drones y cohetes, lo que aumenta las amenazas de seguridad en el reino en medio de los ataques mortales del fin de semana en el aeropuerto de Riyadh. Según fuentes, estos ataques son parte de una serie de incidentes que han ocurrido en el país en los últimos días. La situación en Arabia Saudita sigue siendo de alerta, con las autoridades trabajando para proteger a sus ciudadanos y visitantes. Los ataques han sido atribuidos a grupos extremistas, aunque la naturaleza de estos ataques sigue siendo objeto de investigación. La comunidad internacional sigue de cerca la situación en Arabia Saudita y se espera que las autoridades del país tomen medidas para abordar la situación de manera efectiva. La seguridad en el país sigue siendo una preocupación para los líderes mundiales, quienes buscan encontrar soluciones para prevenir futuros ataques.
+    <link href="https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html"/>
+    <summary>Después de una estirada de anuncios, el banco reveló resultados de ganancias sorprendentemente irregulares para el tercer trimestre. Su rival Goldman Sachs presentó resultados mejor que esperado.
 
 Contexto IA (informativo):
-Estos ataques siguen una serie de incidentes que han ocurrido en Arabia Saudita en los últimos días, lo que ha generado preocupación en la comunidad internacional. La situación en el país sigue siendo de alerta, con las autoridades trabajando para proteger a sus ciudadanos y visitantes.</summary>
-    <published>2026-10-12T12:57:43+00:00</published>
+El banco había anunciado una expansión reciente, pero sus resultados de ganancias fueron más débiles de lo esperado. La rivalidad entre JPMorgan y Goldman Sachs se intensificó en este trimestre.</summary>
+    <published>2026-10-13T12:55:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html</id>
+    <title>[Economía] 2027 podría ser un año desafiante para el mercado de valores</title>
+    <updated>2026-10-13T13:12:35.862490+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html"/>
+    <summary>El gestor de fondos de hedge Paul Tudor Jones advierte que el próximo año podría ser complicado para el mercado de valores debido a la mayor oferta de acciones de las empresas de tecnología que se están preparando para ir al mercado. Esto se debe a que las empresas de tecnología están aumentando su oferta de acciones para financiar su desarrollo de inteligencia artificial. Jones también menciona que el mercado de valores ha sido favorable debido a la reducción de la oferta de acciones, pero ahora eso está cambiando. El gestor de fondos cree que el mercado de valores podría volverse más difícil debido a la inflación y los intereses bancarios más altos. Por otro lado, Jones es optimista sobre el petróleo, que podría subir entre $20 y $25 después de las elecciones del medio tiempo.
+
+Contexto IA (informativo):
+El mercado de valores ha sido favorable en los últimos años debido a la reducción de la oferta de acciones, pero ahora eso está cambiando con la mayor oferta de acciones de las empresas de tecnología. El gestor de fondos cree que el mercado de valores podría volverse más difícil debido a la inflación y los intereses bancarios más altos.</summary>
+    <published>2026-10-13T12:59:59+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/</id>
     <title>[Data Science] Agentes de Inteligencia Artificial: Un Guía para Entender los Bases y Cómo Utilizarlas</title>
-    <updated>2026-10-12T13:13:27.534607+00:00</updated>
+    <updated>2026-10-13T13:12:35.862450+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -81,93 +109,37 @@ La industria de la inteligencia artificial está llena de promesas y desafíos. 
     <published>2026-10-12T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026</id>
-    <title>[Data Science] 10 modelos de Hugging Face que conocen en 2026</title>
-    <updated>2026-10-12T13:13:27.534574+00:00</updated>
+    <id>https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-personal-assistant-on-openclaw/</id>
+    <title>[Data Science] De cero a agente en 30 minutos: Construye un asistente personal en OpenClaw</title>
+    <updated>2026-10-13T13:12:35.862370+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>Radar</name>
     </author>
-    <link href="https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026"/>
-    <summary>En 2026, el Hugging Face Hub alcanzó nearly 3 millones de repositorios de modelos públicos, un aumento significativo desde el inicio del año. Para los practicantes, el desafío es no solo acceder a los modelos, sino también saber cuáles son los más valiosos y cuáles han sido reemplazados por sus sucesores. Los diez modelos seleccionados se basan en datos de adopción, rendimiento de benchmarks, términos de licencia y aplicabilidad a tareas comunes en el trabajo de máquina aprendizaje profesional. Algunos modelos ampliamente citados en 2024 y 2025 han sido reemplazados por sus sucesores. Es importante verificar la versión más reciente del modelo en el Hub de Hugging Face antes de ejecutar en producción. Los modelos incluyen checkpoint names que se refieren a versiones actuales al momento de la publicación. Es recomendable instalar o actualizar las siguientes bibliotecas antes de empezar: pip install -U transformers diffusers sentence-transformers
+    <link href="https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-personal-assistant-on-openclaw/"/>
+    <summary>En la última entrega de 'Zero to Agent in 30 Minutes', el ingeniero de inteligencia artificial Sajal Sharma muestra cómo construir un asistente personal en OpenClaw que rastrea tareas y notas y maneja trabajo programado de manera automática. El asistente debe ser accesible cuando no estés frente a tu computadora y seguir ejecutándose cuando tenga trabajo programado. OpenClaw permite tanto, y tú decides dónde se ejecuta el agente, qué modelos utiliza y cómo accede a tus datos. El tutorial sigue los pasos para ir de una instalación fresca a automaciones programadas. Instala tu instancia de OpenClaw, conecta los canales que usas, configura el espacio de trabajo del asistente y utiliza en tus flujos diarios. Puedes agregar automaciones proactivas programando trabajo que el asistente deba manejar de manera automática. El asistente puede ser un recurso valioso para mejorar tu productividad. Para más información, sigue el enlace proporcionado.
 
 Contexto IA (informativo):
-Los modelos de Hugging Face son una herramienta fundamental para la investigación y el desarrollo de aplicaciones de inteligencia artificial. Algunos modelos, como Qwen3.8-27B, han ganado popularidad debido a su capacidad para procesar imágenes y video junto con texto a través de un solo checkpoint, lo que simplifica la gestión de dependencias y la implementación. Otros modelos, como DeepSeek-V4.1-Flash, son más grandes y requieren frameworks de servido para ejecutarse. Es importante elegir el modelo adecuado para el proyecto y seguir las instrucciones de la documentación para su implementación.</summary>
-    <published>2026-10-12T12:00:00+00:00</published>
+El asistente personal es una herramienta útil que puede ayudarte a gestionar tus tareas y notas de manera más eficiente. OpenClaw es una plataforma que te permite construir y personalizar tu propio asistente. La plataforma es flexible y te permite decidir dónde se ejecuta el agente, qué modelos utiliza y cómo accede a tus datos.</summary>
+    <published>2026-10-12T15:54:29+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/</id>
-    <title>[Data Science] Específicamente un agente de inteligencia artificial en 2016. Lo llamamos Analytics.</title>
-    <updated>2026-10-12T13:13:27.534541+00:00</updated>
+    <id>https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/</id>
+    <title>[Data Science] Los agentes de código pueden resolver el tarea — pero cuánto trabajo desperdiciaron?</title>
+    <updated>2026-10-13T13:12:35.862331+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"/>
-    <summary>En 2016, un equipo de IBM presentó un patente que describía un sistema que utilizaba inteligencia artificial para evaluar las actuaciones en vivo. El sistema utilizaba sensores, cámaras y redes sociales para recopilar datos y emitir retroalimentación en tiempo real al artista. Aunque el lenguaje utilizado en la patente era limitado, el sistema descrito en ella es similar a los agentes de inteligencia artificial modernos. El artículo analiza cómo el equipo de IBM especificó los componentes básicos de un agente de inteligencia artificial, incluyendo la percepción, el contexto, la inferencia y la acción, y cómo estos componentes se relacionan con la retroalimentación y la mejora continua. El artículo también examina qué aspectos del sistema se vieron afectados por la limitación del lenguaje utilizado en la patente.
+    <link href="https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/"/>
+    <summary>Un experimento simulado muestra que los agentes de código pueden resolver tareas complejas, pero a veces desperdician mucho trabajo innecesario. Los resultados sugieren que un flujo de trabajo puede reducir la cantidad de trabajo innecesario. El experimento simuló 50,000 ejecuciones de agentes de código y encontró que el número de turnos innecesarios puede variar desde cero hasta seis. Los resultados también muestran que el tamaño del patch final no siempre refleja la cantidad de trabajo realizado por el agente. El experimento se realizó sin utilizar agentes reales de código, lo que permite comparar los resultados con un flujo de trabajo, pero no con los agentes reales. Los resultados pueden tener implicaciones para la implementación de flujos de trabajo en entornos de desarrollo de código.
 
 Contexto IA (informativo):
-El artículo es una reflexión sobre cómo la tecnología ha evolucionado desde la presentación de la patente en 2016. El autor destaca la importancia de la retroalimentación y la mejora continua en la creación de sistemas de inteligencia artificial.</summary>
-    <published>2026-10-12T12:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/10/11/bell-in-shock-after-missing-out-on-charlotte-chase-win-by-slimmest-of-margins</id>
-    <title>[Fórmula 1] Christopher Bell se siente choquado por perder la victoria a Charlotte Chase por la más delgada de margenes</title>
-    <updated>2026-10-12T13:13:27.534509+00:00</updated>
-    <author>
-      <name>RACER</name>
-    </author>
-    <link href="https://racer.com/2026/10/11/bell-in-shock-after-missing-out-on-charlotte-chase-win-by-slimmest-of-margins"/>
-    <summary>Christopher Bell se quedó sin la victoria después de que su compañero de equipo, Chase Briscoe, le superó en la línea de meta por una diferencia de solo 0.029 segundos. La derrota fue un golpe duro para Bell, que se sintió sorprendido y desanimado. La victoria de Briscoe fue su primera en la temporada y le dio una oportunidad de ganar el campeonato. Bell se quedó con la segunda posición en la clasificación general del campeonato.
-
-Contexto IA (informativo):
-Esta fue la segunda carrera de la temporada de la NASCAR Cup Series, que se llevó a cabo en el circuito de Charlotte Motor Speedway en Carolina del Norte. La carrera fue emocionante, con varios líderes y cambios en la clasificación durante el evento.</summary>
-    <published>2026-10-12T00:02:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/</id>
-    <title>[Fórmula 1] ¿Por qué Antonelli evitó una penalización a pesar de cuatro incidentes con límites de pista en el GP de Singapur</title>
-    <updated>2026-10-12T13:13:27.534477+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/"/>
-    <summary>Kimi Antonelli cometió lo que parecieron ser cuatro infracciones con límites de pista durante el Gran Premio de Singapur de Fórmula 1, pero evitó una penalización. Aunque muchos espectadores se sintieron confundidos después de la carrera, la consecuencia de la penalización no habría cambiado el resultado: Antonelli terminó tercero, 15,9 segundos por delante de Lando Norris, quien ocupó el cuarto lugar. Se especuló que la infracción podría haber sido una mala interpretación por parte del árbitro
-
-Contexto IA (informativo):
-Antonelli terminó la carrera con un tercer lugar, lo que le valió un buen resultado después de una carrera complicada. La decisión del árbitro de no aplicar la penalización generó mucha discusión entre los aficionados y los expertos.</summary>
-    <published>2026-10-12T08:53:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29471</id>
-    <title>[Fórmula 1] Aston Martin lucha por superar dificultades en Singapur</title>
-    <updated>2026-10-12T13:13:27.534442+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29471"/>
-    <summary>Aston Martin sufrió una difícil carrera en Singapur, con Fernando Alonso terminando en 16to lugar después de comenzar desde la zona de pit lane y Lance Stroll retirándose con un problema de transmisión. Ambos conductores lucharon con problemas de conducción durante toda la carrera, lo que dejó al equipo con más trabajo por hacer antes de la próxima ronda en Austin. Stroll se retiró en la 39ª vuelta después de que su transmisión se calentó, lo que desencadenó el segundo período de seguridad virtual, lo que provocó una serie de paradas de pit entre los demás conductores. Alonso, por su parte, se mantuvo en la pista. Los problemas de conducción y la falta de ritmo en el coche limitaron la capacidad de Aston Martin para luchar por un mejor resultado en el circuito de Marina Bay, donde el overtaking es particularmente difícil. Alonso no pudo avanzar significativamente a través del campo, cruzando la línea en 16to lugar y reconociendo que Aston Martin no tenía la velocidad para luchar por un mejor resultado. El español también destacó los problemas de conducción que afectaron al equipo durante el fin de semana, lo que esperaba resolver antes de la próxima triplecera. Stroll se retiró en la 39ª vuelta después de que su transmisión se calentó, lo que desencadenó el segundo período de seguridad virtual, lo que provocó una serie de paradas de pit entre los demás conductores. Alonso y Stroll comenzaron la carrera desde la zona de pit lane después de hacer cambios de configuración nocturnos, pero los problemas de conducción persistieron durante la carrera. Alonso y Stroll se retiraron de la carrera debido a problemas de conducción y transmisión, respectivamente. El equipo de Aston Martin se enfoca ahora en la próxima carrera en Austin.
-
-Contexto IA (informativo):
-Aston Martin enfrentó una serie de desafíos en la carrera de Singapur, incluyendo problemas de conducción y transmisión. El equipo está trabajando para resolver estos problemas antes de la próxima carrera en Austin.</summary>
-    <published>2026-10-12T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29465</id>
-    <title>[Fórmula 1] Norris admite que McLaren no tiene suficiente ritmo para luchar por las podios después de la Gran Premio de Singapur</title>
-    <updated>2026-10-12T13:13:27.534407+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29465"/>
-    <summary>Lando Norris, del equipo McLaren, admitió que su equipo no tiene suficiente ritmo para luchar por las podios y victorias después de terminar cuarto en la Gran Premio de Singapur. Norris reconoció que McLaren fue el cuarto equipo más rápido en la carrera, con Red Bull, Mercedes y Ferrari mostrando una mayor velocidad. Aunque el británico logró cuarto lugar después de una carrera exigente en condiciones calurosas, se sintió frustrado por la falta de rendimiento del equipo para desafiar a los equipos líderes. Norris también reconoció que una mala jugada durante su batalla con Lewis Hamilton le costó tiempo y hizo que su defensa contra Kimi Räikkönen fuera más difícil. El piloto británico también expresó su aprecio por la mejora de su equipo y su compromiso con la lucha por la victoria. Norris se comprometió a trabajar duro para compensar la falta de rendimiento del equipo y a trabajar con su equipo para mejorar su desempeño en las próximas carreras.
-
-Contexto IA (informativo):
-El piloto Norris se refirió a la mejora de su equipo y su compromiso con la lucha por la victoria. Norris se comprometió a trabajar duro para compensar la falta de rendimiento del equipo y a trabajar con su equipo para mejorar su desempeño en las próximas carreras.</summary>
-    <published>2026-10-12T12:00:00+00:00</published>
+El experimento simulado se realizó sin utilizar agentes reales de código, lo que permite comparar los resultados con un flujo de trabajo, pero no con los agentes reales. Los resultados pueden tener implicaciones para la implementación de flujos de trabajo en entornos de desarrollo de código.</summary>
+    <published>2026-10-13T12:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/</id>
     <title>[Fórmula 1] El factor oculto que da a Verstappen y Red Bull esperanza adicional para 2027</title>
-    <updated>2026-10-12T13:13:27.534373+00:00</updated>
+    <updated>2026-10-13T13:12:35.862294+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
@@ -179,157 +151,213 @@ La temporada de Fórmula 1 ha sido marcada por una serie de cambios y desafíos,
     <published>2026-10-12T12:01:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/</id>
-    <title>[Fórmula 1] Cómo Kimi Antonelli evitó la penalización por límites de pista del GP de Singapur</title>
-    <updated>2026-10-12T13:13:27.534341+00:00</updated>
+    <id>https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/</id>
+    <title>[Fórmula 1] La oportunidad no tan obvia que perdió Leclerc para usurpar a Verstappen</title>
+    <updated>2026-10-13T13:12:35.862260+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/"/>
+    <summary>Charles Leclerc comenzó con una ventaja en la salida y tomó la línea de entrada para la curva 1, lo que llevó a muchos a creer que debería haber mantenido su posición para tomar la liderazgo. Sin embargo, Verstappen estaba en la línea de fuera, en la línea de carrera normal que ofrecía un poco más de tracción, y el holandés estaba preparado para tomar cualquier riesgo. Verstappen había ya hablado con Autosport un día antes anteriormente
+
+Contexto IA (informativo):
+La carrera se llevó a cabo en el circuito de Monza, donde la tracción y la velocidad son fundamentales para el éxito. La rivalidad entre Leclerc y Verstappen es conocida y ambos pilotos están siempre dispuestos a hacer cualquier cosa para ganar.</summary>
+    <published>2026-10-12T15:53:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/</id>
+    <title>[Fórmula 1] F1 anuncia un acuerdo histórico de 10 años para albergar el Gran Premio de África en Ruanda</title>
+    <updated>2026-10-13T13:12:35.862226+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/"/>
+    <summary>El gobierno de Ruanda y la Fórmula 1 han anunciado un acuerdo de 10 años para un nuevo Gran Premio de África en la capital Kigali, que se celebrará por primera vez en 2030 al menos. La F1 se dirigirá a un recorrido natural de carretera de 40km al sur de Kigali, junto a la capital's aeropuerto internacional en construcción de Bugesera. El primer edición de la carrera, oficialmente anunciada como 'Formula 1 ...
+
+Contexto IA (informativo):
+El acuerdo es el resultado de una colaboración entre la Fórmula 1 y el gobierno de Ruanda para promover el deporte y la economía del país. La carrera se espera que atraiga a miles de visitantes y generará ingresos significativos para la economía local.</summary>
+    <published>2026-10-13T09:20:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/</id>
+    <title>[Fórmula 1] Toto Wolff se veía paseando por Mónaco en un Mercedes de $10 millones</title>
+    <updated>2026-10-13T13:12:35.862191+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/"/>
-    <summary>En el GP de Singapur de 2026, Kimi Antonelli, líder del campeonato, acumuló cuatro infracciones de límites de pista, lo que según las reglas de la FIA, debería haberle llevado a una penalización. Sin embargo, la regla establece que el cuarto infracción solo se aplica si el piloto ha recibido una penalización anterior. En este caso, Kimi Antonelli no recibió ninguna penalización anterior, por lo que no se le aplicó la penalización correspondiente. La decisión ha generado debate entre los fans y observadores del paddock.
+    <link href="https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/"/>
+    <summary>El principal de la escuadrilla de Mercedes, Toto Wolff, parece haber encontrado una forma de relajarse antes del Gran Premio de Estados Unidos. Se vio paseando por la famosa Casino Square en un Mercedes de gran lujo, un vehículo extremadamente raro y caro. Esto sucede justo días después de una temporada de Fórmula 1 intensa. Wolff ha estado bajo gran presión para liderar a su equipo a la victoria en el campeonato. La imagen de él disfrutando de un paseo relajante en un vehículo tan exclusivo sugiere que está tratando de encontrar un equilibrio entre el estrés de la competencia y el tiempo libre. El equipo de Mercedes ha estado trabajando arduamente para prepararse para el próximo Gran Premio, y Wolff parece estar haciendo lo mismo. La imagen de él paseando por la ciudad también sugiere que está disfrutando de la belleza de Mónaco y la tranquilidad de su vehículo.
 
 Contexto IA (informativo):
-La FIA ha establecido reglas claras para las penalizaciones en los Grandes Premios, y Kimi Antonelli se vio afectado por estas reglas. La decisión de no aplicar la penalización correspondiente ha generado debate entre los fans y observadores del paddock.</summary>
-    <published>2026-10-12T12:42:21+00:00</published>
+La imagen de Toto Wolff paseando por Casino Square en un Mercedes de gran lujo ha generado mucha atención en la comunidad de Fórmula 1. La ciudad de Mónaco es conocida por su belleza y su vida nocturna, y es un lugar popular para los pilotos y el personal de las escuadrillas. La imagen de Wolff disfrutando de un paseo relajante en un vehículo tan exclusivo sugiere que está tratando de encontrar un equilibrio entre el estrés de la competencia y el tiempo libre.</summary>
+    <published>2026-10-13T11:32:51+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/its-mint-mobiles-birthday-but-you-get-the-present-six-months-for-just-10-per-month-2000822580</id>
-    <title>[Tecnología] Es el cumpleaños de Mint Mobile, pero tú eres el regalo, seis meses por solo $10 por mes</title>
-    <updated>2026-10-12T13:13:27.534303+00:00</updated>
+    <id>https://racer.com/2026/10/13/tsunoda-in-the-frame-for-indycar-test-with-meyer-shank</id>
+    <title>[Fórmula 1] Tsunoda en el marco para la prueba de IndyCar con Meyer Shank</title>
+    <updated>2026-10-13T13:12:35.862158+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RACER</name>
     </author>
-    <link href="https://gizmodo.com/its-mint-mobiles-birthday-but-you-get-the-present-six-months-for-just-10-per-month-2000822580"/>
-    <summary>Mint Mobile celebra su décimo aniversario ofreciendo a nuevos clientes cualquier plan de 6 meses por solo $10 por mes. Este acuerdo cubre todos los planes actuales de la empresa, incluyendo el plan de datos ilimitado, que es lo que realmente hace que este ofrecimiento sea destacado. El plan de datos ilimitado cuesta $10 por mes, lo que es una cantidad significativamente más baja que lo que pagan los demás competidores por un solo mes. Después de seis meses, el precio regresa a las tasas de plan normal, pero Mint Mobile tiene tasas de plan muy competitivas para un servicio que utiliza la red 5G de T-Mobile, la red más grande del país. Los planes de Mint Mobile incluyen cobertura en la red 5G más grande, un hotspot móvil gratuito, llamadas gratuitas a México, Canadá y el Reino Unido, y otros beneficios excelentes. Mint Mobile es conocido por su modelo de precios directo y su red que cubre las áreas donde las personas pasan más tiempo. Si ya tiene un teléfono desbloqueado o un dispositivo compatible con la red de T-Mobile, no hay un obstáculo hardware para disuadirlo de cambiar. El atractivo básico de cambiar a Mint Mobile no ha cambiado en los últimos diez años. Paga adelantado por un período determinado, obtén una tasa mensual descuada en exchange, y no hay contratos, cargos de activación ocultos en el texto finamente impreso, ni planes de hardware instalados que te aten a un dispositivo específico. Este modelo de precios se originó como un diferenciador cuando Mint se lanzó en 2015 como Mint SIM, y ha permanecido intacto en los años que han pasado. El ofrecimiento de seis meses de cualquier plan de Mint Mobile por solo $10 por mes es el mejor y más grande que han hecho en su década de revolucionar el servicio móvil. Pagar $10 por mes por seis meses es pagar menos por la mitad de un año que la mayoría de los proveedores de servicios móviles, y las tasas de plan de Mint Mobile son significativamente más bajas que las de otros proveedores. Los planes de Mint Mobile son ideales para usuarios celulares ligeros, y aunque el precio de la tarifa de datos ilimitada después del trato es un ganador, las tasas de plan de Mint Mobile comienzan en $15 por mes. Todos los planes están disponibles en incrementos de 3, 6 y 12 meses, y cuando un plan termina, puedes renovar a la misma longitud o cambiar a una longitud más larga o más corta, y también puedes moverte hacia arriba o hacia abajo en los límites de datos.
+    <link href="https://racer.com/2026/10/13/tsunoda-in-the-frame-for-indycar-test-with-meyer-shank"/>
+    <summary>Yuki Tsunoda se espera que participe en la prueba de evaluación de IndyCar con Meyer Shank Racing en el circuito de Barber a principios de mayo. Aunque las opciones para una asiento en 2027 siguen siendo limitadas.
 
 Contexto IA (informativo):
-Mint Mobile ha estado revolucionando el servicio móvil durante diez años, y su modelo de precios directo y su red que cubre las áreas donde las personas pasan más tiempo han sido clave para su éxito. A pesar de que la industria del servicio móvil es muy competitiva, Mint Mobile ha mantenido su posición de liderazgo ofreciendo precios muy competitivos y sin contratos ni cargos ocultos. Este aniversario de Mint Mobile es una oportunidad única para nuevos clientes que buscan un servicio móvil asequible y sin compromisos.</summary>
-    <published>2026-10-12T10:35:35+00:00</published>
+La prueba de evaluación de IndyCar es una oportunidad para los equipos evaluar a los conductores y determinar quién puede ser un buen candidato para un asiento en la serie. Tsunoda, quien actualmente conduce en Fórmula 1, podría aprovechar esta oportunidad para demostrar su habilidad y aumentar sus posibilidades de obtener un asiento en IndyCar.</summary>
+    <published>2026-10-13T12:39:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/</id>
-    <title>[Tecnología] Cómo Apple ayuda a revivir las lenguas indígenas en el teclado del iPhone</title>
-    <updated>2026-10-12T13:13:27.534270+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/</id>
+    <title>[Fórmula 1] Christian Horner aclara sobre las 'bromas' sobre su 'trabajo de sueño' en Ferrari y establece los términos de su regreso</title>
+    <updated>2026-10-13T13:12:35.862125+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/"/>
+    <summary>El equipo principal de Ferrari, Christian Horner, ha desmentido las especulaciones sobre su 'trabajo de sueño' en la escudería, estableciendo términos para su regreso. Horner había expresado anteriormente que su trabajo en Ferrari era su 'trabajo de sueño', lo que generó especulaciones sobre su posible salida. Sin embargo, Horner ha aclarado que está dispuesto a regresar a la escudería, pero con ciertas condiciones. La F1 sigue siendo un tema de gran interés para los aficionados, y esta noticia ha generado mucha expectación en el paddock.
+
+Contexto IA (informativo):
+En un entorno donde la F1 es un deporte altamente competitivo y las especulaciones sobre los equipos y sus personalidades son comunes, Christian Horner ha demostrado ser un líder carismático y respetado. Su experiencia y conocimiento han sido fundamentales para el éxito de Ferrari en la pista.</summary>
+    <published>2026-10-13T12:51:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</id>
+    <title>[Tecnología] Character.AI se declara en quiebra y vende activos a Disney</title>
+    <updated>2026-10-13T13:12:35.862091+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"/>
+    <summary>La startup de inteligencia artificial Character.AI, conocida por sus chatbots, ha anunciado su quiebra y vende algunos de sus activos a Disney. La empresa, que ha enfrentado críticas y demandas sobre la seguridad de sus chatbots, ha continuado lanzando actualizaciones y productos en los últimos meses. El pasado lunes, Character.AI anunció que había presentado una solicitud de protección de quiebra en el Chapter 11 en los Estados Unidos para facilitar la venta de la empresa y sus activos. La empresa ha asegurado haber tomado medidas significativas para mantener y mejorar su negocio en el último año. Disney ha adquirido algunos de los activos de la empresa. La noticia ha generado interés entre los inversores y los usuarios de los chatbots.
+
+Contexto IA (informativo):
+La quiebra de Character.AI es un ejemplo de cómo las startups de inteligencia artificial pueden enfrentar desafíos significativos en un mercado en constante evolución. La venta de activos a Disney puede ser un paso importante para la empresa en su proceso de reestructuración.</summary>
+    <published>2026-10-13T10:32:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/gallery/best-gifts-under-100/</id>
+    <title>[Tecnología] 40 Regalos por debajo de $100 que deleitarán a cualquier entusiasta de la tecnología (2026)</title>
+    <updated>2026-10-13T13:12:35.862059+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/"/>
-    <summary>La Cherokee Nation, con solo 1.500 hablantes activos, busca revitalizar su lengua a través de la colaboración con Apple. El principal chief, Chuck Hoskin Jr., destaca la importancia de hacer que las lenguas se vuelvan accesibles para revivirlas. Apple ha incluido Cherokee en el teclado del iPhone desde 2010 y ahora apoya a más de 200 lenguas y variantes. La empresa trabaja en estrecha colaboración con la comunidad para asegurarse de que las lenguas se representen de manera precisa. La inclusión de lenguas indígenas en el teclado es un paso importante para revitalizar y preservar la diversidad lingüística.
+    <link href="https://www.wired.com/gallery/best-gifts-under-100/"/>
+    <summary>Si buscas un regalo perfecto para todos en tu lista sin gastar una fortuna, aquí tienes 40 opciones WIRED-recomendadas que no te decepcionarán. Desde gadgets hasta accesorios, estos regalos son ideales para cualquier entusiasta de la tecnología. Puedes elegir entre una amplia variedad de opciones que se adaptan a diferentes intereses y preferencias.
 
 Contexto IA (informativo):
-La inclusión de lenguas indígenas en el teclado del iPhone es un ejemplo de cómo las tecnologías pueden ayudar a preservar la diversidad lingüística. La Cherokee Nation es solo uno de muchos grupos que buscan revitalizar sus lenguas a través de la colaboración con empresas como Apple.</summary>
-    <published>2026-10-12T11:15:00+00:00</published>
+Estas recomendaciones son ideales para aquellos que buscan un regalo personalizado y único para un amigo o familiar. Puedes encontrar en esta lista desde regalos para los más jóvenes hasta opciones más sofisticadas para los adultos.</summary>
+    <published>2026-10-13T11:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home</id>
-    <title>[Tecnología] Cómo Apple puede ganar la casa inteligente</title>
-    <updated>2026-10-12T13:13:27.534238+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home"/>
-    <summary>Apple anuncia su primera evento dedicado a la casa inteligente, donde se espera que revelen nuevas hardware, incluyendo una pantalla de casa y una refrescada HomePod Mini. La compañía parece finalmente estar tomando la casa inteligente en serio. Se espera que Apple también anuncie una pantalla de casa, una refrescada HomePod Mini y Apple TV. La pantalla, que podría llamarse HomeView, sería Apple's primera hardware dedicado a la casa inteligente desde que lanzó HomeKit. La compañía está tomando el control de la casa inteligente y está dispuesta a invertir en hardware para hacerlo realidad.
-
-Contexto IA (informativo):
-La casa inteligente es un mercado en constante crecimiento y Apple está jugando con fuego al entrar en este espacio. La compañía está dispuesta a invertir en hardware y software para hacer que su casa inteligente sea una realidad.</summary>
-    <published>2026-10-12T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2281340/how-microsoft-magnetic-connect-different-from-apple-macbook-magsafe/</id>
-    <title>[Tecnología] ¿Cómo es diferente el conectador magnético de Microsoft de Apple para MacBooks?</title>
-    <updated>2026-10-12T13:13:27.534202+00:00</updated>
+    <id>https://www.engadget.com/2285013/nasa-perseverance-rover-breaks-record-for-off-world-driving-distance/</id>
+    <title>[Tecnología] El rover Perseverance de NASA rompe el récord de distancia recorrida en el espacio</title>
+    <updated>2026-10-13T13:12:35.862026+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2281340/how-microsoft-magnetic-connect-different-from-apple-macbook-magsafe/"/>
-    <summary>Microsoft presentó un nuevo conectador magnético para sus laptops, llamado Magnetic Connect. Este conectador es diferente del MagSafe de Apple en varios aspectos. Mientras que MagSafe es un port proprietary, Magnetic Connect es un port USB-C con un cable magnético que se alinea automáticamente. Esto permite que el port se utilice para otros fines cuando no se está cargando, como conectar un monitor externo o un teléfono inteligente. Microsoft parece abierta a la idea de que otros fabricantes adopten la tecnología, lo que podría beneficiar a los usuarios que desean una mayor variedad de accesorios compatibles. Sin embargo, es importante destacar que el conectador Magnetic Connect no es una norma universal y que la potencia máxima que puede proporcionar es de 240W, lo que puede no ser suficiente para algunos modelos de juegos.
+    <link href="https://www.engadget.com/2285013/nasa-perseverance-rover-breaks-record-for-off-world-driving-distance/"/>
+    <summary>El rover Perseverance de NASA ha superado al rover Opportunity en la distancia recorrida en el espacio, viajando 28.10 millas en apenas cinco años. La nave espacial, impulsada por una reacción nuclear, ha logrado este récord gracias a su sistema de navegación autónomo, que le permite imager la terrain y detectar peligros en tiempo real. El rover está programado para investigar un área llamada Idubi, donde se encuentra un fenómeno llamado Lac de Charmes, que es uno de los lugares más antiguos explorados en nuestro sistema solar. La nave espacial ha logrado recorrer más del 90% de su distancia de manera autónoma gracias a su sistema de navegación autónomo.
 
 Contexto IA (informativo):
-El conectador Magnetic Connect es una innovación que podría mejorar la diseño de los laptops y ofrecer más flexibilidad a los usuarios. Sin embargo, es importante tener en cuenta que la tecnología no es una solución mágica y que hay limitaciones en cuanto a la potencia máxima que puede proporcionar.</summary>
-    <published>2026-10-12T12:15:00+00:00</published>
+El rover Perseverance es parte de un programa de exploración de Mars que busca entender mejor la historia de la vida en el planeta rojo. La nave espacial está equipada con tecnología avanzada para recopilar datos y realizar experimentos científicos en el suelo de Mars.</summary>
+    <published>2026-10-13T12:01:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2281360/what-do-when-ethernet-cables-stuck/</id>
-    <title>[Tecnología] ¿Qué hacer cuando el cable de Ethernet se atasca</title>
-    <updated>2026-10-12T13:13:27.534125+00:00</updated>
+    <id>https://www.engadget.com/2281751/rearview-vs-backup-camera-differences-between/</id>
+    <title>[Tecnología] ¿Cuál es la diferencia entre una cámara de retrovisión y una cámara de retroceso?</title>
+    <updated>2026-10-13T13:12:35.861992+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2281360/what-do-when-ethernet-cables-stuck/"/>
-    <summary>Un cable de Ethernet atascado puede ser extremadamente frustrante, pero hay métodos sencillos para eliminarlo. Los cables de Ethernet pueden mejorar la rendimiento de la red eliminando problemas de rango, interferencia y congestionado de banda que afectan a Wi-Fi. Sin embargo, también tienen inconvenientes, como la falta de conveniencia para dispositivos lejos del router. Si el cable se atasca, es importante actuar con cuidado para evitar dañar los conectores o la cable. Hay varias formas de eliminar un cable de Ethernet atascado, incluyendo jiggerarlo y usar herramientas como un destornillador plano. Si no funciona, es recomendable contactar a un profesional o al soporte técnico. Si el cable sigue atascado, es posible que deba ser reemplazado. En general, es recomendable utilizar Wi-Fi, ya que ahora se pueden alcanzar velocidades gigabit con Wi-Fi 6 y Wi-Fi 7, y es más fácil solucionar problemas de rango y interferencia.
+    <link href="https://www.engadget.com/2281751/rearview-vs-backup-camera-differences-between/"/>
+    <summary>Las cámaras de retroceso y retrovisión son dispositivos de seguridad que ayudan a prevenir accidentes al estacionar o retroceder. Las cámaras de retroceso ofrecen una visión en vivo de lo que está detrás del vehículo y pueden grabar accidentes. Las cámaras de retrovisión, por otro lado, ofrecen una visión en vivo de lo que está detrás del vehículo y pueden ser activadas en cualquier momento. Ambas cámaras tienen ventajas y desventajas, y es importante conocer cuáles son las características y beneficios de cada una. Las cámaras de retroceso son obligatorias en algunos vehículos nuevos, mientras que las cámaras de retrovisión no lo son. Sin embargo, ambas pueden ser instaladas o compradas para mejorar la seguridad al estacionar o retroceder.
 
 Contexto IA (informativo):
-Aunque el cable de Ethernet puede ser un poco más complicado de manejar que Wi-Fi, hay algunas ventajas a considerar, como la eliminación de problemas de rango, interferencia y congestionado de banda que afectan a Wi-Fi. Sin embargo, también hay inconvenientes, como la falta de conveniencia para dispositivos lejos del router.</summary>
-    <published>2026-10-12T12:45:00+00:00</published>
+En los últimos años, ha habido un aumento en la importancia de la seguridad al estacionar y retroceder. Las cámaras de retroceso y retrovisión son dispositivos que pueden ayudar a prevenir accidentes y trágicas incidentes. Aunque las cámaras de retroceso son obligatorias en algunos vehículos nuevos, las cámaras de retrovisión no lo son. Sin embargo, ambas pueden ser instaladas o compradas para mejorar la seguridad al estacionar o retroceder.</summary>
+    <published>2026-10-13T12:15:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</id>
-    <title>[Tecnología] Nueva chipset de Intel para procesos de aprendizaje automático</title>
-    <updated>2026-10-12T13:13:27.534089+00:00</updated>
+    <id>https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements</id>
+    <title>[Tecnología] Todas las noticias de Apple en su evento ‘Bienvenido a casa’</title>
+    <updated>2026-10-13T13:12:35.861955+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"/>
-    <summary>Microsoft anuncia su nueva chipset de procesamiento de aprendizaje automático, diseñada para mejorar la eficiencia y reducir los costos en la nube. La Maia 300 es capaz de manejar modelos de razonamiento más avanzados y tareas agentes, y se espera que entregue un 40% más de tokens por megawatt que los sistemas basados en GPU. La chipset entrará en producción en 2027.
+    <link href="https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements"/>
+    <summary>Apple está organizando un evento el 13 de octubre que parece que será todo sobre sus esfuerzos para la casa inteligente. El evento tiene un tagline que es un gran indicio — ‘Bienvenido a casa’ —, pero la empresa también está muy rumorada para lanzar una serie de nuevos productos de la casa inteligente pronto. Se especula que uno de los nuevos productos es un centro de control inteligente con una pantalla que también mostrará la nueva asistente de Siri AI, según Bloomberg. MacRumors ha obtenido imágenes oficiales de un nuevo HomePod Mini con colores actualizados y una nueva Apple TV 4K con un diseño similar al actual. También se informa que Apple está colaborando con LG en dispositivos como una puerta de video y un termostato, y se han filtrado renderizaciones recientes que muestran algunos de esos nuevos dispositivos. El evento tendrá lugar en Nueva York a las 9AM ET, y se puede seguir el evento en vivo en nuestro sitio web.
 
 Contexto IA (informativo):
-La chipset de Intel es una solución para mejorar la eficiencia y reducir los costos en la nube, lo que puede tener un impacto significativo en la industria del procesamiento de aprendizaje automático.</summary>
-    <published>2026-10-12T13:00:00+00:00</published>
+El evento es una oportunidad para Apple mostrar sus esfuerzos en la casa inteligente y demostrar su compromiso con la innovación en este campo. La colaboración con LG puede ser un paso importante para expandir la presencia de Apple en el mercado de la casa inteligente.</summary>
+    <published>2026-10-13T12:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=KsEpW03gxKg</id>
-    <title>[Programación] Desarrolladores de software no están bien</title>
-    <updated>2026-10-12T13:13:27.534053+00:00</updated>
+    <id>https://c3-lang.org/blog/c3_0_8_5_windowing_c_backend/</id>
+    <title>[Programación] C3 0.8.5: una biblioteca de ventanas y un backend en C</title>
+    <updated>2026-10-13T13:12:35.861918+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://www.youtube.com/watch?v=KsEpW03gxKg"/>
-    <summary>El artículo de Bjarnason destaca la importancia de la salud mental y el bienestar de los desarrolladores de software, que a menudo se ven afectados por el estrés y la presión del trabajo. El autor llama a la necesidad de crear un entorno de trabajo más saludable y apoyo para estos profesionales. También se habla sobre la importancia de la conciencia sobre la salud mental y la necesidad de reducir el estigma al hablar sobre problemas de salud mental en el lugar de trabajo.
+    <link href="https://c3-lang.org/blog/c3_0_8_5_windowing_c_backend/"/>
+    <summary>La versión 0.8.5 de C3 está disponible y trae dos novedades importantes: una biblioteca de ventanas estándar y un backend experimental en C. La biblioteca de ventanas, llamada std::gfx, permite crear ventanas y manejar input, pero deja la renderización al usuario. El backend en C es experimental y permite a los desarrolladores emitir código en C en lugar de utilizar la biblioteca de C3. La versión 0.8.5 de C3 es una versión importante que establece un nuevo estándar para la renderización en C++.
 
 Contexto IA (informativo):
-El artículo es una reflexión sobre la importancia de la salud mental en el lugar de trabajo y cómo los desarrolladores de software pueden ser afectados por el estrés y la presión del trabajo. El autor busca concienciar sobre la necesidad de crear un entorno de trabajo más saludable y apoyo para estos profesionales.</summary>
-    <published>2026-10-11T08:11:52+00:00</published>
+La versión 0.8.5 de C3 es una versión importante que establece un nuevo estándar para la renderización en C++. La biblioteca de ventanas estándar, std::gfx, permite a los desarrolladores crear ventanas y manejar input de manera fácil y consistente en diferentes plataformas. El backend experimental en C es una novedad que permite a los desarrolladores emitir código en C en lugar de utilizar la biblioteca de C3. Esto puede ser útil para desarrolladores que prefieren trabajar en C y necesitan una biblioteca de renderización para sus aplicaciones.</summary>
+    <published>2026-10-12T20:19:16+00:00</published>
   </entry>
   <entry>
-    <id>https://en.lewoniewski.info/2026/python-3-14-vs-python-3-15-performance-testing/</id>
-    <title>[Programación] Python 3.15 vs Python 3.14 – performance testing</title>
-    <updated>2026-10-12T13:13:27.534014+00:00</updated>
+    <id>https://slack.engineering/speedup-e2e-testing/</id>
+    <title>[Programación] Optimizando nuestra cadena de prueba de E2E</title>
+    <updated>2026-10-13T13:12:35.861883+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://en.lewoniewski.info/2026/python-3-14-vs-python-3-15-performance-testing/"/>
-    <summary>Se comparó el rendimiento de Python 3.14.8 y Python 3.15.0 en computadoras con procesadores AMD Ryzen 7000 series y Intel Core 13ª generación. Se utilizaron benchmarks de pyperformance 1.14.0 y pyperf 2.10.0. El resultado general es que Python 3.15 es más rápido en la mayoría de los trabajos, con un aumento geométrico promedio del 1.45× en ambos ordenadores. Sin embargo, algunos benchmarks se vuelven más lentos, como Base16 y expresiones regulares. El beneficio depende del trabajoload. En el ordenador AMD, el rendimiento de Python 3.15 es del 31.1% más rápido en la suma de benchmarks normalizada.
+    <link href="https://slack.engineering/speedup-e2e-testing/"/>
+    <summary>La implementación de una cadena de prueba de E2E (E2E) en Slack permitió reducir significativamente el tiempo de construcción y la cantidad de procesos redundantes, lo que ahorra tiempo y recursos para los ingenieros de Slack. La solución se basó en la utilización de herramientas existentes para optimizar la cadena de prueba, lo que permitió reducir el tiempo de construcción en un 60% y la cantidad de procesos redundantes en un 50%. Además, se redujeron las horas de espera de los desarrolladores y se ahorraron varios terabytes de almacenamiento en AWS S3.
 
 Contexto IA (informativo):
-Es importante tener en cuenta que los resultados pueden variar dependiendo del trabajoload y que no todos los beneficios del rendimiento de Python 3.15 se aplican a todos los aplicativos.</summary>
-    <published>2026-10-11T17:07:25+00:00</published>
+La implementación de una cadena de prueba de E2E en Slack es crucial para garantizar que los cambios se validen en todo el stack, incluyendo la interfaz de usuario, la base de datos y las servidas intermedias. La solución presentada en este artículo es un ejemplo de cómo se puede optimizar la cadena de prueba para reducir el tiempo de construcción y la cantidad de procesos redundantes, lo que permite ahorrar tiempo y recursos para los ingenieros.</summary>
+    <published>2026-10-12T21:28:20+00:00</published>
   </entry>
   <entry>
-    <id>https://docs.google.com/forms/d/e/1FAIpQLScVOirAamJUMKbtoxD76CMzytoKhCKjkiNnxDymvelrh9GCmA/viewform</id>
-    <title>[Programación] Clases de programación impartidas por estudiantes de Boston University</title>
-    <updated>2026-10-12T13:13:27.533963+00:00</updated>
+    <id>https://www.metabase.com/blog/how-we-automate-metabase-releases</id>
+    <title>[Programación] Automatizar las liberaciones de Metabase: Cómo hemos mejorado la velocidad y la confiabilidad</title>
+    <updated>2026-10-13T13:12:35.861845+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://docs.google.com/forms/d/e/1FAIpQLScVOirAamJUMKbtoxD76CMzytoKhCKjkiNnxDymvelrh9GCmA/viewform"/>
-    <summary>La organización Boston University ofrece clases de programación gratuitas para estudiantes de primaria y secundaria. El programa, llamado Bits &amp; Bytes, se lleva a cabo en Zoom los sábados desde octubre hasta noviembre, y está dirigido a estudiantes de 3° a 12° grado. Los estudiantes aprenderán sobre principios de ciencia de la computación y programación en lenguajes como Scratch y Python. Este programa es una excelente oportunidad para preparar a los estudiantes para estudios de ciencia de la computación en la universidad. Los interesados pueden aplicar aquí.
+    <link href="https://www.metabase.com/blog/how-we-automate-metabase-releases"/>
+    <summary>En este artículo, se describe cómo Metabase ha implementado un sistema de automatización para liberar actualizaciones de manera rápida y confiable. Anteriormente, la liberación de Metabase requería un proceso manual y tedioso, pero ahora se realiza de manera automática, lo que permite liberar actualizaciones diarias y proporcionar una experiencia de usuario más rápida y segura. El proceso se automatiza mediante la utilización de GitHub Actions y un sistema de cron, lo que permite liberar actualizaciones sin la necesidad de intervención humana. Además, se menciona que la automatización ha permitido reducir el tiempo de liberación en un 50% y mejorar la confiabilidad de las actualizaciones.
 
 Contexto IA (informativo):
-Este programa es una iniciativa de la comunidad de Boston University para fomentar el aprendizaje de la programación entre los jóvenes. Los estudiantes que participan en este programa tendrán la oportunidad de aprender de estudiantes de la universidad que están estudiando ciencia de la computación.</summary>
-    <published>2026-10-12T02:51:01+00:00</published>
+Metabase es una plataforma de análisis de datos que ofrece una variedad de herramientas y características para ayudar a los usuarios a analizar y visualizar datos. La automatización de la liberación de Metabase es un paso importante para mejorar la velocidad y la confiabilidad de la plataforma, lo que permite proporcionar una experiencia de usuario más rápida y segura. Además, la automatización también permite reducir el tiempo de liberación y mejorar la confiabilidad de las actualizaciones.</summary>
+    <published>2026-10-13T10:19:42+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/asbrodova/the-dual-write-problem-building-a-scalable-transactional-outbox-for-google-pubsub-h2n</id>
-    <title>[Programación] El problema de escritura doble: Construyendo un almacén de transacciones escalable para Google Pub/Sub</title>
-    <updated>2026-10-12T13:13:27.533876+00:00</updated>
+    <id>https://dev.to/devandrew/mastering-the-terminal-top-5-cli-coding-agents-for-october-2026-5dn0</id>
+    <title>[Programación] Dominio del Terminal: Los 5 Agentes de Codificación de CLI de Mayor Éxito en Octubre de 2026</title>
+    <updated>2026-10-13T13:12:35.861789+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/asbrodova/the-dual-write-problem-building-a-scalable-transactional-outbox-for-google-pubsub-h2n"/>
-    <summary>El problema de escritura doble ocurre cuando un servicio escribe datos y luego publica un evento sobre ellos, creando un período en el que uno de los dos eventos no se ejecuta correctamente. Esto puede tener consecuencias financieras graves en un sistema de facturación. Para resolver este problema, utilizamos un almacén de transacciones basado en Postgres y un dispatcher genérico en GKE. El objetivo es enviar datos de BigQuery a Pub/Sub en tiempo real para activar facturas, correos electrónicos y actualizaciones de registro. El problema de escritura doble se puede resolver utilizando un almacén de transacciones que decouple la extracción de datos de la publicación de eventos. Este almacén de transacciones utiliza un almacén de datos basado en Postgres como zona de almacenamiento seguro y confiable. El dispatcher genérico se encarga de asegurarse de que los datos se envíen correctamente a Pub/Sub. El problema de escritura doble es común en sistemas de facturación y se puede resolver utilizando un almacén de transacciones y un dispatcher genérico. El dispatcher genérico se encarga de asegurarse de que los datos se envíen correctamente a Pub/Sub, sin importar el origen de los datos. El problema de escritura doble se puede resolver utilizando un almacén de transacciones y un dispatcher genérico, lo que permite a los equipos de desarrollo enfocarse en la lógica de negocio en lugar de la infraestructura. El almacén de transacciones y el dispatcher genérico proporcionan una solución escalable y confiable para enviar datos de BigQuery a Pub/Sub en tiempo real.
+    <link href="https://dev.to/devandrew/mastering-the-terminal-top-5-cli-coding-agents-for-october-2026-5dn0"/>
+    <summary>En 2026, el mercado de herramientas de desarrollo de inteligencia artificial en el terminal experimentó una consolidación masiva. Con la desactivación del Gemini CLI de Google en junio y la adquisición de Cursor por SpaceX en agosto, los desarrolladores están reevaluando sus cadenas de trabajo para asegurar que sus flujos de trabajo sigan siendo resistentes y privados. En este artículo, exploraremos los cinco agentes de codificación de CLI más destacados que han sobrevivido a los cambios del mercado. Descubriremos por qué estos herramientas siguen siendo relevantes y cómo integrarlas en su flujo diario para maximizar la productividad. Los agentes de codificación de CLI son fundamentales para tareas complejas como la refactorización de archivos, actualizaciones de dependencias y migraciones de arquitectura a gran escala. Sin embargo, esta potencia conlleva responsabilidad. Los agentes de codificación de CLI tienen la autoridad de modificar archivos, por lo que es esencial ser cuidadoso con las permisiones que se otorgan. Siempre verifique si el tool proporciona un entorno de ejecución sandboxizado o solicita confirmación explícita antes de ejecutar comandos destructivos. Los agentes de codificación de CLI son herramientas poderosas que pueden mejorar significativamente la productividad de los desarrolladores. Algunas de las mejores prácticas para integrar estos agentes incluyen branchear temprano, escoger el contexto adecuado y utilizar herramientas de gestión de versiones como Git. Al seguir estas recomendaciones, los desarrolladores pueden aprovechar al máximo las herramientas de codificación de CLI y mejorar su flujo de trabajo.
 
 Contexto IA (informativo):
-En un sistema de facturación, es importante garantizar que los datos se envíen correctamente a Pub/Sub en tiempo real para activar facturas, correos electrónicos y actualizaciones de registro. El problema de escritura doble puede tener consecuencias financieras graves si no se resuelve correctamente. El almacén de transacciones y el dispatcher genérico proporcionan una solución escalable y confiable para enviar datos de BigQuery a Pub/Sub en tiempo real.</summary>
-    <published>2026-10-12T12:57:23+00:00</published>
+La industria de las herramientas de desarrollo de inteligencia artificial en el terminal ha experimentado una consolidación masiva en 2026, lo que ha llevado a una reevaluación de las cadenas de trabajo de los desarrolladores para asegurar que sus flujos de trabajo sigan siendo resistentes y privados. La desactivación del Gemini CLI de Google en junio y la adquisición de Cursor por SpaceX en agosto han sido algunos de los eventos clave que han impulsado este cambio.</summary>
+    <published>2026-10-13T12:55:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/md_isfaruddin_65557809e/from-url-to-pixels-dns-tcp-tls-and-rendering-explained-52eo</id>
+    <title>[Programación] De URL a píxeles: DNS, TCP, TLS y renderizado explicado</title>
+    <updated>2026-10-13T13:12:35.861704+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/md_isfaruddin_65557809e/from-url-to-pixels-dns-tcp-tls-and-rendering-explained-52eo"/>
+    <summary>Cuando ingresas una URL y presionas Enter, el proceso se inicia con la búsqueda de la dirección IP detrás del nombre de dominio a través de DNS. Luego, se establece una conexión TCP y se verifica la autenticación TLS si se utiliza HTTPS. Finalmente, se solicita la página y se envía el contenido HTML, que se renderiza en el navegador. Este proceso se puede dividir en cuatro etapas: la búsqueda de la IP, la conexión TCP, la autenticación TLS y la solicitud de la página. Cada etapa es crucial para garantizar la seguridad y la velocidad del acceso a la página web.
+
+Contexto IA (informativo):
+Este proceso es fundamental para entender cómo funcionan las páginas web y cómo se protegen contra ataques cibernéticos. Es importante destacar que la seguridad y la velocidad del acceso a la página web dependen de la complejidad del proceso y de la implementación de medidas de seguridad adecuadas.</summary>
+    <published>2026-10-13T12:56:18+00:00</published>
   </entry>
 </feed>

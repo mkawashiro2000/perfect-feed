@@ -1,158 +1,158 @@
 {
-  "generated_at": "2026-10-12T13:13:30.303086+00:00",
+  "generated_at": "2026-10-13T13:12:36.112929+00:00",
   "site_url": "https://perfect-feed.kawashiro.dev",
   "run": {
-    "id": 83,
-    "started_at": "2026-10-12T13:00:04.138993+00:00",
-    "finished_at": "2026-10-12T13:13:30.290703+00:00",
-    "status": "success",
-    "article_count": 23,
-    "detail": "Desplegado en 806.1s"
+    "id": 84,
+    "started_at": "2026-10-13T13:00:04.733384+00:00",
+    "finished_at": null,
+    "status": "running",
+    "article_count": 0,
+    "detail": null
   },
   "sources": [
     {
       "source_url": "https://css-tricks.com/feed/",
-      "checked_at": "2026-10-12T13:00:18.594701+00:00",
+      "checked_at": "2026-10-13T13:00:13.734985+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 0
     },
     {
       "source_url": "https://dev.to/feed",
-      "checked_at": "2026-10-12T13:00:17.693296+00:00",
+      "checked_at": "2026-10-13T13:00:12.773882+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://feeds.bloomberg.com/markets/news.rss",
-      "checked_at": "2026-10-12T13:01:21.042752+00:00",
+      "checked_at": "2026-10-13T13:01:24.718434+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://feeds.feedburner.com/codinghorror",
-      "checked_at": "2026-10-12T13:00:19.548301+00:00",
+      "checked_at": "2026-10-13T13:00:14.672808+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 0
     },
     {
       "source_url": "https://feeds.feedburner.com/oreilly/radar/atom",
-      "checked_at": "2026-10-12T13:01:08.554028+00:00",
+      "checked_at": "2026-10-13T13:01:07.392029+00:00",
       "success": 1,
       "detail": "ok",
-      "candidate_count": 1
+      "candidate_count": 3
     },
     {
       "source_url": "https://gizmodo.com/feed",
-      "checked_at": "2026-10-12T13:00:32.861845+00:00",
+      "checked_at": "2026-10-13T13:00:27.374925+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://machinelearningmastery.com/feed/",
-      "checked_at": "2026-10-12T13:01:08.854764+00:00",
+      "checked_at": "2026-10-13T13:01:07.619778+00:00",
       "success": 1,
       "detail": "ok",
-      "candidate_count": 1
+      "candidate_count": 2
     },
     {
       "source_url": "https://racer.com/feed/",
-      "checked_at": "2026-10-12T13:00:55.786190+00:00",
+      "checked_at": "2026-10-13T13:00:50.364997+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-      "checked_at": "2026-10-12T13:01:26.368092+00:00",
+      "checked_at": "2026-10-13T13:01:30.150609+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://towardsdatascience.com/feed",
-      "checked_at": "2026-10-12T13:01:07.542737+00:00",
+      "checked_at": "2026-10-13T13:01:01.627906+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.autosport.com/rss/f1/news",
-      "checked_at": "2026-10-12T13:00:45.016049+00:00",
+      "checked_at": "2026-10-13T13:00:39.495088+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "checked_at": "2026-10-12T13:01:15.558095+00:00",
+      "checked_at": "2026-10-13T13:01:19.150292+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.engadget.com/rss.xml",
-      "checked_at": "2026-10-12T13:00:27.543425+00:00",
+      "checked_at": "2026-10-13T13:00:22.037488+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.f1technical.net/rss/news.xml",
-      "checked_at": "2026-10-12T13:00:39.585276+00:00",
-      "success": 1,
-      "detail": "ok",
-      "candidate_count": 5
+      "checked_at": "2026-10-13T13:00:33.955013+00:00",
+      "success": 0,
+      "detail": "403 Client Error: Forbidden for url: https://www.f1technical.net/rss/news.xml",
+      "candidate_count": 0
     },
     {
       "source_url": "https://www.ft.com/?format=rss",
-      "checked_at": "2026-10-12T13:01:31.887524+00:00",
+      "checked_at": "2026-10-13T13:01:35.772110+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.kdnuggets.com/feed",
-      "checked_at": "2026-10-12T13:01:07.782315+00:00",
-      "success": 1,
-      "detail": "ok",
-      "candidate_count": 2
+      "checked_at": "2026-10-13T13:01:01.788595+00:00",
+      "success": 0,
+      "detail": "403 Client Error: Forbidden for url: https://www.kdnuggets.com/feed",
+      "candidate_count": 0
     },
     {
       "source_url": "https://www.motorsport.com/rss/f1/news/",
-      "checked_at": "2026-10-12T13:00:50.299724+00:00",
+      "checked_at": "2026-10-13T13:00:44.751549+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.reddit.com/r/learnprogramming/.rss",
-      "checked_at": "2026-10-12T13:00:19.691380+00:00",
+      "checked_at": "2026-10-13T13:00:15.432829+00:00",
       "success": 0,
       "detail": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/learnprogramming/.rss",
       "candidate_count": 0
     },
     {
       "source_url": "https://www.reddit.com/r/programming/.rss",
-      "checked_at": "2026-10-12T13:00:12.174968+00:00",
+      "checked_at": "2026-10-13T13:00:07.248143+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.theverge.com/rss/index.xml",
-      "checked_at": "2026-10-12T13:00:22.243477+00:00",
+      "checked_at": "2026-10-13T13:00:21.715115+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
     },
     {
       "source_url": "https://www.wired.com/feed/category/gear/latest/rss",
-      "checked_at": "2026-10-12T13:00:33.082065+00:00",
+      "checked_at": "2026-10-13T13:00:32.632135+00:00",
       "success": 1,
       "detail": "ok",
       "candidate_count": 5
@@ -160,11 +160,11 @@
   ],
   "rates": {
     "fuente": "InfoDolar.com.do",
-    "timestamp": "12/10/2026 09:00",
+    "timestamp": "13/10/2026 09:00",
     "usd": {
       "promedio": {
-        "compra": "59.86",
-        "venta": "61.77"
+        "compra": "59.70",
+        "venta": "61.70"
       },
       "bancos": [
         {
@@ -198,9 +198,24 @@
           "venta": "60.95"
         },
         {
-          "banco": "Panora Exchange",
+          "banco": "Moneycorps",
           "compra": "60.80",
-          "venta": "61.70"
+          "venta": "61.60"
+        },
+        {
+          "banco": "RM",
+          "compra": "61.00",
+          "venta": "61.60"
+        },
+        {
+          "banco": "Panora Exchange",
+          "compra": "60.70",
+          "venta": "61.60"
+        },
+        {
+          "banco": "Gamelin",
+          "compra": "60.80",
+          "venta": "61.65"
         },
         {
           "banco": "Taveras",
@@ -208,8 +223,8 @@
           "venta": "61.70"
         },
         {
-          "banco": "RM",
-          "compra": "61.20",
+          "banco": "SCT",
+          "compra": "60.90",
           "venta": "61.70"
         },
         {
@@ -218,37 +233,22 @@
           "venta": "61.75"
         },
         {
-          "banco": "Moneycorps",
-          "compra": "61.10",
-          "venta": "61.80"
-        },
-        {
-          "banco": "SCT",
-          "compra": "61.00",
-          "venta": "61.80"
+          "banco": "Asociación Cibao de Ahorros y Préstamos",
+          "compra": "59.90",
+          "venta": "61.90"
         },
         {
           "banco": "Asociación La Nacional de Ahorros y Préstamos",
           "compra": "59.90",
           "venta": "61.95"
-        },
-        {
-          "banco": "Asociación Cibao de Ahorros y Préstamos",
-          "compra": "59.90",
-          "venta": "61.95"
-        },
-        {
-          "banco": "Gamelin",
-          "compra": "61.20",
-          "venta": "61.95"
         }
       ],
       "from_cache": false,
-      "fetched_at": "2026-10-12T13:00:09.909042+00:00"
+      "fetched_at": "2026-10-13T13:00:05.077195+00:00"
     },
     "eur": {
       "promedio": {
-        "compra": "67.01",
+        "compra": "66.82",
         "venta": "70.32"
       },
       "bancos": [
@@ -270,7 +270,17 @@
         {
           "banco": "Banco Lafise",
           "compra": "66.10",
-          "venta": "69.80"
+          "venta": "71.00"
+        },
+        {
+          "banco": "Capla",
+          "compra": "67.75",
+          "venta": "68.90"
+        },
+        {
+          "banco": "Moneycorps",
+          "compra": "67.80",
+          "venta": "69.00"
         },
         {
           "banco": "Cambio Extranjero",
@@ -278,19 +288,9 @@
           "venta": "69.00"
         },
         {
-          "banco": "Capla",
-          "compra": "68.25",
-          "venta": "69.10"
-        },
-        {
-          "banco": "Moneycorps",
-          "compra": "68.20",
-          "venta": "69.50"
-        },
-        {
           "banco": "RM",
-          "compra": "68.50",
-          "venta": "69.50"
+          "compra": "67.70",
+          "venta": "69.00"
         },
         {
           "banco": "Asociación Cibao de Ahorros y Préstamos",
@@ -299,7 +299,7 @@
         }
       ],
       "from_cache": false,
-      "fetched_at": "2026-10-12T13:00:10.720744+00:00"
+      "fetched_at": "2026-10-13T13:00:05.812773+00:00"
     }
   }
 }
