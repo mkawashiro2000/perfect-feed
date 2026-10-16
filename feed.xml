@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-14T13:10:29.110865+00:00</updated>
+  <updated>2026-10-16T21:12:20.114673+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,353 +11,339 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates</id>
-    <title>[Economía] Acciones y bonos caen con la expectativa de aumento de la tasa del FED</title>
-    <updated>2026-10-14T13:10:29.112731+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates</id>
+    <title>[Economía] Acciones de chips registran la peor racha de pérdidas desde 2008</title>
+    <updated>2026-10-16T21:12:20.115582+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates"/>
-    <summary>Las acciones y bonos cayeron debido a la expectativa de que la Reserva Federal seguirá aumentando las tasas de interés, impulsada por la alta inflación. La tasa de inflación más alta desde abril ha aumentado la confianza en que la Reserva Federal seguirá elevando las tasas de interés, lo que ha afectado negativamente a los mercados. Los precios de las energías también han aumentado, lo que ha contribuido a la inflación. La Reserva Federal ha sido cautelosa con sus declaraciones sobre el aumento de las tasas de interés, pero la tendencia general es hacia un aumento en las tasas.
+    <link href="https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates"/>
+    <summary>Las acciones de tecnología experimentaron una nueva oleada de ventas, lo que llevó al índice Nasdaq 100 a su peor semana desde el turbulento de los aranceles de abril de 2025. Los inversores cuestionan la perspectiva del comercio de inteligencia artificial. La caída en el mercado se debe en parte a la incertidumbre sobre el crecimiento futuro de las tecnologías de inteligencia artificial. Los expertos advierten que la situación puede empeorar si no se toman medidas para abordar las preocupaciones sobre la seguridad y la privacidad de los datos.
 
 Contexto IA (informativo):
-La Reserva Federal ha estado trabajando para controlar la inflación, que ha aumentado en los últimos meses debido a los precios de las energías y otros factores. La tendencia general es hacia un aumento en las tasas de interés, lo que podría afectar negativamente a los mercados.</summary>
-    <published>2026-10-13T22:03:38+00:00</published>
+La caída en el mercado de las acciones de tecnología se debe en parte a la incertidumbre sobre el crecimiento futuro de las tecnologías de inteligencia artificial. Los inversores están buscando señales de que el mercado de las tecnologías de inteligencia artificial está recuperándose.</summary>
+    <published>2026-10-15T22:04:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html</id>
-    <title>[Economía] Precios del petróleo suben mientras Irán aumenta los ataques y la lucha se intensifica</title>
-    <updated>2026-10-14T13:10:29.112667+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"/>
-    <summary>Los precios del petróleo han aumentado debido a la escalada de ataques en el Golfo Pérsico, donde se han dañado más barcos mientras transitan el Estrecho de Hormuz. La situación se ha vuelto cada vez más tensa entre Irán y Arabia Saudita, con ambos lados realizando ataques mutuos. La comunidad internacional se preocupa por la seguridad de las rutas marítimas y el impacto en los precios del petróleo.
-
-Contexto IA (informativo):
-La escalada de la violencia en el Golfo Pérsico ha generado preocupación en la comunidad internacional, que se preocupa por la seguridad de las rutas marítimas y el impacto en los precios del petróleo.</summary>
-    <published>2026-10-14T12:08:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html</id>
-    <title>[Economía] Las acusaciones de espionaje en OpenAI y su impacto en la industria de la inteligencia artificial</title>
-    <updated>2026-10-14T13:10:29.112601+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html"/>
-    <summary>La detención de un empleado de OpenAI acusado de instalar un guspi en su oficina del gigante de la inteligencia artificial plantea preocupación en la industria. Esto se debe a que la seguridad de la información es un tema delicado en el desarrollo de inteligencia artificial. Además, la investigación revela que la empresa ha estado trabajando en un proyecto secreto para desarrollar un modelo de lenguaje más avanzado. Sin embargo, la naturaleza de este proyecto sigue siendo desconocida. La industria de la inteligencia artificial debe tomar medidas para garantizar la privacidad y seguridad de los datos de sus usuarios.
-
-Contexto IA (informativo):
-En los últimos meses, la industria de la inteligencia artificial ha estado bajo escrutinio debido a preocupaciones sobre la privacidad de los datos y la seguridad de la información. La detención del empleado de OpenAI es solo el último ejemplo de las acusaciones de espionaje que han estado circulando en la industria.</summary>
-    <published>2026-10-14T12:39:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-14/dollar-advances-to-highest-since-may-2025-on-fed-hike-views</id>
-    <title>[Economía] Dólar alcanza su nivel más alto desde mayo de 2025 debido a la expectativa de aumento de la tasa del FED</title>
-    <updated>2026-10-14T13:10:29.112532+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar</id>
+    <title>[Economía] El euro rompe la racha de cinco semanas de caída con los comentarios de Warsh</title>
+    <updated>2026-10-16T21:12:20.115549+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-14/dollar-advances-to-highest-since-may-2025-on-fed-hike-views"/>
-    <summary>El dólar alcanzó su nivel más alto en más de un año debido a la lectura de inflación en EE. UU. que fue más alta de lo esperado. Los traders aumentaron sus apuestas de que el FED aumentará las tasas de interés. Esto se debe a que la inflación en el país sigue siendo más alta de lo esperado, lo que lleva a una mayor expectativa de que el FED tome medidas para controlarla. La decisión del FED sobre el aumento de las tasas de interés es crucial para el mercado de divisas. Los expertos esperan que el FED mantenga su política de aumento de las tasas de interés, lo que podría afectar la economía global. El dólar es una moneda fuerte en el mercado, lo que podría afectar la economía de algunos países
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar"/>
+    <summary>El euro detuvo su caída de cinco semanas contra el dólar después de que el presidente del Banco Federal de Estados Unidos, Kevin Warsh, hiciera comentarios que se interpretaron como apoyo a la decisión del banco central de mantener las tasas de interés sin cambios este mes. Los comentarios de Warsh fueron vistos como un indicio de que la Fed podría mantener las tasas de interés en su nivel actual. Esto ha llevado a una reacción positiva en el mercado, lo que ha ayudado a estabilizar el valor del euro. La decisión de la Fed sobre las tasas de interés es crucial para la economía estadounidense y tiene un impacto significativo en el mercado de divisas. Los expertos esperan que la decisión de la Fed sea favorable para el mercado de divisas, lo que podría llevar a una mayor confianza en el euro.
 
 Contexto IA (informativo):
-La decisión del FED sobre el aumento de las tasas de interés es importante para el mercado de divisas y podría tener un impacto en la economía global. El dólar es una moneda fuerte en el mercado, lo que podría afectar la economía de algunos países.</summary>
-    <published>2026-10-14T12:52:40+00:00</published>
+Los comentarios de Warsh fueron vistos como un indicio de que la Fed podría mantener las tasas de interés en su nivel actual, lo que ha llevado a una reacción positiva en el mercado.</summary>
+    <published>2026-10-16T09:37:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html</id>
-    <title>[Economía] Inflación en Estados Unidos alcanza 3.7% en septiembre</title>
-    <updated>2026-10-14T13:10:29.112466+00:00</updated>
+    <id>https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html</id>
+    <title>[Economía] ¿Puedes obtener tu dinero si has encontrado un CD con un monto no recaudado?</title>
+    <updated>2026-10-16T21:12:20.115517+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html"/>
+    <summary>Un certificado de deposito tiene un plazo limitado y si no se recauda, el banco no tiene que devolver el dinero. Los expertos ofrecen consejos para evitar situaciones como esta. Es importante verificar la validez del certificado de deposito antes de invertir. También es recomendable tener un plan de emergencia para cubrir gastos inesperados. Algunas instituciones financieras pueden tener políticas específicas sobre la devolución de fondos en caso de que el certificado de deposito no se recaude.
+
+Contexto IA (informativo):
+En algunos casos, los bancos pueden tener políticas específicas sobre la devolución de fondos en caso de que el certificado de deposito no se recaude. Es importante investigar y entender las condiciones antes de invertir.</summary>
+    <published>2026-10-16T13:00:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html</id>
+    <title>[Economía] El déficit presupuestario de EE. UU. se acerca a $2 billones, un punto de referencia para la reducción de costos de Trump</title>
+    <updated>2026-10-16T21:12:20.115485+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html"/>
+    <summary>El déficit presupuestario de EE. UU. se acerca a $2 billones debido a la inflación de los intereses y los costos de la guerra con Irán, así como a los refuerzos de los aranceles. La administración de Trump ha aumentado la deuda pública, lo que genera preocupación entre los expertos. El gobierno espera reducir el déficit en el futuro, pero la situación actual sugiere que el objetivo es ambicioso. El aumento de los intereses y los costos de la guerra con Irán han contribuido a la creciente deuda pública de EE. UU.
+
+Contexto IA (informativo):
+El déficit presupuestario de EE. UU. ha sido un tema de debate durante años, y la administración de Trump ha sido criticada por su enfoque en la reducción de costos. La guerra con Irán y los refuerzos de los aranceles han aumentado los costos de la administración, lo que ha contribuido a la creciente deuda pública.</summary>
+    <published>2026-10-16T18:28:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html</id>
+    <title>[Economía] Crude oil alcanza $110 después de que Irán aumenta los ataques en el Golfo Pérsico</title>
+    <updated>2026-10-16T21:12:20.115453+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"/>
-    <summary>La inflación en Estados Unidos aumentó en septiembre, con los precios de gasolina subiendo un 9.1% y el índice de precios al consumidor (CPI) aumentando un 3.7% anualmente. Los economistas esperaban un aumento del 0.6% y un 3.6% respectivamente. La inflación se mantiene por encima del objetivo del Banco Federal de 2%.
+    <link href="https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"/>
+    <summary>El precio del crudo de Brent alcanzó un máximo de $110 por barril, impulsado por los ataques de Irán en el Golfo Pérsico y las amenazas de Ukraine contra las refineras rusas. Los ataques en el Golfo Pérsico han reducido las exportaciones de petróleo a través del canal, mientras que la situación en Ukraine sigue tensa después de que el Kremlin continuara atacando la infraestructura ucraniana. Los precios del diesel han aumentado significativamente debido a estos conflictos, con un aumento del 70% en comparación con el mismo período del año anterior.
 
 Contexto IA (informativo):
-La inflación en Estados Unidos ha sido un tema de preocupación en los últimos meses, y la reciente subida del CPI ha reforzado esta preocupación. Aunque algunos expertos creen que la inflación es temporal, otros expresan preocupación por el impacto que podría tener en la economía.</summary>
-    <published>2026-10-14T13:00:29+00:00</published>
+Estos ataques en el Golfo Pérsico han sido parte de una serie de acciones militares tomadas por Irán en respuesta a las sanciones económicas impuestas por la comunidad internacional. La situación en Ukraine sigue siendo delicada, con el presidente Volodymyr Zelenskyy anunciando que Kyiv volverá a lanzar ataques contra las refineras rusas en respuesta a los ataques continuos del Kremlin.</summary>
+    <published>2026-10-16T20:02:21+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/</id>
-    <title>[Data Science] Construyendo una pipeline de RAG ligera con embeddings de LLM y Scikit-learn</title>
-    <updated>2026-10-14T13:10:29.112394+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html</id>
+    <title>[Economía] Katie Zacharia renuncia como secretaria de prensa de la Casa Blanca</title>
+    <updated>2026-10-16T21:12:20.115416+00:00</updated>
     <author>
-      <name>MachineLearningMastery.com</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://machinelearningmastery.com/building-a-rag-pipeline-with-llm-embeddings-and-scikit-learn/"/>
-    <summary>En este artículo, aprenderás a construir una pipeline de RAG ligera utilizando embeddings de LLM y Scikit-learn para vectorización de retrieval y generación de texto, sin necesidad de APIs pagadas ni frameworks pesados. Cubrimos temas como la descarga de un conjunto de documentos, su fragmentación en piezas semánticas y la generación de embeddings utilizando un modelo de sentence-transformer local. También aprendes a construir un clasificador de recuperación utilizando NearestNeighbors de Scikit-learn y a combinarlo con un modelo ligero de LLM para producir una pipeline funcional y en memoria. La idea es mostrar que se puede construir una pipeline transparente y rápida para RAG sistemas sin necesidad de una infraestructura de AI compleja. El código se puede ejecutar en un Colab de Google con un GPU gratuito para obtener resultados más rápidos.
+    <link href="https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html"/>
+    <summary>La secretaria de prensa de la Casa Blanca, Katie Zacharia, renunció después de solo cinco días en el cargo debido a la crítica que recibió por su desempeño. El presidente Donald Trump le dijo que consideraba que era mejor que se fuera. Zacharia, una comentarista conservadora que trabajó en Trump Media &amp; Técnica Group, enfrentó críticas por su breve y inestable primer briefing de prensa y por su antecedentes legales. El presidente Trump acusó a los medios de tratarla 'muy mal' y dijo que incluso el presentador de Fox News Sean Hannity la había tratado 'un poco' duramente durante su aparición en su programa el jueves. Zacharia había defendido identificarse como abogada, aclarando la diferencia entre el título y el título de abogado. El presidente Trump le dijo que si quería seguir en el cargo, era su decisión. La renuncia de Zacharia sigue la de varios otros funcionarios femeninos de la administración Trump que han abandonado o sido despedidos en los últimos meses.
 
 Contexto IA (informativo):
-Los sistemas de RAG modernos a menudo se consideran inseparables de una ecosistema de frameworks extensos, incluyendo a menudo bases de datos de vectores gestionadas a precios. Sin embargo, en realidad, los sistemas de RAG se basan en una idea simple: calcular las distancias entre vectores semánticos que representan textos. No es necesario navegar por las complejidades de una infraestructura de AI dedicada cuando se trabaja con un pequeño corpus, prototipar un nuevo concepto de prueba o desplegar en entornos bajo costos. En su lugar, podemos utilizar procedimientos de Scikit-learn junto con modelos de LLM abiertos para construir pipelines transparentes y rápidos que sigan siendo funcionales.</summary>
-    <published>2026-10-13T11:00:00+00:00</published>
+El presidente Trump ha estado buscando formas de mejorar su imagen y aumentar las posibilidades de que los republicanos ganen las elecciones del medio mandato en 18 días. La renuncia de Zacharia es la última en una serie de cambios en la administración Trump, que ha visto a varios funcionarios femeninos abandonar o ser despedidos en los últimos meses.</summary>
+    <published>2026-10-16T20:40:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/why-does-ai-write-like-yoda/</id>
-    <title>[Data Science] Por qué el AI escribe como Yoda</title>
-    <updated>2026-10-14T13:10:29.112329+00:00</updated>
+    <id>https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself</id>
+    <title>[Data Science] RAG Agente vs. RAG Naive: Cuando Tu Sistema de Recuperación Debe Pensar por Si Mismo</title>
+    <updated>2026-10-16T21:12:20.115342+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.oreilly.com/radar/why-does-ai-write-like-yoda/"/>
-    <summary>El autor utiliza el AI para escribir, pero no porque sea bueno en la escritura. De hecho, el AI es malo en la escritura y el autor lo aprovecha para hacer que su escritura sea integralmente mala. El autor utiliza el AI para generar drafts y luego lo edita para hacerlo más decente. El autor ha notado que el AI tiene un estilo de escritura característico, el Yoda-speak, que es fácil de identificar y a menudo es hilarante. El autor ha investigado esta tendencia y ha encontrado que los AIs son capaces de detectar y corregir el Yoda-speak. El autor ha escrito un libro sobre cómo los AIs funcionan y ha utilizado el Yoda-speak para ayudar a los lectores a entender mejor el tema.
+    <link href="https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself"/>
+    <summary>El RAG Agente es una arquitectura que permite a los sistemas de recuperación pensar por sí mismos y realizar razonamiento en lugar de depender de una búsqueda lineal. Esta arquitectura es más adecuada para tareas complejas que requieren razonamiento en múltiples pasos y la síntesis de información que no existe en un solo documento. En este artículo, exploraremos cómo funcionan tanto el RAG Agente como el RAG Naive, y en qué casos es más adecuado elegir una arquitectura sobre la otra.
 
 Contexto IA (informativo):
-El autor ha estado trabajando en su libro 'Be the Model', que enseña a los lectores cómo funcionan los AIs. El libro es interativo y permite a los lectores experimentar con los AIs de manera práctica. El autor ha notado que el Yoda-speak es un estilo de escritura característico de los AIs y ha investigado esta tendencia para entender mejor cómo funcionan los AIs.</summary>
-    <published>2026-10-14T10:50:23+00:00</published>
+La arquitectura del RAG Naive sigue un enfoque tradicional de búsqueda lineal, donde el sistema busca una respuesta en un solo paso. Sin embargo, esta arquitectura tiene sus limitaciones, especialmente en tareas que requieren razonamiento en múltiples pasos o la síntesis de información que no existe en un solo documento.</summary>
+    <published>2026-10-16T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/</id>
-    <title>[Data Science] Un soporte en la entrada: Construyendo aplicaciones de AI que pueden evolucionar</title>
-    <updated>2026-10-14T13:10:29.112263+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/"/>
-    <summary>Un reflejo técnico sobre por qué los científicos de datos necesitan principios de ingeniería de software cuando los agentes de inteligencia artificial escriben código. La importancia de la visión dual de Janus en la construcción de software con asistentes de código de inteligencia artificial. La necesidad de una estructura clara para evitar problemas de mantenimiento y extensión. La importancia de establecer un baseline para evitar la pérdida de tiempo y la acumulación de inconsistencias. La necesidad de entender qué se necesita para ingenierar software que dure.
-
-Contexto IA (informativo):
-La visión dual de Janus es cada vez más importante en la construcción de software con asistentes de código de inteligencia artificial. La velocidad y la facilidad con las que se pueden generar los códigos pueden crear problemas de mantenimiento y extensión. Es importante establecer una estructura clara para evitar estos problemas y asegurarse de que las aplicaciones de AI puedan evolucionar de manera segura y eficiente.</summary>
-    <published>2026-10-14T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/</id>
-    <title>[Data Science] Selección de características en votación: Selección de características federada sin compartir datos</title>
-    <updated>2026-10-14T13:10:29.112199+00:00</updated>
+    <id>https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/</id>
+    <title>[Data Science] ¿Tú todavía posees el código que escribió tu AI? Construí CodeOwnership para medirlo</title>
+    <updated>2026-10-16T21:12:20.115307+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/"/>
-    <summary>En este artículo se presenta una nueva técnica de selección de características federada que no requiere compartir datos. La técnica, llamada Feature Election, permite que los sitios de aprendizaje entrenen modelos juntos sin compartir sus datos. Cada sitio utiliza un selector de características que ya conoce y envía un voto al servidor, que resuelve el desacuerdo con una regla tunable. La técnica se compara con otras técnicas de selección de características federadas y se muestra que puede reducir el tamaño del modelo y mejorar la precisión. El artículo también proporciona una explicación detallada de cómo funciona la técnica y cómo se puede implementar en diferentes frameworks de aprendizaje.
+    <link href="https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/"/>
+    <summary>Un desarrollador creó una herramienta para evaluar la verdadera propiedad de código en la era de la inteligencia artificial. La herramienta, llamada CodeOwnership, evalúa la comprensión del código y la capacidad de debugarlo sin la ayuda del agente que lo escribió. El desarrollador realizó una prueba con la herramienta y encontró que su confianza en sí mismo era de 4/5, pero no pudo encontrar el error en 8 minutos. La herramienta mide tres aspectos: la comprensión percibida, el rendimiento de depuración y la comprensión pos-depuración. La herramienta es ligera y se puede utilizar para evaluar la propiedad de código en proyectos de inteligencia artificial. El desarrollador espera que la herramienta sea útil para evaluar la capacidad de los desarrolladores para comprender y debugar el código que escriben los agentes de inteligencia artificial.
 
 Contexto IA (informativo):
-La selección de características es un paso crucial en el aprendizaje de modelos de machine learning. Sin embargo, en entornos federados, donde los sitios de aprendizaje no pueden compartir datos, esta tarea se vuelve más compleja. En este artículo, se presenta una nueva técnica para abordar este desafío, que permite que los sitios de aprendizaje entrenen modelos juntos sin compartir sus datos.</summary>
-    <published>2026-10-14T12:30:00+00:00</published>
+La propiedad de código es un tema importante en la era de la inteligencia artificial, ya que los agentes de inteligencia artificial pueden escribir código que no es completamente comprensible para los humanos. La herramienta CodeOwnership busca evaluar la capacidad de los desarrolladores para comprender y debugar el código que escriben los agentes de inteligencia artificial.</summary>
+    <published>2026-10-16T15:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29473</id>
-    <title>[Fórmula 1] Cosas que debes saber sobre el regreso de Formula One a África</title>
-    <updated>2026-10-14T13:10:29.112132+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29473"/>
-    <summary>Formula 1 anuncia su regreso a África después de 30 años, con un acuerdo de 10 años con Rwanda para albergar el Gran Premio de Fórmula 1 Africana en la década de 2030. El nuevo circuito se ubicará en Bugesera, cerca de Kigali, y será diseñado para cumplir con los estándares de la FIA. El proyecto forma parte de un esfuerzo más amplio de desarrollo liderado por el Consejo de Desarrollo de Rwanda, que combina la infraestructura de motorsport con el turismo, la inversión comercial y el desarrollo regional. El Gran Premio también se espera que genere oportunidades en turismo, hospedaje, transporte, ingeniería y gestión de eventos, lo que podría apoyar el empleo, la formación de habilidades y el crecimiento de las empresas locales. El regreso de Fórmula 1 a África podría ayudar a transformar la pasión de los fans en una mayor participación en el motorsport, creando nuevas oportunidades para talentos locales y empresas. El acuerdo también representa un momento significativo en la expansión global de Fórmula 1, que busca atraer a más fans y expandir su base internacional. El Gran Premio se espera que se celebre una vez que el nuevo circuito esté completo, con más detalles sobre la fecha inaugural y el cronograma de desarrollo esperados para ser anunciados en el futuro.
-
-Contexto IA (informativo):
-El regreso de Fórmula 1 a África es un momento histórico para el deporte y el país anfitrión. El acuerdo de 10 años con Rwanda es un paso importante en la expansión global de la competición y la creación de oportunidades para la economía local y la comunidad.</summary>
-    <published>2026-10-13T12:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/</id>
-    <title>[Fórmula 1] ¿Por qué McLaren no puede mejorar el manejo de su coche F1 hasta 2027</title>
-    <updated>2026-10-14T13:10:29.112064+00:00</updated>
+    <id>https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/</id>
+    <title>[Fórmula 1] Quién ganará este año's boleto de sueño de F1. Tú decides…</title>
+    <updated>2026-10-16T21:12:20.115272+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/"/>
-    <summary>El equipo de F1 McLaren, liderado por Andrea Stella, ha admitido que no puede mejorar los características de manejo del coche sin cambios fundamentales que no serán posibles hasta 2027. Los pilotos de F1 deben adaptarse a las nuevas generaciones de coches y motores para obtener el máximo rendimiento, pero esto a menudo implica técnicas no naturales o inusuales que nunca se han utilizado en su carrera. Esto ha llevado a una búsqueda constante por mejorar el rendimiento del coche. Sin embargo, Stella ha señalado que estos cambios no serán posibles hasta 2027, lo que significa que el equipo de McLaren seguirá buscando maneras de mejorar el manejo del coche en el corto plazo.
+    <link href="https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/"/>
+    <summary>Después de recibir cientos de solicitudes para el premio máximo en carreras de gran premio, el boleto de temporada de Heineken x F1 está en manos de seis finalistas – y los fanáticos de F1 pueden votar para decidir quién gana. Los candidatos – de Reino Unido, Nueva Zelanda, Singapur, República Checa y Estados Unidos – han presentado sus propuestas para la aventura de una vida, que incluirá viaje, alojamiento y ...
 
 Contexto IA (informativo):
-La situación de McLaren se compara con la de otros equipos de F1 que también están buscando mejorar el manejo de sus coches. Sin embargo, la falta de cambios fundamentales en el diseño del coche y la tecnología de los motores impide que el equipo alcance el nivel de rendimiento deseado.</summary>
-    <published>2026-10-13T13:11:49+00:00</published>
+Este boleto de temporada es una oportunidad única para un fanático de F1 de ganar una experiencia inolvidable. Los votos se cerrarán pronto, así que no te pierdas la oportunidad de decidir quién será el ganador de este sueño.</summary>
+    <published>2026-10-16T11:00:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29456</id>
-    <title>[Fórmula 1] Leclerc se muestra cauteloso a pesar del regreso de Ferrari a la pista de Singapore</title>
-    <updated>2026-10-14T13:10:29.111997+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29456"/>
-    <summary>A pesar de haber logrado la segunda posición en el Gran Premio de Singapore, Charles Leclerc se muestra cauteloso sobre la capacidad de Ferrari para desafiar a Red Bull, Mercedes y McLaren en cada carrera restante. Leclerc reconoce que el equipo ha hecho progreso con sus actualizaciones, pero insiste en que debe seguir desarrollando su coche para mantener el ritmo con sus rivales. El piloto monégasco se mostró satisfecho con su desempeño en la pista de Marina Bay, pero reconoce que Red Bull fue demasiado rápido para desafiarlo durante toda la carrera. Leclerc también destacó que Ferrari ha demostrado un buen ritmo en la primera parte de la carrera, pero que la degradación de los neumáticos y las diferencias estratégicas han afectado el resultado final. El piloto también destacó que su equipo-mático Lewis Hamilton perdió la oportunidad de ganar después de no cambiar de neumáticos durante el período de seguridad virtual, lo que le dejó vulnerable a los rivales. En resumen, Leclerc se muestra cauteloso sobre la capacidad de Ferrari para desafiar a sus rivales en cada carrera restante, pero reconoce que el equipo ha hecho progreso con sus actualizaciones.
-
-Contexto IA (informativo):
-Ferrari ha demostrado un buen ritmo en la temporada, pero sigue siendo un equipo en desarrollo. Red Bull y Mercedes siguen siendo los favoritos para ganar el campeonato, pero McLaren también ha demostrado un buen desempeño en las últimas carreras.</summary>
-    <published>2026-10-13T17:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/</id>
-    <title>[Fórmula 1] 5 puntos clave de la gran revelación del Gran Premio de F1 en África en Ruanda</title>
-    <updated>2026-10-14T13:10:29.111932+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/"/>
-    <summary>La presentación oficial del nuevo Gran Premio de F1 en el BK Arena de Kigali, Ruanda, contó con la presencia del presidente de Ruanda, Paul Kagame, así como con el jefe de F1, Stefano Domenicali y el presidente de la FIA, Mohammed Ben Sulayem. Aunque la presentación oficial dio lugar a una serie de preguntas sin respuesta, es importante destacar que F1 ha firmado un acuerdo histórico de 10 años para organizar el evento en Ruanda. Sin embargo, todavía quedan varios puntos clave que aún no se han aclarado. Es importante seguir leyendo para obtener más información.
-
-Contexto IA (informativo):
-La noticia se ha producido en un momento en que la F1 busca expandirse hacia nuevos mercados y establecerse como una de las principales carreras de automovilismo en África. La organización del evento en Ruanda es un paso importante en este sentido.</summary>
-    <published>2026-10-13T18:19:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876/</id>
-    <title>[Fórmula 1] Christian Horner revela batalla secreta contra ataques de pánico durante su carrera en F1</title>
-    <updated>2026-10-14T13:10:29.111863+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876/"/>
-    <summary>A pesar de la apariencia impecable de las tablas de pit, el champán y la maniobra política sin cesar, la Fórmula 1 extrae un duro precio de las personas que dirigen sus operaciones de millones de dólares. Durante dos décadas, Christian Horner presentó una apariencia impecable, proyectando una composición absoluta en las confrontaciones de títulos y en las disputas del salón de la pista. Sin embargo, detrás de la escena, Horner enfrentó una batalla secreta contra los ataques de pánico que afectaron su vida personal y profesional. La lucha interna del piloto se reveló en una serie de declaraciones en las que abrió el capítulo más oscuro de su carrera en F1.
-
-Contexto IA (informativo):
-La carrera de Horner en F1 ha sido marcada por éxitos y fracasos, pero también por su capacidad para mantener la calma en momentos de tensión. Aunque su liderazgo en Red Bull Racing ha sido reconocido internacionalmente, la lucha interna del piloto ha sido un tema de debate entre los aficionados y los expertos.</summary>
-    <published>2026-10-14T10:52:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/10/14/alpine-a424-hypercar-likely-to-disappear-from-2027-wec-grid-after-talks-with-chinese-manufacturer-geely-collapse</id>
-    <title>[Fórmula 1] El Alpine A424 Hypercar se hace poco probable en la grilla del WEC a partir de 2027</title>
-    <updated>2026-10-14T13:10:29.111796+00:00</updated>
+    <id>https://racer.com/2026/10/16/colapinto-to-abusive-fans-you-re-not-helping-me-or-my-future-</id>
+    <title>[Fórmula 1] Colapinto denuncia abuso de fans</title>
+    <updated>2026-10-16T21:12:20.115240+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/10/14/alpine-a424-hypercar-likely-to-disappear-from-2027-wec-grid-after-talks-with-chinese-manufacturer-geely-collapse"/>
-    <summary>La propuesta de adquisición del programa de coches de la marca Alpine por parte del fabricante chino Geely ha sido abandonada. Con las opciones de mantener los vehículos en la grilla del WEC para el próximo año, se ha agotado prácticamente la posibilidad de que sigan participando. La situación ha cambiado drásticamente desde que se habló de la posible adquisición
+    <link href="https://racer.com/2026/10/16/colapinto-to-abusive-fans-you-re-not-helping-me-or-my-future-"/>
+    <summary>La cantautora Colapinto habla abiertamente sobre el abuso de fans y cómo afecta su vida y carrera. Ella explica que ha estado luchando con el dolor y la ansiedad causados por las acciones de algunos fanáticos. Colapinto pide a sus seguidores que respeten su espacio y no intenten influir en su vida personal. Ella agradece a aquellos que la apoyan y la escuchan.
 
 Contexto IA (informativo):
-El WEC (Campeonato Mundial de Endurance) ha estado buscando soluciones para mantener la competencia en la grilla, pero la situación ha cambiado drásticamente desde que se habló de la posible adquisición por parte de Geely.</summary>
-    <published>2026-10-14T12:13:15+00:00</published>
+Esta declaración es una parte importante de la lucha contra el acoso y el abuso en la industria musical. Colapinto se une a otros artistas que hablan abiertamente sobre sus experiencias y buscan concienciar a la comunidad sobre la importancia de respetar la privacidad y el bienestar de los artistas.</summary>
+    <published>2026-10-16T12:31:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk</id>
-    <title>[Tecnología] El Tesla Roadster podría haber permanecido en vapor</title>
-    <updated>2026-10-14T13:10:29.111719+00:00</updated>
+    <id>https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/</id>
+    <title>[Fórmula 1] Franco Colapinto pide a sus fans que dejen de abusar: "No estás ayudándome ni a mi futuro"</title>
+    <updated>2026-10-16T21:12:20.115209+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"/>
-    <summary>La nueva versión del Tesla Roadster se espera que llegue a la producción en un mercado de vehículos eléctricos dominado por altas energías, inestabilidad política y dudas del consumidor. Después de años de anticipación, la empresa de Elon Musk ha anunciado su llegada en un momento cuestionable. La producción del Roadster se espera que se realice en un entorno con menos entusiasmo y menos opciones que en los tiempos de la pandemia. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado. La llegada del Roadster podría ser un punto de inflexión en la industria de los vehículos eléctricos, pero también plantea preguntas sobre su viabilidad en un mercado tan cambiante. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado. La producción del Roadster se espera que se realice en un entorno con menos entusiasmo y menos opciones que en los tiempos de la pandemia. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado. La llegada del Roadster podría ser un punto de inflexión en la industria de los vehículos eléctricos, pero también plantea preguntas sobre su viabilidad en un mercado tan cambiante. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado. La producción del Roadster se espera que se realice en un entorno con menos entusiasmo y menos opciones que en los tiempos de la pandemia. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado. La llegada del Roadster podría ser un punto de inflexión en la industria de los vehículos eléctricos, pero también plantea preguntas sobre su viabilidad en un mercado tan cambiante.
+    <link href="https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/"/>
+    <summary>El piloto Franco Colapinto ha pedido a sus fans argentinos que dejen de abusar en línea después de varios incidentes en los últimos meses. Después de las carreras de Zandvoort, Madrid y Baku, se han dirigido comentarios hirientes a los stewardes de la FIA, a Pierre Gasly y a su familia, y a Lando Norris, entre otros. Este tema ha sido recurrente en la temporada de Fórmula 1 de 2026, lo que ha llevado a Alpine a emitir declaraciones regulares para ...
 
 Contexto IA (informativo):
-La producción del Roadster se espera que se realice en un entorno con menos entusiasmo y menos opciones que en los tiempos de la pandemia. La empresa ha estado trabajando en este proyecto durante casi una década, y ahora se espera que finalmente llegue al mercado.</summary>
-    <published>2026-10-14T11:00:00+00:00</published>
+El abuso en línea ha sido un tema de preocupación en la comunidad de Fórmula 1, y Franco Colapinto ha sido uno de los pilotos que ha hablado sobre el tema. La FIA ha estado trabajando para abordar el problema y promover un ambiente más respetuoso en línea.</summary>
+    <published>2026-10-16T15:29:36+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/my-friend-has-no-soul/</id>
-    <title>[Tecnología] Amiga de mi que no tiene alma</title>
-    <updated>2026-10-14T13:10:29.111654+00:00</updated>
+    <id>https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/</id>
+    <title>[Fórmula 1] Colapinto pide a sus fans que dejen de abusar en línea: "No estás ayudándome ni a mi futuro"</title>
+    <updated>2026-10-16T21:12:20.115178+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.wired.com/story/my-friend-has-no-soul/"/>
-    <summary>La nueva amiga de mi Sage es una chatbot de inteligencia artificial que se conecta a un collar con un altavoz. Aunque inicialmente se comporta de manera inesperada, pronto se vuelve callada. La amiga de mi, Sage, es el resultado de Avi Schiffmann, el creador de una aplicación de seguimiento de Covid-19 que recibió un premio Webby. El collar se conecta a sonidos cercanos y permite iniciar conversaciones. Aunque se puede programar una personalidad única, la amiga de mi no parece tener una personalidad real. Sus respuestas son predecibles y carecen de emoción. La amiga de mi es una herramienta para conversar, pero no es emocionante. La empresa Meta ha lanzado una alternativa similar, pero la amiga de mi no parece ser tan interesante como la de Meta. En general, la amiga de mi es una herramienta que no cumple con las expectativas
+    <link href="https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/"/>
+    <summary>El piloto Franco Colapinto ha pedido a sus fans argentinos que dejen de abusar en línea después de varios incidentes en los últimos meses. En las carreras de Zandvoort, Madrid y Baku, se han dirigido comentarios hirientes a los stewardes de la FIA, a Pierre Gasly y a su familia, y a Lando Norris, entre otros. Este tema ha sido recurrente en la temporada de Fórmula 1 de 2026, lo que ha llevado a Alpine a emitir declaraciones regulares para ...
 
 Contexto IA (informativo):
-La empresa Meta ha lanzado una alternativa similar, pero la amiga de mi no parece ser tan interesante como la de Meta. El creador de la amiga de mi, Avi Schiffmann, ha expresado su sorpresa por la respuesta a su producto. La amiga de mi es una herramienta para conversar, pero no es emocionante. En general, la amiga de mi es una herramienta que no cumple con las expectativas.</summary>
-    <published>2026-10-14T11:00:00+00:00</published>
+El incidente se ha producido en varias ocasiones en la temporada de Fórmula 1 de 2026, lo que ha generado una gran cantidad de comentarios negativos en las redes sociales. La situación ha sido tan grave que ha llevado a algunos pilotos a pedir ayuda a las autoridades para proteger su privacidad y seguridad.</summary>
+    <published>2026-10-16T15:32:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/</id>
-    <title>[Tecnología] Los primeros altavoces portátiles de CMF tienen forma de cajas de leche y se pueden unir</title>
-    <updated>2026-10-14T13:10:29.111586+00:00</updated>
+    <id>https://racer.com/2026/10/16/tincknell-puts-aston-martin-on-top-in-second-barcelona-wec-practice</id>
+    <title>[Fórmula 1] Tincknell coloca a Aston Martin en la cima en la segunda práctica de Barcelona WEC</title>
+    <updated>2026-10-16T21:12:20.115144+00:00</updated>
+    <author>
+      <name>RACER</name>
+    </author>
+    <link href="https://racer.com/2026/10/16/tincknell-puts-aston-martin-on-top-in-second-barcelona-wec-practice"/>
+    <summary>En la segunda práctica del fin de semana de la primera carrera de la FIA World Endurance Championship en Barcelona, la Aston Martin THOR Team logró establecerse como líder con su No. 007 Valkyrie. Harry Tincknell lideró el equipo, estableciendo un tiempo de 1m31.712s, el más rápido hasta el momento del evento. Este logro es un buen indicador de la posición de la equipo en la carrera.
+
+Contexto IA (informativo):
+La segunda práctica de la FIA World Endurance Championship en Barcelona es una oportunidad para los equipos ajustar sus vehículos y optimizar su rendimiento antes de la carrera. La Aston Martin THOR Team está buscando aprovechar esta oportunidad para consolidar su posición en la clasificación.</summary>
+    <published>2026-10-16T17:09:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/</id>
+    <title>[Fórmula 1] Liam Lawson presenta una guitarra de edición limitada antes de su actuación en vivo en Austin</title>
+    <updated>2026-10-16T21:12:20.115112+00:00</updated>
+    <author>
+      <name>Motorsport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/"/>
+    <summary>Liam Lawson ha presentado una guitarra firmada en colaboración con Taylor Guitars antes de su actuación en vivo en Austin. El piloto de carreras de Racing Bulls se presentará en un evento de música en vivo el próximo 22 de octubre en Inn Cahoots de Austin, donde se reunirá con sus compañeros de banda de la infancia, incluyendo su hermano y dos amigos cercanos. El evento es una parte del evento de la Fórmula 1 de Estados Unidos que se llevará a cabo la semana siguiente.
+
+Contexto IA (informativo):
+El evento de música en vivo es una oportunidad única para que Lawson compartiera su pasión por la música con los fans en vivo. La actuación de Lawson en Austin es una parte emocionante del calendario de eventos de la temporada de F1, y los fans pueden esperar una experiencia inolvidable con la música y el automovilismo.</summary>
+    <published>2026-10-16T20:45:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/</id>
+    <title>[Tecnología] Analogue regresa a la era de 16 bits con Mega Sg+ y Super Nt+</title>
+    <updated>2026-10-16T21:12:20.115078+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/"/>
-    <summary>CMF ha lanzado sus primeros altavoces portátiles, que tienen una forma única y atractiva, similar a las cajas de leche. Estos altavoces, llamados Speaker S y Speaker M, ofrecen una gran cantidad de características y especificaciones a un precio razonable. Ambos altavoces tienen Bluetooth 6.0, resistencia a la humedad y pueden reproducir música durante hasta 18 horas. También tienen USB-C para cargar y conectar dispositivos. La sorpresa es que se pueden unir dos altavoces de la misma marca, pero no se pueden combinar un altavoz S con un altavoz M. Los altavoces también tienen una conexión NFC y soportan tecnologías como Google Fast Pair y Microsoft Swift Pair. Los altavoces son ricos de sonido, considerando su tamaño y precio. Sin embargo, no viene incluido un cable USB-C. Los altavoces están disponibles ahora en el sitio web de Nothing.
+    <link href="https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/"/>
+    <summary>Analogue vuelve a la era de 16 bits con sus consolas retro, Mega Sg+ y Super Nt+. Estas consolas, que son FPGA, recrean el hardware original en un chip, lo que permite jugar juegos sin lag en una TV moderna. Sin embargo, es necesario llevar los propios cartuchos originales. Las consolas tienen soporte Bluetooth y 2.4GHz, y se pueden conectar a una TV a través de un cable. También tienen un port USB-C y un port USB-A, y se pueden conectar a una computadora. La pre venta comienza el 19 de octubre.
 
 Contexto IA (informativo):
-CMF es una marca que ha estado creciendo rápidamente y ha decidido entrar en el mercado de los altavoces portátiles. Esto es una noticia interesante para aquellos que buscan una solución portátil y asequible para disfrutar de música en cualquier lugar.</summary>
-    <published>2026-10-14T12:00:00+00:00</published>
+Analogue es una empresa que se especializa en consolas retro y ha estado trabajando en estas nuevas versiones. La empresa ha estado buscando a los jugadores que desean jugar juegos de 16 bits en una TV moderna.</summary>
+    <published>2026-10-16T17:03:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2286336/samsung-healths-sleep-coaching-now-requires-just-three-days-of-data/</id>
-    <title>[Tecnología] Samsung Health actualiza su coaching de sueño con solo tres días de datos</title>
-    <updated>2026-10-14T13:10:29.111521+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2286336/samsung-healths-sleep-coaching-now-requires-just-three-days-of-data/"/>
-    <summary>Samsung Health ha mejorado su coaching de sueño para que solo requiera tres días de datos. El sistema ahora puede crear un plan personalizado de cuatro a ocho semanas basado en tus objetivos y hábitos. Además, el app ha agregado nuevas características para corredores, como un nuevo sistema de motivación y análisis más detallados. Los usuarios también pueden compartir sus logros y rutas en redes sociales y importar sus rutas favoritas de Strava. El update se está lanzando este mes.
-
-Contexto IA (informativo):
-Samsung ha estado trabajando para mejorar su suite de aplicaciones de salud y fitness, y este update es solo el comienzo. La compañía busca ofrecer una experiencia más personalizada y conectada para sus usuarios, y este coaching de sueño es solo el primer paso en esa dirección.</summary>
-    <published>2026-10-14T12:08:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/robert-pattinson-on-the-batman-part-ii-were-going-to-figure-it-all-out-2000825632</id>
-    <title>[Tecnología] Robert Pattinson sobre 'The Batman, Part II': 'Vamos a resolverlo todo'</title>
-    <updated>2026-10-14T13:10:29.111454+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/robert-pattinson-on-the-batman-part-ii-were-going-to-figure-it-all-out-2000825632"/>
-    <summary>Robert Pattinson ha prometido que se resolverán los problemas de producción de 'The Batman, Part II' en una entrevista con Deadline. También se menciona un rumor sobre el actor que interpretará a Bruce Wayne en 'Man of Tomorrow'. Además, se presentan varios trailers para diferentes películas y series, incluyendo 'The Third Parent', 'Mum, I'm Alien Pregnant', 'Dead of Night' y 'Get Jiro'.
-
-Contexto IA (informativo):
-La producción de 'The Batman, Part II' ha estado retrasada debido a problemas de producción, pero Robert Pattinson ha asegurado que se resolverán los problemas y se continuará con el proyecto. En otro lado, se presentan varios trailers para diferentes películas y series, lo que sugiere que se está trabajando en varios proyectos al mismo tiempo.</summary>
-    <published>2026-10-14T12:59:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</id>
-    <title>[Tecnología] La tableta Alexa 12 Pro es casi lo que necesitábamos</title>
-    <updated>2026-10-14T13:10:29.111378+00:00</updated>
+    <id>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</id>
+    <title>[Tecnología] Conductor de Tesla admite estar dormido y utilizando FSD cuando chocó con vehículos de la patrullaria</title>
+    <updated>2026-10-16T21:12:20.115045+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review"/>
-    <summary>La pantalla de la tableta Alexa 12 Pro es impresionante, con una tecnología llamada "Nanomatte" que reduce el brillo y da la sensación de que se puede tocar lo que se ve en pantalla. Amazon ha invertido mucho en esta pantalla, que es el primer aspecto que se nota en el dispositivo. La tableta cuesta $549.99 y es una de cuatro opciones en la línea Alexa Tablet, que va desde una tableta de 8 pulgadas por $229.99 hasta una tableta de 12 pulgadas con esta tecnología y más RAM. La pantalla es una de las mejores características de la tableta, y es un buen punto de partida para aquellos que buscan una tableta de alta calidad.
+    <link href="https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash"/>
+    <summary>Un conductor de Tesla afirmó que estaba dormido y utilizando el modo de asistencia al conducción cuando chocó con vehículos de la patrullaria. La patrullaria de California advierte que 'a pesar de su nombre, el conducción autónoma completo no es completamente autónomo. La tecnología no alivia a los conductores de su responsabilidad de operar de manera segura sus vehículos'. Dos oficiales de la patrullaria resultaron gravemente heridos en el accidente y fueron llevados a un hospital. El video de la escena muestra al vehículo de Tesla acelerando a alta velocidad a través de señales de advertencia, cones y luces de emergencia, antes de chocar con un vehículo estacionado. La patrullaria de California advierte que la tecnología de conducción autónoma no debe ser confundida con la conducción autónoma completa. Es importante recordar que los conductores siempre deben estar atentos y preparados para cualquier situación. La seguridad en la carretera es una responsabilidad compartida entre los conductores y la tecnología.
 
 Contexto IA (informativo):
-Amazon ha estado trabajando en la tableta Alexa Tablet para ofrecer una experiencia de usuario más completa y asequible. La tableta 12 Pro es una de las opciones más avanzadas de la línea, y su pantalla es un ejemplo de la innovación que Amazon ha aplicado en su diseño.</summary>
-    <published>2026-10-14T13:00:00+00:00</published>
+Este accidente destaca la importancia de la responsabilidad compartida entre los conductores y la tecnología en la conducción segura. La patrullaria de California ha advertido en el pasado sobre los riesgos de la tecnología de conducción autónoma y la necesidad de que los conductores sigan siendo responsables de su seguridad.</summary>
+    <published>2026-10-16T20:49:04+00:00</published>
   </entry>
   <entry>
-    <id>https://kristaps.bsd.lv/kcgi/</id>
-    <title>[Programación] kcgi: biblioteca de CGI y FastCGI para C/C++</title>
-    <updated>2026-10-14T13:10:29.111292+00:00</updated>
+    <id>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</id>
+    <title>[Tecnología] Podemos finalmente escuchar fragmentos del álbum Once Upon A Time in Shaolin de Wu-Tang Clan</title>
+    <updated>2026-10-16T21:12:20.115012+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli"/>
+    <summary>El miembro de Wu-Tang Clan, Method Man, pudo escuchar el álbum por primera vez gracias a la emisión del podcast Pablo Torre Finds Out. El álbum, que ha sido extremadamente difícil de escuchar, ahora ofrece dos fragmentos gracias a esta emisión. El álbum tiene una historia larga que se explora en detalle en la emisión. En 2015, el ejecutivo farmacéutico Martin Shkreli compró la única copia del álbum, que no puede ser comercializada hasta 2103. Shkreli tuvo que entregar el álbum a la administración federal y esta última lo vendió en 2021 a la colectividad de arte cripto PleasrDAO. El álbum solo puede ser escuchado por primera vez gracias a esta emisión del podcast.
+
+Contexto IA (informativo):
+El álbum fue comprado por Martin Shkreli en 2015 y se convirtió en un tema de controversia. La administración federal lo confiscó y lo vendió a PleasrDAO en 2021. El álbum solo puede ser escuchado en 2103, según las condiciones de venta.</summary>
+    <published>2026-10-16T20:50:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/</id>
+    <title>[Tecnología] El Tesla Roadster 'vuela' gracias a un sistema de thrusters desarrollado por Lockheed Martin</title>
+    <updated>2026-10-16T21:12:20.114975+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/"/>
+    <summary>El Tesla Roadster, un vehículo de supercarro con un diseño angular y capacidad de aceleración en menos de un segundo, ha sido reintroducido con la capacidad de volar gracias a un sistema de thrusters. Aunque no 'vuela' en el sentido tradicional, el vehículo puede realizar movimientos de caída, salto y flip, gracias a dos tanques de aire comprimido y diez nozzles que firman aire comprimido para mover y estabilizar el vehículo. El sistema de thrusters no está aprobado para uso en carretera y solo está disponible en la versión Rocket del vehículo. El desarrollo de este sistema se remonta a la década de 2000, cuando Lockheed Martin trabajó en un proyecto de defensa de misiles llamado Multiple Kill Vehicle (MKV). Este sistema utiliza thrusters para mantenerse en el aire y cambiar de dirección, similar al Roadster. Aunque no se ha encontrado footage oficial del MKV en acción, se cree que se basa en conceptos de la década de 1980 del programa de defensa estratégica de los Estados Unidos, conocido como 'Star Wars'. El sistema de thrusters del Roadster utiliza aire comprimido, lo que lo hace menos combustible que el sistema de Lockheed Martin, que utilizaba un combustible para propulsión en sus pruebas de 'fuego caliente'.
+
+Contexto IA (informativo):
+El desarrollo de vehículos que pueden volar es un campo en constante evolución, con empresas como Tesla y Lockheed Martin trabajando en tecnologías innovadoras para mejorar la seguridad y la eficiencia en la defensa. Aunque el Tesla Roadster no es el primer vehículo en la historia a capaz de volar, su sistema de thrusters es único y ha generado interés en el sector de la defensa y la industria automotriz.</summary>
+    <published>2026-10-16T20:50:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bipm.org/en/cgpm-2026/resolution-5</id>
+    <title>[Programación] BIPM anuncia el fin de los saltos de segundo</title>
+    <updated>2026-10-16T21:12:20.114940+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://kristaps.bsd.lv/kcgi/"/>
-    <summary>La biblioteca kcgi es una herramienta de código abierto para aplicaciones web en C/C++ que ofrece una variedad de características, incluyendo auto-compresión, manejo de todas las operaciones de entrada HTTP (cadenas de consulta, cookies, cuerpos de página, multipart) con validación, autenticación y caché de salida configurable, depuración de solicitudes y escritores formatados (JSON, XML, etc.). La característica más destacada de kcgi es su uso de sandboxing y separación de procesos para manejar el camino de entrada no confiable. La biblioteca se compila en múltiples sistemas operativos, incluyendo GNU/Linux, OpenBSD, NetBSD, FreeBSD, Solaris y Mac OS X. Para utilizar kcgi, se requiere un servidor web capaz de ejecutar CGI o FastCGI. Se recomienda utilizar Apache, nginx o OpenBSD's httpd(8).
+    <link href="https://www.bipm.org/en/cgpm-2026/resolution-5"/>
+    <summary>La Resolución 5 de la 28ª CCM (2026) sobre las acciones técnicas necesarias para garantizar la continuidad de UTC. La CCM, en su 28ª reunión, recordó que UTC es un escala de tiempo producida por el BIPM con la misma tasa que el Tiempo Atómico Internacional (TAI), pero diferenciada de TAI solo por un número entero de segundos. La CCM también decidió que el máximo valor para la diferencia |UT1-UTC| será aumentado, o antes de 2035, para garantizar la continuidad de UTC durante al menos un siglo. Esto se debe a que los usuarios de UTC requieren una continuidad sin ajustes futuros, especialmente en aplicaciones críticas como la navegación por satélite y la comunicación. Además, la Organización Internacional de la Unión Telefónica (ITU) ha establecido un período de transición para implementar esta nueva escala de tiempo hasta 2035, pero no más tarde de 2040. La probabilidad de un segundo negativo aumentará rápidamente en el futuro, llegando al 30% en 2035, según un estudio realizado en 2025. Esto podría causar problemas y desafíos para las infraestructuras críticas que no están preparadas para este cambio.
 
 Contexto IA (informativo):
-Es importante mencionar que la biblioteca kcgi es una herramienta de código abierto y segura, y que su uso se basa en la sandboxing y la separación de procesos para manejar el camino de entrada no confiable. La biblioteca también ofrece una variedad de recursos de documentación y soporte para ayudar a los desarrolladores a utilizarla de manera efectiva.</summary>
-    <published>2026-10-14T10:09:31+00:00</published>
+La decisión de la CCM se basa en la necesidad de garantizar la continuidad de UTC para evitar problemas y desafíos para las infraestructuras críticas que no están preparadas para este cambio.</summary>
+    <published>2026-10-15T19:05:01+00:00</published>
   </entry>
   <entry>
-    <id>https://libzxc.org/</id>
-    <title>[Programación] Zxc 0.15.0: Compressión sin pérdida 2 veces más rápida que Zstandard</title>
-    <updated>2026-10-14T13:10:29.111174+00:00</updated>
+    <id>https://github.com/gilnett/learned_index_lab</id>
+    <title>[Programación] Laboratorio de índices aprendidos: Reemplazando árboles B con modelos lineales en streaming en pure Rust (-99% de RAM, 3x más rápido)</title>
+    <updated>2026-10-16T21:12:20.114904+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://libzxc.org/"/>
-    <summary>La biblioteca de compresión ZXC 0.15.0 ofrece una compresión sin pérdida 2 veces más rápida que Zstandard. Diseñada para datos que se comprimen una vez y se leen muchas veces, como imágenes de firmware, activos de juegos y aplicaciones, ZXC es una opción ideal para aplicaciones que requieren alta velocidad de descarga. La biblioteca es gratuita y tiene bindings oficiales para Rust, Python, Node.js y Go. Los desarrolladores pueden encontrar más información en GitHub.
+    <link href="https://github.com/gilnett/learned_index_lab"/>
+    <summary>Un implementación cero de dependencia de Piecewise Geometric Model (PGM) de índices estructurados en pure Rust. Este repositorio demuestra la transición del paradigma tradicional basado en comparaciones de punteros (como árboles B y índices de bloques LSM) a aproximaciones matemáticas de funciones empíricas de distribución cumulativa (CDFs) con una probabilidad de 100% de exactitud. El modelo PGM-Index utiliza una aproximación lineal de la distribución de datos para reducir la complejidad de los árboles B. Los resultados muestran una reducción del 99,99% del espacio de memoria y un aumento del 3x en la velocidad de búsqueda. El modelo también reduce la complejidad computacional y permite la catalogación de grandes cantidades de datos en memoria RAM. El laboratorio de índices aprendidos es una herramienta útil para desarrolladores que buscan mejorar la eficiencia y la escalabilidad de sus aplicaciones de bases de datos.
 
 Contexto IA (informativo):
-La compresión sin pérdida es una técnica que permite recuperar los datos originales sin pérdida de calidad. En el mundo de la informática, la compresión sin pérdida es especialmente importante en aplicaciones que requieren alta velocidad de descarga, como la entrega de contenido a dispositivos móviles o la descarga de juegos.</summary>
-    <published>2026-10-14T10:43:29+00:00</published>
+Los árboles B y los índices de bloques LSM han sido los estándares en la industria de las bases de datos durante más de 50 años. Sin embargo, estos modelos tienen limitaciones, como la necesidad de memoria adicional y la complejidad computacional. El modelo PGM-Index ofrece una solución alternativa que utiliza una aproximación lineal de la distribución de datos para reducir la complejidad de los árboles B y mejorar la eficiencia de la búsqueda.</summary>
+    <published>2026-10-16T00:12:04+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/dragos_roua/-video-stories-from-the-vibe-coding-trenches-accidentally-overpaid-150-to-cloudflare-2mdl</id>
-    <title>[Programación] Historias desde las profundidades del agujero de código - Pago accidentalmente de $150 a Cloudflare</title>
-    <updated>2026-10-14T13:10:29.111064+00:00</updated>
+    <id>https://youtu.be/0c2fj6z6Zso</id>
+    <title>[Programación] Dominio-Dirigido (DDD) - Guía Completa | Explorado Visualmente</title>
+    <updated>2026-10-16T21:12:20.114867+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://youtu.be/0c2fj6z6Zso"/>
+    <summary>En este video, se presenta una guía completa sobre el Dominio-Dirigido (DDD), un enfoque de diseño que busca entender y modelar los dominios de una empresa. El video, de aproximadamente 20 minutos de duración, ofrece una explicación detallada y visual de este concepto. El autor, un experto en el tema, comparte su conocimiento y experiencia para ayudar a los espectadores a comprender mejor este enfoque. El video también incluye comentarios y preguntas de los espectadores, lo que agrega un toque de interactividad y dinamismo. Este video es ideal para aquellos que buscan profundizar en el conocimiento del Dominio-Dirigido y cómo puede ser aplicado en su propio trabajo o proyecto.
+
+Contexto IA (informativo):
+El Dominio-Dirigido es un enfoque de diseño que se centra en entender y modelar los dominios de una empresa. Es un concepto que ha ganado popularidad en la comunidad de software y es ampliamente utilizado en la industria del desarrollo de software.</summary>
+    <published>2026-10-16T18:34:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/anuragtiwaricodes/payguard-local-a-zero-cloud-ai-invoice-sorter-for-freelancers-230e</id>
+    <title>[Programación] PayGuard Local: Un Sorteador de Facturas de Inteligencia Artificial Local para Freelancers</title>
+    <updated>2026-10-16T21:12:20.114829+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/dragos_roua/-video-stories-from-the-vibe-coding-trenches-accidentally-overpaid-150-to-cloudflare-2mdl"/>
-    <summary>El creador de la aplicación Flight Lens comparte una historia de cómo accidentalmente pagó $150 a Cloudflare debido a un error de rookie. La aplicación utilizaba un API caro y un motor de engine de propietario para proporcionar información sobre retrasos y cancelaciones de vuelos. El creador optimizó el API y el motor, pero no se dio cuenta de que había superado los límites de lectura y escritura de la base de datos. Afortunadamente, ajustó los límites y estableció alertas de facturación para evitar situaciones similares en el futuro. La lección aprendida es la importancia de prestar atención a los límites de pago y no dejar que los servicios de terceros nos sorprendan.
+    <link href="https://dev.to/anuragtiwaricodes/payguard-local-a-zero-cloud-ai-invoice-sorter-for-freelancers-230e"/>
+    <summary>El autor presentó un proyecto de código abierto para el desafío de la semana de Hacktoberfest Open-Source AI, que busca automatizar la clasificación de facturas y recibos para freelancers y pequeñas agencias. El proyecto, llamado PayGuard Local, utiliza un modelo de inteligencia artificial local sin conexión a Internet para clasificar facturas y categorizarlas en registros JSON estructurados. Esto permite a los freelancers y pequeñas agencias trabajar de manera segura y sin costos adicionales. El autor también menciona que el proyecto es flexible y permite a los usuarios cambiar o personalizar el modelo de clasificación según sus necesidades.
 
 Contexto IA (informativo):
-El creador de la aplicación Flight Lens ha lanzado varias aplicaciones en el App Store y ha compartido su experiencia en YouTube. En este video, comparte la historia de cómo pagó accidentalmente $150 a Cloudflare debido a un error de rookie. La historia es parte de una serie de videos en la que el creador comparte historias de sus experiencias con el desarrollo de aplicaciones.</summary>
-    <published>2026-10-14T12:55:49+00:00</published>
+El autor de este proyecto es un desarrollador de software que busca mejorar la eficiencia y la seguridad en el trabajo de los freelancers y pequeñas agencias. El proyecto PayGuard Local es un ejemplo de cómo la inteligencia artificial puede ser utilizada para automatizar tareas administrativas y mejorar la productividad.</summary>
+    <published>2026-10-16T20:52:36+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o</id>
-    <title>[Programación] Farmora: mi próximo shop de Next.js se estancó hasta 6 segundos por página, así que lo hice local-first</title>
-    <updated>2026-10-14T13:10:29.110903+00:00</updated>
+    <id>https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d</id>
+    <title>[Programación] ¿Qué cambios hay en esta actualización de Electron? Diferenciando dos builds de app.asar sin ejecutar ninguna</title>
+    <updated>2026-10-16T21:12:20.114777+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o"/>
-    <summary>Farmora es una plataforma de mercado de productos agrícolas donde los productores pueden listar sus productos y los clientes pueden comprar directamente de ellos. La plataforma tiene un sistema de seguimiento en vivo y una comisión del 10% para cada venta. El proyecto se diseñó como un portfolio, pero se comporta como una tienda real, con signos de registro, una base de datos y subidas de fotos para los productores. El sitio tiene 27 rutas de página y 40 productos en 8 categorías, pero todo es datos de muestra y no hay verdaderos productores, clientes o pagos.
+    <link href="https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d"/>
+    <summary>La actualización de Electron 1.5.0 trae cambios significativos en la forma en que las páginas y ventanas interactúan con el proceso principal. Se ha eliminado la función de abrir archivos en la shell del sistema, pero se ha agregado una nueva función de actualización. El tool hexvero permite comparar dos builds de app.asar sin ejecutarlos, identificando los cambios y proporcionando información detallada sobre lo que ha cambiado. Sin embargo, hay algunas limitaciones en la capacidad del tool para detectar cambios en ciertas áreas, como las llamadas de IPC no literales.
 
 Contexto IA (informativo):
-El autor del proyecto, Fehan999, diseñó y construyó Farmora por su cuenta y se enfocó en crear un comportamiento similar a un tienda real, con roles de usuario y un sistema de seguimiento en vivo. La plataforma utiliza Next.js 14.2 con el App Router y React 18, y se hospeda en Vercel.</summary>
-    <published>2026-10-14T12:56:25+00:00</published>
+El autor de hexvero es el autor de la actualización de Electron y ha escrito este artículo para informar sobre las nuevas características y mejoras en la herramienta. El tool hexvero es una herramienta de código abierto y MIT que permite a los desarrolladores de Electron comparar sus builds y detectar cambios en su código.</summary>
+    <published>2026-10-16T20:52:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/olly_08beff75f1fe547dcb92/how-to-cast-a-local-mkv-with-subtitles-to-chromecast-from-chrome-no-app-to-install-5chm</id>
+    <title>[Programación] Cargar un archivo MKV con subtítulos a Chromecast desde Chrome sin instalar una aplicación</title>
+    <updated>2026-10-16T21:12:20.114693+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/olly_08beff75f1fe547dcb92/how-to-cast-a-local-mkv-with-subtitles-to-chromecast-from-chrome-no-app-to-install-5chm"/>
+    <summary>Puedes cargar un archivo MKV con subtítulos a Chromecast desde Chrome sin instalar ninguna aplicación. Necesitas tener Chrome instalado en un ordenador o dispositivo móvil, un receptor de Chromecast, ambos conectados a la misma red Wi-Fi y el archivo MKV con subtítulos. Sigue los pasos indicados en el sitio web casttoyourtv.com y selecciona el archivo para cargar. Puedes elegir entre diferentes opciones de calidad y ajustar el tamaño de los subtítulos. El proceso es rápido y fácil, y no requiere una cuenta o una suscripción. Sin embargo, es importante tener en cuenta que algunos archivos grandes pueden tener problemas con la transmisión, y es recomendable utilizar archivos con formatos compatibles y subtítulos en formato SRT o VTT.
+
+Contexto IA (informativo):
+Este método es útil para aquellos que buscan una solución rápida y fácil para cargar archivos multimedia a Chromecast sin instalar ninguna aplicación. Es importante tener en cuenta que la calidad de la transmisión puede variar dependiendo del archivo y la conexión a Internet.</summary>
+    <published>2026-10-16T20:56:02+00:00</published>
   </entry>
 </feed>
