@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-17T13:12:37.600761+00:00</updated>
+  <updated>2026-10-19T13:05:54.145767+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,135 +11,177 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html</id>
-    <title>[Economía] El reportero que desmanteló a Elizabeth Holmes en el documental de Nathan Fielder</title>
-    <updated>2026-10-17T13:12:37.601562+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html"/>
-    <summary>La empresaria Elizabeth Holmes fue sometida a una investigación exhaustiva en el documental 'You Can See Everything', que reveló detalles sobre su vida personal y su negocio fallido. El documental también muestra cómo Holmes manipuló a sus inversores y empleados para mantener su ilusión. La investigación también resalta la falta de transparencia y la manipulación de datos por parte de Holmes y su equipo.
-
-Contexto IA (informativo):
-El documental 'You Can See Everything' es una producción de Nathan Fielder que explora la vida y el negocio de Elizabeth Holmes, fundadora de Theranos, una empresa que se desmoronó debido a su promesa falsa de un test de sangre instantáneo.</summary>
-    <published>2026-10-17T09:02:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html</id>
-    <title>[Economía] Los estados se están convirtiendo en los nuevos enforcers antimonopolios</title>
-    <updated>2026-10-17T13:12:37.601530+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html"/>
-    <summary>En ausencia de una acción federal en la aplicación de las leyes antimonopolios, los generales de estado han asumido el rol de enforcers. Esto se debe a que los estados tienen más flexibilidad para tomar medidas contra las empresas que abusan de su poder. Además, la falta de acción federal ha creado un vacío que los estados están tratando de llenar. Los generales de estado están trabajando juntos para compartir información y coordinar sus esfuerzos para proteger a los consumidores y promover la competencia.
-
-Contexto IA (informativo):
-La situación actual se debe en parte a la falta de acción del gobierno federal en la aplicación de las leyes antimonopolios, lo que ha creado un vacío que los estados están tratando de llenar.</summary>
-    <published>2026-10-17T12:00:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video</id>
-    <title>[Economía] Ajustes en la ayuda global agravian la presión humanitaria</title>
-    <updated>2026-10-17T13:12:37.601499+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/brazilian-asset-manager-whg-expands-its-local-equities-team</id>
+    <title>[Economía] El gestor de activos brasileño WHG amplía su equipo de equities locales</title>
+    <updated>2026-10-19T13:05:54.146785+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video"/>
-    <summary>Según David Miliband, presidente y CEO del International Rescue Committee, las reducciones en la ayuda humanitaria en Estados Unidos y Europa están debilitando la respuesta humanitaria en un momento en que los conflictos y otras crisis se intensifican en todo el mundo. Miliband discute las condiciones en Ucrania, Yemen y Sudán, el desafío de contener brotes de enfermedades y los beneficios y riesgos potenciales de la inteligencia artificial en el trabajo humanitario. (Fuente: Bloomberg)
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/brazilian-asset-manager-whg-expands-its-local-equities-team"/>
+    <summary>El gestor de activos brasileño WHG, fundado por ejecutivos de Credit Suisse, está expandiendo su equipo de equities locales. Este movimiento se produce en un momento en que las inversiones en activos locales son cada vez más atractivas para los inversores. WHG busca aprovechar esta tendencia y fortalecer su presencia en el mercado brasileño. El equipo de equities locales se centrará en ofrecer servicios de inversión en activos locales a clientes de todo el mundo.
 
 Contexto IA (informativo):
-La situación en Ucrania, Yemen y Sudán es particularmente preocupante debido a la creciente inestabilidad y la falta de acceso a servicios básicos. La pandemia de COVID-19 ha exacerbado estos desafíos, y la ayuda humanitaria es más necesaria que nunca.</summary>
-    <published>2026-10-17T12:44:18+00:00</published>
+En un contexto de crecimiento económico en Brasil, las inversiones en activos locales están ganando popularidad entre los inversores. WHG busca aprovechar esta tendencia y ofrecer servicios de inversión en activos locales a clientes de todo el mundo.</summary>
+    <published>2026-10-16T14:15:20+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video</id>
-    <title>[Economía] Por casualidad: Títulos que podrías haber perdido</title>
-    <updated>2026-10-17T13:12:37.601468+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19</id>
+    <title>[Economía] Noticias del mercado de petróleo y análisis para Oct. 19</title>
+    <updated>2026-10-19T13:05:54.146753+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video"/>
-    <summary>En este episodio, Lisa Mateo, David Gura y Christina Ruffini te presentan una selección de noticias que podrías haber olvidado, pero que son fundamentales para entender el mundo actual. Desde el lanzamiento del Tesla Roadster hasta la creciente controversia sobre las memorias falsas generadas por el AI, este programa te brinda una perspectiva única sobre los temas que realmente importan. Además, se analiza la relación entre Mark Zuckerberg y la pintura de Guinness, y se examina cómo los jubilados están cambiando sus hábitos de ahorro.
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19"/>
+    <summary>El petróleo se retiró de su máximo de cinco meses, después que los comerciantes cerraron ganancias después de un intenso alza impulsada por un aumento en los enfrentamientos en el Medio Oriente. La tendencia se debilitó debido a la caída de las reservas de petróleo en Estados Unidos. Los precios del petróleo se mantuvieron estables, aunque con una ligera caída en el mercado. Los expertos consideran que la situación en el Medio Oriente seguirá influyendo en el mercado de petróleo en los próximos días.
 
 Contexto IA (informativo):
-Este programa forma parte de una serie de entrevistas en la que los presentadores discuten sobre las noticias más relevantes del momento y cómo afectan a nuestra sociedad. En este caso, se centra en la importancia de no perderse detalles importantes en un mundo que se mueve a un ritmo cada vez más rápido.</summary>
-    <published>2026-10-17T12:51:57+00:00</published>
+La tendencia del petróleo ha sido influenciada por la situación en el Medio Oriente, donde se han intensificado los enfrentamientos entre diferentes facciones. Esto ha generado una mayor incertidumbre en el mercado, lo que ha llevado a una caída en los precios del petróleo.</summary>
+    <published>2026-10-18T22:02:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/code-review-after-code-gets-cheap/</id>
-    <title>[Data Science] Revisión de código después de que el código se vuelve barato</title>
-    <updated>2026-10-17T13:12:37.601435+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html</id>
+    <title>[Economía] Putin propone reunión trilateral con Trump y Xi sin Zelenskyy</title>
+    <updated>2026-10-19T13:05:54.146720+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"/>
+    <summary>El presidente ruso Vladimir Putin ha propuesto una reunión trilateral con el presidente estadounidense Donald Trump y el presidente chino Xi Jinping para negociar un fin a la guerra en Ucrania, sin la presencia del presidente ucraniano Volodymyr Zelenskyy. La reunión podría tener lugar en el próximo Asia-Pacific Economic Cooperation summit en la ciudad china de Shenzhen. El presidente estadounidense ha expresado su disposición a ayudar a encontrar una solución al conflicto, siempre y cuando sea posible. Sin embargo, las tensiones entre Ucrania y Estados Unidos han aumentado en las últimas semanas, lo que ha generado preocupación entre los aliados europeos. El presidente ucraniano ha criticado las decisiones de Trump, acusándolo de no querer la paz y de que las sanciones a Rusia podrían prolongar el conflicto. La situación se ha aggravado con la lanzamiento de ataques nocturnos de Rusia contra Ucrania, que han causado daños a infraestructuras energéticas y dejado a más de 550.000 hogares sin electricidad. El gobierno ucraniano sigue buscando el apoyo de Estados Unidos, aunque se ha expresado preocupación por la posibilidad de que el país se aleje de su lado.
+
+Contexto IA (informativo):
+La situación en Ucrania sigue siendo tensa, con la guerra en curso desde 2014. La comunidad internacional ha expresado su preocupación por la situación y ha llamado a la paz y la negociación. El presidente ucraniano ha expresado su disposición a encontrar una solución al conflicto, pero ha criticado las decisiones de Trump, que ha defendido su política de sanciones a Rusia.</summary>
+    <published>2026-10-19T10:36:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html</id>
+    <title>[Economía] La I.P.O. de Anthropic con carácter filantrópico</title>
+    <updated>2026-10-19T13:05:54.146688+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html"/>
+    <summary>El gigante de inteligencia artificial Anthropic planea aportar el 5% de sus acciones a un fondo filantrópico. Sin embargo, su generosidad depende de que el boom de la inteligencia artificial continúe. El fondo se utilizará para apoyar proyectos de investigación y educación en el campo de la inteligencia artificial. Además, la empresa busca fomentar la colaboración entre la industria y la comunidad académica. La aportación de Anthropic al fondo es un paso importante en la dirección de la responsabilidad social de la empresa.
+
+Contexto IA (informativo):
+En un momento en que la inteligencia artificial está cada vez más presente en nuestras vidas, Anthropic busca demostrar su compromiso con la responsabilidad social. La empresa ha estado trabajando en la creación de un fondo filantrópico que apoye proyectos de investigación y educación en el campo de la inteligencia artificial.</summary>
+    <published>2026-10-19T11:47:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html</id>
+    <title>[Economía] Google afirma que puede construir centros de datos de manera adecuada. Algunos expertos y residentes se ponen en duda</title>
+    <updated>2026-10-19T13:05:54.146656+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html"/>
+    <summary>Según un sondeo de Gallup, el 71% de los estadounidenses se opone a la construcción de un centro de datos en su área local. Los principales motivos son la utilización de energía y el impacto ambiental. Google busca financiar una red de energía más limpia y confiable con su centro de datos de inteligencia artificial. El acuerdo con Xcel Energy incluye la adición de capacidad de viento, solar y batería, que supera la capacidad del centro de datos. El objetivo es reducir la huella de carbono de la empresa y cumplir con su objetivo de operar con energía carbon-neutral, 24 horas al día, 7 días a la semana, en 2030. El acuerdo incluye cargas mínimas y tarifas de salida, que garantizan que Google pagará por la infraestructura construida, incluso si el boom de inteligencia artificial se desvanece. El acuerdo está pendiente de aprobación por la Comisión de Utilidades Públicas de Minnesota.
+
+Contexto IA (informativo):
+La industria de los centros de datos está impulsando un crecimiento histórico de la demanda de energía. Según la Corporación de Estabilidad Eléctrica del Norte de América, los centros de datos serán responsables de la mayoría de la creciente demanda de energía en los próximos diez años. El Departamento de Energía de la Administración Biden informó que más del 70% de las líneas de transmisión y transformadores de la nación tenían al menos 25 años y que se necesitaría más de duplicar el tamaño del sistema de transmisión para satisfacer la demanda futura.</summary>
+    <published>2026-10-19T12:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html</id>
+    <title>[Economía] Elon Musk anuncia que dará una acción de SpaceX a cada niño de América</title>
+    <updated>2026-10-19T13:05:54.146625+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html"/>
+    <summary>El CEO de SpaceX, Elon Musk, ha anunciado que donará una acción de la empresa a cada niño de América. Esto se hace parte de un esfuerzo para apoyar a los jóvenes y fomentar la innovación. Además, otros empresarios tecnológicos han iniciado programas para ahorrar dinero para los niños. La iniciativa busca proporcionar oportunidades educativas y de desarrollo a los jóvenes de todo el país.
+
+Contexto IA (informativo):
+En un momento en que la competencia entre empresas de tecnología es cada vez más intensa, Elon Musk busca destacarse con una acción humanitaria que beneficie a la sociedad en general.</summary>
+    <published>2026-10-19T12:33:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself</id>
+    <title>[Data Science] RAG Agente vs. RAG Naive: Cuando Tu Sistema de Recuperación Debe Pensar por Si Mismo</title>
+    <updated>2026-10-19T13:05:54.146592+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself"/>
+    <summary>El RAG Agente es una arquitectura que permite a los sistemas de recuperación pensar por sí mismos y realizar razonamiento en lugar de depender de una búsqueda lineal. Esta arquitectura es más adecuada para tareas complejas que requieren razonamiento en múltiples pasos y la síntesis de información que no existe en un solo documento. En este artículo, exploraremos cómo funcionan tanto el RAG Agente como el RAG Naive, y en qué casos es más adecuado elegir una arquitectura sobre la otra.
+
+Contexto IA (informativo):
+La arquitectura del RAG Naive sigue un enfoque tradicional de búsqueda lineal, donde el sistema busca una respuesta en un solo paso. Sin embargo, esta arquitectura tiene sus limitaciones, especialmente en tareas que requieren razonamiento en múltiples pasos o la síntesis de información que no existe en un solo documento.</summary>
+    <published>2026-10-16T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/</id>
+    <title>[Data Science] La inteligencia artificial no cambia cómo trabajamos juntos, pero sí cómo entendemos el código</title>
+    <updated>2026-10-19T13:05:54.146559+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
-    <link href="https://www.oreilly.com/radar/code-review-after-code-gets-cheap/"/>
-    <summary>Una vez que el código se genera rápidamente, alguien debe decidir si el resultado es lo que queremos. La revisión del código es un paso crucial, pero puede ser difícil determinar dónde es necesario. Mi enfoque es establecer evidencia como condición para aceptar código generado por un agente. Deberíamos acordar el comportamiento deseado y la expectativa de impacto antes de empezar la implementación, y luego usar la evidencia para verificar si el comportamiento ha cambiado. También debemos considerar el blast radius, que es la distancia que puede propagar una mala decisión. Esto requiere una revisión bidireccional para asegurarnos de que el comportamiento solicitado exista y que cualquier comportamiento adicional sea explorable. Esto puede ayudar a evitar errores y asegurar que el código sea lo más seguro posible.
+    <link href="https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/"/>
+    <summary>En un experimento llamado ContextCue, el autor busca mejorar la comprensión de los equipos de desarrollo de software al preservar el contexto de las reuniones. El problema es que la información se pierde cuando se pasa de un equipo a otro, especialmente cuando se trabajan en equipos distribuidos. El autor quiere ver si la inteligencia artificial puede ayudar a mantener el contexto y mejorar la comprensión de los equipos. El experimento utiliza herramientas de inteligencia artificial para analizar las reuniones y preservar el contexto, incluyendo la discusión, el contexto visual y las decisiones. El objetivo es crear un conjunto de contexto compartido que pueda moverse con el trabajo entre equipos. El autor cree que la inteligencia artificial puede ayudar a mejorar la comprensión de los equipos y a evitar la implementación de interpretaciones incorrectas de las requisiciones.
 
 Contexto IA (informativo):
-La revisión del código es un paso crucial en el desarrollo de software, especialmente cuando se utiliza tecnología de generación de código. Sin embargo, puede ser difícil determinar dónde es necesario revisar el código. La clave es establecer evidencia como condición para aceptar código generado por un agente y realizar una revisión bidireccional para asegurarnos de que el comportamiento solicitado exista y que cualquier comportamiento adicional sea explorable.</summary>
-    <published>2026-10-16T10:54:21+00:00</published>
+La idea de ContextCue surgió de la observación de que los ingenieros utilizaban la inteligencia artificial en todo el proceso de desarrollo de software, desde la creación de especificaciones hasta la revisión del código y la prueba. Sin embargo, la comprensión del código no parecía estar cambiando a un ritmo similar. El autor de ContextCue quería explorar cómo la inteligencia artificial podría ayudar a mantener el contexto y mejorar la comprensión de los equipos en el proceso de desarrollo de software.</summary>
+    <published>2026-10-19T10:54:38+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/</id>
-    <title>[Data Science] ¿Tú todavía posees el código que escribió tu AI? Construí CodeOwnership para medirlo</title>
-    <updated>2026-10-17T13:12:37.601401+00:00</updated>
+    <id>https://towardsdatascience.com/ai-harms-and-their-technical-causes/</id>
+    <title>[Data Science] Los daños causados por la inteligencia artificial y sus causas técnicas</title>
+    <updated>2026-10-19T13:05:54.146526+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/"/>
-    <summary>Un desarrollador creó una herramienta para evaluar la verdadera propiedad de código en la era de la inteligencia artificial. La herramienta, llamada CodeOwnership, evalúa la comprensión del código y la capacidad de debugarlo sin la ayuda del agente que lo escribió. El desarrollador realizó una prueba con la herramienta y encontró que su confianza en sí mismo era de 4/5, pero no pudo encontrar el error en 8 minutos. La herramienta mide tres aspectos: la comprensión percibida, el rendimiento de depuración y la comprensión pos-depuración. La herramienta es ligera y se puede utilizar para evaluar la propiedad de código en proyectos de inteligencia artificial. El desarrollador espera que la herramienta sea útil para evaluar la capacidad de los desarrolladores para comprender y debugar el código que escriben los agentes de inteligencia artificial.
+    <link href="https://towardsdatascience.com/ai-harms-and-their-technical-causes/"/>
+    <summary>La reciente presentación de quiebra de Character.AI ha recordado a los expertos en el tema de la responsabilidad de los proveedores de modelos de inteligencia artificial (LLMs) y productos que los utilizan por los daños causados por su output. Los casos legales recientes han forzado a la industria a considerar la cuestión de cuándo los modelos de inteligencia artificial causan daños. Los expertos en el tema argumentan que los proveedores de LLMs y productos que los utilizan deben ser responsables de sus output, y que la definición de la responsabilidad es un tema de debate. Los expertos en el tema también argumentan que los proveedores de LLMs y productos que los utilizan deben tomar medidas para mitigar los riesgos de daño causado por su output, y que la aplicación de conceptos legales como la negligencia y la responsabilidad por defecto es esencial para garantizar la seguridad de los productos. El caso de Character.AI es un ejemplo de cómo la industria puede aplicar estos conceptos para mejorar la seguridad de sus productos.
 
 Contexto IA (informativo):
-La propiedad de código es un tema importante en la era de la inteligencia artificial, ya que los agentes de inteligencia artificial pueden escribir código que no es completamente comprensible para los humanos. La herramienta CodeOwnership busca evaluar la capacidad de los desarrolladores para comprender y debugar el código que escriben los agentes de inteligencia artificial.</summary>
-    <published>2026-10-16T15:30:00+00:00</published>
+La industria de la inteligencia artificial ha estado experimentando un crecimiento exponencial en los últimos años, y con él, ha surgido una serie de cuestiones legales y éticas que deben ser abordadas. La responsabilidad de los proveedores de modelos de inteligencia artificial y productos que los utilizan por los daños causados por su output es un tema de debate. Los expertos en el tema argumentan que es esencial tomar medidas para mitigar los riesgos de daño causado por su output y que la aplicación de conceptos legales como la negligencia y la responsabilidad por defecto es esencial para garantizar la seguridad de los productos.</summary>
+    <published>2026-10-19T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/this-week-in-ai-expanding-the-possibilities/</id>
-    <title>[Data Science] Esta Semana en AI: Ampliando las Posibilidades</title>
-    <updated>2026-10-17T13:12:37.601366+00:00</updated>
+    <id>https://machinelearningmastery.com/descriptors-and-controlled-attributes/</id>
+    <title>[Data Science] Atributos controlados y descripciones en Python</title>
+    <updated>2026-10-19T13:05:54.146493+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.oreilly.com/radar/this-week-in-ai-expanding-the-possibilities/"/>
-    <summary>Nuevos herramientas de inteligencia artificial están facilitando la exploración de datos empresariales. También están brindando a los investigadores nuevas formas de estudiar las brotes de enfermedades y los sistemas físicos. En el último episodio de This Week in AI, examinamos los desarrollos de OpenAI, Anthropic y Mistral, la investigación sobre la economía de la robótica y cómo los científicos están utilizando la inteligencia artificial para abordar problemas difíciles. Además, las nuevas herramientas de inteligencia artificial están poniendo más capacidades directamente en las manos de los usuarios. La empresa OpenAI lanzó una nueva característica de interfaz inteligente que permite a ChatGPT generar explicaciones visuales e instrumentos interactivos directamente en las conversaciones. Además, la empresa Anthropic lanzó una plataforma de dashboards naturales de lenguaje y visualizaciones interactivas para los datos de la empresa. La empresa Mistral presentó una nueva versión de su modelo de inteligencia artificial, diseñado para tareas de codificación, agentes y tareas multimodales. Los científicos están utilizando la inteligencia artificial para abordar problemas en matemáticas, biología, espacio y salud pública. Además, la empresa Breakthrough Listen está utilizando la inteligencia artificial para buscar señales de tecnología extraterrestre en los datos de radio telescópios y otros instrumentos. La empresa Google está utilizando la inteligencia artificial para analizar la dinámica de la población y desarrollar tratamientos para enfermedades. En resumen, la inteligencia artificial está abriendo nuevas vías para la investigación científica y está poniendo más capacidades en las manos de los usuarios. Sin embargo, también plantea desafíos en términos de seguridad y control de los agentes de inteligencia artificial. Los científicos deben encontrar formas de abordar estos desafíos y asegurarse de que la inteligencia artificial se utilice de manera responsable y segura.
+    <link href="https://machinelearningmastery.com/descriptors-and-controlled-attributes/"/>
+    <summary>En este artículo, aprenderás qué son las descripciones de Python y cómo utilizarlas para crear tres tipos de atributos controlados: validados, computados y cargados de manera lazy. Se cubren temas como la creación de un descriptor validador que impone restricciones de tipo y rango en atributos de clase, la creación de un descriptor computado que deriva su valor dinámicamente de otro atributo y la creación de un descriptor cargado de manera lazy que defiere cálculos costosos hasta que el atributo se accede por primera vez. Se utiliza un ejemplo que simula la gestión de datos en una aplicación de turismo en Japón, mostrando cómo las descripciones pueden utilizarse para manejar estados de atributos de manera limpia sin recurrir a decoradores @property, getters y setters. Se explican los pasos para crear tres tipos de atributos controlados a través de descripciones: validados, computados y cargados de manera lazy.
 
 Contexto IA (informativo):
-La inteligencia artificial está evolucionando rápidamente y está cambiando la forma en que los científicos y los empresarios trabajan. Los desafíos en términos de seguridad y control de los agentes de inteligencia artificial son importantes y deben ser abordados de manera efectiva. Los científicos deben encontrar formas de utilizar la inteligencia artificial de manera responsable y segura, y asegurarse de que se utilice de manera que beneficie a la sociedad en general.</summary>
-    <published>2026-10-16T15:55:01+00:00</published>
+En Python, las descripciones son una forma de controlar el acceso a los atributos de una clase. Los atributos controlados son propiedades definidas en el nivel de clase que tienen su lógica de escritura, lectura y eliminación manejada por los descripciones. La comprensión de las descripciones es fundamental para entender la mecánica detrás de muchas bibliotecas y sistemas de configuración populares en Python.</summary>
+    <published>2026-10-19T11:00:15+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/</id>
-    <title>[Data Science] Cuándo los modelos de EEG ven a la misma gente en entrenamiento y prueba</title>
-    <updated>2026-10-17T13:12:37.601331+00:00</updated>
+    <id>https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code</id>
+    <title>[Data Science] 7 Verificaciones a Realizar Antes de Confiar en Código Generado por Inteligencia Artificial</title>
+    <updated>2026-10-19T13:05:54.146460+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code"/>
+    <summary>La inteligencia artificial puede generar código de alta calidad en un corto período de tiempo, aumentando la productividad, pero también puede ser peligrosa. Es importante verificar el código generado por la inteligencia artificial para asegurarse de que cumple con las expectativas. Algunas verificaciones importantes incluyen: verificar la diff antes de ejecutar el código, hacer que el compilador, linter y tipo checker juzguen el código, verificar cada nuevo dependiente y API, probar el comportamiento del código en lugar de su implementación y verificar que el código sea semánticamente correcto. También es importante verificar que el código generado no contenga errores de tipo, que los dependientes sean verificados de manera independiente y que las APIs sean verificadas en una autoridad oficial.
+
+Contexto IA (informativo):
+La inteligencia artificial puede generar código de alta calidad, pero también puede ser peligrosa si no se verifica adecuadamente. Es importante tomar medidas para asegurarse de que el código generado por la inteligencia artificial cumple con las expectativas y no contenga errores. Algunas verificaciones importantes incluyen verificar la diff antes de ejecutar el código, hacer que el compilador, linter y tipo checker juzguen el código, verificar cada nuevo dependiente y API, probar el comportamiento del código en lugar de su implementación y verificar que el código sea semánticamente correcto.</summary>
+    <published>2026-10-19T12:00:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/</id>
+    <title>[Data Science] ¿Cuántas canales EEG se necesitan realmente?</title>
+    <updated>2026-10-19T13:05:54.146426+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/"/>
-    <summary>La evaluación de los modelos de aprendizaje automático de EEG puede producir resultados optimistas si se utilizan las mismas personas en entrenamiento y prueba. Esto se debe a que los registros de EEG pueden contener estructura específica del participante. En este estudio, se repite un escenario de evaluación en el caso más simple posible: se compara la información de fondo de EEG con la información de EEG obtenida durante la tarea de cálculo mental utilizando características clásicas y tres algoritmos de aprendizaje automático estándar. Se implementaron controles adicionales para ver si la extracción de características sola puede distinguir entre sujetos y si se puede equilibrar la clase de las ventanas de fondo y de cálculo. El conjunto de datos utilizado fue el EEG During Mental Arithmetic Tasks (EEGMAT) de PhysioNet, que contiene 36 registros de EEG de ambos tipos. Se utilizaron 19 canales de EEG y se ignoraron el canal de referencia de la oreja y el canal ECG. Se dividieron los canales de EEG en ventanas no superpuestas de 4 segundos y se calcularon la densidad de poder espectral para cada canal y ventana utilizando el método de Welch. Se compararon tres clasificadores: regresión logística con ponderación de clase, soporte vectorial de máquina con kernel de RBF y bosque aleatorio con ponderación de clase y 300 árboles. Se utilizaron protocolos de evaluación diferentes para medir la precisión y la precisión de la clasificación.
+    <link href="https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/"/>
+    <summary>El presente trabajo analiza la reducción de canales EEG en un conjunto de datos público para mejorar la clasificación de la actividad cerebral. Se comparan diferentes reducciones de canales, desde 1 hasta 19, y se evalúa su impacto en la precisión de la clasificación en datos desconocidos. Los resultados muestran que aunque la reducción de canales produce cambios en la precisión, no todos los canales son esenciales para la clasificación. El experimento se centra en encontrar un enfoque más general para la clasificación de la actividad cerebral, independientemente de la cantidad de canales utilizados. El conjunto de datos utilizado es el EEG During Mental Arithmetic Tasks (EEGMAT) de PhysioNet, que contiene 36 participantes y 72 registros de EEG. La clasificación se basa en la condición de registro, es decir, el estado de ánimo versus la tarea mental. Se excluyen canales de referencia y señales de ECG. Se utilizan técnicas de procesamiento de señales y análisis de espectro para extraer características de los canales EEG. El experimento utiliza una técnica de validación de participantes, donde se divide el conjunto de datos en seis conjuntos de validación, cada uno con seis participantes diferentes, para evaluar la precisión de la clasificación en datos desconocidos. Los resultados muestran que la reducción de canales no afecta significativamente la precisión de la clasificación, lo que sugiere que la cantidad de canales utilizados no es un factor determinante para la precisión de la clasificación de la actividad cerebral.
 
 Contexto IA (informativo):
-La evaluación de los modelos de aprendizaje automático de EEG es crucial para determinar su capacidad para generalizar a nuevos sujetos. Sin embargo, si se utilizan las mismas personas en entrenamiento y prueba, la evaluación puede producir resultados optimistas que no reflejan la capacidad del modelo para clasificar ventanas de EEG de sujetos desconocidos.</summary>
-    <published>2026-10-17T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29475</id>
-    <title>[Fórmula 1] Conoce a Rafael Câmara, el nuevo piloto de Haas</title>
-    <updated>2026-10-17T13:12:37.601299+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29475"/>
-    <summary>Rafael Câmara, el brasileño que ganó el título de FIA Formula 3 en 2025 y se convirtió en un contendiente líder en la Formula 2, ha firmado un contrato con Haas para su debut en la F1. Câmara ha demostrado su habilidad para adaptarse a diferentes máquinas y ha sido parte del programa de pilotos de Ferrari desde 2022. El equipo Haas está emocionado de tener a Câmara a bordo y espera que él pueda hacer un impacto inmediato. El piloto brasileño está emocionado de unirse al equipo y agradece a Haas y a la Ferrari Driver Academy por su apoyo.
-
-Contexto IA (informativo):
-Rafael Câmara es un piloto brasileño que ha ganado el título de FIA Formula 3 en 2025 y se ha convertido en un contendiente líder en la Formula 2. Ha sido parte del programa de pilotos de Ferrari desde 2022 y ha demostrado su habilidad para adaptarse a diferentes máquinas.</summary>
-    <published>2026-10-16T09:25:19+00:00</published>
+El trabajo se centra en encontrar un enfoque más general para la clasificación de la actividad cerebral, independientemente de la cantidad de canales utilizados. El experimento se basa en el análisis de reducciones de canales EEG en un conjunto de datos público, como el EEG During Mental Arithmetic Tasks (EEGMAT) de PhysioNet. El objetivo es evaluar la precisión de la clasificación en datos desconocidos y determinar si la cantidad de canales utilizados afecta significativamente la precisión de la clasificación.</summary>
+    <published>2026-10-19T12:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/29476</id>
     <title>[Fórmula 1] Hamilton admite error estratégico en GP de Singapur</title>
-    <updated>2026-10-17T13:12:37.601264+00:00</updated>
+    <updated>2026-10-19T13:05:54.146394+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -151,171 +193,227 @@ El piloto británico Lewis Hamilton ha hablado sobre su error estratégico en el
     <published>2026-10-16T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/</id>
-    <title>[Fórmula 1] Colapinto pide a sus fans que dejen de abusar en línea: "No estás ayudándome ni a mi futuro"</title>
-    <updated>2026-10-17T13:12:37.601229+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/"/>
-    <summary>El piloto Franco Colapinto ha pedido a sus fans argentinos que dejen de abusar en línea después de varios incidentes en los últimos meses. En las carreras de Zandvoort, Madrid y Baku, se han dirigido comentarios hirientes a los stewardes de la FIA, a Pierre Gasly y a su familia, y a Lando Norris, entre otros. Este tema ha sido recurrente en la temporada de Fórmula 1 de 2026, lo que ha llevado a Alpine a emitir declaraciones regulares para ...
-
-Contexto IA (informativo):
-El incidente se ha producido en varias ocasiones en la temporada de Fórmula 1 de 2026, lo que ha generado una gran cantidad de comentarios negativos en las redes sociales. La situación ha sido tan grave que ha llevado a algunos pilotos a pedir ayuda a las autoridades para proteger su privacidad y seguridad.</summary>
-    <published>2026-10-16T15:32:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/10/16/palou-predictably-quickest-in-indy-ntx-test</id>
-    <title>[Fórmula 1] Palou es el más rápido en el test de Indy NXT de manera predecible</title>
-    <updated>2026-10-17T13:12:37.601197+00:00</updated>
+    <id>https://racer.com/2026/10/18/reddick-finally-finds-his-way-back-to-nascar-s-victory-lane-at-phoenix</id>
+    <title>[Fórmula 1] Reddick regresa finalmente a la victoria en la pista de Phoenix</title>
+    <updated>2026-10-19T13:05:54.146363+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/10/16/palou-predictably-quickest-in-indy-ntx-test"/>
-    <summary>Alex Palou, cinco veces campeón de la IndyCar Series, demostró ser el más rápido en su primer día conduciendo un Indy NXT, y también en el test de homenaje a Chris Griffis en la entrada número 11 de Chip Ganassi Racing. El piloto español se destacó en la prueba, demostrando su habilidad para adaptarse rápidamente a la nueva plataforma. La victoria de Palou en el test fue esperada, ya que es considerado uno de los mejores conductores de la serie. La prueba fue una oportunidad valiosa para Palou y su equipo para evaluar su rendimiento y hacer ajustes antes de la temporada.
+    <link href="https://racer.com/2026/10/18/reddick-finally-finds-his-way-back-to-nascar-s-victory-lane-at-phoenix"/>
+    <summary>Tyler Reddick y su equipo de 23XI Racing aprovecharon la última vuelta de la carrera en Phoenix Raceway para ascender de cuarto a primero y conseguir su victoria después de seis meses de espera. El estadounidense lideró la carrera y mantuvo su posición hasta el final, superando a varios rivales para conquistar el triunfo. Este éxito es un gran paso adelante para Reddick y su equipo, que habían estado trabajando arduamente para recuperar su forma.
 
 Contexto IA (informativo):
-El test de Indy NXT es una prueba de pruebas para los pilotos y equipos antes de la temporada de la IndyCar Series. Es una oportunidad para evaluar el rendimiento de los vehículos y hacer ajustes antes de la competencia.</summary>
-    <published>2026-10-17T00:50:05+00:00</published>
+La victoria de Reddick en Phoenix es su primera en NASCAR desde mayo de este año y le da un gran impulso a su carrera. El piloto estadounidense ha estado luchando por encontrar su ritmo en la temporada, pero esta victoria le da la confianza necesaria para seguir adelante.</summary>
+    <published>2026-10-18T23:19:10+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/</id>
-    <title>[Fórmula 1] Lo que Verstappen sabía sobre el gran upgrade de Red Bull cuando firmó su nuevo contrato de F1</title>
-    <updated>2026-10-17T13:12:37.601164+00:00</updated>
+    <id>https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/</id>
+    <title>[Fórmula 1] Dentro de la construcción de la competencia que forja el talento de la ingeniería F1</title>
+    <updated>2026-10-19T13:05:54.146331+00:00</updated>
     <author>
       <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/"/>
-    <summary>Max Verstappen se acercó mucho a la victoria en Baku, pero no la consiguió hasta las siguientes carreras de la tripleheader en Malaysia y Singapur. Esto marca un gran contraste con el inicio de esta temporada. Verstappen ha demostrado una gran mejora en su rendimiento en las últimas carreras. Su equipo, Red Bull, ha implementado un gran upgrade que ha ayudado a mejorar su desempeño. Verstappen ahora se encuentra en una posición fuerte en la clasificación de la temporada.
+    <link href="https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/"/>
+    <summary>Seis estudiantes sauditas de secundaria, cuatro chicos y dos chicas, se mueven con emoción por el paddock de la F1 de Singapur. Como parte del equipo Lynx Racing, ganadores del reciente campeonato de los STEM Racing World Finals, que se llevó a cabo en Singapur durante la semana previa al gran premio. Al salir encima de una competencia internacional de ingeniería de cuatro días, Lynx Racing recibió el premio principal, que consiste en una beca de estudios y una oportunidad de trabajar en una fábrica de F1. Este logro es un gran paso adelante para la región del Golfo, que busca impulsar su desarrollo tecnológico y aumentar su participación en la competencia mundial de la F1.
 
 Contexto IA (informativo):
-En el inicio de la temporada, Verstappen se enfrentó a una gran cantidad de presión para demostrar su valor para el equipo. Sin embargo, gracias a su gran trabajo y la mejora del equipo, ha podido recuperar su posición en la clasificación.</summary>
-    <published>2026-10-17T08:17:38+00:00</published>
+La competencia STEM Racing World Finals es una de las más importantes de su tipo, y Lynx Racing se convirtió en el primer equipo saudita en ganarla. Este logro es un gran orgullo para la comunidad de la F1 en Arabia Saudita, y se espera que sirva como un impulso para la creación de más equipos y talentos en el país.</summary>
+    <published>2026-10-19T08:37:56+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/daniel-ricciardo-hints-at-f1-paddock-return-amid-ford-raptor-road-trip-to-austin/10865852/</id>
-    <title>[Fórmula 1] Daniel Ricciardo anuncia posible regreso al paddock de F1 durante road trip de Ford Raptor en Austin</title>
-    <updated>2026-10-17T13:12:37.601131+00:00</updated>
+    <id>https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/</id>
+    <title>[Fórmula 1] McLaren confirma a Fornaroli como reserva y le da programa WEC para 2027</title>
+    <updated>2026-10-19T13:05:54.146300+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/"/>
+    <summary>McLaren ha reafirmado su confianza en Leonardo Fornaroli y le ha ofrecido un compromiso más ambicioso. Fornaroli será el tercer piloto de la escudería para la temporada 2027 y también participará en el programa de la Copa Mundial de Endurance con el nuevo coche de hipercar. Esto marca un paso importante en su carrera como piloto de F1.
+
+Contexto IA (informativo):
+Fornaroli ha demostrado su habilidad y dedicación en las pruebas de F1, y su experiencia en el mundo de la endurance le brindará una plataforma para destacarse en el escenario internacional.</summary>
+    <published>2026-10-19T11:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/spa-24-hours-emerges-as-max-verstappens-likely-2027-gt-target/10866254/</id>
+    <title>[Fórmula 1] Spa 24 Horas es el objetivo probable de Max Verstappen para 2027 en GT</title>
+    <updated>2026-10-19T13:05:54.146267+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/daniel-ricciardo-hints-at-f1-paddock-return-amid-ford-raptor-road-trip-to-austin/10865852/"/>
-    <summary>El exconducidor de F1 Daniel Ricciardo está embarcándose en un emocionante viaje por América, que comenzará en el desierto de Arizona para la Ford Raptor Rally y terminará en Austin, Texas, para el Gran Premio de Estados Unidos. La marca Ford Racing y la marca de estilo de vida de Ricciardo, Enchanté, anunciaron su participación en el evento en una publicación conjunta en Instagram. Ricciardo ha dejado claro que está considerando un regreso al mundo de la F1.
+    <link href="https://www.motorsport.com/f1/news/spa-24-hours-emerges-as-max-verstappens-likely-2027-gt-target/10866254/"/>
+    <summary>Después de una impresionante actuación en Portimao, Max Verstappen busca continuar su carrera en GT en Spa-Francorchamps, considerado su "track favorito". En el GT World Challenge Europe del fin de semana pasado, donde compartió el Team Verstappen Mercedes con Chris Lulham y Ben Barnicoat, Verstappen reveló su afición por este circuito. Su objetivo es seguir competiendo en GT y seguir mejorando su habilidad. El equipo de Verstappen está trabajando arduamente para prepararlo para la temporada 2027.
 
 Contexto IA (informativo):
-Ricciardo ha estado trabajando en su marca de estilo de vida, Enchanté, y ha estado involucrado en varios proyectos de automoción. La participación en la Ford Raptor Rally es una oportunidad para él de probar sus habilidades en un entorno de competencia.</summary>
-    <published>2026-10-17T12:16:46+00:00</published>
+El GT World Challenge Europe es una serie de carreras de GT que se disputa en Europa. La temporada 2027 promete ser emocionante con varios equipos y pilotos competiendo por el título.</summary>
+    <published>2026-10-19T11:03:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</id>
-    <title>[Tecnología] Apple actualiza sus reglas del App Store para combatir las aplicaciones de 'nudify'</title>
-    <updated>2026-10-17T13:12:37.601096+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"/>
-    <summary>Apple ha actualizado sus reglas del App Store para prohibir explícitamente las aplicaciones 'nudify' que generan imágenes íntimas de personas sin su consentimiento utilizando herramientas de inteligencia artificial. Estas reglas se establecen tras una fuerte crítica hacia Apple por la utilización de aplicaciones como Grok para crear falsificaciones sexuales no consentidas, incluyendo menores. Aunque Apple no retiró a X o Grok del App Store, afirmó que lo haría si se le pedía. En el evento WWDC de Apple en junio, se protestó la presencia de estas aplicaciones y en julio, un abogado de la ciudad de San Francisco ordenó a Apple que retirara 13 aplicaciones 'nudify' que violaban las leyes de protección a menores. La empresa ha estado trabajando para mejorar la seguridad y la privacidad en su plataforma. En el futuro, las aplicaciones que generen contenido explícito sin el consentimiento de las personas involucradas podrían enfrentar sanciones más severas. Apple busca proteger a sus usuarios y cumplir con las leyes de protección a menores. La empresa ha prometido investigar y tomar medidas contra las aplicaciones que violen estas nuevas reglas.
-
-Contexto IA (informativo):
-Estas medidas siguen las críticas hacia Apple por permitir la distribución de aplicaciones que generan contenido explícito sin el consentimiento de las personas involucradas. La empresa ha estado trabajando para mejorar la seguridad y la privacidad en su plataforma, y busca proteger a sus usuarios y cumplir con las leyes de protección a menores.</summary>
-    <published>2026-10-16T22:51:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/story/best-led-grow-lights/</id>
-    <title>[Tecnología] Las mejores luces de crecimiento LED para plantas de hogar en invierno (2026)</title>
-    <updated>2026-10-17T13:12:37.601065+00:00</updated>
+    <id>https://www.wired.com/story/xbox-disc-to-digital/</id>
+    <title>[Tecnología] Cómo funciona el programa de discos digitales de Xbox</title>
+    <updated>2026-10-19T13:05:54.146231+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/story/best-led-grow-lights/"/>
-    <summary>Aunque los días son más cortos, no significa que tus plantas de hogar sufran. En este artículo, presentamos nuestras recomendaciones de luces de crecimiento LED que hemos utilizado y amado en nuestras propias casas.
+    <link href="https://www.wired.com/story/xbox-disc-to-digital/"/>
+    <summary>Después de que Sony anunció planes para abandonar los discos físicos en 2028, Microsoft se convirtió en el centro de atención para ver si su consola de próxima generación, codenomada Project Helix, seguirá apoyando los medios físicos. El programa Disc to Digital permite a los jugadores reclamar copias digitales de sus juegos de Xbox Series X o Xbox One físicos, lo que los hace accesibles desde cualquier dispositivo con conexión a Internet. Aunque el proceso es relativamente sencillo, hay algunas complicaciones. Los juegos que no están incluidos en la lista de compatibilidad pueden no funcionar correctamente, lo que puede generar confusión. Sin embargo, con el tiempo, se espera que más títulos sean incluidos en la lista de compatibilidad. El programa Disc to Digital es una herramienta útil para aquellos que desean archivar sus colecciones de juegos físicos, pero también tiene sus limitaciones. En resumen, el programa Disc to Digital es una herramienta que permite a los jugadores reclamar copias digitales de sus juegos de Xbox Series X o Xbox One físicos, pero no es universal y hay juegos que no están incluidos en la lista de compatibilidad.
 
 Contexto IA (informativo):
-En este artículo, compartimos nuestras experiencias personales con diferentes modelos de luces de crecimiento LED y las razones por las que las elegimos para nuestros plantas de hogar.</summary>
-    <published>2026-10-17T11:30:00+00:00</published>
+El programa Disc to Digital es una herramienta que permite a los jugadores reclamar copias digitales de sus juegos de Xbox Series X o Xbox One físicos, lo que los hace accesibles desde cualquier dispositivo con conexión a Internet. Sin embargo, el programa no es universal y hay juegos que no están incluidos en la lista de compatibilidad.</summary>
+    <published>2026-10-19T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/digger-and-the-social-reckoning-have-the-same-problem-but-only-one-is-a-good-movie-2000824174</id>
-    <title>[Tecnología] Digger y The Social Reckoning comparten un problema, pero solo una de ellas es una buena película</title>
-    <updated>2026-10-17T13:12:37.601030+00:00</updated>
+    <id>https://www.theverge.com/policy/1013113/democrats-ai-midterms</id>
+    <title>[Tecnología] Los demócratas creen que restringir la inteligencia artificial les dará una ventaja</title>
+    <updated>2026-10-19T13:05:54.146199+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/policy/1013113/democrats-ai-midterms"/>
+    <summary>Los demócratas podrían recuperar el control del Congreso en las elecciones del medio mandato y, si lo hacen, tendrán que decidir cómo abordar una de las cuestiones políticas más recientes y difíciles del país: la inteligencia artificial. Las encuestas predicen que los demócratas cambiarán al menos una cámara del Congreso, lo que les dará la liderazgo de comités de nuevo. Esto podría generar una ola de nueva atención para las empresas de inteligencia artificial. Los demócratas de alto nivel en comités clave ya han indicado su voluntad de presionar la industria sobre los créditos fiscales vinculados a los centros de datos y las recientes incidentes de hacking, y tendrían la capacidad de establecer agendas de comités si toman el control, lo que les permitiría llamar a CEOs para ...
+
+Contexto IA (informativo):
+La cuestión de la regulación de la inteligencia artificial es cada vez más relevante en la política estadounidense. Los demócratas podrían aprovechar esta situación para reforzar su posición en el Congreso y demostrar su compromiso con la protección de la privacidad y la seguridad de los datos.</summary>
+    <published>2026-10-19T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/street-fighter-punches-its-way-to-top-of-the-box-office-2000827484</id>
+    <title>[Tecnología] Street Fighter Llega a la cima de las taquillas</title>
+    <updated>2026-10-19T13:05:54.146166+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/digger-and-the-social-reckoning-have-the-same-problem-but-only-one-is-a-good-movie-2000824174"/>
-    <summary>El director analiza las similitudes y diferencias entre las películas Digger y The Social Reckoning, destacando que ambas tienen un problema común: la falta de emoción en la trama. En Digger, el director se sumerge en la historia y se siente identificado con los personajes, mientras que en The Social Reckoning, la falta de emoción es evidente desde el principio. El director también critica la escritura del guionista Aaron Sorkin, que considera que es 'hokey' y llena de diálogos ridículos. Sin embargo, destaca que Digger es una película más atractiva y relevante para la actualidad, ya que explora temas como el cambio climático, la vigilancia tecnológica y el papel de la sátira en la sociedad.
+    <link href="https://gizmodo.com/street-fighter-punches-its-way-to-top-of-the-box-office-2000827484"/>
+    <summary>Street Fighter se convirtió en el gran ganador de la semana, recaudando $51.1 millones en todo el mundo, con $30 millones de los cuales provienen de los mercados estadounidenses. Aunque su rendimiento es inferior al de sus predecesores, el film sigue siendo un éxito. La reacción mixta de los críticos y los espectadores ha generado un gran debate en línea. Aunque el film costó solo $82 millones de producción, su éxito puede verse afectado en las próximas semanas debido a la creciente competencia. El equipo creativo quiere hacer más, pero es cuestión de si los números de taquilla o la audiencia final lograrán su objetivo. En comparación con otros filmes de videojuegos, Street Fighter se desempeña mejor que Resident Evil y Mortal Kombat II. El próximo fin de semana promete ser emocionante con varios filmes que se estrenan, incluyendo Wicker, Klara y el Sol, Clayface y Wildwood.
 
 Contexto IA (informativo):
-La película Digger es una sátira que explora la relación entre el arte y la realidad en un mundo que se está desvaneciendo ecológicamente. La película se centra en la pregunta de si el arte puede cambiar el mundo y si la sátira puede ser una herramienta efectiva para cuestionar la realidad. En contraste, The Social Reckoning es una película que se centra en la vida de Mark Zuckerberg y la lucha contra la manipulación de la información en la era digital.</summary>
-    <published>2026-10-17T12:00:34+00:00</published>
+El éxito de Street Fighter puede ser visto como un ejemplo de cómo los videojuegos pueden adaptarse a la gran pantalla de manera exitosa. Sin embargo, es importante recordar que el film no es una adaptación directa del juego, sino más bien una interpretación creativa que busca capturar la esencia del personaje de Ryu. El equipo creativo ha demostrado un gran conocimiento del universo de Street Fighter, lo que ha contribuido a su éxito.</summary>
+    <published>2026-10-19T12:00:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/</id>
-    <title>[Tecnología] Apple actualiza las reglas del App Store para evitar la publicación de aplicaciones de nudificación con inteligencia artificial</title>
-    <updated>2026-10-17T13:12:37.600994+00:00</updated>
+    <id>https://www.engadget.com/2287123/ethernet-2-5-g-port-router-what-it-does/</id>
+    <title>[Tecnología] ¿Cuál es el propósito del puerto de 2.5G Ethernet en tu router?</title>
+    <updated>2026-10-19T13:05:54.146132+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/"/>
-    <summary>Apple ha actualizado su política de moderación para el App Store para asegurarse de que las personas no utilicen aplicaciones, incluyendo aquellas que utilizan herramientas de inteligencia artificial, para 'nudificar' o convertir imágenes normales en contenido explícitamente sexual. Los desarrolladores con aplicaciones que albergan contenido generado por los usuarios deben filtrar imágenes explícitamente no consentidas, incluyendo aquellas generadas con herramientas de inteligencia artificial. También deben proporcionar a los usuarios una forma de reportar contenido ofensivo y bloquear cuentas abusivas. Además, Apple ha aclarado sus reglas para aplicaciones que utilizan tácticas de engaño, y si encuentra que una aplicación ha representado mal su propósito durante la revisión y que en realidad tiene capacidades de 'nudificación', la eliminará del store y su creador del Programa de Desarrolladores de Apple.
+    <link href="https://www.engadget.com/2287123/ethernet-2-5-g-port-router-what-it-does/"/>
+    <summary>Los puertos de 2.5G Ethernet en tu router pueden ofrecer velocidades de hasta 2.5 Gbps, lo que puede ser beneficioso para tareas que requieren grandes cantidades de banda, como transferir archivos grandes o realizar respaldos de la nube. Sin embargo, para aprovechar estas velocidades, es necesario que tu router, computadora y cable de Ethernet sean compatibles y que tu plan de internet sea al menos de 2.5 Gbps. Además, aunque la velocidad de internet puede ser lenta, se puede aprovechar la velocidad del puerto de 2.5G en la red local, como almacener archivos en un NAS. En resumen, el puerto de 2.5G Ethernet puede ofrecer velocidades significativamente más rápidas que los puertos estándar Ethernet, lo que puede ser beneficioso para ciertas tareas, pero no necesariamente mejora la experiencia de Netflix o juegos en línea.
 
 Contexto IA (informativo):
-Estas medidas buscan proteger a los usuarios de contenido explícito y evitar que las aplicaciones se utilicen para fines no intencionados.</summary>
-    <published>2026-10-17T12:35:56+00:00</published>
+En la actualidad, la mayoría de los routers de internet ofrecen puertos de Ethernet estándar de 1 Gbps, mientras que los puertos de 2.5G Ethernet son una opción más avanzada que puede ofrecer velocidades significativamente más rápidas. Sin embargo, es importante tener en cuenta que la compatibilidad y la velocidad de internet son factores importantes para aprovechar al máximo estas velocidades.</summary>
+    <published>2026-10-19T12:15:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/</id>
-    <title>[Tecnología] Hábitos de carga comunes que pueden dañar la batería de tu vehículo eléctrico</title>
-    <updated>2026-10-17T13:12:37.600958+00:00</updated>
+    <id>https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware</id>
+    <title>[Tecnología] Vibe coding revoluciona el mundo de la música electrónica</title>
+    <updated>2026-10-19T13:05:54.146099+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware"/>
+    <summary>Los codigos de vibe están convirtiendo a los dispositivos de música electrónica en herramientas poderosas y divertidas que trascienden su precio de venta. En los foros de r/synthesizers y en las plataformas de YouTube, se ha observado un auge en los codigos personalizados para los sintetizadores, grabadores y relojes de ritmo. Estos codigos están posibles gracias a herramientas de codificación de vibe cada vez más sofisticadas. Ahora, los hackers de hobbies pueden convertir los sintetizadores de Temu en relojes de ritmo completos en un par de días, lo que era imposible en los días anteriores. Esto ha abierto nuevas posibilidades para la creatividad y la experimentación en la música electrónica.
+
+Contexto IA (informativo):
+La creciente popularidad de los codigos de vibe ha llevado a una nueva generación de músicos y hackers a explorar las posibilidades de la música electrónica. Mientras tanto, las empresas de música electrónica están comenzando a notar la importancia de la personalización y la innovación en sus productos.</summary>
+    <published>2026-10-19T12:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2287344/unexpected-uses-old-playstation-3/</id>
+    <title>[Tecnología] 6 usos inesperados para tu viejo PlayStation 3</title>
+    <updated>2026-10-19T13:05:54.146066+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/"/>
-    <summary>Los hábitos de carga comunes pueden dañar la batería de tu vehículo eléctrico. Es importante evitar cargar hasta el 100% cada vez, ya que esto puede acelerar la degradación. También es importante evitar cargar en temperaturas extremas y utilizar cargadores de alta velocidad solo cuando sea necesario. Mantener la batería entre el 20% y el 80% puede ayudar a prolongar su vida útil. Además, minimizar el uso intenso del vehículo y mantenerlo protegido del sol y la lluvia también pueden ayudar a prolongar la vida de la batería. Es importante recordar que cada vehículo es diferente y es importante investigar las recomendaciones específicas para tu vehículo.
+    <link href="https://www.engadget.com/2287344/unexpected-uses-old-playstation-3/"/>
+    <summary>Aunque la mayoría de los servicios de terceros han abandonado el PlayStation 3, este consola sigue siendo útil. Puedes usarlo para reproducir películas desde tu PC, jugar discos de Blu-ray, ripear CDs y emular juegos retro. También puedes utilizarlo como discjuego, reproducir audio CDs, DVDs y Blu-rays, y transmitir contenido desde tu PC. Asegúrate de mantener actualizado tu consola para seguir viendo películas de Blu-ray.
 
 Contexto IA (informativo):
-Aunque los vehículos eléctricos son más caros que deberían serlo, ofrecen varias ventajas, como ser más silenciosos que los motores de combustión, ser más económicos de mantener y tener una mayor eficiencia energética. Sin embargo, es importante tratar el vehículo como un smartphone y seguir las recomendaciones de carga para prolongar la vida útil de la batería.</summary>
-    <published>2026-10-17T12:45:00+00:00</published>
+El PlayStation 3 es un consola de dos décadas de antigüedad que sigue siendo útil, aunque muchos servicios de terceros ya no lo apoyan. Sin embargo, hay varias formas de aprovechar su capacidad, desde reproducir contenido hasta emular juegos retro.</summary>
+    <published>2026-10-19T12:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://trustsig.eu/blog/javascript-divergence/</id>
-    <title>[Programación] El formato de JavaScript puede convertir un programa en otro</title>
-    <updated>2026-10-17T13:12:37.600920+00:00</updated>
+    <id>https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming</id>
+    <title>[Programación] Es aún aceptable disfrutar de la programación</title>
+    <updated>2026-10-19T13:05:54.146032+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://trustsig.eu/blog/javascript-divergence/"/>
-    <summary>Un formato de JavaScript puede convertir un programa en otro, incluso si el código original es reconocido por herramientas de desarrollo como Chromium DevTools. Esto se debe a que los procesadores de JavaScript tienen errores que pueden generar lógica diferente. Este fenómeno se conoce como 'divergencia' y tiene implicaciones importantes para la seguridad y la privacidad en línea. Los desarrolladores deben ser conscientes de este problema y tomar medidas para proteger sus aplicaciones.
+    <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"/>
+    <summary>El autor destaca la importancia de disfrutar de la programación, incluso en un entorno laboral donde la economía de la programación hecha a mano ha cambiado. Aunque es trabajo, no es la vida. El autor comparte su experiencia de programar en sus días libres y cómo disfruta de la exploración y el aprendizaje. También habla sobre la presión social que siente para dejar de disfrutar de la programación y cómo es importante encontrar la felicidad en las cosas que se hace.
 
 Contexto IA (informativo):
-La divergencia es un problema de seguridad que afecta a las aplicaciones escritas en JavaScript. Los procesadores de JavaScript pueden generar lógica diferente al formato el código, lo que puede hacer que un programa sea ejecutado de manera diferente que el original. Esto tiene implicaciones importantes para la seguridad y la privacidad en línea.</summary>
-    <published>2026-10-16T23:18:20+00:00</published>
+El autor se refiere a la presión social que siente para dejar de disfrutar de la programación y cómo es importante encontrar la felicidad en las cosas que se hace. Este tema es relevante en la actualidad, donde la tecnología y la programación están cada vez más presentes en nuestras vidas.</summary>
+    <published>2026-10-18T16:33:28+00:00</published>
   </entry>
   <entry>
-    <id>https://ngrok.com/blog/compression-is-prediction</id>
-    <title>[Programación] La compresión es predicción</title>
-    <updated>2026-10-17T13:12:37.600869+00:00</updated>
+    <id>https://sindresorhus.com/blog/swift-website</id>
+    <title>[Programación] Este sitio web ahora está hecho en Swift</title>
+    <updated>2026-10-19T13:05:54.145997+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://ngrok.com/blog/compression-is-prediction"/>
-    <summary>La compresión es un proceso que busca reducir el tamaño de los datos al identificar patrones y redundancias. Los algoritmos de compresión, como gzip y Brotli, utilizan técnicas como la codificación de run-length y la codificación de entropía para reducir el tamaño de los datos. La compresión es un proceso que se basa en la predicción de la probabilidad de cada símbolo en el texto, lo que permite reducir el tamaño de los datos de manera eficiente. La compresión es un proceso que se utiliza en muchos campos, incluyendo la compresión de datos, la codificación de texto y la compresión de imágenes.
+    <link href="https://sindresorhus.com/blog/swift-website"/>
+    <summary>Este sitio web ha sido reescrito en Swift, lo que permite una mayor eficiencia y seguridad. El compilador de Swift detecta errores antes de que los visitantes lo hagan, lo que reduce la cantidad de errores y mejoras la experiencia del usuario. El sitio web utiliza una combinación de HTML, CSS y JavaScript, pero todo se compila en Swift, lo que permite una mayor precisión y seguridad.
 
 Contexto IA (informativo):
-La compresión de datos es un proceso que se utiliza para reducir el tamaño de los datos y mejorar la eficiencia en la transferencia y almacenamiento de datos. La compresión de datos es un proceso que se basa en la identificación de patrones y redundancias en los datos, lo que permite reducir el tamaño de los datos de manera eficiente.</summary>
-    <published>2026-10-17T01:00:59+00:00</published>
+El autor de este sitio web ha expresado su amor por trabajar con Swift, lo que permite una mayor eficiencia y seguridad en el desarrollo de sitios web. El sitio web utiliza una combinación de tecnologías para ofrecer una experiencia de usuario óptima.</summary>
+    <published>2026-10-19T05:43:15+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/clydaralab/perplexity-open-sourced-space-the-vm-held-the-network-rules-did-not-58j8</id>
-    <title>[Programación] Perplexity open-sourcing SPACE: la plataforma de sandbox con seguridad reforzada</title>
-    <updated>2026-10-17T13:12:37.600782+00:00</updated>
+    <id>https://tomalard.github.io/posts/pcodec-is-awesome/</id>
+    <title>[Programación] pcodec es increíble! 15% más pequeño y 2 veces más rápido que DoubleDelta de ClickHouse</title>
+    <updated>2026-10-19T13:05:54.145962+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://tomalard.github.io/posts/pcodec-is-awesome/"/>
+    <summary>Dos semanas atrás, publicé sobre cómo ClickHouse comprimía Parquet en mi conjunto de datos IoT. Sin embargo, solo días después, pcodec se fusionó con ClickHouse y mejoró significativamente la proporción de compresión mientras también redujo la velocidad de descompresión con respecto a la anterior esquema. Aunque es un codec especializado y sofisticado, pensé en hacer un post donde intento explicar las ideas conceptuales clave detrás de él. ¡Disfruta!
+
+Contexto IA (informativo):
+En este post, exploraremos las ideas clave detrás de pcodec y cómo se compara con otras esquemas de compresión en ClickHouse.</summary>
+    <published>2026-10-19T08:38:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/shreyas_61d0fbfe708d7aad9/about-hacktoberfest-2og7</id>
+    <title>[Programación] Acerca de Hacktoberfest</title>
+    <updated>2026-10-19T13:05:54.145926+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/clydaralab/perplexity-open-sourced-space-the-vm-held-the-network-rules-did-not-58j8"/>
-    <summary>Perplexity ha abierto fuentes de la plataforma de sandbox SPACE, que ofrece una solución segura para ejecutar código en un entorno aislado. La plataforma ha demostrado su eficacia en la detección de vulnerabilidades y ha sido adoptada por varias empresas, incluyendo Akamai y CoreWeave. Sin embargo, se han encontrado vulnerabilidades en la red, lo que ha llevado a Perplexity a implementar medidas de seguridad adicionales. La plataforma es escrita en Rust y utiliza protocolos de servidor-sent events para la comunicación. Su escala es impresionante, ya que maneja millones de creaciones de sandbox por día. La plataforma es una opción atractiva para aquellos que buscan una solución segura para ejecutar código en un entorno aislado.
+    <link href="https://dev.to/shreyas_61d0fbfe708d7aad9/about-hacktoberfest-2og7"/>
+    <summary>Hacktoberfest es un hackathon de mano organizado por Major League Hacking en la BMS College of Engineering. Fue un espacio ideal para sumergirme en código abierto, conocer a otros constructores y afilar mis habilidades de colaboración. El evento me inspiró a seguir aprendiendo, construyendo y contribuyendo a proyectos reales.
 
 Contexto IA (informativo):
-La plataforma de sandbox SPACE es una solución segura para ejecutar código en un entorno aislado. Su implementación en la industria de la inteligencia artificial y la seguridad ha demostrado su eficacia en la detección de vulnerabilidades y su capacidad para manejar grandes cantidades de tráfico.</summary>
-    <published>2026-10-17T12:54:51+00:00</published>
+El evento se llevó a cabo en el campus de la BMS College of Engineering, donde se reunieron más de 500 participantes de todo el mundo.</summary>
+    <published>2026-10-19T12:52:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/vijay_g_adefbd244d79c4c38/top-iot-platforms-for-students-and-developers-in-2026-1jef</id>
+    <title>[Programación] Las mejores plataformas IoT para estudiantes y desarrolladores en 2026</title>
+    <updated>2026-10-19T13:05:54.145874+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/vijay_g_adefbd244d79c4c38/top-iot-platforms-for-students-and-developers-in-2026-1jef"/>
+    <summary>La plataforma IoT está evolucionando rápidamente en 2026. Para los estudiantes de ingeniería trabajando en un proyecto de final de carrera, los entusiastas construyendo automatización inteligente en casa o los desarrolladores prototipando soluciones AIoT, seleccionar la plataforma de IoT adecuada es crucial para el éxito. En este artículo, cubrimos las 10 mejores plataformas de IoT en 2026, diseñadas específicamente para estudiantes, makers y desarrolladores, considerando la facilidad de uso, el precio, la visualización en tiempo real y el soporte a protocolos. Las plataformas destacadas son: Blynk IoT Platform, KiwisIoT, ThingsBoard (Open Source), Arduino Cloud, ThingSpeak (by MathWorks) y AWS IoT Core. Cada plataforma ofrece características únicas y ventajas para diferentes usuarios. Es importante investigar y comparar las características de cada plataforma para encontrar la mejor opción para tus necesidades específicas.
+
+Contexto IA (informativo):
+Las plataformas de IoT están evolucionando rápidamente y ofrecen una amplia gama de opciones para los estudiantes y desarrolladores. Algunas plataformas están diseñadas específicamente para la automatización inteligente en casa, mientras que otras son ideales para la investigación académica o la creación de soluciones AIoT. En este artículo, exploraremos las mejores plataformas de IoT en 2026 y cómo pueden ayudarte a lograr tus objetivos.</summary>
+    <published>2026-10-19T12:53:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/reporails/state-of-ai-instruction-quality-files-with-persona-lines-score-lower-3dff</id>
+    <title>[Programación] Calidad de las instrucciones de AI: archivos principales con líneas de persona obtienen puntuaciones más bajas</title>
+    <updated>2026-10-19T13:05:54.145787+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/reporails/state-of-ai-instruction-quality-files-with-persona-lines-score-lower-3dff"/>
+    <summary>Los archivos principales con líneas de persona obtienen puntuaciones más bajas que el resto, independientemente del tamaño. Estas líneas se utilizan para indicar al agente quién es y su función. Se han encontrado que nearly la mitad de estos archivos tienen una instrucción que se expresa de manera ambigua, lo que puede confundir al agente. Además, se han encontrado que estos archivos tienen más prohibiciones y menos instrucciones claras. Es importante escribir estas líneas de manera clara y concisa para evitar confusiones y asegurar que el agente actúe de manera correcta. Por ejemplo, en lugar de escribir 'You are a senior engineer', se puede escribir 'Senior engineer who prioritizes type safety' para que el agente entienda claramente quién es y qué función tiene.
+
+Contexto IA (informativo):
+La calidad de las instrucciones de AI es un tema importante en la actualidad, ya que las máquinas pueden aprender y mejorar con el tiempo. Es fundamental escribir estas instrucciones de manera clara y concisa para asegurar que el agente actúe de manera correcta y no cometa errores. En este artículo, se analiza la calidad de las líneas de persona en archivos principales y se presentan recomendaciones para mejorar la calidad de estas instrucciones.</summary>
+    <published>2026-10-19T12:53:27+00:00</published>
   </entry>
 </feed>
