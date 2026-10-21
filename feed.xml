@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-20T13:10:04.867797+00:00</updated>
+  <updated>2026-10-21T13:42:48.516840+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,381 +11,381 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20</id>
-    <title>[Economía] Noticias del mercado de petróleo más recientes y análisis para Octubre 20</title>
-    <updated>2026-10-20T13:10:04.868993+00:00</updated>
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs</id>
+    <title>[Economía] Aerolíneas Unidas subestiman sus ganancias, presionadas por los altos costos de combustible de avión</title>
+    <updated>2026-10-21T13:42:48.517803+00:00</updated>
     <author>
       <name>Bloomberg Markets</name>
     </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20"/>
-    <summary>El precio del petróleo de Brent alcanzó un récord de cinco meses mientras los comerciantes consideraban la amenaza de ataques iraníes que podrían afectar las flujas de energía, lo que ya ha llevado a precios de combustible en todo el mundo a aumentar
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs"/>
+    <summary>Aerolíneas Unidas ha subestimado sus ganancias para el último trimestre del año, lo que refleja cómo los altos precios del combustible de avión están reduciendo las ganancias aéreas, a pesar de la demanda de viaje resbalosa. La empresa ha mantenido su política de precios y no ha anunciado planes para reducir la flota. Los expertos consideran que esto podría afectar negativamente la rentabilidad de la aerolínea en el futuro.
 
 Contexto IA (informativo):
-Los precios de combustible ya están elevados en muchas partes del mundo, lo que podría empeorar la situación si los ataques iraníes se producen.</summary>
-    <published>2026-10-19T22:04:11+00:00</published>
+Los precios del combustible de avión han aumentado significativamente en los últimos meses, lo que ha afectado a muchas aerolíneas. A pesar de esto, la demanda de viaje sigue siendo fuerte, lo que ha permitido a algunas aerolíneas mantener sus ganancias.</summary>
+    <published>2026-10-20T20:01:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html</id>
-    <title>[Economía] Trump Anuncia Plan de $8 Mil Millones para Cubrir Pérdidas de la Granja</title>
-    <updated>2026-10-20T13:10:04.868955+00:00</updated>
+    <id>https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1</id>
+    <title>[Economía] El apuesto juego de Musk: unión de Tesla y SpaceX a un costo de $3.6tn</title>
+    <updated>2026-10-21T13:42:48.517772+00:00</updated>
     <author>
-      <name>NYT &gt; Business</name>
+      <name>International homepage</name>
     </author>
-    <link href="https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html"/>
-    <summary>El presidente Trump ha anunciado un plan para proporcionar ayuda económica a los agricultores afectados por los altos precios de diésel. El programa de alivio del combustible de la cosecha (Harvest Fuel Relief) ofrecerá apoyo financiero a los granjeros que han sufrido pérdidas debido a los precios de diésel altos. El Departamento de Agricultura proporcionará ayuda económica para ayudar a los granjeros a recuperarse de las pérdidas. El plan busca reducir la carga financiera para los agricultores y ayudarlos a mantener su negocio. El programa también incluirá medidas para mejorar la eficiencia energética en las granjas y reducir la dependencia de los combustibles fósiles.
+    <link href="https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1"/>
+    <summary>El hombre más rico del mundo intenta su más audaz operación hasta la fecha. Sin embargo, los accionistas y reguladores globales necesitarán convencerlos
 
 Contexto IA (informativo):
-El anuncio se ha hecho en un momento en que muchos agricultores están enfrentando dificultades financieras debido a los altos precios de diésel y la sequía en varias regiones del país.</summary>
-    <published>2026-10-20T12:12:44+00:00</published>
+Este movimiento podría tener implicaciones significativas para la industria del automóvil y la exploración espacial, y sus efectos en el mercado y la economía aún no están claros.</summary>
+    <published>2026-10-21T09:50:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-20/french-riots-seen-as-insurance-test-before-new-regime-kicks-in</id>
-    <title>[Economía] Riots en Francia vistas como prueba de seguro antes de que entre un nuevo régimen</title>
-    <updated>2026-10-20T13:10:04.868916+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-20/french-riots-seen-as-insurance-test-before-new-regime-kicks-in"/>
-    <summary>Los disturbios recientes en Francia harán demostrar la extensión de la cobertura actual de seguros, justo meses antes de que entre un nuevo sistema de seguros estatal, según los analistas de DBRS Morningstar. La situación actual en Francia está siendo monitoreada de cerca por los expertos, quienes esperan que los disturbios revelen las debilidades del sistema de seguros existente. El nuevo régimen de seguros estatal se espera que entre en vigor en el próximo año, y los analistas creen que los disturbios serán una prueba de su efectividad.
-
-Contexto IA (informativo):
-El nuevo sistema de seguros estatal se espera que reduzca la dependencia de las seguridades privadas y brinde una mayor estabilidad a la economía francesa.</summary>
-    <published>2026-10-20T12:32:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html</id>
-    <title>[Economía] Inversores esperan con ansias el próximo gran acuerdo de SpaceX de Musk</title>
-    <updated>2026-10-20T13:10:04.868880+00:00</updated>
-    <author>
-      <name>NYT &gt; Business</name>
-    </author>
-    <link href="https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html"/>
-    <summary>Los inversores y analistas probablemente presionarán a Elon Musk sobre la inversión de SpaceX en inteligencia artificial y si podría buscar combinar la empresa con Tesla. La situación es compleja y los inversores buscan claridad sobre el futuro de la compañía. La combinación con Tesla podría ofrecer beneficios significativos, pero también plantea riesgos y desafíos. Los inversores esperan una respuesta clara de Musk sobre sus planes.
-
-Contexto IA (informativo):
-La reunión se llevará a cabo en el próximo Congreso de Inversores de la industria aeroespacial, donde Musk presentará sus planes para el futuro de SpaceX.</summary>
-    <published>2026-10-20T12:38:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html</id>
-    <title>[Economía] Reinueran la defensa de las ciudades sauditas con la ayuda de la RAF</title>
-    <updated>2026-10-20T13:10:04.868842+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html</id>
+    <title>[Economía] SpaceX aumenta 8% en premercado después de superar las expectativas de ganancias y Musk anuncia una posible alianza con Tesla</title>
+    <updated>2026-10-21T13:42:48.517739+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html"/>
-    <summary>El Reino Unido ha anunciado que proporcionará apoyo militar defensivo, incluyendo cazas de combate, a Saudi Arabia para ayudar a defender las ciudades del país contra los ataques de los rebeldes huidistas. Los ataques han aumentado en intensidad en las últimas semanas, causando daños a instalaciones de petróleo y aérdos en la capital Riyadh. El gobierno británico ha asegurado que los cazas de combate operarán en un rol defensivo y no realizarán ataques ofensivos contra los rebeldes. La ayuda militar británica se suma a la misión existente del país en Arabia Saudita. El gobierno británico ha advertido que la escalada de la violencia en el Golfo puede tener consecuencias graves para la economía británica y para la población civil en Yemen. El Reino Unido condena las ataques contra objetivos civiles y defiende la capacidad de Arabia Saudita y Yemen para defenderse. La situación en Yemen se ha intensificado debido a la guerra civil y a la guerra entre Irán y Estados Unidos. En Yemen, al menos 53 personas han sido killedas en un ataque de misiles contra un campamento militar en el sur del país.
+    <link href="https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"/>
+    <summary>SpaceX reportó un crecimiento del 161% en sus ganancias en el tercer trimestre, superando las expectativas de los analistas. La empresa, que es propiedad de Elon Musk, también anunció que está considerando una posible alianza con Tesla, lo que marcaría el mayor acuerdo de fusión en la historia. Musk destacó que la combinación de las dos empresas podría ser beneficiosa debido a la convergencia en la inteligencia artificial. Las acciones de SpaceX aumentaron el 8,25% en premercado, mientras que las de Tesla subieron el 1,4%.
 
 Contexto IA (informativo):
-La situación en Yemen se ha vuelto cada vez más tensa debido a la guerra civil y a la guerra entre Irán y Estados Unidos. La región se encuentra en un estado de alerta, con una serie de ataques de misiles y drones que han causado daños a instalaciones críticas y han provocado la muerte de muchas personas.</summary>
-    <published>2026-10-20T12:58:24+00:00</published>
+La noticia de la posible alianza entre SpaceX y Tesla generó una reacción positiva en el mercado, con las acciones de otras empresas del sector del espacio también subiendo. SpaceX prevé que sus ganancias en el primer trimestre de 2027 superen los $33 mil millones, lo que superaría las expectativas de los analistas. La empresa también destacó el crecimiento de su negocio de inteligencia artificial, que se espera que siga creciendo en el futuro.</summary>
+    <published>2026-10-21T12:23:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows</id>
-    <title>[Data Science] Claude Haiku 5.5: Nuevas características y cómo utilizarlas para flujos de trabajo de AI rápidos y económicos</title>
-    <updated>2026-10-20T13:10:04.868804+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html</id>
+    <title>[Economía] Nvidia lanza contenedores de racks de AI que se pueden transportar en un camión</title>
+    <updated>2026-10-21T13:42:48.517706+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows"/>
-    <summary>Claude Haiku 5.5 es el modelo más pequeño y capaz de Anthropic, con una lista de precios reducida en un 90% y una ventana de contexto de 1M tokens. El modelo es ideal para flujos de trabajo de alta volumen y costos sensibles, como resúmenes, compactación de datos y clasificación. La versión 5.5 es más segura que la versión 4.5 y bloquea pruebas de penetración. Para utilizar el modelo, se necesita Python 3.10 o superior y una API key de la consola de Claude. El modelo es disponible en la plataforma de Claude, AWS, Google Cloud y Microsoft Azure. La versión 5.5 de Haiku es más capaz que la versión 4.5, pero su uso puede requerir ajustes en el código. El modelo es más económico que la versión 4.5, pero su precio puede variar dependiendo del uso. El modelo es ideal para flujos de trabajo de clasificación y extracción de datos. El modelo es más seguro que la versión 4.5 y bloquea pruebas de penetración. El modelo es más capaz que la versión 4.5, pero su uso puede requerir ajustes en el código. El modelo es más económico que la versión 4.5, pero su precio puede variar dependiendo del uso.
+    <link href="https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html"/>
+    <summary>Nvidia ha anunciado un nuevo producto que integra siete racks de su plataforma de inteligencia artificial en un contenedor de transporte, lo que permite a los clientes tener sistemas completos de computación de inteligencia artificial. El contenedor, llamado DSX Pod AI Factory, pesa aproximadamente 28.000 kilogramos y se puede transportar en un camión normal. El sistema reduce el tiempo de inicio de un nuevo centro de datos de inteligencia artificial de seis meses a solo 14 días. La empresa no ha anunciado un precio para el sistema, pero se estima que un solo rack de inteligencia artificial puede costar más de $7 millones. El DSX Pod es una referencia de diseño que se enviará desde los socios de fabricación de Nvidia, incluyendo Foxconn, Gigabyte, Lenovo, HPE, Quanta y Pegatron. Las entregas se esperan a principios de 2027.
 
 Contexto IA (informativo):
-Anthropic ha lanzado la versión 5.5 de su modelo de lenguaje Claude Haiku, que es el más pequeño y capaz de su línea de productos. La versión 5.5 ofrece una lista de precios reducida en un 90% y una ventana de contexto de 1M tokens, lo que la hace ideal para flujos de trabajo de alta volumen y costos sensibles. La versión 5.5 es más segura que la versión 4.5 y bloquea pruebas de penetración, lo que la hace una opción más recomendada para aplicaciones que requieren una alta seguridad.</summary>
-    <published>2026-10-19T16:00:00+00:00</published>
+Nvidia ha evolucionado desde una empresa de chips hasta una empresa que ofrece soluciones de red, almacenamiento y necesidades de centro de datos a sus clientes. Sus sistemas de inteligencia artificial han avanzado desde un solo chip de procesamiento gráfico hasta servidores con cuatro o ocho GPUs, y ahora hasta contenedores de racks integrados.</summary>
+    <published>2026-10-21T12:43:49+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/</id>
-    <title>[Data Science] ¿Qué hay en el cofre? Distinguir trazos aceptables de los inaceptables</title>
-    <updated>2026-10-20T13:10:04.868766+00:00</updated>
+    <id>https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video</id>
+    <title>[Economía] Los fanáticos de la música brasileña entran en la política</title>
+    <updated>2026-10-21T13:42:48.517674+00:00</updated>
+    <author>
+      <name>Bloomberg Markets</name>
+    </author>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video"/>
+    <summary>La música brasileña refleja la disputa política en el país, según Barbara Nascimento. La edición de Patricia Xavier de Bloomberg analiza este tema. La música es un reflejo de la diversidad cultural brasileña y su influencia en la política es significativa. La disputa política en Brasil se refleja en la música y en la cultura en general.
+
+Contexto IA (informativo):
+La música brasileña es un reflejo de la riqueza cultural del país y su influencia en la política es un tema de debate. La edición de Patricia Xavier de Bloomberg ofrece una perspectiva neutral sobre este tema.</summary>
+    <published>2026-10-21T13:20:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html</id>
+    <title>[Economía] Cómo The New York Times informa sobre imágenes de A.I.</title>
+    <updated>2026-10-21T13:42:48.517642+00:00</updated>
+    <author>
+      <name>NYT &gt; Business</name>
+    </author>
+    <link href="https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html"/>
+    <summary>Un reportero de The New York Times y los editores discuten los desafíos de distinguir entre lo real y lo falso en la búsqueda de noticias. La empresa ha implementado un sistema de verificación de imágenes que utiliza inteligencia artificial para identificar y eliminar las falsas. Además, los periodistas deben ser cautelosos al compartir imágenes que puedan ser manipuladas. La empresa también ha establecido un equipo de especialistas en inteligencia artificial para ayudar a los periodistas a identificar las imágenes falsas.
+
+Contexto IA (informativo):
+La empresa ha estado trabajando para mejorar la precisión de sus informes y evitar la difusión de noticias falsas. Los periodistas de The New York Times deben ser conscientes de la importancia de verificar la información antes de publicarla.</summary>
+    <published>2026-10-21T13:21:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/</id>
+    <title>[Data Science] Construyendo un analista de inteligencia artificial, paso a paso</title>
+    <updated>2026-10-21T13:42:48.517610+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/"/>
+    <summary>En este episodio, se explora la relación entre la cantidad de corredores en el primer tiempo y el resultado final de un partido. Se analiza la cantidad de veces que los equipos que corren más en el primer tiempo ganan, y se comparan los resultados con los equipos que corren menos. Se discuten las limitaciones de la relación y se presentan algunos ejemplos de juegos que no se ajustan a la tendencia general. El objetivo es entender cómo la estrategia de correr puede influir en el resultado de un partido. Se presentan los resultados de la investigación y se discuten las implicaciones para los fanáticos de fútbol americano.
+
+Contexto IA (informativo):
+Este episodio forma parte de una serie de investigaciones que buscan entender cómo la inteligencia artificial puede ayudar a los fanáticos de fútbol americano a tomar decisiones informadas. La serie busca analizar diferentes estrategias y técnicas utilizadas por los equipos de fútbol americano y explorar cómo la inteligencia artificial puede ayudar a mejorar la comprensión de estas estrategias.</summary>
+    <published>2026-10-19T15:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/</id>
+    <title>[Data Science] Construyendo un pipeline para rastrear el mercado laboral en el que estoy tratando de ingresar.</title>
+    <updated>2026-10-21T13:42:48.517577+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/"/>
-    <summary>Este artículo explora la importancia de distinguir entre trazos aceptables y inaceptables en los sistemas de agentes. El autor analiza cómo los equipos pueden utilizar un marco de evaluación unificado para identificar las mejoras sin comprometer la calidad. El problema empresarial viene primero, y se discuten las prioridades que afectan a los sistemas de agentes, como la precisión, el presupuesto y la velocidad. El autor propone un enfoque para traducir los objetivos empresariales en un lenguaje que los equipos de agentes puedan entender, lo que permite evaluar las configuraciones de agentes de manera significativa. El artículo también destaca la importancia de considerar las limitaciones de las evaluaciones separadas y cómo un enfoque integral puede ayudar a los equipos a tomar decisiones informadas. Finalmente, el autor presenta un marco de evaluación unificado que puede ser utilizado para evaluar las configuraciones de agentes y priorizar las mejoras sin comprometer la calidad.
+    <link href="https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/"/>
+    <summary>El autor describe su proceso de creación de un pipeline para rastrear el mercado laboral en el que está tratando de ingresar. Comienza explicando cómo construyó dos pipelines anteriores, uno para extracción de datos de GitHub y otro para extracción de artículos de tecnología de RSS. Luego, describe su nuevo proyecto, Level 3, que busca rastrear roles abiertos y tendencias en el mercado laboral. El autor describe los desafíos que enfrentó al elegir una herramienta de orchestration y al configurar su warehouse, y cómo aprendió a manejar la carga incremental de datos. Finalmente, destaca la importancia de la documentación y la transparencia en el proceso de aprendizaje.
 
 Contexto IA (informativo):
-El artículo se centra en la importancia de la evaluación integral de los sistemas de agentes, que puede ayudar a los equipos a tomar decisiones informadas y mejorar la calidad de los resultados. El autor destaca la necesidad de considerar las prioridades empresariales y traducir los objetivos en un lenguaje que los equipos de agentes puedan entender. Esto permite evaluar las configuraciones de agentes de manera significativa y priorizar las mejoras sin comprometer la calidad.</summary>
-    <published>2026-10-20T11:00:00+00:00</published>
+El autor destaca la importancia de la documentación y la transparencia en el proceso de aprendizaje, y cómo construir un pipeline para rastrear el mercado laboral en el que no se está empleado puede ser un desafío. Sin embargo, también destaca la importancia de la perseverancia y la capacidad de aprender de los errores.</summary>
+    <published>2026-10-21T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-docker-containers-for-devs</id>
-    <title>[Data Science] 5 Contenedores Docker para Desarrolladores</title>
-    <updated>2026-10-20T13:10:04.868725+00:00</updated>
+    <id>https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills</id>
+    <title>[Data Science] 5 Mejores Repositorios de GitHub para Habilidades de Agente de Inteligencia Artificial</title>
+    <updated>2026-10-21T13:42:48.517544+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/5-docker-containers-for-devs"/>
-    <summary>5 contenedores Docker que reemplazan a las utilidades públicas donde se filtran datos de desarrolladores de manera silenciosa. Aprende cuáles manejan la decodificación de JWT, la transformación de datos, la conversión de archivos, pruebas de API y renderizado de diagramas localmente. Estos contenedores ofrecen una solución rápida y sencilla para realizar tareas que de otro modo requerirían 15 minutos de configuración para un trabajo que puede realizarse en solo 5 segundos. Cada uno es un pequeño servicio local que realiza una tarea recurrente en tu propio equipo: inspeccionar, transformar, convertir, probar y renderizar diagramas. Estos contenedores no son infraestructura de inteligencia artificial y no sobreponen con los contenedores de desarrolladores agentes KDnuggets que cubrieron anteriormente. Estos contenedores son herramientas de utilidad que simplifican tareas que de otro modo requerirían buscar y instalar herramientas por separado. El primer contenedor es IT-Tools, que es una aplicación web que contiene todas las herramientas que un desarrollador busca por separado, como la formatación de JSON, la decodificación de JWT, la conversión de Base64, la generación de hashes, la verificación de reglas de expresión y la conversión de colores y fechas. El segundo contenedor es CyberChef, que es una herramienta de transformación de datos que permite realizar una secuencia de operaciones en una sola vez, como la decodificación de hex, la descompresión de gzip y la formatación de texto en UTF-16. El tercer contenedor es ConvertX, que es una herramienta de conversión de archivos que permite convertir archivos de diferentes formatos, como FFmpeg para videos, ImageMagick para imágenes, LibreOffice y Pandoc para documentos, Calibre para libros electrónicos y Inkscape para vectores. Estos contenedores ofrecen una solución rápida y sencilla para realizar tareas que de otro modo requerirían más tiempo y esfuerzo. Al utilizar estos contenedores, los desarrolladores pueden realizar tareas de manera local y sin depender de utilidades públicas, lo que reduce el riesgo de filtración de datos y mejora la seguridad de su información.
+    <link href="https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills"/>
+    <summary>Explora cinco colecciones populares de habilidades de agentes de inteligencia artificial en GitHub que ayudan a los agentes de código a planificar, probar, depurar, revisar y construir mejor software. Estas colecciones de habilidades reutilizables enseñan a los agentes cómo manejar tareas específicas sin que tú debas explicar el mismo proceso cada vez. En este artículo, se analizarán cinco colecciones de habilidades de agentes de inteligencia artificial más populares. Cada una tiene un enfoque diferente para hacer que los agentes de código sean más útiles para el desarrollo de software real. Se presentan las siguientes colecciones: Superpowers, Skills for Real Engineers, ECC, Awesome LLM Apps y Agent Skills. Cada una de ellas ofrece una solución única para mejorar las habilidades de los agentes de código. Se presentan sus características y cómo se pueden instalar y utilizar. Por último, se destaca la importancia de las habilidades de agentes de inteligencia artificial para el desarrollo de software real y cómo pueden ayudar a los desarrolladores a mejorar su proceso de trabajo.
 
 Contexto IA (informativo):
-La necesidad de utilizar utilidades públicas para realizar tareas que requieren decodificación de tokens, transformación de datos y conversión de archivos puede ser un problema para los desarrolladores. Al utilizar estos contenedores, los desarrolladores pueden realizar estas tareas de manera local y sin depender de utilidades públicas, lo que reduce el riesgo de filtración de datos y mejora la seguridad de su información.</summary>
-    <published>2026-10-20T12:00:00+00:00</published>
+Las habilidades de agentes de inteligencia artificial son fundamentales para el desarrollo de software real. Permiten a los agentes de código manejar tareas específicas de manera eficiente y efectiva, lo que puede mejorar significativamente el proceso de desarrollo. Sin embargo, es importante destacar que las habilidades de agentes de inteligencia artificial no son una solución mágica para el desarrollo de software. Requieren una comprensión profunda de las necesidades del proyecto y la capacidad de adaptarse a cambios en el entorno de desarrollo.</summary>
+    <published>2026-10-21T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/</id>
-    <title>[Data Science] El costo oculto de la ruta de LLM: Por qué cambiar modelos cuesta más</title>
-    <updated>2026-10-20T13:10:04.868684+00:00</updated>
+    <id>https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/</id>
+    <title>[Data Science] Razonamiento Espacial en los Modelos de Inteligencia Artificial, Desmontado</title>
+    <updated>2026-10-21T13:42:48.517511+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/"/>
-    <summary>El autor probó la ruta de LLM para entender por qué cambiar modelos en medio de una sesión puede eliminar las ganancias prometidas por la inferencia más barata. Descubrió que el costo de cambiar modelos es mucho mayor que el esperado. Un router que envía parte de la solicitud a un modelo más barato puede generar un costo similar al de un modelo más caro, incluso si el modelo más barato puede manejar la solicitud con facilidad. El autor también encontró que el 90% de la solicitud se puede reutilizar del cache en un turno, pero que el 8% se pierde cuando se cambia de modelo. El autor concluye que la ruta de LLM no es solo una cuestión de precio, sino también de gestión de estado y cache. Los modelos de ruta deben considerar cómo interactúan con el estado, el contexto y la reutilización del cache para ofrecer la mejor eficiencia. El autor recomienda que los desarrolladores de LLM agents consideren cuidadosamente la elección de la ruta de LLM para minimizar el costo de la inferencia.
+    <link href="https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/"/>
+    <summary>En este estudio, se analiza el rendimiento de los modelos de inteligencia artificial en tareas de razonamiento espacial. Los autores presentan cuatro preguntas clave que se abordan en el trabajo: ¿los modelos pueden leer la tabla? ¿pueden seguir las reglas? ¿pueden seguir las instrucciones cuando la tarea es más difícil? Los resultados muestran que los modelos tienen dificultades para resolver los puzzles más difíciles, especialmente en el nivel 5, donde solo logran resolver el 49,4% de los puzzles. Los humanos, por otro lado, resuelven el 94,5% de los puzzles en este nivel. Los modelos también tienen dificultades para seguir las reglas y mantener la línea correcta. Sin embargo, algunos modelos logran resolver algunos puzzles más fáciles, como el nivel 1, donde resuelven el 83,6% de los puzzles. Los autores concluyen que el razonamiento espacial es un desafío para los modelos de inteligencia artificial y que es necesario abordar este problema para mejorar su rendimiento.
 
 Contexto IA (informativo):
-La investigación sobre LLMs ha estado creciendo rápidamente en los últimos años, y la eficiencia de la inferencia es un tema cada vez más importante. La ruta de LLM es una técnica que permite a los modelos de LLM manejar solicitudes de manera más eficiente, pero también puede tener un impacto en el costo de la inferencia. El autor de este artículo probó la ruta de LLM para entender mejor cómo funciona y por qué puede ser más costosa de lo que se pensaba.</summary>
-    <published>2026-10-20T12:30:00+00:00</published>
+Este estudio se basa en la investigación de los autores sobre el razonamiento espacial en los modelos de inteligencia artificial. Los autores han desarrollado un desafío de razonamiento espacial llamado SPaRC, que consiste en resolver puzzles de razonamiento espacial. Los resultados de este estudio muestran que los modelos de inteligencia artificial tienen dificultades para resolver los puzzles más difíciles, lo que sugiere que es necesario abordar este problema para mejorar el rendimiento de los modelos.</summary>
+    <published>2026-10-21T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/</id>
-    <title>[Fórmula 1] Dentro de la construcción de la competencia que forja el talento de la ingeniería F1</title>
-    <updated>2026-10-20T13:10:04.868646+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/"/>
-    <summary>Seis estudiantes sauditas de secundaria, cuatro chicos y dos chicas, se mueven con emoción por el paddock de la F1 de Singapur. Como parte del equipo Lynx Racing, ganadores del reciente campeonato de los STEM Racing World Finals, que se llevó a cabo en Singapur durante la semana previa al gran premio. Al salir encima de una competencia internacional de ingeniería de cuatro días, Lynx Racing recibió el premio principal, que consiste en una beca de estudios y una oportunidad de trabajar en una fábrica de F1. Este logro es un gran paso adelante para la región del Golfo, que busca impulsar su desarrollo tecnológico y aumentar su participación en la competencia mundial de la F1.
-
-Contexto IA (informativo):
-La competencia STEM Racing World Finals es una de las más importantes de su tipo, y Lynx Racing se convirtió en el primer equipo saudita en ganarla. Este logro es un gran orgullo para la comunidad de la F1 en Arabia Saudita, y se espera que sirva como un impulso para la creación de más equipos y talentos en el país.</summary>
-    <published>2026-10-19T08:37:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/</id>
-    <title>[Fórmula 1] McLaren confirma a Fornaroli como reserva y le da programa WEC para 2027</title>
-    <updated>2026-10-20T13:10:04.868609+00:00</updated>
-    <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/"/>
-    <summary>McLaren ha reafirmado su confianza en Leonardo Fornaroli y le ha ofrecido un compromiso más ambicioso. Fornaroli será el tercer piloto de la escudería para la temporada 2027 y también participará en el programa de la Copa Mundial de Endurance con el nuevo coche de hipercar. Esto marca un paso importante en su carrera como piloto de F1.
-
-Contexto IA (informativo):
-Fornaroli ha demostrado su habilidad y dedicación en las pruebas de F1, y su experiencia en el mundo de la endurance le brindará una plataforma para destacarse en el escenario internacional.</summary>
-    <published>2026-10-19T11:01:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://racer.com/2026/10/19/indycar-s-international-ambitions-are-alive-and-well-but-no-deals-are-done-yet</id>
-    <title>[Fórmula 1] Las ambiciones internacionales de IndyCar siguen en marcha, aunque no se han cerrado los acuerdos</title>
-    <updated>2026-10-20T13:10:04.868575+00:00</updated>
+    <id>https://racer.com/2026/10/20/nascar-s-chase-format-is-providing-a-wild-ride-of-emotions</id>
+    <title>[Fórmula 1] El formato de la Chase de NASCAR está proporcionando una emocionante experiencia emocional</title>
+    <updated>2026-10-21T13:42:48.517478+00:00</updated>
     <author>
       <name>RACER</name>
     </author>
-    <link href="https://racer.com/2026/10/19/indycar-s-international-ambitions-are-alive-and-well-but-no-deals-are-done-yet"/>
-    <summary>Un informe de lunes de un medio español indicó que se había completado un contrato de varios años para llevar IndyCar al Circuit de Barcelona-Catalunya en julio. Aunque se espera que se firmen acuerdos en los próximos días, RACER ha confirmado que no se ha ejecutado ninguno
+    <link href="https://racer.com/2026/10/20/nascar-s-chase-format-is-providing-a-wild-ride-of-emotions"/>
+    <summary>El escenario pos-race en el circuito de Phoenix perfectamente capturó lo que es como correr en la Chase. No hay reinicios. Ni más pasajes libres ni batallas de tres semanas. Así que, como en Phoenix, las emociones han estado flujiendo desde la primera semana y no han cesado. El resultado es una carrera emocionante y apasionante que ha mantenido a los fanáticos en vilo. La victoria de Kyle Larson en la primera ronda de la Chase ha sido un golpe de gracia para muchos seguidores. La competencia se está intensificando y cada punto cuenta. El destino de los contendientes es cada vez más incierto. La emoción y la tensión son palpables en cada curva del circuito. La Chase de NASCAR ha vuelto a ser una verdadera competencia
 
 Contexto IA (informativo):
-El anuncio fue recibido con interés por los aficionados a la carrera, que esperan ver a los conductores de IndyCar competir en este circuito famoso en el corazón de la temporada de Fórmula 1.</summary>
-    <published>2026-10-19T20:31:13+00:00</published>
+La Chase de NASCAR es un formato de carrera que se ha vuelto cada vez más popular en los últimos años. Es un sistema de clasificación que recompensa a los conductores que se destacan en las carreras. El formato de la Chase ha sido cambiado varias veces para mantener la competencia y la emoción. En la temporada actual, la Chase ha sido especialmente emocionante gracias a la intensa competencia entre los conductores.</summary>
+    <published>2026-10-20T18:55:11+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/10/19/how-antonelli-handles-standing-on-the-verge-of-f1-history</id>
-    <title>[Fórmula 1] Cómo Antonelli maneja el punto de inflexión en la historia de F1</title>
-    <updated>2026-10-20T13:10:04.868540+00:00</updated>
+    <id>https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/</id>
+    <title>[Fórmula 1] Norris promete tomar decisiones mejoradas tras conversaciones recientes sobre el conflicto en el GP de Singapur</title>
+    <updated>2026-10-21T13:42:48.517447+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>Autosport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://racer.com/2026/10/19/how-antonelli-handles-standing-on-the-verge-of-f1-history"/>
-    <summary>Desde el inicio de la temporada de F1, el joven fenómeno italiano de Mercedes ha demostrado todas las características de un campeón en espera. Una victoria en este fin de semana en el Gran Premio de Estados Unidos en Austin podría ver al 20-year-old convertirse en el piloto más joven de la historia de la serie en tomar el título. Ahora, como lo explica Kimi Antonelli, "debemos terminar el trabajo."
+    <link href="https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/"/>
+    <summary>El campeón mundial de Fórmula 1 Lando Norris ha admitido que necesita tomar decisiones mejoradas para evitar conflictos con su compañero de equipo Oscar Piastri en McLaren. En el GP de Singapur, Norris se chocó con Piastri durante la carrera, lo que costó a McLaren ocho puntos y fue en contra de sus principios. El equipo busca cerrar el capítulo de este incidente. Norris ha prometido hacer mejoras para evitar situaciones similares en el futuro.
 
 Contexto IA (informativo):
-Antonelli ha demostrado ser un piloto excepcional desde el inicio de la temporada, y su victoria en el Gran Premio de Estados Unidos podría ser un paso crucial en su camino hacia el título.</summary>
-    <published>2026-10-20T09:00:00+00:00</published>
+El incidente en Singapur ha generado una discusión dentro de la escuadra sobre la gestión de la presión y la estrategia de carrera. Los expertos esperan que Norris aprenda de su error y mejore su rendimiento en las próximas carreras.</summary>
+    <published>2026-10-21T07:17:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/</id>
-    <title>[Fórmula 1] Christian Horner: Kimi Antonelli ha 'merecido' el derecho a ser el número uno de Mercedes</title>
-    <updated>2026-10-20T13:10:04.868503+00:00</updated>
+    <id>https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/</id>
+    <title>[Fórmula 1] FIA cierra el bucle de costos en F1 con nuevas reglas</title>
+    <updated>2026-10-21T13:42:48.517415+00:00</updated>
+    <author>
+      <name>Autosport.com - Formula 1 - Stories</name>
+    </author>
+    <link href="https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/"/>
+    <summary>La FIA ha aprobado nuevas regulaciones para prevenir que el personal no de F1 de las equipos trabaje en proyectos de F1. Esto se debe a que algunos habían encontrado formas de aprovecharse de los recursos y personal asignados a otras actividades para evitar el límite de gastos. Estas nuevas reglas evitarán una desigualdad entre los equipos que tienen otras actividades y los que no. Además, se espera que esto mejore la transparencia y la equidad en la competencia.
+
+Contexto IA (informativo):
+La FIA ha tomado esta medida para garantizar que todos los equipos tengan una oportunidad justa de competir en F1. Las nuevas reglas entrarán en vigor en el próximo año y se espera que tengan un impacto positivo en la salud financiera de los equipos.</summary>
+    <published>2026-10-21T08:52:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.f1technical.net/news/29479</id>
+    <title>[Fórmula 1] Fornaroli completa prueba de McLaren en Paul Ricard antes de las salidas de FP1 en México City y São Paulo</title>
+    <updated>2026-10-21T13:42:48.517381+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29479"/>
+    <summary>Leonardo Fornaroli, piloto de reserva de McLaren, ha completado una prueba de dos días de Pruebas de Vehículos Anteriores (TPC) en el Circuito Paul Ricard, preparándose para sus próximas apariciones en las salidas de FP1 en México City y São Paulo. Durante la prueba, Fornaroli completó 58 vueltas y recorrió 339 kilómetros en el MCL39, el coche de 2025 de McLaren. La prueba marcó el primer tiempo que McLaren había utilizado el MCL39 en su programa TPC, después de la retirada del MCL60 de las pruebas en julio. Fornaroli se prepara para sus dos últimas apariciones en FP1, que completarán las dos últimas pruebas obligatorias para rookies de McLaren este año. La prueba también permitió a Fornaroli recuperar su ritmo en un coche de F1. Fornaroli se enfrenta a dos desafíos muy diferentes en México City y Interlagos, que exponen a los pilotos a las demandas físicas y técnicas de la carrera a altitud y a un layout técnico y cambios de altura demandantes. Fornaroli se mostró emocionado de volver a sentarse en el coche y dijo que las dos Grand Prix serán un gran desafío para él como piloto. La prueba también permitió a Hughes, otro piloto de pruebas de McLaren, participar en el programa, quien completó 52 vueltas y recorrió 298 kilómetros en el MCL39. Hughes se mostró emocionado de poder conducir el MCL39, que ganó tanto el Campeonato de Constructores como el de Pilotos en 2025. La prueba permitió a Hughes trabajar en varias configuraciones de configuración, lo que ayudará a su desarrollo en el simulador de McLaren.
+
+Contexto IA (informativo):
+La prueba de Fornaroli en Paul Ricard fue parte de su desarrollo como piloto y le permitió recuperar su ritmo en un coche de F1. La prueba también permitió a McLaren evaluar diferentes configuraciones de configuración y ayudar a Fornaroli a prepararse para sus próximas apariciones en FP1. La prueba se llevó a cabo en un momento en que Fornaroli se enfrenta a dos desafíos muy diferentes en México City y Interlagos, que exponen a los pilotos a las demandas físicas y técnicas de la carrera a altitud y a un layout técnico y cambios de altura demandantes.</summary>
+    <published>2026-10-21T10:17:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/</id>
+    <title>[Fórmula 1] Las figuras que muestran que Mercedes ha perdido su supremacía en F1 2026</title>
+    <updated>2026-10-21T13:42:48.517349+00:00</updated>
     <author>
       <name>Motorsport.com - Formula 1 - Stories</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/"/>
-    <summary>Christian Horner considera que el joven piloto Kimi Antonelli ha 'merecido' su lugar como el piloto número uno de Mercedes después de una dominante temporada 2026. Con una ventaja de 102 puntos sobre su compañero de equipo George Russell en segundo lugar, Antonelli puede coronarse campeón en Austin al siguiente evento. El joven piloto ha logrado este logro en solo su primer año en la categoría.
+    <link href="https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/"/>
+    <summary>Mercedes confía en poder ganar de nuevo en la temporada de F1 2026, pero reconoce que ha estado enfrentando un desafío mayor que nunca de parte de los demás equipos líderes. En los primeros seis grandes premios de la temporada, el equipo de Mercedes logró triunfos, mientras que F1 pasó a nuevas regulaciones técnicas. Posteriormente, los rivales mejoraron sus actualizaciones y Ferrari logró dos victorias en Austria y Gran Bretaña, seguidos de McLaren con Lando Norris
 
 Contexto IA (informativo):
-Antonelli ha demostrado una gran consistencia y habilidad en la pista, lo que ha llevado a su ascenso a la cima de la clasificación. Sin embargo, aún debe demostrar su capacidad para manejar la presión y el estrés de la competencia en las próximas rondas.</summary>
-    <published>2026-10-20T11:16:58+00:00</published>
+En la temporada de F1 2026, Mercedes ha estado luchando por mantener su posición de liderazgo, mientras que otros equipos como Ferrari y McLaren han estado ganando terreno.</summary>
+    <published>2026-10-21T11:28:56+00:00</published>
   </entry>
   <entry>
-    <id>https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/</id>
-    <title>[Fórmula 1] La empresa que suministraba el medidor de flujo de combustible de F1 demanda a su reemplazo en Texas</title>
-    <updated>2026-10-20T13:10:04.868462+00:00</updated>
+    <id>https://www.f1technical.net/news/29477</id>
+    <title>[Fórmula 1] Haas presenta una livery especial de Godzilla para el GP de Estados Unidos 2026</title>
+    <updated>2026-10-21T13:42:48.517314+00:00</updated>
     <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/"/>
-    <summary>La empresa Sentronics Holdings Ltd, que fue proveedora de medidores de flujo de combustible para F1, ha presentado una demanda contra la empresa alemana Allengra GmbH en el Tribunal Federal de los Estados Unidos para el Distrito Oeste de Texas. La empresa alega que los sensores utilizados en cada coche de la competición infringen su patente. La demanda se presentó el 16 de octubre, justo días antes de la Gran Premio de Estados Unidos. La empresa británica busca compensación por la supuesta violación de sus derechos de propiedad intelectual. La demanda también solicita que se ordene a la empresa alemana que deje de utilizar los sensores en cuestión.
+    <link href="https://www.f1technical.net/news/29477"/>
+    <summary>La escuadra Haas F1 Team presentó una livery especial de Godzilla para el GP de Estados Unidos 2026, en colaboración con la estudio de entretenimiento japonés TOHO CO., LTD. El equipo americano ha creado un diseño especial para celebrar la próxima película de Godzilla Minus Zero, que se estrenará en Estados Unidos el 6 de noviembre. La livery se extenderá a los trajes de carrera de los pilotos Esteban Ocon y Ollie Bearman, así como a los trajes de F1 Academy de Kaylee Countryman. El equipo también lanzará una colección de merchandising de Godzilla, incluyendo camisetas y hoodies, que se pueden comprar a partir del 19 de octubre.
 
 Contexto IA (informativo):
-La disputa entre las dos empresas se ha estado desarrollando durante varios años. La empresa Sentronics Holdings Ltd había sido proveedora de medidores de flujo de combustible para F1 desde 2015. Sin embargo, en 2019, la empresa decidió dejar de suministrar los sensores debido a problemas técnicos. Desde entonces, la empresa alemana Allengra GmbH ha sido la única proveedora de sensores para F1.</summary>
-    <published>2026-10-20T11:35:28+00:00</published>
+La colaboración entre Haas y TOHO CO., LTD. es la segunda parte de una serie de colaboraciones entre el equipo y la franquicia de Godzilla. El equipo ha expresado su entusiasmo por presentar la livery especial en su carrera de casa en Austin, y ha destacado la oportunidad de conectar con un público más amplio a través de la colaboración.</summary>
+    <published>2026-10-21T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download</id>
-    <title>[Tecnología] Algunos altavoces de Google Home descargan cientos de gigas de datos</title>
-    <updated>2026-10-20T13:10:04.868416+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"/>
-    <summary>Google informó que una actualización está en curso para solucionar el problema. Los propietarios de estos altavoces están experimentando un problema en el que se descargan cientos de gigabytes de datos en segundo lugar. La causa del problema podría estar relacionada con la instalación de una actualización de firmware incorrecta. La empresa ha confirmado que una solución está en curso y que la mayoría de los informes están relacionados con la nueva versión del Google Home.
-
-Contexto IA (informativo):
-El problema se identificó hace una semana y ha sido reportado por varios usuarios de Reddit y 9to5Google. La empresa ha asegurado que la solución está en curso y que los usuarios no necesitan tomar medidas adicionales.</summary>
-    <published>2026-10-20T10:16:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/story/sony-party-speaker-deals-october-2026/</id>
-    <title>[Tecnología] Oferta de Sony Party Speaker: Ahorra $100 al ULT Tower 7</title>
-    <updated>2026-10-20T13:10:04.868368+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/story/sony-party-speaker-deals-october-2026/"/>
-    <summary>Sony ofrece una de las mejores opciones de altavoces para fiestas al precio más bajo. El ULT Tower 7 es ideal para deejaying y ofrece una gran calidad de sonido, una batería de 30 horas y múltiples entradas. Aunque no es el más pequeño, es una excelente opción para cualquier tipo de evento. Además, Sony ofrece otros altavoces compactos y potentes para elegir. En esta oferta, se puede ahorrar $100 al precio regular del ULT Tower 7.
-
-Contexto IA (informativo):
-Esta oferta es una excelente oportunidad para aquellos que buscan un altavoz de alta calidad para sus fiestas o eventos. Sin embargo, es importante tener en cuenta que el ULT Tower 7 es un altavoz grande y pesado, por lo que puede ser difícil de mover. En general, Sony ofrece una gran variedad de opciones de altavoces para satisfacer las necesidades de cualquier usuario.</summary>
-    <published>2026-10-20T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</id>
-    <title>[Tecnología] Las membresías de Spotify permiten a los creadores de podcasts cobrar más dinero</title>
-    <updated>2026-10-20T13:10:04.868321+00:00</updated>
+    <id>https://www.theverge.com/tech/1014316/iphone-duo-review-ama</id>
+    <title>[Tecnología] Revisión del iPhone Duo, ¿tienes alguna pregunta?</title>
+    <updated>2026-10-21T13:42:48.517281+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch"/>
-    <summary>Spotify está permitiendo a los creadores de podcasts ganar más dinero a través de la plataforma al proporcionar a sus fans una forma de pagar para acceder a contenido exclusivo. La nueva función de membresías de suscripción, anunciada en mayo, comienza a implementarse hoy en 34 regiones, permitiendo a los podcasters ofrecer beneficios adicionales, acceso temprano, episodios adicionales y publicidad reducida detrás de un paywall. Los usuarios pueden encontrar las membresías en la página de Spotify de un podcast, con la capacidad de suscribirse, pagar y acceder a los beneficios exclusivos en solo unos pocos toques, según Spotify. Los creadores de podcast pueden establecer sus opciones de precios y combinar beneficios en diferentes suscripciones
+    <link href="https://www.theverge.com/tech/1014316/iphone-duo-review-ama"/>
+    <summary>Como revisor de teléfonos senior de The Verge, he estado utilizando el iPhone Duo durante la pasada semana. He experimentado con él de muchas maneras diferentes, como desplegarlo, volcarlo y doblarlo, y estoy listo para responder a tus preguntas sobre él. El Duo representa el primer paso en la evolución del iPhone en términos de forma factor, y, como es habitual en Apple, tiene algunas ideas muy específicas sobre cómo utilizarlo. En nuestra revisión, cubrimos muchos aspectos del funcionamiento del Duo, pero hay mucho más que discutir y estoy aquí para hablar de ello. Los suscriptores de The Verge pueden enviar preguntas desde ahora mismo en nuestro foro de comentarios.
 
 Contexto IA (informativo):
-Esta nueva función se suma a las iniciativas de Spotify para apoyar a los creadores de contenido, como la plataforma de Spotify for Podcasters, que ofrece herramientas y recursos para ayudar a los podcasters a crecer su audiencia y ganar más dinero.</summary>
-    <published>2026-10-20T12:00:00+00:00</published>
+La revisión del iPhone Duo es parte de nuestra cobertura en vivo de Apple Event 2023. El evento se llevó a cabo el pasado 7 de septiembre de 2023 en Cupertino, California.</summary>
+    <published>2026-10-21T12:15:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/daredevil-born-again-star-deborah-ann-woll-felt-like-season-3-might-be-the-end-2000827905</id>
-    <title>[Tecnología] Deborah Ann Woll sobre el final de 'Daredevil: Born Again'</title>
-    <updated>2026-10-20T13:10:04.868270+00:00</updated>
+    <id>https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/</id>
+    <title>[Tecnología] Cómo SpaceX planea atrapar la etapa superior de Starship por primera vez</title>
+    <updated>2026-10-21T13:42:48.517248+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/"/>
+    <summary>Elon Musk anuncia que SpaceX intentará capturar tanto la etapa inferior como la etapa superior de Starship durante el testeo 15. La empresa planea atrapar la etapa superior, llamada 'Ship', utilizando las 'armas de chopstick' de su torre de lanzamiento. Si logra capturar la etapa superior, se acercará a su objetivo de desarrollar Starship como un vehículo de lanzamiento orbital reutilizable para misiones espaciales profundas. La empresa ha intentado capturar la etapa superior antes, pero no ha tenido éxito debido a su velocidad y trayectoria. El éxito en el testeo 15 podría ser un paso importante hacia el logro de su objetivo.
+
+Contexto IA (informativo):
+El objetivo de SpaceX es desarrollar Starship como un vehículo de lanzamiento orbital reutilizable para misiones espaciales profundas, como llevar tripulaciones y carga al lunar y a Marte. La empresa ha estado trabajando en el desarrollo de Starship desde hace varios años y ha realizado varios testeos exitosos. El próximo testeo 15 podría ser un paso importante hacia el logro de su objetivo.</summary>
+    <published>2026-10-21T12:19:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/ghoulies-is-officially-moving-forward-with-new-trilogy-2000828779</id>
+    <title>[Tecnología] Ghoulies sigue adelante con una nueva trilogía</title>
+    <updated>2026-10-21T13:42:48.517215+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/daredevil-born-again-star-deborah-ann-woll-felt-like-season-3-might-be-the-end-2000827905"/>
-    <summary>Deborah Ann Woll, actriz de 'Daredevil: Born Again', expresó que no se sorprendió tanto con la noticia de que la serie terminaría con la tercera temporada. Aunque inicialmente se consideró que la serie había sido cancelada, Woll mencionó que siempre había sentido que la tercera temporada podría ser la última. La actriz también destacó que, aunque el final de la serie es decepcionante, es mejor que se termine de manera controlada que sin previo aviso. El productor de Marvel, Brad Winderbaum, confirmó que la serie siempre estaba diseñada para terminar con la tercera temporada, y prometió explorar nuevas posibilidades para el personaje de Matt Murdock en el futuro.
+    <link href="https://gizmodo.com/ghoulies-is-officially-moving-forward-with-new-trilogy-2000828779"/>
+    <summary>La película Ghoulies ha sido cancelada en Syfy, pero su director Luca Bercovici ha recuperado los derechos de la película y está trabajando en una nueva trilogía. La película Homesick, protagonizada por Mena Suvari y David Arquette, se está filmando en Winnipeg y sigue la historia de una médica que debe proteger a su familia de una amenaza misteriosa. Por otro lado, American Horror Story ha sido renovada para una temporada 14, mientras que Revival ha sido cancelada en Syfy. El próximo episodio de Wind Breaker se estrenará este sábado en Adult Swim.
 
 Contexto IA (informativo):
-La serie 'Daredevil: Born Again' es una continuación de la serie de Netflix 'Daredevil', que también tuvo tres temporadas. La serie ha sido bien recibida por la crítica y ha reunido a muchos actores y actrices de la serie original. La tercera temporada de 'Daredevil: Born Again' se estrenará en marzo de 2027 y contará con la participación de Luke Cage, Jessica Jones y Iron Fist.</summary>
-    <published>2026-10-20T12:00:55+00:00</published>
+En un giro interesante, la cancelación de Revival en Syfy ha permitido que Ghoulies siga adelante con su proyecto de trilogía. La película Homesick, que se está filmando en Winnipeg, sigue la historia de una médica que debe proteger a su familia de una amenaza misteriosa. American Horror Story, por otro lado, ha sido renovada para una temporada 14, lo que sugiere que la cadena sigue confiada en su capacidad para atraer a audiencias.</summary>
+    <published>2026-10-21T12:39:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/</id>
-    <title>[Tecnología] El regulador británico pide a Apple que abra el acceso a NFC del iPhone</title>
-    <updated>2026-10-20T13:10:04.868219+00:00</updated>
+    <id>https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/</id>
+    <title>[Tecnología] Cómo identificar un dispositivo etiquetado en blanco y por qué eso es importante</title>
+    <updated>2026-10-21T13:42:48.517180+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/"/>
-    <summary>El regulador británico, la Competition and Markets Authority (CMA), ha propuesto que Apple abra su sistema de pago NFC para que las empresas británicas puedan competir con el Apple Wallet. El regulador afirma que las tarifas actuales de Apple están bloqueando a las empresas fintécnicas británicas y que la propuesta busca reducir las tarifas y dar acceso a las tecnologías internacionales. El CMA ha consultado a las empresas y el plazo de respuesta termina el 17 de noviembre de 2026.
+    <link href="https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/"/>
+    <summary>Un dispositivo etiquetado en blanco es un dispositivo fabricado por una fábrica de Asia y luego vendido por otra empresa que lo vende con su nombre. Esto puede ser una forma de vender tecnología mediocre. Es importante investigar antes de comprar un dispositivo para evitar ser engañado. Algunas empresas, como Sony, utilizan dispositivos etiquetados en blanco para vender tecnología. También hay dispositivos que se parecen mucho, pero con diferentes nombres. Es importante leer reseñas y buscar información en línea antes de comprar un dispositivo. Las empresas grandes suelen evitar los dispositivos etiquetados en blanco, mientras que las empresas medianas pueden utilizarlos para vender productos fuera de su dominio. Los dispositivos etiquetados en blanco pueden ser una forma de entrar en un nuevo mercado, pero también pueden ser una forma de vender tecnología de baja calidad. Es importante investigar y leer reseñas antes de comprar un dispositivo.
 
 Contexto IA (informativo):
-La propuesta del CMA se basa en la idea de que Apple tiene un monopólio en el mercado de pagos NFC en el Reino Unido y que las empresas británicas no tienen la oportunidad de competir debido a las tarifas y reglas de Apple.</summary>
-    <published>2026-10-20T12:42:27+00:00</published>
+En el mundo de la tecnología, hay una gran cantidad de dispositivos que se parecen mucho, pero con diferentes nombres. Esto se debe a que muchas empresas utilizan dispositivos etiquetados en blanco para vender tecnología. Algunas empresas, como Sony, utilizan dispositivos etiquetados en blanco para vender tecnología. También hay dispositivos que se parecen mucho, pero con diferentes nombres. Es importante leer reseñas y buscar información en línea antes de comprar un dispositivo.</summary>
+    <published>2026-10-21T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2288619/how-to-know-time-to-replace-router/</id>
-    <title>[Tecnología] ¿Cuándo es hora de reemplazar tu router</title>
-    <updated>2026-10-20T13:10:04.868170+00:00</updated>
+    <id>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</id>
+    <title>[Tecnología] Nvidia lanza nuevo driver de GPU para acelerar juegos</title>
+    <updated>2026-10-21T13:42:48.517147+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://www.engadget.com/2288619/how-to-know-time-to-replace-router/"/>
-    <summary>Un router no es como una TV, un teléfono o un ordenador antiguo, por lo que no es algo que la mayoría de las personas piensen en actualizar regularmente. Sin embargo, si el router no recibe actualizaciones de seguridad o si las velocidades disminuyen, es hora de considerar reemplazarlo. También es importante verificar si el router es antiguo lo suficiente como para ser un problema de seguridad que podría poner en riesgo a todos los dispositivos en tu red. Además, es importante considerar si los nuevos recursos y estándares de Wi-Fi harían una gran diferencia en tus dispositivos. Un router que ya no recibe actualizaciones de seguridad es un problema grave, ya que cualquier vulnerabilidad descubierta no recibirá correcciones. Esto significa que podrías estar expuesto a ataques cibernéticos. Si tu router es antiguo, es posible que ya no reciba actualizaciones de seguridad, lo que podría poner en riesgo a todos los dispositivos en tu red. Es importante verificar si el router es antiguo y si ya no recibe actualizaciones de seguridad. Si no, es hora de considerar reemplazarlo. Además, si el router está lento o si las conexiones se cortan, es hora de investigar y encontrar una solución. Es importante verificar si el router está lento o si las conexiones se cortan, ya que esto puede ser un problema de seguridad. Si el router está lento o si las conexiones se cortan, es hora de investigar y encontrar una solución. También es importante verificar si el router está en una posición que pueda afectar la velocidad de la conexión Wi-Fi. Si el router está en una posición que pueda afectar la velocidad de la conexión Wi-Fi, es hora de considerar reemplazarlo. Por lo tanto, es importante verificar si el router es antiguo, si ya no recibe actualizaciones de seguridad y si está en una posición que pueda afectar la velocidad de la conexión Wi-Fi. Si es así, es hora de considerar reemplazarlo.
+    <link href="https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"/>
+    <summary>Nvidia ha lanzado un nuevo driver de GPU que permite la implementación de la tecnología de entrega de shaders avanzados de Microsoft para acelerar el lanzamiento de juegos. Esta tecnología también elimina la compilación de shaders en tiempo real durante el juego, reduciendo el latido y los picos de procesador. La tecnología de entrega de shaders avanzados de Microsoft se basa en la transferencia de la compilación de shaders para diferentes combinaciones de hardware a la nube. De esta manera, se pueden precompilar shaders para cientos de miles de combinaciones de hardware y driver, según explica Nvidia.
 
 Contexto IA (informativo):
-Es importante recordar que un router es un dispositivo que puede estar en riesgo de ataques cibernéticos si no se actualiza regularmente. Si no se actualiza, el router puede dejar de funcionar y no ser capaz de proteger a los dispositivos en la red. Por lo tanto, es importante verificar si el router es antiguo y si ya no recibe actualizaciones de seguridad para evitar problemas de seguridad.</summary>
-    <published>2026-10-20T12:45:00+00:00</published>
+La tecnología de entrega de shaders avanzados de Microsoft es una característica que se puede encontrar en juegos que utilizan DirectX 12, Windows 11 y la biblioteca de desarrollo Agility de Microsoft. Los desarrolladores pueden capturar las shaders en una base de datos de objetos de estado (SODB) y, de esta manera, la red de nube de Microsoft puede precompilar las shaders para diferentes combinaciones de hardware y driver.</summary>
+    <published>2026-10-21T13:09:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.githubstatus.com/</id>
-    <title>[Programación] GitHub Actions vuelve a estar caída</title>
-    <updated>2026-10-20T13:10:04.868127+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://www.githubstatus.com/"/>
-    <summary>GitHub Actions ha vuelto a experimentar problemas de disponibilidad, lo que puede causar retrasos en el procesamiento de flujos de trabajo, la construcción de sitios y la entrega de webhooks. Los usuarios pueden experimentar retrasos en la entrega de notificaciones y la construcción de sitios. La empresa está investigando la causa del problema y proporcionará actualizaciones sobre su progreso.
-
-Contexto IA (informativo):
-En este momento, GitHub Actions y GitHub Pages están experimentando problemas de disponibilidad, lo que puede afectar la integridad de los flujos de trabajo y los sitios. La empresa está trabajando para resolver el problema lo antes posible.</summary>
-    <published>2026-10-19T16:06:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</id>
-    <title>[Programación] Los reverts continuarán hasta que mejore la moralidad [PostgreSQL 19]</title>
-    <updated>2026-10-20T13:10:04.868083+00:00</updated>
+    <id>https://maroun-baydoun.com/blog/make-yourself-replaceable/</id>
+    <title>[Programación] Haz que te conviertas en reemplazable</title>
+    <updated>2026-10-21T13:42:48.517114+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"/>
-    <summary>En el rango de PostgreSQL 19, se han revertido una cantidad significativa de características después del período de beta. Esto se debe a una combinación de factores, incluyendo la falta de tiempo para reflexionar sobre los reverts, la complejidad del sistema y la capacidad de LLM-assisted code review para detectar problemas. La situación se agravó debido a la Vulnpocalypse, que afectó a muchos desarrolladores senior, y la necesidad de priorizar la seguridad. Aunque algunos reverts se debieron a problemas de arquitectura, otros eran problemas de edge cases que podrían haberse solucionado con más tiempo y atención. En el futuro, se espera que la situación mejore con la mejora de la calidad del código y la capacidad de LLM-assisted code review.
+    <link href="https://maroun-baydoun.com/blog/make-yourself-replaceable/"/>
+    <summary>En un mundo lleno de crisis, la seguridad laboral es uno de los refugios seguros. Sin embargo, hacerse indispensable puede ser una mala estrategia. La idea de hacerse reemplazable puede parecer contraintuitiva, pero puede ser la mejor forma de asegurar su futuro laboral. Sam es un ejemplo de esto. Sam es la persona que todos dependen, pero también es la persona que se vuelve difícil de reemplazar. Su historia nos enseña que la seguridad laboral no siempre es lo mejor para nosotros.
 
 Contexto IA (informativo):
-La situación de los reverts en PostgreSQL 19 es un ejemplo de cómo la complejidad del sistema y la tecnología pueden afectar la calidad del código. La Vulnpocalypse ha sido un factor importante en este contexto, ya que ha afectado a muchos desarrolladores senior y ha requerido su atención prioritaria. Sin embargo, es importante destacar que la situación no se debe únicamente a problemas de arquitectura, sino también a problemas de edge cases que pueden haberse solucionado con más tiempo y atención.</summary>
-    <published>2026-10-19T21:20:23+00:00</published>
+La historia de Sam nos muestra que la seguridad laboral puede ser un problema. Cuando se vuelve demasiado dependiente de una sola persona, puede crear problemas. La clave es encontrar un equilibrio entre ser valioso y no volverse demasiado indispensable.</summary>
+    <published>2026-10-20T23:42:16+00:00</published>
   </entry>
   <entry>
-    <id>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</id>
-    <title>[Programación] Configuración de claves SSH en macOS con Touch ID</title>
-    <updated>2026-10-20T13:10:04.868041+00:00</updated>
+    <id>https://cert.europa.eu/publications/security-advisories/2026-018/</id>
+    <title>[Programación] Vulnerabilidades críticas en PHP</title>
+    <updated>2026-10-21T13:42:48.517078+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"/>
-    <summary>Esta guía te enseñará a configurar claves SSH en macOS con Touch ID de manera segura. Primero, crearás una identidad en el Secure Enclave, luego le dirás a SSH cómo utilizarla para autenticación y finalmente agregarás la clave a GitHub. La configuración es sencilla y te protegerá contra ataques de seguridad. La identidad se almacena de manera segura en el Secure Enclave y solo se puede acceder con Touch ID. Esto te proporciona una mayor seguridad que las claves tradicionales. La autenticación con Touch ID es rápida y fácil de usar. Además, no hay riesgo de perder la clave o de que se vea comprometida. La configuración es compatible con GitHub y otros servicios de Git. Si tienes alguna duda, puedes leer más sobre cómo funciona el proceso de autenticación con Touch ID. La seguridad es fundamental en la configuración de claves SSH, y esta guía te ayudará a configurar una configuración segura y fácil de usar. La identidad se almacena en el Secure Enclave y solo se puede acceder con Touch ID, lo que te proporciona una mayor seguridad que las claves tradicionales. La autenticación con Touch ID es rápida y fácil de usar, y no hay riesgo de perder la clave o de que se vea comprometida. La configuración es compatible con GitHub y otros servicios de Git. Si tienes alguna duda, puedes leer más sobre cómo funciona el proceso de autenticación con Touch ID.
+    <link href="https://cert.europa.eu/publications/security-advisories/2026-018/"/>
+    <summary>Las vulnerabilidades críticas en PHP pueden llevar a la ejecución remota de código, según revelaciones previas. La Fundación PHP anunció una actualización de seguridad que abordará estas vulnerabilidades, que podrían afectar a todas las versiones de PHP desde PHP 5. Las organizaciones se recomienda identificar aplicaciones basadas en PHP y prepararse para aplicar parches lo antes posible. Si la actualización no es posible, se recomienda aislar aplicaciones que interactúan con Internet de las redes públicas hasta que se pueda aplicar la solución.
 
 Contexto IA (informativo):
-La configuración de claves SSH en macOS con Touch ID es una forma segura de autenticarse a los servidores remotos. La identidad se almacena en el Secure Enclave y solo se puede acceder con Touch ID, lo que te proporciona una mayor seguridad que las claves tradicionales. La autenticación con Touch ID es rápida y fácil de usar, y no hay riesgo de perder la clave o de que se vea comprometida.</summary>
-    <published>2026-10-20T12:35:52+00:00</published>
+La Fundación PHP ha programado la actualización para el 21 de octubre de 2026 a las 14:00 UTC. No se han proporcionado detalles técnicos para las vulnerabilidades CVE-2026-109618 y CVE-2026-109619, aparte de sus puntuaciones de CVSS de 9.2, que indican el potencial de ejecución remota de código sin autenticación.</summary>
+    <published>2026-10-21T03:48:54+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/deshan_nethmina_0789e81a2/n-code-lazyflow-ai-making-everyday-tasks-easier-with-open-weight-gemma-5a5a</id>
-    <title>[Programación] N-CODE LazyFlow AI: Facilita tareas cotidianas con un asistente de productividad de código abierto</title>
-    <updated>2026-10-20T13:10:04.867996+00:00</updated>
+    <id>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</id>
+    <title>[Programación] Ocho bits de confianza; las claves de certificado de eMudhra se rompen en milisegundos</title>
+    <updated>2026-10-21T13:42:48.517040+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"/>
+    <summary>Una de las claves de certificado de autoridad privada de eMudhra es el número 4. Un número que no es el número 4, ni el número 4 seguido de varios cientos de dígitos aleatorios, sino solo el número 4. Se han recuperado todas las claves de los certificados públicos de eMudhra de su computadora y se han bloqueado en menos de un segundo. La seguridad de los certificados de eMudhra se vio comprometida cuando se informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Los navegadores Chrome y Firefox bloquearon los certificados, y Mozilla anunció públicamente y eliminó la raíz de eMudhra de su NSS. Las ocho claves son seis claves de certificado TLS (DV, OV y EV, dos generaciones cada una) y dos claves de código de firma, todas creadas en abril de 2025. Todas las claves fueron cruzadas con la raíz de certificado de Sectigo en mayo de 2025. La vulnerabilidad se debe a que las claves son de solo un byte y cualquier persona puede factorizarlas. La seguridad de los certificados de eMudhra se vio comprometida porque las claves eran públicas desde el día en que se emitieron los certificados y cualquier persona que los haya visto podría haber recuperado la clave en milisegundos. Los navegadores Chrome y Firefox bloquearon los certificados, pero no se puede prevenir la emisión de certificados falsos. Los clientes de TLS no están afectados, pero otros programas como curl, Python, Node, Go, Java, git y package managers pueden ser vulnerables.
+
+Contexto IA (informativo):
+La seguridad de los certificados de eMudhra se vio comprometida cuando se informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Los navegadores Chrome y Firefox bloquearon los certificados, y Mozilla anunció públicamente y eliminó la raíz de eMudhra de su NSS.</summary>
+    <published>2026-10-21T12:01:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/paullovelace/gptbot-vs-oai-searchbot-vs-chatgpt-user-what-to-block-and-keep-5b74</id>
+    <title>[Programación] ¿Qué bloquear (y mantener) en robots.txt?</title>
+    <updated>2026-10-21T13:42:48.517002+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/deshan_nethmina_0789e81a2/n-code-lazyflow-ai-making-everyday-tasks-easier-with-open-weight-gemma-5a5a"/>
-    <summary>El autor presentó N-CODE LazyFlow AI, un asistente de productividad de código abierto que utiliza el modelo de lenguaje abierto Gemma 3 para ayudar a las personas a organizar sus tareas de manera más eficiente. El sistema permite a los usuarios ingresar sus tareas, seleccionar su nivel de energía y tiempo disponible, y recibir un plan diario priorizado y realista. El autor demostró que el sistema puede funcionar localmente sin requerir un servicio de nube de lenguaje modelo propietario. El proyecto es de código abierto y se encuentra disponible en GitHub. El autor espera mejorar el sistema en el futuro con características como la accesibilidad y la retroalimentación de los usuarios.
+    <link href="https://dev.to/paullovelace/gptbot-vs-oai-searchbot-vs-chatgpt-user-what-to-block-and-keep-5b74"/>
+    <summary>El autor de un sitio personal de noticias comparte su experiencia con la creación de una lista de bloqueo de bots de inteligencia artificial en robots.txt. Después de intentar bloquear tres bots diferentes, descubre que bloquear a uno puede afectar la capacidad de otro para ser citado en respuestas de ChatGPT. El autor recomienda bloquear solo a los bots de entrenamiento y mantener los otros, ya que bloquear a ChatGPT-User puede afectar la capacidad de los usuarios para acceder a la página. También destaca la importancia de explicar las razones detrás de cada bloqueo en robots.txt para evitar errores en el futuro.
 
 Contexto IA (informativo):
-El autor de este proyecto es un desarrollador de software que busca crear herramientas de productividad más accesibles y fáciles de usar. El proyecto LazyFlow AI es una demostración de cómo se puede utilizar el modelo de lenguaje abierto Gemma 3 para crear un asistente de productividad de código abierto.</summary>
-    <published>2026-10-20T12:56:22+00:00</published>
+El autor de la noticia destaca la importancia de entender cómo funcionan los bots de inteligencia artificial y cómo afectan la capacidad de un sitio para ser citado en respuestas de ChatGPT. También menciona que bloquear a los bots de entrenamiento puede afectar la capacidad de otros bots para ser citados, lo que puede tener consecuencias negativas para la SEO del sitio.</summary>
+    <published>2026-10-21T13:24:28+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/asrocky010_7cfd07f11375df/planet-zoo-2s-animal-list-by-region-130-species-12-regions-and-three-regions-that-hold-exactly-icf</id>
-    <title>[Programación] La lista de especies de Planet Zoo 2 por región: 130 especies, 12 regiones y tres regiones que contienen exactamente una especie</title>
-    <updated>2026-10-20T13:10:04.867929+00:00</updated>
+    <id>https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38</id>
+    <title>[Programación] Plataformas de Gestión de APIs: Cómo se Comparan en 2026</title>
+    <updated>2026-10-21T13:42:48.516949+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/asrocky010_7cfd07f11375df/planet-zoo-2s-animal-list-by-region-130-species-12-regions-and-three-regions-that-hold-exactly-icf"/>
-    <summary>Planet Zoo 2 se lanzó el 13 de octubre de 2026 con 130 especies. La pregunta más simple es si se puede obtener la lista de especies. Sin embargo, en el juego no se puede obtener directamente. Se exportó el payload detrás de la Zoopedia y se creó la lista. La lista está disponible y está licenciada bajo CC BY 4.0. La lista de especies se puede encontrar en pz2tools.wiki/animals, mientras que la lista de regiones se puede encontrar en pz2tools.wiki/regions. La lista de especies se ha agrupado por región, lo que expone algunos detalles que no se pueden ver en la página de la lista de especies. La lista de especies tiene 13 campos, cada uno de los cuales contiene información sobre la especie, como el nombre común, la clasificación científica, el bioma y la región. La lista de especies tiene 204 asignaciones, lo que significa que cada especie puede estar asociada con varias regiones. La lista de especies tiene 82 especies que solo aparecen en una región, mientras que 48 especies aparecen en dos o más regiones. La lista de especies también incluye algunos datos interesantes, como la especie de hámster que es la única especie que aparece en la región del Ártico. La lista de especies también incluye algunos datos sobre cómo funcionan las barreras de protección en el juego. En resumen, la lista de especies de Planet Zoo 2 es una herramienta útil para los jugadores que buscan obtener más información sobre las especies y sus características.
+    <link href="https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38"/>
+    <summary>Las plataformas de gestión de APIs tradicionales se destacan en ciclos de REST y SOAP, pero las cargas de trabajo empresariales modernas requieren un sobreimpulsor de milisegundos, soporte nativo del protocolo de contexto del modelo y gobernanza de tokens de streaming. Bifrost se destaca como la opción de alta velocidad, agencia y carga de trabajo multi-modelo, con solo 11 microsegundos de sobreimpulsor por solicitud a 5,000 solicitudes por segundo. Kong Gateway y Gravitee siguen siendo opciones sólidas para arquitecturas de Kubernetes de microservicios y nubes híbridas. Apigee, AWS API Gateway y MuleSoft Anypoint siguen siendo opciones sólidas para ecosistemas empresariales profundos con alta gobernanza, modelos de precios complejos y ejecución más pesada. Seleccionar la plataforma adecuada requiere equilibrar el latencia de ejecución, la soberanía de la implementación (en-VPC versus SaaS), la flexibilidad de protocolo y la enmienda de la política de endpoint. Las arquitecturas empresariales procesan billones de solicitudes mensuales a través de microservicios, bases de datos y modelos generativos, lo que hace que las plataformas de gestión de APIs centrales sean esenciales para la seguridad, la ruta y la visibilidad operativa. Según la 2025 Gartner Magic Quadrant for API Management, las estrategias de API empresariales se están moviendo rápidamente de la gestión de solicitudes estáticas hacia la gestión dinámica, agente consciente de la tráfico. Bifrost, una plataforma de gateway de inteligencia artificial abierta desarrollada por Maxim AI, ha emergido junto con las plataformas de gestión de APIs legadas al unir la alta velocidad de routing con el soporte nativo del protocolo de contexto del modelo y la automatización de falla. Esta comparación técnica examina cómo las plataformas de gestión de APIs modernas y establecidas se evalúan en cuanto a rendimiento, arquitectura, gobernanza y costo operativo.
 
 Contexto IA (informativo):
-La lista de especies de Planet Zoo 2 es una herramienta útil para los jugadores que buscan obtener más información sobre las especies y sus características. La lista de especies se ha agrupado por región, lo que expone algunos detalles que no se pueden ver en la página de la lista de especies. La lista de especies tiene 13 campos, cada uno de los cuales contiene información sobre la especie, como el nombre común, la clasificación científica, el bioma y la región. La lista de especies también incluye algunos datos interesantes, como la especie de hámster que es la única especie que aparece en la región del Ártico.</summary>
-    <published>2026-10-20T12:57:03+00:00</published>
+La industria de las APIs ha evolucionado significativamente en los últimos años, con un enfoque creciente en la gestión de APIs modernas y la convergencia de la frontera entre gateways generales y proxies especializados en inteligencia artificial y MCP. Las plataformas de gestión de APIs deben adaptarse a las nuevas demandas de rendimiento, flexibilidad y gobernanza, lo que requiere una evaluación cuidadosa de las características de runtime y los patrones de falla en el mundo real.</summary>
+    <published>2026-10-21T13:25:50+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/session_replay/every-origin-your-page-talks-to-and-the-four-traps-in-listing-them-4n5m</id>
-    <title>[Programación] Cada origen que habla en tu página y las cuatro trampas en la lista de ellos</title>
-    <updated>2026-10-20T13:10:04.867822+00:00</updated>
+    <id>https://dev.to/seven_billion_ffd761d9574/write-the-erp-demo-script-before-you-meet-a-single-vendor-5gji</id>
+    <title>[Programación] Escribe el script de demo de ERP antes de conocer un solo proveedor</title>
+    <updated>2026-10-21T13:42:48.516861+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/session_replay/every-origin-your-page-talks-to-and-the-four-traps-in-listing-them-4n5m"/>
-    <summary>Safari 27 bloquea ahora categorías de dominios de terceros de manera absoluta, sin necesidad de configuración. Esto significa que cada equipo debe verificar si hay algún origen en su página. La respuesta no se puede obtener leyendo el repositorio, ya que puede cambiar sin un despliegue. Para obtener la lista, se puede utilizar el panel de red o Resource Timing. Sin embargo, hay cuatro trampas que pueden evitar obtener la lista completa. La primera trampa es que el buffer es pequeño, lo que puede perder algunos recursos. La segunda trampa es que el encabezado de respuesta es ineficaz si no se especifica el destino de los informes. La tercera trampa es que el encabezado de respuesta no es universalmente soportado. La cuarta trampa es que no se puede agregar este encabezado desde un elemento &lt;meta&gt;. Por lo tanto, es importante tener la lista de origen antes de necesitarla para evitar pérdidas de información.
+    <link href="https://dev.to/seven_billion_ffd761d9574/write-the-erp-demo-script-before-you-meet-a-single-vendor-5gji"/>
+    <summary>La mayoría de las listas de corto de ERP se deciden por la mejor demo, no por la mejor adaptación. Esto no es culpa del comprador. Un demo de proveedor está diseñado para mostrar el producto en su mejor luz, con datos de muestra limpios y un camino que el presentador ha recorrido muchas veces. La solución es simple y rara: escribir el script propio antes de la primera reunión. En un script de demo, se deben incluir los pocos procesos que hacen o pierden dinero. Por ejemplo, el proceso de pedido a entrega, la modificación de cambios de ingeniería en un pedido en vivo, el conteo de fin de mes o la transferencia de inventario en sitios múltiples. Para cada uno, se deben escribir los pasos que sigue el equipo, incluyendo los incómodos. Luego se deben agregar datos propios. Se deben pedir a cada proveedor que ejecute el mismo script con los mismos datos. Esto hace que tres ventas se conviertan en una comparación única. Se detiene el juicio de características y se comienza a evaluar la adaptación. También se ve cómo cada producto maneja las excepciones que llenan los calendarios de los planificadores. Los scripts limpios de felicidad parecen lo mismo en cada sistema. Las excepciones no lo hacen. También expone al socio, no solo al producto. La marca de ERP es menos importante que las personas que lo configurarán. Se debe preguntar a buenos preguntas sobre las rutas. Se debe pedir referencias a cada socio cerca de las plantas, y luego llamarlas. Se debe pedir que cada proveedor price el mismo escenario, con licencias, implementación, migración de datos y soporte enumerados por separado. Las cotizaciones que cubren diferentes escenarios no se pueden comparar y las diferencias suelen aparecer más tarde como solicitudes de cambios. En cualquier caso, se debe pensar en la data. Sea que el sistema que gane, el valor de la inteligencia artificial después de la implementación depende de los maestros limpios y las transacciones del mismo día. Se debe incluir una revisión de la data readiness dentro del plan del proyecto, no después de él. El artículo completo compara Infor LN, SAP y Microsoft Dynamics en profundidad de fabricación, multi-sitio, GST de India, socios y readibilidad de inteligencia artificial, con cada afirmación vinculada a la página del propio proveedor. También tiene un árbol de decisión para construir una lista de corto justa. Se puede leer el artículo completo: Infor LN vs SAP vs Dynamics para fabricantes de tamaño medio
 
 Contexto IA (informativo):
-La importancia de tener la lista de origen se debe a que puede ocurrir que un origen no responda por razones que nunca llegan a ti, como un navegador por defecto, una extensión o un producto de seguridad de fin de línea. En estos casos, el servidor no ve nada, ya que no hay nada que ver. Los registros son completos y sin sentido. Lo que llega es una persona que dice que no se ha registrado, sin mencionar ningún tercer partido, porque no puede verlo tampoco.</summary>
-    <published>2026-10-20T12:58:16+00:00</published>
+El artículo fue escrito por Abhijit Singh, CEO de Seven Billion Analytics, que construye sistemas de inteligencia artificial, análisis y ERP para fabricantes y distribuidores de tamaño medio.</summary>
+    <published>2026-10-21T13:26:12+00:00</published>
   </entry>
 </feed>
