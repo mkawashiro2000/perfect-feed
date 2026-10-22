@@ -19,12 +19,15 @@
   --orange:    #ff8a3d;
   --green:     #34d058;
   --red:       #ff4d4d;
+  --grid-line: rgba(10,10,10,.07);
+  --grid-stroke: 2px;
+  --shadow-color: var(--ink);
 
   --border:    3px solid var(--ink);
   --border-thick: 4px solid var(--ink);
-  --shadow:    6px 6px 0 var(--ink);
-  --shadow-lg: 9px 9px 0 var(--ink);
-  --shadow-sm: 4px 4px 0 var(--ink);
+  --shadow:    6px 6px 0 var(--shadow-color);
+  --shadow-lg: 9px 9px 0 var(--shadow-color);
+  --shadow-sm: 4px 4px 0 var(--shadow-color);
 
   --font-display: 'Archivo Black', system-ui, sans-serif;
   --font-body:    'Space Grotesk', system-ui, sans-serif;
@@ -34,9 +37,9 @@
 
 :root[data-theme='night'] {
   color-scheme: dark;
-  --bg:        #151310;
-  --ink:       #f5e6c8;
-  --white:     #24211d;
+  --bg:        #101010;
+  --ink:       #f7f7f2;
+  --white:     #1b1b1b;
   --yellow:    #ffd633;
   --pink:      #ff6aab;
   --cyan:      #58dced;
@@ -45,6 +48,9 @@
   --orange:    #ff9852;
   --green:     #45dc68;
   --red:       #ff6666;
+  --grid-line: rgba(255,255,255,.14);
+  --grid-stroke: 1px;
+  --shadow-color: #000000;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -56,8 +62,8 @@ body {
   background-color: var(--bg);
   /* Cuadrícula de fondo estilo papel */
   background-image:
-    linear-gradient(rgba(10,10,10,.07) 2px, transparent 2px),
-    linear-gradient(90deg, rgba(10,10,10,.07) 2px, transparent 2px);
+    linear-gradient(var(--grid-line) var(--grid-stroke), transparent var(--grid-stroke)),
+    linear-gradient(90deg, var(--grid-line) var(--grid-stroke), transparent var(--grid-stroke));
   background-size: 38px 38px;
   font-size: 16px;
   line-height: 1.55;
@@ -110,9 +116,9 @@ header a { color: var(--on-bright); }
   background: var(--ink); color: var(--bg); border: var(--border); padding: .45rem .7rem;
   box-shadow: var(--shadow-sm); transition: transform .1s, box-shadow .1s;
 }
-.theme-toggle:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--ink); }
-.btn-rss:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--ink); }
-.btn-rss:active { transform: translate(2px,2px); box-shadow: 1px 1px 0 var(--ink); }
+.theme-toggle:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--shadow-color); }
+.btn-rss:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--shadow-color); }
+.btn-rss:active { transform: translate(2px,2px); box-shadow: 1px 1px 0 var(--shadow-color); }
 
 /* ── HERO ── */
 .hero { padding: 3rem 0 1.5rem; }
@@ -150,7 +156,7 @@ header a { color: var(--on-bright); }
   transition: transform .12s, box-shadow .12s;
   color: var(--on-bright);
 }
-.tasa-card:hover { transform: translate(-3px,-3px); box-shadow: 12px 12px 0 var(--ink); }
+.tasa-card:hover { transform: translate(-3px,-3px); box-shadow: 12px 12px 0 var(--shadow-color); }
 .tasa-card.usd { background: var(--lime); }
 .tasa-card.eur { background: var(--purple); }
 .tasa-card .moneda-label {
@@ -218,8 +224,8 @@ header a { color: var(--on-bright); }
   background: var(--white); border: var(--border); padding: .55rem 1.1rem;
   box-shadow: var(--shadow-sm); transition: transform .1s, box-shadow .1s, background .1s;
 }
-.cat-nav button:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--ink); }
-.cat-nav button.active { background: var(--yellow); transform: translate(2px,2px); box-shadow: 1px 1px 0 var(--ink); }
+.cat-nav button:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--shadow-color); }
+.cat-nav button.active { background: var(--yellow); color: var(--on-bright); transform: translate(2px,2px); box-shadow: 1px 1px 0 var(--shadow-color); }
 
 /* ── Categorías y tarjetas ── */
 .categoria { margin-bottom: 3.5rem; scroll-margin-top: 100px; }
@@ -258,7 +264,7 @@ header a { color: var(--on-bright); }
 .card.reveal { opacity: 1; transform: translateY(0); }
 .card:hover {
   transform: translate(-4px,-4px) !important;
-  box-shadow: 11px 11px 0 var(--ink);
+  box-shadow: 11px 11px 0 var(--shadow-color);
 }
 /* Color de barra superior rotando por tarjeta */
 .card:nth-child(4n+1) .card-source { background: var(--yellow); }
@@ -269,7 +275,7 @@ header a { color: var(--on-bright); }
   align-self: flex-start;
   font-family: var(--font-mono); font-weight: 700; font-size: .68rem;
   text-transform: uppercase; letter-spacing: .04em;
-  border: var(--border); padding: .25rem .6rem; box-shadow: 3px 3px 0 var(--ink);
+  border: var(--border); padding: .25rem .6rem; box-shadow: 3px 3px 0 var(--shadow-color);
   color: var(--on-bright);
 }
 .verified-badge {
@@ -313,7 +319,7 @@ header a { color: var(--on-bright); }
   background: var(--purple);
   color: var(--on-bright);
   padding: .8rem 1rem .85rem;
-  box-shadow: 3px 3px 0 var(--ink);
+  box-shadow: 3px 3px 0 var(--shadow-color);
 }
 .ia-label {
   font-family: var(--font-mono);
@@ -340,10 +346,33 @@ footer {
 }
 
 :root[data-theme='night'] .ticker-band:not(.second),
-:root[data-theme='night'] footer { background: #080808; color: #f5e6c8; }
+:root[data-theme='night'] footer { background: #050505; color: var(--ink); }
 :root[data-theme='night'] .ia-label,
 :root[data-theme='night'] .converter-kicker { background: #080808; color: var(--yellow); }
 :root[data-theme='night'] .quick-converter { color: var(--on-bright); }
+:root[data-theme='night'] header { border-bottom-color: var(--on-bright); }
+:root[data-theme='night'] .brand .logo,
+:root[data-theme='night'] .chip-live,
+:root[data-theme='night'] .btn-rss,
+:root[data-theme='night'] .hero .tag,
+:root[data-theme='night'] .tasa-card,
+:root[data-theme='night'] .ticker-band .label,
+:root[data-theme='night'] .cat-icon,
+:root[data-theme='night'] .card-source,
+:root[data-theme='night'] .verified-badge,
+:root[data-theme='night'] .ia-analysis,
+:root[data-theme='night'] .quick-converter { border-color: var(--on-bright); }
+:root[data-theme='night'] .tk-buy,
+:root[data-theme='night'] .tk-sell { color: var(--on-bright); border-color: var(--on-bright); }
+:root[data-theme='night'] .card,
+:root[data-theme='night'] .cat-nav button:not(.active),
+:root[data-theme='night'] .tv-block,
+:root[data-theme='night'] .converter-controls select,
+:root[data-theme='night'] .converter-controls input,
+:root[data-theme='night'] #converter-result span { background-color: rgba(27,27,27,.96); }
+:root[data-theme='night'] .cat-nav button.active {
+  background-color: var(--yellow); border-color: var(--on-bright); color: var(--on-bright);
+}
 footer .container { display: flex; flex-direction: column; gap: 1rem; align-items: flex-start; }
 footer p { font-weight: 500; }
 footer .foot-badges { display: flex; gap: .7rem; flex-wrap: wrap; }
@@ -423,7 +452,7 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   .card > summary::after { font-size: 1.15rem; }
   .card h4 { font-size: 1rem; }
   .card-top { align-items: center; gap: .4rem; }
-  .card-source { font-size: .62rem; padding: .2rem .45rem; box-shadow: 2px 2px 0 var(--ink); }
+  .card-source { font-size: .62rem; padding: .2rem .45rem; box-shadow: 2px 2px 0 var(--shadow-color); }
   .card-date { font-size: .62rem; }
   .card .read-more { padding: .55rem .9rem; font-size: .74rem; }
 
@@ -457,7 +486,7 @@ footer .badge:hover { box-shadow: 3px 3px 0 var(--cyan); }
   box-shadow: var(--shadow-lg); padding: 1.25rem 1.4rem; display: flex;
   flex-direction: column; gap: .7rem;
 }
-.quick-converter:hover { transform: translate(-3px,-3px); box-shadow: 12px 12px 0 var(--ink); }
+.quick-converter:hover { transform: translate(-3px,-3px); box-shadow: 12px 12px 0 var(--shadow-color); }
 .converter-kicker { font-family: var(--font-mono); font-size: .68rem; font-weight: 700; background: var(--ink); color: var(--yellow); padding: .2rem .45rem; align-self: flex-start; }
 .quick-converter h3 { font-family: var(--font-display); font-size: 1.1rem; line-height: 1.1; }
 .converter-controls { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: .4rem .55rem; }

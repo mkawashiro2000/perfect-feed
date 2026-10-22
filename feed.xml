@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-22T13:46:26.772517+00:00</updated>
+  <updated>2026-10-22T13:55:53.275624+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -13,7 +13,7 @@
   <entry>
     <id>https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html</id>
     <title>[Economía] American Airlines prevé pérdidas más grandes en 2026 debido a un aumento en el precio del petróleo, planea ralentizar el crecimiento de la capacidad al año siguiente</title>
-    <updated>2026-10-22T13:46:26.773879+00:00</updated>
+    <updated>2026-10-22T13:55:53.277165+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -27,7 +27,7 @@ American Airlines prevé perder más dinero debido a un aumento en el precio del
   <entry>
     <id>https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html</id>
     <title>[Economía] American Express trae reservas de Airbnb y recompensas a la plataforma de viajes de Amex</title>
-    <updated>2026-10-22T13:46:26.773828+00:00</updated>
+    <updated>2026-10-22T13:55:53.277093+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -41,7 +41,7 @@ La nueva partnership entre American Express y Airbnb busca ofrecer a los cardhol
   <entry>
     <id>https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html</id>
     <title>[Economía] Vulnerabilidades en PHP permiten a hackers acceder a sitios web</title>
-    <updated>2026-10-22T13:46:26.773793+00:00</updated>
+    <updated>2026-10-22T13:55:53.277055+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -55,7 +55,7 @@ La existencia de vulnerabilidades en PHP es preocupante, especialmente para orga
   <entry>
     <id>https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html</id>
     <title>[Economía] Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios de combustible más altos</title>
-    <updated>2026-10-22T13:46:26.773757+00:00</updated>
+    <updated>2026-10-22T13:55:53.277017+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -69,7 +69,7 @@ Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios
   <entry>
     <id>https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html</id>
     <title>[Economía] Protestas en Francia: Macron condena comentarios "estúpidos" de Trump y otros</title>
-    <updated>2026-10-22T13:46:26.773719+00:00</updated>
+    <updated>2026-10-22T13:55:53.276977+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +83,7 @@ La violencia en Francia es un tema importante porque afecta a la estabilidad pol
   <entry>
     <id>https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html</id>
     <title>[Economía] Jobless claims near the lowest since the 1960s as low-fire trend continues</title>
-    <updated>2026-10-22T13:46:26.773685+00:00</updated>
+    <updated>2026-10-22T13:55:53.276937+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -97,7 +97,7 @@ La tendencia de "fuego bajo" en el mercado laboral es importante porque refleja 
   <entry>
     <id>https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/</id>
     <title>[Data Science] Construí una pipeline para rastrear el mercado laboral al que estoy intentando entrar.</title>
-    <updated>2026-10-22T13:46:26.773651+00:00</updated>
+    <updated>2026-10-22T13:55:53.276901+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -111,7 +111,7 @@ La importancia de esta pipeline radica en que permite al autor analizar el merca
   <entry>
     <id>https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/</id>
     <title>[Data Science] La seguridad de la inteligencia artificial es una preocupación creciente para las organizaciones.</title>
-    <updated>2026-10-22T13:46:26.773615+00:00</updated>
+    <updated>2026-10-22T13:55:53.276866+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -125,7 +125,7 @@ La seguridad de la inteligencia artificial es una preocupación creciente para l
   <entry>
     <id>https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm</id>
     <title>[Data Science] Named Entity Recognition Using Scikit-LLM</title>
-    <updated>2026-10-22T13:46:26.773580+00:00</updated>
+    <updated>2026-10-22T13:55:53.276831+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -139,7 +139,7 @@ El reconocimiento de entidades nombradas es una aplicación importante en divers
   <entry>
     <id>https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/</id>
     <title>[Data Science] ¿Podría la auto-distilación on-policy revolucionar el entrenamiento posterior?</title>
-    <updated>2026-10-22T13:46:26.773544+00:00</updated>
+    <updated>2026-10-22T13:55:53.276793+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -153,7 +153,7 @@ La auto-distilación on-policy es una técnica prometedora para permitir que los
   <entry>
     <id>https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining</id>
     <title>[Data Science] Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining</title>
-    <updated>2026-10-22T13:46:26.773509+00:00</updated>
+    <updated>2026-10-22T13:55:53.276757+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -167,7 +167,7 @@ Harness² es importante porque permite a los agentes de inteligencia artificial 
   <entry>
     <id>https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/</id>
     <title>[Data Science] El modelo de razonamiento DeepSeek-R1-Distill-Qwen-1.5B sigue una pista incorrecta en algunas preguntas.</title>
-    <updated>2026-10-22T13:46:26.773475+00:00</updated>
+    <updated>2026-10-22T13:55:53.276720+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -181,7 +181,7 @@ Es importante entender que el modelo de razonamiento puede seguir una pista inco
   <entry>
     <id>https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/</id>
     <title>[Fórmula 1] "I'll probablemente necesitar a ordenar una nueva espalda" – Verstappen preparado para fin de semana bumpy en COTA | Fórmula 1</title>
-    <updated>2026-10-22T13:46:26.773434+00:00</updated>
+    <updated>2026-10-22T13:55:53.276679+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -195,7 +195,7 @@ La competencia en Fórmula 1 es intensa y cada fin de semana es una nueva oportu
   <entry>
     <id>https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/</id>
     <title>[Fórmula 1] FIA abre centro de operaciones de carreras en base de FOM de Biggin Hill</title>
-    <updated>2026-10-22T13:46:26.773382+00:00</updated>
+    <updated>2026-10-22T13:55:53.276621+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -209,7 +209,7 @@ El centro de operaciones de carreras es una inversión importante para el futuro
   <entry>
     <id>https://www.f1technical.net/news/29477</id>
     <title>[Fórmula 1] Haas lanza livery especial de Godzilla para GP de Estados Unidos 2026</title>
-    <updated>2026-10-22T13:46:26.773303+00:00</updated>
+    <updated>2026-10-22T13:55:53.276463+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -223,7 +223,7 @@ La colaboración de Haas con Godzilla es una oportunidad única para conectar co
   <entry>
     <id>https://www.f1technical.net/news/29480</id>
     <title>[Fórmula 1] MotoGP presentará su debut en la carrera de F1 de Texas</title>
-    <updated>2026-10-22T13:46:26.773260+00:00</updated>
+    <updated>2026-10-22T13:55:53.276395+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -237,7 +237,7 @@ MotoGP está buscando expandir su audiencia y presentar su deporte a un público
   <entry>
     <id>https://www.f1technical.net/news/29481</id>
     <title>[Fórmula 1] Mercedes unveils special MANUFAKTUR livery for this weekend's United States Grand Prix</title>
-    <updated>2026-10-22T13:46:26.773201+00:00</updated>
+    <updated>2026-10-22T13:55:53.276285+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -251,7 +251,7 @@ La livery especial de Mercedes es importante porque marca el comienzo del penúl
   <entry>
     <id>https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529</id>
     <title>[Tecnología] Los chatbots están creando un "self-portrait" de los usuarios</title>
-    <updated>2026-10-22T13:46:26.773157+00:00</updated>
+    <updated>2026-10-22T13:55:53.276218+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -265,7 +265,7 @@ La creación de chatbots que conocen a los usuarios muy bien plantea preocupacio
   <entry>
     <id>https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/</id>
     <title>[Tecnología] Un robot de seto que conecta a los usuarios con la naturaleza</title>
-    <updated>2026-10-22T13:46:26.773115+00:00</updated>
+    <updated>2026-10-22T13:55:53.276179+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
@@ -279,7 +279,7 @@ Mori es un robot de seto que busca reconnectar a los usuarios con la naturaleza;
   <entry>
     <id>https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/</id>
     <title>[Tecnología] 1Password dejará que controlen su seguridad de datos sus agentes de inteligencia artificial preferidos</title>
-    <updated>2026-10-22T13:46:26.773072+00:00</updated>
+    <updated>2026-10-22T13:55:53.276141+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
@@ -293,7 +293,7 @@ Por qué importa:
   <entry>
     <id>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</id>
     <title>[Tecnología] Insta360 lanza una versión más asequible de sus micrófonos inalámbricos con pantallas de color</title>
-    <updated>2026-10-22T13:46:26.773031+00:00</updated>
+    <updated>2026-10-22T13:55:53.276103+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -307,7 +307,7 @@ La nueva versión del Mic es interesante porque ofrece una solución más asequi
   <entry>
     <id>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</id>
     <title>[Tecnología] El Birdbuddy Nook es el ganador de la prueba de diseño para roedores</title>
-    <updated>2026-10-22T13:46:26.772991+00:00</updated>
+    <updated>2026-10-22T13:55:53.276064+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -321,7 +321,7 @@ El Birdbuddy Nook ha demostrado ser una solución efectiva para aquellos que bus
   <entry>
     <id>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</id>
     <title>[Tecnología] DeepSeek reportadamente aumenta $15B días después de las restricciones de EE. UU.</title>
-    <updated>2026-10-22T13:46:26.772951+00:00</updated>
+    <updated>2026-10-22T13:55:53.276027+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -335,7 +335,7 @@ La expansión de DeepSeek podría intensificar la competencia entre rivales naci
   <entry>
     <id>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</id>
     <title>[Programación] Ocho bits de confianza; las claves de autoridad de eMudhra se rompen en milisegundos</title>
-    <updated>2026-10-22T13:46:26.772911+00:00</updated>
+    <updated>2026-10-22T13:55:53.275988+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -349,7 +349,7 @@ El problema es que muchos clientes no revisan la revocación ni la transparencia
   <entry>
     <id>https://www.koreajoongangdaily.com/business/cybersecurity-agency-calls-for-immediate-php-updates-over-critical-security-flaws/12933557</id>
     <title>[Programación] Agencia de seguridad cibernética llama a actualizaciones de PHP inmediatas debido a vulnerabilidades críticas</title>
-    <updated>2026-10-22T13:46:26.772865+00:00</updated>
+    <updated>2026-10-22T13:55:53.275946+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -363,7 +363,7 @@ La agencia de seguridad cibernética de Corea, KISA, ha emitido un alerta sobre 
   <entry>
     <id>https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/</id>
     <title>[Programación] Debunking "Faster than Rust": Malicious Benchmarks in Tov</title>
-    <updated>2026-10-22T13:46:26.772822+00:00</updated>
+    <updated>2026-10-22T13:55:53.275906+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -377,7 +377,7 @@ La publicación se centró en la crítica de Tov por sus benchmarking engañosas
   <entry>
     <id>https://dev.to/kavindotdev/how-the-wayback-machine-actually-works-i-went-down-the-orkut-rabbit-hole-529o</id>
     <title>[Programación] Cómo funciona la máquina del tiempo de Internet</title>
-    <updated>2026-10-22T13:46:26.772771+00:00</updated>
+    <updated>2026-10-22T13:55:53.275859+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -391,7 +391,7 @@ La Wayback Machine es importante porque permite a los usuarios ver páginas web 
   <entry>
     <id>https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al</id>
     <title>[Programación] Dual-pane SFTP con una cola de transferencia resumable: una guía práctica de AI-SSH-Pro</title>
-    <updated>2026-10-22T13:46:26.772690+00:00</updated>
+    <updated>2026-10-22T13:55:53.275779+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -405,7 +405,7 @@ La herramienta es útil para aquellos que necesitan transferir archivos de maner
   <entry>
     <id>https://dev.to/dataspryva/your-hiring-chart-may-measure-who-posts-most-often-4hhk</id>
     <title>[Programación] Un anuncio en un sitio web de empleo puede medir quién publica más a menudo</title>
-    <updated>2026-10-22T13:46:26.772554+00:00</updated>
+    <updated>2026-10-22T13:55:53.275650+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
