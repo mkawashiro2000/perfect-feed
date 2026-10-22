@@ -8,7 +8,8 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <meta name="theme-color" content="#F7DC5C">
-  <link rel="stylesheet" href="styles.css?v=classic-20261022">
+  <script>try{const saved=localStorage.getItem('perfect-feed-theme');document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme:dark)').matches?'night':'day')}catch(e){document.documentElement.dataset.theme='day'}</script>
+  <link rel="stylesheet" href="styles.css?v=classic-dark-20261022">
   <link rel="alternate" type="application/atom+xml" title="Perfect Feed RSS" href="https://perfect-feed.kawashiro.dev/feed.xml">
 </head>
 <body>
@@ -16,7 +17,7 @@
 <header>
   <div class="container header-inner">
     <div class="brand"><div class="logo">⚡</div><h1>PERFECT FEED</h1></div>
-    <div class="header-meta"><span class="chip-live">En vivo</span><span class="chip-date">22/10/2026 a las 09:39</span><a class="btn-rss" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 RSS</a></div>
+    <div class="header-meta"><span class="chip-live">En vivo</span><span class="chip-date">22/10/2026 a las 09:46</span><button class="theme-toggle" type="button" aria-pressed="false">◐ <span class="theme-label">Oscuro</span></button><a class="btn-rss" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 RSS</a></div>
   </div>
 </header>
 
@@ -43,6 +44,7 @@
 
 <footer><div class="container"><p><strong>PERFECT FEED</strong> — Generado automáticamente en una Raspberry Pi 4. Traducción y análisis con Ollama (llama3.2) sobre el MacBook.</p><p>Tasas cortesía de InfoDolar.com.do · dato almacenado</p><div class="foot-badges"><span class="badge">🍓 RASPBERRY PI 4</span><span class="badge">🦙 OLLAMA LOCAL</span><span class="badge">⚡ CERO APIS DE PAGO</span><a class="badge" href="https://perfect-feed.kawashiro.dev/feed.xml">📡 SUSCRÍBETE RSS</a></div></div></footer>
 <script>
+const themeButton=document.querySelector('.theme-toggle'),themeLabel=document.querySelector('.theme-label');function syncTheme(){const night=document.documentElement.dataset.theme==='night';themeButton.setAttribute('aria-pressed',String(night));themeLabel.textContent=night?'Claro':'Oscuro'}themeButton.addEventListener('click',()=>{document.documentElement.dataset.theme=document.documentElement.dataset.theme==='night'?'day':'night';try{localStorage.setItem('perfect-feed-theme',document.documentElement.dataset.theme)}catch(e){}syncTheme()});syncTheme();
 const botones=document.querySelectorAll('.cat-nav button');const secciones=document.querySelectorAll('[data-cat]');botones.forEach(btn=>btn.addEventListener('click',()=>{botones.forEach(b=>b.classList.remove('active'));btn.classList.add('active');const t=btn.dataset.target;secciones.forEach(s=>{s.style.display=(t==='all'||s.id===t)?'':'none'});if(t!=='all')document.getElementById(t).scrollIntoView({behavior:'smooth',block:'start'})}));document.querySelectorAll('details.card').forEach(d=>{d.open=false});
 const converterRates={usd:{compra:59.80,venta:61.61},eur:{compra:66.86,venta:70.54}};const converterCurrency=document.querySelector('#converter-currency'),converterRateType=document.querySelector('#converter-rate-type'),converterAmount=document.querySelector('#converter-amount'),converterResult=document.querySelector('#converter-result');function convertCurrency(){const [from,to]=converterCurrency.value.split('-'),rateType=converterRateType.value,currency=from==='dop'?to:from,baseRate=converterRates[currency][rateType],rate=baseRate+(rateType==='compra'?-1:1),amount=Number(converterAmount.value)||0;if(!baseRate){converterResult.textContent='Tasa no disponible.';return}const total=from==='dop'?amount/rate:amount*rate;const resultCurrency=to==='dop'?'RD$':to.toUpperCase();const decimals=to==='dop'?2:4;converterResult.innerHTML=`<strong>${resultCurrency} ${total.toLocaleString('es-DO',{minimumFractionDigits:decimals,maximumFractionDigits:decimals})}</strong><span>Tasa aplicada: ${to==='dop'?'RD$ '+rate.toFixed(2):'1 '+currency.toUpperCase()+' = RD$ '+rate.toFixed(2)}</span>`}converterCurrency.addEventListener('change',convertCurrency);converterRateType.addEventListener('change',convertCurrency);converterAmount.addEventListener('input',convertCurrency);convertCurrency();
 </script>
