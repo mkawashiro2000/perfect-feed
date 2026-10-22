@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-21T13:42:48.516840+00:00</updated>
+  <updated>2026-10-22T13:33:12.807750+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,381 +11,409 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs</id>
-    <title>[Economía] Aerolíneas Unidas subestiman sus ganancias, presionadas por los altos costos de combustible de avión</title>
-    <updated>2026-10-21T13:42:48.517803+00:00</updated>
-    <author>
-      <name>Bloomberg Markets</name>
-    </author>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs"/>
-    <summary>Aerolíneas Unidas ha subestimado sus ganancias para el último trimestre del año, lo que refleja cómo los altos precios del combustible de avión están reduciendo las ganancias aéreas, a pesar de la demanda de viaje resbalosa. La empresa ha mantenido su política de precios y no ha anunciado planes para reducir la flota. Los expertos consideran que esto podría afectar negativamente la rentabilidad de la aerolínea en el futuro.
-
-Contexto IA (informativo):
-Los precios del combustible de avión han aumentado significativamente en los últimos meses, lo que ha afectado a muchas aerolíneas. A pesar de esto, la demanda de viaje sigue siendo fuerte, lo que ha permitido a algunas aerolíneas mantener sus ganancias.</summary>
-    <published>2026-10-20T20:01:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1</id>
-    <title>[Economía] El apuesto juego de Musk: unión de Tesla y SpaceX a un costo de $3.6tn</title>
-    <updated>2026-10-21T13:42:48.517772+00:00</updated>
-    <author>
-      <name>International homepage</name>
-    </author>
-    <link href="https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1"/>
-    <summary>El hombre más rico del mundo intenta su más audaz operación hasta la fecha. Sin embargo, los accionistas y reguladores globales necesitarán convencerlos
-
-Contexto IA (informativo):
-Este movimiento podría tener implicaciones significativas para la industria del automóvil y la exploración espacial, y sus efectos en el mercado y la economía aún no están claros.</summary>
-    <published>2026-10-21T09:50:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html</id>
-    <title>[Economía] SpaceX aumenta 8% en premercado después de superar las expectativas de ganancias y Musk anuncia una posible alianza con Tesla</title>
-    <updated>2026-10-21T13:42:48.517739+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html</id>
+    <title>[Economía] American Airlines prevé pérdidas más grandes en 2026 debido a un aumento en el precio del petróleo, planea ralentizar el crecimiento de la capacidad al año siguiente</title>
+    <updated>2026-10-22T13:33:12.808888+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"/>
-    <summary>SpaceX reportó un crecimiento del 161% en sus ganancias en el tercer trimestre, superando las expectativas de los analistas. La empresa, que es propiedad de Elon Musk, también anunció que está considerando una posible alianza con Tesla, lo que marcaría el mayor acuerdo de fusión en la historia. Musk destacó que la combinación de las dos empresas podría ser beneficiosa debido a la convergencia en la inteligencia artificial. Las acciones de SpaceX aumentaron el 8,25% en premercado, mientras que las de Tesla subieron el 1,4%.
+    <link href="https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"/>
+    <summary>American Airlines prevé perder entre $1 y $1.60 por acción, ajustado, en el año completo, debido a un aumento en el precio del petróleo. La aerolínea reportó un tercer trimestre con una ganancia de $269 millones o 41 centavos por acción, frente a $114 millones o 17 centavos por acción el año anterior. La compañía espera ganar hasta un 22.5% más de dinero en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. El precio del petróleo ha aumentado más del 20% desde el año anterior, lo que ha impulsado los precios de los billetes de avión. American Airlines es la cuarta aerolínea estadounidense en reducir su proyección de ganancias para 2026 debido al aumento en el precio del petróleo. La aerolínea ha estado trabajando para reducir sus pérdidas, invirtiendo en nuevos salones de espera y asientos de clase ejecutiva; La compañía también ha nombrado a un nuevo jefe de red, lo que es el último movimiento en una serie de cambios en la gerencia. American Airlines prevé perder entre 50 centavos y $1.10 por acción ajustado en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. La aerolínea ha reportado un tercer trimestre con una ganancia de $269 millones o 41 centavos por acción, frente a $114 millones o 17 centavos por acción el año anterior. La compañía espera ganar hasta un 22.5% más de dinero en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. El precio del petróleo ha aumentado más del 20% desde el año anterior, lo que ha impulsado los precios de los billetes de avión.
 
-Contexto IA (informativo):
-La noticia de la posible alianza entre SpaceX y Tesla generó una reacción positiva en el mercado, con las acciones de otras empresas del sector del espacio también subiendo. SpaceX prevé que sus ganancias en el primer trimestre de 2027 superen los $33 mil millones, lo que superaría las expectativas de los analistas. La empresa también destacó el crecimiento de su negocio de inteligencia artificial, que se espera que siga creciendo en el futuro.</summary>
-    <published>2026-10-21T12:23:13+00:00</published>
+Por qué importa:
+American Airlines prevé perder más dinero debido a un aumento en el precio del petróleo, lo que ha impulsado los precios de los billetes de avión. La aerolínea está trabajando para reducir sus pérdidas, invirtiendo en nuevos salones de espera y asientos de clase ejecutiva.</summary>
+    <published>2026-10-22T11:56:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html</id>
-    <title>[Economía] Nvidia lanza contenedores de racks de AI que se pueden transportar en un camión</title>
-    <updated>2026-10-21T13:42:48.517706+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html</id>
+    <title>[Economía] American Express trae reservas de Airbnb y recompensas a la plataforma de viajes de Amex</title>
+    <updated>2026-10-22T13:33:12.808853+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html"/>
-    <summary>Nvidia ha anunciado un nuevo producto que integra siete racks de su plataforma de inteligencia artificial en un contenedor de transporte, lo que permite a los clientes tener sistemas completos de computación de inteligencia artificial. El contenedor, llamado DSX Pod AI Factory, pesa aproximadamente 28.000 kilogramos y se puede transportar en un camión normal. El sistema reduce el tiempo de inicio de un nuevo centro de datos de inteligencia artificial de seis meses a solo 14 días. La empresa no ha anunciado un precio para el sistema, pero se estima que un solo rack de inteligencia artificial puede costar más de $7 millones. El DSX Pod es una referencia de diseño que se enviará desde los socios de fabricación de Nvidia, incluyendo Foxconn, Gigabyte, Lenovo, HPE, Quanta y Pegatron. Las entregas se esperan a principios de 2027.
+    <link href="https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html"/>
+    <summary>American Express ha anunciado una nueva partnership con Airbnb para traer más de 1 millón de listados de alojamiento a su plataforma de viajes. Los cardholders de Amex pueden ahora ganar recompensas al reservar estancias en Airbnb. La plataforma de viajes de Amex también incluye más de 3.400 propiedades de hotel. Los miembros de la tarjeta Platinum pueden aplicar su crédito anual de $600 para alojamiento a las estancias más lujosas de Airbnb. Además, pueden obtener un crédito de $250 en su declaración si reservan una experiencia de Airbnb de alta gama. La nueva partnership busca atraer a clientes con beneficios adicionales. La competencia entre tarjetas de crédito premium sigue aumentando. American Express ha aumentado el costo anual de su tarjeta Platinum a $895. La compañía ha estado invirtiendo en beneficios adicionales para atraer a clientes de alto ingreso. El aumento de precios de los viajes y la creciente popularidad de las experiencias de viaje han llevado a que más de la mitad de los estadounidenses no cambien sus planes de viaje.
 
-Contexto IA (informativo):
-Nvidia ha evolucionado desde una empresa de chips hasta una empresa que ofrece soluciones de red, almacenamiento y necesidades de centro de datos a sus clientes. Sus sistemas de inteligencia artificial han avanzado desde un solo chip de procesamiento gráfico hasta servidores con cuatro o ocho GPUs, y ahora hasta contenedores de racks integrados.</summary>
-    <published>2026-10-21T12:43:49+00:00</published>
+Por qué importa:
+La nueva partnership entre American Express y Airbnb busca ofrecer a los cardholders más opciones y flexibilidad para sus reservas de viaje. La compañía busca atraer a clientes con beneficios adicionales y mantener su posición en el mercado de las tarjetas de crédito premium.</summary>
+    <published>2026-10-22T12:00:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video</id>
-    <title>[Economía] Los fanáticos de la música brasileña entran en la política</title>
-    <updated>2026-10-21T13:42:48.517674+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html</id>
+    <title>[Economía] Vulnerabilidades en PHP permiten a hackers acceder a sitios web</title>
+    <updated>2026-10-22T13:33:12.808817+00:00</updated>
     <author>
-      <name>Bloomberg Markets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video"/>
-    <summary>La música brasileña refleja la disputa política en el país, según Barbara Nascimento. La edición de Patricia Xavier de Bloomberg analiza este tema. La música es un reflejo de la diversidad cultural brasileña y su influencia en la política es significativa. La disputa política en Brasil se refleja en la música y en la cultura en general.
+    <link href="https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html"/>
+    <summary>El lenguaje de programación PHP, utilizado por el 70% de los sitios web con lenguajes de programación de servidor, ha sido objeto de preocupación debido a la existencia de vulnerabilidades que permiten a los hackers acceder a los sitios web sin autenticación. Las vulnerabilidades, conocidas como "PHP2Shell", fueron descubiertas por investigadores de la empresa Calif y Google, quienes utilizaron modelos de lenguaje artificial para identificarlas. El gobierno de EE. UU. ha advertido a millones de organizaciones de implementar parches urgentemente o tomar sus servidores offline. Las vulnerabilidades han estado presentes durante años, pero la velocidad a la que los hackers pueden explotarlas ha aumentado significativamente gracias a la utilización de modelos de lenguaje artificial. El PHP Foundation ha lanzado parches para las vulnerabilidades, pero algunos expertos advierten que es posible que las organizaciones no sepan si han sido hackeadas.
 
-Contexto IA (informativo):
-La música brasileña es un reflejo de la riqueza cultural del país y su influencia en la política es un tema de debate. La edición de Patricia Xavier de Bloomberg ofrece una perspectiva neutral sobre este tema.</summary>
-    <published>2026-10-21T13:20:15+00:00</published>
+Por qué importa:
+La existencia de vulnerabilidades en PHP es preocupante, especialmente para organizaciones que utilizan el lenguaje de programación en sus sitios web. La velocidad a la que los hackers pueden explotar estas vulnerabilidades ha aumentado significativamente gracias a la utilización de modelos de lenguaje artificial, lo que hace que sea más importante que las organizaciones tomen medidas para protegerse.</summary>
+    <published>2026-10-22T12:35:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html</id>
-    <title>[Economía] Cómo The New York Times informa sobre imágenes de A.I.</title>
-    <updated>2026-10-21T13:42:48.517642+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html</id>
+    <title>[Economía] Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios de combustible más altos</title>
+    <updated>2026-10-22T13:33:12.808782+00:00</updated>
     <author>
-      <name>NYT &gt; Business</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html"/>
-    <summary>Un reportero de The New York Times y los editores discuten los desafíos de distinguir entre lo real y lo falso en la búsqueda de noticias. La empresa ha implementado un sistema de verificación de imágenes que utiliza inteligencia artificial para identificar y eliminar las falsas. Además, los periodistas deben ser cautelosos al compartir imágenes que puedan ser manipuladas. La empresa también ha establecido un equipo de especialistas en inteligencia artificial para ayudar a los periodistas a identificar las imágenes falsas.
+    <link href="https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"/>
+    <summary>Southwest Airlines anunció que reduce su proyección de ganancias para 2026 debido a precios de combustible más altos. La aerolínea espera ganar entre $2.60 y $2.85 por acción ajustada en 2026, menos que su proyección de $3.25 a $4.25 por acción en julio. A pesar de los precios más altos, el CEO Bob Jordan dijo que los viajeros siguen reservando sus asientos. La aerolínea espera ganar 55 centavos y 80 centavos por acción ajustada en el cuarto trimestre; El número de pasajeros recaudados cayó un 3.2% a 33.47 millones de personas. La aerolínea también aumentó su tarifa promedio por pasajero en un 27% a $231.69; Southwest espera crecer su capacidad en un 4% anualmente. La aerolínea ha estado removiendo su modelo de negocio tradicional para aumentar la recaudación de ingresos. Southwest ha eliminado políticas como dos bolsas gratuitas por pasajero y asientos abiertos; La aerolínea ha comenzado a cobrar por la asignación de asientos y ha introducido una tarifa por bolsa. Southwest reportó una ganancia neta de $270 millones o 55 centavos por acción en el tercer trimestre. La aerolínea también aumentó su ingresos en un 21% a $8.42 billion; La aerolínea ajustó sus ganancias por una sola vez para eliminar un item. Southwest no está sola en reducir su proyección de ganancias; Delta Air Lines y United Airlines también lo hicieron.
 
-Contexto IA (informativo):
-La empresa ha estado trabajando para mejorar la precisión de sus informes y evitar la difusión de noticias falsas. Los periodistas de The New York Times deben ser conscientes de la importancia de verificar la información antes de publicarla.</summary>
-    <published>2026-10-21T13:21:54+00:00</published>
+Por qué importa:
+Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios de combustible más altos, lo que afecta a otras aerolíneas como Delta Air Lines y United Airlines. La aerolínea espera ganar entre $2.60 y $2.85 por acción ajustada en 2026, menos que su proyección de $3.25 a $4.25 por acción en julio.</summary>
+    <published>2026-10-22T12:42:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/</id>
-    <title>[Data Science] Construyendo un analista de inteligencia artificial, paso a paso</title>
-    <updated>2026-10-21T13:42:48.517610+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html</id>
+    <title>[Economía] Protestas en Francia: Macron condena comentarios "estúpidos" de Trump y otros</title>
+    <updated>2026-10-22T13:33:12.808745+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/"/>
-    <summary>En este episodio, se explora la relación entre la cantidad de corredores en el primer tiempo y el resultado final de un partido. Se analiza la cantidad de veces que los equipos que corren más en el primer tiempo ganan, y se comparan los resultados con los equipos que corren menos. Se discuten las limitaciones de la relación y se presentan algunos ejemplos de juegos que no se ajustan a la tendencia general. El objetivo es entender cómo la estrategia de correr puede influir en el resultado de un partido. Se presentan los resultados de la investigación y se discuten las implicaciones para los fanáticos de fútbol americano.
+    <link href="https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html"/>
+    <summary>El presidente francés Emmanuel Macron ha criticado "inaceptables" y "estúpidos" comentarios hechos por líderes extranjeros y otros después de que Francia sufriera protestas masivas y su peor violencia en años. Macron dijo que los comentarios eran "inaceptables" y que los políticos estaban utilizando la situación para sus propios fines. Trump y otros republicanos, incluyendo el vicepresidente JD Vance y el portavoz de la Cámara de Representantes Mike Johnson, han mencionado la violencia en Francia en la campaña electoral para las elecciones medioambientales de EE. UU. El gobierno francés está enfrentando una crisis fiscal y una crisis de deuda que está aumentando la presión sobre sus finanzas. Las protestas han causado daños significativos a la economía y han afectado a las empresas y los seguros. El gobierno francés está considerando la posibilidad de utilizar poderes especiales para afrontar la crisis, lo que podría aumentar la inestabilidad política.
 
-Contexto IA (informativo):
-Este episodio forma parte de una serie de investigaciones que buscan entender cómo la inteligencia artificial puede ayudar a los fanáticos de fútbol americano a tomar decisiones informadas. La serie busca analizar diferentes estrategias y técnicas utilizadas por los equipos de fútbol americano y explorar cómo la inteligencia artificial puede ayudar a mejorar la comprensión de estas estrategias.</summary>
-    <published>2026-10-19T15:55:03+00:00</published>
+Por qué importa:
+La violencia en Francia es un tema importante porque afecta a la estabilidad política y económica del país; La crisis fiscal y la crisis de deuda están aumentando la presión sobre las finanzas del gobierno francés y pueden tener consecuencias graves para la economía y la sociedad. La violencia en Francia también es un tema de interés para otros países, como EE; UU., que están observando la situación con interés.</summary>
+    <published>2026-10-22T12:52:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html</id>
+    <title>[Economía] Jobless claims near the lowest since the 1960s as low-fire trend continues</title>
+    <updated>2026-10-22T13:33:12.808710+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"/>
+    <summary>El número de personas que solicitan beneficios de desempleo ha disminuido significativamente en los últimos meses, llegando a un nivel que se encuentra cerca del más bajo desde la década de 1960. Según los datos del Departamento de Trabajo, las solicitudes iniciales de beneficios de desempleo caen a 194.000 para la semana que terminó el 17 de octubre. Esto marca otro paso hacia abajo en la tendencia de "fuego bajo" que ha caracterizado a la economía en los últimos tiempos. A lo largo del año, las solicitudes de beneficios de desempleo han promediado 212.000, y la media de cuatro semanas ha disminuido a 197.750. A pesar de esto, el mercado laboral sigue siendo incierto, con un aumento en la tasa de desempleo y una disminución en la creación de empleos. Las cifras también muestran una disminución en los despidos, que cayeron 61.000 en agosto. En el último año, la tasa de despidos como porcentaje del total de fuerza laboral ha disminuido a 1%, lo que es un cambio de 0,2 puntos porcentuales. Los empleos disponibles también han sido relativamente estables durante este período. Los expertos del Banco Central se reunirán la próxima semana para tomar una decisión sobre las tasas de interés, aunque se espera que no haya cambios en octubre y que se aumenten en un cuarto de punto en diciembre.
+
+Por qué importa:
+La tendencia de "fuego bajo" en el mercado laboral es importante porque refleja una economía que está funcionando bien, pero que también enfrenta desafíos; Aunque el número de personas desempleadas ha disminuido, la tasa de desempleo ha aumentado debido a un aumento en la participación laboral. Esto sugiere que la economía está experimentando un cambio en la dinámica del mercado laboral, lo que podría tener implicaciones para la política económica.</summary>
+    <published>2026-10-22T13:21:27+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/</id>
-    <title>[Data Science] Construyendo un pipeline para rastrear el mercado laboral en el que estoy tratando de ingresar.</title>
-    <updated>2026-10-21T13:42:48.517577+00:00</updated>
+    <title>[Data Science] Construí una pipeline para rastrear el mercado laboral al que estoy intentando entrar.</title>
+    <updated>2026-10-22T13:33:12.808675+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
     <link href="https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/"/>
-    <summary>El autor describe su proceso de creación de un pipeline para rastrear el mercado laboral en el que está tratando de ingresar. Comienza explicando cómo construyó dos pipelines anteriores, uno para extracción de datos de GitHub y otro para extracción de artículos de tecnología de RSS. Luego, describe su nuevo proyecto, Level 3, que busca rastrear roles abiertos y tendencias en el mercado laboral. El autor describe los desafíos que enfrentó al elegir una herramienta de orchestration y al configurar su warehouse, y cómo aprendió a manejar la carga incremental de datos. Finalmente, destaca la importancia de la documentación y la transparencia en el proceso de aprendizaje.
+    <summary>El autor construyó una pipeline para rastrear el mercado laboral al que está intentando entrar. Inicialmente, utilizó Remotive para buscar ofertas de trabajo, pero descubrió que solo obtenía 15 resultados. Luego, construyó una pipeline que extrae información de GitHub y PostgreSQL para analizar el mercado laboral. La pipeline utiliza funciones como dbt snapshots para analizar cambios históricos y frescura. El autor también documentó su viaje como ingeniero de datos y analítico. La pipeline se utiliza para rastrear ofertas de trabajo en roles como ingeniero de datos, analítico, desarrollador de ETL y otros relacionados. El autor está aprendiendo y repitiendo ciertos aspectos de sus proyectos anteriores para mejorar sus habilidades.
 
-Contexto IA (informativo):
-El autor destaca la importancia de la documentación y la transparencia en el proceso de aprendizaje, y cómo construir un pipeline para rastrear el mercado laboral en el que no se está empleado puede ser un desafío. Sin embargo, también destaca la importancia de la perseverancia y la capacidad de aprender de los errores.</summary>
+Por qué importa:
+La importancia de esta pipeline radica en que permite al autor analizar el mercado laboral de manera más precisa y actualizada, lo que puede ayudarle a encontrar el trabajo adecuado y a mejorar sus habilidades como ingeniero de datos y analítico.</summary>
     <published>2026-10-21T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills</id>
-    <title>[Data Science] 5 Mejores Repositorios de GitHub para Habilidades de Agente de Inteligencia Artificial</title>
-    <updated>2026-10-21T13:42:48.517544+00:00</updated>
+    <id>https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/</id>
+    <title>[Data Science] La seguridad de la inteligencia artificial es una preocupación creciente para las organizaciones.</title>
+    <updated>2026-10-22T13:33:12.808640+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/"/>
+    <summary>En una encuesta realizada a 351 personas que trabajan en seguridad, se encontró que la mayoría de los profesionales de la seguridad consideran que la inteligencia artificial es una amenaza para la seguridad, especialmente debido a la posibilidad de que los atacantes utilicen la inteligencia artificial para descubrir vulnerabilidades antes de que los defensores puedan mitigarlas y aplicar parches. El 55% de los respondentes observaron ataques de phishing generados por inteligencia artificial, mientras que el 49% se preocupaba por la posibilidad de que los ataques generados por inteligencia artificial se produjeran debido a la falta de verificación humana. Solo el 16% de los respondentes observó ataques automatizados, como el ataque de OpenAI a Hugging Face. La mayoría de los respondentes (49%) se preocupaba por la posibilidad de que los ataques generados por inteligencia artificial se produjeran debido a la posibilidad de que se produjeran pérdidas de datos sensibles. La encuesta también encontró que solo un cuarto (25%) de los respondientes consideró que el phishing era una preocupación principal, y que solo el 4% de los respondientes consideró que la contaminación de datos era una preocupación principal. La gran mayoría de los respondientes (72%) informaron que sus empresas tienen una política de uso de la inteligencia artificial en vigor, pero solo el 28% de los respondientes informaron que su empresa tiene una política de uso de la inteligencia artificial "completa".
+
+Por qué importa:
+La seguridad de la inteligencia artificial es una preocupación creciente para las organizaciones debido a la posibilidad de que los atacantes utilicen la inteligencia artificial para descubrir vulnerabilidades antes de que los defensores puedan mitigarlas y aplicar parches. Esto se debe en parte a la falta de verificación humana y a la posibilidad de que se produjeran pérdidas de datos sensibles.</summary>
+    <published>2026-10-21T11:02:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm</id>
+    <title>[Data Science] Named Entity Recognition Using Scikit-LLM</title>
+    <updated>2026-10-22T13:33:12.808605+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills"/>
-    <summary>Explora cinco colecciones populares de habilidades de agentes de inteligencia artificial en GitHub que ayudan a los agentes de código a planificar, probar, depurar, revisar y construir mejor software. Estas colecciones de habilidades reutilizables enseñan a los agentes cómo manejar tareas específicas sin que tú debas explicar el mismo proceso cada vez. En este artículo, se analizarán cinco colecciones de habilidades de agentes de inteligencia artificial más populares. Cada una tiene un enfoque diferente para hacer que los agentes de código sean más útiles para el desarrollo de software real. Se presentan las siguientes colecciones: Superpowers, Skills for Real Engineers, ECC, Awesome LLM Apps y Agent Skills. Cada una de ellas ofrece una solución única para mejorar las habilidades de los agentes de código. Se presentan sus características y cómo se pueden instalar y utilizar. Por último, se destaca la importancia de las habilidades de agentes de inteligencia artificial para el desarrollo de software real y cómo pueden ayudar a los desarrolladores a mejorar su proceso de trabajo.
+    <link href="https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm"/>
+    <summary>Scikit-LLM permite la creación de pipelines de reconocimiento de entidades nombradas (NER) personalizados en unos pocos pasos sencillos, aprovechando las capacidades de razonamiento de modelos de lenguaje grande (LLM). El reconocimiento de entidades nombradas es un ejemplo claro de la aplicación de la extracción de datos estructurados en el análisis de datos y en diversas aplicaciones. Scikit-LLM aporta una solución innovadora que permite la creación de pipelines de NER personalizados con minimal configuración y código. El modelo se puede utilizar para tareas de clasificación de texto más allá del reconocimiento de entidades nombradas. El uso de Scikit-LLM requiere la creación de un API key en la plataforma Groq. El modelo se puede utilizar para analizar textos y extraer datos estructurados. El reconocimiento de entidades nombradas es una aplicación natural de la extracción de datos estructurados. El uso de Scikit-LLM permite la creación de pipelines de NER personalizados con una gran flexibilidad. El modelo se puede utilizar para analizar textos y extraer datos estructurados de manera eficiente. El reconocimiento de entidades nombradas es una aplicación importante en diversas áreas.
 
-Contexto IA (informativo):
-Las habilidades de agentes de inteligencia artificial son fundamentales para el desarrollo de software real. Permiten a los agentes de código manejar tareas específicas de manera eficiente y efectiva, lo que puede mejorar significativamente el proceso de desarrollo. Sin embargo, es importante destacar que las habilidades de agentes de inteligencia artificial no son una solución mágica para el desarrollo de software. Requieren una comprensión profunda de las necesidades del proyecto y la capacidad de adaptarse a cambios en el entorno de desarrollo.</summary>
-    <published>2026-10-21T12:00:00+00:00</published>
+Por qué importa:
+El reconocimiento de entidades nombradas es una aplicación importante en diversas áreas, como la extracción de datos estructurados y la creación de modelos de aprendizaje automático. El uso de Scikit-LLM permite la creación de pipelines de NER personalizados con minimal configuración y código, lo que facilita la aplicación de esta técnica en diversas áreas.</summary>
+    <published>2026-10-21T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/</id>
-    <title>[Data Science] Razonamiento Espacial en los Modelos de Inteligencia Artificial, Desmontado</title>
-    <updated>2026-10-21T13:42:48.517511+00:00</updated>
+    <id>https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/</id>
+    <title>[Data Science] ¿Podría la auto-distilación on-policy revolucionar el entrenamiento posterior?</title>
+    <updated>2026-10-22T13:33:12.808570+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/"/>
-    <summary>En este estudio, se analiza el rendimiento de los modelos de inteligencia artificial en tareas de razonamiento espacial. Los autores presentan cuatro preguntas clave que se abordan en el trabajo: ¿los modelos pueden leer la tabla? ¿pueden seguir las reglas? ¿pueden seguir las instrucciones cuando la tarea es más difícil? Los resultados muestran que los modelos tienen dificultades para resolver los puzzles más difíciles, especialmente en el nivel 5, donde solo logran resolver el 49,4% de los puzzles. Los humanos, por otro lado, resuelven el 94,5% de los puzzles en este nivel. Los modelos también tienen dificultades para seguir las reglas y mantener la línea correcta. Sin embargo, algunos modelos logran resolver algunos puzzles más fáciles, como el nivel 1, donde resuelven el 83,6% de los puzzles. Los autores concluyen que el razonamiento espacial es un desafío para los modelos de inteligencia artificial y que es necesario abordar este problema para mejorar su rendimiento.
+    <link href="https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/"/>
+    <summary>La auto-distilación on-policy, desarrollada por Shenfeld et al., ha demostrado ser efectiva en reducir el olvido catastrófico en el entrenamiento posterior. Esta técnica utiliza un modelo de aprendizaje de máquina como modelo de profesor para entrenar a otro modelo de aprendizaje de máquina, con el objetivo de mejorar la estabilidad del entrenamiento. Los autores encontraron que la técnica de auto-distilación SDFT produce resultados excelentes en el entrenamiento posterior, mientras que el entrenamiento tradicional causa un olvido catastrófico. La técnica de auto-distilación SDFT es on-policy, lo que significa que el modelo se entrena en función de sus propios outputs, en lugar de utilizar un conjunto de datos pre-entrenado. Además, la técnica de auto-distilación SDFT converge a políticas con una divergencia de KL mínima, lo que ayuda a evitar el olvido catastrófico. Los autores también encontraron que la técnica de auto-distilación SDFT es más efectiva que el entrenamiento tradicional SFT en la tarea de aprender nuevas capacidades sin olvidar las antiguas. Sin embargo, la técnica de auto-distilación SDFT también tiene limitaciones, como la pérdida de diversidad en los outputs del estudiante.
 
-Contexto IA (informativo):
-Este estudio se basa en la investigación de los autores sobre el razonamiento espacial en los modelos de inteligencia artificial. Los autores han desarrollado un desafío de razonamiento espacial llamado SPaRC, que consiste en resolver puzzles de razonamiento espacial. Los resultados de este estudio muestran que los modelos de inteligencia artificial tienen dificultades para resolver los puzzles más difíciles, lo que sugiere que es necesario abordar este problema para mejorar el rendimiento de los modelos.</summary>
-    <published>2026-10-21T12:30:00+00:00</published>
+Por qué importa:
+La auto-distilación on-policy es una técnica prometedora para permitir que los modelos de lenguaje aprendan nuevas capacidades sin olvidar las antiguas. Sin embargo, también tiene limitaciones, como la pérdida de diversidad en los outputs del estudiante.</summary>
+    <published>2026-10-22T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://racer.com/2026/10/20/nascar-s-chase-format-is-providing-a-wild-ride-of-emotions</id>
-    <title>[Fórmula 1] El formato de la Chase de NASCAR está proporcionando una emocionante experiencia emocional</title>
-    <updated>2026-10-21T13:42:48.517478+00:00</updated>
+    <id>https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining</id>
+    <title>[Data Science] Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining</title>
+    <updated>2026-10-22T13:33:12.808535+00:00</updated>
     <author>
-      <name>RACER</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://racer.com/2026/10/20/nascar-s-chase-format-is-providing-a-wild-ride-of-emotions"/>
-    <summary>El escenario pos-race en el circuito de Phoenix perfectamente capturó lo que es como correr en la Chase. No hay reinicios. Ni más pasajes libres ni batallas de tres semanas. Así que, como en Phoenix, las emociones han estado flujiendo desde la primera semana y no han cesado. El resultado es una carrera emocionante y apasionante que ha mantenido a los fanáticos en vilo. La victoria de Kyle Larson en la primera ronda de la Chase ha sido un golpe de gracia para muchos seguidores. La competencia se está intensificando y cada punto cuenta. El destino de los contendientes es cada vez más incierto. La emoción y la tensión son palpables en cada curva del circuito. La Chase de NASCAR ha vuelto a ser una verdadera competencia
+    <link href="https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining"/>
+    <summary>Google Research ha lanzado Harness², un marco que permite a los agentes de inteligencia artificial mejorar sus propios algoritmos sin reentrenar el modelo subyacente. Harness² reescribe el "harness" alrededor del modelo, que incluye los prompts, herramientas, memoria, habilidades y scripts, y lo utiliza para mejorar su propio rendimiento. El marco utiliza dos bucles recursivos para mejorar el harness y cómo se mejora a sí mismo. Harness² aprende a mejorar el harness a través de la comparación de ejecuciones y no necesita retroalimentación de respuesta correcta. El marco ha sido probado en cuatro configuraciones de modelo y ha demostrado mejorar el rendimiento en tres de ellas. Harness² es una herramienta de código abierto que se distribuye bajo la licencia Apache 2.0. El demo de Harness² es gratuito y puede ser ejecutado en un entorno de prueba. El demo utiliza un script de instalación que puede ser ejecutado en una terminal.
 
-Contexto IA (informativo):
-La Chase de NASCAR es un formato de carrera que se ha vuelto cada vez más popular en los últimos años. Es un sistema de clasificación que recompensa a los conductores que se destacan en las carreras. El formato de la Chase ha sido cambiado varias veces para mantener la competencia y la emoción. En la temporada actual, la Chase ha sido especialmente emocionante gracias a la intensa competencia entre los conductores.</summary>
-    <published>2026-10-20T18:55:11+00:00</published>
+Por qué importa:
+Harness² es importante porque permite a los agentes de inteligencia artificial mejorar su propio rendimiento sin la necesidad de reentrenar el modelo subyacente, lo que puede acelerar el proceso de aprendizaje y mejorar la precisión de las decisiones tomadas por los agentes.</summary>
+    <published>2026-10-22T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/</id>
-    <title>[Fórmula 1] Norris promete tomar decisiones mejoradas tras conversaciones recientes sobre el conflicto en el GP de Singapur</title>
-    <updated>2026-10-21T13:42:48.517447+00:00</updated>
+    <id>https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/</id>
+    <title>[Data Science] El modelo de razonamiento DeepSeek-R1-Distill-Qwen-1.5B sigue una pista incorrecta en algunas preguntas.</title>
+    <updated>2026-10-22T13:33:12.808501+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/"/>
-    <summary>El campeón mundial de Fórmula 1 Lando Norris ha admitido que necesita tomar decisiones mejoradas para evitar conflictos con su compañero de equipo Oscar Piastri en McLaren. En el GP de Singapur, Norris se chocó con Piastri durante la carrera, lo que costó a McLaren ocho puntos y fue en contra de sus principios. El equipo busca cerrar el capítulo de este incidente. Norris ha prometido hacer mejoras para evitar situaciones similares en el futuro.
+    <link href="https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/"/>
+    <summary>El modelo DeepSeek-R1-Distill-Qwen-1.5B fue utilizado para evaluar la fiabilidad de los modelos de razonamiento. El modelo obtuvo un 43% de acierto sin el uso de hint, y un 28.5% de acierto con el uso de hint de profesor. Sin embargo, el modelo se muestra como incoherente en 13 de 20 casos, donde se argumenta que el modelo está siguiendo el hint, pero en realidad no lo hace. El modelo Qwen3-1.7B en modo de pensamiento siguió una pista en solo 2 de 34 preguntas hinted. La pista del profesor fue la que más movió al modelo a la respuesta incorrecta en 28% de las preguntas. El modelo Qwen3-1.7B tiene 1.7 billones de parámetros y fue entrenado en 200 preguntas. El modelo Qwen3-1.7B no terminó su razonamiento en 15% de las preguntas.
 
-Contexto IA (informativo):
-El incidente en Singapur ha generado una discusión dentro de la escuadra sobre la gestión de la presión y la estrategia de carrera. Los expertos esperan que Norris aprenda de su error y mejore su rendimiento en las próximas carreras.</summary>
-    <published>2026-10-21T07:17:51+00:00</published>
+Por qué importa:
+Es importante entender que el modelo de razonamiento puede seguir una pista incorrecta, lo que puede afectar su precisión. El hecho de que el modelo se muestre como incoherente en algunos casos, pero no en otros, sugiere que la pista puede ser un factor importante en su rendimiento.</summary>
+    <published>2026-10-22T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/</id>
-    <title>[Fórmula 1] FIA cierra el bucle de costos en F1 con nuevas reglas</title>
-    <updated>2026-10-21T13:42:48.517415+00:00</updated>
+    <id>https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/</id>
+    <title>[Fórmula 1] "I'll probablemente necesitar a ordenar una nueva espalda" – Verstappen preparado para fin de semana bumpy en COTA | Fórmula 1</title>
+    <updated>2026-10-22T13:33:12.808463+00:00</updated>
     <author>
-      <name>Autosport.com - Formula 1 - Stories</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/"/>
-    <summary>La FIA ha aprobado nuevas regulaciones para prevenir que el personal no de F1 de las equipos trabaje en proyectos de F1. Esto se debe a que algunos habían encontrado formas de aprovecharse de los recursos y personal asignados a otras actividades para evitar el límite de gastos. Estas nuevas reglas evitarán una desigualdad entre los equipos que tienen otras actividades y los que no. Además, se espera que esto mejore la transparencia y la equidad en la competencia.
+    <link href="https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/"/>
+    <summary>Max Verstappen espera un fin de semana complicado debido a las notorias sacudidas en el Circuito de las Américas este fin de semana. Después de ver videos del round de la World Endurance Championship en COTA del mes pasado, Verstappen espera un desafío difícil. Ha ganado dos Grandes Premios, una carrera de sprint y segundo lugar en un Grand Prix en los tres últimos rondas. Sin embargo, considera que las características diferentes de los próximos circuitos hacen que sea incierto cuán competitivos serán. Verstappen no quiere pronosticar su participación en el Gran Premio de Austin, pero considera que cada carrera debe ser vista de manera individual. El próximo destino es México, donde la alta altitud y el calor extremo pueden afectar el rendimiento del motor y la conducción del coche. Verstappen y su equipo deben observar cómo se comporta el coche y el motor en esas condiciones. La competencia en los próximos Grandes Premios es incierta y dependerá de cómo se ajusten las cosas.
 
-Contexto IA (informativo):
-La FIA ha tomado esta medida para garantizar que todos los equipos tengan una oportunidad justa de competir en F1. Las nuevas reglas entrarán en vigor en el próximo año y se espera que tengan un impacto positivo en la salud financiera de los equipos.</summary>
-    <published>2026-10-21T08:52:58+00:00</published>
+Por qué importa:
+La competencia en Fórmula 1 es intensa y cada fin de semana es una nueva oportunidad para los pilotos y equipos. Para Verstappen y su equipo, el Gran Premio de Austin es una oportunidad para seguir su racha de victorias y mantener su posición en la clasificación.</summary>
+    <published>2026-10-21T06:16:23+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29479</id>
-    <title>[Fórmula 1] Fornaroli completa prueba de McLaren en Paul Ricard antes de las salidas de FP1 en México City y São Paulo</title>
-    <updated>2026-10-21T13:42:48.517381+00:00</updated>
+    <id>https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/</id>
+    <title>[Fórmula 1] FIA abre centro de operaciones de carreras en base de FOM de Biggin Hill</title>
+    <updated>2026-10-22T13:33:12.808427+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.f1technical.net/news/29479"/>
-    <summary>Leonardo Fornaroli, piloto de reserva de McLaren, ha completado una prueba de dos días de Pruebas de Vehículos Anteriores (TPC) en el Circuito Paul Ricard, preparándose para sus próximas apariciones en las salidas de FP1 en México City y São Paulo. Durante la prueba, Fornaroli completó 58 vueltas y recorrió 339 kilómetros en el MCL39, el coche de 2025 de McLaren. La prueba marcó el primer tiempo que McLaren había utilizado el MCL39 en su programa TPC, después de la retirada del MCL60 de las pruebas en julio. Fornaroli se prepara para sus dos últimas apariciones en FP1, que completarán las dos últimas pruebas obligatorias para rookies de McLaren este año. La prueba también permitió a Fornaroli recuperar su ritmo en un coche de F1. Fornaroli se enfrenta a dos desafíos muy diferentes en México City y Interlagos, que exponen a los pilotos a las demandas físicas y técnicas de la carrera a altitud y a un layout técnico y cambios de altura demandantes. Fornaroli se mostró emocionado de volver a sentarse en el coche y dijo que las dos Grand Prix serán un gran desafío para él como piloto. La prueba también permitió a Hughes, otro piloto de pruebas de McLaren, participar en el programa, quien completó 52 vueltas y recorrió 298 kilómetros en el MCL39. Hughes se mostró emocionado de poder conducir el MCL39, que ganó tanto el Campeonato de Constructores como el de Pilotos en 2025. La prueba permitió a Hughes trabajar en varias configuraciones de configuración, lo que ayudará a su desarrollo en el simulador de McLaren.
+    <link href="https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/"/>
+    <summary>El FIA ha inaugurado un nuevo centro de operaciones de carreras en la base de FOM de Biggin Hill en el Reino Unido. Este centro permitirá a los funcionarios del FIA gestionar eventos en todo el mundo sin estar presentes en persona. El centro tendrá un papel clave en la detección de incidentes durante las sesiones, como saltos de partida o errores de alineación en la pista. Además, utilizará sistemas de inteligencia artificial para automatizar procesos y detectar incidentes. El FIA presidente Mohammed Ben Sulayem y el presidente de Formula 1 Stefano Domenicali asistieron a la inauguración formal del centro. El presidente del FIA destacó la importancia de invertir en la tecnología y la infraestructura para garantizar decisiones precisas y eficientes. El centro de operaciones de carreras será fundamental para mantener los estándares más altos en el deporte. El centro de operaciones de carreras será una herramienta clave para garantizar la seguridad y la integridad de las carreras. El centro de operaciones de carreras permitirá a los funcionarios del FIA tomar decisiones más rápidas y precisas; El centro de operaciones de carreras será una inversión importante para el futuro del deporte. El centro de operaciones de carreras será una herramienta valiosa para la comunidad de los aficionados al automovilismo.
 
-Contexto IA (informativo):
-La prueba de Fornaroli en Paul Ricard fue parte de su desarrollo como piloto y le permitió recuperar su ritmo en un coche de F1. La prueba también permitió a McLaren evaluar diferentes configuraciones de configuración y ayudar a Fornaroli a prepararse para sus próximas apariciones en FP1. La prueba se llevó a cabo en un momento en que Fornaroli se enfrenta a dos desafíos muy diferentes en México City y Interlagos, que exponen a los pilotos a las demandas físicas y técnicas de la carrera a altitud y a un layout técnico y cambios de altura demandantes.</summary>
-    <published>2026-10-21T10:17:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/</id>
-    <title>[Fórmula 1] Las figuras que muestran que Mercedes ha perdido su supremacía en F1 2026</title>
-    <updated>2026-10-21T13:42:48.517349+00:00</updated>
-    <author>
-      <name>Motorsport.com - Formula 1 - Stories</name>
-    </author>
-    <link href="https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/"/>
-    <summary>Mercedes confía en poder ganar de nuevo en la temporada de F1 2026, pero reconoce que ha estado enfrentando un desafío mayor que nunca de parte de los demás equipos líderes. En los primeros seis grandes premios de la temporada, el equipo de Mercedes logró triunfos, mientras que F1 pasó a nuevas regulaciones técnicas. Posteriormente, los rivales mejoraron sus actualizaciones y Ferrari logró dos victorias en Austria y Gran Bretaña, seguidos de McLaren con Lando Norris
-
-Contexto IA (informativo):
-En la temporada de F1 2026, Mercedes ha estado luchando por mantener su posición de liderazgo, mientras que otros equipos como Ferrari y McLaren han estado ganando terreno.</summary>
-    <published>2026-10-21T11:28:56+00:00</published>
+Por qué importa:
+El centro de operaciones de carreras es una inversión importante para el futuro del deporte, ya que permitirá a los funcionarios del FIA tomar decisiones más precisas y eficientes. Esto es especialmente importante en un deporte como el automovilismo, donde la seguridad es fundamental.</summary>
+    <published>2026-10-21T08:02:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/29477</id>
-    <title>[Fórmula 1] Haas presenta una livery especial de Godzilla para el GP de Estados Unidos 2026</title>
-    <updated>2026-10-21T13:42:48.517314+00:00</updated>
+    <title>[Fórmula 1] Haas lanza livery especial de Godzilla para GP de Estados Unidos 2026</title>
+    <updated>2026-10-22T13:33:12.808392+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
     <link href="https://www.f1technical.net/news/29477"/>
-    <summary>La escuadra Haas F1 Team presentó una livery especial de Godzilla para el GP de Estados Unidos 2026, en colaboración con la estudio de entretenimiento japonés TOHO CO., LTD. El equipo americano ha creado un diseño especial para celebrar la próxima película de Godzilla Minus Zero, que se estrenará en Estados Unidos el 6 de noviembre. La livery se extenderá a los trajes de carrera de los pilotos Esteban Ocon y Ollie Bearman, así como a los trajes de F1 Academy de Kaylee Countryman. El equipo también lanzará una colección de merchandising de Godzilla, incluyendo camisetas y hoodies, que se pueden comprar a partir del 19 de octubre.
+    <summary>La escuadra Haas F1 Team presentará una livery especial de Godzilla para el GP de Estados Unidos 2026, en colaboración con la estudio de entretenimiento japonés TOHO CO., LTD. El diseño marca el segundo capítulo de su colaboración con la franquicia icónica del monstruo, que se estrenará en el próximo film de Godzilla Minus Zero. Los pilotos Esteban Ocon y Ollie Bearman, así como el piloto de F1 Academy Kaylee Countryman, llevarán la temática de Godzilla en sus trajes de carreras. El equipo también lanzará una colección de merchandising de Godzilla, incluyendo camisetas y hoodies, que se puede comprar a partir del 19 de octubre. Los fans pueden ver la livery especial en un evento exclusivo el 22 de octubre y en una tienda de autos en Austin. El equipo principal Ayao Komatsu expresó su entusiasmo por la colaboración, destacando la oportunidad de conectar con un público más amplio. El equipo está emocionado de presentar la livery especial y de crear contenido para sus fans. El GP de Estados Unidos 2026 será una oportunidad única para la escuadra Haas F1 Team y su equipo de Godzilla. El film de Godzilla Minus Zero se estrenará el 6 de noviembre en todo el país estadounidense.
 
-Contexto IA (informativo):
-La colaboración entre Haas y TOHO CO., LTD. es la segunda parte de una serie de colaboraciones entre el equipo y la franquicia de Godzilla. El equipo ha expresado su entusiasmo por presentar la livery especial en su carrera de casa en Austin, y ha destacado la oportunidad de conectar con un público más amplio a través de la colaboración.</summary>
+Por qué importa:
+La colaboración de Haas con Godzilla es una oportunidad única para conectar con un público más amplio y para crear contenido que atraiga a fans de la franquicia icónica del monstruo. La livery especial de Godzilla para el GP de Estados Unidos 2026 es un ejemplo de cómo la escuadra Haas F1 Team está dispuesta a innovar y a crear experiencias únicas para sus fans.</summary>
     <published>2026-10-21T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1014316/iphone-duo-review-ama</id>
-    <title>[Tecnología] Revisión del iPhone Duo, ¿tienes alguna pregunta?</title>
-    <updated>2026-10-21T13:42:48.517281+00:00</updated>
+    <id>https://www.f1technical.net/news/29480</id>
+    <title>[Fórmula 1] MotoGP presentará su debut en la carrera de F1 de Texas</title>
+    <updated>2026-10-22T13:33:12.808352+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.theverge.com/tech/1014316/iphone-duo-review-ama"/>
-    <summary>Como revisor de teléfonos senior de The Verge, he estado utilizando el iPhone Duo durante la pasada semana. He experimentado con él de muchas maneras diferentes, como desplegarlo, volcarlo y doblarlo, y estoy listo para responder a tus preguntas sobre él. El Duo representa el primer paso en la evolución del iPhone en términos de forma factor, y, como es habitual en Apple, tiene algunas ideas muy específicas sobre cómo utilizarlo. En nuestra revisión, cubrimos muchos aspectos del funcionamiento del Duo, pero hay mucho más que discutir y estoy aquí para hablar de ello. Los suscriptores de The Verge pueden enviar preguntas desde ahora mismo en nuestro foro de comentarios.
+    <link href="https://www.f1technical.net/news/29480"/>
+    <summary>MotoGP realizará su primera aparición durante un fin de semana de F1 con una demostración en pista en el Gran Premio de Estados Unidos de 2026, con cuatro motocicletas de clase premier que se unirán al Circuito of The Americas el sábado. La demostración, que tendrá lugar del 24 de octubre de 11:40am a 12:00pm local, será una oportunidad para los fans de F1 experimentar la velocidad y el sonido del campeonato de motocicletas de clase mundial. Participarán cuatro pilotos que representan el pasado, presente y futuro de MotoGP, incluyendo a Dani Pedrosa, Nicolo Bulega, Andrea Dovizioso y Lorenzo Savadori. La demostración promete ser espectacular, con motocicletas que pueden alcanzar velocidades de 225mph y producir más de 130 decibelios de ruido; Este evento marca la primera vez que la máquina de MotoGP se presenta en una demostración en pista durante un fin de semana de F1. Además, MotoGP tendrá una activación dedicada en el Fan Zone del circuito, donde los fans podrán ver las cuatro motocicletas en exhibición y aprender más sobre el campeonato. Los pilotos y equipos de MotoGP estarán presentes en el circuito desde el jueves hasta el domingo, mientras que el Gran Premio de Estados Unidos se llevará a cabo del 23 al 25 de abril de 2027. Dani Pedrosa, quien ganó tres títulos mundiales en categorías 125cc y 250cc, ha expresado su entusiasmo por la oportunidad de mostrar el deporte en Austin. "Es siempre especial montar una moto de MotoGP en COTA, uno de los circuitos más icónicos del mundo", dijo; Nicolo Bulega, quien se unirá a MotoGP en 2027 con el Pertamina Enduro VR46 Racing Team, también ha destacado la importancia de la demostración. "Esta es una oportunidad fantástica para poner MotoGP delante de una de las audiencias más grandes en el mundo del motosport", dijo. Bulega también ha expresado su entusiasmo por la oportunidad de montar una moto de MotoGP en el circuito; "La atmósfera en COTA es siempre increíble, y montar una moto de MotoGP delante de tantos fans será una experiencia especial".
 
-Contexto IA (informativo):
-La revisión del iPhone Duo es parte de nuestra cobertura en vivo de Apple Event 2023. El evento se llevó a cabo el pasado 7 de septiembre de 2023 en Cupertino, California.</summary>
-    <published>2026-10-21T12:15:00+00:00</published>
+Por qué importa:
+MotoGP está buscando expandir su audiencia y presentar su deporte a un público más amplio; La demostración en pista en el Gran Premio de Estados Unidos de 2026 es una oportunidad para hacerlo. El evento también proporcionará una visión general de la velocidad y el sonido de la máquina de MotoGP, lo que puede atraer a nuevos fans al deporte.</summary>
+    <published>2026-10-21T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/</id>
-    <title>[Tecnología] Cómo SpaceX planea atrapar la etapa superior de Starship por primera vez</title>
-    <updated>2026-10-21T13:42:48.517248+00:00</updated>
+    <id>https://www.f1technical.net/news/29481</id>
+    <title>[Fórmula 1] Mercedes unveils special MANUFAKTUR livery for this weekend's United States Grand Prix</title>
+    <updated>2026-10-22T13:33:12.808304+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/"/>
-    <summary>Elon Musk anuncia que SpaceX intentará capturar tanto la etapa inferior como la etapa superior de Starship durante el testeo 15. La empresa planea atrapar la etapa superior, llamada 'Ship', utilizando las 'armas de chopstick' de su torre de lanzamiento. Si logra capturar la etapa superior, se acercará a su objetivo de desarrollar Starship como un vehículo de lanzamiento orbital reutilizable para misiones espaciales profundas. La empresa ha intentado capturar la etapa superior antes, pero no ha tenido éxito debido a su velocidad y trayectoria. El éxito en el testeo 15 podría ser un paso importante hacia el logro de su objetivo.
+    <link href="https://www.f1technical.net/news/29481"/>
+    <summary>Mercedes ha presentado una livery especial para el Gran Premio de Estados Unidos de 2026, con George Russell y Kimi Antonelli a punto de correr con accesorios azules adicionales en sus W17 en Circuit of The Americas. La Silver Arrows reveló el diseño revisado en redes sociales el miércoles, destacando el programa MANUFAKTUR, que se especializa en individualización y personalización de la gama de vehículos de la marca. El diseño único mantiene el esquema de color familiar de Mercedes, con destellos de azul para crear un look distintivo para el fin de semana de Austin; Además, Russell y Antonelli recibirán trajes de carreras personalizados, y se han preparado coches AMG GT 4-Door Coupés personalizados como parte de la activación. La noticia hace de Mercedes el último equipo de F1 en presentar una livery especial para el Gran Premio, siguiendo el ejemplo de Haas con su diseño "Godzilla" creado en colaboración con el estudio de entretenimiento japonés TOHO. Aunque la livery especial proporcionará un punto visual destacado, Mercedes llega a Texas con su atención enfocada en mejorar su rendimiento en la pista después de finos fin de semana en Malaysia y Singapore. El principal responsable de la escuadra, Toto Wolff, reconoció que el equipo había caído corto en los dos últimos rondas pero enfatizó que las lecciones aprendidas serían importantes en el próximo tripleheader exigente; Mercedes también presentará su última actualización de paquete en ambos coches en Circuit of The Americas, mientras busca mantener su ritmo de desarrollo durante las últimas etapas de la temporada. Con el orden de competencia aún muy cerrado, Wolff enfatizó la importancia de seguir buscando rendimiento en lugar de confiar en los resultados anteriores; El Gran Premio de Estados Unidos también marca el inicio del penúltimo tripleheader de la campaña, lo que aumenta la importancia de ejecutar cada fin de semana de manera efectiva. Wolff también destacó que hay mucho en juego pero no se dejará llevar por la emoción, enfocándose en ejecutar bien cada fin de semana y maximizar el rendimiento; La livery especial W17 forma parte de una activación más amplia de Mercedes-Benz diseñada para mostrar el programa MANUFAKTUR y la conexión entre la marca de los carros y su operación de F1. El programa se centra en la personalización, la artesanía y los acabados distintivos, permitiendo a los clientes crear vehículos personalizados según sus preferencias individuales; Mercedes llevará esa filosofía al Gran Premio de Estados Unidos a través de los coches revisados, trajes de carreras personalizados y modelos AMG personalizados. Wolff destacó la importancia de las actividades que se llevarán a cabo fuera del circuito, con la familia más amplia de Mercedes a punto de destacar a lo largo del fin de semana; "En Austin, usamos el azul 💙🩵 Nuestra livery especial para el Gran Premio de Estados Unidos, gracias a MANUFAKTUR 😤" publicó el equipo en Twitter.
 
-Contexto IA (informativo):
-El objetivo de SpaceX es desarrollar Starship como un vehículo de lanzamiento orbital reutilizable para misiones espaciales profundas, como llevar tripulaciones y carga al lunar y a Marte. La empresa ha estado trabajando en el desarrollo de Starship desde hace varios años y ha realizado varios testeos exitosos. El próximo testeo 15 podría ser un paso importante hacia el logro de su objetivo.</summary>
-    <published>2026-10-21T12:19:58+00:00</published>
+Por qué importa:
+La livery especial de Mercedes es importante porque marca el comienzo del penúltimo tripleheader de la temporada, lo que aumenta la importancia de ejecutar cada fin de semana de manera efectiva.</summary>
+    <published>2026-10-21T22:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/ghoulies-is-officially-moving-forward-with-new-trilogy-2000828779</id>
-    <title>[Tecnología] Ghoulies sigue adelante con una nueva trilogía</title>
-    <updated>2026-10-21T13:42:48.517215+00:00</updated>
+    <id>https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529</id>
+    <title>[Tecnología] Los chatbots están creando un "self-portrait" de los usuarios</title>
+    <updated>2026-10-22T13:33:12.808264+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/ghoulies-is-officially-moving-forward-with-new-trilogy-2000828779"/>
-    <summary>La película Ghoulies ha sido cancelada en Syfy, pero su director Luca Bercovici ha recuperado los derechos de la película y está trabajando en una nueva trilogía. La película Homesick, protagonizada por Mena Suvari y David Arquette, se está filmando en Winnipeg y sigue la historia de una médica que debe proteger a su familia de una amenaza misteriosa. Por otro lado, American Horror Story ha sido renovada para una temporada 14, mientras que Revival ha sido cancelada en Syfy. El próximo episodio de Wind Breaker se estrenará este sábado en Adult Swim.
+    <link href="https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529"/>
+    <summary>Un estudio de ChatGPT encontró que el 96% de las memorias creadas por el chatbot se generaron sin que el usuario lo hubiera solicitado explícitamente. La empresa OpenAI ha introducido un sistema de memoria más complejo que automatiza la síntesis de información de conversaciones pasadas para mantener un perfil evoluto de los usuarios. La empresa OpenAI ha comenzado a mostrar anuncios en ChatGPT, utilizando información de conversaciones pasadas y memorias para personalizar los anuncios. Sin embargo, algunos expertos cuestionan la afirmación de OpenAI de que los anuncios no influyen en las respuestas del chatbot. Un estudio de ChatGPT también encontró que el 52% de las memorias contenían información sobre los estados psicológicos de los usuarios. La empresa OpenAI puede utilizar la información de las memorias de los usuarios para personalizar los anuncios, lo que plantea preocupaciones sobre la privacidad y el uso de datos. La empresa OpenAI no proporciona información clara sobre cómo se utiliza la información de las memorias de los usuarios, lo que genera preocupación sobre la privacidad y el uso de datos. Google está realizando una reforma importante en su función principal, Search, que incluye la integración de inteligencia artificial. La empresa OpenAI está trabajando en un producto que puede ayudar a los usuarios en "todo en su vida"; Los expertos advierten sobre el riesgo de privacidad que conlleva la creación de chatbots que conocen a los usuarios muy bien. Los chatbots pueden tener "disastrosas implicaciones" si se utilizan para reforzar la polarización política o la discriminación.
 
-Contexto IA (informativo):
-En un giro interesante, la cancelación de Revival en Syfy ha permitido que Ghoulies siga adelante con su proyecto de trilogía. La película Homesick, que se está filmando en Winnipeg, sigue la historia de una médica que debe proteger a su familia de una amenaza misteriosa. American Horror Story, por otro lado, ha sido renovada para una temporada 14, lo que sugiere que la cadena sigue confiada en su capacidad para atraer a audiencias.</summary>
-    <published>2026-10-21T12:39:08+00:00</published>
+Por qué importa:
+La creación de chatbots que conocen a los usuarios muy bien plantea preocupaciones sobre la privacidad y el uso de datos; La personalización excesiva y la simpatía hacia los usuarios pueden contribuir a la formación de delusiones asociadas con la inteligencia artificial. Es importante que los usuarios sean más cautelosos con la información que proporcionan a los chatbots y consideren la posibilidad de rephrasear sus preguntas para eliminar detalles personales.</summary>
+    <published>2026-10-22T12:00:15+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/</id>
-    <title>[Tecnología] Cómo identificar un dispositivo etiquetado en blanco y por qué eso es importante</title>
-    <updated>2026-10-21T13:42:48.517180+00:00</updated>
+    <id>https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/</id>
+    <title>[Tecnología] Un robot de seto que conecta a los usuarios con la naturaleza</title>
+    <updated>2026-10-22T13:33:12.808228+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/"/>
+    <summary>Mori es un robot de seto de la empresa OKA que busca reconnectar a los usuarios con la naturaleza. El robot tiene una cámara y microfonos que le permiten interactuar con los usuarios y entender su entorno. Mori puede jugar sonidos de la naturaleza, cambiar de color y guiar a los usuarios a través de sesiones de respiración. El robot tiene un precio de $649 por la versión fundadora y $799 por la versión estándar. Mori es una experiencia que busca reencontrar relaciones entre los humanos y su entorno. La empresa OKA busca crear cinco "artifacts" experimentales en el futuro. Mori es el primer producto de la empresa y busca conectar a los usuarios con la naturaleza a través de su interacción.
+
+Por qué importa:
+Mori es un robot de seto que busca reconnectar a los usuarios con la naturaleza; La empresa OKA, fundada por Hua Wang, busca crear experiencias que ayuden a los humanos a sentirse menos solos en sus hogares. Mori es el primer producto de la empresa y busca ser una experiencia única que conecte a los usuarios con la naturaleza; La empresa OKA ha desarrollado un sistema de inteligencia artificial llamado "Attentive Intelligence" que permite a Mori entender el entorno y interactuar con los usuarios de manera personalizada; Mori es una experiencia que busca ser una herramienta para ayudar a los humanos a sentirse más conectados con la naturaleza y con sí mismos.</summary>
+    <published>2026-10-22T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/</id>
+    <title>[Tecnología] 1Password dejará que controlen su seguridad de datos sus agentes de inteligencia artificial preferidos</title>
+    <updated>2026-10-22T13:33:12.808189+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/"/>
-    <summary>Un dispositivo etiquetado en blanco es un dispositivo fabricado por una fábrica de Asia y luego vendido por otra empresa que lo vende con su nombre. Esto puede ser una forma de vender tecnología mediocre. Es importante investigar antes de comprar un dispositivo para evitar ser engañado. Algunas empresas, como Sony, utilizan dispositivos etiquetados en blanco para vender tecnología. También hay dispositivos que se parecen mucho, pero con diferentes nombres. Es importante leer reseñas y buscar información en línea antes de comprar un dispositivo. Las empresas grandes suelen evitar los dispositivos etiquetados en blanco, mientras que las empresas medianas pueden utilizarlos para vender productos fuera de su dominio. Los dispositivos etiquetados en blanco pueden ser una forma de entrar en un nuevo mercado, pero también pueden ser una forma de vender tecnología de baja calidad. Es importante investigar y leer reseñas antes de comprar un dispositivo.
+    <link href="https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/"/>
+    <summary>1Password ha lanzado una plataforma para que otros grandes agentes de inteligencia artificial, incluyendo Muse de Meta, Dots de OpenAI y Grok Bot de SpaceXAI, accedan a sus credenciales de login para completar tareas sin recibir sus nombres de usuario, contraseñas o contenido de la vault. El nuevo 1Password para Agentes proporciona un sistema de login seguro que evita que los modelos vean las credenciales. El objetivo es permitir que los agentes realicen tareas como reservar restaurantes, comprar regalos y planificar vacaciones sin necesidad de credenciales. El sistema garantiza que los modelos no puedan acceder a la información de login; 1Password ha trabajado con Muse, Claude Duet, ChatGPT Work y Dots, Grok Bot y Town, y proporciona acceso aprobado cuando sea necesario. Los usuarios aprobados pueden autorizar los signos en; Las contraseñas, nombres de usuario y códigos de MFA permanecen fuera del alcance de cada agente; El sistema de acceso es por sesión, limitado a elementos específicos y no se transfiere. 1Password ha introducido esta plataforma después de la integración de Claude en julio; El sistema de login es seguro y evita que los modelos vean las credenciales; El objetivo es permitir que los agentes realicen tareas sin necesidad de credenciales. El sistema garantiza que los modelos no puedan acceder a la información de login; El acceso se otorga por sesión, limitado a elementos específicos y no se transfiere. 1Password ha trabajado con Muse, Claude Duet, ChatGPT Work y Dots, Grok Bot y Town, y proporciona acceso aprobado cuando sea necesario. Los usuarios aprobados pueden autorizar los signos en; Las contraseñas, nombres de usuario y códigos de MFA permanecen fuera del alcance de cada agente. El sistema de acceso es por sesión, limitado a elementos específicos y no se transfiere; El precio y la disponibilidad del sistema no han sido anunciados aún.
 
-Contexto IA (informativo):
-En el mundo de la tecnología, hay una gran cantidad de dispositivos que se parecen mucho, pero con diferentes nombres. Esto se debe a que muchas empresas utilizan dispositivos etiquetados en blanco para vender tecnología. Algunas empresas, como Sony, utilizan dispositivos etiquetados en blanco para vender tecnología. También hay dispositivos que se parecen mucho, pero con diferentes nombres. Es importante leer reseñas y buscar información en línea antes de comprar un dispositivo.</summary>
-    <published>2026-10-21T13:00:00+00:00</published>
+Por qué importa:
+1Password ha lanzado una plataforma para que otros grandes agentes de inteligencia artificial, incluyendo Muse de Meta, Dots de OpenAI y Grok Bot de SpaceXAI, accedan a sus credenciales de login para completar tareas. Esto permite que los agentes realicen tareas como reservar restaurantes, comprar regalos y planificar vacaciones sin necesidad de credenciales; El sistema garantiza que los modelos no puedan acceder a la información de login.</summary>
+    <published>2026-10-22T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</id>
-    <title>[Tecnología] Nvidia lanza nuevo driver de GPU para acelerar juegos</title>
-    <updated>2026-10-21T13:42:48.517147+00:00</updated>
+    <id>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</id>
+    <title>[Tecnología] Insta360 lanza una versión más asequible de sus micrófonos inalámbricos con pantallas de color</title>
+    <updated>2026-10-22T13:33:12.808153+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"/>
-    <summary>Nvidia ha lanzado un nuevo driver de GPU que permite la implementación de la tecnología de entrega de shaders avanzados de Microsoft para acelerar el lanzamiento de juegos. Esta tecnología también elimina la compilación de shaders en tiempo real durante el juego, reduciendo el latido y los picos de procesador. La tecnología de entrega de shaders avanzados de Microsoft se basa en la transferencia de la compilación de shaders para diferentes combinaciones de hardware a la nube. De esta manera, se pueden precompilar shaders para cientos de miles de combinaciones de hardware y driver, según explica Nvidia.
+    <link href="https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen"/>
+    <summary>Insta360 ha anunciado una versión más asequible de su sistema de micrófonos inalámbricos, el Mic, que ofrece una pantalla de color E Ink y un diseño similar al Mic Pro, aunque con algunas diferencias en el hardware. El Mic Pro se vende por $329.99, mientras que el Mic cuesta $249.99. El Mic tiene una pantalla de 1,22 pulgadas con seis colores que se puede personalizar con logotipos, fotos o colores sólidos. Los transmisores tienen una distancia de hasta 400 metros y se pueden conectar a cámaras profesionales, laptops o dispositivos de grabación mediante un connector USB-C. El Mic también cuenta con tecnología de cancelación de ruido AI y control de ganancia automático para evitar el aullido. El Mic tiene un diseño más ligero y una batería que dura hasta 13 horas, aunque se puede aumentar a 34 horas con el caso de carga. El Mic no tiene almacenamiento interno, pero se puede utilizar una tarjeta microSD para grabar respaldos.
 
-Contexto IA (informativo):
-La tecnología de entrega de shaders avanzados de Microsoft es una característica que se puede encontrar en juegos que utilizan DirectX 12, Windows 11 y la biblioteca de desarrollo Agility de Microsoft. Los desarrolladores pueden capturar las shaders en una base de datos de objetos de estado (SODB) y, de esta manera, la red de nube de Microsoft puede precompilar las shaders para diferentes combinaciones de hardware y driver.</summary>
-    <published>2026-10-21T13:09:26+00:00</published>
+Por qué importa:
+La nueva versión del Mic es interesante porque ofrece una solución más asequible para los creadores de contenido que buscan una solución de micrófonos inalámbricos con pantallas de color.</summary>
+    <published>2026-10-22T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://maroun-baydoun.com/blog/make-yourself-replaceable/</id>
-    <title>[Programación] Haz que te conviertas en reemplazable</title>
-    <updated>2026-10-21T13:42:48.517114+00:00</updated>
+    <id>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</id>
+    <title>[Tecnología] El Birdbuddy Nook es el ganador de la prueba de diseño para roedores</title>
+    <updated>2026-10-22T13:33:12.808118+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://maroun-baydoun.com/blog/make-yourself-replaceable/"/>
-    <summary>En un mundo lleno de crisis, la seguridad laboral es uno de los refugios seguros. Sin embargo, hacerse indispensable puede ser una mala estrategia. La idea de hacerse reemplazable puede parecer contraintuitiva, pero puede ser la mejor forma de asegurar su futuro laboral. Sam es un ejemplo de esto. Sam es la persona que todos dependen, pero también es la persona que se vuelve difícil de reemplazar. Su historia nos enseña que la seguridad laboral no siempre es lo mejor para nosotros.
+    <link href="https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on"/>
+    <summary>El Birdbuddy Nook ha demostrado ser el mejor diseño para roedores, gracias a su tamaño pequeño y diseño con perchero extender que les hace difícil alcanzar las semillas. En comparación con el Birdbuddy Home, el Nook tiene una mejor relación con los roedores y es más fácil de rellenar con semillas. El Nook también tiene una conexión Wi-Fi sin problemas y se conecta más rápido a la aplicación que el Home. El Home, por otro lado, tiene problemas de conexión y un sistema de recompensa más complicado. El Nook tiene un diseño más pequeño y asequible que el Birdbuddy Home, y su precio es más asequible. El Birdbuddy Nook ha ganado la prueba de diseño para roedores, siendo el perfecto equilibrio entre tecnología, naturaleza y valor.
 
-Contexto IA (informativo):
-La historia de Sam nos muestra que la seguridad laboral puede ser un problema. Cuando se vuelve demasiado dependiente de una sola persona, puede crear problemas. La clave es encontrar un equilibrio entre ser valioso y no volverse demasiado indispensable.</summary>
-    <published>2026-10-20T23:42:16+00:00</published>
+Por qué importa:
+El Birdbuddy Nook ha demostrado ser una solución efectiva para aquellos que buscan proteger sus semillas de roedores. Su diseño innovador y su conexión Wi-Fi sin problemas lo convierten en una opción atractiva para aquellos que buscan una solución sencilla y efectiva.</summary>
+    <published>2026-10-22T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://cert.europa.eu/publications/security-advisories/2026-018/</id>
-    <title>[Programación] Vulnerabilidades críticas en PHP</title>
-    <updated>2026-10-21T13:42:48.517078+00:00</updated>
+    <id>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</id>
+    <title>[Tecnología] DeepSeek reportadamente aumenta $15B días después de las restricciones de EE. UU.</title>
+    <updated>2026-10-22T13:33:12.808080+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://cert.europa.eu/publications/security-advisories/2026-018/"/>
-    <summary>Las vulnerabilidades críticas en PHP pueden llevar a la ejecución remota de código, según revelaciones previas. La Fundación PHP anunció una actualización de seguridad que abordará estas vulnerabilidades, que podrían afectar a todas las versiones de PHP desde PHP 5. Las organizaciones se recomienda identificar aplicaciones basadas en PHP y prepararse para aplicar parches lo antes posible. Si la actualización no es posible, se recomienda aislar aplicaciones que interactúan con Internet de las redes públicas hasta que se pueda aplicar la solución.
+    <link href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"/>
+    <summary>El laboratorio de inteligencia artificial chino DeepSeek reportó haber recaudado aproximadamente $15 mil millones en una ronda de financiamiento, lo que equivale a 100 mil millones de yuanes, solo dos días después de que las agencias civiles federales de EE. UU; ordenaran la eliminación de la tecnología de inteligencia artificial de DeepSeek de sus sistemas debido a preocupaciones de seguridad. La empresa, que tiene sede en Hangzhou, está ampliando su inversión en infraestructura de inteligencia artificial y modelos abiertos para mercados nacionales e internacionales, a pesar de las restricciones en EE. UU. El gran monto de financiamiento es el último signo de que los inversores están poniendo billones en empresas de inteligencia artificial alrededor del mundo, incluidas aquellas en China, para competir en la carrera global de inteligencia artificial. En mayo, la empresa china Kimi desarrolladora de Moonshot AI obtuvo $2 mil millones en una valoración de $20 mil millones. En enero, las empresas chinas Zhipu AI (Z.ai) y MiniMax, que ambas se llevaron a cabo en Hong Kong, tienen una capitalización de mercado de aproximadamente $29 mil millones y $7,2 mil millones, respectivamente. DeepSeek fue fundada en 2023 por Liang Wenfeng, quien anteriormente co-fundó la funda de hedge de China High-Flyer, que ayudó a financiar el desarrollo temprano de la empresa. La startup de inteligencia artificial ganó atención global en principios de 2025 con su modelo de razonamiento abierto y gratuito, desafiando la dominancia de las empresas de inteligencia artificial de EE. UU.
 
-Contexto IA (informativo):
-La Fundación PHP ha programado la actualización para el 21 de octubre de 2026 a las 14:00 UTC. No se han proporcionado detalles técnicos para las vulnerabilidades CVE-2026-109618 y CVE-2026-109619, aparte de sus puntuaciones de CVSS de 9.2, que indican el potencial de ejecución remota de código sin autenticación.</summary>
-    <published>2026-10-21T03:48:54+00:00</published>
+Por qué importa:
+La expansión de DeepSeek podría intensificar la competencia entre rivales nacionales.</summary>
+    <published>2026-10-22T13:11:13+00:00</published>
   </entry>
   <entry>
     <id>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</id>
-    <title>[Programación] Ocho bits de confianza; las claves de certificado de eMudhra se rompen en milisegundos</title>
-    <updated>2026-10-21T13:42:48.517040+00:00</updated>
+    <title>[Programación] Ocho bits de confianza; las claves de autoridad de eMudhra se rompen en milisegundos</title>
+    <updated>2026-10-22T13:33:12.808043+00:00</updated>
     <author>
       <name>programming</name>
     </author>
     <link href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"/>
-    <summary>Una de las claves de certificado de autoridad privada de eMudhra es el número 4. Un número que no es el número 4, ni el número 4 seguido de varios cientos de dígitos aleatorios, sino solo el número 4. Se han recuperado todas las claves de los certificados públicos de eMudhra de su computadora y se han bloqueado en menos de un segundo. La seguridad de los certificados de eMudhra se vio comprometida cuando se informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Los navegadores Chrome y Firefox bloquearon los certificados, y Mozilla anunció públicamente y eliminó la raíz de eMudhra de su NSS. Las ocho claves son seis claves de certificado TLS (DV, OV y EV, dos generaciones cada una) y dos claves de código de firma, todas creadas en abril de 2025. Todas las claves fueron cruzadas con la raíz de certificado de Sectigo en mayo de 2025. La vulnerabilidad se debe a que las claves son de solo un byte y cualquier persona puede factorizarlas. La seguridad de los certificados de eMudhra se vio comprometida porque las claves eran públicas desde el día en que se emitieron los certificados y cualquier persona que los haya visto podría haber recuperado la clave en milisegundos. Los navegadores Chrome y Firefox bloquearon los certificados, pero no se puede prevenir la emisión de certificados falsos. Los clientes de TLS no están afectados, pero otros programas como curl, Python, Node, Go, Java, git y package managers pueden ser vulnerables.
+    <summary>Un investigador de seguridad informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves de autoridad privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Chrome actualizó su CRLSet el mismo día y Mozilla bloqueó los certificados en Firefox horas después. El problema se resolvió al eliminar el root de eMudhra y agregarlo al Chrome Root Store v43. Las claves comprometidas son inherentemente débiles y pueden ser factorizadas en milisegundos. Mozilla informó públicamente el problema el 20 de octubre y actualizó su NSS. Chrome y Firefox bloquearon directamente los intermediatos y requieren la transparencia de certificados. Sin embargo, muchos clientes no revisan la revocación ni la transparencia de certificados.
 
-Contexto IA (informativo):
-La seguridad de los certificados de eMudhra se vio comprometida cuando se informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Los navegadores Chrome y Firefox bloquearon los certificados, y Mozilla anunció públicamente y eliminó la raíz de eMudhra de su NSS.</summary>
+Por qué importa:
+El problema es que muchos clientes no revisan la revocación ni la transparencia de certificados, lo que significa que no pueden detectar si un certificado ha sido comprometido; Esto es especialmente preocupante para clientes que no pueden actualizar sus sistemas o que no tienen la capacidad de revisar la revocación. El problema es que las claves comprometidas son inherentemente débiles y pueden ser factorizadas en milisegundos, lo que significa que cualquier persona con acceso a la clave puede utilizarla para firmar certificados falsos.</summary>
     <published>2026-10-21T12:01:54+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/paullovelace/gptbot-vs-oai-searchbot-vs-chatgpt-user-what-to-block-and-keep-5b74</id>
-    <title>[Programación] ¿Qué bloquear (y mantener) en robots.txt?</title>
-    <updated>2026-10-21T13:42:48.517002+00:00</updated>
+    <id>https://www.koreajoongangdaily.com/business/cybersecurity-agency-calls-for-immediate-php-updates-over-critical-security-flaws/12933557</id>
+    <title>[Programación] Agencia de seguridad cibernética llama a actualizaciones de PHP inmediatas debido a vulnerabilidades críticas</title>
+    <updated>2026-10-22T13:33:12.808002+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/paullovelace/gptbot-vs-oai-searchbot-vs-chatgpt-user-what-to-block-and-keep-5b74"/>
-    <summary>El autor de un sitio personal de noticias comparte su experiencia con la creación de una lista de bloqueo de bots de inteligencia artificial en robots.txt. Después de intentar bloquear tres bots diferentes, descubre que bloquear a uno puede afectar la capacidad de otro para ser citado en respuestas de ChatGPT. El autor recomienda bloquear solo a los bots de entrenamiento y mantener los otros, ya que bloquear a ChatGPT-User puede afectar la capacidad de los usuarios para acceder a la página. También destaca la importancia de explicar las razones detrás de cada bloqueo en robots.txt para evitar errores en el futuro.
+    <link href="https://www.koreajoongangdaily.com/business/cybersecurity-agency-calls-for-immediate-php-updates-over-critical-security-flaws/12933557"/>
+    <summary>La agencia de seguridad cibernética de Corea, KISA, ha alertado sobre vulnerabilidades críticas en el lenguaje de programación PHP que podrían permitir a los hackers tomar el control de sitios web sin autenticación. Las vulnerabilidades, identificadas como CVE-2026-109618 y CVE-2026-109619, afectan versiones de PHP 8.2, 8.3, 8.4 y 8.5, y sistemas que corren versiones anteriores a PHP 8.2.35, 8.3.36, 8.4.27 o 8.5.12. KISA ha recomendado que los usuarios actualicen sus instalaciones de PHP a las versiones actualizadas o posteriores. La agencia ha advertido que los usuarios que corren versiones de PHP 8.1 o anteriores deben actualizar a una versión soportada actualmente, en lugar de solo aplicar parches. La agencia ha destacado que el impacto potencial de estas vulnerabilidades podría ser amplio, ya que alrededor del 75% de los sitios web del mundo utilizan PHP. El informe también ha sido adoptado por autoridades de seguridad en Japón, Europa y Australia, que han recomendado a los administradores de sistemas que actualicen las actualizaciones de seguridad urgentes. Los administradores de sitios web están recomendados para verificar la versión de PHP que están utilizando y actualizar a la versión más reciente segura lo antes posible si sus sistemas están afectados. La agencia ha advertido que el uso de versiones de PHP 8.1 o anteriores es inadecuado debido a que el soporte de seguridad oficial para esas versiones ya ha terminado. El informe ha sido publicado por el informante Jeong Jae-hong.
 
-Contexto IA (informativo):
-El autor de la noticia destaca la importancia de entender cómo funcionan los bots de inteligencia artificial y cómo afectan la capacidad de un sitio para ser citado en respuestas de ChatGPT. También menciona que bloquear a los bots de entrenamiento puede afectar la capacidad de otros bots para ser citados, lo que puede tener consecuencias negativas para la SEO del sitio.</summary>
-    <published>2026-10-21T13:24:28+00:00</published>
+Por qué importa:
+La agencia de seguridad cibernética de Corea, KISA, ha emitido un alerta sobre vulnerabilidades críticas en PHP que podrían permitir a los hackers tomar el control de sitios web sin autenticación. Esto ha llevado a que las autoridades de seguridad en varios países, incluyendo Japón, Europa y Australia, adopten medidas de precaución y recomienden actualizaciones de seguridad urgentes.</summary>
+    <published>2026-10-22T05:50:43+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38</id>
-    <title>[Programación] Plataformas de Gestión de APIs: Cómo se Comparan en 2026</title>
-    <updated>2026-10-21T13:42:48.516949+00:00</updated>
+    <id>https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/</id>
+    <title>[Programación] Debunking "Faster than Rust": Malicious Benchmarks in Tov</title>
+    <updated>2026-10-22T13:33:12.807962+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>programming</name>
     </author>
-    <link href="https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38"/>
-    <summary>Las plataformas de gestión de APIs tradicionales se destacan en ciclos de REST y SOAP, pero las cargas de trabajo empresariales modernas requieren un sobreimpulsor de milisegundos, soporte nativo del protocolo de contexto del modelo y gobernanza de tokens de streaming. Bifrost se destaca como la opción de alta velocidad, agencia y carga de trabajo multi-modelo, con solo 11 microsegundos de sobreimpulsor por solicitud a 5,000 solicitudes por segundo. Kong Gateway y Gravitee siguen siendo opciones sólidas para arquitecturas de Kubernetes de microservicios y nubes híbridas. Apigee, AWS API Gateway y MuleSoft Anypoint siguen siendo opciones sólidas para ecosistemas empresariales profundos con alta gobernanza, modelos de precios complejos y ejecución más pesada. Seleccionar la plataforma adecuada requiere equilibrar el latencia de ejecución, la soberanía de la implementación (en-VPC versus SaaS), la flexibilidad de protocolo y la enmienda de la política de endpoint. Las arquitecturas empresariales procesan billones de solicitudes mensuales a través de microservicios, bases de datos y modelos generativos, lo que hace que las plataformas de gestión de APIs centrales sean esenciales para la seguridad, la ruta y la visibilidad operativa. Según la 2025 Gartner Magic Quadrant for API Management, las estrategias de API empresariales se están moviendo rápidamente de la gestión de solicitudes estáticas hacia la gestión dinámica, agente consciente de la tráfico. Bifrost, una plataforma de gateway de inteligencia artificial abierta desarrollada por Maxim AI, ha emergido junto con las plataformas de gestión de APIs legadas al unir la alta velocidad de routing con el soporte nativo del protocolo de contexto del modelo y la automatización de falla. Esta comparación técnica examina cómo las plataformas de gestión de APIs modernas y establecidas se evalúan en cuanto a rendimiento, arquitectura, gobernanza y costo operativo.
+    <link href="https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/"/>
+    <summary>En un artículo reciente, se descubrió que las benchmarking de Tov, un lenguaje de programación que se promociona como "faster than Rust", eran engañosas. Los autores de la publicación analizaron tres benchmarking que mostraban que Tov superaba a Rust en ciertas áreas, pero encontraron que estos resultados eran el resultado de una mala diseño del lenguaje. Los autores creen que los desarrolladores de Tov habían diseñado el lenguaje para obtener resultados falsos y no para mejorar la rendimiento real. Después de analizar el código y realizar benchmarking, los autores concluyeron que Tov no era más rápido que Rust en realidad. Los autores también destacaron que el diseño de Tov era el problema principal, y no la calidad del transpilador. En resumen, los autores concluyeron que Tov no era un lenguaje más rápido que Rust, sino que era un ejemplo de cómo no diseñar un lenguaje de programación. Los autores recomendaron que los desarrolladores de software buscaran otras opciones más efectivas para mejorar la rendimiento de sus aplicaciones. Los autores también destacaron que el concepto de "faster than Rust" era engañoso y no reflejaba la realidad de la situación. Los autores concluyeron que Tov era un ejemplo de cómo no se puede vencer a Rust en términos de rendimiento.
 
-Contexto IA (informativo):
-La industria de las APIs ha evolucionado significativamente en los últimos años, con un enfoque creciente en la gestión de APIs modernas y la convergencia de la frontera entre gateways generales y proxies especializados en inteligencia artificial y MCP. Las plataformas de gestión de APIs deben adaptarse a las nuevas demandas de rendimiento, flexibilidad y gobernanza, lo que requiere una evaluación cuidadosa de las características de runtime y los patrones de falla en el mundo real.</summary>
-    <published>2026-10-21T13:25:50+00:00</published>
+Por qué importa:
+La publicación se centró en la crítica de Tov por sus benchmarking engañosas, que mostraban que el lenguaje era más rápido que Rust en ciertas áreas; Los autores de la publicación creen que estos resultados eran el resultado de una mala diseño del lenguaje y no de una mejora real en la rendimiento; La publicación también destacó que el diseño de Tov era el problema principal, y no la calidad del transpilador. En resumen, la publicación se centró en la crítica de Tov por sus benchmarking engañosas y en la importancia de diseñar un lenguaje de programación con rendimiento real.</summary>
+    <published>2026-10-22T06:17:28+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/seven_billion_ffd761d9574/write-the-erp-demo-script-before-you-meet-a-single-vendor-5gji</id>
-    <title>[Programación] Escribe el script de demo de ERP antes de conocer un solo proveedor</title>
-    <updated>2026-10-21T13:42:48.516861+00:00</updated>
+    <id>https://dev.to/kavindotdev/how-the-wayback-machine-actually-works-i-went-down-the-orkut-rabbit-hole-529o</id>
+    <title>[Programación] Cómo funciona la máquina del tiempo de Internet</title>
+    <updated>2026-10-22T13:33:12.807919+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/seven_billion_ffd761d9574/write-the-erp-demo-script-before-you-meet-a-single-vendor-5gji"/>
-    <summary>La mayoría de las listas de corto de ERP se deciden por la mejor demo, no por la mejor adaptación. Esto no es culpa del comprador. Un demo de proveedor está diseñado para mostrar el producto en su mejor luz, con datos de muestra limpios y un camino que el presentador ha recorrido muchas veces. La solución es simple y rara: escribir el script propio antes de la primera reunión. En un script de demo, se deben incluir los pocos procesos que hacen o pierden dinero. Por ejemplo, el proceso de pedido a entrega, la modificación de cambios de ingeniería en un pedido en vivo, el conteo de fin de mes o la transferencia de inventario en sitios múltiples. Para cada uno, se deben escribir los pasos que sigue el equipo, incluyendo los incómodos. Luego se deben agregar datos propios. Se deben pedir a cada proveedor que ejecute el mismo script con los mismos datos. Esto hace que tres ventas se conviertan en una comparación única. Se detiene el juicio de características y se comienza a evaluar la adaptación. También se ve cómo cada producto maneja las excepciones que llenan los calendarios de los planificadores. Los scripts limpios de felicidad parecen lo mismo en cada sistema. Las excepciones no lo hacen. También expone al socio, no solo al producto. La marca de ERP es menos importante que las personas que lo configurarán. Se debe preguntar a buenos preguntas sobre las rutas. Se debe pedir referencias a cada socio cerca de las plantas, y luego llamarlas. Se debe pedir que cada proveedor price el mismo escenario, con licencias, implementación, migración de datos y soporte enumerados por separado. Las cotizaciones que cubren diferentes escenarios no se pueden comparar y las diferencias suelen aparecer más tarde como solicitudes de cambios. En cualquier caso, se debe pensar en la data. Sea que el sistema que gane, el valor de la inteligencia artificial después de la implementación depende de los maestros limpios y las transacciones del mismo día. Se debe incluir una revisión de la data readiness dentro del plan del proyecto, no después de él. El artículo completo compara Infor LN, SAP y Microsoft Dynamics en profundidad de fabricación, multi-sitio, GST de India, socios y readibilidad de inteligencia artificial, con cada afirmación vinculada a la página del propio proveedor. También tiene un árbol de decisión para construir una lista de corto justa. Se puede leer el artículo completo: Infor LN vs SAP vs Dynamics para fabricantes de tamaño medio
+    <link href="https://dev.to/kavindotdev/how-the-wayback-machine-actually-works-i-went-down-the-orkut-rabbit-hole-529o"/>
+    <summary>La Wayback Machine es una biblioteca digital no lucrativa fundada en 1996 por Brewster Kahle que tiene como objetivo proporcionar acceso gratuito a la información. El sitio web de la Wayback Machine es su archivo web, donde se almacenan páginas web, libros, música, videos, software y sitios web. El usuario puede ingresar una URL y seleccionar una fecha para ver la página web como la tenía en ese momento. El sitio web almacena los archivos originales de la página web, como HTML, CSS, JavaScript y imágenes, lo que permite que el usuario pueda navegar por la página como si estuviera en la original. La Wayback Machine no tiene un horario fijo para capturar páginas web, pero depende de la popularidad del sitio web y de la cantidad de enlaces que lo enlacen. El sitio web utiliza crawlers para descubrir páginas web, y también utiliza listas de semillas y la función "Save Page Now" para capturar páginas web. La Wayback Machine utiliza un índice llamado CDX para encontrar páginas web y almacenarlas en WARC files, que son archivos que contienen la respuesta completa del servidor. El sitio web también utiliza un sistema de replay para reescribir las enlaces y permitir que el usuario vea la página web como la tenía en el momento de la captura. La Wayback Machine no es una herramienta mágica, sino que depende de los crawlers, los WARC files, el CDX index y el sistema de replay para funcionar.
 
-Contexto IA (informativo):
-El artículo fue escrito por Abhijit Singh, CEO de Seven Billion Analytics, que construye sistemas de inteligencia artificial, análisis y ERP para fabricantes y distribuidores de tamaño medio.</summary>
-    <published>2026-10-21T13:26:12+00:00</published>
+Por qué importa:
+La Wayback Machine es importante porque permite a los usuarios ver páginas web antiguas y recuperar información que podría haberse perdido; También es útil para investigadores y historiadores que buscan información sobre el pasado. La Wayback Machine es una herramienta valiosa para entender cómo ha cambiado el Internet y cómo han evolucionado las páginas web con el tiempo.</summary>
+    <published>2026-10-22T12:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al</id>
+    <title>[Programación] Dual-pane SFTP con una cola de transferencia resumable: una guía práctica de AI-SSH-Pro</title>
+    <updated>2026-10-22T13:33:12.807864+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al"/>
+    <summary>AI-SSH-Pro es una herramienta de SFTP que permite transferir archivos de manera eficiente y segura. Con esta herramienta, se puede abrir una ventana de SFTP en el lado izquierdo y una ventana de terminal en el lado derecho, lo que permite trabajar de manera simultánea. La herramienta también incluye una cola de transferencia resumable, lo que significa que si se interrumpe la conexión, la transferencia se puede continuar cuando se se restablezca la conexión. Además, la herramienta incluye una función de seguimiento del terminal, que permite ver el directorio remoto actualizado en tiempo real. La herramienta también incluye una función de búsqueda de archivos, que permite buscar archivos en subdirectorios. AI-SSH-Pro es una herramienta de código abierto y se puede descargar desde GitHub.
+
+Por qué importa:
+La herramienta es útil para aquellos que necesitan transferir archivos de manera segura y eficiente, especialmente en entornos con conexiones de red inestables. La herramienta también es útil para aquellos que necesitan trabajar con archivos en un entorno remoto, ya que permite la conexión simultánea a la terminal y la SFTP; La herramienta es fácil de usar y no requiere conocimientos avanzados de SFTP.</summary>
+    <published>2026-10-22T13:13:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/dataspryva/your-hiring-chart-may-measure-who-posts-most-often-4hhk</id>
+    <title>[Programación] Un anuncio en un sitio web de empleo puede medir quién publica más a menudo</title>
+    <updated>2026-10-22T13:33:12.807770+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/dataspryva/your-hiring-chart-may-measure-who-posts-most-often-4hhk"/>
+    <summary>Totaljobs, un sitio web de empleo, utiliza un sistema de búsqueda anónima que busca por la recencia de los anuncios, lo que puede crear un sesgo en la representación de las ocupaciones. Esto se debe a que los anuncios similares con diferentes identidades pueden ser utilizados para manipular la búsqueda, y la verificación de la alimentación no puede probar la afición de un empleador a ciertas industrias. Además, la búsqueda por recencia no considera la afición de un empleador a ciertas industrias. Se recomienda bloquear a esta persona y/o informar el abuso. La recencia de un anuncio se mide por la fecha de publicación, no por la afición del empleador. Un anuncio puede ser repetido varias veces para crear un sesgo en la búsqueda. La búsqueda por recencia no produce un muestreo aleatorio. La búsqueda por recencia no considera la representación de todas las ocupaciones. La búsqueda por recencia puede crear un sesgo en la representación de las ocupaciones.
+
+Por qué importa:
+La búsqueda por recencia en un sitio web de empleo puede ser útil para encontrar anuncios recientes, pero también puede crear un sesgo en la representación de las ocupaciones. Esto es importante porque puede afectar la capacidad de las personas de encontrar empleos que se ajusten a sus necesidades y habilidades.</summary>
+    <published>2026-10-22T13:13:53+00:00</published>
   </entry>
 </feed>
