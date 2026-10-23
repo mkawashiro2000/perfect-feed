@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-22T13:55:53.275624+00:00</updated>
+  <updated>2026-10-23T13:18:08.946443+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html</id>
-    <title>[Economía] American Airlines prevé pérdidas más grandes en 2026 debido a un aumento en el precio del petróleo, planea ralentizar el crecimiento de la capacidad al año siguiente</title>
-    <updated>2026-10-22T13:55:53.277165+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"/>
-    <summary>American Airlines prevé perder entre $1 y $1.60 por acción, ajustado, en el año completo, debido a un aumento en el precio del petróleo. La aerolínea reportó un tercer trimestre con una ganancia de $269 millones o 41 centavos por acción, frente a $114 millones o 17 centavos por acción el año anterior. La compañía espera ganar hasta un 22.5% más de dinero en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. El precio del petróleo ha aumentado más del 20% desde el año anterior, lo que ha impulsado los precios de los billetes de avión. American Airlines es la cuarta aerolínea estadounidense en reducir su proyección de ganancias para 2026 debido al aumento en el precio del petróleo. La aerolínea ha estado trabajando para reducir sus pérdidas, invirtiendo en nuevos salones de espera y asientos de clase ejecutiva; La compañía también ha nombrado a un nuevo jefe de red, lo que es el último movimiento en una serie de cambios en la gerencia. American Airlines prevé perder entre 50 centavos y $1.10 por acción ajustado en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. La aerolínea ha reportado un tercer trimestre con una ganancia de $269 millones o 41 centavos por acción, frente a $114 millones o 17 centavos por acción el año anterior. La compañía espera ganar hasta un 22.5% más de dinero en el cuarto trimestre, con una capacidad que puede aumentar entre el 5.5% y el 6.5%. El precio del petróleo ha aumentado más del 20% desde el año anterior, lo que ha impulsado los precios de los billetes de avión.
-
-Por qué importa:
-American Airlines prevé perder más dinero debido a un aumento en el precio del petróleo, lo que ha impulsado los precios de los billetes de avión. La aerolínea está trabajando para reducir sus pérdidas, invirtiendo en nuevos salones de espera y asientos de clase ejecutiva.</summary>
-    <published>2026-10-22T11:56:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html</id>
-    <title>[Economía] American Express trae reservas de Airbnb y recompensas a la plataforma de viajes de Amex</title>
-    <updated>2026-10-22T13:55:53.277093+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html"/>
-    <summary>American Express ha anunciado una nueva partnership con Airbnb para traer más de 1 millón de listados de alojamiento a su plataforma de viajes. Los cardholders de Amex pueden ahora ganar recompensas al reservar estancias en Airbnb. La plataforma de viajes de Amex también incluye más de 3.400 propiedades de hotel. Los miembros de la tarjeta Platinum pueden aplicar su crédito anual de $600 para alojamiento a las estancias más lujosas de Airbnb. Además, pueden obtener un crédito de $250 en su declaración si reservan una experiencia de Airbnb de alta gama. La nueva partnership busca atraer a clientes con beneficios adicionales. La competencia entre tarjetas de crédito premium sigue aumentando. American Express ha aumentado el costo anual de su tarjeta Platinum a $895. La compañía ha estado invirtiendo en beneficios adicionales para atraer a clientes de alto ingreso. El aumento de precios de los viajes y la creciente popularidad de las experiencias de viaje han llevado a que más de la mitad de los estadounidenses no cambien sus planes de viaje.
-
-Por qué importa:
-La nueva partnership entre American Express y Airbnb busca ofrecer a los cardholders más opciones y flexibilidad para sus reservas de viaje. La compañía busca atraer a clientes con beneficios adicionales y mantener su posición en el mercado de las tarjetas de crédito premium.</summary>
-    <published>2026-10-22T12:00:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html</id>
-    <title>[Economía] Vulnerabilidades en PHP permiten a hackers acceder a sitios web</title>
-    <updated>2026-10-22T13:55:53.277055+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html"/>
-    <summary>El lenguaje de programación PHP, utilizado por el 70% de los sitios web con lenguajes de programación de servidor, ha sido objeto de preocupación debido a la existencia de vulnerabilidades que permiten a los hackers acceder a los sitios web sin autenticación. Las vulnerabilidades, conocidas como "PHP2Shell", fueron descubiertas por investigadores de la empresa Calif y Google, quienes utilizaron modelos de lenguaje artificial para identificarlas. El gobierno de EE. UU. ha advertido a millones de organizaciones de implementar parches urgentemente o tomar sus servidores offline. Las vulnerabilidades han estado presentes durante años, pero la velocidad a la que los hackers pueden explotarlas ha aumentado significativamente gracias a la utilización de modelos de lenguaje artificial. El PHP Foundation ha lanzado parches para las vulnerabilidades, pero algunos expertos advierten que es posible que las organizaciones no sepan si han sido hackeadas.
-
-Por qué importa:
-La existencia de vulnerabilidades en PHP es preocupante, especialmente para organizaciones que utilizan el lenguaje de programación en sus sitios web. La velocidad a la que los hackers pueden explotar estas vulnerabilidades ha aumentado significativamente gracias a la utilización de modelos de lenguaje artificial, lo que hace que sea más importante que las organizaciones tomen medidas para protegerse.</summary>
-    <published>2026-10-22T12:35:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html</id>
-    <title>[Economía] Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios de combustible más altos</title>
-    <updated>2026-10-22T13:55:53.277017+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"/>
-    <summary>Southwest Airlines anunció que reduce su proyección de ganancias para 2026 debido a precios de combustible más altos. La aerolínea espera ganar entre $2.60 y $2.85 por acción ajustada en 2026, menos que su proyección de $3.25 a $4.25 por acción en julio. A pesar de los precios más altos, el CEO Bob Jordan dijo que los viajeros siguen reservando sus asientos. La aerolínea espera ganar 55 centavos y 80 centavos por acción ajustada en el cuarto trimestre; El número de pasajeros recaudados cayó un 3.2% a 33.47 millones de personas. La aerolínea también aumentó su tarifa promedio por pasajero en un 27% a $231.69; Southwest espera crecer su capacidad en un 4% anualmente. La aerolínea ha estado removiendo su modelo de negocio tradicional para aumentar la recaudación de ingresos. Southwest ha eliminado políticas como dos bolsas gratuitas por pasajero y asientos abiertos; La aerolínea ha comenzado a cobrar por la asignación de asientos y ha introducido una tarifa por bolsa. Southwest reportó una ganancia neta de $270 millones o 55 centavos por acción en el tercer trimestre. La aerolínea también aumentó su ingresos en un 21% a $8.42 billion; La aerolínea ajustó sus ganancias por una sola vez para eliminar un item. Southwest no está sola en reducir su proyección de ganancias; Delta Air Lines y United Airlines también lo hicieron.
-
-Por qué importa:
-Southwest Airlines reduce su proyección de ganancias para 2026 debido a precios de combustible más altos, lo que afecta a otras aerolíneas como Delta Air Lines y United Airlines. La aerolínea espera ganar entre $2.60 y $2.85 por acción ajustada en 2026, menos que su proyección de $3.25 a $4.25 por acción en julio.</summary>
-    <published>2026-10-22T12:42:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html</id>
-    <title>[Economía] Protestas en Francia: Macron condena comentarios "estúpidos" de Trump y otros</title>
-    <updated>2026-10-22T13:55:53.276977+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html"/>
-    <summary>El presidente francés Emmanuel Macron ha criticado "inaceptables" y "estúpidos" comentarios hechos por líderes extranjeros y otros después de que Francia sufriera protestas masivas y su peor violencia en años. Macron dijo que los comentarios eran "inaceptables" y que los políticos estaban utilizando la situación para sus propios fines. Trump y otros republicanos, incluyendo el vicepresidente JD Vance y el portavoz de la Cámara de Representantes Mike Johnson, han mencionado la violencia en Francia en la campaña electoral para las elecciones medioambientales de EE. UU. El gobierno francés está enfrentando una crisis fiscal y una crisis de deuda que está aumentando la presión sobre sus finanzas. Las protestas han causado daños significativos a la economía y han afectado a las empresas y los seguros. El gobierno francés está considerando la posibilidad de utilizar poderes especiales para afrontar la crisis, lo que podría aumentar la inestabilidad política.
-
-Por qué importa:
-La violencia en Francia es un tema importante porque afecta a la estabilidad política y económica del país; La crisis fiscal y la crisis de deuda están aumentando la presión sobre las finanzas del gobierno francés y pueden tener consecuencias graves para la economía y la sociedad. La violencia en Francia también es un tema de interés para otros países, como EE; UU., que están observando la situación con interés.</summary>
-    <published>2026-10-22T12:52:48+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html</id>
     <title>[Economía] Jobless claims near the lowest since the 1960s as low-fire trend continues</title>
-    <updated>2026-10-22T13:55:53.276937+00:00</updated>
+    <updated>2026-10-23T13:18:08.947783+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,65 +25,79 @@ La tendencia de "fuego bajo" en el mercado laboral es importante porque refleja 
     <published>2026-10-22T13:21:27+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/</id>
-    <title>[Data Science] Construí una pipeline para rastrear el mercado laboral al que estoy intentando entrar.</title>
-    <updated>2026-10-22T13:55:53.276901+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html</id>
+    <title>[Economía] Corrupción es la principal preocupación de los votantes antes de la elección media</title>
+    <updated>2026-10-23T13:18:08.947747+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/"/>
-    <summary>El autor construyó una pipeline para rastrear el mercado laboral al que está intentando entrar. Inicialmente, utilizó Remotive para buscar ofertas de trabajo, pero descubrió que solo obtenía 15 resultados. Luego, construyó una pipeline que extrae información de GitHub y PostgreSQL para analizar el mercado laboral. La pipeline utiliza funciones como dbt snapshots para analizar cambios históricos y frescura. El autor también documentó su viaje como ingeniero de datos y analítico. La pipeline se utiliza para rastrear ofertas de trabajo en roles como ingeniero de datos, analítico, desarrollador de ETL y otros relacionados. El autor está aprendiendo y repitiendo ciertos aspectos de sus proyectos anteriores para mejorar sus habilidades.
+    <link href="https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html"/>
+    <summary>Según un reciente sondeo de CNBC, la corrupción es la principal preocupación de los votantes en las próximas elecciones medioambientales. El sondeo, que se llevó a cabo entre 1.000 votantes registrados en Estados Unidos, encontró que el 36% de los respondientes señalaba la corrupción como una de las principales preocupaciones del país. Los votantes también expresaron preocupación por el costo de la comida y los combustibles, la protección de la democracia y el precio del gas, que recibieron respuestas del 34%, 23% y 23% respectivamente. Este sondeo se ajusta a otros recientes que muestran que la corrupción ha alcanzado un nivel sin precedentes entre los votantes. Los demócratas han intentado aprovechar esta tendencia, acusando a la administración de Trump de corrupción y señalando que la corrupción es una de las principales causas de la inestabilidad económica. Los republicanos también han intentado aprovechar esta tendencia, lanzando una campaña para combatir la corrupción. El sondeo también encontró que los votantes están en desacuerdo con la idea de que los funcionarios electos, incluyendo el presidente y los miembros del Congreso, puedan tener intereses personales en empresas que tienen contratos con el gobierno federal. El 93% de los votantes se opuso a esta idea, mientras que el 89% se opuso a la posibilidad de que las empresas de la familia inmediata del presidente puedan recibir contratos del gobierno federal.
 
 Por qué importa:
-La importancia de esta pipeline radica en que permite al autor analizar el mercado laboral de manera más precisa y actualizada, lo que puede ayudarle a encontrar el trabajo adecuado y a mejorar sus habilidades como ingeniero de datos y analítico.</summary>
-    <published>2026-10-21T11:00:00+00:00</published>
+La preocupación por la corrupción entre los votantes es un tema que ha ganado tracción en las últimas semanas, especialmente después de que los demócratas hayan lanzado una campaña para acusar a la administración de Trump de corrupción. Los republicanos también han intentado aprovechar esta tendencia, lanzando una campaña para combatir la corrupción; El sondeo de CNBC encontró que el 36% de los votantes señala la corrupción como una de las principales preocupaciones del país, lo que sugiere que la corrupción es un tema que está tomando importancia entre los votantes.</summary>
+    <published>2026-10-23T10:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/</id>
-    <title>[Data Science] La seguridad de la inteligencia artificial es una preocupación creciente para las organizaciones.</title>
-    <updated>2026-10-22T13:55:53.276866+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html</id>
+    <title>[Economía] Pocas personas están volando como el costo del billete de avión sube</title>
+    <updated>2026-10-23T13:18:08.947711+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/"/>
-    <summary>En una encuesta realizada a 351 personas que trabajan en seguridad, se encontró que la mayoría de los profesionales de la seguridad consideran que la inteligencia artificial es una amenaza para la seguridad, especialmente debido a la posibilidad de que los atacantes utilicen la inteligencia artificial para descubrir vulnerabilidades antes de que los defensores puedan mitigarlas y aplicar parches. El 55% de los respondentes observaron ataques de phishing generados por inteligencia artificial, mientras que el 49% se preocupaba por la posibilidad de que los ataques generados por inteligencia artificial se produjeran debido a la falta de verificación humana. Solo el 16% de los respondentes observó ataques automatizados, como el ataque de OpenAI a Hugging Face. La mayoría de los respondentes (49%) se preocupaba por la posibilidad de que los ataques generados por inteligencia artificial se produjeran debido a la posibilidad de que se produjeran pérdidas de datos sensibles. La encuesta también encontró que solo un cuarto (25%) de los respondientes consideró que el phishing era una preocupación principal, y que solo el 4% de los respondientes consideró que la contaminación de datos era una preocupación principal. La gran mayoría de los respondientes (72%) informaron que sus empresas tienen una política de uso de la inteligencia artificial en vigor, pero solo el 28% de los respondientes informaron que su empresa tiene una política de uso de la inteligencia artificial "completa".
+    <link href="https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html"/>
+    <summary>El número de personas que pasan por controles de seguridad en los aeropuertos de EE. UU. está en camino de su primer declive anual desde 2020. A pesar de que el número de pasajeros ha disminuido, las aerolíneas están enfocadas en maximizar los ingresos con los precios más altos. American Airlines, Southwest Airlines y United Airlines han reportado ingresos superiores a sus expectativas, aunque también han reducido sus proyecciones de beneficios para el próximo año. La demanda de asientos de clase ejecutiva ha sido particularmente fuerte, lo que ha llevado a una mayor presión sobre los precios. Las aerolíneas están confiadas en su capacidad para mantener los precios altos, aunque el costo del combustible sigue siendo un desafío.
 
 Por qué importa:
-La seguridad de la inteligencia artificial es una preocupación creciente para las organizaciones debido a la posibilidad de que los atacantes utilicen la inteligencia artificial para descubrir vulnerabilidades antes de que los defensores puedan mitigarlas y aplicar parches. Esto se debe en parte a la falta de verificación humana y a la posibilidad de que se produjeran pérdidas de datos sensibles.</summary>
-    <published>2026-10-21T11:02:58+00:00</published>
+La crisis del combustible sigue siendo un factor clave en la industria aérea, con los precios del combustible más de doble que en el mismo período del año anterior. A pesar de esto, las aerolíneas están confiadas en su capacidad para maximizar los ingresos con los precios más altos; La demanda de asientos de clase ejecutiva ha sido particularmente fuerte, lo que ha llevado a una mayor presión sobre los precios.</summary>
+    <published>2026-10-23T12:11:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm</id>
-    <title>[Data Science] Named Entity Recognition Using Scikit-LLM</title>
-    <updated>2026-10-22T13:55:53.276831+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html</id>
+    <title>[Economía] La tasa de interés del Tesoro de EE. UU. cae a 5% tras preocupaciones por la inteligencia artificial</title>
+    <updated>2026-10-23T13:18:08.947668+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm"/>
-    <summary>Scikit-LLM permite la creación de pipelines de reconocimiento de entidades nombradas (NER) personalizados en unos pocos pasos sencillos, aprovechando las capacidades de razonamiento de modelos de lenguaje grande (LLM). El reconocimiento de entidades nombradas es un ejemplo claro de la aplicación de la extracción de datos estructurados en el análisis de datos y en diversas aplicaciones. Scikit-LLM aporta una solución innovadora que permite la creación de pipelines de NER personalizados con minimal configuración y código. El modelo se puede utilizar para tareas de clasificación de texto más allá del reconocimiento de entidades nombradas. El uso de Scikit-LLM requiere la creación de un API key en la plataforma Groq. El modelo se puede utilizar para analizar textos y extraer datos estructurados. El reconocimiento de entidades nombradas es una aplicación natural de la extracción de datos estructurados. El uso de Scikit-LLM permite la creación de pipelines de NER personalizados con una gran flexibilidad. El modelo se puede utilizar para analizar textos y extraer datos estructurados de manera eficiente. El reconocimiento de entidades nombradas es una aplicación importante en diversas áreas.
+    <link href="https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"/>
+    <summary>Los inversores buscaron refugio en los bonos del Tesoro de EE; UU; esta semana debido a las preocupaciones sobre la inteligencia artificial, lo que llevó a la tasa de interés del 10-year Treasury a caer a 5%. La tasa de interés del 2-year Treasury aumentó 5 puntos básicos a 4.692%, mientras que la tasa de interés del 30-year Treasury aumentó 3 puntos básicos a 5.31%. Los inversores también buscaron refugio en los bonos del Tesoro debido a la debilidad en el mercado francés y la caída de los valores de las empresas de tecnología. La tasa de interés del Tesoro de EE; UU; se ajustó a 4.997% y los precios de los bonos se ajustaron inversamente; Los inversores también buscaron refugio en los bonos del Tesoro debido a la inestabilidad en el mercado de la energía y las preocupaciones sobre la inflación. La tasa de interés del Tesoro de EE; UU; se ajustó a 4.997% y los precios de los bonos se ajustaron inversamente; Los inversores también buscaron refugio en los bonos del Tesoro debido a la inestabilidad en el mercado de la energía y las preocupaciones sobre la inflación. La tasa de interés del Tesoro de EE; UU; se ajustó a 4.997% y los precios de los bonos se ajustaron inversamente. Los inversores también buscaron refugio en los bonos del Tesoro debido a la inestabilidad en el mercado de la energía y las preocupaciones sobre la inflación. La tasa de interés del Tesoro de EE; UU; se ajustó a 4.997% y los precios de los bonos se ajustaron inversamente. Los inversores también buscaron refugio en los bonos del Tesoro debido a la inestabilidad en el mercado de la energía y las preocupaciones sobre la inflación. La tasa de interés del Tesoro de EE; UU; se ajustó a 4.997% y los precios de los bonos se ajustaron inversamente.
 
 Por qué importa:
-El reconocimiento de entidades nombradas es una aplicación importante en diversas áreas, como la extracción de datos estructurados y la creación de modelos de aprendizaje automático. El uso de Scikit-LLM permite la creación de pipelines de NER personalizados con minimal configuración y código, lo que facilita la aplicación de esta técnica en diversas áreas.</summary>
-    <published>2026-10-21T14:00:00+00:00</published>
+La caída de la tasa de interés del Tesoro de EE; UU; a 5% refleja las preocupaciones de los inversores sobre la inteligencia artificial y su impacto en el mercado de las tecnologías. La inestabilidad en el mercado de la energía y las preocupaciones sobre la inflación también han contribuido a la caída de la tasa de interés.</summary>
+    <published>2026-10-23T12:12:18+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/</id>
-    <title>[Data Science] ¿Podría la auto-distilación on-policy revolucionar el entrenamiento posterior?</title>
-    <updated>2026-10-22T13:55:53.276793+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html</id>
+    <title>[Economía] Demanda de Silicon Valley por investigar restricciones de Starlink en Ucrania</title>
+    <updated>2026-10-23T13:18:08.947625+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/could-on-policy-self-distillation-revolutionize-post-training/"/>
-    <summary>La auto-distilación on-policy, desarrollada por Shenfeld et al., ha demostrado ser efectiva en reducir el olvido catastrófico en el entrenamiento posterior. Esta técnica utiliza un modelo de aprendizaje de máquina como modelo de profesor para entrenar a otro modelo de aprendizaje de máquina, con el objetivo de mejorar la estabilidad del entrenamiento. Los autores encontraron que la técnica de auto-distilación SDFT produce resultados excelentes en el entrenamiento posterior, mientras que el entrenamiento tradicional causa un olvido catastrófico. La técnica de auto-distilación SDFT es on-policy, lo que significa que el modelo se entrena en función de sus propios outputs, en lugar de utilizar un conjunto de datos pre-entrenado. Además, la técnica de auto-distilación SDFT converge a políticas con una divergencia de KL mínima, lo que ayuda a evitar el olvido catastrófico. Los autores también encontraron que la técnica de auto-distilación SDFT es más efectiva que el entrenamiento tradicional SFT en la tarea de aprender nuevas capacidades sin olvidar las antiguas. Sin embargo, la técnica de auto-distilación SDFT también tiene limitaciones, como la pérdida de diversidad en los outputs del estudiante.
+    <link href="https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"/>
+    <summary>Un grupo de demócratas del Valle de Silicón en la Cámara de Representantes de los Estados Unidos exigen una investigación del gobierno sobre las interrupciones recientes del servicio de internet Starlink de Elon Musk en Ucrania. La decisión de restrictir el servicio de Starshield, una versión militar de Starlink, limitó las capacidades militares de Ucrania y ha sido criticada por los funcionarios ucranianos. Los demócratas, liderados por los representantes Sam Liccardo, Ro Khanna y Jimmy Panetta, solicitan una investigación inmediata y expresan su intención de hacer que la investigación sea una prioridad si ganan la Cámara en las elecciones del 3 de noviembre. La investigación busca determinar quién ordenó la restricción del servicio y si se produjo una interferencia política. Los demócratas también expresan su preocupación por la seguridad nacional y la credibilidad de la tecnología estadounidense en el extranjero. La decisión de restrictir el servicio de Starshield fue criticada por los funcionarios ucranianos, que afirmaron que las restricciones han interrumpido drones de alta velocidad militares y han dificultado la capacidad de Ucrania para interceptar ataques rusos y realizar operaciones en la línea de frente. Los demócratas también expresan su intención de investigar si las empresas de Musk cumplen con sus contratos federales y si existen medidas de seguridad adecuadas para evitar la interferencia política y la restricción arbitraria del servicio. La investigación busca determinar si las empresas de Musk cumplen con sus contratos federales y si existen medidas de seguridad adecuadas para evitar la interferencia política y la restricción arbitraria del servicio.
 
 Por qué importa:
-La auto-distilación on-policy es una técnica prometedora para permitir que los modelos de lenguaje aprendan nuevas capacidades sin olvidar las antiguas. Sin embargo, también tiene limitaciones, como la pérdida de diversidad en los outputs del estudiante.</summary>
-    <published>2026-10-22T11:00:00+00:00</published>
+La decisión de restrictir el servicio de Starshield ha sido criticada por los funcionarios ucranianos, que afirmaron que las restricciones han interrumpido drones de alta velocidad militares y han dificultado la capacidad de Ucrania para interceptar ataques rusos y realizar operaciones en la línea de frente. La investigación busca determinar quién ordenó la restricción del servicio y si se produjo una interferencia política.</summary>
+    <published>2026-10-23T12:22:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html</id>
+    <title>[Economía] Crude oil futures rose Friday con una tasa del 1.4% en el mercado de Brent, que alcanzó su punto más alto desde mayo.</title>
+    <updated>2026-10-23T13:18:08.947587+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"/>
+    <summary>Crude oil futures rose Friday con una tasa del 1.4% en el mercado de Brent, que alcanzó su punto más alto desde mayo. Los precios de la WTI aumentaron. El presidente de los Estados Unidos, Donald Trump, acusó a Irán de mentir sobre los ataques a los barcos que transitaban el Estrecho de Hormuz. Irán afirmó que sus fuerzas militares están preparadas para la guerra. Los precios de la Brent alcanzaron su punto más alto desde mayo. El presidente de Irán afirmó que su país está preparado para la guerra. Los ataques a los barcos en el Estrecho de Hormuz han sido atribuidos a Irán. El presidente de Irán dijo que su país está preparado para la guerra. El precio de la Brent alcanzó su punto más alto desde mayo. El precio de la WTI aumentó.
+
+Por qué importa:
+El precio de la Brent alcanzó su punto más alto desde mayo debido a los ataques a los barcos en el Estrecho de Hormuz. El presidente de Irán afirmó que su país está preparado para la guerra.</summary>
+    <published>2026-10-23T12:46:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining</id>
     <title>[Data Science] Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining</title>
-    <updated>2026-10-22T13:55:53.276757+00:00</updated>
+    <updated>2026-10-23T13:18:08.947546+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -167,7 +111,7 @@ Harness² es importante porque permite a los agentes de inteligencia artificial 
   <entry>
     <id>https://towardsdatascience.com/same-answer-different-reason-what-a-reasoning-model-says-when-it-follows-a-planted-hint/</id>
     <title>[Data Science] El modelo de razonamiento DeepSeek-R1-Distill-Qwen-1.5B sigue una pista incorrecta en algunas preguntas.</title>
-    <updated>2026-10-22T13:55:53.276720+00:00</updated>
+    <updated>2026-10-23T13:18:08.947510+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,37 +123,65 @@ Es importante entender que el modelo de razonamiento puede seguir una pista inco
     <published>2026-10-22T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/</id>
-    <title>[Fórmula 1] "I'll probablemente necesitar a ordenar una nueva espalda" – Verstappen preparado para fin de semana bumpy en COTA | Fórmula 1</title>
-    <updated>2026-10-22T13:55:53.276679+00:00</updated>
+    <id>https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson</id>
+    <title>[Data Science] Cómo procesar archivos JSON grandes en Python con ijson</title>
+    <updated>2026-10-23T13:18:08.947474+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/"/>
-    <summary>Max Verstappen espera un fin de semana complicado debido a las notorias sacudidas en el Circuito de las Américas este fin de semana. Después de ver videos del round de la World Endurance Championship en COTA del mes pasado, Verstappen espera un desafío difícil. Ha ganado dos Grandes Premios, una carrera de sprint y segundo lugar en un Grand Prix en los tres últimos rondas. Sin embargo, considera que las características diferentes de los próximos circuitos hacen que sea incierto cuán competitivos serán. Verstappen no quiere pronosticar su participación en el Gran Premio de Austin, pero considera que cada carrera debe ser vista de manera individual. El próximo destino es México, donde la alta altitud y el calor extremo pueden afectar el rendimiento del motor y la conducción del coche. Verstappen y su equipo deben observar cómo se comporta el coche y el motor en esas condiciones. La competencia en los próximos Grandes Premios es incierta y dependerá de cómo se ajusten las cosas.
+    <link href="https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson"/>
+    <summary>El autor carga un archivo JSON grande en Python y observa cómo el espacio de memoria aumenta de 43 MB a 808 MB. El problema comienza cuando el archivo se vuelve grande. El módulo json de Python puede procesar archivos pequeños, pero cuando el archivo es grande, el módulo carga toda la documentación JSON en memoria antes de poder procesar los datos. El autor compara este enfoque con ijson, un parser JSON iterativo que permite procesar datos de manera incremental. El autor utiliza un archivo JSON grande con datos de parcelas de San Francisco y compara el consumo de memoria con y sin el uso de ijson. El autor encuentra que ijson reduce significativamente el consumo de memoria, lo que lo hace útil para procesar archivos JSON grandes.
 
 Por qué importa:
-La competencia en Fórmula 1 es intensa y cada fin de semana es una nueva oportunidad para los pilotos y equipos. Para Verstappen y su equipo, el Gran Premio de Austin es una oportunidad para seguir su racha de victorias y mantener su posición en la clasificación.</summary>
-    <published>2026-10-21T06:16:23+00:00</published>
+El autor utiliza el dataset de parcelas de San Francisco para demostrar la diferencia entre cargar y procesar archivos JSON; El dataset es de 181 MB de tamaño y sigue la estructura de GeoJSON FeatureCollection. El autor compara el consumo de memoria con y sin el uso de ijson, y encuentra que ijson reduce significativamente el consumo de memoria.</summary>
+    <published>2026-10-22T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/</id>
-    <title>[Fórmula 1] FIA abre centro de operaciones de carreras en base de FOM de Biggin Hill</title>
-    <updated>2026-10-22T13:55:53.276621+00:00</updated>
+    <id>https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/</id>
+    <title>[Data Science] La correlación entre los errores de los modelos de inteligencia artificial es un factor clave en la precisión de la mayoría de votos.</title>
+    <updated>2026-10-23T13:18:08.947424+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/"/>
-    <summary>El FIA ha inaugurado un nuevo centro de operaciones de carreras en la base de FOM de Biggin Hill en el Reino Unido. Este centro permitirá a los funcionarios del FIA gestionar eventos en todo el mundo sin estar presentes en persona. El centro tendrá un papel clave en la detección de incidentes durante las sesiones, como saltos de partida o errores de alineación en la pista. Además, utilizará sistemas de inteligencia artificial para automatizar procesos y detectar incidentes. El FIA presidente Mohammed Ben Sulayem y el presidente de Formula 1 Stefano Domenicali asistieron a la inauguración formal del centro. El presidente del FIA destacó la importancia de invertir en la tecnología y la infraestructura para garantizar decisiones precisas y eficientes. El centro de operaciones de carreras será fundamental para mantener los estándares más altos en el deporte. El centro de operaciones de carreras será una herramienta clave para garantizar la seguridad y la integridad de las carreras. El centro de operaciones de carreras permitirá a los funcionarios del FIA tomar decisiones más rápidas y precisas; El centro de operaciones de carreras será una inversión importante para el futuro del deporte. El centro de operaciones de carreras será una herramienta valiosa para la comunidad de los aficionados al automovilismo.
+    <link href="https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/"/>
+    <summary>Vals AI publicó un test el 9 de octubre para determinar si un equipo de agentes de codificación vale la pena el precio. El estudio comparó a GPT 6 Sol y Claude Opus 5.5, que construyeron 50 aplicaciones web desde especificaciones, cada uno solo y como equipo, con un esfuerzo de razonamiento medio y máximo. La correlación entre los errores de los modelos es un factor clave en la precisión de la mayoría de votos; La mayoría de votos de un panel de modelos con errores independientes es correcto el 83.8% del tiempo, mientras que con errores que se superponen es correcto solo el 74.4% del tiempo. La correlación entre los errores de los modelos es medida mediante el coeficiente de correlación phi; La fórmula para calcular el número efectivo de votos es 1 / (1 - φ), donde φ es la correlación entre los errores de los modelos. La mayoría de votos de un panel de modelos con errores independientes es equivalente a 5.0 votos efectivos, mientras que con errores que se superponen es equivalente a 2.2 votos efectivos. La correlación entre los errores de los modelos puede variar desde 0 (independientes) hasta 1 (identical); La correlación promedio de errores entre pares de modelos es 0.41 (intervento de 95% 0.39 a 0.44). La correlación de errores promedio entre pares de modelos es 0.33 a 0.48; La correlación de errores promedio entre pares de modelos de diferentes desarrolladores es 0.41. La correlación de errores promedio entre pares de modelos es 0.45 cuando se comparten las opciones; La correlación de errores promedio entre pares de modelos es 0.09 cuando se comparten las opciones y se considera la dificultad del tema. La correlación de errores promedio entre pares de modelos es 0.45 cuando se comparten las opciones; La correlación de errores promedio entre pares de modelos es 0.41 cuando se comparten las opciones y se considera la dificultad del tema. La correlación de errores promedio entre pares de modelos es 0.45 cuando se comparten las opciones.
 
 Por qué importa:
-El centro de operaciones de carreras es una inversión importante para el futuro del deporte, ya que permitirá a los funcionarios del FIA tomar decisiones más precisas y eficientes. Esto es especialmente importante en un deporte como el automovilismo, donde la seguridad es fundamental.</summary>
-    <published>2026-10-21T08:02:13+00:00</published>
+La correlación entre los errores de los modelos de inteligencia artificial es un tema importante en la evaluación de los modelos de lenguaje. La precisión de la mayoría de votos es crucial en la toma de decisiones.</summary>
+    <published>2026-10-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026</id>
+    <title>[Data Science] 5 Free AI Coding Agents You Should Try in 2026</title>
+    <updated>2026-10-23T13:18:08.947386+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026"/>
+    <summary>En 2026, puedes probar 5 agentes de codificación con inteligencia artificial gratuitos. OpenCode Zen, Gemini CLI, Kilo Code, Cline y Crush son algunas opciones que ofrece. Estos agentes te permiten experimentar con modelos de código abierto y propietarios sin pagar por el acceso a API. Puedes probar agentes como OpenCode, Gemini CLI, Kilo Code, Cline y Crush, que ofrecen modelos gratuitos a través de OpenCode Zen, Gemini, Kilo Code, Cline Provider y Charm Hyper, respectivamente. Estos modelos son capaces de realizar tareas de codificación complejas, como inspeccionar repositorios, editar archivos, ejecutar comandos y depurar errores. Sin embargo, es importante tener en cuenta que estos modelos tienen límites de cuota y pueden desaparecer con el tiempo.
+
+Por qué importa:
+Estos agentes de codificación con inteligencia artificial son una excelente opción para aquellos que desean experimentar con la tecnología sin tener que pagar por el acceso a API. La mayoría de estos agentes ofrecen modelos gratuitos a través de plataformas como OpenCode Zen, Gemini, Kilo Code, Cline Provider y Charm Hyper; Estos modelos son capaces de realizar tareas de codificación complejas y te permiten probar agentes como OpenCode, Gemini CLI, Kilo Code, Cline y Crush.</summary>
+    <published>2026-10-23T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/</id>
+    <title>[Data Science] ¿Por qué el número de parámetros no es la complejidad del modelo: Una introducción a la dimensión efectiva</title>
+    <updated>2026-10-23T13:18:08.947347+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"/>
+    <summary>El artículo de Jacob Cybulski explora la relación entre el número de parámetros de un modelo de aprendizaje automático y su complejidad. La mayoría de los modelos se describen por el número de parámetros entrenables, pero este no siempre refleja la verdadera complejidad del modelo. El autor introduce la dimensión efectiva como una medida de información complejidad a escala dependiente que se utiliza para evaluar la expresividad, la facilidad de entrenamiento y la capacidad de generalización de un modelo. La Fisher information es una herramienta clave en la estimación de la dimensión efectiva, ya que permite evaluar la complejidad y la generalización de un modelo. El artículo también explora cómo la dimensión efectiva se puede utilizar para derivar límites sobre el error de generalización y analizar la facilidad de entrenamiento de un modelo. La dimensión efectiva se relaciona con la generalización y puede proporcionar un límite de complejidad dependiente en la performance general. El autor también destaca la importancia de considerar la dimensión efectiva en lugar del número de parámetros para evaluar la complejidad de un modelo.
+
+Por qué importa:
+La dimensión efectiva es una medida importante en la evaluación de la complejidad de un modelo de aprendizaje automático, ya que permite evaluar la expresividad, la facilidad de entrenamiento y la capacidad de generalización de un modelo. La comprensión de la dimensión efectiva es fundamental para desarrollar modelos más eficientes y efectivos, y para mejorar la performance general de los modelos.</summary>
+    <published>2026-10-23T12:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/29477</id>
     <title>[Fórmula 1] Haas lanza livery especial de Godzilla para GP de Estados Unidos 2026</title>
-    <updated>2026-10-22T13:55:53.276463+00:00</updated>
+    <updated>2026-10-23T13:18:08.947307+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -223,7 +195,7 @@ La colaboración de Haas con Godzilla es una oportunidad única para conectar co
   <entry>
     <id>https://www.f1technical.net/news/29480</id>
     <title>[Fórmula 1] MotoGP presentará su debut en la carrera de F1 de Texas</title>
-    <updated>2026-10-22T13:55:53.276395+00:00</updated>
+    <updated>2026-10-23T13:18:08.947267+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -237,7 +209,7 @@ MotoGP está buscando expandir su audiencia y presentar su deporte a un público
   <entry>
     <id>https://www.f1technical.net/news/29481</id>
     <title>[Fórmula 1] Mercedes unveils special MANUFAKTUR livery for this weekend's United States Grand Prix</title>
-    <updated>2026-10-22T13:55:53.276285+00:00</updated>
+    <updated>2026-10-23T13:18:08.947214+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -249,51 +221,51 @@ La livery especial de Mercedes es importante porque marca el comienzo del penúl
     <published>2026-10-21T22:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529</id>
-    <title>[Tecnología] Los chatbots están creando un "self-portrait" de los usuarios</title>
-    <updated>2026-10-22T13:55:53.276218+00:00</updated>
+    <id>https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/</id>
+    <title>[Fórmula 1] Un título que resume la noticia</title>
+    <updated>2026-10-23T13:18:08.947178+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529"/>
-    <summary>Un estudio de ChatGPT encontró que el 96% de las memorias creadas por el chatbot se generaron sin que el usuario lo hubiera solicitado explícitamente. La empresa OpenAI ha introducido un sistema de memoria más complejo que automatiza la síntesis de información de conversaciones pasadas para mantener un perfil evoluto de los usuarios. La empresa OpenAI ha comenzado a mostrar anuncios en ChatGPT, utilizando información de conversaciones pasadas y memorias para personalizar los anuncios. Sin embargo, algunos expertos cuestionan la afirmación de OpenAI de que los anuncios no influyen en las respuestas del chatbot. Un estudio de ChatGPT también encontró que el 52% de las memorias contenían información sobre los estados psicológicos de los usuarios. La empresa OpenAI puede utilizar la información de las memorias de los usuarios para personalizar los anuncios, lo que plantea preocupaciones sobre la privacidad y el uso de datos. La empresa OpenAI no proporciona información clara sobre cómo se utiliza la información de las memorias de los usuarios, lo que genera preocupación sobre la privacidad y el uso de datos. Google está realizando una reforma importante en su función principal, Search, que incluye la integración de inteligencia artificial. La empresa OpenAI está trabajando en un producto que puede ayudar a los usuarios en "todo en su vida"; Los expertos advierten sobre el riesgo de privacidad que conlleva la creación de chatbots que conocen a los usuarios muy bien. Los chatbots pueden tener "disastrosas implicaciones" si se utilizan para reforzar la polarización política o la discriminación.
+    <link href="https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/"/>
+    <summary>Lewis Hamilton ha expresado su admiración por Andrea Kimi Antonelli, su sucesor en Mercedes, y ha destacado su capacidad para hacer un buen mundo campeón. Hamilton ha sido impresionado por el comportamiento de Antonelli, quien ha demostrado ser un conductor talentoso. El piloto ha mencionado que vio similitudes entre su primer año en F1 y el de Antonelli. Hamilton ha expresado su sorpresa por ver a Antonelli hacer un buen trabajo en su primer año en el equipo. El piloto ha destacado la importancia de tener un buen equipo detrás de un conductor. Hamilton ha expresado su confianza en Antonelli para hacer un buen trabajo en el equipo. El piloto ha mencionado que vio similitudes entre su primer año en F1 y el de Antonelli. Hamilton ha expresado su admiración por el trabajo de Antonelli y su capacidad para hacer un buen mundo campeón.
 
 Por qué importa:
-La creación de chatbots que conocen a los usuarios muy bien plantea preocupaciones sobre la privacidad y el uso de datos; La personalización excesiva y la simpatía hacia los usuarios pueden contribuir a la formación de delusiones asociadas con la inteligencia artificial. Es importante que los usuarios sean más cautelosos con la información que proporcionan a los chatbots y consideren la posibilidad de rephrasear sus preguntas para eliminar detalles personales.</summary>
-    <published>2026-10-22T12:00:15+00:00</published>
+La admiración de Lewis Hamilton por Andrea Kimi Antonelli es un ejemplo de cómo un equipo puede apoyar a un conductor joven y talentoso.</summary>
+    <published>2026-10-23T06:15:16+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/</id>
-    <title>[Tecnología] Un robot de seto que conecta a los usuarios con la naturaleza</title>
-    <updated>2026-10-22T13:55:53.276179+00:00</updated>
+    <id>https://www.racefans.net/2026/10/23/russell-is-certain-2026-wont-be-my-last-shot-to-win-the-championship/</id>
+    <title>[Fórmula 1] Russell es certain 2026 “no será mi última oportunidad” de ganar el título</title>
+    <updated>2026-10-23T13:18:08.947139+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/"/>
-    <summary>Mori es un robot de seto de la empresa OKA que busca reconnectar a los usuarios con la naturaleza. El robot tiene una cámara y microfonos que le permiten interactuar con los usuarios y entender su entorno. Mori puede jugar sonidos de la naturaleza, cambiar de color y guiar a los usuarios a través de sesiones de respiración. El robot tiene un precio de $649 por la versión fundadora y $799 por la versión estándar. Mori es una experiencia que busca reencontrar relaciones entre los humanos y su entorno. La empresa OKA busca crear cinco "artifacts" experimentales en el futuro. Mori es el primer producto de la empresa y busca conectar a los usuarios con la naturaleza a través de su interacción.
+    <link href="https://www.racefans.net/2026/10/23/russell-is-certain-2026-wont-be-my-last-shot-to-win-the-championship/"/>
+    <summary>Andrea Kimi Antonelli, el rival más cercano de Russell para el título, no muestra interés en si puede detener a Russell para ganar el título este fin de semana. Russell ganó la primera carrera de la temporada en Australia, pero pronto se perdió ante Antonelli, quien ganó los siguientes cinco rondas consecutivas. Aunque Russell ha perdido más puntos debido a la inconstancia de su equipo que su compañero de equipo, Antonelli también ha superado a Russell en muchas ocasiones, lo que ha dejado a Russell buscando formas de sacar más rendimiento de su coche. Russell ha hablado sobre cómo ha sido una temporada única que ha probado su carácter y resistencia; Ha estado buscando formas de recuperarse de las derrotas y ha estado buscando formas de mejorar su rendimiento. A pesar de que Antonelli es probable que no gane el título este fin de semana, su liderazgo es tan grande que está virtualmente asegurado del título. Russell ha aceptado que no ganará el título este año y ha estado buscando formas de mejorar su rendimiento; Ha estado buscando formas de sacar más rendimiento de su coche y ha estado buscando formas de mejorar su conducción. Russell ha estado buscando formas de recuperarse de las derrotas y ha estado buscando formas de mejorar su rendimiento; Ha estado buscando formas de sacar más rendimiento de su coche y ha estado buscando formas de mejorar su conducción. Russell ha estado buscando formas de recuperarse de las derrotas y ha estado buscando formas de mejorar su rendimiento; Ha estado buscando formas de sacar más rendimiento de su coche y ha estado buscando formas de mejorar su conducción. Russell ha estado buscando formas de recuperarse de las derrotas y ha estado buscando formas de mejorar su rendimiento. Ha estado buscando formas de sacar más rendimiento de su coche y ha estado buscando formas de mejorar su conducción.
 
 Por qué importa:
-Mori es un robot de seto que busca reconnectar a los usuarios con la naturaleza; La empresa OKA, fundada por Hua Wang, busca crear experiencias que ayuden a los humanos a sentirse menos solos en sus hogares. Mori es el primer producto de la empresa y busca ser una experiencia única que conecte a los usuarios con la naturaleza; La empresa OKA ha desarrollado un sistema de inteligencia artificial llamado "Attentive Intelligence" que permite a Mori entender el entorno y interactuar con los usuarios de manera personalizada; Mori es una experiencia que busca ser una herramienta para ayudar a los humanos a sentirse más conectados con la naturaleza y con sí mismos.</summary>
-    <published>2026-10-22T13:00:00+00:00</published>
+Russell está buscando formas de sacar más rendimiento de su coche y ha estado buscando formas de mejorar su conducción. Ha estado buscando formas de recuperarse de las derrotas y ha estado buscando formas de mejorar su rendimiento.</summary>
+    <published>2026-10-23T09:33:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/</id>
-    <title>[Tecnología] 1Password dejará que controlen su seguridad de datos sus agentes de inteligencia artificial preferidos</title>
-    <updated>2026-10-22T13:55:53.276141+00:00</updated>
+    <id>https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/</id>
+    <title>[Fórmula 1] Norris “got plenty of telling-offs” de McLaren sobre la colisión con Piastri en Singapur</title>
+    <updated>2026-10-23T13:18:08.947098+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/"/>
-    <summary>1Password ha lanzado una plataforma para que otros grandes agentes de inteligencia artificial, incluyendo Muse de Meta, Dots de OpenAI y Grok Bot de SpaceXAI, accedan a sus credenciales de login para completar tareas sin recibir sus nombres de usuario, contraseñas o contenido de la vault. El nuevo 1Password para Agentes proporciona un sistema de login seguro que evita que los modelos vean las credenciales. El objetivo es permitir que los agentes realicen tareas como reservar restaurantes, comprar regalos y planificar vacaciones sin necesidad de credenciales. El sistema garantiza que los modelos no puedan acceder a la información de login; 1Password ha trabajado con Muse, Claude Duet, ChatGPT Work y Dots, Grok Bot y Town, y proporciona acceso aprobado cuando sea necesario. Los usuarios aprobados pueden autorizar los signos en; Las contraseñas, nombres de usuario y códigos de MFA permanecen fuera del alcance de cada agente; El sistema de acceso es por sesión, limitado a elementos específicos y no se transfiere. 1Password ha introducido esta plataforma después de la integración de Claude en julio; El sistema de login es seguro y evita que los modelos vean las credenciales; El objetivo es permitir que los agentes realicen tareas sin necesidad de credenciales. El sistema garantiza que los modelos no puedan acceder a la información de login; El acceso se otorga por sesión, limitado a elementos específicos y no se transfiere. 1Password ha trabajado con Muse, Claude Duet, ChatGPT Work y Dots, Grok Bot y Town, y proporciona acceso aprobado cuando sea necesario. Los usuarios aprobados pueden autorizar los signos en; Las contraseñas, nombres de usuario y códigos de MFA permanecen fuera del alcance de cada agente. El sistema de acceso es por sesión, limitado a elementos específicos y no se transfiere; El precio y la disponibilidad del sistema no han sido anunciados aún.
+    <link href="https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/"/>
+    <summary>Lando Norris afirmó que McLaren le dio una "plenty of telling-offs" después de la colisión con Piastri en la carrera de sprint en Singapur; El piloto británico dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás. Norris dijo que aunque hubo desacuerdos, el equipo aún les permitió correr; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás. El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El equipo de McLaren le dio a Norris una "plenty of telling-offs" después de la colisión con Piastri en Singapur. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás. El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada; Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás. Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito. Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito. Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito.
 
 Por qué importa:
-1Password ha lanzado una plataforma para que otros grandes agentes de inteligencia artificial, incluyendo Muse de Meta, Dots de OpenAI y Grok Bot de SpaceXAI, accedan a sus credenciales de login para completar tareas. Esto permite que los agentes realicen tareas como reservar restaurantes, comprar regalos y planificar vacaciones sin necesidad de credenciales; El sistema garantiza que los modelos no puedan acceder a la información de login.</summary>
-    <published>2026-10-22T13:00:00+00:00</published>
+La colisión entre Norris y Piastri en la carrera de sprint en Singapur generó preocupación entre los aficionados y los expertos. La situación requiere una atención especial para evitar que se repitan incidentes similares en el futuro.</summary>
+    <published>2026-10-23T09:58:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</id>
     <title>[Tecnología] Insta360 lanza una versión más asequible de sus micrófonos inalámbricos con pantallas de color</title>
-    <updated>2026-10-22T13:55:53.276103+00:00</updated>
+    <updated>2026-10-23T13:18:08.947061+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -307,7 +279,7 @@ La nueva versión del Mic es interesante porque ofrece una solución más asequi
   <entry>
     <id>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</id>
     <title>[Tecnología] El Birdbuddy Nook es el ganador de la prueba de diseño para roedores</title>
-    <updated>2026-10-22T13:55:53.276064+00:00</updated>
+    <updated>2026-10-23T13:18:08.947026+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -321,7 +293,7 @@ El Birdbuddy Nook ha demostrado ser una solución efectiva para aquellos que bus
   <entry>
     <id>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</id>
     <title>[Tecnología] DeepSeek reportadamente aumenta $15B días después de las restricciones de EE. UU.</title>
-    <updated>2026-10-22T13:55:53.276027+00:00</updated>
+    <updated>2026-10-23T13:18:08.946989+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -333,79 +305,51 @@ La expansión de DeepSeek podría intensificar la competencia entre rivales naci
     <published>2026-10-22T13:11:13+00:00</published>
   </entry>
   <entry>
-    <id>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</id>
-    <title>[Programación] Ocho bits de confianza; las claves de autoridad de eMudhra se rompen en milisegundos</title>
-    <updated>2026-10-22T13:55:53.275988+00:00</updated>
+    <id>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</id>
+    <title>[Tecnología] Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</title>
+    <updated>2026-10-23T13:18:08.946949+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"/>
-    <summary>Un investigador de seguridad informó a Apple, Google, Microsoft, Mozilla y eMudhra que las claves de autoridad privadas de ocho certificados intermedios de eMudhra habían sido comprometidas. Chrome actualizó su CRLSet el mismo día y Mozilla bloqueó los certificados en Firefox horas después. El problema se resolvió al eliminar el root de eMudhra y agregarlo al Chrome Root Store v43. Las claves comprometidas son inherentemente débiles y pueden ser factorizadas en milisegundos. Mozilla informó públicamente el problema el 20 de octubre y actualizó su NSS. Chrome y Firefox bloquearon directamente los intermediatos y requieren la transparencia de certificados. Sin embargo, muchos clientes no revisan la revocación ni la transparencia de certificados.
+    <link href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"/>
+    <summary>Oura ha presentado una demanda contra su rival Ultrahuman, alegando que el Ring Pro de Ultrahuman infringe dos patentes de Oura; La demanda busca moneda y una orden judicial que impida la venta del Ring Pro en los Estados Unidos. La disputa es la última en una serie de disputas de patentes que Oura ha presentado contra fabricantes de smart-rings rivales, incluyendo Samsung y RingConn. Ultrahuman ha lanzado un Ring Pro reredisegnado en febrero, que recibió una decisión favorable de la Administración de Aduanas y Protección Fronteriza de los Estados Unidos en marzo, lo que permitió su regreso al mercado estadounidense. Oura ha argumentado que la decisión de Ultrahuman no cubre las dos patentes que ha presentado en su demanda, D804,471 y 12,769,363. La disputa surge en un mercado de smart-rings que crece, con IDC previendo que las exportaciones globales aumenten un 12,8% este año a 4,9 millones de unidades y alcanzar 6,3 millones de unidades en 2030. La demanda también viene justo semanas después de que Oura cancelara su IPO de $2,2 mil millones, citando "incertidumbre" en el mercado. Ultrahuman ha recibido $70 millones de inversores, incluyendo Qualcomm Ventures y Labcorp, valiéndolo en aproximadamente $365 millones. La empresa también está trabajando con Qualcomm en un nuevo smart ring que podría ejecutar más software directamente en el dispositivo, lo que la llevaría a expandirse más allá del seguimiento de la salud cardiovascular y la condición física. La disputa también ha llevado a Oura a acusar a SVTronics, una fabricante de electrónica de Texas, de infringir sus patentes. Ultrahuman ha afirmado que la empresa está confiada en su Ring Pro y que luchará contra las nuevas acusaciones.
 
 Por qué importa:
-El problema es que muchos clientes no revisan la revocación ni la transparencia de certificados, lo que significa que no pueden detectar si un certificado ha sido comprometido; Esto es especialmente preocupante para clientes que no pueden actualizar sus sistemas o que no tienen la capacidad de revisar la revocación. El problema es que las claves comprometidas son inherentemente débiles y pueden ser factorizadas en milisegundos, lo que significa que cualquier persona con acceso a la clave puede utilizarla para firmar certificados falsos.</summary>
-    <published>2026-10-21T12:01:54+00:00</published>
+La disputa entre Oura y Ultrahuman es la última en una serie de disputas de patentes que Oura ha presentado contra fabricantes de smart-rings rivales. La disputa surge en un mercado de smart-rings que crece, con IDC previendo que las exportaciones globales aumenten un 12,8% este año a 4,9 millones de unidades y alcanzar 6,3 millones de unidades en 2030.</summary>
+    <published>2026-10-23T04:22:57+00:00</published>
   </entry>
   <entry>
-    <id>https://www.koreajoongangdaily.com/business/cybersecurity-agency-calls-for-immediate-php-updates-over-critical-security-flaws/12933557</id>
-    <title>[Programación] Agencia de seguridad cibernética llama a actualizaciones de PHP inmediatas debido a vulnerabilidades críticas</title>
-    <updated>2026-10-22T13:55:53.275946+00:00</updated>
+    <id>https://www.wired.com/review/samsung-galazy-z-flip8/</id>
+    <title>[Tecnología] Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could</title>
+    <updated>2026-10-23T13:18:08.946914+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://www.koreajoongangdaily.com/business/cybersecurity-agency-calls-for-immediate-php-updates-over-critical-security-flaws/12933557"/>
-    <summary>La agencia de seguridad cibernética de Corea, KISA, ha alertado sobre vulnerabilidades críticas en el lenguaje de programación PHP que podrían permitir a los hackers tomar el control de sitios web sin autenticación. Las vulnerabilidades, identificadas como CVE-2026-109618 y CVE-2026-109619, afectan versiones de PHP 8.2, 8.3, 8.4 y 8.5, y sistemas que corren versiones anteriores a PHP 8.2.35, 8.3.36, 8.4.27 o 8.5.12. KISA ha recomendado que los usuarios actualicen sus instalaciones de PHP a las versiones actualizadas o posteriores. La agencia ha advertido que los usuarios que corren versiones de PHP 8.1 o anteriores deben actualizar a una versión soportada actualmente, en lugar de solo aplicar parches. La agencia ha destacado que el impacto potencial de estas vulnerabilidades podría ser amplio, ya que alrededor del 75% de los sitios web del mundo utilizan PHP. El informe también ha sido adoptado por autoridades de seguridad en Japón, Europa y Australia, que han recomendado a los administradores de sistemas que actualicen las actualizaciones de seguridad urgentes. Los administradores de sitios web están recomendados para verificar la versión de PHP que están utilizando y actualizar a la versión más reciente segura lo antes posible si sus sistemas están afectados. La agencia ha advertido que el uso de versiones de PHP 8.1 o anteriores es inadecuado debido a que el soporte de seguridad oficial para esas versiones ya ha terminado. El informe ha sido publicado por el informante Jeong Jae-hong.
+    <link href="https://www.wired.com/review/samsung-galazy-z-flip8/"/>
+    <summary>El Samsung Galaxy Z Flip8 es un teléfono compacto con una forma de gusete que ofrece una experiencia de usuario práctica y refinada. Aunque no ofrece una pantalla de tamaño de tablet ni una forma de pasaporte nueva, es considerado el tipo de teléfono de gusete más práctico. El teléfono tiene una pantalla de 4.1 pulgadas en el exterior y 6.9 pulgadas en el interior, con una variable tasa de refresco de 1 a 120 Hz. El teléfono tiene un procesador Qualcomm Snapdragon 8 Elite Gen 5, 12 GB de RAM y 256 GB de almacenamiento. El teléfono tiene una cámara principal de 50 megapíxeles y una cámara frontal de 10 megapíxeles. El teléfono tiene una batería de 4.300 mAh y una velocidad de carga de 25 watts. El teléfono tiene una conexión 5G, Wi-Fi 7 y Bluetooth 5.4, pero no tiene ultraancho de banda. El teléfono tiene un precio de $1,300.
 
 Por qué importa:
-La agencia de seguridad cibernética de Corea, KISA, ha emitido un alerta sobre vulnerabilidades críticas en PHP que podrían permitir a los hackers tomar el control de sitios web sin autenticación. Esto ha llevado a que las autoridades de seguridad en varios países, incluyendo Japón, Europa y Australia, adopten medidas de precaución y recomienden actualizaciones de seguridad urgentes.</summary>
-    <published>2026-10-22T05:50:43+00:00</published>
+El Samsung Galaxy Z Flip8 es una opción interesante para aquellos que buscan un teléfono compacto con una experiencia de usuario práctica y refinada. Aunque el teléfono no ofrece todas las características que se encontrarían en un teléfono de gusete más grande, es considerado un tipo de teléfono de gusete muy práctico; El teléfono es una buena opción para aquellos que buscan un teléfono compacto que no se sienta como un bloque en el bolsillo.</summary>
+    <published>2026-10-23T11:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/</id>
-    <title>[Programación] Debunking "Faster than Rust": Malicious Benchmarks in Tov</title>
-    <updated>2026-10-22T13:55:53.275906+00:00</updated>
+    <id>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</id>
+    <title>[Tecnología] El nuevo bloqueador de aplicaciones de Brick para evitar el doomscrolling en la cama</title>
+    <updated>2026-10-23T13:18:08.946877+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/"/>
-    <summary>En un artículo reciente, se descubrió que las benchmarking de Tov, un lenguaje de programación que se promociona como "faster than Rust", eran engañosas. Los autores de la publicación analizaron tres benchmarking que mostraban que Tov superaba a Rust en ciertas áreas, pero encontraron que estos resultados eran el resultado de una mala diseño del lenguaje. Los autores creen que los desarrolladores de Tov habían diseñado el lenguaje para obtener resultados falsos y no para mejorar la rendimiento real. Después de analizar el código y realizar benchmarking, los autores concluyeron que Tov no era más rápido que Rust en realidad. Los autores también destacaron que el diseño de Tov era el problema principal, y no la calidad del transpilador. En resumen, los autores concluyeron que Tov no era un lenguaje más rápido que Rust, sino que era un ejemplo de cómo no diseñar un lenguaje de programación. Los autores recomendaron que los desarrolladores de software buscaran otras opciones más efectivas para mejorar la rendimiento de sus aplicaciones. Los autores también destacaron que el concepto de "faster than Rust" era engañoso y no reflejaba la realidad de la situación. Los autores concluyeron que Tov era un ejemplo de cómo no se puede vencer a Rust en términos de rendimiento.
+    <link href="https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch"/>
+    <summary>Brick ha lanzado un nuevo dispositivo llamado Brick Night, diseñado para ayudar a reducir el doomscrolling en la cama. Este dispositivo utiliza Bluetooth para bloquear aplicaciones automáticamente cuando se entra en la habitación, en lugar de requerir que se toque el dispositivo contra el teléfono. El Brick Night tiene un precio de $129 y se puede configurar para bloquear aplicaciones específicas, pero su precio es más de dos veces el de la versión original Brick, que cuesta $59. El dispositivo también soporta múltiples usuarios y permite configurar diferentes opciones de bloqueo. El Brick Night utiliza dos baterías CR2477 y tiene un rango de 25 pies por 25 pies. El dispositivo no incluye NFC y, por lo tanto, no puede ser utilizado para bloquear aplicaciones tanto mediante Bluetooth como mediante el toque del dispositivo contra el teléfono.
 
 Por qué importa:
-La publicación se centró en la crítica de Tov por sus benchmarking engañosas, que mostraban que el lenguaje era más rápido que Rust en ciertas áreas; Los autores de la publicación creen que estos resultados eran el resultado de una mala diseño del lenguaje y no de una mejora real en la rendimiento; La publicación también destacó que el diseño de Tov era el problema principal, y no la calidad del transpilador. En resumen, la publicación se centró en la crítica de Tov por sus benchmarking engañosas y en la importancia de diseñar un lenguaje de programación con rendimiento real.</summary>
-    <published>2026-10-22T06:17:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/kavindotdev/how-the-wayback-machine-actually-works-i-went-down-the-orkut-rabbit-hole-529o</id>
-    <title>[Programación] Cómo funciona la máquina del tiempo de Internet</title>
-    <updated>2026-10-22T13:55:53.275859+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/kavindotdev/how-the-wayback-machine-actually-works-i-went-down-the-orkut-rabbit-hole-529o"/>
-    <summary>La Wayback Machine es una biblioteca digital no lucrativa fundada en 1996 por Brewster Kahle que tiene como objetivo proporcionar acceso gratuito a la información. El sitio web de la Wayback Machine es su archivo web, donde se almacenan páginas web, libros, música, videos, software y sitios web. El usuario puede ingresar una URL y seleccionar una fecha para ver la página web como la tenía en ese momento. El sitio web almacena los archivos originales de la página web, como HTML, CSS, JavaScript y imágenes, lo que permite que el usuario pueda navegar por la página como si estuviera en la original. La Wayback Machine no tiene un horario fijo para capturar páginas web, pero depende de la popularidad del sitio web y de la cantidad de enlaces que lo enlacen. El sitio web utiliza crawlers para descubrir páginas web, y también utiliza listas de semillas y la función "Save Page Now" para capturar páginas web. La Wayback Machine utiliza un índice llamado CDX para encontrar páginas web y almacenarlas en WARC files, que son archivos que contienen la respuesta completa del servidor. El sitio web también utiliza un sistema de replay para reescribir las enlaces y permitir que el usuario vea la página web como la tenía en el momento de la captura. La Wayback Machine no es una herramienta mágica, sino que depende de los crawlers, los WARC files, el CDX index y el sistema de replay para funcionar.
-
-Por qué importa:
-La Wayback Machine es importante porque permite a los usuarios ver páginas web antiguas y recuperar información que podría haberse perdido; También es útil para investigadores y historiadores que buscan información sobre el pasado. La Wayback Machine es una herramienta valiosa para entender cómo ha cambiado el Internet y cómo han evolucionado las páginas web con el tiempo.</summary>
-    <published>2026-10-22T12:53:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al</id>
-    <title>[Programación] Dual-pane SFTP con una cola de transferencia resumable: una guía práctica de AI-SSH-Pro</title>
-    <updated>2026-10-22T13:55:53.275779+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al"/>
-    <summary>AI-SSH-Pro es una herramienta de SFTP que permite transferir archivos de manera eficiente y segura. Con esta herramienta, se puede abrir una ventana de SFTP en el lado izquierdo y una ventana de terminal en el lado derecho, lo que permite trabajar de manera simultánea. La herramienta también incluye una cola de transferencia resumable, lo que significa que si se interrumpe la conexión, la transferencia se puede continuar cuando se se restablezca la conexión. Además, la herramienta incluye una función de seguimiento del terminal, que permite ver el directorio remoto actualizado en tiempo real. La herramienta también incluye una función de búsqueda de archivos, que permite buscar archivos en subdirectorios. AI-SSH-Pro es una herramienta de código abierto y se puede descargar desde GitHub.
-
-Por qué importa:
-La herramienta es útil para aquellos que necesitan transferir archivos de manera segura y eficiente, especialmente en entornos con conexiones de red inestables. La herramienta también es útil para aquellos que necesitan trabajar con archivos en un entorno remoto, ya que permite la conexión simultánea a la terminal y la SFTP; La herramienta es fácil de usar y no requiere conocimientos avanzados de SFTP.</summary>
-    <published>2026-10-22T13:13:03+00:00</published>
+El Brick Night es una solución útil para aquellos que quieren evitar el doomscrolling en la cama, pero que no quieren agregar más pasos a su rutina de sueño. El dispositivo puede ayudar a mejorar la calidad del sueño y reducir el estrés.</summary>
+    <published>2026-10-23T12:50:17+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/dataspryva/your-hiring-chart-may-measure-who-posts-most-often-4hhk</id>
     <title>[Programación] Un anuncio en un sitio web de empleo puede medir quién publica más a menudo</title>
-    <updated>2026-10-22T13:55:53.275650+00:00</updated>
+    <updated>2026-10-23T13:18:08.946837+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -415,5 +359,75 @@ La herramienta es útil para aquellos que necesitan transferir archivos de maner
 Por qué importa:
 La búsqueda por recencia en un sitio web de empleo puede ser útil para encontrar anuncios recientes, pero también puede crear un sesgo en la representación de las ocupaciones. Esto es importante porque puede afectar la capacidad de las personas de encontrar empleos que se ajusten a sus necesidades y habilidades.</summary>
     <published>2026-10-22T13:13:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://zoey-on-github.github.io/blog/macgcc.html</id>
+    <title>[Programación] Examinando el archivo binario de GCC en macOS</title>
+    <updated>2026-10-23T13:18:08.946797+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://zoey-on-github.github.io/blog/macgcc.html"/>
+    <summary>El autor analiza el archivo binario de GCC en macOS y descubre que no es simplemente un alias de Clang. En realidad, es un binary que llama a una función de un archivo dinámico llamado libxcselect.dylib. Esta función llama a xcrun, que a su vez llama a Clang o Clang++. El autor investiga la ubicación del archivo binario de GCC y descubre que es un alias a un archivo binario real que se encuentra en la misma ubicación. El autor también descubre que xcrun es un comando que llama a las herramientas de desarrollo de Apple desde la carpeta de herramientas de desarrollo. El autor concluye que el sistema de desarrollo de Apple es más complejo de lo que se pensaba.
+
+Por qué importa:
+El sistema de desarrollo de Apple es complejo y utiliza una serie de herramientas y comandos para llamar a las herramientas de desarrollo; La ubicación de las herramientas de desarrollo es protegida y no se puede cambiar sin un reinicio del sistema. Esto explica por qué Apple utiliza xcrun para llamar a las herramientas de desarrollo y por qué el archivo binario de GCC es un alias a un archivo binario real.</summary>
+    <published>2026-10-22T22:09:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://yapfast.com/blog/where-did-my-freed-memory-go</id>
+    <title>[Programación] ¿Dónde se fue mi memoria liberada?</title>
+    <updated>2026-10-23T13:18:08.946759+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://yapfast.com/blog/where-did-my-freed-memory-go"/>
+    <summary>Después de liberar 23 MiB de memoria, el heap de Yapfast disminuyó de 78 MiB a 55 MiB. El número del kernel disminuyó en 8 MiB después de configurar MALLOC_ARENA_MAX a 47. Además, el gap entre "held" y "in use" disminuyó de 13 MiB a 1 MiB. El kernel también disminuyó en 25 MiB después de ejecutar malloc_trim. El heap en uso disminuyó de 113 MiB a 75 MiB después de trimar el heap de inicio. El kernel disminuyó en 27 MiB después de una llamada y en 31 MiB después de una segunda llamada. El kernel disminuyó en 86.6 MiB después de cerrar la ventana. El kernel de 86.6 MiB se redujo a 62.9 MiB y 24 MiB en el renderizador de GPU.
+
+Por qué importa:
+La configuración de Linux y gnu están detrás de la configuración de arena cap y trims. En cambio, el sistema operativo Windows compacts el heap y vacía el conjunto de trabajo en lugar de liberar memoria.</summary>
+    <published>2026-10-22T22:27:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ismail.karsli.net/blog/typesql-content-mappers/</id>
+    <title>[Programación] TypeScript 7.1 content mappers made type checks 20× faster</title>
+    <updated>2026-10-23T13:18:08.946713+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://ismail.karsli.net/blog/typesql-content-mappers/"/>
+    <summary>El autor de TypeSQL, una biblioteca que type-checka SQL, ha implementado una función de content mappers en TypeScript 7.1, que reduce significativamente el tiempo de tipo en 95% y el número de instantaciones en 97%. La función es opt-in y no cambia nada si no se opta por ella. El autor ha pasado horas probando otras soluciones y ha encontrado que content mappers son la primera opción que cumple con todos los requisitos. La función utiliza un proceso separado que se ejecuta en segundo plano y actualiza el tipo en el editor y en tsc. El autor ha utilizado content mappers para mejorar el rendimiento de su proyecto y espera que otros librerías lo hagan también. El setup es simple y solo requiere tres líneas de configuración y un archivo vacío.
+
+Por qué importa:
+El autor de TypeSQL, una biblioteca que type-checka SQL, ha estado buscando una forma de mejorar el rendimiento de su proyecto; Después de probar varias soluciones, ha encontrado que content mappers son la mejor opción; La función utiliza un proceso separado que se ejecuta en segundo plano y actualiza el tipo en el editor y en tsc. El autor ha utilizado content mappers para mejorar el rendimiento de su proyecto y espera que otros librerías lo hagan también.</summary>
+    <published>2026-10-23T11:36:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/tanay_dwivedi9098/you-assume-you-know-all-ai-terms-but-you-dont-fh9</id>
+    <title>[Programación] ¿Cómo entender los términos de la inteligencia artificial?</title>
+    <updated>2026-10-23T13:18:08.946552+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/tanay_dwivedi9098/you-assume-you-know-all-ai-terms-but-you-dont-fh9"/>
+    <summary>El autor reconoce que muchos desarrolladores se sienten incómodos con los términos de la inteligencia artificial y que es difícil mantenerse al día con los cambios constantes. Sin embargo, el autor se ofrece para explicar cada término de manera sencilla. Se presentan tres términos clave: la temperatura, el RAG y el MCP. La temperatura determina la randomness y la predecibilidad del output generado por los modelos de LLM. El RAG es una "mente privada" que analiza datos privados sin necesidad de reentrenar el modelo. El MCP es un protocolo estándar para integrar herramientas y datos externos, facilitando la consistencia y reutilización de las integraciones. Estos términos son fundamentales para entender cómo funcionan los modelos de inteligencia artificial y cómo pueden ser utilizados de manera efectiva.
+
+Por qué importa:
+La comprensión de los términos de la inteligencia artificial es crucial para desarrollar aplicaciones y soluciones efectivas; Al entender términos como la temperatura, el RAG y el MCP, los desarrolladores pueden crear modelos de inteligencia artificial más precisos y eficientes. Esto es especialmente importante en aplicaciones que requieren la integración de múltiples herramientas y datos externos, como aplicaciones de productividad que requieren la interacción con herramientas como Google Drive o Slack; Al entender estos términos, los desarrolladores pueden crear soluciones más robustas y escalables.</summary>
+    <published>2026-10-23T12:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/famitha_ma_b9c13ab1d324e/expo-revenuecat-subscriptions-in-5-steps-and-how-to-test-them-14ml</id>
+    <title>[Programación] Subscripciones en 5 pasos (y cómo probarlas) con Expo y RevenueCat</title>
+    <updated>2026-10-23T13:18:08.946464+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/famitha_ma_b9c13ab1d324e/expo-revenuecat-subscriptions-in-5-steps-and-how-to-test-them-14ml"/>
+    <summary>En Expo, las compras reales no funcionan, por lo que se utiliza una API de previsualización. Se debe configurar la SDK una vez al inicio con una clave. Los usuarios deben cancelar la compra para evitar un error. Se debe verificar si el usuario está ya subscrito antes de mostrar la barra de pago. Los precios varían según el país. Se debe verificar en el servidor para obtener información valiosa.
+
+Por qué importa:
+Es importante entender cómo funcionan las subcripciones en Expo y RevenueCat para evitar problemas. La configuración de la SDK es crucial para una experiencia de usuario fluida.</summary>
+    <published>2026-10-23T12:57:12+00:00</published>
   </entry>
 </feed>
