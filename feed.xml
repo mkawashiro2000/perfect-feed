@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-24T13:20:38.576515+00:00</updated>
+  <updated>2026-10-26T13:19:14.175072+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,149 +11,107 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html</id>
-    <title>[Economía] Crude oil futures rose Friday con una tasa del 1.4% en el mercado de Brent, que alcanzó su punto más alto desde mayo.</title>
-    <updated>2026-10-24T13:20:38.577981+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html</id>
+    <title>[Economía] Apollo compra nearly 10% de la participación en el gerente de activos alternativos Abu Dhabi-backed Mubadala Capital</title>
+    <updated>2026-10-26T13:19:14.176222+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"/>
-    <summary>Crude oil futures rose Friday con una tasa del 1.4% en el mercado de Brent, que alcanzó su punto más alto desde mayo. Los precios de la WTI aumentaron. El presidente de los Estados Unidos, Donald Trump, acusó a Irán de mentir sobre los ataques a los barcos que transitaban el Estrecho de Hormuz. Irán afirmó que sus fuerzas militares están preparadas para la guerra. Los precios de la Brent alcanzaron su punto más alto desde mayo. El presidente de Irán afirmó que su país está preparado para la guerra. Los ataques a los barcos en el Estrecho de Hormuz han sido atribuidos a Irán. El presidente de Irán dijo que su país está preparado para la guerra. El precio de la Brent alcanzó su punto más alto desde mayo. El precio de la WTI aumentó.
+    <link href="https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html"/>
+    <summary>Apollo Global Management está finalizando un acuerdo para comprar casi un 10% de la participación en Mubadala Capital, la filial de activos alternativos de la fundación de riqueza soberana de Abu Dhabi, Mubadala Investment Company. El acuerdo se espera que se anuncie más tarde esta mañana; Los términos financieros no se han revelado aún; Este acuerdo es significativo en múltiples frentes, ya que avanza las ambiciones de Apollo en Abu Dhabi, a menudo llamada la "capital de capital". La empresa ha invertido los últimos 15 años en construir relaciones estratégicas clave allí, con tanto el brazo de inversión del país como su liderazgo central; Apollo ya tiene una alianza multibilionaria con Mubadala Investment Company, establecida en 2022 y ampliada dos años después. En 2023, las instituciones formaron una joint venture de $2.5 mil millones diseñada específicamente para co-invertir oportunidades de crédito privado global durante un horizonte de cinco años. Para Mubadala Capital, específicamente —la única gran escala gerente de activos en la región, que asesoró y administró más de $755 mil millones en activos — el acuerdo avanza su estrategia de crecimiento bajo la dirección del CEO Hani Barhoush, y su relevancia en el escenario global de la inversión. También marca un punto de inflexión para la empresa de su negocio de alternativas core, que ha crecido a más de $60 mil millones. John Zito, co-presidente del brazo de gestión de activos de Apollo, y Barhoush han trabajado juntos estrechamente durante varios años y, según fuentes, su relación cercana y el éxito de los acuerdos anteriores llevaron a hablar de profundizar las relaciones. También se cree que la creciente importancia de la escala en el negocio de gestión de activos es un factor; "La capital como una muralla es una gran cosa", dijo una persona familiar con el acuerdo; Importante es que este acuerdo continúa el notable cambio en la relación entre las empresas de inversión estadounidenses y el Medio Oriente. Mientras que la región y Abu Dhabi han sido una fuente deseada de capital durante mucho tiempo, este acuerdo invierte directamente en el país y su visión de inversión; Las oficinas internacionales de Mubadala Capital incluyen Londres, Nueva York, Río de Janeiro y San Francisco. El acuerdo de Apollo con Mubadala Capital es similar a los acuerdos que la empresa ha hecho con otras plataformas de gestión de activos, como Diameter Capital, Thoreau, Motive Partners y otros; Los portavoces de ambas empresas se negaron a comentar.
 
 Por qué importa:
-El precio de la Brent alcanzó su punto más alto desde mayo debido a los ataques a los barcos en el Estrecho de Hormuz. El presidente de Irán afirmó que su país está preparado para la guerra.</summary>
-    <published>2026-10-23T12:46:11+00:00</published>
+Este acuerdo es significativo porque avanza las ambiciones de Apollo en Abu Dhabi, a menudo llamada la "capital de capital". La empresa ha invertido los últimos 15 años en construir relaciones estratégicas clave allí, con tanto el brazo de inversión del país como su liderazgo central.</summary>
+    <published>2026-10-26T11:47:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html</id>
-    <title>[Economía] una sola línea AI's 'Black October': Critical PHP flaws set off global security scramble</title>
-    <updated>2026-10-24T13:20:38.577941+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html</id>
+    <title>[Economía] Trump anuncia que pronto decidirá si "hacer un trato" con Irán o "terminar con ello"</title>
+    <updated>2026-10-26T13:19:14.176187+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html"/>
-    <summary>Cybersecurity teams alrededor del mundo están trabajando para parchear el lenguaje de programación PHP, que ha sido afectado por vulnerabilidades críticas, lo que ha llevado a una "Black October" en términos de seguridad. Según estimaciones, el 70% de todos los sitios web utilizan PHP. En los últimos dos días, se han registrado varias docenas de ataques cibernéticos, lo que podría haber sido el peor en un año entero. La empresa Figma advierte que todos los sectores, desde el gobierno hasta la educación y las grandes empresas, están siendo afectados. Los expertos creen que estas vulnerabilidades son solo el comienzo de un problema mayor. Jason Clinton, director de seguridad de Anthropic, advierte que la situación se va a volverse cada vez más grave antes de mejorar. Chris Krebs, ex director de la Agencia de Seguridad Cibernética de los Estados Unidos, anima a las empresas pequeñas a escanear constantemente por vulnerabilidades y a tomar medidas para protegerse. Figma también recomienda a los usuarios que utilicen autenticación de dos factores, gestores de contraseñas y aplicaciones de protección de identidad.
+    <link href="https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html"/>
+    <summary>El presidente de los Estados Unidos, Donald Trump, ha dicho que está decidiendo entre "hacer un trato" con Irán o "terminar con ello" en una entrevista con Fox News. Los mediatore s de Qatar visitaron a Irán el domingo, mientras que los ataques de los militantes houiti del lado de Irán continuaron en Arabia Saudita; Los últimos ataques estadounidenses a Irán fueron el 1 de septiembre y Trump había dicho que no se repetirían hasta después de las elecciones del 3 de noviembre. Irán está preparando una respuesta militar en caso de ataques estadounidenses; Un objetivo potencial para los Estados Unidos es la montaña Pickaxe, un sitio subterráneo vinculado al programa nuclear de Irán. Trump dijo que los Estados Unidos pueden leer la insignia de un uniforme desde el espacio y que conocen lo que sucede en la montaña. El presidente también repitió la afirmación de que los Estados Unidos controlan el Estrecho de Hormuz, un importante paso marítimo para el comercio global; Sin embargo, las energías siguen siendo altas debido a la interrupción y una presión de refinación global. Los Estados Unidos y Irán han afirmado ambos que controlan el paso, donde las exportaciones siguen siendo severamente limitadas, afectando los precios de los consumidores; Un barco de contenedores con bandera de Singapur se hundió en el estrecho el mes pasado después de ser golpeado por un proyectil desconocido y arder. El jefe de la marina de guardia revolucionaria de Irán, Ali Ozmaei, dijo anteriormente que Irán está "contando los momentos" hasta que puede hundir los barcos de guerra estadounidenses; Los funcionarios senior de Arabia Saudita, Turquía y Pakistán se reunirán con el líder de Irán en la ciudad de Teherán el lunes. Los tres países firmaron el Acuerdo de Defensa Makkah en agosto, comprometiéndose a una cooperación de defensa más estrecha y estableciendo que un ataque armado contra uno de los miembros sería considerado un ataque contra todos. Es la primera reunión del grupo desde que los misiles houiti atacaron sitios en Arabia Saudita, incluyendo el aeropuerto de Riyadh y un edificio administrativo de la gigante petrolera Saudi Aramco. Arabia Saudita pospuso su conferencia de inversión flagship hasta 2027 debido a preocupaciones de seguridad después de una serie de ataques mortales.
 
 Por qué importa:
-La "Black October" es un momento crítico en la seguridad cibernética que está siendo descrito como un ejemplo de cómo las vulnerabilidades en el lenguaje de programación PHP pueden tener consecuencias graves. La situación es importante porque afecta a una gran parte de la infraestructura cibernética global, lo que puede tener un impacto significativo en la seguridad de los datos y la privacidad de los usuarios.</summary>
-    <published>2026-10-23T16:55:37+00:00</published>
+La tensión en el Medio Oriente sigue siendo un tema de preocupación para los inversores, mientras que el conflicto entre Estados Unidos e Irán sigue sin resolver.</summary>
+    <published>2026-10-26T11:49:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html</id>
-    <title>[Economía] Trump anuncia el eliminación de algunos aranceles con Canadá pero 'reemplazándolos' con otros productos</title>
-    <updated>2026-10-24T13:20:38.577899+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html</id>
+    <title>[Economía] Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer</title>
+    <updated>2026-10-26T13:19:14.176152+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html"/>
-    <summary>El presidente Donald Trump anunció el viernes que eliminará aranceles a algunos productos canadienses, pero los reemplazará con otros productos estadounidenses. La decisión fue revelada después de que la senadora Susan Collins, de Maine, tomó crédito por presionar al gobierno para eximir algunos productos canadienses de los aranceles. Sin embargo, la senadora no mencionó que mientras los aranceles se eliminarían para algunos productos canadienses, otros se agregarían a la lista de bienes sujetos a aranceles altos. El cambio tendrá efecto el 30 de octubre, cuatro días antes de la elección presidencial del 3 de noviembre. La senadora Collins había solicitado exenciones para productos importantes para la agricultura de Maine y seguirá solicitando más. La decisión ha sido criticada por su oponente, el demócrata Troy Jackson, quien afirma que Collins está en la causa de los conflictos comerciales con Canadá. El presidente Trump ha impuesto aranceles altos a una amplia gama de bienes canadienses durante su segundo mandato, lo que ha causado dificultades a las empresas de Maine que importan más productos de Canadá que de cualquier otro país. La decisión del presidente Trump se hace en respuesta a la discriminación que considera que Canadá ha aplicado a la comercia estadounidense. El gobierno estadounidense afirmó que el objetivo es proteger a los agricultores, fabricantes y trabajadores estadounidenses.
+    <link href="https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html"/>
+    <summary>Investores están buscando una forma de hedear el riesgo en el mercado de inteligencia artificial (AI) después de que CoreWeave, una empresa clave en el sector, ha visto su valor en el mercado disminuir. Hyperbolic, una startup de tecnología financiera liderada por un ex-quant de Citadel Securities, podría tener la respuesta. La plataforma de Hyperbolic permite a los inversores comprar y vender unidades de poder de procesamiento de GPU, lo que les permite controlar el hardware subyacente. El CEO de Hyperbolic, Hong Chan Kim, afirma que la tecnología es la primera piedra del "futuro físicamente" establecido de futuros de GPU, lo que permitiría a los inversores tener control total sobre un cluster con características conocidas. Sin embargo, la empresa también destaca que la mayoría de los inversores no tienen acceso a la tecnología necesaria para hacerlo. Hyperbolic ha recaudado $20 millones desde su lanzamiento en 2022 y espera alcanzar un ritmo anualizado de $150 millones. La empresa tiene aproximadamente 250.000 usuarios y $200 millones de valor anual de GPU conectados a su plataforma. La empresa está en la segunda ronda de financiación y espera que la CME Group ofrezca un producto de futuros que esté vinculado a la precio de GPU. El CEO de DRW, Don Wilson, afirma que hay una gran demanda y capital en el mercado de AI, lo que genera un gran riesgo. La empresa Hyperbolic espera que la tecnología sea la clave para abordar este problema.
 
 Por qué importa:
-La decisión del presidente Trump se hace en un momento en que la elección presidencial del 3 de noviembre se acerca y la senadora Collins está luchando por su reelección. La decisión también se hace en respuesta a la discriminación que considera que Canadá ha aplicado a la comercia estadounidense.</summary>
-    <published>2026-10-23T21:26:59+00:00</published>
+La crisis de la inteligencia artificial (AI) ha generado una gran incertidumbre en el mercado, lo que ha llevado a los inversores a buscar formas de hedear el riesgo. La empresa Hyperbolic, liderada por un ex-quant de Citadel Securities, ha desarrollado una plataforma que permite a los inversores comprar y vender unidades de poder de procesamiento de GPU, lo que les permite controlar el hardware subyacente; La empresa espera que su tecnología sea la clave para abordar el problema de la "base risk" en el mercado de futuros de GPU.</summary>
+    <published>2026-10-26T12:08:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html</id>
-    <title>[Economía] Riots in France Fuel Investor Concerns</title>
-    <updated>2026-10-24T13:20:38.577856+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html</id>
+    <title>[Economía] Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'</title>
+    <updated>2026-10-26T13:19:14.176118+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html"/>
-    <summary>La situación de crisis en Francia está generando preocupación entre los inversores, ya que los costos de préstamo han alcanzado su nivel más alto desde 2002. Los fundadores de fondos están evaluando si la interrupción prolongada puede debilitar el crecimiento, la confianza y hacer más difícil que el gobierno cumpla con las ahorras presupuestarias planificadas. La agencia de calificación Moody's ha mantenido su perspectiva negativa sobre Francia, advirtiendo que la fragmentación política puede afectar la eficacia de las instituciones legislativas. El gobierno francés busca reducir el déficit presupuestario a 5% del PIB en 2027, pero la oposición está resistiendo las propuestas. Los expertos consideran que la situación puede empeorar si la inestabilidad política continúa, lo que podría afectar la confianza de los inversores y el crecimiento económico. La situación también puede afectar a las empresas, especialmente en sectores como retail, turismo y transporte, que están directamente expuestos a la interrupción.
+    <link href="https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html"/>
+    <summary>Elon Musk dijo que más de 200 neoclouds enfrentan "muerte guppy-level" debido a la falta de acceso a fondos. Las acciones de Nebius, CoreWeave y Iren cayeron más del 4% en premercado. Musk dijo que la deuda de las empresas es "guppy-level" y que algunas no sobrevivirán. Las acciones de CoreWeave y Nebius han recuperado parte de las pérdidas, mientras que Iren sigue perdiendo. Musk dijo que la demanda de neoclouds es "off the charts" pero que la falta de capital es un problema. Marc Boroditsky, CEO de Nebius, dijo que su empresa no tiene problemas de deuda. Daniel Roberts, co-CEO de Iren, dijo que la demanda de sus servicios sigue siendo alta. Las acciones de Nvidia también cayeron, pero el CEO Jensen Huang dijo que la demanda es alta y que se resolverá el problema de capital.
 
 Por qué importa:
-La situación de crisis en Francia es importante porque puede tener un impacto significativo en la economía y la confianza de los inversores; La interrupción prolongada puede debilitar el crecimiento y la confianza, lo que podría hacer más difícil que el gobierno cumpla con sus objetivos presupuestarios. La situación también puede afectar a las empresas, especialmente en sectores que están directamente expuestos a la interrupción, como retail, turismo y transporte.</summary>
-    <published>2026-10-24T06:23:02+00:00</published>
+La noticia es preocupante para los inversores en neoclouds; La falta de acceso a fondos y la deuda de las empresas pueden llevar a una "muerte guppy-level". La demanda de neoclouds es alta, pero la falta de capital es un problema; Las acciones de CoreWeave y Nebius han recuperado parte de las pérdidas, pero Iren sigue perdiendo; La situación es delicada y requiere atención.</summary>
+    <published>2026-10-26T12:10:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html</id>
-    <title>[Economía] Nvidia enfrenta su primer gran test en el mercado de neoclouds</title>
-    <updated>2026-10-24T13:20:38.577815+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html</id>
+    <title>[Economía] Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede</title>
+    <updated>2026-10-26T13:19:14.176085+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"/>
-    <summary>Nvidia, una de las principales empresas de tecnología, enfrenta su primer gran test en el mercado de neoclouds, ya que algunas de sus neoclouds, como CoreWeave, han visto su spread en credit default swaps superar el 11% este mes. Esto se debe a que las obligaciones de alquiler están creciendo en el mercado de AI. Nvidia tiene una participación de $20 billion en futuras contratos de alquiler de centros de datos que serán asignados a terceros. La empresa tiene una ganancia de $70 billion en flujo de efectivo en el primer semestre del año y una garantía de $500 billion en acuerdos de computación fuera del balance general. Nvidia espera generar $700 billion en ingresos al año siguiente y tiene una exposición de $153 billion en valores presentes netos de obligaciones no contabilizadas en fiscal 2026. La agencia Moody's está monitorizando el crecimiento de las garantías en el mercado de AI y considera que los chips pueden mantener su valor en exceso del valor residual contractual en el futuro.
+    <link href="https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"/>
+    <summary>Luiz Inácio Lula da Silva ha ganado un cuarto mandato como presidente de Brasil, superando a Senator Flávio Bolsonaro y sorprendiendo a los mercados. Lula obtuvo el 51.8% de los votos válidos, mientras que Bolsonaro obtuvo el 48.2%. La victoria de Lula es histórica ya que es la primera vez que un candidato ha ganado la final después de perder en la primera ronda desde que Brasil volvió a tener elecciones directas en 1989. Las acciones brasileñas cayeron después de la victoria, reflejando expectativas de políticas más favorables para los mercados y jitters alrededor de la trayectoria fiscal de Brasil. Bolsonaro se negó a reconocer la derrota y dijo que buscaría anular el resultado. El presidente de los Estados Unidos, Donald Trump, había expresado su deseo de ver un presidente brasileño más alineado con la política exterior de EE. UU.
 
 Por qué importa:
-La creciente demanda de servicios de computación en la nube y la creación de neoclouds han llevado a una mayor exposición de las empresas a los riesgos de pérdida de valor de las GPU. Nvidia ha respaldado otras neoclouds que han enfrentado desafíos, como Firmus y Nscale; La empresa está buscando a insurers para asumir el riesgo de pérdida de valor de las GPU.</summary>
-    <published>2026-10-24T11:00:01+00:00</published>
+La victoria de Lula bloquea un giro hacia la derecha en América Latina que apoyaba el presidente de EE; UU. La elección también tiene implicaciones para la estabilidad fiscal de Brasil, que enfrenta un gran déficit público y una deuda que alcanza el 82.9% del PIB; Lula tendrá que convencer a los inversores de que Brasil puede estabilizar su trayectoria fiscal.</summary>
+    <published>2026-10-26T12:14:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html</id>
-    <title>[Economía] ¿Por qué aviones populares se están desmantelando años antes de lo esperado</title>
-    <updated>2026-10-24T13:20:38.577772+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html</id>
+    <title>[Economía] Meta anuncia oferta de acciones por $95 mil millones para financiar expansión de inteligencia artificial</title>
+    <updated>2026-10-26T13:19:14.176047+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html"/>
-    <summary>En el último año, más de 20 aviones nuevos de generación se han desmantelado, incluyendo modelos de Airbus y Boeing. Esto se debe a una escasez de partes, especialmente de motores, que ha aumentado los costos para las aerolíneas. Los propietarios de aviones están optando por vender las partes valiosas en lugar de esperar a que se reemplacen los motores. La tendencia se ha intensificado debido a la falta de motores nuevos y la alta demanda de partes. Los propietarios de aviones están ganando dinero vendiendo las partes, pero también están perdiendo el valor de los aviones en sí. La industria está experimentando un cambio en la forma en que se manejan los aviones, con un mayor énfasis en la recuperación de partes y la venta de aviones desmantelados. La tendencia se espera que continúe en el futuro, afectando la industria aérea.
+    <link href="https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"/>
+    <summary>Meta anunció que planea recaudar un total de $95 mil millones para apoyar sus inversiones en infraestructura de inteligencia artificial y superinteligencia; El valor de las acciones de la empresa aumentó un 1.6% en la premercado después de la anuncio. El tech giant planea inicialmente recaudar $35 mil millones en ofertas de acciones subvencionadas, antes de recaudar un total de $95 mil millones con un programa de ofertas de acciones al mercado. Esto se produce en un momento en que los hyperscalers están invirtiendo sumas récord en la construcción de la infraestructura de inteligencia artificial; Meta planea financiar sus inversiones a través de una combinación de flujo de efectivo operativo, deuda de alta calidad, acuerdos de colaboración y capital de acciones. La empresa está entre los principales hyperscalers que están utilizando la deuda para financiar la infraestructura necesaria para el boom de la inteligencia artificial. En el último trimestre, Meta publicó resultados de tercer cuarto que mostraron una ganancia del 26% en comparación con el mismo período del año anterior, pero los inversores se centraron más en la falta de flujo de efectivo neto de la empresa y su aumento en la estimación de gastos de capital. La empresa espera que sus gastos de capital anuales se encuentren entre $135 mil millones y $145 mil millones, lo que aumenta la parte inferior del rango desde $130 mil millones. Esto causó que las acciones de la empresa cayeran el día anterior; Meta está construyendo cuatro "superclústeres" con más de un gigawatt de capacidad cada uno y espera nearly duplicar la capacidad de infraestructura anualmente en 2026. El anuncio de la oferta de acciones "refleja los niveles deslumbrantes de inversión necesarios para mantenerse en la carrera de inteligencia artificial", dijo Ben Wood, senior partner de CCS Insight. La decisión de recaudar más dinero "viene en un momento en que numerosas empresas, como Google, SpaceX y pronto Anthropic, están saliendo a los mercados para recaudar fondos". Alphabet, la empresa madre de Google, anunció que planea recaudar $85 mil millones en junio; SpaceX ha cerrado un financiamiento de $40 mil millones para comprar unidades de procesamiento gráfico; Anthropic está preparándose para una IPO.
 
 Por qué importa:
-La escasez de partes para aviones es un problema que ha estado aumentando en los últimos años, especialmente debido a la falta de motores nuevos; La demanda de partes ha aumentado debido a la necesidad de mantener los aviones en funcionamiento mientras se esperan los motores nuevos. La industria aérea está experimentando un cambio en la forma en que se manejan los aviones, con un mayor énfasis en la recuperación de partes y la venta de aviones desmantelados; La tendencia se espera que continúe en el futuro, afectando la industria aérea.</summary>
-    <published>2026-10-24T12:59:59+00:00</published>
+La expansión de la inteligencia artificial es un tema cada vez más importante en la industria tecnológica, y Meta está jugando un papel clave en este movimiento. La empresa planea utilizar los fondos recaudados para apoyar sus inversiones en infraestructura de inteligencia artificial y superinteligencia, lo que refleja la creciente competencia en este campo.</summary>
+    <published>2026-10-26T12:42:41+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/</id>
-    <title>[Data Science] ¿Por qué el número de parámetros no es la complejidad del modelo: Una introducción a la dimensión efectiva</title>
-    <updated>2026-10-24T13:20:38.577730+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"/>
-    <summary>El artículo de Jacob Cybulski explora la relación entre el número de parámetros de un modelo de aprendizaje automático y su complejidad. La mayoría de los modelos se describen por el número de parámetros entrenables, pero este no siempre refleja la verdadera complejidad del modelo. El autor introduce la dimensión efectiva como una medida de información complejidad a escala dependiente que se utiliza para evaluar la expresividad, la facilidad de entrenamiento y la capacidad de generalización de un modelo. La Fisher information es una herramienta clave en la estimación de la dimensión efectiva, ya que permite evaluar la complejidad y la generalización de un modelo. El artículo también explora cómo la dimensión efectiva se puede utilizar para derivar límites sobre el error de generalización y analizar la facilidad de entrenamiento de un modelo. La dimensión efectiva se relaciona con la generalización y puede proporcionar un límite de complejidad dependiente en la performance general. El autor también destaca la importancia de considerar la dimensión efectiva en lugar del número de parámetros para evaluar la complejidad de un modelo.
-
-Por qué importa:
-La dimensión efectiva es una medida importante en la evaluación de la complejidad de un modelo de aprendizaje automático, ya que permite evaluar la expresividad, la facilidad de entrenamiento y la capacidad de generalización de un modelo. La comprensión de la dimensión efectiva es fundamental para desarrollar modelos más eficientes y efectivos, y para mejorar la performance general de los modelos.</summary>
-    <published>2026-10-23T12:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience</id>
-    <title>[Data Science] ¿Qué empresas realmente quieren cuando dicen que buscan "experiencia en AI"?</title>
-    <updated>2026-10-24T13:20:38.577690+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience"/>
-    <summary>Las empresas están cada vez más incluyendo "experiencia en AI" en los anuncios de trabajo, pero este término puede tener diferentes significados dependiendo del empleador, la industria y el problema que se está tratando de resolver. En realidad, "experiencia en AI" es un término de marketing y no tiene un significado técnico claro. Los empleadores a menudo no están de acuerdo en lo que buscan y utilizan este término para signalizar modernidad y filtrar a los candidatos que han estado atentos a los últimos desarrollos. Para los candidatos, es importante leer entre las líneas del anuncio de trabajo y entender qué tipo de experiencia se está buscando. La mayoría de los casos de "experiencia en AI" se clasifican en cuatro categorías: experiencia en estadística, conocimiento de herramientas de aprendizaje automático, experiencia en modelado y conocimiento especializado en AI. Los candidatos con una base estadística ya tienen una sólida base en estas áreas. Lo importante es leer el anuncio de trabajo con escepticismo y enfocarse en lo que el evidencia realmente respalda.
-
-Por qué importa:
-La importancia de entender qué significa "experiencia en AI" para los candidatos radica en que puede ser la diferencia entre ser considerado o descartado en el proceso de selección; Los empleadores buscan a personas que puedan aplicar sus conocimientos estadísticos en un contexto de aprendizaje automático, lo que puede ser una gran oportunidad para aquellos que están buscando un cambio de carrera o un desafío nuevo. Al entender qué tipo de experiencia se está buscando, los candidatos pueden presentar su perfil de manera más efectiva y aumentar sus posibilidades de ser considerados para el puesto.</summary>
-    <published>2026-10-23T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/</id>
-    <title>[Data Science] No te dejes doblegar por datos desordenados</title>
-    <updated>2026-10-24T13:20:38.577652+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/"/>
-    <summary>La regresión lineal es una técnica popular debido a su simplicidad y eficacia, pero no siempre es la mejor opción. Algunas relaciones son curvas, estiradas o cambian comportamiento en diferentes regiones. Los modelos robustos, como el de Huber, RANSAC y ASOR, pueden ayudar a mitigar el efecto de las observaciones contaminadas. Estos modelos se comparan con la regresión polinómica y la regresión de B-splines para ver qué sucede cuando se introduce flexibilidad local. El modelo de curva de potencia de viento describe la relación entre la velocidad del viento y la potencia generada en una turbina de viento. La estimación robusta puede mejorar la precisión de la predicción, pero no puede decidir cuál es el modelo correcto. Los modelos robustos pueden ser útiles para modelar relaciones que involucran observaciones anormales o contaminación. El uso de una base de spline puede proporcionar una mejor representación de la relación de interés. La investigación en este campo sigue avanzando con publicaciones recientes en revistas científicas. Los modelos robustos pueden ayudar a mejorar la precisión de las predicciones y a reducir la influencia de los errores de residuo.
-
-Por qué importa:
-La regresión lineal es una técnica común en análisis de datos, pero no siempre es la mejor opción debido a la presencia de observaciones contaminadas o anormales; Los modelos robustos pueden ayudar a mitigar este problema y proporcionar una mejor representación de la relación de interés. La investigación en este campo sigue siendo activa, con publicaciones recientes en revistas científicas que exploran nuevas técnicas y aplicaciones de los modelos robustos.</summary>
-    <published>2026-10-23T15:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/owners-not-renters-raffi-krikorian-on-open-source-ai/</id>
-    <title>[Data Science] Raffi Krikorian sobre la revolución de la fuente abierta en inteligencia artificial</title>
-    <updated>2026-10-24T13:20:38.577610+00:00</updated>
+    <id>https://www.oreilly.com/radar/?p=20061</id>
+    <title>[Data Science] Soloistas, Copy-Pasters y Turistas</title>
+    <updated>2026-10-26T13:19:14.176008+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
-    <link href="https://www.oreilly.com/radar/owners-not-renters-raffi-krikorian-on-open-source-ai/"/>
-    <summary>Raffi Krikorian, CTO de Mozilla, habló sobre la importancia de la fuente abierta en inteligencia artificial en el evento AI Codecon. Mozilla busca crear un punto de partida para construir un ecosistema de inteligencia artificial abierta y estándar. La empresa está trabajando en la creación de un protocolo de memoria abierto y estándar para almacenar datos privados. Raffi Krikorian cree que cada persona debe tener un agente de inteligencia artificial que la proteja y que priorice sus intereses. La empresa ha publicado un informe de 2026 que muestra que los modelos abiertos están cerca del límite, pero no se utilizan tanto como los modelos cerrados. La clave para el éxito de la inteligencia artificial abierta es crear un "harnés" que permita a los desarrolladores crear herramientas y aplicaciones seguras y fiables. La concentración del mercado es un problema que afecta tanto a los modelos propietarios como a los modelos abiertos. Raffi argumenta que la diversidad es una base de la resiliencia. Los hospitales deberían descargar un modelo local como un plan de respaldo. La empresa Mozilla busca crear un ecosistema de inteligencia artificial abierta y estándar.
+    <link href="https://www.oreilly.com/radar/?p=20061"/>
+    <summary>En 2026, un ingeniero abre 40 solicitudes de pull requests en un día. En 2025, GitHub hace disponible el Copilot para la revisión de código. Un estudio randomizado de METR muestra que los desarrolladores experimentados tardan 19% más en realizar tareas cuando utilizan AI. En 2014, Facebook retira la frase "move fast and break things" y la reemplaza con "move fast with stable infra". En 2001, se publica el Manifesto Agile, que prioriza "respondiendo a cambios sobre seguir un plan". En 1970, Winston Royce advierte que la versión secuencial del Waterfall es "risky y invita al fracaso". En 2025, OpenAI retrocede una actualización del modelo GPT-4o después de que los usuarios le dijeran que cualquier idea era buena.
 
 Por qué importa:
-La fuente abierta en inteligencia artificial es crucial para garantizar la seguridad y la privacidad de los datos. La concentración del mercado y la regulación pueden afectar el acceso a los modelos de inteligencia artificial; La diversidad es esencial para la resiliencia de la inteligencia artificial abierta.</summary>
-    <published>2026-10-23T15:55:38+00:00</published>
+La noticia destaca la importancia de la originalidad y la seguridad en el desarrollo de software. Los copiadores de código y los modelos de inteligencia artificial pueden tener consecuencias negativas en la calidad y la seguridad de los programas.</summary>
+    <published>2026-10-26T13:19:14.176039+00:00</published>
   </entry>
   <entry>
     <id>https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/</id>
     <title>[Data Science] Utilizando modelos fundamentales en la detección de tuberculosis en centros de salud</title>
-    <updated>2026-10-24T13:20:38.577569+00:00</updated>
+    <updated>2026-10-26T13:19:14.175973+00:00</updated>
     <author>
       <name>The latest research from Google</name>
     </author>
@@ -167,7 +125,7 @@ La detección de tuberculosis es crucial para prevenir la muerte y la enfermedad
   <entry>
     <id>https://towardsdatascience.com/python-315-has-a-new-profiler/</id>
     <title>[Data Science] Python 3.15 Has a New Profiler</title>
-    <updated>2026-10-24T13:20:38.577526+00:00</updated>
+    <updated>2026-10-26T13:19:14.175938+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,79 +137,51 @@ El nuevo módulo de perfilado Tachyon permite a los desarrolladores identificar 
     <published>2026-10-24T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/</id>
-    <title>[Fórmula 1] Norris “got plenty of telling-offs” de McLaren sobre la colisión con Piastri en Singapur</title>
-    <updated>2026-10-24T13:20:38.577475+00:00</updated>
+    <id>https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/</id>
+    <title>[Data Science] Un agente en producción puede continuar funcionando después de que un tool muera</title>
+    <updated>2026-10-26T13:19:14.175902+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/"/>
-    <summary>Lando Norris afirmó que McLaren le dio una "plenty of telling-offs" después de la colisión con Piastri en la carrera de sprint en Singapur; El piloto británico dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás. Norris dijo que aunque hubo desacuerdos, el equipo aún les permitió correr; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás. El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El equipo de McLaren le dio a Norris una "plenty of telling-offs" después de la colisión con Piastri en Singapur. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás. El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada; Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás. Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito. Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito. Norris y Piastri se enfrentaron en la carrera de sprint en Austin 12 meses atrás; El piloto australiano Piastri dijo que el equipo, liderado por Zak Brown y Andrea Stella, manejo la situación de manera adecuada. Norris dijo que el equipo le hizo saber que no podía repetir la colisión que ocurrió en la carrera de sprint en Austin 12 meses atrás; Piastri expresó su satisfacción con cómo el equipo manejo la situación; La colisión en Singapur fue el segundo incidente entre los dos pilotos en una carrera de sprint en el mismo circuito.
+    <link href="https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/"/>
+    <summary>Un agente en producción puede seguir respondiendo después de que un tool muere debido a una credencial caducada. Esto es diferente de los fallos audibles, como un huge bill o una falta de valor de negocio claro. La mayoría de los sistemas de software tienen una respuesta establecida para errores de credencial, pero los agentes no tienen tal respuesta. Un modelo más inteligente puede escribir una respuesta más convincente, pero eso no hace que el problema sea más fácil de detectar. La respuesta correcta a un error de credencial no es un modelo más inteligente, sino una capa de wrapper que se encarga de manejar los errores. La capa de wrapper debe decidir si el agente debe continuar respondiendo o no, y debe tener una forma de detectar cuando un tool ha muerto. El modelo sigue respondiendo después de que sus herramientas fallan, y la herramienta de registro de fallos registra el nombre del tool y su estado. La refusión del modelo se registra para que alguien pueda buscarla. El modelo no tiene una forma aceptable de decir que no puede hacer el trabajo. La mayoría de las discusiones sobre agentes en producción se centran en los fallos audibles, pero este error de credencial es un problema opuesto a ellos.
 
 Por qué importa:
-La colisión entre Norris y Piastri en la carrera de sprint en Singapur generó preocupación entre los aficionados y los expertos. La situación requiere una atención especial para evitar que se repitan incidentes similares en el futuro.</summary>
-    <published>2026-10-23T09:58:53+00:00</published>
+Este problema es importante porque puede afectar la confiabilidad y la seguridad de los sistemas de software; Los agentes en producción son comunes en muchas aplicaciones y pueden tener un impacto significativo en la productividad y la eficiencia. La capacidad de un agente para seguir respondiendo después de que un tool muere es crucial para mantener la integridad del sistema y evitar problemas adicionales.</summary>
+    <published>2026-10-25T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/23/leclerc-stays-on-top-in-second-practice-at-cota-narrowly-ahead-of-antonelli/</id>
-    <title>[Fórmula 1] Leclerc stays on top en segundo práctica en COTA, a la punta del tablero de Max Antonelli</title>
-    <updated>2026-10-24T13:20:38.577433+00:00</updated>
+    <id>https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/</id>
+    <title>[Data Science] ¿Qué muestra un test de campo sobre las comparaciones de características de Claude Code y Cursor?</title>
+    <updated>2026-10-26T13:19:14.175868+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/23/leclerc-stays-on-top-in-second-practice-at-cota-narrowly-ahead-of-antonelli/"/>
-    <summary>Charles Leclerc volvió a ser el más rápido en la segunda práctica del Gran Premio de Estados Unidos, pero una vez más solo tenía una margen estrecho con su rival más cercano. Max Verstappen, que había sido segundo en la primera sesión, cayó a la tercera posición, pero siguió a solo dos décimas de segundo de Leclerc. El triunvirato lideró la pista, con una ventaja de casi medio segundo sobre el resto de los pilotos, incluidos sus compañeros de equipo. Lewis Hamilton pareció menos cómodo en su Ferrari y logró solo el cuarto lugar. George Russell se encontró aún más atrás que su compañero de equipo después de una caída de control en su vuelo más rápido. Isack Hadjar solo logró el noveno lugar, casi una décima de segundo más lento que Verstappen, y se mostró profundamente insatisfecho con el equilibrio de su coche. Los pilotos de McLaren se separaron por poco, pero fueron superados por Liam Lawson, quien produjo un buen lap para Racing Bulls. Lando Norris pareció tener tiempo en mano después de su vuelo con neumáticos suaves, pero no suficiente para reducir su diferencia de más de un segundo con Leclerc. Oliver Bearman logró poner su Haas en el top 10 en la carrera de su equipo, mientras que los pilotos estadounidenses Cadillac lograron superar a Williams, que terminó en la parte inferior de la pista.
+    <link href="https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/"/>
+    <summary>En un test de campo, se compararon las características de Claude Code y Cursor, dos herramientas de agentes de inteligencia artificial. Se encontró que la comparación de costos por tarea no es precisa, ya que el costo depende de la tarea, el código y cómo se utiliza el agente. La mayoría de las comparaciones contradicen entre sí, ya que dependen de la tarea y el tipo de trabajo. El costo de Cursor es más bajo para tareas interactivas y de front-end, mientras que el costo de Claude Code es más bajo para tareas autónomas y de refactores de múltiples archivos. La empresa Intuz, que construye y despliega sistemas y agentes de AI de producción, utiliza tanto Claude Code como Cursor. Pratik K Rupareliya, Co-Founder y Head of Strategy de Intuz, es un experto en el desarrollo de sistemas y agentes de AI de producción. La empresa Intuz se encuentra en California, EE. UU., y Ahmedabad.
 
 Por qué importa:
-La importancia de esta práctica se debe a que es una oportunidad para los pilotos ajustar sus coches y prepararse para el Gran Premio. La ventaja de Leclerc y Verstappen sobre el resto de los pilotos es significativa, lo que sugiere que los equipos deben trabajar duro para cerrar la brecha.</summary>
-    <published>2026-10-23T22:03:55+00:00</published>
+Es importante comprender las características de Claude Code y Cursor para tomar decisiones informadas sobre la elección de una herramienta. La comparación de características es crucial para determinar cuál es la mejor opción para cada tipo de trabajo.</summary>
+    <published>2026-10-26T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29492</id>
-    <title>[Fórmula 1] Russell ve espacio para mejorar como Mercedes continúan evaluando las actualizaciones del GP de EE. UU.</title>
-    <updated>2026-10-24T13:20:38.577390+00:00</updated>
+    <id>https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/</id>
+    <title>[Data Science] Robust Serialization with JSON y Tipos Personalizados</title>
+    <updated>2026-10-26T13:19:14.175834+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.f1technical.net/news/29492"/>
-    <summary>George Russell cree que Mercedes avanzó entre las dos sesiones de práctica en el GP de EE; UU., Pero insiste que el equipo sigue trabajando para desafiar en la parte delantera del campo; Russell terminó quinto en la segunda sesión de práctica, mientras que Kimi Antonelli se colocó en segundo lugar, solo un cuarto de segundo detrás de Charles Leclerc. El equipo de Brackley continúa evaluando su paquete de actualizaciones en Austin, donde ambos conductores trabajan para encontrar el equilibrio correcto en un circuito donde la adhesión fue difícil para el campo durante gran parte del tiempo. Russell experimentó problemas de frenado en la primera sesión de práctica, donde terminó con un tiempo de 1:36.378 y se colocó en el cuarto lugar. El equipo mejoró el coche antes de la segunda sesión de práctica, lo que permitió a Russell reducir su tiempo a 1:35.793; Sin embargo, Russell sintió que no había extraído el máximo rendimiento de sus simulaciones de calificación. Después de perder un lapo por límites de la pista, se encontró con un momento significativo en el primer sector de su siguiente intento, lo que le costó más tiempo. Russell describió el viernes como un día útil para Mercedes, ya que el equipo continúa construyendo su comprensión del coche actualizado; Russell dijo que el viernes fue "un día útil para nosotros en el circuito, como continuamos a construir nuestra comprensión de nuestro paquete de actualizaciones". El equipo de Mercedes también se enfrentó a dificultades en la primera sesión de práctica, incluyendo un incidente en el que Kimi Antonelli se chocó con Isack Hadjar; Ambos conductores lucharon con la falta de adhesión que afectó a gran parte del campo, con varios conductores que se salieron de la pista durante la primera sesión. Antonelli disfrutó de una sesión más competitiva en la segunda sesión, aunque tuvo que regresar a la garita para una ajuste después de que su asiento comenzó a moverse dentro del coche. A pesar del interrupción, Antonelli terminó cerca de Leclerc en el primer lugar de las clasificaciones, proporcionando evidencia animadora de la potencial de Mercedes sobre una sola vuelta; Russell cree que las pequeñas brechas entre los equipos líderes harán que la ejecución sea particularmente importante durante el resto del fin de semana. "Como lo esperábamos al entrar en el fin de semana, las brechas entre los cuatro equipos más fuertes parecen pequeñas", explicó Russell; "No solo será sobre hacer mejoras con el coche de noche, sino también ejecutar bien en la clasificación y la carrera".
+    <link href="https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/"/>
+    <summary>En este artículo, se aprende a construir una cadena de serialización robusta de JSON en Python que maneja tipos de datos personalizados, recuperación suave de errores y migraciones de esquemas. Se explora una solución práctica para serializar tipos de datos personalizados de manera que puedan ser deserializados de manera segura. Se define una clase de codificador personalizado que hereda de json.JSONEncoder y se sobrecarga el método default() para manejar cada tipo de dato específico. Se utiliza un truco adicional para asegurar que los objetos pierdan su tipo original cuando se convierten en JSON primitives. Se muestra cómo utilizar la clase de codificador personalizado para serializar objetos y cómo utilizar una función personalizada para deserializar objetos. Se discute la importancia de manejar esquemas de metadatos de modelos que cambian constantemente. Se proporciona un ejemplo de cómo utilizar la solución para serializar y deserializar objetos JSON.
 
 Por qué importa:
-La competencia en el GP de EE; UU. será intensa, y Mercedes necesita mejorar para desafiar a los equipos líderes.</summary>
-    <published>2026-10-24T10:04:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29493</id>
-    <title>[Fórmula 1] Norris admite que McLaren está un paso por detrás de sus rivales después de difícil entrenamiento en GP de EE. UU.</title>
-    <updated>2026-10-24T13:20:38.577345+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29493"/>
-    <summary>Lando Norris, del equipo McLaren, cree que su equipo tiene un ritmo subyacente atractivo pero está luchando para extraerlo de manera consistente después de terminar séptimo en el entrenamiento de la segunda práctica del Gran Premio de EE. UU; El equipo McLaren enfrenta una noche de trabajo para mejorar su coche antes de la clasificación; Norris admitió que el equipo actualmente parece estar un paso por detrás de sus rivales líderes. A pesar de la desapuntada tarde, Norris aseguró que el coche tiene la velocidad subyacente para ser competitivo, pero el desafío es extraer esa rendimiento de manera consistente. El equipo McLaren fluctuó entre dos sesiones de entrenamiento; Norris mostró un ritmo atractivo en la primera sesión, pero encontró más difícil extraer el mismo rendimiento en la segunda. Norris luchó para encontrar la ventana de operación correcta para su coche en la segunda sesión y experimentó un momento durante uno de sus vueltas rápidas; Su frustración fue evidente después de la sesión; Norris enfatizó que el equipo se centraría en refinir el manejo del coche en lugar de hacer cambios significativos de noche. El desafío para McLaren es convertir sus flashes de velocidad en un rendimiento más consistente; A pesar de que Norris cree que McLaren tiene más rendimiento disponible, admitió que el equipo actualmente carece de la velocidad absoluta de sus rivales más cercanos. Norris distinguió la situación actual de un problema de conducción fundamental, sugiriendo que el problema es principalmente sobre extraer la velocidad máxima del coche en lugar de hacerlo más fácil de manejar. Norris es optimista de que los cambios incrementales lo acercarán a la ordenación competitiva; El equipo McLaren no planea un cambio de configuración mayor antes de la clasificación; En su lugar, se centrará en ajustes más pequeños para mejorar la consistencia y ayudar a ambos conductores a aprovechar al máximo el rendimiento del coche. Piastri, por otro lado, enfrentó un conjunto diferente de desafíos durante los entrenamientos; El australiano experimentó subestiria en su vuelta rápida en la primera sesión, lo que le impidió llevar velocidad a través de las curvas. Aunque su coche pareció más estable en la segunda sesión, no pudo producir un tiempo de vuelta que lo pusiera en competencia con los líderes; Piastri buscará hacer ganancias adicionales durante la última práctica, particularmente en la extracción de velocidad del coche en una sola vuelta.
-
-Por qué importa:
-La lucha de McLaren por mejorar su rendimiento en el Gran Premio de EE. UU; es crucial para su posición en la clasificación.</summary>
-    <published>2026-10-24T10:04:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29494</id>
-    <title>[Fórmula 1] Piastri identifica problemas de aderencia en McLaren</title>
-    <updated>2026-10-24T13:20:38.577301+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29494"/>
-    <summary>McLaren ha tenido una semana de pruebas complicada en el Circuito de las Américas, con Oscar Piastri identificando la falta de aderencia como el principal problema de su equipo. El piloto australiano terminó séptimo en la primera sesión de pruebas y octavo en la segunda, aunque mejoró su tiempo en la segunda sesión. Piastri señaló que la falta de aderencia limitó su capacidad para llevar velocidad a través de los curvas. El equipo de McLaren experimentó con diferentes configuraciones, pero no logró sacar el máximo potencial de su coche. A pesar de la dificultad, Piastri cree que el equipo puede hacer progreso durante la noche y estar listo para la clasificación de sábado. La falta de aderencia es un problema clave para McLaren, especialmente en las curvas más lentas del circuito. El equipo analizará sus datos para determinar qué cambios de configuración pueden mejorar el rendimiento del coche sin comprometer sus fortalezas en las secciones más rápidas. El equipo de McLaren, liderado por el jefe técnico Rob Marshall, se muestra optimista sobre su desarrollo, aunque reconoce que todavía tiene que trabajar para mejorar su rendimiento en la clasificación. Marshall destaca que el circuito de las Américas tiene una combinación de curvas que se ajustan a las características de su coche, pero también presenta secciones más lentas que son un desafío para el equipo.
-
-Por qué importa:
-La falta de aderencia es un problema clave para McLaren en el Circuito de las Américas, donde el equipo necesita mejorar su rendimiento en las curvas más lentas. El equipo de McLaren se muestra optimista sobre su desarrollo, aunque reconoce que todavía tiene que trabajar para mejorar su rendimiento en la clasificación.</summary>
-    <published>2026-10-24T10:04:21+00:00</published>
+La serialización de datos es un paso crucial en la ingeniería de aprendizaje de máquinas, ya que permite mover datos entre diferentes procesos y APIs; Sin embargo, la serialización de datos personalizados puede ser complicada debido a las limitaciones del formato JSON. Este artículo proporciona una solución práctica para serializar y deserializar datos personalizados de manera robusta y segura, utilizando una clase de codificador personalizado y una función de deserialización personalizada.</summary>
+    <published>2026-10-26T11:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/10/24/formula-1s-ruined-season-diminishes-antonellis-inevitable-championship-triumph/</id>
     <title>[Fórmula 1] La temporada de Fórmula 1 está "ruinada" y Antonelli no puede evitar el título</title>
-    <updated>2026-10-24T13:20:38.577256+00:00</updated>
+    <updated>2026-10-26T13:19:14.175799+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,65 +193,79 @@ La temporada de Fórmula 1 está llena de problemas, y es difícil imaginar que 
     <published>2026-10-24T12:07:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</id>
-    <title>[Tecnología] El nuevo bloqueador de aplicaciones de Brick para evitar el doomscrolling en la cama</title>
-    <updated>2026-10-24T13:20:38.577210+00:00</updated>
+    <id>https://www.f1technical.net/news/29503</id>
+    <title>[Fórmula 1] Hamilton abre sobre las limitaciones de la unidad de potencia de Ferrari en Austin</title>
+    <updated>2026-10-26T13:19:14.175762+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch"/>
-    <summary>Brick ha lanzado un nuevo dispositivo llamado Brick Night, diseñado para ayudar a reducir el doomscrolling en la cama. Este dispositivo utiliza Bluetooth para bloquear aplicaciones automáticamente cuando se entra en la habitación, en lugar de requerir que se toque el dispositivo contra el teléfono. El Brick Night tiene un precio de $129 y se puede configurar para bloquear aplicaciones específicas, pero su precio es más de dos veces el de la versión original Brick, que cuesta $59. El dispositivo también soporta múltiples usuarios y permite configurar diferentes opciones de bloqueo. El Brick Night utiliza dos baterías CR2477 y tiene un rango de 25 pies por 25 pies. El dispositivo no incluye NFC y, por lo tanto, no puede ser utilizado para bloquear aplicaciones tanto mediante Bluetooth como mediante el toque del dispositivo contra el teléfono.
+    <link href="https://www.f1technical.net/news/29503"/>
+    <summary>Lewis Hamilton cree que los rivales de Ferrari han cerrado la brecha en el rendimiento de la caja de la carrocería después de que la Scuderia perdió su ventaja en la clasificación de la Gran Premio de Estados Unidos. A pesar de haber liderado las tres sesiones de práctica, Ferrari no pudo traducir su ritmo en la pista a una posición de pole; Kimi Antonelli logró un póle de sorpresa para Mercedes, mientras que Max Verstappen y Isack Hadjar se colocaron segundo y tercero para Red Bull. Leclerc terminó cuarto, con Hamilton justo detrás en quinto; Hamilton aseguró que su lap de clasificación había sido limpio y que el coche había sentido competitivo durante todo el proceso. El británico también agradeció a los trabajadores de la fábrica y el personal de la pista por sus esfuerzos continuos, aunque reconoció que el equipo necesitaría entender dónde había perdido rendimiento antes del gran premio. Hamilton cree que Ferrari aún tiene la oportunidad de desafiar por un podio si puede ejecutar su estrategia de carrera de manera efectiva; El británico también señaló que la SF-26 se siente competitiva en las curvas, pero que los rivales están ganando ventaja en la recta, especialmente en la parte hacia la curva 1 y la entrada a la curva 11. Hamilton no identificó un problema específico en su lap de clasificación, sino que señaló que los rivales habían mejorado su rendimiento en las curvas. El campeón mundial cree que la caja de la carrocería de Ferrari sigue siendo competitiva, pero que los rivales han hecho progresos significativos en las últimas carreras, reduciendo la ventaja que Ferrari había disfrutado a través de las curvas. Hamilton también reconoció que Red Bull y Mercedes han hecho progresos que han cambiado la imagen competitiva; Leclerc, por su parte, terminó cuarto y demostró que la pole no es esencial para ganar en el circuito. El verdadero desafío será si Ferrari puede reproducir su ritmo de práctica durante toda la carrera y aprovechar sus oportunidades estratégicas; Hamilton, por su parte, tendrá que encontrar una forma de pasar a los coches que lo preceden si quiere desafiar por el podio. Comenzar quinto lo deja dentro del alcance del grupo líder, aunque Mercedes y Red Bull han demostrado que tienen la velocidad para competir con Ferrari.
 
 Por qué importa:
-El Brick Night es una solución útil para aquellos que quieren evitar el doomscrolling en la cama, pero que no quieren agregar más pasos a su rutina de sueño. El dispositivo puede ayudar a mejorar la calidad del sueño y reducir el estrés.</summary>
-    <published>2026-10-23T12:50:17+00:00</published>
+La pregunta es por qué importa que Ferrari no haya podido mantener su ventaja en la clasificación de la Gran Premio de Estados Unidos. La respuesta es que Ferrari sigue siendo una potencia en el mundo del automovilismo y que su desaparición de la primera línea de la clasificación no debe ser tomada como un indicio de su declive; La pregunta es si Ferrari puede aprovechar su ventaja en las curvas para ganar la carrera.</summary>
+    <published>2026-10-25T11:37:00+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/</id>
-    <title>[Tecnología] Startups don’t need to go viral to win customers</title>
-    <updated>2026-10-24T13:20:38.577167+00:00</updated>
+    <id>https://www.f1technical.net/news/29507</id>
+    <title>[Fórmula 1] Estrategia de Pirelli para el Gran Premio de Estados Unidos</title>
+    <updated>2026-10-26T13:19:14.175726+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"/>
-    <summary>Elia Wallen, fundador de Engine, y Grant Lee, fundador de Gamma, compartieron consejos sobre cómo atraer y retener clientes. Lee destacó que la influencer marketing no es un "set it and forget it" y que los fundadores deben invertir tiempo en entender el valor de su producto. Wallen, por otro lado, enfatizó la importancia de la interacción personal y la estrategia de ventas tradicionales. Huang, general partner de Google Ventures, destacó la importancia de analizar el uso y la retención de los clientes para crear evangelistas apasionados por el producto. Los expertos coinciden en que la efectividad de la marketing social depende del tipo de negocio y que otras estrategias pueden ser igualmente efectivas. El uso de influencer marketing no es una garantía de éxito y los fundadores deben ser estratégicos en su enfoque. La interacción personal y la estrategia de ventas tradicionales pueden ser igualmente efectivas que la marketing social. Los expertos enfatizan la importancia de analizar el uso y la retención de los clientes para crear un éxito duradero. La efectividad de la marketing social depende del tipo de negocio y de la estrategia de marketing. Los fundadores deben ser estratégicos en su enfoque para atraer y retener clientes.
+    <link href="https://www.f1technical.net/news/29507"/>
+    <summary>Pirelli ha anunciado que considera una estrategia de un solo pit stop como la más efectiva para el Gran Premio de Estados Unidos, aunque destaca la posibilidad de alternativas estratégicas dependiendo de la degradación de los neumáticos, la posición en la pista y las condiciones prevalecientes en Austin. Kimi Antonelli se clasificará en la primera posición en el Circuito de las Américas después de establecer un récord de vuelo de 1:34.035 en la clasificación. El C4 Soft demostró una ventaja clara sobre el C3 Medium en la clasificación, pero los dos compuestos mostraron un rendimiento muy similar en las carreras largas. Dario Marrafuschi, director de deportes de Pirelli, afirma que las simulaciones indican que una estrategia de un pit stop sigue siendo la más efectiva en términos de tiempo general. La combinación de Soft-Medium podría ser una opción viable para los equipos, ya que permite beneficiarse de la mayor tracción del Soft en los primeros laps y mantener un ritmo competitivo en el segundo stint. La Hard podría ser una opción para el segundo stint, especialmente si se neutraliza la bandera de seguridad temprano, lo que podría permitir a los conductores completar la carrera sin parar. La temperatura del piso podría influir en el comportamiento de los neumáticos, ya que se espera que las temperaturas durante el Gran Premio sean ligeramente más bajas que las de la clasificación. La degradación de los neumáticos podría ser un factor importante en la elección de la estrategia, ya que la combinación de Soft-Medium podría ofrecer una ventaja en la segunda parte de la carrera si la degradación es más alta de lo esperado.
 
 Por qué importa:
-La industria de las startups enfrenta desafíos significativos para atraer y retener clientes; La influencer marketing se ha convertido en una estrategia común, pero no es una garantía de éxito; Los expertos coinciden en que la efectividad de la marketing social depende del tipo de negocio y que otras estrategias pueden ser igualmente efectivas. La interacción personal y la estrategia de ventas tradicionales pueden ser igualmente efectivas que la marketing social; La industria de las startups necesita estrategias innovadoras y efectivas para mantenerse competitiva.</summary>
-    <published>2026-10-23T23:07:45+00:00</published>
+La estrategia de Pirelli para el Gran Premio de Estados Unidos es importante porque puede influir en el resultado final de la carrera. La elección de la combinación de neumáticos y la estrategia de pit stop pueden ser cruciales para los equipos en su lucha por el título.</summary>
+    <published>2026-10-25T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/gallery/best-pet-cameras/</id>
-    <title>[Tecnología] Cámaras de mascotas de alta calidad para 2026</title>
-    <updated>2026-10-24T13:20:38.577123+00:00</updated>
+    <id>https://www.racefans.net/2026/10/26/antonelli-was-concerned-by-threat-from-verstappens-early-pit-stop-in-austin/</id>
+    <title>[Fórmula 1] Antonelli fue "preocupado" por la pit stop temprana de Verstappen en Austin</title>
+    <updated>2026-10-26T13:19:14.175691+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/gallery/best-pet-cameras/"/>
-    <summary>El año 2026 ha visto el lanzamiento de varias cámaras de mascotas de alta calidad, como el Furbo Mini 360°, el Petcube Cam 360 y el Enabot Rola Mini. El Furbo Mini 360° es una opción popular con un precio de $49 y una cámara 1080p HD de color y visión nocturna. El Petcube Cam 360 es una opción compacta y asequible con un precio de $47 y una cámara 360° rotativa y una resolución de 1080p HD. El Enabot Rola Mini es una opción más avanzada con una cámara de 2K y visión nocturna en blanco y negro, y una batería que dura hasta 25 días. Las cámaras de mascotas como estas ofrecen una variedad de características y opciones para los propietarios de mascotas. Algunas de las características más destacadas incluyen la función de dispensación de comida, el seguimiento automático y la detección de movimientos. Estas cámaras también pueden ser controladas a través de aplicaciones y permiten a los propietarios de mascotas interactuar con sus mascotas a distancia. En general, estas cámaras de mascotas son una excelente opción para aquellos que buscan una forma de monitorear a sus mascotas de manera efectiva y segura. Las opciones de estas cámaras también incluyen la posibilidad de almacenamiento en la nube y la capacidad de grabar video en alta definición. En resumen, el año 2026 ha visto el lanzamiento de varias cámaras de mascotas de alta calidad que ofrecen una variedad de características y opciones para los propietarios de mascotas.
+    <link href="https://www.racefans.net/2026/10/26/antonelli-was-concerned-by-threat-from-verstappens-early-pit-stop-in-austin/"/>
+    <summary>Andrea Kimi Antonelli admitió estar preocupado al ver que su rival Max Verstappen hizo una pit stop temprana en el Gran Premio de Estados Unidos. Sin embargo, Antonelli admitió que inicialmente estaba un poco preocupado cuando decidió quedarse en pista después de la pit stop de Verstappen. Sin embargo, la escudería de Antonelli logró extender su carrera y la velocidad volvió a aumentar con la mediana, lo que les permitió extender su carrera sin perder mucho tiempo. Después de hacer el primer stint con la mediana, la escudería decidió ir con una pit stop, y la dura se sintió muy robusta, lo que le dio confianza a Antonelli para terminar la carrera. La escudería de Antonelli no tuvo muchas opciones, ya que no tenían nuevos neumáticos suaves, por lo que tuvieron que elegir entre la mediana o la dura. La mediana no fue la mejor opción, pero la dura se sintió más resistente y sorprendió a Antonelli, que finalmente logró su primera victoria con Mercedes desde la actualización del W17 en Malaysia. Antonelli dijo que la escudería aún tiene espacio para mejorar el coche, pero que en las curvas de alta y media velocidad el coche es muy fuerte y tiene un buen equilibrio. La escudería aún está luchando con el coche en curvas de baja velocidad, pero en general, Antonelli se siente contento con el progreso del coche.
 
 Por qué importa:
-Las cámaras de mascotas son una herramienta valiosa para los propietarios de mascotas que buscan monitorear a sus mascotas de manera efectiva y segura; Estas cámaras pueden proporcionar una sensación de tranquilidad y seguridad para los propietarios de mascotas que están fuera de casa; Además, las cámaras de mascotas pueden ser una excelente opción para aquellos que buscan una forma de monitorear a sus mascotas de manera remota. En general, las cámaras de mascotas son una excelente inversión para aquellos que buscan una forma de proteger a sus mascotas y asegurarse de su bienestar.</summary>
-    <published>2026-10-24T11:03:00+00:00</published>
+La victoria de Antonelli es importante porque marca el primer triunfo de Mercedes desde la actualización del W17 en Malaysia. La victoria también muestra que la escudería está haciendo progreso con el nuevo coche.</summary>
+    <published>2026-10-26T07:15:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</id>
-    <title>[Tecnología] Laika ha pasado 20 años construyendo hacia Wildwood</title>
-    <updated>2026-10-24T13:20:38.577082+00:00</updated>
+    <id>https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/</id>
+    <title>[Fórmula 1] Problemas con la radio de Verstappen en el Gran Premio de Estados Unidos</title>
+    <updated>2026-10-26T13:19:14.175653+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika"/>
-    <summary>Laika ha estado trabajando en Wildwood durante 16 años, desde que el CEO Travis Knight originalmente optionó los derechos del libro en 2011. El film cuenta la historia de una joven llamada Prue que debe entrar en el "impassable wilderness" que rodea Portland para encontrar su hermano menor. La película requirió nearly 50 animadores y más de 200 puppets para su realización. El director, Travis Knight, afirma que el film es una historia sobre el amor, la pérdida y el duelo, y que es una de las producciones más ambiciosas de la estudiante. La película cuenta con técnicas innovadoras, como la creación de silicones más ligeros y duraderos, y un sistema de seguimiento sofisticado para los puppets. El film también cuenta con secuencias épicas, como una batalla con decenas de soldados y una persecución a través de Portland. La película ha sido una colaboración entre veteranos de Laika y nuevos animadores, incluyendo a Caleb Deschanel, quien trabajó como cinematógrafo en la película.
+    <link href="https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/"/>
+    <summary>Max Verstappen reveló que sufrió problemas con su radio durante el Gran Premio de Estados Unidos, lo que lo llevó a caer de segundo a tercer lugar en la carrera. El piloto admitió que no sabía cómo cambiar el ángulo del ala delantera en su próximo parada de pitos, lo que lo hizo frustrar. A pesar de no ser el equipo más fuerte o débil en el circuito de Austin, Verstappen creyó que Red Bull tenía potencial para mejorar su rendimiento. Sin embargo, la incoherencia en la potencia de su unidad de potencia costó tiempo en la pista. Verstappen también expresó su descontento con su rendimiento en la carrera, lo que lo llevó a considerar la posibilidad de comunicarse en señas. El piloto calificó su rendimiento como "un poco average" y creyó que el equipo podría haber sido segundo si hubieran elegido diferentes neumáticos. En general, Verstappen enfatizó la necesidad de mejorar la coherencia en la potencia de su unidad de potencia y analizar mejor su rendimiento.
 
 Por qué importa:
-La película es importante porque muestra la evolución de la estudiante en términos de técnicas y innovaciones; La película es una historia sobre el amor, la pérdida y el duelo, y la forma en que Laika ha desarrollado nuevas técnicas para crear personajes de marionetas más humanos. La película también es significativa porque es la primera producción de Laika que ha utilizado técnicas innovadoras como la creación de silicones más ligeros y duraderos.</summary>
-    <published>2026-10-24T12:00:00+00:00</published>
+La frustración de Verstappen con su radio es un problema que ha afectado a varios pilotos en la temporada; En el pasado, Verstappen ha hablado sobre problemas con su radio en otros Grandes Premios, lo que ha llevado a preguntas sobre la eficiencia de la comunicación entre los pilotos y el equipo. La situación de Verstappen en Austin es particularmente frustrante, ya que el equipo no pudo aprovechar su potencial en el circuito; La incoherencia en la potencia de su unidad de potencia costó tiempo en la pista, lo que llevó a Verstappen a caer de segundo a tercer lugar en la carrera.</summary>
+    <published>2026-10-26T08:20:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/</id>
+    <title>[Fórmula 1] Antonelli se convertirá automáticamente en campeón si F1 cancela otra carrera</title>
+    <updated>2026-10-26T13:19:14.175617+00:00</updated>
+    <author>
+      <name>RaceFans</name>
+    </author>
+    <link href="https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/"/>
+    <summary>Andrea Kimi Antonelli está virtualmente garantizado de ganar el campeonato mundial en el Gran Premio de México este fin de semana. La guerra entre Irán y Estados Unidos ya ha forzado el cancelamiento del Gran Premio de Arabia Saudita y la reubicación del Gran Premio de Bahrain en Malasia. Esto redujo el número de rondas de la temporada de 24 a 23; Otra reducción es posible, y si eso sucede, ninguno de los rivales de Antonelli podrá impedirle ganar el título. Con 125 puntos actuales, George Russell necesita superar a su compañero de equipo por 124 puntos para ganar el título; Lewis Hamilton necesita superar a Antonelli por 125 puntos. Ambas situaciones son extremadamente improbables, ya que implicarían al líder del título no anotar puntos en las próximas cinco rondas. Sin embargo, si se cancela otra carrera sin reemplazo, reduciendo los puntos totales disponibles a 100, sería imposible que Antonelli fuera derrotado. La serie Moto GP está programada para realizar su redondeo resuelto de Qatar el fin de semana después del Gran Premio de México. Sin embargo, muchos pilotos están solicitando garantías de los promotores del evento sobre su seguridad, seguridad y compensación en caso de cualquier cambio en el último minuto. Solo unos pocos títulos mundiales de F1 no se decidieron por el resultado de una gran carrera; Max Verstappen ganó el título mundial en una carrera de sprint, coincidientemente celebrada en Qatar. En 1987, Nelson Piquet ganó el título cuando su compañero de equipo Nigel Mansell se retiró del Gran Premio de Japón después de lesionarse la espalda en una caída durante la práctica.
+
+Por qué importa:
+La guerra entre Irán y Estados Unidos ha tenido un impacto significativo en la temporada de F1, cancelando eventos y reubicando otros. Esto ha reducido la cantidad de rondas de la temporada y ha creado una situación en la que Antonelli podría convertirse en campeón automáticamente si se cancela otra carrera.</summary>
+    <published>2026-10-26T12:37:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview</id>
     <title>[Tecnología] Lee Chang Dong ponders the ethics of the camera</title>
-    <updated>2026-10-24T13:20:38.577040+00:00</updated>
+    <updated>2026-10-26T13:19:14.175581+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -335,7 +279,7 @@ La película "Possible Love" es importante porque explora temas relevantes sobre
   <entry>
     <id>https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/</id>
     <title>[Tecnología] Mejorar el flujo de aire en tu PC para una mejor enfriamiento</title>
-    <updated>2026-10-24T13:20:38.576989+00:00</updated>
+    <updated>2026-10-26T13:19:14.175546+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
@@ -347,79 +291,65 @@ Mejorar el flujo de aire en el PC es importante porque puede afectar negativamen
     <published>2026-10-24T12:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</id>
-    <title>[Programación] Code and Cake - Docker es extraño</title>
-    <updated>2026-10-24T13:20:38.576939+00:00</updated>
+    <id>https://www.wired.com/review/lg-b6/</id>
+    <title>[Tecnología] LG B6 OLED TV Review (2026)</title>
+    <updated>2026-10-26T13:19:14.175509+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"/>
-    <summary>El autor de la noticia decidió crear su propio runtime de contenedores para divertirse y, aunque aún está temprano, ha aprendido que Docker es extraño. Los contenedores no son procesos con restricciones especiales, sino que son procesos con restricciones especiales; El autor ha aprendido que Docker es extraño porque utiliza varias características del núcleo de Linux, como nombrespaces, cgroups y networking. El autor ha descubierto que las imágenes de Docker son solo carpetas que se llaman chroot para hacer que el proceso del contenedor sea el nuevo directorio raíz. El autor también ha aprendido que el runtime de contenedores de Docker, runc, tiene algunas limitaciones debido a las características del lenguaje Go. El autor ha descubierto que el runtime de contenedores de Docker, runc, utiliza una combinación de características del núcleo de Linux y del lenguaje Go para funcionar. El autor ha aprendido que la seguridad de los contenedores es un desafío importante; El autor ha descubierto que algunos de los recursos del núcleo de Linux que se utilizan en los runtime de contenedores requieren ejecutarse como root. El autor ha aprendido que la implementación de la red en los runtime de contenedores es un desafío. El autor ha descubierto que el runtime de contenedores de Docker, runc, utiliza una combinación de características del núcleo de Linux y del lenguaje Go para funcionar. El autor ha aprendido que escribir un propio runtime de contenedores es una forma excelente de aprender sobre Docker; El autor ha aprendido que la seguridad de los contenedores es un desafío importante. El autor ha descubierto que algunos de los recursos del núcleo de Linux que se utilizan en los runtime de contenedores requieren ejecutarse como root; El autor ha aprendido que la implementación de la red en los runtime de contenedores es un desafío.
+    <link href="https://www.wired.com/review/lg-b6/"/>
+    <summary>El LG B6 es una TV OLED de entrada en el mercado, con características como un panel OLED sin backlight, un diseño delgado y una variedad de funciones, incluyendo un modo de juego para mejorar la latencia y una aplicación de música. Aunque presenta algunas limitaciones, como una falta de brillo y contraste, y un sistema de interface que no es el más atractivo, es una opción interesante para aquellos que buscan una TV OLED a un precio razonable. El LG B6 es una buena opción para aquellos que buscan una TV con una buena calidad de imagen y una variedad de funciones, aunque puede no ser la mejor opción para aquellos que buscan un brillo y un contraste más altos. La TV también tiene algunas limitaciones en términos de conectividad, como la falta de Wi-Fi 6 y la limitación a 120 Hz. Sin embargo, es una buena opción para aquellos que buscan una TV OLED a un precio razonable y con una buena calidad de imagen. El LG B6 es una TV que vale la pena considerar, especialmente para aquellos que buscan una TV con una buena calidad de imagen y una variedad de funciones. La TV también tiene una buena relación calidad-precio, lo que la hace una opción interesante para aquellos que buscan una TV OLED a un precio razonable. En general, el LG B6 es una TV que ofrece una buena calidad de imagen y una variedad de funciones, aunque puede no ser la mejor opción para aquellos que buscan un brillo y un contraste más altos.
 
 Por qué importa:
-El autor de la noticia decidió crear su propio runtime de contenedores para divertirse y, aunque aún está temprano, ha aprendido que Docker es extraño. El autor ha descubierto que la seguridad de los contenedores es un desafío importante; El autor ha aprendido que algunos de los recursos del núcleo de Linux que se utilizan en los runtime de contenedores requieren ejecutarse como root.</summary>
-    <published>2026-10-23T13:43:13+00:00</published>
+El LG B6 es una TV OLED de entrada en el mercado que ofrece una buena calidad de imagen y una variedad de funciones; La TV es una buena opción para aquellos que buscan una TV con una buena calidad de imagen y una variedad de funciones, aunque puede no ser la mejor opción para aquellos que buscan un brillo y un contraste más altos. La TV también tiene algunas limitaciones en términos de conectividad, como la falta de Wi-Fi 6 y la limitación a 120 Hz; Sin embargo, es una buena opción para aquellos que buscan una TV OLED a un precio razonable y con una buena calidad de imagen.</summary>
+    <published>2026-10-26T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://rtfeldman.com/fp-vs-c</id>
-    <title>[Programación] ¿Cuán cerca puede llegar la programación funcional pura de C?</title>
-    <updated>2026-10-24T13:20:38.576893+00:00</updated>
+    <id>https://gizmodo.com/we-regret-to-inform-you-that-maxxing-is-dictionary-coms-2026-word-of-the-year-2000830118</id>
+    <title>[Tecnología] Maxxing es la palabra del año de Dictionary.com para 2026</title>
+    <updated>2026-10-26T13:19:14.175473+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gizmodo</name>
     </author>
-    <link href="https://rtfeldman.com/fp-vs-c"/>
-    <summary>El paquete lean-zip, escrito en Lean 4, superó a un paquete equivalente de Rust que ha sido descargado más de un billón de veces. El paquete lean-zip alcanzó un aumento del 15% en velocidad y una reducción del 8,8% en tamaño al configurarse en su modo más rápido. El paquete roc-deflate, escrito en el lenguaje funcional Roc, alcanzó un aumento del 8,9% en velocidad en la mediana en comparación con el paquete libdeflate. Roc's compile-time evaluation permite la creación de tablas de búsqueda en tiempo de compilación siempre y cuando nada dependa de entradas de runtime. El autor siente que se han agotado las oportunidades de mejora en el pipeline de optimización de Roc. El autor ha creado un script para setear y ejecutar la suite de benchmark de Roc en Linux. El paquete roc-deflate alcanzó un aumento del 2,6% en velocidad en el M1 MacBook Pro. El paquete roc-deflate alcanzó un aumento del 18% en velocidad en los casos peores y un aumento del 18% en velocidad en los casos mejores. El paquete roc-deflate alcanzó un aumento del 15% en velocidad en comparación con el paquete libdeflate en la mediana.
+    <link href="https://gizmodo.com/we-regret-to-inform-you-that-maxxing-is-dictionary-coms-2026-word-of-the-year-2000830118"/>
+    <summary>Dictionary.com ha seleccionado "maxxing" como su palabra del año para 2026. El término, que se refiere a maximizar al máximo, ha ganado popularidad en la cultura. El director de lexicografía de IXL Learning, Steve Johnson, explica que "maxxing" es el "manifestación lingüística de una cultura que busca obtener el máximo de todo". El término ha aparecido en digital media 19 veces más a menudo en agosto de este año que el promedio mensual para todo 2025. Además, la industria del AI ha contribuido a su popularidad. Las empresas estadounidenses que habían "token-maxxing" (promoviendo el uso de herramientas de AI) han cambiado su estrategia a "token-frugality" (reducir el gasto). Dictionary.com también ha incluido "Data center", "Affordability" y "Unc." en su lista de palabras del año.
 
 Por qué importa:
-La programación funcional pura busca crear un lenguaje de programación que sea libre de efectos colaterales y de dependencias externas. El uso de la programación funcional en la creación de paquetes de compresión como lean-zip y roc-deflate puede mejorar la eficiencia y la velocidad de los algoritmos.</summary>
-    <published>2026-10-23T17:04:36+00:00</published>
+La selección de "maxxing" como palabra del año de Dictionary.com para 2026 refleja la creciente obsesión con la maximización en la cultura. La industria del AI ha jugado un papel importante en su popularidad, y las empresas que habían promovido el uso de herramientas de AI han cambiado su estrategia en respuesta a los costos asociados.</summary>
+    <published>2026-10-26T12:15:46+00:00</published>
   </entry>
   <entry>
-    <id>https://broccoli2shell.com/</id>
-    <title>[Programación] Brotli decoder RCE (CVE-2026-111497) en Node.js, Python y más</title>
-    <updated>2026-10-24T13:20:38.576849+00:00</updated>
+    <id>https://www.engadget.com/2294291/built-in-android-phone-app-most-users-never-use/</id>
+    <title>[Tecnología] El aplicativo de Android de teléfono que la mayoría de las personas nunca utilizan (pero deberían)</title>
+    <updated>2026-10-26T13:19:14.175438+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://broccoli2shell.com/"/>
-    <summary>Un problema de seguridad en el decoder de Brotli (CVE-2026-111497) puede permitir la ejecución de código malicioso en aplicaciones que utilizan este formato de compresión. El problema se debe a que el decoder no verifica correctamente los bloques de datos y puede ser explotado para escribir en memoria y ejecutar código arbitrario. Afecta a varias bibliotecas y frameworks, incluyendo Node.js, Python, Express y body-parser. Es importante actualizar a las versiones más recientes de estas bibliotecas para evitar la explotación del problema. El problema se ha solucionado en algunas bibliotecas y frameworks, pero es importante verificar la versión actual de cada biblioteca para asegurarse de que se ha aplicado la corrección. La actualización de las versiones de las bibliotecas es la única forma de evitar la explotación del problema.
+    <link href="https://www.engadget.com/2294291/built-in-android-phone-app-most-users-never-use/"/>
+    <summary>El aplicativo de Android de teléfono Digital Wellbeing, desarrollado por Google, ha sido instalado más de 10 mil millones de veces, pero la mayoría de las personas no lo abren con frecuencia. Este aplicativo ofrece una visión realista de las patrones de uso de aplicaciones y volumen de notificaciones, y proporciona herramientas para ayudar a establecer límites en el tiempo de pantalla. El aplicativo tiene una calificación de 4.1 estrellas con 1.49 millones de reseñas y su función principal funciona bien. Sin embargo, no todos los teléfonos Android vienen con este aplicativo, y algunos fabricantes, como Samsung, ofrecen sus propias versiones. El aplicativo de Digital Wellbeing ofrece una variedad de herramientas para ayudar a gestionar el tiempo de pantalla, incluyendo la capacidad de establecer límites de tiempo para aplicaciones específicas y pausar aplicaciones distractoras con un solo tap. El aplicativo también ofrece diferentes modos y rutinas que pueden ser personalizados para diferentes situaciones. Se recomienda probar este aplicativo para evaluar el tiempo que se pasa en el teléfono y ver cómo puede ayudar.
 
 Por qué importa:
-El problema de seguridad en el decoder de Brotli se descubrió en octubre de 2026 y se ha identificado como CVE-2026-111497. Afecta a varias bibliotecas y frameworks, incluyendo Node.js, Python, Express y body-parser; Es importante actualizar a las versiones más recientes de estas bibliotecas para evitar la explotación del problema.</summary>
-    <published>2026-10-24T12:28:14+00:00</published>
+Importa utilizar el aplicativo de Digital Wellbeing porque puede ayudar a las personas a ser más conscientes de su uso de teléfono y a establecer límites saludables. Al entender mejor sus patrones de uso, las personas pueden tomar medidas para reducir su tiempo de pantalla y mejorar su bienestar.</summary>
+    <published>2026-10-26T12:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/pournasserian/buying-an-mcp-server-ask-these-12-questions-first-c1c</id>
-    <title>[Programación] Preguntas clave para comprar un servidor MCP</title>
-    <updated>2026-10-24T13:20:38.576798+00:00</updated>
+    <id>https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/</id>
+    <title>[Tecnología] Tesla lanza Full Self-Driving (Supervisado) a través de Turo</title>
+    <updated>2026-10-26T13:19:14.175400+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://dev.to/pournasserian/buying-an-mcp-server-ask-these-12-questions-first-c1c"/>
-    <summary>Un artículo de Pournasserian proporciona una guía práctica para evaluar a los proveedores de servidores MCP, basada en la especificación del protocolo MCP de 2026. El artículo destaca la importancia de investigar aspectos como la implementación de la descubierta, la validación de tokens y la seguridad del servidor. El autor ofrece una lista de preguntas que los compradores y equipos de ingeniería deben hacer antes de firmar un contrato. El artículo también incluye un checklist de una página para ayudar a los compradores a evaluar a los proveedores de manera más efectiva. El objetivo es hacer que las preguntas importantes sean más fáciles de hacer antes de que ocurra un incidente de producción. El artículo es la primera parte de una serie sobre MCP para compradores y directores técnicos. El autor busca escuchar sugerencias y experiencias de otros que hayan evaluado proveedores de MCP para uso de producción. El artículo se puede leer completo en el sitio web de Pournasserian.
+    <link href="https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"/>
+    <summary>Turo, una gigante de alquiler de autos, comenzará a promocionar las Teslas equipadas con el sistema de asistencia al conducción avanzada Full Self-Driving (Supervisado) de Tesla. Los propietarios de los vehículos que alquilen a través de la plataforma recibirán un trámite gratuito de un mes de FSD; Esto podría impulsar la adopción del software, que puede manejar la mayoría de las tareas de conducción pero requiere supervisión humana. Hasta 1,7 millones de clientes han pagado por FSD en todo el mundo, y más del 75% de los clientes que recibieron un vehículo en América del Norte durante el tercer trimestre pagaron por una suscripción. Turo y Tesla están trabajando juntos para acceder directamente a la API de Tesla para verificar cuáles vehículos tienen FSD habilitado; Los propietarios de los vehículos podrán promocionar sus autos como "Autodriven". Los clientes que alquilen un vehículo con FSD a través de Turo recibirán una advertencia para que monitoreen el software y estén preparados para tomar el control en cualquier momento. Los propietarios de los vehículos también podrán ver una tutorial creada por Tesla; El anuncio llega después de que Tesla anunció que había aumentado la cantidad de clientes que pagaron por FSD en el tercer trimestre. El software puede manejar la mayoría de las tareas de conducción, pero requiere supervisión humana; Turo espera que esta integración aumente las ganancias de los propietarios de los vehículos. El software ha sido bien recibido por los clientes, que ya están comprando FSD con un vehículo; Turo y Tesla están trabajando juntos para ofrecer esta experiencia a los clientes; El anuncio también muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes. El software ha sido bien recibido por los clientes, que ya están comprando FSD con un vehículo; Turo y Tesla están trabajando juntos para ofrecer esta experiencia a los clientes. El anuncio también muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes.
 
 Por qué importa:
-El artículo es relevante para aquellos que buscan comprar un servidor MCP y desean asegurarse de que cumpla con las especificaciones del protocolo. El artículo proporciona una guía práctica y una lista de preguntas clave para evaluar a los proveedores, lo que puede ayudar a evitar problemas de seguridad y rendimiento en el futuro.</summary>
-    <published>2026-10-24T12:49:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/samruddhishirgavedroid/what-i-learned-building-a-rag-chatbot-from-scratch-3-lessons-4jdk</id>
-    <title>[Programación] Aprendizaje de 3 lecciones al construir un chatbot RAG desde cero</title>
-    <updated>2026-10-24T13:20:38.576701+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/samruddhishirgavedroid/what-i-learned-building-a-rag-chatbot-from-scratch-3-lessons-4jdk"/>
-    <summary>El autor de Valentius Kryptix construyó un sistema RAG (Retrieval-Augmented Generation) para evaluar cómo mejora un modelo cuando puede leer documentos previamente. El sistema tiene dos pasos: retrieval y generación. El autor utilizó Python, Chroma y Gemini para procesar dos documentos de 9.000 palabras y obtener 40 bloques de texto de 2.000 caracteres cada uno. En un test, el modelo RAG respondió correctamente a una pregunta sobre la tasa de coincidencia de esquema en un documento, aunque admitió no tener acceso a los archivos. El autor identificó tres lecciones importantes: la importancia de la segmentación de texto, la necesidad de revisar la búsqueda de relevancia antes de culpar al modelo, y la importancia de las instrucciones para el modelo. El sistema es pequeño y el autor planea realizar ajustes en el futuro.
-
-Por qué importa:
-El sistema RAG es una herramienta útil para obtener respuestas precisas a preguntas basadas en documentos previamente procesados. La importancia de este sistema radica en su capacidad para proporcionar respuestas confiables y precisas, lo que puede ser especialmente útil en aplicaciones donde se requiere acceso a información específica y precisa.</summary>
-    <published>2026-10-24T12:50:04+00:00</published>
+Esta integración puede ser importante porque muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes. El software Full Self-Driving (Supervisado) de Tesla puede ser un gran atractivo para los clientes que buscan una experiencia de conducción más segura y cómoda; La colaboración entre Turo y Tesla puede ayudar a impulsar la adopción del software y aumentar las ganancias de ambos.</summary>
+    <published>2026-10-26T12:58:40+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/malvintnw/the-rise-of-small-language-models-why-smaller-is-better-for-the-future-of-ai-4ii3</id>
     <title>[Programación] La era de los modelos de lenguaje pequeños</title>
-    <updated>2026-10-24T13:20:38.576554+00:00</updated>
+    <updated>2026-10-26T13:19:14.175362+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +359,75 @@ El sistema RAG es una herramienta útil para obtener respuestas precisas a pregu
 Por qué importa:
 La implementación de modelos de lenguaje pequeños en dispositivos de bordes es crucial para abordar los desafíos de la inteligencia artificial, como la privacidad y la seguridad de los datos personales. Al procesar la inteligencia en el dispositivo, se evita la necesidad de enviar datos personales a servidores de nube, lo que reduce el riesgo de data leaks durante el transporte; Además, la implementación de SLMs en dispositivos de bordes permite la funcionalidad offline, lo que es esencial en áreas remotas o con conexiones de red limitadas.</summary>
     <published>2026-10-24T12:53:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://evancz.dev/why-is-it-so-expensive-to-send-an-email</id>
+    <title>[Programación] Por qué es tan caro enviar un correo electrónico</title>
+    <updated>2026-10-26T13:19:14.175324+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://evancz.dev/why-is-it-so-expensive-to-send-an-email"/>
+    <summary>El autor de la noticia intentó enviar correos electrónicos desde cero y descubrió que el proceso no es tan simple como parece. El problema principal es que los proveedores de correo electrónico tienen spam filters muy complejos que dependen de la reputación del remitente y del dominio. El autor encontró que enviar correos electrónicos desde una IP address específica no es suficiente para evitar que se bloqueen. Para enviar correos electrónicos de manera efectiva, se necesita tener una IP address bloqueada y enviar un volumen significativo de correos electrónicos a través de ella. El autor también descubrió que algunos proveedores de correo electrónico, como Microsoft Outlook, se basan más en la reputación del dominio que en la IP address. El autor concluye que enviar correos electrónicos es un proceso complejo que requiere una gran cantidad de esfuerzo y recursos.
+
+Por qué importa:
+El problema de los spam filters de correo electrónico es que dependen de la reputación del remitente y del dominio; Los proveedores de correo electrónico tienen spam filters muy complejos que pueden bloquear correos electrónicos enviados desde IP addresses específicas. El autor de la noticia descubrió que enviar correos electrónicos desde una IP address específica no es suficiente para evitar que se bloqueen; El problema es que los spam filters dependen de la reputación del remitente y del dominio, lo que significa que si el dominio es considerado spam, todos los correos electrónicos enviados desde ese dominio se bloquearán.</summary>
+    <published>2026-10-26T10:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pharo.org/news/2026-10-26-Pharo14Release.html</id>
+    <title>[Programación] Pharo 14 released</title>
+    <updated>2026-10-26T13:19:14.175288+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://pharo.org/news/2026-10-26-Pharo14Release.html"/>
+    <summary>Pharo 14 ha sido lanzado después de 978 pull requests integrados en el repositorio de Pharo. El proyecto cuenta con 432 forks y 1,494 estrellas en GitHub. Se han cerrado 616 issues desde Pharo 13. Pharo es desarrollado por una comunidad internacional de desarrolladores de código abierto, coordinada y mantenida por el pharo consortium. La comunidad de Pharo ha contribuido con una gran cantidad de pull requests, reportes de bugs y comentarios. Pharo 14 es el primer lanzamiento bajo el nuevo calendario de lanzamientos, que se realizará en el otoño. El proyecto ha recibido apoyo esencial de varias instituciones. La comunidad de Pharo agradece a todos los contribuyentes por su ayuda. Pharo 14 es una versión más estable y segura del lenguaje de programación.
+
+Por qué importa:
+Pharo 14 es una versión importante del lenguaje de programación Pharo, que se ha lanzado después de una gran cantidad de contribuciones de la comunidad. La comunidad de Pharo ha sido fundamental para el desarrollo de esta versión, que cuenta con una gran cantidad de pull requests y reportes de bugs; El lanzamiento de Pharo 14 marca un cambio en el calendario de lanzamientos, que se realizará en el otoño.</summary>
+    <published>2026-10-26T11:19:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/studio1hq/claude-duet-features-pricing-early-reviews-and-limitations-4i53</id>
+    <title>[Programación] Claude Duet: Features, Pricing, Early Reviews, and Limitations</title>
+    <updated>2026-10-26T13:19:14.175246+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/studio1hq/claude-duet-features-pricing-early-reviews-and-limitations-4i53"/>
+    <summary>Anthropic ha lanzado una versión de prueba de su aplicación Claude Duet, una herramienta de asistente personal. Duet es una aplicación separada de Claude que utiliza el modelo Opus 5.5 de Claude y puede realizar tareas como redactar respuestas y verificar correos electrónicos. La aplicación tiene un sistema de check-in que se ejecuta cada pocos horas y puede realizar tareas como verificar facturas pendientes. Duet es la herramienta más asequible para acceder a esta categoría de herramientas de asistente personal. La aplicación utiliza los límites de plan de Claude para realizar tareas, lo que puede limitar su capacidad de uso. Duet es una herramienta que puede ayudar a los profesionales y pequeñas empresas a gestionar su tiempo y tareas de manera más eficiente. El acceso a Duet está disponible a través de una lista de espera, y las invitaciones se distribuyen en ondas. Duet es incluido con los planes Pro y Max de Claude sin costo adicional durante la preview. La aplicación utiliza el mismo cuenta de usuario que Claude, por lo que la memoria, habilidades y conectores se transfieren. Anthropic no ve directamente las contraseñas o tokens de inicio de sesión.
+
+Por qué importa:
+Duet es una herramienta que puede ayudar a los profesionales y pequeñas empresas a gestionar su tiempo y tareas de manera más eficiente. La versión de prueba de Duet está disponible para que los usuarios puedan probar sus características y limitaciones.</summary>
+    <published>2026-10-26T12:57:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/robert_breen_d96e41ecd765/looker-studio-replace-the-monday-ga4-screenshot-email-with-a-one-page-website-dashboard-3ddf</id>
+    <title>[Programación] Una guía paso a paso para crear un dashboard de Google Analytics 4 en Looker Studio</title>
+    <updated>2026-10-26T13:19:14.175190+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/robert_breen_d96e41ecd765/looker-studio-replace-the-monday-ga4-screenshot-email-with-a-one-page-website-dashboard-3ddf"/>
+    <summary>En este artículo, se presenta una guía paso a paso para crear un dashboard de Google Analytics 4 en Looker Studio. El dashboard incluye tres scorecards, una gráfica de tendencia, una tabla de canales y un control de fecha. El objetivo es proporcionar una solución fácil de implementar para pequeñas oficinas que buscan mejorar su análisis de tráfico web. El dashboard se puede personalizar y compartir con otros usuarios, lo que facilita la colaboración y la toma de decisiones. El tutorial cubre los pasos necesarios para conectar Google Analytics 4 a Looker Studio, crear el dashboard y personalizarlo según las necesidades. El resultado es un dashboard intuitivo y fácil de usar que proporciona una visión clara de los datos de tráfico web.
+
+Por qué importa:
+La creación de un dashboard de Google Analytics 4 en Looker Studio es una herramienta valiosa para pequeñas oficinas que buscan mejorar su análisis de tráfico web; Con este dashboard, los usuarios pueden visualizar de manera rápida y fácil los datos de tráfico web, incluyendo las tendencias y los canales de origen; El dashboard se puede personalizar y compartir con otros usuarios, lo que facilita la colaboración y la toma de decisiones. En resumen, el dashboard de Looker Studio es una herramienta útil para cualquier empresa que busque mejorar su análisis de tráfico web y tomar decisiones informadas.</summary>
+    <published>2026-10-26T12:58:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/robert_breen_d96e41ecd765/airia-test-your-hr-agent-before-60-people-use-it-an-evaluation-scored-92-and-the-vacation-1jj1</id>
+    <title>[Programación] Testa tu agente de RRHH antes de que 60 personas lo utilicen. Una puntuación de 92% y la respuesta vacacional sigue siendo incorrecta.</title>
+    <updated>2026-10-26T13:19:14.175095+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/robert_breen_d96e41ecd765/airia-test-your-hr-agent-before-60-people-use-it-an-evaluation-scored-92-and-the-vacation-1jj1"/>
+    <summary>Un agente de RRHH que responde a preguntas de empleados parece un ganador fácil. Sin embargo, si sus respuestas son incorrectas, puede crear problemas para la HR. Un agente es útil solo si sus respuestas son las del handbook. Una respuesta incorrecta, incluso si es polite y confiada, puede crear un problema que la HR debe resolver. Una evaluación en Airia ayuda a detectar este problema antes de que el agente se libere. La evaluación crea un conjunto de preguntas y respuestas, y un modelo de juicio evalúa cada respuesta. La puntuación de la evaluación es de 92%, pero esto no significa que el agente es confiable. Es importante revisar cada respuesta y verificar que el handbook sea la fuente de datos correcta. La evaluación es importante para detectar errores antes de que el agente se libere.
+
+Por qué importa:
+La evaluación en Airia es una herramienta que ayuda a detectar errores en los agentes de RRHH antes de que se liberen; Es importante testear el agente antes de que se utilice para evitar problemas; La evaluación crea un conjunto de preguntas y respuestas, y un modelo de juicio evalúa cada respuesta. La puntuación de la evaluación es de 92%, pero esto no significa que el agente es confiable; Es importante revisar cada respuesta y verificar que el handbook sea la fuente de datos correcta.</summary>
+    <published>2026-10-26T12:58:49+00:00</published>
   </entry>
 </feed>
