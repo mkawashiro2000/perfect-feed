@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T14:18:39.748753+00:00",
+  "generated_at": "2026-10-28T14:18:44.770736+00:00",
   "site_url": "https://perfect-feed.kawashiro.dev",
   "run": {
     "id": 102,
     "started_at": "2026-10-28T14:00:03.842799+00:00",
-    "finished_at": null,
-    "status": "running",
-    "article_count": 0,
-    "detail": null
+    "finished_at": "2026-10-28T14:18:44.758350+00:00",
+    "status": "success",
+    "article_count": 28,
+    "detail": "Desplegado en 1120.9s"
   },
   "sources": [
     {
