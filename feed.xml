@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-27T14:24:15.384086+00:00</updated>
+  <updated>2026-10-28T14:18:39.238884+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,121 +11,93 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html</id>
-    <title>[Economía] Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede</title>
-    <updated>2026-10-27T14:24:15.385226+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html</id>
+    <title>[Economía] al menos 64 personas muertas en accidente de tren de alta velocidad en España</title>
+    <updated>2026-10-28T14:18:39.240058+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"/>
-    <summary>Luiz Inácio Lula da Silva ha ganado un cuarto mandato como presidente de Brasil, superando a Senator Flávio Bolsonaro y sorprendiendo a los mercados. Lula obtuvo el 51.8% de los votos válidos, mientras que Bolsonaro obtuvo el 48.2%. La victoria de Lula es histórica ya que es la primera vez que un candidato ha ganado la final después de perder en la primera ronda desde que Brasil volvió a tener elecciones directas en 1989. Las acciones brasileñas cayeron después de la victoria, reflejando expectativas de políticas más favorables para los mercados y jitters alrededor de la trayectoria fiscal de Brasil. Bolsonaro se negó a reconocer la derrota y dijo que buscaría anular el resultado. El presidente de los Estados Unidos, Donald Trump, había expresado su deseo de ver un presidente brasileño más alineado con la política exterior de EE. UU.
+    <link href="https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"/>
+    <summary>En un accidente de tren de alta velocidad en la provincia de Toledo, al menos 64 personas han fallecido. La colisión ocurrió a las 9:15 a.m. local tiempo, cuando se desplegaron los servicios de emergencia. El accidente ocurrió en la línea Madrid a Sevilla, donde un vehículo estacionario fue golpeado por otro a una velocidad de más de 100 kilómetros por hora. Las autoridades han establecido un puesto médico avanzado en el lugar del accidente para atender a los heridos y trasladar a aquellos que requieren tratamiento médico adicional. No se conoce con certeza qué causó la colisión. El gobierno ha confirmado que el operador de Adif cometió un error al fallar el sistema de señalización. Los trenes AVE y Iryo estaban operados en el accidente, y más de 500 pasajeros estaban a bordo. El primer ministro Pedro Sánchez expresó su shock por el accidente y pidió apoyo a las víctimas y sus familias. El accidente ocurre en un momento en que el primer ministro Sánchez enfrenta una elección anticipada en un mes, y el líder del partido Vox, Santiago Abascal, ha acusado al gobierno de negligencia y traición por el accidente.
 
 Por qué importa:
-La victoria de Lula bloquea un giro hacia la derecha en América Latina que apoyaba el presidente de EE; UU. La elección también tiene implicaciones para la estabilidad fiscal de Brasil, que enfrenta un gran déficit público y una deuda que alcanza el 82.9% del PIB; Lula tendrá que convencer a los inversores de que Brasil puede estabilizar su trayectoria fiscal.</summary>
-    <published>2026-10-26T12:14:55+00:00</published>
+El accidente de tren de alta velocidad en España es un evento trágico que ha generado una gran conmoción y preocupación en el país. La pregunta es qué causó el accidente y cómo se puede prevenir que algo similar suceda en el futuro.</summary>
+    <published>2026-10-28T13:01:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html</id>
-    <title>[Economía] Meta anuncia oferta de acciones por $95 mil millones para financiar expansión de inteligencia artificial</title>
-    <updated>2026-10-27T14:24:15.385191+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html</id>
+    <title>[Economía] The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down</title>
+    <updated>2026-10-28T14:18:39.240023+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"/>
-    <summary>Meta anunció que planea recaudar un total de $95 mil millones para apoyar sus inversiones en infraestructura de inteligencia artificial y superinteligencia; El valor de las acciones de la empresa aumentó un 1.6% en la premercado después de la anuncio. El tech giant planea inicialmente recaudar $35 mil millones en ofertas de acciones subvencionadas, antes de recaudar un total de $95 mil millones con un programa de ofertas de acciones al mercado. Esto se produce en un momento en que los hyperscalers están invirtiendo sumas récord en la construcción de la infraestructura de inteligencia artificial; Meta planea financiar sus inversiones a través de una combinación de flujo de efectivo operativo, deuda de alta calidad, acuerdos de colaboración y capital de acciones. La empresa está entre los principales hyperscalers que están utilizando la deuda para financiar la infraestructura necesaria para el boom de la inteligencia artificial. En el último trimestre, Meta publicó resultados de tercer cuarto que mostraron una ganancia del 26% en comparación con el mismo período del año anterior, pero los inversores se centraron más en la falta de flujo de efectivo neto de la empresa y su aumento en la estimación de gastos de capital. La empresa espera que sus gastos de capital anuales se encuentren entre $135 mil millones y $145 mil millones, lo que aumenta la parte inferior del rango desde $130 mil millones. Esto causó que las acciones de la empresa cayeran el día anterior; Meta está construyendo cuatro "superclústeres" con más de un gigawatt de capacidad cada uno y espera nearly duplicar la capacidad de infraestructura anualmente en 2026. El anuncio de la oferta de acciones "refleja los niveles deslumbrantes de inversión necesarios para mantenerse en la carrera de inteligencia artificial", dijo Ben Wood, senior partner de CCS Insight. La decisión de recaudar más dinero "viene en un momento en que numerosas empresas, como Google, SpaceX y pronto Anthropic, están saliendo a los mercados para recaudar fondos". Alphabet, la empresa madre de Google, anunció que planea recaudar $85 mil millones en junio; SpaceX ha cerrado un financiamiento de $40 mil millones para comprar unidades de procesamiento gráfico; Anthropic está preparándose para una IPO.
+    <link href="https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html"/>
+    <summary>El grupo de las "Magnificent Seven" no se mantiene como un bloque cohesionado en el mercado, ya que sus componentes tienen diferentes exposiciones a la inteligencia artificial. En el último mes, el índice de correlación de los 21 pares de acciones de las empresas del grupo cayó a su nivel más bajo en más de una década. Esto significa que las acciones individuales de las empresas del grupo ya no se comportan de manera similar como lo hicieron en el pasado. Las empresas del grupo tienen diferentes fundamentos y exposiciones a la inteligencia artificial, lo que requiere que los inversores sean más selectivos al elegir las acciones. El grupo en su conjunto ha perdido terreno en comparación con el mercado en general, aunque las acciones individuales de las empresas del grupo siguen siendo muy apetecidas por los inversores. Las acciones de Tesla y Meta están en las últimas posiciones del grupo, mientras que Nvidia y Apple están entre las que mejoran el rendimiento del grupo.
 
 Por qué importa:
-La expansión de la inteligencia artificial es un tema cada vez más importante en la industria tecnológica, y Meta está jugando un papel clave en este movimiento. La empresa planea utilizar los fondos recaudados para apoyar sus inversiones en infraestructura de inteligencia artificial y superinteligencia, lo que refleja la creciente competencia en este campo.</summary>
-    <published>2026-10-26T12:42:41+00:00</published>
+El grupo de las "Magnificent Seven" se ha convertido en un tema de interés para los inversores, ya que sus componentes tienen diferentes exposiciones a la inteligencia artificial; Las empresas del grupo tienen diferentes fundamentos y estrategias de crecimiento, lo que requiere que los inversores sean más selectivos al elegir las acciones. El grupo en su conjunto ha perdido terreno en comparación con el mercado en general, aunque las acciones individuales de las empresas del grupo siguen siendo muy apetecidas por los inversores.</summary>
+    <published>2026-10-28T13:09:08+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html</id>
-    <title>[Economía] Santoli: We are nearing a now-or-never moment for the AI trade to rebound</title>
-    <updated>2026-10-27T14:24:15.385155+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html</id>
+    <title>[Economía] El sistema de financiación de campañas de la FEC se vuelve offline días antes de las elecciones medioambientales</title>
+    <updated>2026-10-28T14:18:39.239981+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html"/>
-    <summary>El experto Mike Santoli considera que el mercado de las tecnologías de inteligencia artificial (AI) está en un momento crítico y que es posible que estemos cerca de un "ahora o nunca" para que el mercado recupere. El S&amp;P 500 ha estado en una tendencia sideways durante meses y los líderes de la AI han experimentado una caída del 35% en relación con el S&amp;P 500. A pesar de esto, algunos indicadores sugieren que la tendencia podría cambiar. Los inversores han mostrado una preferencia por acciones de calidad y defensa, y la tasa de interés de los bonos ha aumentado, lo que ha restringido el crecimiento de las empresas de AI. El experto también menciona que la retail traders han estado comprando acciones de empresas de AI en momentos de baja, lo que podría limitar la fuerza de un posible rally. Sin embargo, Santoli también destaca que la situación es compleja y que es importante estar atento a los cambios en el mercado. En resumen, Santoli considera que el mercado de la AI está en un momento crítico y que es posible que estemos cerca de un "ahora o nunca" para que el mercado recupere.
+    <link href="https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html"/>
+    <summary>La Comisión Federal de Elecciones (FEC) informó que identificó el problema con su sistema de archivo electrónico y estaba implementando una solución, después de que se informó que un hacker o hackers habían objetivo los sistemas de la agencia días antes de las elecciones medioambientales. El sistema permaneció offline desde la medianoche del lunes, cortando una ventana clave para la información sobre el dinero de las campañas. Los informes previamente archivados siguen siendo accesibles; La FEC no ha revelado quién estaba detrás del intento de brecha, si alguien accedió a sus sistemas o si se comprometió cualquier datos; El personal de la FEC está trabajando para restaurar el servicio. En las últimas 20 horas antes de una elección, los comités de candidatos deben informar contribuciones o préstamos de $1,000 o más dentro de 48 horas, mientras que los comités políticos y grupos externos deben divulgar ciertas inversiones dentro de 24 horas. Estas reglas están diseñadas para dar a los votantes una visión en tiempo real casi de la cantidad de dinero que se está derramando en las carreras cuando es lo que más importa. Por ejemplo, el PAC de Elon Musk informó casi $6.8 millones en inversiones independientes de comunicación que se emitieron el 20 de octubre, según un análisis de los archivos de la FEC. La falta de transparencia puede ser un problema grave, especialmente en la campaña más cara de elecciones en la historia de EE; UU., con $11.21 mil millones gastados o reservados hasta la noche del lunes, según AdImpact. Los comités políticos y otros grupos externos informaron casi $610 millones en inversiones independientes de comunicación que se emitieron desde el 20 de octubre hasta el 26 de octubre — una media de aproximadamente $87 millones al día — según un análisis de los archivos de la FEC; La interrupción también golpea a una agencia ya debilitada. La Comisión FEC, una agencia independiente que supervisa las leyes de financiación de campañas y no tiene papel en la administración de las elecciones, ha tenido solo dos miembros desde octubre de 2025 y ha faltado los cuatro comisionados necesarios para tomar medidas oficiales desde mayo de 2025. El personal de carrera ha continuado procesando los informes y corriendo las operaciones diarias.
 
 Por qué importa:
-El experto Mike Santoli considera que el mercado de las tecnologías de inteligencia artificial (AI) está en un momento crítico debido a la combinación de factores como la tendencia sideways del S&amp;P 500, la caída de los líderes de la AI y la preferencia de los inversores por acciones de calidad y defensa. Esto ha llevado a una restringida creación de crecimiento de las empresas de AI y ha aumentado la tasa de interés de los bonos, lo que ha restringido el crecimiento de las empresas de AI; Sin embargo, Santoli también destaca que la retail traders han estado comprando acciones de empresas de AI en momentos de baja, lo que podría limitar la fuerza de un posible rally.</summary>
-    <published>2026-10-27T12:33:52+00:00</published>
+La interrupción del sistema de la FEC es particularmente preocupante en las elecciones medioambientales, que son la más cara en la historia de EE; UU; en términos de publicidad política. La falta de transparencia puede dar a los votantes una visión distorsionada de la cantidad de dinero que se está derramando en las carreras, lo que puede afectar su decisión.</summary>
+    <published>2026-10-28T13:20:54+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html</id>
-    <title>[Economía] Fed esperado a mantener tasas de interés, pero Warsh podría indicar caminos para más ajustes</title>
-    <updated>2026-10-27T14:24:15.385121+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html</id>
+    <title>[Economía] Wendy's shares saltan 15% como Trian ofrece $1.4 billion para comprar cadena de hamburguesas</title>
+    <updated>2026-10-28T14:18:39.239945+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html"/>
-    <summary>El Consejo de Política Monetaria de la Reserva Federal (FOMC) se reúne esta semana para decidir sobre la política monetaria, mientras que los mercados esperan una decisión de mantener las tasas de interés en el mismo nivel que en septiembre. El presidente de la Reserva Federal, Kevin Warsh, podría dar pistas sobre futuras ajustes, lo que podría influir en la economía. La inflación sigue siendo un problema, con un índice de precios al consumidor que alcanzó un 3,7% en septiembre. El mercado espera una decisión de mantener las tasas de interés, pero hay debate sobre si la Reserva Federal debería ajustar la política monetaria. Los expertos consideran que la decisión del FOMC será crucial para determinar el futuro de la economía. La Reserva Federal debe equilibrar la inflación con la creación de empleo, lo que puede ser un desafío. La decisión del FOMC podría tener un impacto significativo en el mercado de valores y la economía en general. La Reserva Federal debe ser cuidadosa al tomar su decisión para evitar una crisis económica.
+    <link href="https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"/>
+    <summary>Un grupo de inversores liderado por Nelson Peltz's Trian Fund Management ha ofrecido $1.4 billion para comprar Wendy's, ofreciendo $7.35 por acción en efectivo. Esta oferta representa un 20% de premium sobre el precio de cierre de la acción el martes. La propuesta incluye a Trian, BlueFive Capital, Sixth Street Partners y Flynn Group, uno de los franqueados más grandes de Wendy's. Las acciones de Wendy's saltaron el 15% en premercado después de la oferta. El pasado mayo, el CEO de Wendy's, Bob Wright, que anteriormente fue CEO de Potbelly, asumió el cargo. En su primera conferencia de ingresos con analistas en agosto, Wright expresó que ve a la cadena como una de las principales cuestiones, como la falta de valor claro, la ejecución inconsistente en sus restaurantes y demasiadas promociones especiales. La propuesta de Trian se hace después de un período de dos años difícil para Wendy's, en el que la acción de la empresa cayó un 65% y reportó seis cuartos consecutivos de descensos en las ventas de las tiendas. El pasado 2022, Trian exploró una toma de control de Wendy's, pero finalmente decidió no proceder. La empresa y sus socios afiliados poseen un 16.25% de la acción de Wendy's, según el informe regulatorio.
 
 Por qué importa:
-La decisión del FOMC sobre la política monetaria es crucial para determinar el futuro de la economía; La inflación sigue siendo un problema, con un índice de precios al consumidor que alcanzó un 3,7% en septiembre. El mercado espera una decisión de mantener las tasas de interés, pero hay debate sobre si la Reserva Federal debería ajustar la política monetaria; La Reserva Federal debe equilibrar la inflación con la creación de empleo, lo que puede ser un desafío; La decisión del FOMC podría tener un impacto significativo en el mercado de valores y la economía en general; La Reserva Federal debe ser cuidadosa al tomar su decisión para evitar una crisis económica.</summary>
-    <published>2026-10-27T13:37:51+00:00</published>
+La oferta de Trian para comprar Wendy's es significativa debido a la situación actual de la cadena de hamburguesas, que ha enfrentado un período de declive en las ventas y ha tenido un número de ejecutivos en rotación. La propuesta de Trian se hace en un momento en que los consumidores han estado comiendo menos en restaurantes debido a la tendencia de los consumidores a ser más conscientes de su presupuesto.</summary>
+    <published>2026-10-28T13:21:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html</id>
-    <title>[Economía] Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production</title>
-    <updated>2026-10-27T14:24:15.385087+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html</id>
+    <title>[Economía] Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction</title>
+    <updated>2026-10-28T14:18:39.239910+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"/>
-    <summary>Boeing reportó una pérdida de $116 millones en el tercer trimestre, una disminución significativa desde la pérdida de $5.34 billones en el mismo período del año anterior. La compañía también informó que sus ventas de defensa aumentaron un 15% en el tercer trimestre. La producción de 737 Max se está estabilizando, aunque la compañía enfatiza la importancia de hacerlo de manera segura y de calidad. La empresa ha tenido algunos éxitos recientes, como la aprobación del 737 Max 10 y la contratación para desarrollar el próximo generación de luchadores de la Marina de los Estados Unidos. La compañía espera que las ventas de defensa continúen creciendo y que la producción de 737 Max se ajuste a las expectativas. La empresa también informó un aumento en la rentabilidad, con una ganancia de $464 millones en el tercer trimestre. La producción de 737 Max se está ajustando a una tasa de 47 unidades por mes, aunque la compañía busca aumentar esta producción. La empresa enfatiza la importancia de la productividad y la eficiencia en la producción de 737 Max. La compañía también informó que su déficit se redujo significativamente en el tercer trimestre.
+    <link href="https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html"/>
+    <summary>Stellantis ha visto sus acciones subir el miércoles después de que el gigante europeo de automóviles presentó sus resultados del tercer trimestre, que mostraron progreso en su plan de turnaround de 60 mil millones de euros. Las ventas de tercer trimestre aumentaron un 1% a 37.6 mil millones de euros, mientras que la ganancia operativa ajustada aumentó un 184% a 256 millones de euros. El automotor también reafirmó su plan de 2026 y su objetivo de alcanzar una ganancia líquida positiva en 2027, lo cual es un objetivo clave para los inversores; El CEO Antonio Filosa dijo que la empresa está por delante de la programación en su plan de turnaround, que fue anunciado en mayo. Stellantis espera exceder sus esfuerzos de reducción de costos de 6 mil millones de euros anunciados en mayo de 2027, incluyendo 2.4 mil millones de euros al inicio del año. El plan de turnaround incluye invertir 36 mil millones de euros en su portfolio de marcas automotrices, con 60% del dinero destinado a su sector en América del Norte, que está luchando; La empresa también planea introducir nuevos vehículos, actualizar modelos y incorporar nuevas tecnologías en sus productos. Stellantis busca crecer el 23% de sus ingresos, de 154 mil millones de euros en el año pasado a 190 mil millones de euros en 2030, con una ganancia operativa ajustada del 7% en ese plazo. Los fabricantes de automóviles europeos, incluyendo Stellantis, han estado luchando en China debido a la creciente competencia de marcas como Xiaomi, BYD y Geely. En la semana pasada, el fabricante de lujo alemán Porsche anunció que reduciría su exposición a China debido a las ventas de automóviles que declinan en la región. Mientras que Mercedes-Benz informó que sus ventas de automóviles en tercer trimestre cayeron debido a un "ambiente de mercado desafiante" en el país. En una entrevista con CNBC hace unos días, Filosa dijo que los reguladores europeos necesitan hacer más para incentivar a los fabricantes de automóviles a producir vehículos en la región para enfrentar a los rivales chinos.
 
 Por qué importa:
-La reducción de la pérdida de Boeing en el tercer trimestre es un indicio de que la compañía está recuperando su ritmo después de varios años de dificultades. La aprobación del 737 Max 10 y la contratación para desarrollar el próximo generación de luchadores de la Marina de los Estados Unidos son éxitos significativos para la empresa.</summary>
-    <published>2026-10-27T13:42:26+00:00</published>
+La empresa necesita recuperarse de una caída del 12% en su valor desde el inicio del año. La empresa también enfrenta la competencia intensa de marcas chinas como Xiaomi, BYD y Geely, que están ganando terreno en el mercado europeo.</summary>
+    <published>2026-10-28T13:48:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlsud-digital-dollar.html</id>
-    <title>[Economía] Ripple strikea un acuerdo con Robinhood para expandir su RLUSD digital dollar</title>
-    <updated>2026-10-27T14:24:15.385052+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html</id>
+    <title>[Economía] La aerolínea de bajo costo más grande de Estados Unidos reporta un aumento del 71% en los precios de vuelo</title>
+    <updated>2026-10-28T14:18:39.239875+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlsud-digital-dollar.html"/>
-    <summary>Ripple ha acordado con Robinhood para expandir el alcance de su digital dollar, RLUSD, fortaleciendo los enlaces comerciales e institucionales entre sus negocios institucionales y mejorando la gestión de dinero interna de Robinhood. El acuerdo implica utilizar RLUSD para resolver operaciones institucionales, automatizar las operaciones de tesorería de Robinhood y ampliar el acceso a la trading de activos digitales y la financiación a través de Ripple Prime y Bitstamp, la exchange global adquirida por Robinhood en el año anterior. Esto también ayuda a cumplir con la ambición de Robinhood de convertirse en una aplicación financiera global, centralizando las vidas financieras de sus clientes y ampliando la infraestructura subyacente que puede servir a ambos clientes de retail e institucionales. Robinhood Crypto general manager Johann Kerbrat dijo: "La utilidad es lo que mueve las stablecoins. Trabajar con Ripple, Bitstamp y Robinhood tendrá acceso a RLUSD para operaciones institucionales, Treasury de Ripple para nuestras operaciones y Prime de Ripple para la financiación. Eso es lo que parece un sistema financiero conectado y global. "
+    <link href="https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html"/>
+    <summary>La aerolínea de bajo costo Frontier Airlines reportó un aumento del 71% en los precios de vuelo en el tercer trimestre, debido a la subida de los precios del petróleo. La compañía aumentó su recaudación de tarifas por pasajero en un 30% a $138.22, mientras que su pérdida se expandió a $104 millones. A pesar de los precios más altos, la aerolínea sigue recibiendo demanda de pasajeros, con un aumento del 18% en la cantidad de pasajeros, llegando a más de 9.8 millones. La aerolínea espera obtener una ganancia ajustada en el cuarto trimestre, aunque aún no ha anunciado ganancias. La subida de los precios del petróleo es un desafío para las aerolíneas, ya que es su mayor costo después del personal. La aerolínea de bajo costo Frontier Airlines sigue siendo la más grande del país, aunque Spirit Airlines ya no existe.
 
 Por qué importa:
-La relación entre Ripple y Robinhood refleja la evolución de los stablecoins de herramienta de trading a infraestructura financiera crítica. Los stablecoins están convirtiéndose en una pieza esencial de la infraestructura financiera debido a su capacidad para permitir el pago casi instantáneo y mover valor denominado en dólares en cualquier momento, independientemente de las horas tradicionales de banca.</summary>
-    <published>2026-10-27T13:45:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026</id>
-    <title>[Data Science] El camino hacia convertirse en ingeniero de visión computacional en 2026</title>
-    <updated>2026-10-27T14:24:15.385017+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026"/>
-    <summary>La demanda de ingenieros de visión computacional que pueden operar en la full stack está creciendo. La visión computacional ha avanzado más allá de la detección de objetos y la clasificación de imágenes. La tecnología de visión computacional utiliza foundation models, spatial computing y hardware embutido. La visión computacional es una disciplina que requiere una comprensión profunda de la geometría y la representación de características. La tecnología de visión computacional utiliza tensor manipulation y pipelines de datos sintéticos para mejorar la precisión. La visión computacional utiliza vision transformers (ViTs) y modelos de visión-lingüe (VLMs) para procesar imágenes y texto. La visión computacional utiliza técnicas de detección abierta para detectar objetos en imágenes y videos. La visión computacional utiliza técnicas de segmentación para segmentar objetos en imágenes y videos. La precisión y la latencia de los modelos de aprendizaje automático pueden variar significativamente entre versiones FP32 e INT8.
-
-Por qué importa:
-La visión computacional es una disciplina clave en el desarrollo de aplicaciones de inteligencia artificial y es fundamental para el avance de la tecnología en áreas como la seguridad, la salud y la automatización. La comprensión de la tecnología de visión computacional es esencial para diseñar y desarrollar soluciones innovadoras y efectivas.</summary>
-    <published>2026-10-26T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/are-agent-harnesses-dying-what-harness-distillation-changes/</id>
-    <title>[Data Science] ¿Se están muriendo los agentes con harness y qué cambios significan la distilación del harness?</title>
-    <updated>2026-10-27T14:24:15.384984+00:00</updated>
-    <author>
-      <name>Radar</name>
-    </author>
-    <link href="https://www.oreilly.com/radar/are-agent-harnesses-dying-what-harness-distillation-changes/"/>
-    <summary>Un equipo de investigación de Peking University creó un modelo de agentes que superó al modelo original con un "harness" asociado. La investigación, llamada "Harness-Zero", demostró que se puede entrenar un modelo a reproducir el comportamiento de un "harness" especializado. El equipo entrenó un modelo pequeño, Qwen3.5-9B, con un "harness" evolucionado y luego lo entrenó solo para obtener un modelo distillado. El modelo distillado superó al modelo original con un "harness" asociado en tareas como la edición de hojas de cálculo y el uso de herramientas multi-aplicaciones. La investigación mostró que el "harness" no es necesario para el rendimiento del modelo, pero sí es necesario para la context management y la comprensión del entorno. La investigación también demostró que la fine-tuning del modelo en runs correctos es lo que hace la diferencia en el rendimiento del modelo. Además, se encontró que la evolución automática del "harness" puede sobreajustarse, lo que puede afectar el rendimiento del modelo. La investigación se basa en la idea de que los modelos de agentes pueden aprender a reproducir el comportamiento de un "harness" especializado, lo que podría cambiar la forma en que se diseñan y se entrenan los modelos de agentes.
-
-Por qué importa:
-La investigación "Harness-Zero" es importante porque puede tener implicaciones significativas en el diseño y la entrenación de modelos de agentes. La comprensión de cómo los "harness" pueden afectar el rendimiento de los modelos puede ayudar a desarrollar modelos más eficientes y efectivos.</summary>
-    <published>2026-10-27T10:54:38+00:00</published>
+La subida de los precios del petróleo es un desafío para las aerolíneas, ya que es su mayor costo después del personal. La aerolínea de bajo costo Frontier Airlines sigue siendo la más grande del país, aunque Spirit Airlines ya no existe.</summary>
+    <published>2026-10-28T13:50:38+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/context-managers-beyond-opening-files/</id>
     <title>[Data Science] Manejadores de contexto más allá de abrir archivos en Python</title>
-    <updated>2026-10-27T14:24:15.384950+00:00</updated>
+    <updated>2026-10-28T14:18:39.239841+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -139,7 +111,7 @@ El uso de context managers en Python es una técnica común para gestionar recur
   <entry>
     <id>https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares</id>
     <title>[Data Science] Google Gemini Omni Omni: ¿Qué hace, qué cuesta y cómo se compara</title>
-    <updated>2026-10-27T14:24:15.384915+00:00</updated>
+    <updated>2026-10-28T14:18:39.239806+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -153,7 +125,7 @@ La plataforma Gemini Omni es importante porque ofrece una solución de edición 
   <entry>
     <id>https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/</id>
     <title>[Data Science] La era de la inteligencia artificial y su impacto en el pensamiento humano</title>
-    <updated>2026-10-27T14:24:15.384882+00:00</updated>
+    <updated>2026-10-28T14:18:39.239772+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -167,7 +139,7 @@ La inteligencia artificial está evolucionando rápidamente y está cambiando la
   <entry>
     <id>https://towardsdatascience.com/who-watches-the-ai/</id>
     <title>[Data Science] ¿Quién vigila a los modelos de inteligencia artificial?</title>
-    <updated>2026-10-27T14:24:15.384848+00:00</updated>
+    <updated>2026-10-28T14:18:39.239735+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,255 +151,283 @@ La seguridad y la confiabilidad de los modelos de inteligencia artificial son fu
     <published>2026-10-27T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/</id>
-    <title>[Fórmula 1] Problemas con la radio de Verstappen en el Gran Premio de Estados Unidos</title>
-    <updated>2026-10-27T14:24:15.384814+00:00</updated>
+    <id>https://www.oreilly.com/radar/are-you-getting-your-moneys-worth-from-ai/</id>
+    <title>[Data Science] ¿Estás obteniendo el valor de tu dinero con la inteligencia artificial?</title>
+    <updated>2026-10-28T14:18:39.239664+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/are-you-getting-your-moneys-worth-from-ai/"/>
+    <summary>Un estudio encontró que la automatización de software puede aumentar la productividad en un 2.1x, pero también puede tener consecuencias negativas. Un CIO con 170 personas en su organización midió un aumento de este tipo gracias a la automatización de software. El top usuario de AI de este CIO gastó $21,000 en tokens por mes. La automatización de software puede tener efectos secundarios no deseados, como la pérdida de personal o la sobrecarga de trabajo. Es importante considerar los costos y los beneficios de la automatización de software para tomar decisiones informadas. Un estudio también encontró que los participantes se autoevaluaron como 20% más rápidos, pero se medieron como 19% más lentos. La publicación del estudio no debe tomarse como una crítica a la capacidad del AI, sino como una crítica a la evaluación de la productividad. La automatización de software puede ser un tema controvertido, y es importante tener una perspectiva crítica para evaluar sus efectos.
+
+Por qué importa:
+La automatización de software es un tema importante en la era de la inteligencia artificial, ya que puede tener un impacto significativo en la productividad y la eficiencia de las organizaciones. Es fundamental evaluar los beneficios y los costos de esta tecnología para tomar decisiones informadas y asegurarse de que se esté obteniendo el valor de la inversión.</summary>
+    <published>2026-10-28T10:54:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/</id>
+    <title>[Data Science] ¿Dónde se sienta una célula es más importante que cuántas hay?</title>
+    <updated>2026-10-28T14:18:39.239631+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/"/>
+    <summary>En un estudio reciente, se encontró que la relación entre las células en un fragmento de tejido es más importante que el número total de células presentes. En un modelo de simulación, se observó que a los 5 días, la relación entre las células era positiva, pero a los 30 días volvía a ser negativa. La probabilidad de que la postura de los neuronas esté por debajo de cero en 0D y 30D es del 0,01 y del 0,02, respectivamente; En 5D, la probabilidad es del 0,99. La mediana de la postura de microglia en 15D es 1,1 en el escala log2, lo que equivale a aproximadamente 2,1 veces más microglia en el compartimento astrocyte. En 30D, la mediana es 3,4, lo que equivale a aproximadamente 10 veces más microglia. La segmentación es el enlace débil en el análisis, ya que separar una célula de varias fragmentos del mismo tipo sigue siendo difícil. El tamaño de la sigma es importante, ya que cambia el mapa; La muestra tiene un tamaño de 5, 8, 8 y 10 animales. El modelo anterior era una curva lineal en escala logarítmica, pero la relación no es lineal. A 5 días, 10 más astrocytes por mm² corresponden a un cambio de -15.3% en neuronas. A 30 días, 10 más astrocytes por mm² corresponden a un cambio de -5.6% en neuronas.
+
+Por qué importa:
+Este estudio es importante porque puede ayudar a entender mejor cómo funcionan las células en un fragmento de tejido. La relación entre las células y su postura puede tener un impacto significativo en la salud y el bienestar de los animales.</summary>
+    <published>2026-10-28T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.racefans.net/2026/10/27/social-media-pierson-joins-hauger-at-foyt-for-2027-indycar-season/</id>
+    <title>[Fórmula 1] Pierson se une a Hauger en Foyt para la temporada 2027 de IndyCar</title>
+    <updated>2026-10-28T14:18:39.239598+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/"/>
-    <summary>Max Verstappen reveló que sufrió problemas con su radio durante el Gran Premio de Estados Unidos, lo que lo llevó a caer de segundo a tercer lugar en la carrera. El piloto admitió que no sabía cómo cambiar el ángulo del ala delantera en su próximo parada de pitos, lo que lo hizo frustrar. A pesar de no ser el equipo más fuerte o débil en el circuito de Austin, Verstappen creyó que Red Bull tenía potencial para mejorar su rendimiento. Sin embargo, la incoherencia en la potencia de su unidad de potencia costó tiempo en la pista. Verstappen también expresó su descontento con su rendimiento en la carrera, lo que lo llevó a considerar la posibilidad de comunicarse en señas. El piloto calificó su rendimiento como "un poco average" y creyó que el equipo podría haber sido segundo si hubieran elegido diferentes neumáticos. En general, Verstappen enfatizó la necesidad de mejorar la coherencia en la potencia de su unidad de potencia y analizar mejor su rendimiento.
+    <link href="https://www.racefans.net/2026/10/27/social-media-pierson-joins-hauger-at-foyt-for-2027-indycar-season/"/>
+    <summary>El joven conductor Josh Pierson hará su debut en IndyCar a principios de la temporada 2027, al unirse a la escudería AJ Foyt Racing con un contrato a largo plazo. Pierson, quien estableció un récord como el conductor más joven para competir en las 24 Horas de Le Mans en 2022, terminó la temporada 2026 de IndyNxt en 11º lugar en la clasificación con una sola victoria en Laguna Seca. El joven conductor se unirá al equipo junto a Dennis Hauger en el No. 4 Chevrolet. Pierson lideró la temporada 2026 de IndyNxt y se prepara para su debut en IndyCar. La noticia fue anunciada por la escudería AJ Foyt Racing en octubre de 2026. Pierson es el joven conductor más joven para competir en las 24 Horas de Le Mans. La escudería AJ Foyt Racing ha confirmado un nuevo equipo de conductores para la temporada 2027. Pierson terminó la temporada 2026 de IndyNxt con una victoria en Laguna Seca. El joven conductor se unirá a Dennis Hauger en el No; 4 Chevrolet.
 
 Por qué importa:
-La frustración de Verstappen con su radio es un problema que ha afectado a varios pilotos en la temporada; En el pasado, Verstappen ha hablado sobre problemas con su radio en otros Grandes Premios, lo que ha llevado a preguntas sobre la eficiencia de la comunicación entre los pilotos y el equipo. La situación de Verstappen en Austin es particularmente frustrante, ya que el equipo no pudo aprovechar su potencial en el circuito; La incoherencia en la potencia de su unidad de potencia costó tiempo en la pista, lo que llevó a Verstappen a caer de segundo a tercer lugar en la carrera.</summary>
-    <published>2026-10-26T08:20:32+00:00</published>
+La noticia de que Josh Pierson se unirá a AJ Foyt Racing es importante porque marca el comienzo de una nueva era para la escudería. Pierson es un conductor prometedor que ha demostrado su habilidad en diferentes series de carreras, incluyendo las 24 Horas de Le Mans; Su unión a la escudería AJ Foyt Racing es un paso importante hacia el futuro de la escudería.</summary>
+    <published>2026-10-27T20:50:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/</id>
-    <title>[Fórmula 1] Antonelli se convertirá automáticamente en campeón si F1 cancela otra carrera</title>
-    <updated>2026-10-27T14:24:15.384780+00:00</updated>
+    <id>https://www.racefans.net/2026/10/28/antonellis-coronation-mexicos-optional-turn-one-and-more-mexican-gp-talking-points/</id>
+    <title>[Fórmula 1] La coronación de Antonelli, el turno de México y puntos de discusión para el GP mexicano</title>
+    <updated>2026-10-28T14:18:39.239564+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/"/>
-    <summary>Andrea Kimi Antonelli está virtualmente garantizado de ganar el campeonato mundial en el Gran Premio de México este fin de semana. La guerra entre Irán y Estados Unidos ya ha forzado el cancelamiento del Gran Premio de Arabia Saudita y la reubicación del Gran Premio de Bahrain en Malasia. Esto redujo el número de rondas de la temporada de 24 a 23; Otra reducción es posible, y si eso sucede, ninguno de los rivales de Antonelli podrá impedirle ganar el título. Con 125 puntos actuales, George Russell necesita superar a su compañero de equipo por 124 puntos para ganar el título; Lewis Hamilton necesita superar a Antonelli por 125 puntos. Ambas situaciones son extremadamente improbables, ya que implicarían al líder del título no anotar puntos en las próximas cinco rondas. Sin embargo, si se cancela otra carrera sin reemplazo, reduciendo los puntos totales disponibles a 100, sería imposible que Antonelli fuera derrotado. La serie Moto GP está programada para realizar su redondeo resuelto de Qatar el fin de semana después del Gran Premio de México. Sin embargo, muchos pilotos están solicitando garantías de los promotores del evento sobre su seguridad, seguridad y compensación en caso de cualquier cambio en el último minuto. Solo unos pocos títulos mundiales de F1 no se decidieron por el resultado de una gran carrera; Max Verstappen ganó el título mundial en una carrera de sprint, coincidientemente celebrada en Qatar. En 1987, Nelson Piquet ganó el título cuando su compañero de equipo Nigel Mansell se retiró del Gran Premio de Japón después de lesionarse la espalda en una caída durante la práctica.
+    <link href="https://www.racefans.net/2026/10/28/antonellis-coronation-mexicos-optional-turn-one-and-more-mexican-gp-talking-points/"/>
+    <summary>La temporada de F1 se acerca a su fin y la coronación de la campeona es casi segura, pero hay muchos otros puntos de interés en el GP mexicano. Al menos una de las rondas restantes podría no tener lugar, lo que haría que la coronación de Antonelli sea inevitable. El circuito remodelado del Autodromo Hermanos Rodriguez es conocido por su "teatro de F1" emocionante, pero también ha sido un problema para los conductores en el pasado. El inicio del circuito ha sido un problema desde que se reorganizó en 2015, y se espera que la FIA tome medidas para evitar que los conductores abusen de los límites de la pista. Este fin de semana, dos conductores debutarán en una sesión de práctica, mientras que otros conductores experimentados también participarán. El GP mexicano será el 300º de Sergio Pérez, quien regresa a la pista después de una temporada sin competir.
 
 Por qué importa:
-La guerra entre Irán y Estados Unidos ha tenido un impacto significativo en la temporada de F1, cancelando eventos y reubicando otros. Esto ha reducido la cantidad de rondas de la temporada y ha creado una situación en la que Antonelli podría convertirse en campeón automáticamente si se cancela otra carrera.</summary>
-    <published>2026-10-26T12:37:39+00:00</published>
+El GP mexicano es importante porque es una oportunidad para Sergio Pérez marcar su 300º inicio en la pista, y también porque es un evento que atrae a una gran cantidad de seguidores. Sin embargo, la condición física de Pérez es una preocupación, ya que el calor y la fricción pueden afectar su rendimiento.</summary>
+    <published>2026-10-28T07:15:40+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/</id>
-    <title>[Fórmula 1] Cómo ver el Gran Premio de México de F1 2026 en vivo este fin de semana</title>
-    <updated>2026-10-27T14:24:15.384748+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/"/>
-    <summary>El Gran Premio de México de F1 2026 se llevará a cabo este fin de semana y Andrea Kimi Antonelli está a punto de clinchar el campeonato de pilotos. Barring a shock result, Antonelli es el líder de puntos y es probable que gane el título si no se produce un retiro. La victoria de George Russell o Lewis Hamilton podría hacer que el campeonato se decida en Brasil. El Autodromo Hermanos Rodriguez será el escenario de este evento. Los espectadores británicos pueden ver los highlights de la carrera en Channel 4. Los horarios de la carrera son los siguientes: Advert | Become a Supporter &amp; go ad-free. Los espectadores pueden encontrar los horarios de la carrera y la información de apoyo para el Gran Premio de México 2026 en el calendario de Google de RaceFans.
-
-Por qué importa:
-El Gran Premio de México de F1 2026 es una oportunidad emocionante para los fans de la carrera.</summary>
-    <published>2026-10-27T07:15:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.f1technical.net/news/29532</id>
-    <title>[Fórmula 1] Norris admite que McLaren no tenía la velocidad necesaria para desafiar a los equipos más altos en la grilla en Austin</title>
-    <updated>2026-10-27T14:24:15.384714+00:00</updated>
+    <id>https://www.f1technical.net/news/29511</id>
+    <title>[Fórmula 1] Admite Honda ha sido desapuntada con el progreso como Aston Martin revisa el concepto de F1</title>
+    <updated>2026-10-28T14:18:39.239530+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29532"/>
-    <summary>Lando Norris, del equipo McLaren, admitió que su equipo no tenía la velocidad necesaria para desafiar a los equipos más altos en la grilla en el Gran Premio de Estados Unidos. A pesar de mostrar un buen ritmo en las bocas de los duros durante la carrera en el Circuito de las Américas, Norris no pudo mantener el ritmo con los líderes, como Ferrari y Red Bull. A pesar de esto, Norris se sintió satisfecho con su rendimiento y creyó que había extraído el máximo de su equipo. El británico terminó en quinto lugar después de comenzar cerca del frente, pero no pudo mantener el ritmo con los líderes. Norris creyó que su estrategia de un solo parada fue la correcta, pero no pudo evitar perder posiciones a Charles Leclerc, Max Verstappen y Lewis Hamilton. Norris destacó que su equipo necesita mejorar su rendimiento en la clasificación y hacer que su coche sea más predecible para poder desafiar a los equipos más rápidos. El equipo McLaren obtuvo un buen resultado con la sexta posición de Oscar Piastri, que defendió su posición contra George Russell en las últimas etapas de la carrera.
+    <link href="https://www.f1technical.net/news/29511"/>
+    <summary>Adrian Newey, el jefe técnico de Aston Martin, ha admitido que Honda ha sido desapuntada con el progreso que ha realizado durante la temporada, aunque asegura que la empresa japonesa sigue determinada a mejorar. Newey explicó que Honda no ha podido discutir los detalles de su progreso debido a consideraciones de propiedad intelectual. A pesar de la desapuntada, Newey cree que la experiencia puede fortalecer la determinación de Honda para avanzar; Ambas empresas se enfocan en el futuro a largo plazo de su colaboración más que en expectativas inmediatas de mejoras. Newey también comentó que la experiencia puede ayudar a Honda a mejorar su paquete, aunque reconoció que traducir el progreso en el dinámometer y en simulaciones a rendimiento en la pista es un proceso complejo. La empresa japonesa necesitará construir sobre su personal y procesos actuales para acelerar el desarrollo en el futuro. Newey también habló sobre la evolución del concepto de chassis de Aston Martin, que inicialmente se centró en una solución de alta rama antes de cambiar a una configuración más convencional. La decisión se tomó debido a la presión de tiempo y la necesidad de cumplir con los plazos de producción de los componentes clave. Newey explicó que la experiencia ha sido valiosa para la empresa y que ahora se encuentra en un punto intermedio entre la solución original y una alternativa. La empresa japonesa seguirá trabajando para mejorar su paquete, aunque Newey reconoció que la experiencia puede ser valiosa para su determinación. La colaboración entre Honda y Aston Martin seguirá siendo clave para su progreso en el futuro.
 
 Por qué importa:
-La victoria de Norris en el Gran Premio de Estados Unidos es un recordatorio de que el equipo McLaren sigue luchando por mejorar su rendimiento en la clasificación. A pesar de mostrar un buen ritmo en las bocas de los duros, el equipo no pudo mantener el ritmo con los líderes; La victoria de Norris es un buen punto para el equipo, pero también destaca la necesidad de mejorar la clasificación y hacer que el coche sea más predecible.</summary>
-    <published>2026-10-27T10:00:00+00:00</published>
+La colaboración entre Honda y Aston Martin es crucial para el progreso de la empresa japonesa en la temporada de F1; La experiencia de Newey sobre la evolución del concepto de chassis de Aston Martin puede ser valiosa para Honda, que sigue trabajando para mejorar su paquete. La empresa japonesa se enfoca en el futuro a largo plazo de su colaboración con Aston Martin, más que en expectativas inmediatas de mejoras.</summary>
+    <published>2026-10-28T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/27/featured-comment-f1s-flawed-rules-dont-lessen-antonellis-achievement/</id>
-    <title>[Fórmula 1] La temporada de F1 está "ruina" según Rick Gomez</title>
-    <updated>2026-10-27T14:24:15.384679+00:00</updated>
+    <id>https://www.racefans.net/2026/10/28/video-fia-increases-staff-monitoring-f1-drivers-for-penalties-from-1-or-2-to-40/</id>
+    <title>[Fórmula 1] Video: FIA aumenta personal que monitorea conductores de F1 para penas de 1 a 40</title>
+    <updated>2026-10-28T14:18:39.239495+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/27/featured-comment-f1s-flawed-rules-dont-lessen-antonellis-achievement/"/>
-    <summary>Rick Gomez, un aficionado de la F1 de larga data, sostiene que la temporada actual de la F1 está "ruina" debido a la priorización del espectáculo y la rentabilidad sobre la calidad del deporte. Aunque admite que la victoria de Antonelli en el campeonato es inevitable, cree que la temporada ha sido afectada por la reducción de la autenticidad del deporte. Gomez sostiene que la propiedad actual de la F1 prioriza el beneficio financiero sobre la pasión y el esfuerzo de los pilotos. En su opinión, esto ha llevado a una "catastrofica" reducción de la calidad del deporte. Rick Gomez también destaca que la codicia es un factor clave en la sociedad estadounidense, lo que contribuye a la situación actual de la F1. A pesar de esto, cree que la pasión y el esfuerzo de los pilotos como Antonelli pueden llevar a un campeonato exitoso. La temporada de F1 ha sido marcada por controversias y problemas técnicos, lo que ha generado una gran cantidad de críticas y opiniones negativas. A pesar de esto, Rick Gomez sostiene que la victoria de Antonelli es inevitable y que su campeonato será un logro importante. La temporada de F1 ha sido un tema de debate entre los aficionados y los expertos, con algunas personas criticando la priorización del espectáculo y la rentabilidad sobre la calidad del deporte. En general, Rick Gomez cree que la temporada de F1 ha sido un desastre y que la calidad del deporte ha sido afectada negativamente.
+    <link href="https://www.racefans.net/2026/10/28/video-fia-increases-staff-monitoring-f1-drivers-for-penalties-from-1-or-2-to-40/"/>
+    <summary>La FIA ha aumentado significativamente el número de personal que monitorea potenciales infracciones cometidas por conductores de F1. Ahora, se cuenta con más de 40 personas que analizan datos en tiempo real para tomar decisiones informadas e imparciales. Esto representa un cambio significativo desde la época en que solo se contaba con uno o dos personas en el control de la carrera. La FIA ha establecido un equipo de trabajo que incluye el control de la carrera, el Centro de Operaciones Remotas, sistemas operativos y el panel de stewards. Estos componentes trabajan juntos para garantizar la observancia de las normas deportivas y técnicas de la FIA. El aumento del personal se debe a la necesidad de monitorear más de 40 conductores en cada carrera; La FIA busca garantizar la seguridad y la integridad de las carreras de F1, F2 y F3. El aumento del personal también se debe a la necesidad de analizar más datos y tomar decisiones más precisas; La FIA ha establecido un sistema de monitoreo que incluye la utilización de tecnología avanzada para analizar los datos de las carreras. El aumento del personal se debe a la creciente complejidad de las carreras de F1; La FIA busca garantizar que las carreras sean seguras y justas para todos los conductores. El aumento del personal también se debe a la necesidad de garantizar la observancia de las normas de seguridad y de conducta. La FIA ha establecido un equipo de trabajo que incluye a expertos en seguridad y conducta para garantizar que las carreras sean seguras y justas.
 
 Por qué importa:
-La temporada de F1 ha sido marcada por problemas técnicos y controversias, lo que ha generado una gran cantidad de críticas y opiniones negativas. La priorización del espectáculo y la rentabilidad sobre la calidad del deporte ha sido un tema de debate entre los aficionados y los expertos.</summary>
-    <published>2026-10-27T11:04:29+00:00</published>
+La FIA busca garantizar la seguridad y la integridad de las carreras de F1, F2 y F3; El aumento del personal se debe a la necesidad de monitorear más de 40 conductores en cada carrera. La FIA busca garantizar que las carreras sean seguras y justas para todos los conductores.</summary>
+    <published>2026-10-28T12:47:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29541</id>
-    <title>[Fórmula 1] Antonelli’s tyre management proves decisive as one-stop strategy wins out in Austin</title>
-    <updated>2026-10-27T14:24:15.384644+00:00</updated>
+    <id>https://www.f1technical.net/news/29509</id>
+    <title>[Fórmula 1] Fernando Alonso es uno de los grandes de la F1, según Adrian Newey</title>
+    <updated>2026-10-28T14:18:39.239457+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29541"/>
-    <summary>Kimi Antonelli ganó la carrera de Estados Unidos con una estrategia de un solo pit stop, utilizando eficientemente sus neumáticos y manteniendo la velocidad constante. La Pirelli analiza que la batalla táctica fue muy equilibrada, con el compuesto duro demostrando una performance ligeramente mejor que se esperaba. La victoria de Antonelli se basó en su capacidad para preservar sus neumáticos durante la segunda parte de la carrera. Charles Leclerc terminó segundo, mientras que Max Verstappen completó el podio en tercer lugar. La carrera utilizó todos los tres compuestos de neumáticos, lo que permitió a los equipos adoptar diferentes estrategias. La decisión de adoptar una estrategia de un solo pit stop o dos pit stops dependió del equilibrio entre el tiempo perdido en el box y la ventaja de correr con neumáticos frescos. Dario Marrafuschi, director de motorsport de Pirelli, destacó que la carrera fue "fascinante" desde el punto de vista táctico. La Hard demostró una performance ligeramente mejor que se esperaba.
+    <link href="https://www.f1technical.net/news/29509"/>
+    <summary>Adrian Newey ha elogiado a Fernando Alonso por su inteligencia de carrera y capacidad de adaptación detrás del volante, lo que lo coloca entre los mejores talentos que ha conocido en su carrera de F1. Newey describe a Alonso como uno de los mejores de la historia de la F1 debido a su capacidad para entender cómo se está desarrollando una carrera y adaptar su conducción en consecuencia. El equipo principal de Aston Martin destaca la capacidad de Alonso para mantener su concentración mientras controla un coche de F1 a velocidades extremas. Newey sugiere que los mejores conductores tienen una capacidad mental que les permite procesar la información mientras controlan el coche, lo que les permite centrar su atención en entender el comportamiento del coche, evaluar el rendimiento de las llantas y tomar decisiones mientras se desarrolla la carrera. Newey cree que esta capacidad le da una ventaja significativa a los conductores de élite porque pueden evaluar la situación a su alrededor mientras mantienen la precisión necesaria para extraer el máximo rendimiento de su máquina. También destaca la capacidad de Alonso para modificar su estilo de conducción según el equilibrio del coche; Los conductores de F1 deben adaptarse constantemente a la degradación de las llantas, cargas de combustible, condiciones de la pista y características cambiantes de su máquina. La capacidad de reconocer estos cambios y responder de manera efectiva puede hacer una gran diferencia a lo largo de la distancia de la carrera. Newey explica que los conductores de élite pueden procesar esta información mientras continúan conduciendo a la limitación, en lugar de volverse abrumados por las demandas de controlar el coche. Newey ha trabajado con conductores de élite en varias generaciones de F1, incluyendo a Alain Prost, Nigel Mansell, Mika Häkkinen y Sebastian Vettel. Su elogio de Alonso refleja no solo su resultado, sino también las capacidades cognitivas y la adaptabilidad que Newey cree que distinguen a los conductores de élite de sus contemporáneos; Newey ha trabajado con otros conductores de élite en su carrera y su elogio de Alonso refleja su valoración de las capacidades de Alonso.
 
 Por qué importa:
-La victoria de Antonelli en la carrera de Estados Unidos es un ejemplo de cómo la gestión de los neumáticos puede ser crucial en la F1. La carrera demostró que la estrategia de un solo pit stop puede ser efectiva si se ejecuta correctamente, y que la Hard demostró una performance ligeramente mejor que se esperaba.</summary>
-    <published>2026-10-27T12:00:00+00:00</published>
+La opinión de Newey sobre Alonso es significativa porque Alonso ha demostrado una trayectoria de carrera impresionante, debutando en 2001, ganando dos mundiales consecutivos con Renault en 2005 y 2006 y continuando competiendo a un nivel alto hasta su cuarentena. Su experiencia y retroalimentación técnicas han sido consideradas fuertes, permitiéndole identificar cambios sutiles en el comportamiento del coche y comunicarlos de manera efectiva a sus ingenieros.</summary>
+    <published>2026-10-28T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/</id>
-    <title>[Tecnología] Tesla lanza Full Self-Driving (Supervisado) a través de Turo</title>
-    <updated>2026-10-27T14:24:15.384607+00:00</updated>
+    <id>https://www.f1technical.net/news/29517</id>
+    <title>[Fórmula 1] Cadillac utiliza prácticas de Austin para recopilar datos para el coche de F1 de 2027</title>
+    <updated>2026-10-28T14:18:39.239421+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"/>
-    <summary>Turo, una gigante de alquiler de autos, comenzará a promocionar las Teslas equipadas con el sistema de asistencia al conducción avanzada Full Self-Driving (Supervisado) de Tesla. Los propietarios de los vehículos que alquilen a través de la plataforma recibirán un trámite gratuito de un mes de FSD; Esto podría impulsar la adopción del software, que puede manejar la mayoría de las tareas de conducción pero requiere supervisión humana. Hasta 1,7 millones de clientes han pagado por FSD en todo el mundo, y más del 75% de los clientes que recibieron un vehículo en América del Norte durante el tercer trimestre pagaron por una suscripción. Turo y Tesla están trabajando juntos para acceder directamente a la API de Tesla para verificar cuáles vehículos tienen FSD habilitado; Los propietarios de los vehículos podrán promocionar sus autos como "Autodriven". Los clientes que alquilen un vehículo con FSD a través de Turo recibirán una advertencia para que monitoreen el software y estén preparados para tomar el control en cualquier momento. Los propietarios de los vehículos también podrán ver una tutorial creada por Tesla; El anuncio llega después de que Tesla anunció que había aumentado la cantidad de clientes que pagaron por FSD en el tercer trimestre. El software puede manejar la mayoría de las tareas de conducción, pero requiere supervisión humana; Turo espera que esta integración aumente las ganancias de los propietarios de los vehículos. El software ha sido bien recibido por los clientes, que ya están comprando FSD con un vehículo; Turo y Tesla están trabajando juntos para ofrecer esta experiencia a los clientes; El anuncio también muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes. El software ha sido bien recibido por los clientes, que ya están comprando FSD con un vehículo; Turo y Tesla están trabajando juntos para ofrecer esta experiencia a los clientes. El anuncio también muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes.
+    <link href="https://www.f1technical.net/news/29517"/>
+    <summary>Cadillac ha utilizado las prácticas de viernes en el Gran Premio de Estados Unidos para probar componentes experimentales y explorar posibilidades de configuración. El equipo principal, Marcin Budkowski, explicó que el equipo había detenido el desarrollo de su coche actual y se enfocó en experimentos que ayudarían a definir el paquete para el próximo año. El equipo utilizó el tiempo de pista para investigar direcciones de desarrollo potenciales y explorar cómo el coche respondía a diferentes configuraciones. Budkowski enfatizó que el objetivo es maximizar la información recopilada en cada sesión, más que centrarse en el resultado inmediato. El equipo busca fortalecer su conocimiento colectivo y llevar esas lecciones al próximo año. La estrategia refleja la posición del equipo como un nuevo entrante que aún está desarrollando sus procesos técnicos y experiencia en ingeniería. Budkowski cree que el uso más efectivo del tiempo de pista es fortalecer la conocimiento colectivo del equipo y llevar esas lecciones al próximo año. El equipo busca aumentar su conocimiento y experiencia para el próximo año. El equipo busca maximizar la información recopilada en cada sesión. El equipo busca fortalecer su conocimiento colectivo; El equipo busca llevar esas lecciones al próximo año.
 
 Por qué importa:
-Esta integración puede ser importante porque muestra que Turo está dispuesto a innovar y ofrecer nuevas experiencias a sus clientes. El software Full Self-Driving (Supervisado) de Tesla puede ser un gran atractivo para los clientes que buscan una experiencia de conducción más segura y cómoda; La colaboración entre Turo y Tesla puede ayudar a impulsar la adopción del software y aumentar las ganancias de ambos.</summary>
-    <published>2026-10-26T12:58:40+00:00</published>
+La estrategia de Cadillac refleja su posición como un nuevo equipo que aún está desarrollando sus procesos técnicos y experiencia en ingeniería. El equipo busca fortalecer su conocimiento colectivo y llevar esas lecciones al próximo año.</summary>
+    <published>2026-10-28T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/instagram-is-a-streaming-service-now/</id>
-    <title>[Tecnología] Instagram se convierte en una plataforma de streaming</title>
-    <updated>2026-10-27T14:24:15.384573+00:00</updated>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/</id>
+    <title>[Tecnología] Genie 4, el nuevo modelo de mundo para simulación en tiempo real interactiva</title>
+    <updated>2026-10-28T14:18:39.239384+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>Technology</name>
     </author>
-    <link href="https://www.wired.com/story/instagram-is-a-streaming-service-now/"/>
-    <summary>Instagram anunció planes para expandir tests en EE. UU. que permiten a los creadores subir contenido de larga duración hasta 90 minutos y cambiar la orientación de una video a horizontal. Los creadores también pueden enlazar sus clips cortos directamente a los videos completos. La plataforma busca crear "el mejor lugar para entretenimiento social" con esta actualización. El objetivo es hacer que Instagram se sienta como una plataforma de streaming, permitiendo a los usuarios ver videos más largos en su pantalla grande. Además, se está expandiendo la herramienta de creadores para convertir Reels en contenido episódico. La plataforma también busca hacer que la experiencia de ver videos en la TV sea social, como mostrar a los amigos qué has estado viendo en la sección de amigos. El objetivo es evitar los errores del IGTV, que fue eliminado por Meta después de su lanzamiento en 2018.
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"/>
+    <summary>Google DeepMind ha anunciado el lanzamiento de Genie 4, un nuevo modelo de mundo para simulación en tiempo real interactiva. El modelo incorpora y amplía las capacidades de la familia Gemini, que permite a los simuladores mantener una apariencia y comportamiento realistas. Con Genie 4, los usuarios pueden controlar escenas en tiempo real utilizando lenguaje natural, como cambiar el clima o introducir nuevos personajes. El modelo también genera audio nativo en tiempo real, incluyendo sonidos ambientales, música y diálogo interativo. Esto es crucial para el desarrollo de AGI, permitiendo entornos de entrenamiento seguros para robots y agentes, y ampliando herramientas creativas en industrias como el cine, la prensa, el videojuego y la fabricación. El modelo se está desplegando actualmente a un grupo limitado de pruebas y se lanzará pronto para suscriptores de Google AI Ultra en Project Genie y partners de acceso temprano en Gemini API y AI Studio.
 
 Por qué importa:
-Esta actualización de Instagram busca centralizar la experiencia de los usuarios, permitiéndoles descubrir contenido en diferentes plataformas en un solo lugar. La plataforma busca aprovechar la popularidad de los clips cortos y el contenido de larga duración en diferentes plataformas.</summary>
-    <published>2026-10-27T10:30:00+00:00</published>
+El lanzamiento de Genie 4 es importante porque representa un paso significativo hacia el desarrollo de inteligencia artificial general (AGI), lo que podría tener un impacto profundo en diversas industrias. La capacidad de simular mundos realistas y dinámicos puede ayudar a mejorar la precisión y la eficiencia en aplicaciones como la robótica, la prensa y el videojuego.</summary>
+    <published>2026-10-27T16:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/imac-m6-chip-2000830797</id>
-    <title>[Tecnología] El nuevo iMac no tiene una pantalla OLED, pero es mucho más potente</title>
-    <updated>2026-10-27T14:24:15.384540+00:00</updated>
+    <id>https://gizmodo.com/will-these-crystal-lake-ratings-be-enough-for-a-season-2-2000831439</id>
+    <title>[Tecnología] ¿Serán estas calificaciones de "Crystal Lake" suficientes para una segunda temporada?</title>
+    <updated>2026-10-28T14:18:39.239349+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/imac-m6-chip-2000830797"/>
-    <summary>Apple ha anunciado el nuevo iMac con un chip M6, que es dos generaciones por adelante del chip M4. El nuevo iMac viene en dos configuraciones, con un precio que va desde $1,499 hasta $1,699. La nueva versión del iMac tiene un procesador de 10 cores y un gráfico de 10 cores en la configuración base, y un procesador de 12 cores y un gráfico de 12 cores en la configuración más potente. La nueva versión del iMac también tiene un nuevo procesador de inteligencia artificial, que permite un rendimiento hasta 2 veces más rápido. El nuevo iMac viene con una pantalla de 24 pulgadas con una resolución de 4,5K y un sistema de almacenamiento SSD de hasta 512GB. El nuevo iMac está disponible para preordenar a partir del 28 de octubre y se lanzará el 6 de noviembre. El nuevo iMac viene en siete colores diferentes. La nueva versión del iMac no tiene una pantalla OLED, pero Apple planea lanzarla en el futuro.
+    <link href="https://gizmodo.com/will-these-crystal-lake-ratings-be-enough-for-a-season-2-2000831439"/>
+    <summary>Crystal Lake, una serie de antología de terror estrenada en Peacock, alcanzó el tercer lugar en su primera temporada, con 1.3 billones de minutos vistas en sus primeras 11 días, según los datos de Nielsen. La serie, que sigue a la madre homicida de Jason Voorhees, Pam, ha recibido una gran cantidad de atención en línea, con más de 7.6 millones de video views en sus primeras 11 días. Aunque no parecía tener mucha promoción detrás de ella, Crystal Lake ha demostrado ser una serie exitosa, especialmente en comparación con otras series de terror que se estrenaron al mismo tiempo. El creador de la serie, Brad Caleb Kane, ya ha expresado que tiene ideas para una segunda temporada, que podrían incluir la exploración del pasado de la familia Jarvis o la vida en el pueblo de Crystal Lake. La mayoría de los personajes principales sobrevivieron a la primera temporada, incluyendo a Pam y Jason. La serie tiene un final que deja espacio para una segunda temporada, ya que la madre de Jason es decapitada en el primer filme de la serie.
 
 Por qué importa:
-El nuevo iMac es importante porque ofrece una gran mejora en el rendimiento, lo que lo hace ideal para tareas como la edición de fotos y videos, el juego y la inteligencia artificial. La nueva versión del iMac también es una buena opción para aquellos que buscan un sistema de escritorio potente y fácil de usar.</summary>
-    <published>2026-10-27T13:29:46+00:00</published>
+La importancia de Crystal Lake radica en que ofrece una nueva perspectiva sobre la franquicia de Friday the 13th, permitiendo a los espectadores conocer mejor a los personajes y su historia. La serie ha demostrado ser una opción atractiva para los fanáticos de terror y los nuevos espectadores, lo que podría significar una segunda temporada si Peacock decide renovarla.</summary>
+    <published>2026-10-28T12:30:40+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better/</id>
-    <title>[Tecnología] Libretas vs. teléfonos foldables: ¿cuál es mejor para tus necesidades diarias?</title>
-    <updated>2026-10-27T14:24:15.384503+00:00</updated>
+    <id>https://www.wired.com/gallery/best-kindle/</id>
+    <title>[Tecnología] La mejor Kindle de 2026 (hasta ahora)</title>
+    <updated>2026-10-28T14:18:39.239312+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/gallery/best-kindle/"/>
+    <summary>La Kindle Paperwhite de 2026 es una buena opción para la mayoría de los lectores, con un buen equilibrio de características. El modelo de 2026 tiene un peso ligeramente menor y un cuerpo ligeramente más pequeño que el de 2024; La versión de Signatura agrega un marco de aluminio y dos colores hermosos. El modelo de 2024 Kindle y el modelo de 2026 Kindle son opciones a considerar si se busca gastar el menos; La Kindle Aluminum tiene un marco de aluminio, pero no tiene tantas características como la versión de Signatura. La Kindle Colorsoft tiene una pantalla de color, pero no es una necesidad para los adultos; La Kindle Scribe es una buena opción para los estudiantes que quieren tomar notas digitales y leer. La segunda generación del Kindle Scribe, lanzada en 2024, tiene una pantalla de 10,2 pulgadas con una resolución de 300 ppi y una vida de batería de hasta 12 semanas. El Kindle Scribe Colorsoft tiene una pantalla de color y una vida de batería más corta que la versión sin pantalla de color; El Kindle Scribe sin luz frontal tiene una pantalla de 11 pulgadas y una vida de batería de hasta 12 semanas. El Kindle Aluminum de 2026 tiene un cuerpo de aluminio y una pantalla de 6 pulgadas con una resolución de 300 ppi; El Kindle Scribe Colorsoft de 2026 tiene una pantalla de color y una vida de batería de hasta 12 semanas. El Kindle Click es un remoto de página Bluetooth que se puede conectar a cualquier Kindle sin necesidad de un dongle adicional. El Kindle Page-Turn Cover es una tapa con botones de página que se puede conectar a los Kindle Paperwhite Signature Edition y Kindle Colorsoft Signature Edition; El Amazon Wireless Charging Stand es una estación de carga inalámbrica que se puede conectar a cualquier Kindle. Amazon ha aumentado sus precios en varias categorías, incluyendo dispositivos Kindle, dejando solo los modelos Kindle Scribe con sus precios originales; La marca Bondi tiene casos para los modelos Kindle antiguos con un diseño completamente magnético.
+
+Por qué importa:
+La Kindle Paperwhite de 2026 es una buena opción para aquellos que buscan un dispositivo de lectura con un buen equilibrio de características; La versión de Signatura agrega un toque de lujo con su marco de aluminio y dos colores hermosos. Sin embargo, es importante considerar que Amazon ha aumentado sus precios en varias categorías, incluyendo dispositivos Kindle, lo que puede ser un obstáculo para algunos consumidores.</summary>
+    <published>2026-10-28T13:02:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/</id>
+    <title>[Tecnología] FCC aprobó a Amazon Leo para adquirir operador de satélites móviles Globalstar</title>
+    <updated>2026-10-28T14:18:39.239278+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better/"/>
-    <summary>Los teléfonos foldables se dividen en dos tipos principales: libretas y teléfonos con una pantalla de libro. Los libretas tienen una pantalla externa que permite acceder a información básica, mientras que los teléfonos con una pantalla de libro tienen una pantalla más grande que se abre desde la derecha hacia la izquierda. Los libretas son ideales para aquellos que buscan un dispositivo compacto con información visible en la pantalla externa, mientras que los teléfonos con una pantalla de libro son mejores para aquellos que buscan una experiencia más inmersiva con una pantalla más grande. Los libretas son más pequeños y fáciles de usar con una mano, mientras que los teléfonos con una pantalla de libro son más grandes y pueden consumir más batería. La elección entre estos dos tipos de teléfonos depende de las necesidades personales y de cómo se planea utilizar el dispositivo. Ambos tipos de teléfonos ofrecen ventajas con pantallas dobles, como la capacidad de utilizar traducciones en vivo en dos lados o la capacidad de preview las fotos con la cámara externa. Los teléfonos con una pantalla de libro también pueden funcionar como un soporte, sentados de pie o en una posición tentada, para tomar fotos, video llamadas y más. Los teléfonos con una pantalla de libro están ganando popularidad, con investigaciones que indican que pueden superar las libretas en envíos en 2026, especialmente con nuevos modelos emocionantes como el iPhone Duo. La popularidad de estos teléfonos se debe a que ofrecen una solución atractiva para aquellos que buscan un dispositivo con más memoria, ya que pueden funcionar como tanto un teléfono como una tableta. Sin embargo, los teléfonos con una pantalla de libro también consumen más batería debido a la necesidad de alimentar dos pantallas grandes; La elección entre estos dos tipos de teléfonos depende de lo que se prioriza más y de cómo se planea utilizar el dispositivo.
+    <link href="https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/"/>
+    <summary>El acuerdo de Amazon Leo con Globalstar por valor de $11.5 mil millones ha sido aprobado por la FCC. El objetivo es expandir el espacio de Leo y ofrecer servicios directos a dispositivo. La empresa tiene 400 satélites en órbita y ha lanzado servicios de internet satelital de alta calidad en Uzbekistán. El acuerdo beneficiará a la sociedad al mejorar la cobertura de datos en áreas desatendidas. La FCC considera que el acuerdo es beneficioso para el público. La empresa tiene planes de lanzar más de 3.000 satélites en órbita baja en el futuro. El acuerdo también incluye la colaboración con Delta para ofrecer internet satelital en vuelo.
 
 Por qué importa:
-Los teléfonos foldables ofrecen una solución innovadora para aquellos que buscan un dispositivo que combine las características de un teléfono y una tableta. La elección entre libretas y teléfonos con una pantalla de libro depende de las necesidades personales y de cómo se planea utilizar el dispositivo.</summary>
-    <published>2026-10-27T13:45:00+00:00</published>
+La aprobación de la FCC es importante porque amplía el alcance de Amazon Leo y ofrece servicios directos a dispositivo, lo que puede mejorar la experiencia de los usuarios. La empresa busca expandir su presencia en el mercado de internet satelital y ofrecer servicios más eficientes y accesibles.</summary>
+    <published>2026-10-28T13:13:19+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</id>
-    <title>[Tecnología] Apple rolls out iOS 27.2 con nuevos idiomas de Siri y correcciones de seguridad</title>
-    <updated>2026-10-27T14:24:15.384468+00:00</updated>
-    <author>
-      <name>TechCrunch</name>
-    </author>
-    <link href="https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"/>
-    <summary>Apple ha lanzado su última actualización de iOS 27.2 para iPhones y iPads, que incluye soporte para nuevos idiomas y mejoras en la función de Siri AI. Con esta actualización, Siri AI puede ahora ser utilizada en francés, japonés, coreano, portugués y español, en versión beta. La función de Siri AI puede recordar detalles de conversaciones pasadas y responder de manera más precisa. Además, la actualización incluye correcciones de seguridad de más de 160 problemas. La empresa también ha agregado nuevas características a la aplicación de mensajes, como sugerencias de mensajes y respuestas de Siri. Los usuarios también pueden utilizar la función de Apple Pencil en la aplicación Notes y Preview. La actualización también incluye mejoras en la aplicación de Podcasts y la capacidad de ver múltiples streams de deportes en vivo. La empresa ha también agregado una nueva función para FaceTime, que permite agregar un intérprete de signos o un captioner en vivo. La actualización también incluye correcciones de seguridad para usuarios de iOS 26 y 18.
-
-Por qué importa:
-La actualización de iOS 27.2 es importante porque incluye nuevas características y mejoras en la función de Siri AI, lo que puede mejorar la experiencia del usuario. Además, la actualización incluye correcciones de seguridad de más de 160 problemas, lo que puede ayudar a proteger a los usuarios de vulnerabilidades; La empresa ha también agregado nuevas características a la aplicación de mensajes y la aplicación de Podcasts, lo que puede mejorar la experiencia del usuario.</summary>
-    <published>2026-10-27T13:54:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions</id>
-    <title>[Tecnología] Apple anuncia touchscreen MacBook Pro</title>
-    <updated>2026-10-27T14:24:15.384435+00:00</updated>
+    <id>https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts</id>
+    <title>[Tecnología] X usa un brazo animado para promocionar publicaciones pagadas</title>
+    <updated>2026-10-28T14:18:39.239244+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions"/>
-    <summary>Apple espera anunciar un MacBook Pro con pantalla táctil en su evento "Pro and Tell" de mañana. El dispositivo se espera que tenga una pantalla OLED, un diseño más delgado y ligero, y una interfaz táctil. La empresa también está trabajando en una versión revisada de macOS 27 Golden Gate con características táctiles. El MacBook Pro se espera que tenga un precio más alto debido a la pantalla OLED. La empresa no ha confirmado si el dispositivo será compatible con el Apple Pencil. El anuncio representa un cambio significativo en la línea de MacBook Pros. El evento de mañana será importante para los fanáticos de Apple. El MacBook Pro con pantalla táctil se espera que sea lanzado en el futuro cercano.
+    <link href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts"/>
+    <summary>En X, después de que Elon Musk advirtió que los anunciantes que publican publicaciones engañosas o exageradas serán excluidos de la publicidad, el plataforma ha agregado un brazo animado que se extiende por la pantalla para promocionar el botón de promoción de publicaciones. Este brazo solo se muestra a usuarios verificados o con suscripción a X Premium. Las reacciones han sido negativas, con algunos usuarios expresando su sorpresa y molestia por el uso de este elemento. El uso de la función de promoción de publicaciones permite que las publicaciones lleguen a un público más amplio, basado en ubicación, intereses o demografía. Las publicaciones promocionadas tienen un marcador "promocionada" o "anuncio". El brazo animado se ha compartido en Twitter y ha generado reacciones negativas de usuarios.
 
 Por qué importa:
-El anuncio de Apple de un MacBook Pro con pantalla táctil es un evento significativo en la industria de los ordenadores portátiles; La empresa ha sido cautelosa con su enfoque en la tecnología táctil en el pasado, pero parece estar dispuesta a innovar en este área. El lanzamiento de un MacBook Pro con pantalla táctil podría ser un paso importante hacia la convergencia de los ordenadores portátiles y los dispositivos móviles.</summary>
-    <published>2026-10-27T14:00:00+00:00</published>
+Este cambio en X es importante porque puede afectar la experiencia de los usuarios y la transparencia en la publicidad.</summary>
+    <published>2026-10-28T13:26:39+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/robert_breen_d96e41ecd765/looker-studio-replace-the-monday-ga4-screenshot-email-with-a-one-page-website-dashboard-3ddf</id>
-    <title>[Programación] Una guía paso a paso para crear un dashboard de Google Analytics 4 en Looker Studio</title>
-    <updated>2026-10-27T14:24:15.384399+00:00</updated>
+    <id>https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/</id>
+    <title>[Tecnología] Meta tiene una nueva aplicación de AI llamada Waddle World</title>
+    <updated>2026-10-28T14:18:39.239210+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://dev.to/robert_breen_d96e41ecd765/looker-studio-replace-the-monday-ga4-screenshot-email-with-a-one-page-website-dashboard-3ddf"/>
-    <summary>En este artículo, se presenta una guía paso a paso para crear un dashboard de Google Analytics 4 en Looker Studio. El dashboard incluye tres scorecards, una gráfica de tendencia, una tabla de canales y un control de fecha. El objetivo es proporcionar una solución fácil de implementar para pequeñas oficinas que buscan mejorar su análisis de tráfico web. El dashboard se puede personalizar y compartir con otros usuarios, lo que facilita la colaboración y la toma de decisiones. El tutorial cubre los pasos necesarios para conectar Google Analytics 4 a Looker Studio, crear el dashboard y personalizarlo según las necesidades. El resultado es un dashboard intuitivo y fácil de usar que proporciona una visión clara de los datos de tráfico web.
+    <link href="https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"/>
+    <summary>Meta ha lanzado una nueva aplicación llamada Waddle World, que es similar a Tamagotchi pero con inteligencia artificial. La aplicación se puede descargar en iOS y Android y permite a los usuarios criar y cuidar un pet virtual, alimentarlo y jugar con él. La aplicación no es un chatbot ni un asistente, sino una aplicación para relajarse y escapar del día a día. La aplicación también tiene una función de diario y mini-juegos que se pueden jugar en unos pocos minutos. La aplicación se lanzó en Filipinas y se puede descargar en iOS y Android. No se ha confirmado la disponibilidad en otros países.
 
 Por qué importa:
-La creación de un dashboard de Google Analytics 4 en Looker Studio es una herramienta valiosa para pequeñas oficinas que buscan mejorar su análisis de tráfico web; Con este dashboard, los usuarios pueden visualizar de manera rápida y fácil los datos de tráfico web, incluyendo las tendencias y los canales de origen; El dashboard se puede personalizar y compartir con otros usuarios, lo que facilita la colaboración y la toma de decisiones. En resumen, el dashboard de Looker Studio es una herramienta útil para cualquier empresa que busque mejorar su análisis de tráfico web y tomar decisiones informadas.</summary>
-    <published>2026-10-26T12:58:00+00:00</published>
+Waddle World es una aplicación interesante de Meta que explora la idea de compañeros de AI. La aplicación puede ser vista como una forma de experimentar con la inteligencia artificial en un entorno más relajado y divertido.</summary>
+    <published>2026-10-28T13:53:31+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/robert_breen_d96e41ecd765/airia-test-your-hr-agent-before-60-people-use-it-an-evaluation-scored-92-and-the-vacation-1jj1</id>
-    <title>[Programación] Testa tu agente de RRHH antes de que 60 personas lo utilicen. Una puntuación de 92% y la respuesta vacacional sigue siendo incorrecta.</title>
-    <updated>2026-10-27T14:24:15.384363+00:00</updated>
+    <id>https://css-tricks.com/whats-important-19/</id>
+    <title>[Programación] CSS Refraction Effects, Scroll State Queries, @custom-media, y más</title>
+    <updated>2026-10-28T14:18:39.239173+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>CSS-Tricks</name>
     </author>
-    <link href="https://dev.to/robert_breen_d96e41ecd765/airia-test-your-hr-agent-before-60-people-use-it-an-evaluation-scored-92-and-the-vacation-1jj1"/>
-    <summary>Un agente de RRHH que responde a preguntas de empleados parece un ganador fácil. Sin embargo, si sus respuestas son incorrectas, puede crear problemas para la HR. Un agente es útil solo si sus respuestas son las del handbook. Una respuesta incorrecta, incluso si es polite y confiada, puede crear un problema que la HR debe resolver. Una evaluación en Airia ayuda a detectar este problema antes de que el agente se libere. La evaluación crea un conjunto de preguntas y respuestas, y un modelo de juicio evalúa cada respuesta. La puntuación de la evaluación es de 92%, pero esto no significa que el agente es confiable. Es importante revisar cada respuesta y verificar que el handbook sea la fuente de datos correcta. La evaluación es importante para detectar errores antes de que el agente se libere.
+    <link href="https://css-tricks.com/whats-important-19/"/>
+    <summary>El número 19 de "What's !important" ha llegado con una gran cantidad de contenido. Mat Marquis recomendó su curso de JavaScript para Everyone, que está actualmente con un 30% de descuento. Preethi Sam demostró cómo crear efectos de refracción de fondo con CSS, mientras que Brecht De Ruyte mostró cómo crear componentes personalizables con queries de estilo de contenedor y atr(). Dan Holloran demostró cómo usar las queries de estado de desplazamiento (scrollable, scrolled, snapped y stuck). Declan Chidlow compartió algunos de los CSS más locos que existen, mientras que Bramus demostró cómo animar grids de CSS utilizando posición de enlace. Chris Coyier habló sobre nuevas características de HTML y Cory LaViska demostró cómo usar @custom-media con queries de estilo de contenedor. Ahmad Shadeed abordó el tema de detectar elementos superpuestos con CSS, mientras que Patrick Brosset presentó una propuesta para el atributo src de preview HTML. Temani Afif compartió un demo de bordes personalizados y Leon Arnott demostró cómo animar el color de selección con CSS. Finalmente, Chris Coyier demostró cómo animar un elemento aleatoriamente a lo largo de la frontera de otro elemento, y Polypane explicó cómo deshabilitar el escrolador de raíz accidentalmente.
 
 Por qué importa:
-La evaluación en Airia es una herramienta que ayuda a detectar errores en los agentes de RRHH antes de que se liberen; Es importante testear el agente antes de que se utilice para evitar problemas; La evaluación crea un conjunto de preguntas y respuestas, y un modelo de juicio evalúa cada respuesta. La puntuación de la evaluación es de 92%, pero esto no significa que el agente es confiable; Es importante revisar cada respuesta y verificar que el handbook sea la fuente de datos correcta.</summary>
-    <published>2026-10-26T12:58:49+00:00</published>
+Este número de "What's !important" es una gran fuente de información para los desarrolladores front-end; Los artículos cubren una amplia gama de temas, desde efectos de refracción de fondo hasta queries de estilo de contenedor y animaciones de CSS. Los lectores encontrarán consejos prácticos y tutoriales detallados para mejorar sus habilidades en CSS y aprender nuevas tecnologías.</summary>
+    <published>2026-10-27T15:09:16+00:00</published>
   </entry>
   <entry>
-    <id>https://noteuniverse.com/blog/building-a-music-engraving-system/</id>
-    <title>[Programación] Construyendo un motor de engravado musical desde cero</title>
-    <updated>2026-10-27T14:24:15.384326+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://noteuniverse.com/blog/building-a-music-engraving-system/"/>
-    <summary>El autor ha estado trabajando en una solución de engravado musical durante dos años. El engravado musical es la representación de la música en forma escrita. El autor utiliza una combinación de técnicas de engravado musical y de procesamiento de imágenes para generar la música en forma escrita. El sistema de engravado musical se basa en 'springs and rods' para interactuar entre sí. El autor ha encontrado que el enfoque imperativo es más simple de implementar y adecuado para el conjunto de características iniciales. El sistema se puede minimizar para obtener la disposición más 'aceptable' según las prioridades relativas. El autor ha encontrado que el libro "Behind Bars" de Elaine Gould es una referencia valiosa para el proyecto. El sistema de engravado musical debe seguir las reglas de la "cuenca de visión" para evitar que la música parezca "de la caza de tiburones". El autor ha encontrado que el enfoque de prueba de culling utiliza la posición y el rectángulo de bounding box para verificar rápidamente si un Renderable debe ser dibujado. El autor ha encontrado que el enfoque de prueba de engraver es utilizado para probar el engraver en aislamiento sin depender del resto del pipeline de renderizado.
-
-Por qué importa:
-El engravado musical es una ciencia y un arte que ha sido estudiado y practicado durante mucho tiempo. La historia del engravado musical es fascinante, pero en resumen, hemos llegado a un conjunto de prácticas observadas ampliamente para representar la música en forma escrita.</summary>
-    <published>2026-10-26T23:51:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giorgi.dev/database/duckdb-net-1-5-6-1-data-reader-performance/</id>
-    <title>[Programación] DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster</title>
-    <updated>2026-10-27T14:24:15.384287+00:00</updated>
+    <id>https://lwn.net/SubscriberLink/1102102/489e41d80e4966aa/</id>
+    <title>[Programación] Python jettisons the native JIT, at least for now</title>
+    <updated>2026-10-28T14:18:39.239135+00:00</updated>
     <author>
       <name>programming</name>
     </author>
-    <link href="https://www.giorgi.dev/database/duckdb-net-1-5-6-1-data-reader-performance/"/>
-    <summary>DuckDB.NET 1.5.6.1 ha mejorado significativamente las velocidades de lectura de datos, con un aumento del 3.5 a 6 veces en comparación con DuckDB.NET 1.5.6. Además, se redujo el tiempo de ejecución de varios métodos, como GetDouble, GetInt64, GetInt32 y GetString. La función GetInt32 utiliza dos mov instrucciones para realizar el trabajo y se ha inliniado con GetFieldValue y ReadValidValue. DuckDB.NET 1.5.6.1 también reduce la cantidad de allocations de 2.8 GB a 93 KB. La función ReadInt32 realiza dos cargas y una llamada; DuckDB.NET 2.0 incluye todos los cambios de DuckDB.NET 1.5.6.1. La mejora en las velocidades de lectura de datos permite leer datos hasta 12 veces más rápido que antes. La reducción del tiempo de ejecución de los métodos también mejora la eficiencia del sistema. DuckDB.NET 1.5.6.1 es una versión más rápida y eficiente de la anterior. La mejora en las velocidades de lectura de datos también es beneficiosa para aplicaciones que requieren grandes cantidades de datos. La reducción del tiempo de ejecución de los métodos también permite una mejor experiencia para los usuarios.
+    <link href="https://lwn.net/SubscriberLink/1102102/489e41d80e4966aa/"/>
+    <summary>El consejo de Python anunció que estaba pausando el trabajo en la just-in-time (JIT) en CPython's main branch en junio de 2024. El PEP 836, que buscaba hacer del JIT una parte soportada de CPython, fue retirado el 19 de octubre. El trabajo en JIT se detendrá en el repositorio principal, pero la comunidad decidirá si seguirá adelante con el trabajo. El consejo expresó preocupación por las decisiones de diseño del JIT sin revisión crítica por parte de los desarrolladores. El JIT probablemente será eliminado de CPython main pronto para solucionar cualquier problema causado por su eliminación en el ciclo de desarrollo de Python 3.16. El grupo de trabajo del JIT agradeció la retroalimentación del consejo y dijo que trabajarían en las sugerencias. El consejo estableció un alto nivel de calidad para una propuesta de este alcance, por lo que el grupo no tiene la banda de personal necesaria para seguir adelante con la versión actual.
 
 Por qué importa:
-DuckDB.NET 1.5.6.1 es una versión importante de la biblioteca de datos DuckDB.NET; La mejora en las velocidades de lectura de datos es beneficiosa para aplicaciones que requieren grandes cantidades de datos. La reducción del tiempo de ejecución de los métodos también mejora la eficiencia del sistema y proporciona una mejor experiencia para los usuarios.</summary>
-    <published>2026-10-27T09:06:20+00:00</published>
+La decisión del consejo de Python de pausar el trabajo en la JIT en CPython's main branch es importante porque afectará directamente la forma en que se ejecutan las aplicaciones de Python. El JIT es una tecnología que busca mejorar el rendimiento de las aplicaciones de Python, pero su eliminación podría tener consecuencias en la estabilidad y la seguridad de las aplicaciones.</summary>
+    <published>2026-10-28T01:55:34+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/kimmmming/deepseek-api-pricing-2026-is-it-really-the-cheapest-18ie</id>
-    <title>[Programación] DeepSeek API Pricing 2026: ¿Es realmente el más barato?</title>
-    <updated>2026-10-27T14:24:15.384230+00:00</updated>
+    <id>https://blog.codinghorror.com/suffering-as-a-feature/</id>
+    <title>[Programación] Suffering as a Feature</title>
+    <updated>2026-10-28T14:18:39.239098+00:00</updated>
+    <author>
+      <name>Coding Horror</name>
+    </author>
+    <link href="https://blog.codinghorror.com/suffering-as-a-feature/"/>
+    <summary>El autor de la página web describe cómo creó un gráfico que muestra la desigualdad de riqueza en Estados Unidos, con 36 millones de personas viviendo en la pobreza. El gráfico es largo y desafiante de escalar, lo que simboliza la dificultad de vivir con poco dinero. El autor sostiene que la desigualdad de riqueza es un problema grave que requiere atención. El gráfico también muestra que la riqueza más extrema en el país se encuentra en manos de unos pocos. El autor invita a los usuarios a escalar el gráfico y reflexionar sobre la situación. El gráfico es una forma de concienciar sobre la desigualdad de riqueza y su impacto en la sociedad. El autor considera que el gráfico es una forma de "suf sufriente" que requiere la participación activa del usuario. El gráfico es una herramienta para entender la magnitud de la desigualdad de riqueza en Estados Unidos.
+
+Por qué importa:
+El autor de la página web, que ha estado trabajando en la desigualdad de riqueza durante años, creó el gráfico para concienciar sobre el problema. El autor sostiene que la desigualdad de riqueza es un problema grave que requiere atención y acción; El gráfico es una forma de mostrar la magnitud del problema y su impacto en la sociedad.</summary>
+    <published>2026-10-28T06:17:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.benjoffe.com/fast-floordiv</id>
+    <title>[Programación] Una forma más rápida de calcular la división por piso de 64 bits</title>
+    <updated>2026-10-28T14:18:39.239054+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://www.benjoffe.com/fast-floordiv"/>
+    <summary>La división por piso es una técnica de división que redondea hacia −∞, mientras que la división estándar redondea hacia 0. La función de división por piso puede ser mucho más rápida de lo que se imagina y se puede utilizar en aplicaciones de 32 bits o SIMD, pero el mayor beneficio es en 64 bits. El autor presenta una forma más rápida de calcular la división por piso de 64 bits, que utiliza técnicas de multiplicación y desplazamiento para reducir el número de operaciones necesarias. La solución se basa en la identidad de suma y máscara, que se puede utilizar para una mayor velocidad en ciertos casos. El autor también analiza los beneficios y limitaciones de diferentes algoritmos de división por piso y presenta resultados de benchmarking en 64 bits. La solución se puede implementar de diferentes maneras, incluyendo la selección de signo y el uso de máscaras. El autor concluye que la función de división por piso puede ser una herramienta útil para aplicaciones que requieren una mayor velocidad y precisión en la división.
+
+Por qué importa:
+La división por piso es una técnica importante en la programación, ya que puede ser más rápida y eficiente que la división estándar en ciertas situaciones; La función de división por piso se puede utilizar en aplicaciones de 32 bits o SIMD, pero el mayor beneficio es en 64 bits, donde se puede aprovechar la arquitectura de procesadores para mejorar la velocidad y la precisión. La solución presentada por el autor es una forma más rápida de calcular la división por piso de 64 bits, que puede ser útil en aplicaciones que requieren una mayor velocidad y precisión en la división.</summary>
+    <published>2026-10-28T11:05:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/ail_akram_dcc5063c428734b/conquests-ai-financial-advice-engine-now-connects-to-claude-what-advisors-need-to-know-30o3</id>
+    <title>[Programación] Conquest conecta su motor de asesoramiento financiero AI a Claude</title>
+    <updated>2026-10-28T14:18:39.238999+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/kimmmming/deepseek-api-pricing-2026-is-it-really-the-cheapest-18ie"/>
-    <summary>DeepSeek, conocido por sus modelos de alta calidad a precios reducidos, tiene un precio listado oficial único entre los principales proveedores. Los precios dependen del momento del día y de si el prompt golpea la caché. El artículo analiza los precios oficiales de ambos modelos actuales, los costos mensuales durante las horas de pico y off-peak, y determina si DeepSeek es el más barato. Los precios de los modelos más bajos, como GPT-6 Luna y Claude Haiku-class, pueden ser más baratos que el modelo Flash de DeepSeek durante las horas off-peak. Sin embargo, el modelo flagship de DeepSeek, el deepseek-v4-pro, es el más barato en comparación con los modelos más bajos. Los cache hits en el modelo Flash pueden reducir significativamente el precio. Los precios pueden cambiar, por lo que se recomienda verificar la página oficial de DeepSeek antes de comprometer un presupuesto. Los modelos R1 y otros antiguos no están más disponibles en la lista oficial.
+    <link href="https://dev.to/ail_akram_dcc5063c428734b/conquests-ai-financial-advice-engine-now-connects-to-claude-what-advisors-need-to-know-30o3"/>
+    <summary>Conquest anunció un connector que coloca su motor de asesoramiento financiero AI, Conquest AI, dentro de Claude el 27 de octubre de 2026. Conquest Planning, una herramienta de planificación de Conquest, se conecta a Claude a través del connector. SAM, el motor de asesoramiento financiero AI de Conquest, es un motor determinista que realiza cálculos y rankings de estrategias. Conquest afirma que su motor de asesoramiento financiero AI, SAM, ha sido utilizado por más de 75% de asesores financieros en Canadá. El connector de Conquest permite a los asesores financieros acceder a SAM a través de conversación natural en Claude. Conquest es explícita en que su motor de asesoramiento financiero AI, SAM, no es un modelo de lenguaje natural generativo (LLM) ni de inteligencia artificial generativa. La integración de Conquest con Claude utiliza un audit trail para hacer que las proyecciones financieras sean verificables. La integración de Conquest con Claude no reemplaza a los asesores financieros humanos. Firms deben revisar consideraciones de seguridad y cumplimiento, como acceso, autenticación, residencia de datos y certificación.
 
 Por qué importa:
-Es importante comprender los precios de DeepSeek para tomar decisiones informadas sobre su uso; Los precios dependen del momento del día y de si el prompt golpea la caché, lo que puede afectar significativamente el costo. Los modelos más bajos, como GPT-6 Luna y Claude Haiku-class, pueden ser más baratos que el modelo Flash de DeepSeek durante las horas off-peak, pero el modelo flagship de DeepSeek, el deepseek-v4-pro, es el más barato en comparación con los modelos más bajos; Los cache hits en el modelo Flash pueden reducir significativamente el precio, lo que lo hace una opción atractiva para aquellos que buscan un modelo de alta calidad a un precio razonable.</summary>
-    <published>2026-10-27T13:58:22+00:00</published>
+La conexión de Conquest con Claude es importante porque permite a los asesores financieros acceder a herramientas de planificación y análisis de riesgos de alta calidad. La integración de Conquest con Claude también permite a las empresas mejorar la eficiencia y la productividad en sus operaciones de planificación financiera.</summary>
+    <published>2026-10-28T13:57:46+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/iris_khan_dev/cool-fonts-are-not-fonts-the-complete-guide-to-unicode-text-styles-23jj</id>
-    <title>[Programación] Cool Fonts Are Not Fonts: The Complete Guide to Unicode Text Styles</title>
-    <updated>2026-10-27T14:24:15.384106+00:00</updated>
+    <id>https://dev.to/faladetimilehin/babokr-guide-v3-requirements-analysis-and-design-definition-radd-5196</id>
+    <title>[Programación] Guide de RADD v3: Análisis de requisitos y definición de diseño</title>
+    <updated>2026-10-28T14:18:39.238906+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
-    <link href="https://dev.to/iris_khan_dev/cool-fonts-are-not-fonts-the-complete-guide-to-unicode-text-styles-23jj"/>
-    <summary>La guía completa sobre los estilos de texto Unicode incluye información sobre los bloques de símbolos matemáticos, televisión y texto completo. La mayoría de los caracteres en estos bloques se encuentran por encima de U+FFFF, fuera del plano básico multilingüe. La normalización de texto puede ocurrir después de la conversión, y puede incluir el proceso NFKC, que vuelve a formar caracteres compatibles. La confusabilidad de los caracteres es un problema, ya que algunos caracteres pueden ser confundidos con otros. La mayoría de las plataformas tienen sus propias reglas para la validación, los fuentes y la normalización. La cantidad de hechos concretos y autosuficientes extraídos es 7. El uso de fuentes "cool" no es un problema en sí mismo, pero la impersonación puede ser un problema. La falta de glyphes en algunos dispositivos puede causar que el texto se muestre en forma de cajas vacías.
+    <link href="https://dev.to/faladetimilehin/babokr-guide-v3-requirements-analysis-and-design-definition-radd-5196"/>
+    <summary>El Guide de RADD v3 es una herramienta para garantizar que los requisitos y diseños sean claros, completos, consistentes y alineados con los objetivos de la empresa. El Business Analyst debe organizar, analizar, modelar, verificar y validar la información para guiar el desarrollo o la selección de una solución adecuada. Un hospital introduce un sistema de recordatorios automáticos de citas debido a las citas perdidas que reducen la capacidad de servicio y desperdician recursos clínicos. El sistema de citas necesita datos de pacientes, fechas de citas, información de clínicos y estado de reserva. Un análisis financiero ayuda a evaluar los costos y los beneficios financieros esperados de una solución. El ROI es una medida utilizada para evaluar los beneficios financieros relativos a la inversión. El RADD utiliza seis tareas: análisis de valor y recomendación de solución, especificación y modelado de requisitos, verificación, validación, organización de requisitos y diseños, evaluación de valor y recomendación de solución. El objetivo final del RADD es reflejar un entendimiento acordado de la necesidad de negocio y el valor de la solución. La verificación de requisitos es importante para asegurar que los requisitos sean de alta calidad y relevantes para las personas afectadas por el cambio.
 
 Por qué importa:
-La guía completa sobre los estilos de texto Unicode es importante porque puede ayudar a entender cómo funcionan los caracteres y cómo se pueden utilizar de manera efectiva. La información proporcionada puede ser útil para diseñadores de fuentes, programadores y cualquier persona que se interese en la creación de contenido en línea.</summary>
-    <published>2026-10-27T13:58:50+00:00</published>
+El Guide de RADD v3 es una herramienta esencial para los Business Analysts que buscan garantizar que los requisitos y diseños sean claros, completos y alineados con los objetivos de la empresa. La implementación de un sistema de recordatorios automáticos de citas en un hospital es un ejemplo de cómo el RADD puede ayudar a abordar las necesidades del negocio.</summary>
+    <published>2026-10-28T13:57:47+00:00</published>
   </entry>
 </feed>
