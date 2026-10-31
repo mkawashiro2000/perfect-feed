@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-30T13:21:12.723902+00:00</updated>
+  <updated>2026-10-31T14:21:27.241604+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html</id>
-    <title>[Economía] AI build-out hits snag as Google and Microsoft put off raising capex forecasts</title>
-    <updated>2026-10-30T13:21:12.725041+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html"/>
-    <summary>La empresa de tecnología Microsoft y Alphabet, la empresa que gestiona el buscador Google, han reducido sus previsiones de inversión en capital (capex) para el año en comparación con las expectativas de los analistas. Esto se debe a que los terceros que proveen unidades de procesamiento gráfico (GPU) han experimentado retrasos que afectarán la disponibilidad de capacidad hasta mediados de 2027. A pesar de esto, las empresas siguen invirtiendo en la infraestructura de inteligencia artificial (IA) y sus acciones han sido afectadas. Las acciones de empresas como CoreWeave, Nebius e IREN han caído después de los informes; Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada; Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada. Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada.
-
-Por qué importa:
-La reducción de las previsiones de capex de Microsoft y Alphabet puede ser un punto de preocupación para el mercado de la inteligencia artificial (IA). Las empresas de tecnología siguen invirtiendo en la infraestructura de IA, aunque con una inversión más moderada.</summary>
-    <published>2026-10-29T12:10:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html</id>
-    <title>[Economía] Tercer cuarto del PIB de EE. UU. aumenta un 3.4% mejor que se esperaba</title>
-    <updated>2026-10-30T13:21:12.725007+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"/>
-    <summary>El PIB de EE; UU; creció a un ritmo del 3.4% en el tercer cuarto, superando las expectativas, mientras que la inflación aumentó en septiembre. El índice de precios de las compras personales aumentó un 0.5% en septiembre, lo que eleva el ritmo anual de inflación a 3.6%. La economía también creció más rápido que se esperaba, con un aumento del 3.4% en el tercer cuarto, mejor que el 3.1% estimado y el 2.2% del segundo cuarto. El consumo de los hogares aumentó un 0.5%, ligeramente por debajo de la proyección de un aumento del 0.6%, mientras que el ingreso personal aumentó un 0.2%, en contra de la proyección de un aumento del 0.3%. La inflación sigue por encima del objetivo del Banco Central de 2%. A pesar de los datos positivos, el Banco Central decidió mantener la tasa de interés en un rango de 3.75% a 4%. La tasa de desempleo sigue siendo baja, con 194,000 personas sin trabajo en el último semana. El crecimiento económico se ha impulsado por la inversión en inteligencia artificial y el consumo de los hogares y el gobierno. El consumo de los hogares aumentó un 3.8% en el tercer cuarto, lo mismo que en el período anterior. La inversión privada aumentó un 19.4%, impulsada por un aumento del 20.9% en la inversión en equipo y un aumento del 8.4% en la inversión en propiedades intelectuales.
-
-Por qué importa:
-La noticia es importante porque refleja la situación actual de la economía de EE; UU; y cómo está afectada por la inflación y la tasa de interés. El Banco Central debe tomar decisiones informadas sobre su política monetaria para mantener la estabilidad económica.</summary>
-    <published>2026-10-29T12:55:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html</id>
-    <title>[Economía] Acquiere Instacart DoorDash por $17 billion</title>
-    <updated>2026-10-30T13:21:12.724975+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html"/>
-    <summary>DoorDash anunció su intención de adquirir Instacart por aproximadamente $17 billion. El acuerdo se cerrará a finales de 2027 o principios de 2028. DoorDash pagará $65 por acción en efectivo y acciones, un 11% de premium sobre el precio de cierre de Instacart el miércoles. El CEO de DoorDash, Tony Xu, dijo que la combinación podría darle a los stores más herramientas y potencial de entrega de alimentos. DoorDash reportó sus resultados del tercer trimestre junto con la noticia. Las ganancias ajustadas por acción fueron $1.06, superando la estimación de los analistas de 84 centavos por acción. La venta de mercado de ordenes creció un 36% anualmente a $33.9 billion.
-
-Por qué importa:
-La adquisición podría darle a DoorDash una mayor presencia en la entrega de alimentos en línea. DoorDash se ha centrado en la entrega de alimentos y ha agregado más tiendas a su mercado.</summary>
-    <published>2026-10-29T13:01:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html</id>
-    <title>[Economía] Pharma giant Novartis se enfrenta a un desafío en su estrategia de crecimiento a largo plazo</title>
-    <updated>2026-10-30T13:21:12.724937+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html"/>
-    <summary>Novartis ha anunciado que su medicamento experimental remibrutinib, destinado a tratar la esclerosis múltiple, podría generar más de $4 mil millones en ventas anuales en su punto más alto. Sin embargo, la empresa enfrenta la perspectiva de perder ventas debido a la expiración de patentes de otros medicamentos, como Kisqali y Kesimpta, que se espera que ocurran en 2032. Remibrutinib pertenece a una clase de medicamentos que buscan reducir la actividad del sistema inmunológico que daña las nerviosas en los pacientes con esclerosis múltiple. Aunque su eficacia en la forma de relapsing MS es similar a la de otros medicamentos, su eficacia en la forma de progresiva MS es menos efectiva; Novartis ha guiado para $8 mil millones en ventas totales de remibrutinib, incluyendo indicaciones adicionales a la relapsing MS. El especialista en esclerosis múltiple Amit Bar-Or ha destacado que el mayor oportunismo de expansión del mercado de remibrutinib podría surgir si los ensayos clínicos demuestran una ventaja en la esclerosis progresiva, donde las opciones de tratamiento son limitadas. Remibrutinib pertenece a una clase de medicamentos que buscan regular la actividad de las células del sistema inmunológico sin eliminarlas. La empresa ha anunciado que el medicamento podría ser una atracción para pacientes que están experimentando esclerosis progresiva mientras están tomando tratamientos anteriores. Novartis ha establecido un objetivo de $6 mil millones en ventas anuales para Kesimpta, además de $4 mil millones para remibrutinib en la forma de relapsing MS. Analistas como Morningstar han expresado dudas sobre la precisión de la proyección de ventas de remibrutinib, dependiendo de varios factores como la comparación con otros medicamentos, las negociaciones de precios y la tolerancia del medicamento. En el corto plazo, los analistas esperan que el mayor mercado para remibrutinib sea el mercado de "switch" oral, es decir, pacientes que toman un tratamiento genérico que necesitan cambiar debido a razones de tolerancia.
-
-Por qué importa:
-La perspectiva de Novartis se enfrenta a un desafío en su estrategia de crecimiento a largo plazo debido a la expiración de patentes de otros medicamentos, como Kisqali y Kesimpta, que se espera que ocurran en 2032. Esto representa una pérdida potencial de ventas para la empresa, lo que podría afectar su capacidad para mantener su posición en el mercado; Sin embargo, Novartis ha establecido un objetivo de $8 mil millones en ventas totales de remibrutinib, lo que podría ayudar a compensar la pérdida de ventas debido a la expiración de patentes.</summary>
-    <published>2026-10-30T06:00:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html</id>
-    <title>[Economía] Musk y Zuckerberg repiten la push de Trump a rebrandear AI como "super inteligencia"</title>
-    <updated>2026-10-30T13:21:12.724903+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html"/>
-    <summary>El presidente Donald Trump ordenó que el término "super inteligencia" reemplazara a la inteligencia artificial en los departamentos y agencias ejecutivas del gobierno el 29 de septiembre. A un mes de ese evento, sus principales aliados en el mundo de la tecnología, Elon Musk y Mark Zuckerberg, se unieron a él en sus llamados de ganancias. Sin embargo, otros ejecutivos de tecnología, como Andy Jassy de Amazon y Satya Nadella de Microsoft, no lo hicieron. Trump ha anunciado que está prohibiendo el uso de la inteligencia artificial en "todos los documentos relevantes" y "todo lo demás". Musk y Zuckerberg han cambiado el nombre de sus divisiones de inteligencia artificial a "SI" y han utilizado el término en sus llamados de ganancias. La empresa Meta ya estaba utilizando el término y había creado un laboratorio de inteligencia superinteligente. La rebranding se está haciendo justo antes de las elecciones medioambientales del próximo semana, con el partido republicano en peligro de perder el control de la Cámara de Representantes y el Senado. Trump ha visto su aprobación y su aprobación económica disminuyendo y su rating económico alcanzando un nuevo mínimo, según el último informe de la CNBC All-America Economic Survey. El término "super inteligencia" se está utilizando en otros documentos y correos electrónicos. Los ejecutivos de tecnología están utilizando el término en sus llamados de ganancias, pero algunos han expresado su apoyo explícito a la terminología de Trump.
-
-Por qué importa:
-La rebranding de Trump a "super inteligencia" es importante porque puede tener un impacto significativo en la forma en que se aborda la inteligencia artificial en el gobierno y en la industria; La empresa Meta ya estaba utilizando el término y había creado un laboratorio de inteligencia superinteligente. La rebranding se está haciendo justo antes de las elecciones medioambientales del próximo semana, con el partido republicano en peligro de perder el control de la Cámara de Representantes y el Senado.</summary>
-    <published>2026-10-30T11:30:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html</id>
     <title>[Economía] Chevron y Exxon superan las expectativas de ganancias en el tercer trimestre</title>
-    <updated>2026-10-30T13:21:12.724866+00:00</updated>
+    <updated>2026-10-31T14:21:27.242735+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,51 +25,79 @@ La situación en el Medio Oriente y Rusia ha provocado una escasez de suministro
     <published>2026-10-30T11:35:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/cheap-code-expensive-confidence/</id>
-    <title>[Data Science] Código económico, confianza cara</title>
-    <updated>2026-10-30T13:21:12.724832+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html</id>
+    <title>[Economía] Democratizando la impresión 3D en la industria automotriz</title>
+    <updated>2026-10-31T14:21:27.242701+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/cheap-code-expensive-confidence/"/>
-    <summary>Un desarrollador de IBM utilizó un agente de código para construir Task Viewer, una herramienta de ayuda comunitaria. Verificó que los datos se mostraban correctamente y realizó pruebas de interfaz. La comprensión de las relaciones en los datos era crucial. La confianza en la herramienta se estableció a medida que verifiqué su comportamiento y los datos detrás de ella. El desarrollo de código se volvió más rápido y eficiente. El tiempo ahorrado se utilizaba para auditorías y verificaciones, además de beneficios de productividad. Un desarrollador puede seguir el flujo de solicitud a través de la aplicación y escribir el primer test antes de pedirle al agente implementar el filtro. La investigación de DORA encontró que el tiempo ahorrado durante la generación de código se utilizaba para auditorías y verificaciones, además de beneficios de productividad.
+    <link href="https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html"/>
+    <summary>Automakers como Rivian y Ford están adoptando la impresión 3D para reducir costos y aumentar velocidad en su producción. La tecnología, que ha estado presente durante décadas, se está volviendo más accesible y se está utilizando para crear partes y accesorios para vehículos, herramientas para plantas de ensamblaje y unidades de prueba para laboratorios de investigación. Rivian ha invertido más de $5 millones en máquinas de impresión 3D y espera que el costo de los materiales crezca a $1.7 millones al año. El director de la división de impresión 3D de Rivian, Jared Beck, afirma que la tecnología ayuda a reducir los costos de los proveedores y a acelerar la producción de partes, lo que puede generar ahorros de millones de dólares. Ford también está utilizando la impresión 3D para producir partes y accesorios para sus vehículos, y espera tener 23 plantas con laboratorios de impresión 3D en funcionamiento a finales de este año. La empresa General Motors también está utilizando la tecnología para producir partes para sus vehículos de alta gama, como el Cadillac Celestiq.
 
 Por qué importa:
-La comprensión de las relaciones en los datos era crucial para verificar las calculaciones. El desarrollo de código se volvió más rápido y eficiente gracias a la herramienta.</summary>
-    <published>2026-10-29T10:54:18+00:00</published>
+La impresión 3D está revolucionando la industria automotriz al permitir a los fabricantes reducir costos y aumentar la velocidad en su producción; La tecnología, que ha estado presente durante décadas, se está volviendo más accesible y se está utilizando para crear partes y accesorios para vehículos, herramientas para plantas de ensamblaje y unidades de prueba para laboratorios de investigación. La adopción de la impresión 3D por parte de empresas como Rivian y Ford es un paso importante hacia la democratización de esta tecnología, lo que podría tener un impacto significativo en la industria.</summary>
+    <published>2026-10-31T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now</id>
-    <title>[Data Science] Las habilidades de AI que realmente se ven en los anuncios de empleo</title>
-    <updated>2026-10-30T13:21:12.724798+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html</id>
+    <title>[Economía] "Super PACs gastan $637 millones en las elecciones del 2026"</title>
+    <updated>2026-10-31T14:21:27.242666+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now"/>
-    <summary>En el mercado laboral, las habilidades de AI se han vuelto cada vez más solicitadas, apareciendo en un quinto de los anuncios de empleo. El requisito de habilidades de AI ha aumentado un 75% en dos años, según Dice. La categoría de "literacia en AI" es la más solicitada y cubre a la mayor población de trabajadores. Los anuncios que mencionan habilidades de inteligencia artificial pagan un 28% más que los equivalentes sin esta habilidad. Los roles de ingeniería de datos y AI tienen salarios promedio de $153,750 en el mercado estadounidense. La mayoría de las habilidades de AI requieren conocimientos de programación, pero la literacia en AI y la ingeniería de promps pueden desarrollarse en 30 horas de práctica enfocada. La mayoría de los anuncios requieren una combinación de habilidades, no una sola habilidad de AI. La tasa de cambio en los anuncios de tecnología, de 15% a 75% de anuncios que requieren habilidades de AI en 18 meses, sugiere que el período en que la fluencia en AI es un diferenciador es más corto de lo que parece. Los profesionales técnicos que construyen sistemas de producción encontrarán los mayores retornos en MLOps, evaluación de modelos, RAG y frameworks agentes. Los profesionales de la empresa encontrarán más inmediato beneficio de la literacia en AI, workflows de promps específicos para el dominio y suficiente conocimiento de gobernanza para contribuir a conversaciones responsables de despliegue.
+    <link href="https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html"/>
+    <summary>Un super PAC llamado Our Heritage Matters se registró con la Comisión Electoral Federal el 15 de octubre y comenzó a gastar dinero para promover candidatos de tercer partido y atacar a republicanos el 20 de octubre. El grupo había gastado aproximadamente $1.2 millones en 10 carreras de la Cámara y el Senado el 29 de octubre. La ley federal requiere que los super PACs y los comités políticos informen de las grandes independientes exposiciones dentro de 24 o 48 horas, dependiendo de la proximidad a la elección día. En 2026, la práctica de crear nuevos PACs a última hora ha explotado, con ambas partes utilizando la táctica, con los PACs republicanos gastando aproximadamente el doble que los conectados con los demócratas. Veintiduos super PACs que se registraron con la FEC durante las últimas 10 semanas antes de la elección día han gastado al menos $1 millón en carreras congresales. El número de super PACs a última hora que han gastado al menos $1 millón ha más que cuadruplicado desde 2022, mientras que su gasto ha crecido casi 35 veces. Los grupos restantes gastaron casi 12 veces más que los super PACs similares en el mismo punto en 2022. En total, los super PACs han gastado $637 millones en las elecciones del 2026.
 
 Por qué importa:
-La creciente demanda de habilidades de AI en el mercado laboral refleja la importancia de esta tecnología en la actualidad. La capacidad de combinar habilidades de AI con dominio de un área para producir resultados medibles es clave para el éxito en el lugar de trabajo.</summary>
-    <published>2026-10-29T14:00:00+00:00</published>
+La creación de super PACs a última hora es una táctica común en las elecciones en Estados Unidos, donde las campañas pueden gastar grandes cantidades de dinero en poco tiempo. Esto se debe en parte a la falta de regulación y a la posibilidad de que los super PACs no sean transparentes en sus donantes y sus actividades.</summary>
+    <published>2026-10-31T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/who-governs-what-an-agent-learns/</id>
-    <title>[Data Science] Quién gobierna lo que aprende un agente</title>
-    <updated>2026-10-30T13:21:12.724764+00:00</updated>
+    <id>https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html</id>
+    <title>[Economía] La seguridad de los fondos en las bolsas de criptomonedas es cuestionada después de un gran robo</title>
+    <updated>2026-10-31T14:21:27.242628+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/who-governs-what-an-agent-learns/"/>
-    <summary>El autor plantea la pregunta de si un agente tiene permiso para concebir la situación de la que aprende y cómo se puede evitar que su autoridad se expanda silenciosamente. Sugiere la necesidad de mecanismos de gobernanza semántica y epistémica para regular los cambios en el modelo del mundo que puede actuar un agente. Propone la idea de "bajo agencia" para distinguir entre el aprendizaje y la autorización para actuar. El autor también destaca la importancia de distinguir entre la adquisición de nuevos hechos y el cambio en el marco conceptual que les da sentido. El ejemplo de Edwin Abbott con el cuadrado y el esfera ilustra la diferencia entre simplemente adquirir nuevos hechos y cambiar el marco conceptual. El autor también menciona la experiencia de los agentes en OpenAI que repurposaron un sistema para crear un mensaje board, lo que muestra cómo los agentes pueden adaptarse y aprender sin necesidad de permisos. El autor concluye que se necesitan mecanismos que distingan el descubrimiento de una posible utilización de la autorización para adoptarla.
+    <link href="https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html"/>
+    <summary>Dos brechas de seguridad en las últimas semanas han levantado preguntas sobre la seguridad de almacenar fondos en una bolsa de criptomonedas; El 6 de abril, Binance sufrió un robo de $6.3 mil millones en activos de sus clientes, convirtiéndose en el mayor robo de criptomonedas en la historia. Polymarket, una plataforma de mercado de predicción, también sufrió una brecha de seguridad, lo que resultó en la pérdida de al menos $2.7 millones. Los expertos en seguridad informaron que estos incidentes no son sorprendentes, considerando los recientes incidentes de hacking con inteligencia artificial; Los expertos también advirtieron que se pueden esperar más incidentes de seguridad en el futuro, ya que este problema empeora. Los expertos también destacaron que no hay protección similar a la de la Federación de Depósitos de EE; UU; para los fondos perdidos en una bolsa de criptomonedas. Binance y Polymarket aseguraron a sus usuarios que cubrirían a los afectados, lo que sugiere que los usuarios pueden sentirse seguros en las bolsas de criptomonedas. Sin embargo, los expertos también destacaron que la industria de las criptomonedas necesita mejorar su seguridad para evitar futuros incidentes. Los expertos también destacaron que la seguridad de las bolsas de criptomonedas puede mejorar en el futuro, ya que la industria tendrá la experiencia de cómo manejar estos ataques. Los expertos también destacaron que las bolsas de criptomonedas que operan en el régimen de las regulaciones de EE; UU; no sufrieron un incidente similar; Los expertos también destacaron que las regulaciones de EE; UU. pueden no haber detenido un incidente como el de Binance, ya que el robo puede haber involucrado a un ingeniero de desarrollo que utilizó un laptop comprometido. Los expertos también destacaron que la seguridad de las bolsas de criptomonedas puede ser mejor que la de los wallets de criptomonedas, ya que las bolsas de criptomonedas tienen la seguridad de una empresa detrás de ellas.
 
 Por qué importa:
-La pregunta de si un agente tiene permiso para concebir la situación de la que aprende es fundamental para entender cómo se pueden evitar que su autoridad se expanda silenciosamente; La idea de "bajo agencia" es clave para distinguir entre el aprendizaje y la autorización para actuar; La experiencia de los agentes en OpenAI que repurposaron un sistema para crear un mensaje board muestra cómo los agentes pueden adaptarse y aprender sin necesidad de permisos. Sin embargo, esta adaptabilidad también plantea desafíos para la gobernanza de los agentes, ya que es necesario distinguir entre la adquisición de nuevos hechos y el cambio en el marco conceptual que les da sentido.</summary>
-    <published>2026-10-30T10:54:16+00:00</published>
+La seguridad de los fondos en las bolsas de criptomonedas es una preocupación creciente debido a los recientes incidentes de seguridad; Los expertos en seguridad informaron que la industria de las criptomonedas es un objetivo atractivo para los hackers debido a la gran liquidez de los fondos. Los expertos también destacaron que la falta de regulaciones y protección similar a la de la Federación de Depósitos de EE; UU; hace que los fondos perdidos en una bolsa de criptomonedas sean vulnerables a los ataques; Sin embargo, los expertos también destacaron que la industria de las criptomonedas puede mejorar su seguridad en el futuro, ya que tendrá la experiencia de cómo manejar estos ataques.</summary>
+    <published>2026-10-31T12:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html</id>
+    <title>[Economía] Trump prometió reducir los costos de energía — pero los precios de gasolina, diesel y combustible aéreo se dispararon en su lugar</title>
+    <updated>2026-10-31T14:21:27.242593+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html"/>
+    <summary>Presidente Donald Trump prometió a los votantes que reduciría los precios de gasolina a menos de $2 por galón dentro de su primer año en el cargo. Sin embargo, los precios de gasolina y diesel siguen siendo un problema. Los precios de gasolina están a un nacional promedio de $4.20 por galón, un 40% más alto que el mismo período del año anterior. El precio del diesel, crítico para el transporte y la agricultura, ha aumentado un 70% en el pasado año. Trump ha prometido acciones para reducir los precios, pero la situación sigue siendo complicada. Los precios de gasolina y diesel están a punto de ser los más altos de la historia en un día de elecciones. Los analistas de petróleo dicen que los precios han aumentado debido a la guerra con Irán y la falta de flujo de petróleo a través del Strait of Hormuz. Trump ha dicho que los precios de gasolina serán más bajos una vez que termine la guerra con Irán, pero no hay una fecha concreta para ello.
+
+Por qué importa:
+La situación con los precios de gasolina y diesel es importante porque afecta a la economía y a la vida cotidiana de las personas; Los precios de diesel, en particular, son críticos para el crecimiento económico y para la agricultura. La guerra con Irán ha aumentado los precios de petróleo y, por lo tanto, los precios de gasolina y diesel; La situación es complicada y no hay una solución fácil; La elección de Trump como presidente fue en parte motivada por su promesa de reducir los precios de gasolina, pero ahora parece que no se ha cumplido.</summary>
+    <published>2026-10-31T12:49:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html</id>
+    <title>[Economía] Mediatorees qatares se reúnen en Teherán para reanudar negociaciones directas entre EE.UU. e Irán</title>
+    <updated>2026-10-31T14:21:27.242557+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html"/>
+    <summary>Qatari mediators han realizado más de 12 horas de conversaciones en Teherán con el objetivo de llegar a un acuerdo para evitar la posible reanudación de ataques estadounidenses en Irán después de las elecciones medioambientales estadounidenses. Iran ha prometido una "respuesta geográficamente no restringida" a cualquier nuevo ataque por parte de EE.UU. El acuerdo inicial firmado el 17 de junio entre EE.UU. e Irán para detener la lucha se derrumbó semanas después. El presidente estadounidense Donald Trump ha reiterado su afirmación de que la guerra con Irán terminará "cuando yo lo desee" y ha dicho que "sería muy rápido, pero debemos tener un final adecuado". El último ataque confirmado de EE.UU. en Irán ocurrió el 1 de septiembre. Trump había dejado abierto la posibilidad de que los ataques volvieran a comenzar después de las elecciones medioambientales del 3 de noviembre. El líder supremo iraní Mojtaba Khamenei ha anunciado que cualquier nivel de amenaza debe ser respondido con una "respuesta inmediata, impactante y geográficamente no restringida". En el último tiempo, se han reportado ataques a los barcos de petróleo en el estrecho de Hormuz, lo que ha causado un aumento en los precios del petróleo.
+
+Por qué importa:
+La situación en el Medio Oriente sigue siendo tensa, con Irán y Arabia Saudita enfrentándose en dos frentes. Los ataques a los barcos de petróleo en el estrecho de Hormuz han aumentado la presión en la región.</summary>
+    <published>2026-10-31T13:47:03+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/</id>
     <title>[Data Science] Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations</title>
-    <updated>2026-10-30T13:21:12.724730+00:00</updated>
+    <updated>2026-10-31T14:21:27.242524+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -153,7 +111,7 @@ Estos mods están diseñados para ayudar a los usuarios a mejorar su flujo de tr
   <entry>
     <id>https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline</id>
     <title>[Data Science] Errores de datos silenciosos que sobreviven a cada pipeline de limpieza</title>
-    <updated>2026-10-30T13:21:12.724696+00:00</updated>
+    <updated>2026-10-31T14:21:27.242490+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -167,7 +125,7 @@ Estos errores de datos silenciosos pueden tener un impacto significativo en la t
   <entry>
     <id>https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/</id>
     <title>[Data Science] Los agentes pueden tomar decisiones con las herramientas de sus agentes</title>
-    <updated>2026-10-30T13:21:12.724661+00:00</updated>
+    <updated>2026-10-31T14:21:27.242456+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,205 +137,219 @@ que se utiliza para almacenar registros; El modelo de decisión se utiliza en Az
     <published>2026-10-30T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29513</id>
-    <title>[Fórmula 1] Newey explica la frustración detrás de la posible salida de Red Bull en 2014 después de que Horner publique su libro</title>
-    <updated>2026-10-30T13:21:12.724626+00:00</updated>
+    <id>https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant</id>
+    <title>[Data Science] Construyendo Breakout con Vibe Coding</title>
+    <updated>2026-10-31T14:21:27.242421+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/29513"/>
-    <summary>Adrian Newey explicó por qué se sintió profundamente frustrado con Red Bull en 2014 debido a sus dificultades con Renault, después de que Christian Horner afirmó en su reciente libro que el diseñador consideró abandonar el equipo al primer signo de adversidad. Newey reconoció que el equipo's problemas con el nuevo motor de potencia reglamento causaronle gran frustración, pero argumentó que sus preocupaciones iban más allá de la Renault simplemente entregar un motor incompetitivo. El diseñador sostuvo que la clave del problema fue su percepción de que Renault no estaba haciendo lo suficiente para resolver los problemas que afectaban la rendimiento del motor de Red Bull. A pesar de que Red Bull siguió siendo competitivo en 2014, Mercedes estableció una gran ventaja en el nuevo motor de potencia, lo que creó tensiones entre el equipo y Renault. Newey dijo que aceptar una temporada de un proveedor de motor malo era una cosa, pero ver que no había compromiso con la mejora era otra. El diseñador sostuvo que la situación persistió durante varios años y que no cambió hasta que Red Bull cambió a Honda en 2019; Newey también dijo que no había leído el libro de Horner y que no se sintió engañado por las críticas. A pesar de las diferencias en cómo se desarrollaron los eventos, Newey minimizó la posibilidad de una ruptura personal con Horner. El diseñador y Horner siguen siendo amigos, y Newey es el padrino de la hija de Horner, Olivia; Newey y Horner fueron figuras centrales en el ascenso de Red Bull a la cima de la Fórmula 1. El equipo ganó cuatro títulos consecutivos de constructores y pilotos desde 2010 hasta 2013, pero la llegada de los motores híbridos los expuso a la importancia del rendimiento del motor en una fórmula cada vez más compleja. La decisión de Red Bull de cambiar a Honda en 2019 fue crucial para su posterior regreso a la victoria; La pareja ayudó a Max Verstappen a ganar títulos de pilotos desde 2021 y ayudó a Red Bull a ganar títulos de constructores.
+    <link href="https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant"/>
+    <summary>En 2025, Andrej Karpathy acuñó el término "vibe coding" para describir un flujo de trabajo donde se describe lo que se quiere en lenguaje natural y se deja que un agente de código AI maneje la generación de código, ejecución y iteración. En 2026, "vibe coding" se convirtió en una forma estándar de construir software. Airbnb informa que actualmente, el 60% de su nuevo código se escribe con la ayuda de AI. Para construir Breakout con vibe coding, se necesitan solo un navegador web, un editor de texto y un asistente de código AI. El tutorial utiliza el asistente de código Claude Code para generar el código del juego. El primer paso del tutorial es crear un archivo HTML para el juego Breakout. El juego Breakout fue lanzado en 1976 y su diseño influyó en la creación del Apple II. El tutorial cubre aspectos como paddleBounceAngle, brickCollision y Array.every(). El juego se detiene cuando el balón cae más allá del paddle o cuando las vidas llegan a cero. El tutorial proporciona una forma accesible de aprender a construir Breakout con vibe coding.
 
 Por qué importa:
-La frustración de Newey con Red Bull en 2014 se debe a la importancia de la relación entre el equipo y su proveedor de motores. La situación expone la complejidad de la fórmula y la importancia de la colaboración entre el equipo y el proveedor de motores.</summary>
-    <published>2026-10-29T12:00:00+00:00</published>
+Es interesante ver cómo la tecnología de AI está revolucionando la forma en que construimos software. Con vibe coding, se puede crear un juego como Breakout de manera sencilla y accesible, sin necesidad de conocimientos avanzados de programación.</summary>
+    <published>2026-10-30T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/29/herta-or-bottas-for-2027-seat-is-not-an-easy-decision-for-cadillac-says-perez/</id>
-    <title>[Fórmula 1] La decisión de Herta o Bottas para 2027 es "no fácil" para Cadillac, dice Pérez</title>
-    <updated>2026-10-30T13:21:12.724592+00:00</updated>
+    <id>https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/</id>
+    <title>[Data Science] Un modelo de lenguaje creyó que una persona le estaba diciendo que sus respuestas incorrectas eran correctas.</title>
+    <updated>2026-10-31T14:21:27.242386+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"/>
+    <summary>Un modelo de lenguaje, GPT-6 Sol, fue capaz de mejorar su puntuación con etiquetas verdaderas, alcanzando un 94.4% de precisión. Sin embargo, otro modelo, Claude Haiku 5.5, mejoró su puntuación con etiquetas verdaderas, pasando de un 21.1% a un 37.2%. Qwen3 4B Instruct mantuvo una puntuación estable con etiquetas verdaderas, mientras que GPT-6 Sol utilizó las etiquetas casi perfectamente. Qwen3 4B Instruct no mostró una ventaja clara con etiquetas verdaderas, pero las etiquetas invertidas le causaron daño. GPT-6 Sol mejoró su puntuación con etiquetas verdaderas, pasando de un 32.2% a un 94.4%, y cayó con etiquetas invertidas, pasando de un 22.2% a un 7.8%. Qwen reutilizó rutas mostradas en casi todos los casos, con un porcentaje de reutilización del 76.4% sin etiquetas y el 66.7% con etiquetas verdaderas. Un simple rule que elimina todas las rutas mostradas y adivina entre las restantes, mejoró la puntuación en el 42.4% de los casos. La tarea de Qwen es más fácil que la tarea del artículo, ya que solo los etiquetas pueden revelar el rule.
+
+Por qué importa:
+La capacidad de un modelo de lenguaje para aprender y mejorar con las etiquetas es crucial para su precisión y eficacia. La efectividad de las etiquetas de recompensa depende del modelo, por lo que es importante medirlo en tu propio agente antes de diseñar alrededor de él.</summary>
+    <published>2026-10-31T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/</id>
+    <title>[Data Science] Se ha desarrollado una solución ligera para la actualización de creencias en sistemas de inteligencia artificial</title>
+    <updated>2026-10-31T14:21:27.242352+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"/>
+    <summary>Un investigador ha desarrollado una solución ligera para la actualización de creencias en sistemas de inteligencia artificial. El investigador, quien también creó un benchmark de Python llamado RevisionTrace, encontró que la mayoría de los sistemas de inteligencia artificial fallan a la hora de actualizar creencias cuando se reciben actualizaciones. La solución implica seguir las dependencias y actualizar los valores en orden. El investigador probó la solución con 300 casos y encontró un gran desempeño en la actualización de creencias cuando se comienza con un estado inicial perfecto. Sin embargo, el desempeño fue muy bajo cuando se actualiza un estado existente. El investigador también identificó cinco tipos de errores en la actualización de creencias y desarrolló una solución para evitarlos. La solución implica permitir estados desconocidos para evitar respuestas confiantes con datos muertos. El investigador también encontró que algunos sistemas de inteligencia artificial pueden dar la impresión de que están funcionando correctamente, pero en realidad están fallando en la actualización de creencias. Se necesitan cuatro a ocho actualizaciones en una fila, algunas agregadas y luego retiradas, sin que sobreviva una conclusión obsoleta.
+
+Por qué importa:
+La actualización de creencias es un problema común en sistemas de inteligencia artificial, ya que estos sistemas pueden dejar de lado datos relacionados con una actualización, lo que se conoce como "colateral damage". La solución desarrollada por el investigador puede ayudar a evitar este problema y mejorar la precisión de los sistemas de inteligencia artificial.</summary>
+    <published>2026-10-31T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/</id>
+    <title>[Fórmula 1] Leclerc fastest again, Verstappen y Lawson enfrentan investigación sobre colisión</title>
+    <updated>2026-10-31T14:21:27.242317+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/29/herta-or-bottas-for-2027-seat-is-not-an-easy-decision-for-cadillac-says-perez/"/>
-    <summary>Sergio Pérez, piloto de Cadillac, ha expresado que la decisión sobre quién será su compañero de equipo en 2027 es "no fácil" debido a la falta de puntos en la cuenta de ambos pilotos. Bottas ha logrado el mejor resultado del equipo con un 13º lugar, mientras que Pérez ha superqualificado a su compañero 10-8 en Grandes Premios. Herta, el piloto de IndyCar que se encuentra en la 19ª posición en la clasificación de F2, ha demostrado ser "un buen trabajo" en su papel de piloto de pruebas. Pérez ha destacado que la prioridad del equipo en los próximos meses es prepararse para 2027. La decisión final será tomada por el principal de la escudería, Marcin Budkowski. Pérez ha mencionado que Bottas ha tenido una temporada "desafortunada" y que la elección del compañero de equipo será "un desafío". La preparación del equipo para 2027 es crucial en los próximos tres o cuatro meses.
+    <link href="https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/"/>
+    <summary>Charles Leclerc lideró ambos sesiones de práctica el viernes en el Autodromo Hermanos Rodriguez, aunque el equipo Maranello no tuvo un día perfecto. Lewis Hamilton se detuvo debido a un problema con el unidad de potencia después de completar solo 13 vueltas, lo que le impidió hacer una simulación de clasificación y terminó fuera de los primeros diez. Lando Norris estuvo segundo, un décimo de segundo lento que Leclerc, mientras que George Russell estuvo tercero, por delante de su compañero de equipo; Max Verstappen lideró a Red Bull, aunque llevaba daño después de una colisión con un coche junior de la escudería. Verstappen intentó pasar a Liam Lawson por la parte interior de la curva 12, pero el conductor de Racing Bulls no estaba dispuesto a ceder la posición. Lawson tomó la línea de carrera en la salida de la curva 13, lo que obligó a Verstappen a usar el área de descarte, y luego volvió a entrar en la pista y chocó con Lawson, dañando ambos coches. La colisión dispersó escombros por la pista y el sesion fue suspendida mientras se limpiaba; Los stewardes investigarán el incidente; Isack Hadjar estuvo sexto, detrás de su compañero de equipo. Todos los cuatro coches de Red Bull-Ford aparecieron en los primeros diez, Lawson estuvo noveno, dos lugares detrás de su compañero de equipo, con Pierre Gasly en Alpine entre ellos. Oscar Piastri en el segundo McLaren estuvo décimo; Fernando Alonso no pudo repetir su tiempo de primera práctica, cayendo a la duodécima posición. Los pares de Haas estuvieron siguientes, Esteban Ocon estuvo insatisfecho por ser requerido a terminar su vuelo en el compuesto de llanta media, y sufrió una pérdida de dirección asistida cuando se unió a la pista, mientras que Oliver Bearman se detuvo brevemente con un problema de software cuando se unió a la pista, pero pudo volver a empezar. Gabriel Bortoleto no pudo participar en una parte significativa de la sesión debido a un problema técnico en su Audi, pero pudo unirse a la pista en el final de la sesión.
 
 Por qué importa:
-La decisión sobre quién será el compañero de equipo de Pérez en 2027 es importante para el futuro de la escudería.</summary>
-    <published>2026-10-29T22:05:51+00:00</published>
+La colisión entre Verstappen y Lawson es importante porque puede tener implicaciones en la clasificación y la seguridad en la carrera.</summary>
+    <published>2026-10-30T23:04:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/30/not-much-more-i-could-have-done-about-horrible-title-defence-norris/</id>
-    <title>[Fórmula 1] Norris admite que su defensa del título fue "horrible"</title>
-    <updated>2026-10-30T13:21:12.724559+00:00</updated>
+    <id>https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/</id>
+    <title>[Fórmula 1] Verstappen y Lawson reciben penaltis de posición en la grilla por "colisión inaceptable"</title>
+    <updated>2026-10-31T14:21:27.242281+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/30/not-much-more-i-could-have-done-about-horrible-title-defence-norris/"/>
-    <summary>Lando Norris, campeón de la temporada anterior, ha expresado su felicidad por la sucesión de Andrea Kimi Antonelli como campeón del mundo. Norris ha destacado que Antonelli ha demostrado ser un campeón digno y que su defensa del título fue "horrible". A pesar de que Norris ha tenido una temporada destacada, su equipo McLaren ha tenido un desempeño disminuido en las últimas carreras. Norris ha admitido que no puede controlar el desempeño de su equipo y que se siente satisfecho de haber hecho lo mejor posible. Ha expresado su respeto por Antonelli y su felicidad por verlo ganar el título. Norris ha destacado que Antonelli ha demostrado ser un campeón excepcional, especialmente en su segunda temporada en F1. La temporada de Norris ha sido marcada por dos victorias consecutivas y una victoria nearly en Madrid, pero su equipo ha caído a la cuarta posición en la clasificación de constructores. Norris ha admitido que su defensa del título fue difícil y que no puede hacer más que lo que ha hecho.
+    <link href="https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/"/>
+    <summary>Max Verstappen y Liam Lawson han recibido penaltis de posición en la grilla por una colisión durante la segunda sesión de práctica del Gran Premio de México. La colisión ocurrió en turn 16 y fue causada por una falta de espacio por parte de Lawson, quien no dio paso a Verstappen. Los stewards consideraron que la penalización era justa debido a que habían ocurrido incidentes similares con otros conductores durante el año. Verstappen criticó a Lawson por la colisión, considerándola "no muy inteligente"; La penalización es una consecuencia de una advertencia previa dada en una reunión de gerentes de equipos. La colisión ocurrió después de que Verstappen y Lawson fueran compañeros de equipo en Red Bull en dos ocasiones diferentes; Lawson regresó a Racing Bulls después de reemplazar a Isack Hadjar como compañero de equipo de Verstappen. Aunque Red Bull anunció que Verstappen y Hadjar seguirán conduciendo para ellos en el próximo año, Racing Bulls aún no ha confirmado sus conductores para el año 2027. Verstappen consideró que la colisión fue "no muy inteligente" y que Lawson debería haber actuado de manera más inteligente. La penalización no afectará la semana de Verstappen, pero consideró que Lawson debería haber sido más cuidadoso. La colisión ocurrió después de que Verstappen y Lawson fueran compañeros de equipo en Red Bull en dos ocasiones diferentes; Lawson regresó a Racing Bulls después de reemplazar a Isack Hadjar como compañero de equipo de Verstappen. Aunque Red Bull anunció que Verstappen y Hadjar seguirán conduciendo para ellos en el próximo año, Racing Bulls aún no ha confirmado sus conductores para el año 2027.
 
 Por qué importa:
-La victoria de Antonelli como campeón del mundo es importante porque marca un nuevo capítulo en la historia de F1; Norris ha demostrado ser un campeón digno y su defensa del título fue "horrible". La temporada de Norris ha sido destacada por sus victorias consecutivas y su lucha contra otros pilotos; La victoria de Antonelli es un reconocimiento a su talento y dedicación.</summary>
-    <published>2026-10-30T07:16:35+00:00</published>
+La penalización de Verstappen y Lawson es importante porque muestra la importancia de la seguridad y la deportividad en la Fórmula 1. La colisión fue considerada "inaceptable" por los stewards y la penalización es una consecuencia de una advertencia previa dada en una reunión de gerentes de equipos; La penalización no afectará la semana de Verstappen, pero consideró que Lawson debería haber sido más cuidadoso.</summary>
+    <published>2026-10-30T23:41:56+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/30/theres-no-pay-drivers-now-alonsos-rivals-reject-his-criticism-of-one-third-of-the-grid/</id>
-    <title>[Fórmula 1] Alonso critica a un tercio de la pista de F1</title>
-    <updated>2026-10-30T13:21:12.724524+00:00</updated>
+    <id>https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/</id>
+    <title>[Fórmula 1] Claims Bearman’s salary demands delayed contract talks are “absolute nonsense” – Komatsu | Formula 1</title>
+    <updated>2026-10-31T14:21:27.242247+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/30/theres-no-pay-drivers-now-alonsos-rivals-reject-his-criticism-of-one-third-of-the-grid/"/>
-    <summary>Fernando Alonso criticó a un tercio de la pista de F1 por tener "bajos estándares de conducción", pero sus rivales no comparten su opinión. Albon, el piloto de Williams, defendió el nivel de conducción en F1, que según él es más alto que en pasadas temporadas. El piloto de Alpine, Pierre Gasly, también expresó su acuerdo con Alonso, aunque sin conocer los detalles de su crítica. El piloto de 13º lugar en la clasificación, Oliver Bearman, consideró que los pilotos en la parte inferior de la pista deben tomar más riesgos para tener oportunidades de puntuar. Alonso y sus rivales coincidieron en que el nivel de conducción en F1 es alto, pero que la competencia es muy fuerte y solo los mejores pueden destacar. El piloto de Williams, Albon, se refirió a Alonso como alguien que "lo miró mucho" cuando era niño, pero no aceptó su crítica. Gasly expresó su respeto por Alonso, pero no estuvo seguro de qué se refirió en su crítica; Bearman consideró que Alonso estaba "un poco duro" al criticar a los pilotos en la parte inferior de la pista. Alonso y sus rivales coincidieron en que el nivel de conducción en F1 es alto, pero que la competencia es muy fuerte y solo los mejores pueden destacar. El piloto de Williams, Albon, se refirió a Alonso como alguien que "lo miró mucho" cuando era niño, pero no aceptó su crítica. Gasly expresó su respeto por Alonso, pero no estuvo seguro de qué se refirió en su crítica; Bearman consideró que Alonso estaba "un poco duro" al criticar a los pilotos en la parte inferior de la pista.
+    <link href="https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/"/>
+    <summary>Ayao Komatsu, equipo principal de Haas, ha desacreditado las noticias sobre las negociaciones de contratos con sus pilotos. Según Komatsu, las noticias sobre los contratos son "nonsense" y se basan en información falsa. El equipo Haas ha confirmado a Rafael Camara como uno de sus pilotos para la próxima temporada. Komatsu está interesado en finalizar un nuevo contrato con Ollie Bearman, quien ha demostrado un gran potencial. El equipo Haas busca maximizar su éxito en la temporada 2027 y tiene como objetivo finalizar un coche competitivo. Komatsu ha expresado su deseo de trabajar con Bearman y mejorar la posición del equipo en la clasificación. El equipo Haas ha tenido errores en el pasado, como en la temporada 2026, y ahora busca aprender de ellos. Komatsu ha desacreditado las noticias sobre un posible conflicto con Esteban Ocon y ha expresado su sorpresa por la información falsa que se ha difundido. El equipo Haas busca un coche competitivo para la temporada 2027 y tiene como objetivo trabajar con Bearman para lograrlo.
 
 Por qué importa:
-La crítica de Alonso a un tercio de la pista de F1 generó una respuesta negativa de sus rivales, quienes defendieron el nivel de conducción en el deporte; La opinión de Alonso se centró en la supuesta "baja calidad" de algunos pilotos, pero sus rivales argumentaron que el nivel de conducción en F1 es alto y que la competencia es muy fuerte. La respuesta de Alonso a su crítica fue que no entendía por qué Albon pensaba que su intento de pasar en la primera vuelta sería exitoso, lo que sugiere que la crítica de Alonso puede haber sido exagerada.</summary>
-    <published>2026-10-30T10:15:13+00:00</published>
+La noticia es importante porque refleja la importancia de la comunicación y la confianza en el equipo Haas. La negativa de Komatsu a discutir las noticias sobre los contratos demuestra su determinación en mantener la confianza con sus pilotos y el equipo.</summary>
+    <published>2026-10-31T00:39:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29562</id>
-    <title>[Fórmula 1] Albon defiende su conducta en la batalla con Alonso</title>
-    <updated>2026-10-30T13:21:12.724486+00:00</updated>
+    <id>https://www.f1technical.net/news/29567</id>
+    <title>[Fórmula 1] Esperanzas de Hamilton desaparecen después de un problema de unidad de potencia en México</title>
+    <updated>2026-10-31T14:21:27.242213+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29562"/>
-    <summary>Alexander Albon ha respondido a las críticas de Fernando Alonso sobre las normas de conducción en el campo de atrás de la Fórmula 1, asegurando que la batalla en la que se enfrentaron en el Gran Premio de Estados Unidos fue parte de una lucha normal en la carrera. Albon ha expresado su respeto por Alonso, pero ha argumentado que la calidad de conducción en el campo de atrás no es un problema, sino que todos los conductores están luchando por su posición. La batalla entre Albon y Alonso fue considerada una "good battle" por el conductor de Williams, quien ha sugerido que las posturas de Alonso deben ser vistas con cierto escepticismo. Albon también ha hablado sobre las dificultades de su equipo, Williams, y ha expresado su esperanza de que el trabajo realizado en las próximas carreras pueda proporcionar una base para una mejor campaña en la temporada siguiente. Además, Albon ha destacado la competencia del grid actual y ha sugerido que la lucha en el campo de atrás es una parte natural del deporte; En general, Albon ha mantenido una actitud positiva y ha enfatizado la importancia de aprender de las experiencias para mejorar en el futuro. La respuesta de Albon ha sido vista como una defensa de su conducta, pero también como una oportunidad para reflexionar sobre las normas de conducción en la Fórmula 1; Albon ha expresado su respeto por Alonso, pero ha argumentado que la calidad de conducción en el campo de atrás no es un problema, sino que todos los conductores están luchando por su posición. La batalla entre Albon y Alonso fue considerada una "good battle" por el conductor de Williams, quien ha sugerido que las posturas de Alonso deben ser vistas con cierto escepticismo. Albon también ha hablado sobre las dificultades de su equipo, Williams, y ha expresado su esperanza de que el trabajo realizado en las próximas carreras pueda proporcionar una base para una mejor campaña en la temporada siguiente. Además, Albon ha destacado la competencia del grid actual y ha sugerido que la lucha en el campo de atrás es una parte natural del deporte; En general, Albon ha mantenido una actitud positiva y ha enfatizado la importancia de aprender de las experiencias para mejorar en el futuro. La respuesta de Albon ha sido vista como una defensa de su conducta, pero también como una oportunidad para reflexionar sobre las normas de conducción en la Fórmula 1.
+    <link href="https://www.f1technical.net/news/29567"/>
+    <summary>Lewis Hamilton, siete veces campeón del mundo, se frustró después de que un problema con la unidad de potencia de su Ferrari lo obligó a abandonar su segundo sesión de práctica en el Gran Premio de México. A pesar de que el equipo había mejorado significativamente su configuración, el problema impidió que Hamilton completara su programa de largas. Hamilton admitió que no fue el día más fácil, ya que perdió tiempo en la primera sesión y tuvo que detenerse temprano en la segunda. A pesar de esto, el piloto británico creyó que el coche estaba rápido y que el equipo no necesitaba hacer cambios significativos. El problema con la unidad de potencia fue particularmente desapuntante para Hamilton, ya que había estado sintiendo que el coche era cómodo. El equipo Ferrari creyó que habían avanzado en la búsqueda de una configuración competitiva para el circuito de alta altitud.
 
 Por qué importa:
-La respuesta de Albon ha sido vista como una oportunidad para reflexionar sobre las normas de conducción en la Fórmula 1 y ha sido bien recibida por muchos expertos; La batalla entre Albon y Alonso fue considerada una "good battle" por el conductor de Williams, quien ha sugerido que las posturas de Alonso deben ser vistas con cierto escepticismo. Albon también ha hablado sobre las dificultades de su equipo, Williams, y ha expresado su esperanza de que el trabajo realizado en las próximas carreras pueda proporcionar una base para una mejor campaña en la temporada siguiente.</summary>
-    <published>2026-10-30T12:00:00+00:00</published>
+El problema con la unidad de potencia de Hamilton es particularmente importante porque es el segundo día de práctica en México y el equipo Ferrari busca demostrar su competitividad en el circuito. La falta de datos de largas es un obstáculo para evaluar la velocidad real del equipo en comparación con sus rivales.</summary>
+    <published>2026-10-31T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29563</id>
-    <title>[Fórmula 1] "El más importante es disfrutar del viaje," afirma Pérez mientras reflexiona sobre su carrera de Fórmula 1</title>
-    <updated>2026-10-30T13:21:12.724450+00:00</updated>
+    <id>https://www.f1technical.net/news/29568</id>
+    <title>[Fórmula 1] Leclerc completes Friday double for Ferrari as Vasseur warns of tricky Mexico conditions</title>
+    <updated>2026-10-31T14:21:27.242177+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29563"/>
-    <summary>Sergio Pérez alcanzará un hito importante en el Gran Premio de México este fin de semana, convirtiéndose en el séptimo conductor en la historia de Fórmula 1 en registrar 300 Grandes Premios. El mexicano ha reflexionado sobre las lecciones de su carrera, los desafíos de construir un equipo nuevo y la importancia de disfrutar cada momento en el deporte. Para Pérez, alcanzar el hito es especial porque lo celebrará frente a su audiencia local, lo que le da la oportunidad de reflexionar sobre una carrera que comenzó en 2011 y ha incluido seis victorias de carreras, múltiples podios y experiencias con varios equipos. El conductor cree que la duración en Fórmula 1 requiere más que la velocidad pura y que su mensaje para su joven yo sería "relajarse y disfrutar más". Pérez ha expresado su entusiasmo por trabajar en el proyecto de Cadillac, que es una experiencia única para él; El equipo es una oportunidad para contribuir a construir una organización desde cero, algo que nunca ha hecho antes. El conductor cree que en un equipo establecido, los conductores tienen menos influencia en la organización del equipo; En Cadillac, Pérez siente que puede hacer más que conducir rápido. El proyecto tiene el respaldo de General Motors y TWG, lo que le da la oportunidad de hacer una contribución duradera en la segunda etapa de su carrera. Para Pérez, alcanzar 300 Grandes Premios es un logro significativo en un deporte que requiere compromiso, consistencia y resiliencia. A pesar de que el calendario de Fórmula 1 se está volviendo cada vez más largo, Pérez se siente orgulloso de su logro y cree que es especial celebrarlo en México. El número de Grandes Premios también refleja la dificultad de establecer una carrera duradera en Fórmula 1; Para Pérez, la duración requiere más que la velocidad pura y que disfrutar del viaje.
+    <link href="https://www.f1technical.net/news/29568"/>
+    <summary>Charles Leclerc lideró ambos sesiones de práctica para Ferrari, demostrando una impresionante velocidad en el Autodromo Hermanos Rodriguez. A pesar de su buen rendimiento, el Monegasque cree que hay espacio para mejorar, ya que la superficie del circuito y las condiciones desafiantes hacen que sea difícil encontrar el límite. Ferrari fue la única equipo que corrió con ambos pilotos de full-time durante FP1, lo que se tradujo en una buena actuación. Leclerc terminó la primera sesión en la cima de las clasificaciones con un tiempo de 1:18.128, mientras que Lewis Hamilton terminó en el cuarto lugar con un tiempo de 1:18.866. En la segunda sesión, Leclerc volvió a liderar, estableciendo el mejor tiempo con un 1:17.827. Aunque su sesión no estuvo exenta de problemas, como un lock-up en los neumáticos suaves y una caída en Turn 1 durante su primer intento de vuelo, logró terminar 0,103 segundos por delante de Lando Norris de McLaren. George Russell completó el podio; Leclerc estuvo emocionado con la actuación de Ferrari, pero reconoció que el equipo aún necesita trabajar en algunas limitaciones. El equipo principal, Fred Vasseur, estuvo de acuerdo en que la actuación fue buena, pero advirtió que las condiciones en México son desafiantes y que el equipo necesita trabajar para mejorar. Vasseur enfatizó que las condiciones son igualmente desafiantes para todos los equipos, por lo que es importante que Ferrari se concentre en mejorar su propio paquete. El equipo demostró un buen ritmo desde el primer momento, tanto en laps cortos como en largas distancias; Sin embargo, Vasseur destacó que el equipo aún necesita fine-tunar el setup del coche para sacar el máximo provecho.
 
 Por qué importa:
-Alcanzar 300 Grandes Premios es un logro significativo en un deporte que requiere compromiso, consistencia y resiliencia. Para Pérez, alcanzar este hito es especial porque lo celebrará frente a su audiencia local, lo que le da la oportunidad de reflexionar sobre una carrera que comenzó en 2011 y ha incluido seis victorias de carreras, múltiples podios y experiencias con varios equipos.</summary>
-    <published>2026-10-30T12:00:00+00:00</published>
+La actuación de Leclerc y Ferrari en el Autodromo Hermanos Rodriguez es importante porque es un circuito desafiante, especialmente debido a la alta altitud. Las condiciones en México son igualmente desafiantes para todos los equipos, por lo que es crucial que Ferrari se concentre en mejorar su propio paquete.</summary>
+    <published>2026-10-31T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/</id>
-    <title>[Tecnología] Deepgram adquiere a Pipecat-maker Daily para fortalecer su infraestructura de inteligencia artificial de voz</title>
-    <updated>2026-10-30T13:21:12.724413+00:00</updated>
+    <id>https://www.f1technical.net/news/29573</id>
+    <title>[Fórmula 1] Pirelli identifica la degradación de los neumáticos y posible estrategia de dos paradas después de la práctica de México</title>
+    <updated>2026-10-31T14:21:27.242142+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"/>
-    <summary>Deepgram ha adquirido a Daily, el fabricante de Pipecat, una de las infraestructuras de inteligencia artificial de voz más populares y abiertas. La empresa dijo que no revelará el monto del acuerdo, pero aseguró que Pipecat seguirá siendo abierta. Con esta adquisición, Deepgram ganará una comprensión más profunda de la infraestructura de voz en tiempo real. Daily, que ha recaudado más de $62 millones en financiación, había estado experimentando con la comunicación AI-humano a través de voz y texto. El CEO de Deepgram, Scott Stephenson, se comprometió a mantener Pipecat abierta y dijo que la empresa quiere que los desarrolladores utilicen los mejores modelos para sus casos de uso. El acuerdo también permitirá a Deepgram explorar áreas más allá de la voz a través de Pipecat. La empresa también lanzará un estándar de
+    <link href="https://www.f1technical.net/news/29573"/>
+    <summary>Pirelli espera que la gestión de los neumáticos juegue un papel importante en la carrera del Gran Premio de México, ya que los datos de las dos sesiones de práctica indican una degradación significativa en los neumáticos más suaves. Aunque una estrategia de una parada sigue siendo posible, las equipos también podrían considerar una estrategia de dos paradas, dependiendo de cómo evolucione el circuito y de cómo puedan gestionar sus neumáticos. Los datos de Pirelli sugieren que la degradación de los neumáticos más suaves podría tener un impacto significativo en las decisiones estratégicas de los equipos. Un análisis de Pirelli también identificó grano localizado en el neumático delantera izquierda, pero este problema parece estar mejorando. Los equipos deberán evaluar si pueden mantener los neumáticos más suaves lo suficientemente bien como para completar una parada más larga o si una parada adicional ofrecería un tiempo de carrera mejor. Pirelli espera que la evolución del circuito continúe y que esto reduzca el problema de grano localizado.
 
 Por qué importa:
-en tiempo real (RCS) para agentes de voz; CONTEXTO_ES La adquisición de Daily por parte de Deepgram es significativa en un sector en constante crecimiento, donde las empresas están buscando consolidar su posición a través de acuerdos y adquisiciones. La adquisición de Pipecat fortalecerá la infraestructura de voz de Deepgram y le permitirá explorar nuevas áreas.</summary>
-    <published>2026-10-29T13:00:00+00:00</published>
+La carrera del Gran Premio de México es importante porque es uno de los eventos más populares del calendario de Fórmula 1 y atrae a una gran cantidad de espectadores. La gestión de los neumáticos será crucial para los equipos, ya que la degradación de los neumáticos más suaves podría tener un impacto significativo en las decisiones estratégicas.</summary>
+    <published>2026-10-31T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/</id>
-    <title>[Tecnología] Equipping healthcare professionals with practical AI skills</title>
-    <updated>2026-10-30T13:21:12.724376+00:00</updated>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/</id>
+    <title>[Tecnología] La primera respuesta del satélite de prototipo Project Suncatcher</title>
+    <updated>2026-10-31T14:21:27.242106+00:00</updated>
     <author>
       <name>Technology</name>
     </author>
-    <link href="https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/"/>
-    <summary>El Google AI for Healthcare Professionals Certificate es un programa diseñado para enseñar a los profesionales de la salud a utilizar la inteligencia artificial de manera responsable y práctica. El programa, desarrollado por clinicians de Google, ofrece una formación flexible y autodirigida en cuatro cursos que enseñan a los profesionales de la salud a utilizar la inteligencia artificial para automatizar tareas administrativas y centrarse en la atención al paciente. El programa se ofrece en colaboración con instituciones de salud y universidades, y se puede registrar en el sitio web del programa. El Google AI for Healthcare Professionals Certificate es una oportunidad para que los profesionales de la salud puedan desarrollar las habilidades necesarias para utilizar la inteligencia artificial de manera efectiva y mantener la atención del paciente. El programa se centra en la formación de habilidades prácticas y se ofrece en un formato flexible que se puede completar en menos de cinco horas. El programa se ha diseñado para ayudar a los profesionales de la salud a reducir sus cargas de trabajo administrativas y centrarse en la atención al paciente. El Google AI for Healthcare Professionals Certificate es una iniciativa que busca apoyar a los profesionales de la salud en su uso responsable de la inteligencia artificial. El programa se ha desarrollado en colaboración con instituciones de salud y universidades, y se ofrece en varios formatos. El Google AI for Healthcare Professionals Certificate es una oportunidad para que los profesionales de la salud puedan desarrollar las habilidades necesarias para utilizar la inteligencia artificial de manera efectiva y mantener la atención del paciente.
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"/>
+    <summary>El satélite de prototipo de Project Suncatcher, lanzado el 1 de octubre, ha recibido su primera respuesta. Después de la lanzamiento, el equipo completó su checklist de comisionamiento y realizó pruebas de aprendizaje automático. El "mundo en saludo" se alcanzó con la primera respuesta de un TPU en órbita. El satélite respondió a una pregunta sobre ser en el espacio, generando un poema de haiku. Las pruebas continuaron con limericks y solicitudes de telemetría. El objetivo es evaluar cómo funcionan los TPUs en el espacio. Esta respuesta es un paso importante hacia el próximo objetivo de dos satélites conectados en 2027.
 
 Por qué importa:
-El Google AI for Healthcare Professionals Certificate es una iniciativa que busca apoyar a los profesionales de la salud en su uso responsable de la inteligencia artificial. El programa se centra en la formación de habilidades prácticas y se ofrece en un formato flexible que se puede completar en menos de cinco horas; El programa se ha diseñado para ayudar a los profesionales de la salud a reducir sus cargas de trabajo administrativas y centrarse en la atención al paciente.</summary>
-    <published>2026-10-29T13:00:00+00:00</published>
+La respuesta del satélite es importante porque marca un hito en la investigación de la energía de computación en el espacio.</summary>
+    <published>2026-10-30T17:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/oh-my-hours-ios-app/</id>
-    <title>[Tecnología] Una aplicación que te humilla por rastrear el tiempo que pierdes en redes sociales</title>
-    <updated>2026-10-30T13:21:12.724340+00:00</updated>
+    <id>https://www.wired.com/story/govee-christmas-lights-deal-october-2026/</id>
+    <title>[Tecnología] Govee Christmas Lights 2 Deal: Ahorra $25 en estas luces de cadena inteligentes</title>
+    <updated>2026-10-31T14:21:27.242070+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/story/oh-my-hours-ios-app/"/>
-    <summary>Oh My Hours es una aplicación de iOS que rastrea el tiempo que se pasa en redes sociales y otros aplicativos distractoros. La aplicación divide el día en bloques de horas que se pueden utilizar de manera productiva o perderse. Al usar la aplicación, se marca un "sello negro" en las horas en las que se pierde el tiempo en aplicativos distractoros. La aplicación ofrece una vista de mes y año, lo que proporciona una visión más completa de cómo se está utilizando el tiempo en el teléfono. La aplicación también permite personalizar qué se cuenta como una "hora perdida" y ofrece una función de "quiet hours" para establecer períodos de tiempo en los que no se debe usar el teléfono. La aplicación es gratuita, pero se requiere un pago anual o de vida para acceder a las funciones avanzadas. La aplicación también ofrece una herramienta de exportación para obtener un archivo CSV de los datos de estadísticas. La aplicación es simple y efectiva, y puede ser una herramienta útil para desarrollar hábitos más saludables en el uso del teléfono. La aplicación también ofrece otras opciones para desarrollar hábitos más saludables, como One Sec y Forest.
+    <link href="https://www.wired.com/story/govee-christmas-lights-deal-october-2026/"/>
+    <summary>La Govee Christmas Lights 2, la elección presupuestaria en nuestra guía de luces de Navidad inteligentes, ya son relativamente asequibles, pero un descuento adicional del 25% no es algo que debas pasar por alto. Puedes obtener $25 de descuento en la longitud de 66 pies, perfecta para un árbol promedio, hasta $100 de descuento en la longitud de 328 pies para cubrir todo tu jardín delantero. No he visto que estén preciosados así desde Black Friday del año pasado; Estas luces de cadena son IP67 calificadas y pueden resistir temperaturas extremas, por lo que puedes usarlas en casi cualquier lugar. Sin embargo, necesitarás un enchufe exterior y, si quieres una buena iluminación exterior, te recomiendo un cajón eléctrico resistente a las aguas. La cuerda es verde, por lo que se integra perfectamente con un árbol real o falso de Navidad o cualquier árbol o arbusto real; El rollo hace que sea fácil desenrollar la cuerda y instalarla. Puedes conectarlas a través de Bluetooth o Wi-Fi y usar la aplicación Govee, o agregarlas a tu ecosistema de hogar inteligente de elección a través de Matter. Hay un pequeño controlador con un botón de encendido, pero te recomiendo conectarlas a tu hogar inteligente para controlarlas remotamente y programarlas automáticamente; Mientras que puede tomar un poco de tiempo para que te acostumbres, te recomiendo usar la aplicación Govee porque está llena de características divertidas. Aunque hay cambios de color y brillo, hay mucho más; Al mapear tus luces utilizando la cámara de tu teléfono, puedes seleccionar efectos de iluminación animados complejos; Hay más de 100 presets para elegir, pero también puedes generar efectos para ti mismo según tus intereses. Aunque tengan Navidad en el nombre, estas luces de cadena son tan versátiles que puedes encontrar efectos que se adapten a cualquier escenario, desde efectos de Halloween espeluznantes hasta luces blancas elegantes que funcionan todo el año. He utilizado estas luces fuera durante dos años y todavía están funcionando perfectamente; Puedes acceder a contenido exclusivo con acceso ilimitado a WIRED; Obtén el mejor reportaje y contenido de suscripción que es demasiado importante para ignorar; Suscribete hoy.
 
 Por qué importa:
-La aplicación Oh My Hours es una herramienta útil para desarrollar hábitos más saludables en el uso del teléfono, ya que proporciona una visión clara de cómo se está utilizando el tiempo en el teléfono. Al rastrear el tiempo que se pasa en redes sociales y otros aplicativos distractoros, la aplicación puede ayudar a los usuarios a identificar áreas en las que pueden mejorar su uso del teléfono; La aplicación es una herramienta simple y efectiva que puede ser una parte importante de una estrategia para desarrollar hábitos más saludables en el uso del teléfono.</summary>
-    <published>2026-10-30T11:00:00+00:00</published>
+Estas luces de cadena inteligentes son una excelente opción para aquellos que buscan una iluminación exterior versátil y fácil de usar.</summary>
+    <published>2026-10-31T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/</id>
-    <title>[Tecnología] Meta lanza una aplicación de moda con inteligencia artificial para probar virtualmente ropa</title>
-    <updated>2026-10-30T13:21:12.724305+00:00</updated>
+    <id>https://gizmodo.com/a-firefly-lost-for-43-years-is-back-and-its-far-from-the-only-one-missing-2000833227</id>
+    <title>[Tecnología] Una mariposa de fuego perdida durante 43 años vuelve a aparecer y no es la única</title>
+    <updated>2026-10-31T14:21:27.242035+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>Gizmodo</name>
     </author>
-    <link href="https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/"/>
-    <summary>Meta ha lanzado una aplicación de moda con inteligencia artificial llamada Style Sketch en Indonesia, Singapur y Tailandia, con limitada disponibilidad. La aplicación puede conectarse a sus cuentas de Facebook e Instagram para crear un armario virtual a partir de fotos compartidas en redes sociales. También puede subir fotos existentes desde la galería de fotos o tomar nuevas fotos de ropa. Una vez dentro, puede obtener sugerencias de combinaciones de ropa y probar diferentes combinaciones en un modelo virtual que se adapte a su tipo de cuerpo y tono de piel. La aplicación también puede sugerir planes de ropa para un viaje. Meta ha mencionado que la aplicación es parte de una serie de aplicaciones que el empresa está lanzando, gracias a la facilidad con la que se pueden desarrollar gracias a la inteligencia artificial. Estas aplicaciones ayudarán a la empresa a entrenar sus sistemas de inteligencia artificial y a atraer más usuarios. La aplicación es la última en una serie de innovaciones en tecnología de moda por parte de Meta. Google y OpenAI también han lanzado aplicaciones similares en el pasado; Style Sketch es una aplicación que busca revolucionar la forma en que se intenta la ropa. La aplicación puede ser utilizada por personas que buscan una experiencia más personalizada al probar ropa virtualmente.
+    <link href="https://gizmodo.com/a-firefly-lost-for-43-years-is-back-and-its-far-from-the-only-one-missing-2000833227"/>
+    <summary>En 1957, el entomólogo estadounidense John Wagener Green descubrió la Pyractomena similis, una mariposa de fuego conocida como la similar mariposa de fuego. Sin embargo, no se volvió a documentar desde 1983, lo que la convirtió en una de las especies más perdidas. Hasta hace poco, científicos no habían vuelto a encontrarla. Sin embargo, en este año, un equipo de científicos liderados por Christopher "Kitt" Heckscher encontró la especie en un meadow de Brandywine Creek State Park en Delaware. La especie se encuentra en peligro de extinción y hay al menos 28 otras especies de mariposas de fuego que se consideran perdidas en Estados Unidos y Canadá. La rediscoverión de la Pyractomena similis es un ejemplo de cómo la búsqueda de especies perdidas puede ser exitosa con la ayuda de la tecnología y la investigación. La especie se encuentra en hábitats comunes en la región, pero su población ha disminuido en las últimas décadas. Los científicos creen que la búsqueda de otras especies perdidas puede ser exitosa en áreas similares.
 
 Por qué importa:
-La aplicación Style Sketch es una innovación en tecnología de moda que busca hacer más fácil y divertido la búsqueda de ropa. La aplicación puede ser especialmente útil para personas que tienen dificultades para probar ropa en tiendas físicas o que buscan una experiencia más personalizada al probar ropa virtualmente.</summary>
-    <published>2026-10-30T12:05:36+00:00</published>
+La rediscoverión de la Pyractomena similis es importante porque puede ayudar a entender mejor la dinámica de las especies en peligro de extinción. La especie se encuentra en hábitats comunes en la región, pero su población ha disminuido en las últimas décadas debido a la degradación del hábitat y la contaminación; La búsqueda de otras especies perdidas puede ser exitosa en áreas similares, lo que podría ayudar a proteger estas especies y sus hábitats.</summary>
+    <published>2026-10-31T11:30:32+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</id>
-    <title>[Tecnología] ¿Podrán los centros de datos de inteligencia artificial ser producidos en masa como los automóviles? Esta startup busca encontrarlo</title>
-    <updated>2026-10-30T13:21:12.724268+00:00</updated>
-    <author>
-      <name>TechCrunch</name>
-    </author>
-    <link href="https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"/>
-    <summary>Runware, una empresa de infraestructura de inteligencia artificial, está trabajando en un plan ambicioso para producir centros de datos de inteligencia artificial en masa. El objetivo es construir una fábrica que asamble los centros de datos en una línea de producción, como se hace con los automóviles. La empresa espera producir 30 megawatts de capacidad de centro de datos por día en 2028, lo que equivale a 1 gigawatt por mes. Esto refleja un esfuerzo industrial en marcha para desplegar centros de datos de inteligencia artificial más rápido y eficientemente. Runware ha recibido $1 billón en compromisos de interés para sus centros de datos de inteligencia artificial desde que comenzó a ofrecerlos a los clientes. La empresa busca reducir el tiempo de entrega de sus centros de datos a solo 48 horas, lo que es más rápido que el tiempo actual de tres semanas. Los centros de datos de Runware pueden ser personalizados según las necesidades de los clientes y utilizan un sistema de enfriamiento cerrado que reduce el ruido y el consumo de energía. La empresa espera expandir su fábrica en el próximo año y luego en otros países y regiones del mundo.
-
-Por qué importa:
-La producción en masa de centros de datos de inteligencia artificial es importante debido a la creciente demanda de capacidad de computación para aplicaciones de inteligencia artificial; Los centros de datos de inteligencia artificial consumen una gran cantidad de energía y pueden tener un impacto significativo en el medio ambiente. Sin embargo, Runware afirma que sus centros de datos son más eficientes en términos de energía y no requieren una conexión a agua; La empresa también está trabajando para reducir su huella de carbono y utilizar fuentes de energía renovables.</summary>
-    <published>2026-10-30T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</id>
-    <title>[Tecnología] Las nuevas pantallas inteligentes de Apple y Amazon podrían ser las computadoras familiares que he estado buscando</title>
-    <updated>2026-10-30T13:21:12.724233+00:00</updated>
+    <id>https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer</id>
+    <title>[Tecnología] El nuevo iPad Mini es el producto más interesante de Apple este semana, aunque lamenta la ausencia de una pantalla ProMotion.</title>
+    <updated>2026-10-31T14:21:27.242000+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer"/>
-    <summary>Las nuevas pantallas inteligentes de Apple y Amazon, como el HomeView y el Echo Show 16, podrían ser las soluciones que busco para una computadora familiar. Estas pantallas inteligentes tienen hardware de clase de computadora, una pantalla diseñada para compartir y una interfaz fácil de usar. Sin embargo, su precio es un obstáculo, especialmente para el HomeView, que cuesta tres veces más que el Echo Show 5. A pesar de esto, estas pantallas inteligentes podrían ser valiosas si tienen software que las respalde. La necesidad de una pantalla central para corralar toda la información necesaria para una casa ocupada ha crecido con el tiempo, y estas pantallas inteligentes podrían ser la solución. Amazon y Apple han tomado diferentes enfoques para adaptar estas pantallas a las necesidades de las familias, lo que podría influir en su eficacia.
+    <link href="https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer"/>
+    <summary>El nuevo iPad Mini es el producto más interesante de Apple este semana, aunque lamenta la ausencia de una pantalla ProMotion. Aunque no está disponible en la Tienda App de Apple, el iPad Mini es más delgado y ligero. El editor está emocionado con la idea de un tablet funcional y resistente a las aguas y la polvo. El iPad Mini es una excelente opción para aquellos que buscan un dispositivo portátil y fácil de usar. El editor también destaca la presencia del Alexa Photo Frame, que es una excelente opción para aquellos que buscan un marco de fotos inteligente y fácil de usar. Además, el editor menciona la nueva versión de nvAlt, que ahora puede correr en Macs modernos, y la aplicación Chromagraph, que permite procesar fotos de iPhone de manera única. El editor también menciona la película "I love the iPod. It ruined everything", que es una crítica interesante al dispositivo. Finalmente, el editor menciona la aplicación Readwise Books, que es una excelente opción para aquellos que buscan una aplicación de lectura de libros poderosa y fácil de usar.
 
 Por qué importa:
-La necesidad de una pantalla central para corralar toda la información necesaria para una casa ocupada ha crecido con el tiempo, y las pantallas inteligentes podrían ser la solución; La popularidad de dispositivos como el Skylight Calendar muestra la necesidad de una pantalla compartida para la familia. Sin embargo, las tabletas tienen desafíos, como el soporte limitado para múltiples usuarios y la posibilidad de que la batería se acabe en cualquier momento; Las nuevas pantallas inteligentes de Apple y Amazon podrían ser la solución a estos problemas.</summary>
-    <published>2026-10-30T13:00:00+00:00</published>
+El nuevo iPad Mini es un dispositivo que ha generado mucha expectación en la comunidad de Apple, aunque su ausencia de una pantalla ProMotion ha sido un tema de debate. El editor está emocionado con la idea de un tablet funcional y resistente a las aguas y la polvo, y cree que es una excelente opción para aquellos que buscan un dispositivo portátil y fácil de usar.</summary>
+    <published>2026-10-31T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/faladetimilehin/babokr-guide-v3-requirements-analysis-and-design-definition-radd-5196</id>
-    <title>[Programación] Guide de RADD v3: Análisis de requisitos y definición de diseño</title>
-    <updated>2026-10-30T13:21:12.724194+00:00</updated>
+    <id>https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/</id>
+    <title>[Tecnología] Un iPhone Duo es mejor que un iPhone 17 Pro Max</title>
+    <updated>2026-10-31T14:21:27.241965+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://dev.to/faladetimilehin/babokr-guide-v3-requirements-analysis-and-design-definition-radd-5196"/>
-    <summary>El Guide de RADD v3 es una herramienta para garantizar que los requisitos y diseños sean claros, completos, consistentes y alineados con los objetivos de la empresa. El Business Analyst debe organizar, analizar, modelar, verificar y validar la información para guiar el desarrollo o la selección de una solución adecuada. Un hospital introduce un sistema de recordatorios automáticos de citas debido a las citas perdidas que reducen la capacidad de servicio y desperdician recursos clínicos. El sistema de citas necesita datos de pacientes, fechas de citas, información de clínicos y estado de reserva. Un análisis financiero ayuda a evaluar los costos y los beneficios financieros esperados de una solución. El ROI es una medida utilizada para evaluar los beneficios financieros relativos a la inversión. El RADD utiliza seis tareas: análisis de valor y recomendación de solución, especificación y modelado de requisitos, verificación, validación, organización de requisitos y diseños, evaluación de valor y recomendación de solución. El objetivo final del RADD es reflejar un entendimiento acordado de la necesidad de negocio y el valor de la solución. La verificación de requisitos es importante para asegurar que los requisitos sean de alta calidad y relevantes para las personas afectadas por el cambio.
+    <link href="https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"/>
+    <summary>El autor recibió un iPhone Duo como préstamo de Apple antes de su vacación y se sintió frustrado con la aplicación de Touch ID y la cámara del iPhone Duo. Sin embargo, después de usarlo durante su vacación, se hizo cómodo con él. El autor encontró que el iPhone Duo era más difícil de usar que el iPhone 17 Pro Max, pero la cámara del Duo no era tan mala como la del iPhone 17 Pro Max. El autor también se dio cuenta de que algunos aplicativos no estaban actualizados para el iPhone Duo. A pesar de los problemas, el autor se sintió agradecido de haber tenido el iPhone Duo durante su vacación. El iPhone Duo tiene una pantalla que se puede doblar, lo que lo hace único. El autor se dio cuenta de que el iPhone Duo era una tarjeta de crédito de Apple. El autor se sintió frustrado con la aplicación de Google Search, que se congelaba a menudo. El autor encontró que el iPhone Duo era una buena opción para aquellos que buscan una tarjeta de crédito de Apple.
 
 Por qué importa:
-El Guide de RADD v3 es una herramienta esencial para los Business Analysts que buscan garantizar que los requisitos y diseños sean claros, completos y alineados con los objetivos de la empresa. La implementación de un sistema de recordatorios automáticos de citas en un hospital es un ejemplo de cómo el RADD puede ayudar a abordar las necesidades del negocio.</summary>
-    <published>2026-10-28T13:57:47+00:00</published>
+El iPhone Duo es una tarjeta de crédito de Apple que se puede usar como un iPhone. Es una opción única para aquellos que buscan una tarjeta de crédito de Apple.</summary>
+    <published>2026-10-31T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.bugsink.com/blog/brotli-stale-table-read/</id>
-    <title>[Programación] un solo párrafo If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability</title>
-    <updated>2026-10-30T13:21:12.724152+00:00</updated>
+    <id>https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/</id>
+    <title>[Tecnología] Microsoft quiere que vendas tu Xbox si no la usas</title>
+    <updated>2026-10-31T14:21:27.241928+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.bugsink.com/blog/brotli-stale-table-read/"/>
-    <summary>El guard de HTTP2Shell, que fue agregado en el primer punto en tiempo donde se unieron los cuatro problemas, es una vulnerabilidad que afecta a las versiones anteriores de Brotli. El guard se agregó para evitar leer tablas de switching que no estaban construidas, pero en realidad, puede ser alcanzado mediante explotaciones de los primeros dos pasos del cadena de vulnerabilidad. En versiones anteriores de Brotli, el guard no estaba presente, lo que significa que el decoder podría leer memoria no inicializada o tablas de switching controladas por un atacante. Esto es especialmente preocupante en versiones anteriores de Brotli, como 1.0.2, donde la memoria no se inicializa correctamente. El guard fue agregado en el commit de febrero de 2018, titulado "New feature: Large Window Brotli", que también introdujo un cambio en el valor inicial del contador de bloques. La vulnerabilidad fue descubierta después de la publicación de HTTP2Shell, y se ha encontrado que las versiones anteriores de Brotli, incluyendo 1.0.3, también son vulnerables. El guard es un ejemplo de cómo una vulnerabilidad puede ser "good enough" para un desarrollador, pero no es lo suficientemente seguro para proteger contra ataques. La vulnerabilidad fue descubierta después de una investigación en el origen de HTTP2Shell, y se ha encontrado que el guard puede ser alcanzado mediante explotaciones de los primeros dos pasos del cadena de vulnerabilidad.
+    <link href="https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/"/>
+    <summary>Microsoft está enviando correos electrónicos a usuarios que no han utilizado su Xbox en un tiempo, ofreciéndoles la oportunidad de trade-in su consola. Esto se debe a la escasez de RAM que ha causado un aumento en los precios de las consolas. Microsoft ha anunciado varias medidas para aumentar la oferta de consolas, incluyendo la posibilidad de trade-in. Los usuarios que trade-in su consola pueden recibir hasta $375 de regreso. Sin embargo, la trade-in no es la mejor opción para obtener un buen retorno en su consola. Microsoft quiere que los usuarios vendan su consola a través de Best Buy, lo que podría ser una forma de llegar a un público más amplio. La escasez de RAM se espera que dure hasta 2028, lo que sugiere que Microsoft quiere minimizar la cantidad de consolas que se acumulan en el mercado. La trade-in a través de Best Buy puede ser una forma conveniente de vender su consola, pero puede no ser la mejor opción para obtener un buen precio. Microsoft tiene su propio programa de trade-in y también puede comprar consolas refaccionadas directamente desde su sitio web. La posibilidad de que los usuarios vendan su consola a través de Best Buy puede ser una forma de que Microsoft gane dinero a través de sus suscripciones de Game Pass y ventas digitales.
 
 Por qué importa:
-La vulnerabilidad del guard de HTTP2Shell es importante porque muestra cómo una vulnerabilidad puede ser "good enough" para un desarrollador, pero no es lo suficientemente segura para proteger contra ataques. La vulnerabilidad se agregó en el commit de febrero de 2018, titulado "New feature: Large Window Brotli", que también introdujo un cambio en el valor inicial del contador de bloques; La vulnerabilidad fue descubierta después de la publicación de HTTP2Shell, y se ha encontrado que las versiones anteriores de Brotli, incluyendo 1.0.3, también son vulnerables.</summary>
-    <published>2026-10-28T21:30:26+00:00</published>
+La escasez de RAM ha causado un aumento en los precios de las consolas de Xbox, lo que puede no ser el momento ideal para comprar una; Además, si ya tiene la última versión de la consola, no se espera que reciba una gran cantidad de exclusivas. Microsoft ha estado utilizando una estrategia de multiplataforma, lo que ha ayudado a mantener la consola atrás de Sony en términos de exclusivas; La posibilidad de que los usuarios vendan su consola a través de Best Buy puede ser una forma de que Microsoft gane dinero a través de sus suscripciones y ventas digitales.</summary>
+    <published>2026-10-31T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://hologram.page/blog/local-first-means-three-different-things</id>
     <title>[Programación] Local-First Means Three Different Things</title>
-    <updated>2026-10-30T13:21:12.724115+00:00</updated>
+    <updated>2026-10-31T14:21:27.241890+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -391,7 +363,7 @@ La idea de "local-first" es importante porque permite a las aplicaciones funcion
   <entry>
     <id>https://css-tricks.com/the-frankenstein-table/</id>
     <title>[Programación] La tabla Frankenstein</title>
-    <updated>2026-10-30T13:21:12.724075+00:00</updated>
+    <updated>2026-10-31T14:21:27.241852+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -405,7 +377,7 @@ La creación de una tabla que combine la funcionalidad de una tabla con la flexi
   <entry>
     <id>https://toji.dev/2026/10/06/webgpu-bindless.html</id>
     <title>[Programación] Experimenting with Bindless Textures in WebGPU</title>
-    <updated>2026-10-30T13:21:12.724019+00:00</updated>
+    <updated>2026-10-31T14:21:27.241813+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -419,7 +391,7 @@ La tecnología bindless es importante porque permite una mayor flexibilidad en l
   <entry>
     <id>https://dev.to/michael_maurice/the-shadow-model-issued-a-refund-7-mistakes-that-make-llm-model-upgrades-in-net-riskier-than-they-j9j</id>
     <title>[Programación] 7 errores que hacen que las actualizaciones del modelo LLM en .NET sean más riesgosas de lo que parecen</title>
-    <updated>2026-10-30T13:21:12.723926+00:00</updated>
+    <updated>2026-10-31T14:21:27.241773+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +401,33 @@ La tecnología bindless es importante porque permite una mayor flexibilidad en l
 Por qué importa:
 El proyecto de soporte offline es una prueba de 206 escenarios que evalúa los hábitos malos del modelo de soporte offline. La demo de 10 escenas de CLI es una prueba que ejecuta todo en tiempo falso, lo que hace que las cifras y el tráfico sean inexactos.</summary>
     <published>2026-10-30T12:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://seriot.ch/computation/curl.html</id>
+    <title>[Programación] Cómo curl fue accidentalmente Turing-completo durante nueve meses</title>
+    <updated>2026-10-31T14:21:27.241718+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://seriot.ch/computation/curl.html"/>
+    <summary>En el rango de versiones de curl 8.12 a 8.16, se permitía a los archivos de configuración "slicar" los valores de las variables y incluir otros archivos de configuración sin una capa de profundidad explícita. Estas características, junto con la capacidad de curl de simular cualquier programa de dos contadores Minsky, lo convirtieron en Turing-completo. Sin embargo, en la versión 8.17.0 de curl, se agregó una capa de inclusión de cinco niveles que rompió esta reducción. En octubre de 2026, se informó que Jonathan Tremesaygues había implementado el programa "99 Botellas de Cerveza en el Pared" utilizando curl. El programa utiliza contadores y archivos de configuración para simular cualquier programa de dos contadores Minsky. En febrero de 2026, se informó que se había encontrado un error en la versión de curl 8.12.0 que permitía a los archivos de configuración incluirse a sí mismos indefinidamente. La capa de inclusión de cinco niveles se agregó para evitar este problema. En marzo de 2026, se informó que se había encontrado una forma de complementar la capacidad de curl para ejecutar bucles while utilizando un ciclo de Bash para invocar una configuración una vez por paso y llevar los contadores y el etiqueta de instrucción entre invocaciones. Esto significa que la capacidad de curl para ser Turing-completo es una composición y no solo una capacidad de curl.
+
+Por qué importa:
+Este incidente resalta la importancia de revisar y documentar las características de las herramientas de software; La capacidad de curl para ser Turing-completo durante nueve meses podría haber tenido consecuencias inesperadas si no se hubiera descubierto a tiempo. La historia también destaca la importancia de la colaboración y la comunicación entre los desarrolladores de software para identificar y solucionar problemas complejos.</summary>
+    <published>2026-10-30T15:37:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/fuloxdev/search-a-youtube-channels-transcripts-and-get-alerts-for-new-uploads-apify-no-code-2ao7</id>
+    <title>[Programación] Buscar transcripciones de un canal de YouTube y recibir alertas por nuevos subidos (Apify, sin código)</title>
+    <updated>2026-10-31T14:21:27.241625+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/fuloxdev/search-a-youtube-channels-transcripts-and-get-alerts-for-new-uploads-apify-no-code-2ao7"/>
+    <summary>El lector personal de noticias utiliza el Actor de Transcripta de YouTube, creado por el autor, para buscar transcripciones de videos de un canal específico. El actor cuesta $1.50 por cada 1.000 horas de transcripción en los planes Free y Starter. El lector permite buscar un canal, especificar el número de videos por canal y recibir alertas por nuevos subidos. El actor también puede leer videos existentes y nuevos, y proporciona transcripciones con diferentes formatos y calificaciones de calidad. El lector es gratuito y no requiere pago para buscar transcripciones, aunque se cobra por las transcripciones entregadas. El actor también puede enviar notificaciones a Slack cuando se detectan nuevos subidos. El lector es útil para buscar transcripciones de videos de YouTube y recibir alertas por cambios en el contenido. El actor es compatible con diferentes formatos de transcripción y calificaciones de calidad. El lector es una herramienta útil para investigadores y usuarios de YouTube que necesitan buscar transcripciones de videos. El actor también permite bloquear personas y reportar abuso si se detectan problemas.
+
+Por qué importa:
+Esta herramienta es útil para investigadores y usuarios de YouTube que necesitan buscar transcripciones de videos y recibir alertas por cambios en el contenido. El lector personal de noticias permite buscar transcripciones de videos de YouTube de manera rápida y eficiente, sin requerir código o pago adicional.</summary>
+    <published>2026-10-31T13:55:06+00:00</published>
   </entry>
 </feed>
