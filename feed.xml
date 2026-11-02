@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-10-31T14:21:27.241604+00:00</updated>
+  <updated>2026-11-02T13:23:58.323548+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,135 +11,93 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html</id>
-    <title>[Economía] Chevron y Exxon superan las expectativas de ganancias en el tercer trimestre</title>
-    <updated>2026-10-31T14:21:27.242735+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html</id>
+    <title>[Economía] La representante democrática estadounidense Haley Stevens apoya al senador republicano Mike Rogers en la elección senatorial de Michigan</title>
+    <updated>2026-11-02T13:23:58.324700+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html"/>
-    <summary>Chevron y ExxonMobil reportaron ganancias que saltaron en el tercer trimestre, aprovechando los altos precios del diesel. La empresa estadounidense Chevron registró una ganancia del 200% a $9.9 mil millones, o $5.06 por acción, superando las expectativas de Wall Street. ExxonMobil, por su parte, dobló sus ganancias a $15.4 mil millones, o $3.72 por acción. Los refineros estadounidenses han aumentado la producción para cubrir la brecha de suministro causada por los bombardeos en Rusia y el Medio Oriente. Los precios del diesel han subido globalmente; Las acciones de Chevron y ExxonMobil subieron en el mercado. Los refineros procesaron cantidades récord de petróleo y produjeron más de 10% más de diesel y jet. La producción de petróleo y gas de Chevron generó ganancias de $5.7 mil millones, un 70% más que en el mismo período del año anterior. La división de refinación de ExxonMobil generó ganancias de $7.2 mil millones, superando las ganancias de su negocio de producción de $7.1 mil millones. La división de refinación de ExxonMobil ha aumentado sus ganancias en un 200% a $11.4 mil millones hasta el momento del año. La producción de Chevron disminuyó ligeramente a 3.9 millones de barriles por día, mientras que la producción de ExxonMobil es de 4.5 millones de barriles por día, un declive del 2% en comparación con el mismo período del año anterior.
+    <link href="https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"/>
+    <summary>La representante democrática estadounidense Haley Stevens anunció su apoyo a Mike Rogers, el candidato republicano, en la elección senatorial de Michigan, en un giro inesperado que ha generado controversia dentro del partido demócrata. Stevens, que perdió la primaria demócrata para su rival Abdul El-Sayed, había estado apoyando su candidatura desde entonces. Su cambio de opinión se debió a una serie de tensiones con la campaña de El-Sayed, que habían aumentado después de una publicidad inflamada por una organización de acción política, que mostraba a una pareja discutiendo sobre si podían permitirse comprar alimentos debido a la ayuda de EE. UU. a Israel. El-Sayed negó cualquier involucramiento con la publicidad. El apoyo de Stevens a Rogers ha sido criticado por muchos demócratas, incluyendo al líder del Senado, Chuck Schumer, quien lo calificó de "traición despreciable". La elección senatorial de Michigan es crucial para determinar cuál partido controlará el Senado durante los últimos dos años de la presidencia de Donald Trump.
 
 Por qué importa:
-La situación en el Medio Oriente y Rusia ha provocado una escasez de suministro de petróleo, lo que ha llevado a los refineros estadounidenses a aumentar su producción para cubrir la brecha. Los altos precios del diesel han sido un factor clave para las ganancias de Chevron y ExxonMobil en el tercer trimestre.</summary>
-    <published>2026-10-30T11:35:51+00:00</published>
+El apoyo de Stevens a Rogers ha generado un gran revuelo dentro del partido demócrata, que ha expresado su descontento con su decisión; El líder del Senado, Chuck Schumer, y otros demócratas han desacreditado la decisión de Stevens, calificándola de "traición despreciable". La elección senatorial de Michigan es crucial para determinar cuál partido controlará el Senado durante los últimos dos años de la presidencia de Donald Trump.</summary>
+    <published>2026-11-01T21:06:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html</id>
-    <title>[Economía] Democratizando la impresión 3D en la industria automotriz</title>
-    <updated>2026-10-31T14:21:27.242701+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html</id>
+    <title>[Economía] toma de control de la IDBI Bank por parte de Fairfax Financial Holdings</title>
+    <updated>2026-11-02T13:23:58.324663+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html"/>
-    <summary>Automakers como Rivian y Ford están adoptando la impresión 3D para reducir costos y aumentar velocidad en su producción. La tecnología, que ha estado presente durante décadas, se está volviendo más accesible y se está utilizando para crear partes y accesorios para vehículos, herramientas para plantas de ensamblaje y unidades de prueba para laboratorios de investigación. Rivian ha invertido más de $5 millones en máquinas de impresión 3D y espera que el costo de los materiales crezca a $1.7 millones al año. El director de la división de impresión 3D de Rivian, Jared Beck, afirma que la tecnología ayuda a reducir los costos de los proveedores y a acelerar la producción de partes, lo que puede generar ahorros de millones de dólares. Ford también está utilizando la impresión 3D para producir partes y accesorios para sus vehículos, y espera tener 23 plantas con laboratorios de impresión 3D en funcionamiento a finales de este año. La empresa General Motors también está utilizando la tecnología para producir partes para sus vehículos de alta gama, como el Cadillac Celestiq.
+    <link href="https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html"/>
+    <summary>La IDBI Bank, una institución financiera estatal de la India, está siendo objeto de un toma de control de $5.5 billion por parte de la empresa Fairfax Financial Holdings. Sin embargo, los empleados de la institución y los políticos de la India están expresando su oposición a la transacción, argumentando que la venta de la institución no es transparente y que el gobierno no está protegiendo los intereses de los empleados y la inversión pública. El líder de la oposición, Rahul Gandhi, ha expresado su apoyo a los empleados de la institución, argumentando que las instituciones financieras públicas no deben ser vendidas. La ministra de Hacienda, Nirmala Sitharaman, ha defendido la transacción, argumentando que la institución ha sido revitalizada y está lista para su próximo período de crecimiento. La transacción ha sido criticada por la presión sobre el gobierno para vender instituciones financieras públicas para aliviar las presiones fiscales. El gobierno ha estado dividiendo participaciones en varias empresas este año, incluyendo la IDBI Bank, en un esfuerzo por mantener el crecimiento del país. La transacción ha sido calificada como la mayor inversión directa extranjera en la sector financiero de la India.
 
 Por qué importa:
-La impresión 3D está revolucionando la industria automotriz al permitir a los fabricantes reducir costos y aumentar la velocidad en su producción; La tecnología, que ha estado presente durante décadas, se está volviendo más accesible y se está utilizando para crear partes y accesorios para vehículos, herramientas para plantas de ensamblaje y unidades de prueba para laboratorios de investigación. La adopción de la impresión 3D por parte de empresas como Rivian y Ford es un paso importante hacia la democratización de esta tecnología, lo que podría tener un impacto significativo en la industria.</summary>
-    <published>2026-10-31T12:00:01+00:00</published>
+La oposición a la transacción se debe a preocupaciones sobre la transparencia del proceso de venta y la protección de los intereses de los empleados y la inversión pública. La venta de la institución también ha sido criticada por ir en contra de la promesa de los gobiernos anteriores de mantener una participación del 51% en la institución.</summary>
+    <published>2026-11-02T04:09:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html</id>
-    <title>[Economía] "Super PACs gastan $637 millones en las elecciones del 2026"</title>
-    <updated>2026-10-31T14:21:27.242666+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html</id>
+    <title>[Economía] ¿Cómo puede afectar la elección del medio mandato a las acciones de defensa, salud, criptomonedas y inteligencia artificial?</title>
+    <updated>2026-11-02T13:23:58.324626+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html"/>
-    <summary>Un super PAC llamado Our Heritage Matters se registró con la Comisión Electoral Federal el 15 de octubre y comenzó a gastar dinero para promover candidatos de tercer partido y atacar a republicanos el 20 de octubre. El grupo había gastado aproximadamente $1.2 millones en 10 carreras de la Cámara y el Senado el 29 de octubre. La ley federal requiere que los super PACs y los comités políticos informen de las grandes independientes exposiciones dentro de 24 o 48 horas, dependiendo de la proximidad a la elección día. En 2026, la práctica de crear nuevos PACs a última hora ha explotado, con ambas partes utilizando la táctica, con los PACs republicanos gastando aproximadamente el doble que los conectados con los demócratas. Veintiduos super PACs que se registraron con la FEC durante las últimas 10 semanas antes de la elección día han gastado al menos $1 millón en carreras congresales. El número de super PACs a última hora que han gastado al menos $1 millón ha más que cuadruplicado desde 2022, mientras que su gasto ha crecido casi 35 veces. Los grupos restantes gastaron casi 12 veces más que los super PACs similares en el mismo punto en 2022. En total, los super PACs han gastado $637 millones en las elecciones del 2026.
+    <link href="https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html"/>
+    <summary>La elección del medio mandato puede tener un impacto significativo en varios sectores, incluyendo la defensa, la salud y las criptomonedas. La empresa de defensa Lockheed Martin obtiene alrededor del 70% de sus ventas del gobierno de EE; UU., mientras que Molina Healthcare obtiene el 75% de sus ingresos premium de Medicaid. La victoria demócrata en alguna o ambas cámaras del Congreso daría a la parte más poder para investigar empresas, desafiar gastos federales y exigir concesiones legales. Además, la empresa de salud Molina Healthcare generó $32.2 mil millones, o 75% de sus ingresos premium, de Medicaid en 2025. Los resultados de las elecciones del medio mandato pueden decidir quién tiene el poder y quién se verá afectado por los costos de actualización de la red. La industria de las criptomonedas está esperando a que se escriban las reglas para su regulación. La historia muestra que los bonos de acciones han crecido bien bajo gobiernos divididos. La empresa de defensa Lockheed Martin ha firmado un acuerdo de marco con el Pentágono para comprar 850 aviones de combate F-35. El presidente Donald Trump seguiría teniendo su veto y autoridad amplia sobre tarifas, inmigración y regulación federal. Los hiperscalers, incluyendo Microsoft, Amazon, Alphabet y Meta, esperan invertir más de $1 trillion en proyectos de capital en 2027.
 
 Por qué importa:
-La creación de super PACs a última hora es una táctica común en las elecciones en Estados Unidos, donde las campañas pueden gastar grandes cantidades de dinero en poco tiempo. Esto se debe en parte a la falta de regulación y a la posibilidad de que los super PACs no sean transparentes en sus donantes y sus actividades.</summary>
-    <published>2026-10-31T12:00:01+00:00</published>
+La elección del medio mandato puede tener un impacto significativo en la regulación de las criptomonedas, ya que el Congreso de EE. UU; está esperando a que se escriban las reglas para su regulación.</summary>
+    <published>2026-11-02T11:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html</id>
-    <title>[Economía] La seguridad de los fondos en las bolsas de criptomonedas es cuestionada después de un gran robo</title>
-    <updated>2026-10-31T14:21:27.242628+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html</id>
+    <title>[Economía] Alertas falsas de alerta nuclear en Ucrania después de ataques cibernéticos en aplicaciones de emergencia</title>
+    <updated>2026-11-02T13:23:58.324590+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html"/>
-    <summary>Dos brechas de seguridad en las últimas semanas han levantado preguntas sobre la seguridad de almacenar fondos en una bolsa de criptomonedas; El 6 de abril, Binance sufrió un robo de $6.3 mil millones en activos de sus clientes, convirtiéndose en el mayor robo de criptomonedas en la historia. Polymarket, una plataforma de mercado de predicción, también sufrió una brecha de seguridad, lo que resultó en la pérdida de al menos $2.7 millones. Los expertos en seguridad informaron que estos incidentes no son sorprendentes, considerando los recientes incidentes de hacking con inteligencia artificial; Los expertos también advirtieron que se pueden esperar más incidentes de seguridad en el futuro, ya que este problema empeora. Los expertos también destacaron que no hay protección similar a la de la Federación de Depósitos de EE; UU; para los fondos perdidos en una bolsa de criptomonedas. Binance y Polymarket aseguraron a sus usuarios que cubrirían a los afectados, lo que sugiere que los usuarios pueden sentirse seguros en las bolsas de criptomonedas. Sin embargo, los expertos también destacaron que la industria de las criptomonedas necesita mejorar su seguridad para evitar futuros incidentes. Los expertos también destacaron que la seguridad de las bolsas de criptomonedas puede mejorar en el futuro, ya que la industria tendrá la experiencia de cómo manejar estos ataques. Los expertos también destacaron que las bolsas de criptomonedas que operan en el régimen de las regulaciones de EE; UU; no sufrieron un incidente similar; Los expertos también destacaron que las regulaciones de EE; UU. pueden no haber detenido un incidente como el de Binance, ya que el robo puede haber involucrado a un ingeniero de desarrollo que utilizó un laptop comprometido. Los expertos también destacaron que la seguridad de las bolsas de criptomonedas puede ser mejor que la de los wallets de criptomonedas, ya que las bolsas de criptomonedas tienen la seguridad de una empresa detrás de ellas.
+    <link href="https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"/>
+    <summary>La Fuerza Aérea de Ucrania informó que su aplicación de alerta aérea había sido comprometida después de que se enviaron alertas falsas de amenazas nucleares y químicas en Kiev y otras áreas. La aplicación de emergencias de Rusia también fue objeto de un ataque cibernético, lo que permitió a los atacantes enviar información falsa a la población. El incidente ocurrió en un momento en que Rusia y Ucrania continúan intercambiando ataques sobre sus territorios y infraestructuras. El presidente ucraniano Volodymyr Zelenskyy informó que octubre fue el mes más mortífero para Rusia desde el inicio de la invasión en 2022, con 54,400 soldados rusos muertos o heridos. La Fuerza Aérea de Ucrania desactivó temporalmente las notificaciones de la aplicación y la Fuerza de Defensa de Ucrania informó que Rusia reforzó sus posiciones militares en la ciudad de Kherson durante el breve cesarío. La aplicación de emergencias de Ucrania y la Fuerza Aérea de Ucrania desmintieron las alertas falsas, mientras que Rusia no respondió a las preguntas de CNBC.
 
 Por qué importa:
-La seguridad de los fondos en las bolsas de criptomonedas es una preocupación creciente debido a los recientes incidentes de seguridad; Los expertos en seguridad informaron que la industria de las criptomonedas es un objetivo atractivo para los hackers debido a la gran liquidez de los fondos. Los expertos también destacaron que la falta de regulaciones y protección similar a la de la Federación de Depósitos de EE; UU; hace que los fondos perdidos en una bolsa de criptomonedas sean vulnerables a los ataques; Sin embargo, los expertos también destacaron que la industria de las criptomonedas puede mejorar su seguridad en el futuro, ya que tendrá la experiencia de cómo manejar estos ataques.</summary>
-    <published>2026-10-31T12:47:08+00:00</published>
+Estos ataques cibernéticos en las aplicaciones de emergencia en Ucrania y Rusia son parte de la escalada de conflictos entre ambos países. La situación en Ucrania sigue siendo crítica, con centenares de personas evacuadas de la ciudad de Oleshky y sin acceso a alimentos, agua, electricidad y medicinas; La comunidad internacional sigue vigilando la situación y esperando una solución pacífica al conflicto.</summary>
+    <published>2026-11-02T11:18:37+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html</id>
-    <title>[Economía] Trump prometió reducir los costos de energía — pero los precios de gasolina, diesel y combustible aéreo se dispararon en su lugar</title>
-    <updated>2026-10-31T14:21:27.242593+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html</id>
+    <title>[Economía] Sen. Chris Murphy sufre un accidente cerebrovascular y está en el hospital</title>
+    <updated>2026-11-02T13:23:58.324556+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html"/>
-    <summary>Presidente Donald Trump prometió a los votantes que reduciría los precios de gasolina a menos de $2 por galón dentro de su primer año en el cargo. Sin embargo, los precios de gasolina y diesel siguen siendo un problema. Los precios de gasolina están a un nacional promedio de $4.20 por galón, un 40% más alto que el mismo período del año anterior. El precio del diesel, crítico para el transporte y la agricultura, ha aumentado un 70% en el pasado año. Trump ha prometido acciones para reducir los precios, pero la situación sigue siendo complicada. Los precios de gasolina y diesel están a punto de ser los más altos de la historia en un día de elecciones. Los analistas de petróleo dicen que los precios han aumentado debido a la guerra con Irán y la falta de flujo de petróleo a través del Strait of Hormuz. Trump ha dicho que los precios de gasolina serán más bajos una vez que termine la guerra con Irán, pero no hay una fecha concreta para ello.
+    <link href="https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"/>
+    <summary>Sen. Chris Murphy, un demócrata de Connecticut, fue hospitalizado el sábado después de sufrir un accidente cerebrovascular durante un partido de hockey de su hijo. Según su oficina, Murphy está "despierto y alerta" y está respondiendo bien a su tratamiento. El senador, que no está en la reelección en este momento, ha estado viajando por el país para apoyar a los candidatos demócratas. En el pasado, ha sido un defensor de las leyes de control de armas más estrictas y ha sido crítico con el presidente Donald Trump y las políticas de inmigración del gobierno. Otros senadores, como Ben Ray Luján y Chris Van Hollen, también han sufrido un accidente cerebrovascular en los últimos años. El senador Richard Blumenthal, también de Connecticut, expresó su apoyo a Murphy en una publicación en X.
 
 Por qué importa:
-La situación con los precios de gasolina y diesel es importante porque afecta a la economía y a la vida cotidiana de las personas; Los precios de diesel, en particular, son críticos para el crecimiento económico y para la agricultura. La guerra con Irán ha aumentado los precios de petróleo y, por lo tanto, los precios de gasolina y diesel; La situación es complicada y no hay una solución fácil; La elección de Trump como presidente fue en parte motivada por su promesa de reducir los precios de gasolina, pero ahora parece que no se ha cumplido.</summary>
-    <published>2026-10-31T12:49:58+00:00</published>
+Este incidente es preocupante para los demócratas, ya que Murphy es visto como un potencial candidato presidencial en 2028. Su salud es un tema importante en este momento, ya que su oficina ha anunciado que no estará disponible para la reelección en este momento.</summary>
+    <published>2026-11-02T12:32:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html</id>
-    <title>[Economía] Mediatorees qatares se reúnen en Teherán para reanudar negociaciones directas entre EE.UU. e Irán</title>
-    <updated>2026-10-31T14:21:27.242557+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html</id>
+    <title>[Economía] Las precios de la cruda caen por debajo de $100</title>
+    <updated>2026-11-02T13:23:58.324519+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html"/>
-    <summary>Qatari mediators han realizado más de 12 horas de conversaciones en Teherán con el objetivo de llegar a un acuerdo para evitar la posible reanudación de ataques estadounidenses en Irán después de las elecciones medioambientales estadounidenses. Iran ha prometido una "respuesta geográficamente no restringida" a cualquier nuevo ataque por parte de EE.UU. El acuerdo inicial firmado el 17 de junio entre EE.UU. e Irán para detener la lucha se derrumbó semanas después. El presidente estadounidense Donald Trump ha reiterado su afirmación de que la guerra con Irán terminará "cuando yo lo desee" y ha dicho que "sería muy rápido, pero debemos tener un final adecuado". El último ataque confirmado de EE.UU. en Irán ocurrió el 1 de septiembre. Trump había dejado abierto la posibilidad de que los ataques volvieran a comenzar después de las elecciones medioambientales del 3 de noviembre. El líder supremo iraní Mojtaba Khamenei ha anunciado que cualquier nivel de amenaza debe ser respondido con una "respuesta inmediata, impactante y geográficamente no restringida". En el último tiempo, se han reportado ataques a los barcos de petróleo en el estrecho de Hormuz, lo que ha causado un aumento en los precios del petróleo.
+    <link href="https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"/>
+    <summary>El precio de la cruda en el mercado estadounidense cayó por debajo de los $100 después de que se informaron esfuerzos diplomáticos entre Estados Unidos e Irán para resolver el conflicto en el Medio Oriente. Los precios de la cruda cayeron 3.94% en Brent y 4.17% en West Texas Intermediate. El secretario de Estado de Estados Unidos, Marco Rubio, dijo que el presidente Donald Trump prefiere resolver el conflicto de manera diplomática. Las autoridades iraníes también indicaron que un acuerdo es posible si se cumplen las demandas de manera tangible. Los Estados Unidos están preparándose para posibles acciones militares después de las elecciones del 3 de noviembre. El líder supremo de Irán, Mojtaba Khamenei, llamó a las fuerzas armadas iraníes para responder de manera inmediata y impactante a cualquier amenaza. Los expertos consideran que las tensiones en el Medio Oriente y en Ucrania seguirán siendo un tema importante en el corto plazo. Los ataques a los barcos y las refineras en el Medio Oriente y a los civiles en Ucrania no han inspirado confianza en la posibilidad de acuerdos duraderos. A pesar de esto, algunos expertos mantienen la esperanza de que se pueda encontrar una solución pacífica. Los precios de la cruda pueden seguir siendo afectados por las noticias sobre el conflicto en el Medio Oriente y en Ucrania.
 
 Por qué importa:
-La situación en el Medio Oriente sigue siendo tensa, con Irán y Arabia Saudita enfrentándose en dos frentes. Los ataques a los barcos de petróleo en el estrecho de Hormuz han aumentado la presión en la región.</summary>
-    <published>2026-10-31T13:47:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/</id>
-    <title>[Data Science] Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations</title>
-    <updated>2026-10-31T14:21:27.242524+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/"/>
-    <summary>Anthropic introdujo mods en Claude Code 2.1.287 el 1 de octubre de 2026. Los mods son pequeñas funciones que ejecutan dentro del propio proceso de Claude Code. El autor construyó cuatro mods para ayudar con su propio flujo de trabajo y probarlos. El mod "secret-guard" bloquea el acceso a los archivos .env y muestra cómo usarlos de manera segura. El autor testó secret-guard en Claude Code 2.1.296 y 2.1.295 para asegurarse de que funcionara correctamente. El mod "done-gate" marca tareas completas sin ejecutar pruebas, agregando una advertencia si se ha modificado el código. El mod "plan-meter" muestra el progreso de planificación en tiempo real. 33 modulos de código fueron revisados por Codex y se encontraron problemas que no habían sido detectados. Anthropic lanzó Claude Code en febrero de 2025 y publicó "Customize Claude Code with plugins" en octubre de 2025.
-
-Por qué importa:
-Estos mods están diseñados para ayudar a los usuarios a mejorar su flujo de trabajo y a evitar problemas de seguridad; El autor de los mods, que se identifica como Ben Newton, escribió un post sobre cómo Claude Code le sugería mods para sus sesiones. Los mods están disponibles para la versión 2.1.287 de Claude Code y pueden ser utilizados para bloquear llamadas inseguras y mejorar la seguridad del código.</summary>
-    <published>2026-10-30T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline</id>
-    <title>[Data Science] Errores de datos silenciosos que sobreviven a cada pipeline de limpieza</title>
-    <updated>2026-10-31T14:21:27.242490+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline"/>
-    <summary>Una cuarta parte de las organizaciones considera que la mala calidad de los datos les cuesta más de $5 millones al año. Se recomienda flagar cualquier paso que cause una pérdida significativa de la cohorte antes de confiar en el número resultante. La mayoría de las pípedas de producción se detienen en la sintaxis; La Pandera y dbt pruebas se basan en controles de tipo, nullidad y rango. Se recomienda utilizar una unión estricta de evento_time &lt;= feature_time en lugar de una unión simple para evitar la filtración de datos futuros. Se logran comprobaciones de cuenta de población en cada paso de la cohorte, con alertas cuando se produce una pérdida significativa de la población. Se identifican cuatro patrones que pueden corromper los datos: entidades duplicadas, valores imposibles pero válidos, filtrado de datos futuros y sesgo de supervivencia. La detección de estos patrones requiere una regla que comprenda el significado del datos, no solo su forma. Se realizan comprobaciones de nulo, duplicado y esquema en cada pipeline para verificar la forma de los datos. Se recomienda utilizar comprobaciones de rango o grupo de referencia de negocios en lugar de comprobaciones de tipo de datos. Se realizan comprobaciones de unicidad en la identidad canonicalizada y afirmaciones de jerarquía de cartilla que fallan cuando la unión produce más filas que las tablas de entrada.
-
-Por qué importa:
-Estos errores de datos silenciosos pueden tener un impacto significativo en la toma de decisiones de una organización; La mala calidad de los datos puede llevar a pérdidas financieras y daños a la reputación. Es importante identificar y corregir estos errores de manera efectiva para garantizar la precisión y la confiabilidad de los datos.</summary>
-    <published>2026-10-30T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/</id>
-    <title>[Data Science] Los agentes pueden tomar decisiones con las herramientas de sus agentes</title>
-    <updated>2026-10-31T14:21:27.242456+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/"/>
-    <summary>Un agente utiliza un modelo de decisión para investigar un pedido retrasado y cumplir con la fecha de entrega del cliente. El agente delega el trabajo a un especialista en ordenes, que utiliza un modelo de decisión para gestionar los pasos. El especialista en ordenes selecciona entre diferentes acciones, como obtener detalles de orden o buscar inventario. El modelo de decisión es entrenado para tomar decisiones rápidas y económicas. El agente utiliza el resultado del especialista en ordenes para responder al cliente y cumplir con la fecha de entrega. El modelo de decisión puede seleccionar entre diferentes acciones y agregarlas al resultado del especialista en ordenes. El agente recibe el orden de trabajo y la pregunta, y el SDK proporciona un
-
-Por qué importa:
-que se utiliza para almacenar registros; El modelo de decisión se utiliza en Azure con un esfuerzo de razonamiento medio; CONTEXTO_ES: Esta noticia es importante porque muestra cómo las herramientas de los agentes pueden ser utilizadas para tomar decisiones de manera más eficiente. La utilización de modelos de decisión y especialistas en ordenes permite a los agentes cumplir con las fechas de entrega de los clientes de manera más rápida y económica.</summary>
-    <published>2026-10-30T12:30:00+00:00</published>
+La caída de los precios de la cruda es un tema importante debido a su impacto en la economía global; Los precios de la cruda tienen un efecto directo en el costo de la producción de energía y en la inflación. La situación en el Medio Oriente y en Ucrania también tiene un impacto en la seguridad y la estabilidad del mundo.</summary>
+    <published>2026-11-02T12:40:46+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant</id>
     <title>[Data Science] Construyendo Breakout con Vibe Coding</title>
-    <updated>2026-10-31T14:21:27.242421+00:00</updated>
+    <updated>2026-11-02T13:23:58.324484+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -153,7 +111,7 @@ Es interesante ver cómo la tecnología de AI está revolucionando la forma en q
   <entry>
     <id>https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/</id>
     <title>[Data Science] Un modelo de lenguaje creyó que una persona le estaba diciendo que sus respuestas incorrectas eran correctas.</title>
-    <updated>2026-10-31T14:21:27.242386+00:00</updated>
+    <updated>2026-11-02T13:23:58.324449+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -167,7 +125,7 @@ La capacidad de un modelo de lenguaje para aprender y mejorar con las etiquetas 
   <entry>
     <id>https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/</id>
     <title>[Data Science] Se ha desarrollado una solución ligera para la actualización de creencias en sistemas de inteligencia artificial</title>
-    <updated>2026-10-31T14:21:27.242352+00:00</updated>
+    <updated>2026-11-02T13:23:58.324414+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,135 +137,135 @@ La actualización de creencias es un problema común en sistemas de inteligencia
     <published>2026-10-31T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/</id>
-    <title>[Fórmula 1] Leclerc fastest again, Verstappen y Lawson enfrentan investigación sobre colisión</title>
-    <updated>2026-10-31T14:21:27.242317+00:00</updated>
+    <id>https://towardsdatascience.com/let-decision-models-watch-your-agents/</id>
+    <title>[Data Science] Los decision models monitorean a los agentes automatizados</title>
+    <updated>2026-11-02T13:23:58.324380+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/"/>
-    <summary>Charles Leclerc lideró ambos sesiones de práctica el viernes en el Autodromo Hermanos Rodriguez, aunque el equipo Maranello no tuvo un día perfecto. Lewis Hamilton se detuvo debido a un problema con el unidad de potencia después de completar solo 13 vueltas, lo que le impidió hacer una simulación de clasificación y terminó fuera de los primeros diez. Lando Norris estuvo segundo, un décimo de segundo lento que Leclerc, mientras que George Russell estuvo tercero, por delante de su compañero de equipo; Max Verstappen lideró a Red Bull, aunque llevaba daño después de una colisión con un coche junior de la escudería. Verstappen intentó pasar a Liam Lawson por la parte interior de la curva 12, pero el conductor de Racing Bulls no estaba dispuesto a ceder la posición. Lawson tomó la línea de carrera en la salida de la curva 13, lo que obligó a Verstappen a usar el área de descarte, y luego volvió a entrar en la pista y chocó con Lawson, dañando ambos coches. La colisión dispersó escombros por la pista y el sesion fue suspendida mientras se limpiaba; Los stewardes investigarán el incidente; Isack Hadjar estuvo sexto, detrás de su compañero de equipo. Todos los cuatro coches de Red Bull-Ford aparecieron en los primeros diez, Lawson estuvo noveno, dos lugares detrás de su compañero de equipo, con Pierre Gasly en Alpine entre ellos. Oscar Piastri en el segundo McLaren estuvo décimo; Fernando Alonso no pudo repetir su tiempo de primera práctica, cayendo a la duodécima posición. Los pares de Haas estuvieron siguientes, Esteban Ocon estuvo insatisfecho por ser requerido a terminar su vuelo en el compuesto de llanta media, y sufrió una pérdida de dirección asistida cuando se unió a la pista, mientras que Oliver Bearman se detuvo brevemente con un problema de software cuando se unió a la pista, pero pudo volver a empezar. Gabriel Bortoleto no pudo participar en una parte significativa de la sesión debido a un problema técnico en su Audi, pero pudo unirse a la pista en el final de la sesión.
+    <link href="https://towardsdatascience.com/let-decision-models-watch-your-agents/"/>
+    <summary>En un experimento, se utilizan decision models para detectar comportamientos anormales en agentes automatizados. El objetivo es monitorear al agente continuamente mientras trabaja y detectar comportamientos anormales. Se utiliza una herramienta de OpenAI Agents SDK para crear un agente y conectar un monitor de decisiones. El monitor se utiliza para evaluar si el comportamiento del agente es normal o anormal. En un escenario de compra, el agente compró 12 filtros por $222 y aceptó la documentación de la proveedora. El monitor detectó una deviación en la ejecución después de que el agente aceptó los términos recurrentes. El monitor asignó una probabilidad de 0.80 de que la deviación fuera anomala después de la segunda revisión del estado del pedido. El monitor hizo 10 evaluaciones en total, costando aproximadamente $0.00072. El agente trabajó dentro de un sistema más grande.
 
 Por qué importa:
-La colisión entre Verstappen y Lawson es importante porque puede tener implicaciones en la clasificación y la seguridad en la carrera.</summary>
-    <published>2026-10-30T23:04:01+00:00</published>
+La utilización de decision models para monitorear a los agentes automatizados es importante para detectar comportamientos anormales y mejorar la eficiencia del sistema. Al monitorear al agente continuamente, se puede prevenir problemas y garantizar que el sistema funcione de manera efectiva.</summary>
+    <published>2026-11-02T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/</id>
-    <title>[Fórmula 1] Verstappen y Lawson reciben penaltis de posición en la grilla por "colisión inaceptable"</title>
-    <updated>2026-10-31T14:21:27.242281+00:00</updated>
+    <id>https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/</id>
+    <title>[Data Science] La energía consumida por los modelos de lenguaje artificial</title>
+    <updated>2026-11-02T13:23:58.324343+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/"/>
-    <summary>Max Verstappen y Liam Lawson han recibido penaltis de posición en la grilla por una colisión durante la segunda sesión de práctica del Gran Premio de México. La colisión ocurrió en turn 16 y fue causada por una falta de espacio por parte de Lawson, quien no dio paso a Verstappen. Los stewards consideraron que la penalización era justa debido a que habían ocurrido incidentes similares con otros conductores durante el año. Verstappen criticó a Lawson por la colisión, considerándola "no muy inteligente"; La penalización es una consecuencia de una advertencia previa dada en una reunión de gerentes de equipos. La colisión ocurrió después de que Verstappen y Lawson fueran compañeros de equipo en Red Bull en dos ocasiones diferentes; Lawson regresó a Racing Bulls después de reemplazar a Isack Hadjar como compañero de equipo de Verstappen. Aunque Red Bull anunció que Verstappen y Hadjar seguirán conduciendo para ellos en el próximo año, Racing Bulls aún no ha confirmado sus conductores para el año 2027. Verstappen consideró que la colisión fue "no muy inteligente" y que Lawson debería haber actuado de manera más inteligente. La penalización no afectará la semana de Verstappen, pero consideró que Lawson debería haber sido más cuidadoso. La colisión ocurrió después de que Verstappen y Lawson fueran compañeros de equipo en Red Bull en dos ocasiones diferentes; Lawson regresó a Racing Bulls después de reemplazar a Isack Hadjar como compañero de equipo de Verstappen. Aunque Red Bull anunció que Verstappen y Hadjar seguirán conduciendo para ellos en el próximo año, Racing Bulls aún no ha confirmado sus conductores para el año 2027.
+    <link href="https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/"/>
+    <summary>En 2025, Google publicó su método y resultado para un solo prompt de texto enviado a su modelo Gemini, que utiliza 0,24 Wh de energía y emite 0,03 g de CO2e. Esto se calcula en 0,24 Wh por prompt. La carbonidad de la energía es un factor importante en la emisión de CO2e, y puede variar según la fuente de energía. La emisión de CO2e de un prompt de texto de Gemini es de 0,03 g, lo que es significativamente menor en países con una fuente de energía limpia. En 2026, muchos usuarios de data science se convirtieron en usuarios de sistemas de AI en lugar de constructores de modelos. La evolución de la industria de la inteligencia artificial ha llevado a una mayor dependencia de terceros para la construcción de modelos y la gestión de datos. EcoLogits da una estimación de 0,44 a 0,72 Wh por respuesta para gpt-4o y 0,02 Wh por respuesta para gpt-4o-mini. El consumo de energía de un servidor se calcula multiplicando el consumo de energía promedio por la duración de la llamada y el PUE. El impacto ambiental se calcula multiplicando el consumo de energía por la intensidad de carbono del sistema de energía. El modelo de inteligencia artificial utilizado tiene un impacto ambiental significativamente menor que otro modelo similar.
 
 Por qué importa:
-La penalización de Verstappen y Lawson es importante porque muestra la importancia de la seguridad y la deportividad en la Fórmula 1. La colisión fue considerada "inaceptable" por los stewards y la penalización es una consecuencia de una advertencia previa dada en una reunión de gerentes de equipos; La penalización no afectará la semana de Verstappen, pero consideró que Lawson debería haber sido más cuidadoso.</summary>
-    <published>2026-10-30T23:41:56+00:00</published>
+La industria de la inteligencia artificial ha llevado a una mayor dependencia de terceros para la construcción de modelos y la gestión de datos. Esto es importante porque la evolución de la industria de la inteligencia artificial ha llevado a una mayor dependencia de terceros para la construcción de modelos y la gestión de datos.</summary>
+    <published>2026-11-02T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/</id>
-    <title>[Fórmula 1] Claims Bearman’s salary demands delayed contract talks are “absolute nonsense” – Komatsu | Formula 1</title>
-    <updated>2026-10-31T14:21:27.242247+00:00</updated>
+    <id>https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip</id>
+    <title>[Data Science] 5 certificaciones de inteligencia artificial valiosas en 2026</title>
+    <updated>2026-11-02T13:23:58.324300+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/"/>
-    <summary>Ayao Komatsu, equipo principal de Haas, ha desacreditado las noticias sobre las negociaciones de contratos con sus pilotos. Según Komatsu, las noticias sobre los contratos son "nonsense" y se basan en información falsa. El equipo Haas ha confirmado a Rafael Camara como uno de sus pilotos para la próxima temporada. Komatsu está interesado en finalizar un nuevo contrato con Ollie Bearman, quien ha demostrado un gran potencial. El equipo Haas busca maximizar su éxito en la temporada 2027 y tiene como objetivo finalizar un coche competitivo. Komatsu ha expresado su deseo de trabajar con Bearman y mejorar la posición del equipo en la clasificación. El equipo Haas ha tenido errores en el pasado, como en la temporada 2026, y ahora busca aprender de ellos. Komatsu ha desacreditado las noticias sobre un posible conflicto con Esteban Ocon y ha expresado su sorpresa por la información falsa que se ha difundido. El equipo Haas busca un coche competitivo para la temporada 2027 y tiene como objetivo trabajar con Bearman para lograrlo.
+    <link href="https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip"/>
+    <summary>La certificación AWS Certified Machine Learning Engineer – Associate (MLA-C01) es la más accesible de las tres principales proveedoras, con un costo de $150. La certificación Google Cloud Professional Machine Learning Engineer tiene un costo de $150 y una duración de 130 minutos, 65 preguntas. La certificación de DeepLearning.AI Deep Learning Specialization es una de las más ampliamente reconocidas y ha sido tomada por más de 960.000 estudiantes. La certificación Microsoft AI-102 (Azure AI Engineer Associate) está siendo actualizada a partir de finales de 2026. La certificación Google Cloud Skills Boost GenAI es una ruta de aprendizaje gratuita y autodirigida que se recomienda para prepararse para la certificación de Machine Learning Engineer. La certificación de Microsoft Azure Data Scientist Associate (DP-100) es el más accesible punto de partida en la certificación de cloud AI, con un costo de $165. La certificación Databricks Certified Machine Learning Professional es el más directo de plataforma para aquellos que trabajan con Databricks, con un costo de $200. La certificación de Azure DP-100 y Databricks Machine Learning Professional están más cerca del lado de la ciencia de datos aplicada. La certificación de Google Cloud Professional Machine Learning Engineer es más valiosa en 2026 si cumple con los criterios de producción y habilidades relevantes. La certificación de Microsoft AI-102 (Azure AI Engineer Associate) tiene un costo de $200 y una duración de 2 horas; La experiencia práctica y habilidades relevantes son fundamentales para que las certificaciones sean consideradas valiosas.
 
 Por qué importa:
-La noticia es importante porque refleja la importancia de la comunicación y la confianza en el equipo Haas. La negativa de Komatsu a discutir las noticias sobre los contratos demuestra su determinación en mantener la confianza con sus pilotos y el equipo.</summary>
-    <published>2026-10-31T00:39:03+00:00</published>
+Las certificaciones de inteligencia artificial son fundamentales para aquellos que buscan mejorar sus habilidades en el campo; Las certificaciones de inteligencia artificial pueden ser beneficiosas para aquellos que trabajan en el sector de la inteligencia artificial y buscan demostrar sus habilidades en la plataforma. Las certificaciones de inteligencia artificial pueden ser una forma de diferenciación en el mercado laboral y pueden ser beneficiosas para aquellos que buscan mejorar sus oportunidades laborales.</summary>
+    <published>2026-11-02T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29567</id>
-    <title>[Fórmula 1] Esperanzas de Hamilton desaparecen después de un problema de unidad de potencia en México</title>
-    <updated>2026-10-31T14:21:27.242213+00:00</updated>
+    <id>https://www.f1technical.net/news/29595</id>
+    <title>[Fórmula 1] Mercedes revelan cómo su W17 sufrió de "una entrada de esquina trasera deslizante y subestere" durante la clasificación</title>
+    <updated>2026-11-02T13:23:58.324262+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29567"/>
-    <summary>Lewis Hamilton, siete veces campeón del mundo, se frustró después de que un problema con la unidad de potencia de su Ferrari lo obligó a abandonar su segundo sesión de práctica en el Gran Premio de México. A pesar de que el equipo había mejorado significativamente su configuración, el problema impidió que Hamilton completara su programa de largas. Hamilton admitió que no fue el día más fácil, ya que perdió tiempo en la primera sesión y tuvo que detenerse temprano en la segunda. A pesar de esto, el piloto británico creyó que el coche estaba rápido y que el equipo no necesitaba hacer cambios significativos. El problema con la unidad de potencia fue particularmente desapuntante para Hamilton, ya que había estado sintiendo que el coche era cómodo. El equipo Ferrari creyó que habían avanzado en la búsqueda de una configuración competitiva para el circuito de alta altitud.
+    <link href="https://www.f1technical.net/news/29595"/>
+    <summary>Mercedes logró recuperarse de un inicio difícil en la clasificación en el Gran Premio de México y se aseguró dos posiciones fuertes para la carrera. George Russell produjo un final de Q3 impresionante para conseguir el segundo lugar, solo 0.009 segundos detrás del puesto de pole. Kimi Antonelli, por otro lado, se vio penalizado por la sanción de Max Verstappen y se coloca en la cuarta posición, lo que podría ser suficiente para asegurar el título de piloto en 2026. La escudería italiana había mostrado una gran velocidad en la práctica final, pero no pudo traducir esa ventaja en la clasificación. Mercedes inicialmente luchó para encontrar el ritmo, pero Russell logró sacar el máximo de su W17 en los últimos intentos. La escudería italiana se vio afectada por problemas de temperatura de los neumáticos y una entrada de esquina trasera deslizante, lo que dificultó a los pilotos completar un lapo completo. El equipo de Mercedes, liderado por Toto Wolff, reconoció que las diferencias de margen entre los pilotos y los demás equipos eran muy pequeñas, y que la temperatura del pista y la gestión de los sistemas de frenado y motor serán fundamentales en la carrera.
 
 Por qué importa:
-El problema con la unidad de potencia de Hamilton es particularmente importante porque es el segundo día de práctica en México y el equipo Ferrari busca demostrar su competitividad en el circuito. La falta de datos de largas es un obstáculo para evaluar la velocidad real del equipo en comparación con sus rivales.</summary>
-    <published>2026-10-31T11:00:00+00:00</published>
+La clasificación en el Gran Premio de México es crucial para el equipo de Mercedes, ya que se enfrenta a una serie de desafíos técnicos, como la gestión de la temperatura del pista y la reducción de aire en el circuito. La escudería italiana se vio penalizada por la sanción de Max Verstappen, pero Kimi Antonelli se coloca en una posición fuerte para el título de piloto en 2026; La carrera se disputará en el Autódromo Hermanos Rodríguez, donde la gestión de los sistemas de frenado y motor será fundamental para lograr el resultado deseado.</summary>
+    <published>2026-11-01T13:43:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29568</id>
-    <title>[Fórmula 1] Leclerc completes Friday double for Ferrari as Vasseur warns of tricky Mexico conditions</title>
-    <updated>2026-10-31T14:21:27.242177+00:00</updated>
+    <id>https://www.f1technical.net/news/29587</id>
+    <title>[Fórmula 1] Hamilton ofrece su punto de vista después de tomar su primera posición de pole en Ferrari en México</title>
+    <updated>2026-11-02T13:23:58.324224+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29568"/>
-    <summary>Charles Leclerc lideró ambos sesiones de práctica para Ferrari, demostrando una impresionante velocidad en el Autodromo Hermanos Rodriguez. A pesar de su buen rendimiento, el Monegasque cree que hay espacio para mejorar, ya que la superficie del circuito y las condiciones desafiantes hacen que sea difícil encontrar el límite. Ferrari fue la única equipo que corrió con ambos pilotos de full-time durante FP1, lo que se tradujo en una buena actuación. Leclerc terminó la primera sesión en la cima de las clasificaciones con un tiempo de 1:18.128, mientras que Lewis Hamilton terminó en el cuarto lugar con un tiempo de 1:18.866. En la segunda sesión, Leclerc volvió a liderar, estableciendo el mejor tiempo con un 1:17.827. Aunque su sesión no estuvo exenta de problemas, como un lock-up en los neumáticos suaves y una caída en Turn 1 durante su primer intento de vuelo, logró terminar 0,103 segundos por delante de Lando Norris de McLaren. George Russell completó el podio; Leclerc estuvo emocionado con la actuación de Ferrari, pero reconoció que el equipo aún necesita trabajar en algunas limitaciones. El equipo principal, Fred Vasseur, estuvo de acuerdo en que la actuación fue buena, pero advirtió que las condiciones en México son desafiantes y que el equipo necesita trabajar para mejorar. Vasseur enfatizó que las condiciones son igualmente desafiantes para todos los equipos, por lo que es importante que Ferrari se concentre en mejorar su propio paquete. El equipo demostró un buen ritmo desde el primer momento, tanto en laps cortos como en largas distancias; Sin embargo, Vasseur destacó que el equipo aún necesita fine-tunar el setup del coche para sacar el máximo provecho.
+    <link href="https://www.f1technical.net/news/29587"/>
+    <summary>Lewis Hamilton logró una posición de pole emocionante para el Gran Premio de México, demostrando su habilidad para aprovechar las condiciones de pista mejorando en el último intento de Q3 para ganar su primera posición de pole como conductor de Ferrari. A pesar de las dificultades que ha enfrentado durante su primera temporada con Ferrari, Hamilton logró superar a su rival Mercedes, George Russell, y su compañero de equipo, Charles Leclerc, que tuvo que conformarse con la tercera posición. El británico admitió que el resultado significaba mucho para él, especialmente después de los desafíos y actuaciones inconsistentes que ha experimentado con Ferrari durante su primera temporada. Hamilton también destacó la importancia de mantener la fe en el equipo a pesar de los desafíos, y destacó que la preparación de los neumáticos fue clave para su éxito. El conductor admitió que había estado confiado en su ritmo durante todo el fin de semana, pero que encontrar el punto preciso para el operar de los neumáticos había sido un desafío; Hamilton también destacó que adaptar su estilo de conducción a los neumáticos actuales había sido una de las áreas en las que había trabajado. El resultado también tuvo un significado personal especial para Hamilton, quien creció viendo a Michael Schumacher dominar el Fórmula 1 con Ferrari; Hamilton admitió que el resultado le había llevado a recordar a Schumacher y a sus muchos póles y victorias con Ferrari. A pesar de las celebraciones, Hamilton admitió que enfrentaba cierta incertidumbre al entrar en el Gran Premio, especialmente en cuanto a la velocidad de carrera de Ferrari. El británico no pudo completar la sesión de práctica larga de viernes debido a un problema técnico, lo que lo obligó a hacer suposiciones sobre el comportamiento del coche bajo condiciones de carga pesada y las configuraciones necesarias para mantener la velocidad durante la carrera. Hamilton también enfrentará un desafío desconocido al entrar en la carrera, ya que la larga distancia desde la posición de pole hasta la primera curva del circuito crea una oportunidad para los conductores que no están en la primera línea para aprovechar el esguace. Hamilton admitió que había raro experimentado este desafío en este circuito, que había generalmente calificado más abajo en las clasificaciones en visitas anteriores.
 
 Por qué importa:
-La actuación de Leclerc y Ferrari en el Autodromo Hermanos Rodriguez es importante porque es un circuito desafiante, especialmente debido a la alta altitud. Las condiciones en México son igualmente desafiantes para todos los equipos, por lo que es crucial que Ferrari se concentre en mejorar su propio paquete.</summary>
-    <published>2026-10-31T11:00:00+00:00</published>
+La victoria de Hamilton en la posición de pole es un logro significativo para Ferrari, que ha estado luchando por encontrar su ritmo durante su primera temporada con el británico. La posición de pole también es un recordatorio de la importancia de la preparación y la confianza en el equipo, especialmente en un circuito como el Autódromo Hermanos Rodríguez, donde la limitación de la aderencia aerodinámica hace que los neumáticos sean un desafío.</summary>
+    <published>2026-11-01T13:44:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29573</id>
-    <title>[Fórmula 1] Pirelli identifica la degradación de los neumáticos y posible estrategia de dos paradas después de la práctica de México</title>
-    <updated>2026-10-31T14:21:27.242142+00:00</updated>
+    <id>https://www.f1technical.net/news/29596</id>
+    <title>[Fórmula 1] Max Verstappen gana la Gran Premio de México y Kimi Antonelli se corona campeón del mundo F1 2026</title>
+    <updated>2026-11-02T13:23:58.324187+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.f1technical.net/news/29573"/>
-    <summary>Pirelli espera que la gestión de los neumáticos juegue un papel importante en la carrera del Gran Premio de México, ya que los datos de las dos sesiones de práctica indican una degradación significativa en los neumáticos más suaves. Aunque una estrategia de una parada sigue siendo posible, las equipos también podrían considerar una estrategia de dos paradas, dependiendo de cómo evolucione el circuito y de cómo puedan gestionar sus neumáticos. Los datos de Pirelli sugieren que la degradación de los neumáticos más suaves podría tener un impacto significativo en las decisiones estratégicas de los equipos. Un análisis de Pirelli también identificó grano localizado en el neumático delantera izquierda, pero este problema parece estar mejorando. Los equipos deberán evaluar si pueden mantener los neumáticos más suaves lo suficientemente bien como para completar una parada más larga o si una parada adicional ofrecería un tiempo de carrera mejor. Pirelli espera que la evolución del circuito continúe y que esto reduzca el problema de grano localizado.
+    <link href="https://www.f1technical.net/news/29596"/>
+    <summary>Max Verstappen ganó la Gran Premio de México, interrumpido por un accidente de Valtteri Bottas, y se adelantó a Leclerc después de su pit stop. Kimi Antonelli, recién coronado campeón del mundo F1 2026, se unió a ellos en la pódium, terminando tercero. Lewis Hamilton terminó segundo y Lando Norris cuarto. Leclerc fue penalizado con 5 segundos por su incidente y perdió la ventaja en la carrera. Verstappen salió temprano y mantuvo la limpieza para asegurarse la victoria. Hamilton pitió poco después y terminó 3,4 segundos detrás de Leclerc. Norris se frustró al estar atrapado detrás de los Mercedes, pero su equipo le pidió que se calmara. Verstappen y los dos Ferraris estaban cerrando la ventaja a un segundo por lapo.
 
 Por qué importa:
-La carrera del Gran Premio de México es importante porque es uno de los eventos más populares del calendario de Fórmula 1 y atrae a una gran cantidad de espectadores. La gestión de los neumáticos será crucial para los equipos, ya que la degradación de los neumáticos más suaves podría tener un impacto significativo en las decisiones estratégicas.</summary>
-    <published>2026-10-31T11:00:00+00:00</published>
+La victoria de Verstappen en la Gran Premio de México es importante porque marca un hito en su carrera y le da una gran ventaja en la lucha por el campeonato del mundo. La coronación de Kimi Antonelli como campeón del mundo F1 2026 también es un logro histórico, ya que es el primer italiano en lograrlo desde Ascari.</summary>
+    <published>2026-11-01T22:39:20+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/</id>
-    <title>[Tecnología] La primera respuesta del satélite de prototipo Project Suncatcher</title>
-    <updated>2026-10-31T14:21:27.242106+00:00</updated>
+    <id>https://www.racefans.net/2026/11/02/call-this-the-maxico-grand-prix-says-verstappen-after-sixth-mexican-gp-win/</id>
+    <title>[Fórmula 1] Call this the ‘Maxico’ Grand Prix says Verstappen después de su sexta victoria en el GP de México</title>
+    <updated>2026-11-02T13:23:58.324150+00:00</updated>
     <author>
-      <name>Technology</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"/>
-    <summary>El satélite de prototipo de Project Suncatcher, lanzado el 1 de octubre, ha recibido su primera respuesta. Después de la lanzamiento, el equipo completó su checklist de comisionamiento y realizó pruebas de aprendizaje automático. El "mundo en saludo" se alcanzó con la primera respuesta de un TPU en órbita. El satélite respondió a una pregunta sobre ser en el espacio, generando un poema de haiku. Las pruebas continuaron con limericks y solicitudes de telemetría. El objetivo es evaluar cómo funcionan los TPUs en el espacio. Esta respuesta es un paso importante hacia el próximo objetivo de dos satélites conectados en 2027.
+    <link href="https://www.racefans.net/2026/11/02/call-this-the-maxico-grand-prix-says-verstappen-after-sixth-mexican-gp-win/"/>
+    <summary>Max Verstappen ganó su sexta victoria en el GP de México, su quinta en el circuito. El holandés dijo que no tiene idea por qué ha sido tan exitoso en el circuito, pero que su equipo hizo un buen trabajo. Verstappen se sorprendió de su posición fuerte después del inicio del carrera, gracias a que los pilotos de Ferrari Charles Leclerc y Lewis Hamilton se salieron en turno cuatro. Leclerc recibió una penalización de cinco segundos por su infracción y Verstappen se adelantó a él cuando ambos entraron en box. El piloto holandés dijo que fue difícil mantener el ritmo de Leclerc, pero que su equipo hizo un buen trabajo para seguirlo. Verstappen también se sorprendió de su capacidad para mantener la posición cuando el Safety Car salió, pero su equipo hizo un buen trabajo para mantenerlo en la parrilla. Finalmente, Verstappen ganó la carrera, con Hamilton en segundo lugar.
 
 Por qué importa:
-La respuesta del satélite es importante porque marca un hito en la investigación de la energía de computación en el espacio.</summary>
-    <published>2026-10-30T17:00:00+00:00</published>
+La victoria de Verstappen en el GP de México es importante porque es su sexta victoria en el circuito, lo que lo convierte en uno de los pilotos más exitosos en la historia del circuito. La carrera también fue emocionante debido a la penalización de Leclerc y la lucha por la parrilla entre Verstappen y Hamilton; La victoria de Verstappen también muestra su capacidad para mantener la posición en carreras difíciles, lo que es importante para su lucha por el título.</summary>
+    <published>2026-11-02T11:05:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/govee-christmas-lights-deal-october-2026/</id>
-    <title>[Tecnología] Govee Christmas Lights 2 Deal: Ahorra $25 en estas luces de cadena inteligentes</title>
-    <updated>2026-10-31T14:21:27.242070+00:00</updated>
+    <id>https://www.racefans.net/2026/11/02/antonelli-lost-two-seconds-because-i-was-crying-at-end-of-mexican-gp/</id>
+    <title>[Fórmula 1] Antonelli “perdió dos segundos porque lloraba” al final del GP de México</title>
+    <updated>2026-11-02T13:23:58.324109+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/story/govee-christmas-lights-deal-october-2026/"/>
-    <summary>La Govee Christmas Lights 2, la elección presupuestaria en nuestra guía de luces de Navidad inteligentes, ya son relativamente asequibles, pero un descuento adicional del 25% no es algo que debas pasar por alto. Puedes obtener $25 de descuento en la longitud de 66 pies, perfecta para un árbol promedio, hasta $100 de descuento en la longitud de 328 pies para cubrir todo tu jardín delantero. No he visto que estén preciosados así desde Black Friday del año pasado; Estas luces de cadena son IP67 calificadas y pueden resistir temperaturas extremas, por lo que puedes usarlas en casi cualquier lugar. Sin embargo, necesitarás un enchufe exterior y, si quieres una buena iluminación exterior, te recomiendo un cajón eléctrico resistente a las aguas. La cuerda es verde, por lo que se integra perfectamente con un árbol real o falso de Navidad o cualquier árbol o arbusto real; El rollo hace que sea fácil desenrollar la cuerda y instalarla. Puedes conectarlas a través de Bluetooth o Wi-Fi y usar la aplicación Govee, o agregarlas a tu ecosistema de hogar inteligente de elección a través de Matter. Hay un pequeño controlador con un botón de encendido, pero te recomiendo conectarlas a tu hogar inteligente para controlarlas remotamente y programarlas automáticamente; Mientras que puede tomar un poco de tiempo para que te acostumbres, te recomiendo usar la aplicación Govee porque está llena de características divertidas. Aunque hay cambios de color y brillo, hay mucho más; Al mapear tus luces utilizando la cámara de tu teléfono, puedes seleccionar efectos de iluminación animados complejos; Hay más de 100 presets para elegir, pero también puedes generar efectos para ti mismo según tus intereses. Aunque tengan Navidad en el nombre, estas luces de cadena son tan versátiles que puedes encontrar efectos que se adapten a cualquier escenario, desde efectos de Halloween espeluznantes hasta luces blancas elegantes que funcionan todo el año. He utilizado estas luces fuera durante dos años y todavía están funcionando perfectamente; Puedes acceder a contenido exclusivo con acceso ilimitado a WIRED; Obtén el mejor reportaje y contenido de suscripción que es demasiado importante para ignorar; Suscribete hoy.
+    <link href="https://www.racefans.net/2026/11/02/antonelli-lost-two-seconds-because-i-was-crying-at-end-of-mexican-gp/"/>
+    <summary>Andrea Kimi Antonelli admitió que ya estaba llorando antes de tomar la bandera roja para ganar el campeonato mundial; "Perdí probablemente dos segundos porque lloraba, básicamente", dijo; "No podía ver claramente adelante". El joven piloto se convirtió en el campeón más joven de la historia de F1, solo cinco años después de pasar de karts a coches; "Muchas recuerdos pasaron por mi mente en ese momento", dijo, "todos los recuerdos desde el karting hasta aquí". El resultado del campeonato era una consecuencia segura desde el inicio del fin de semana: Antonelli necesitaba obtener solo dos puntos para estar seguro del título, incluso si su rival más cercano ganaba todos los próximos rondas. Sin embargo, sintió el peso de la expectativa durante el fin de semana; "Sabía que estaba muy cerca", dijo, "pero todavía necesitaba hacer el trabajo y, por supuesto, quería hacer una buena carrera. Quería hacer una buena actuación, así que fue el objetivo"; "Pero no ha sido el fin de semana fácil tampoco", dijo; "Físicamente no he estado en la mejor forma, pero también ayer tuvimos una mala ejecución de la clasificación y las emociones estaban un poco altas en general". "Pero estoy realmente feliz de que hoy hicimos una buena carrera y feliz de que pudimos terminar el trabajo", dijo; "Y ahora tenemos unos pocos carreras más y vamos a disfrutar todo el camino y tratar de terminar en alto". Antonelli comenzó con una carrera cuidadosa, cediendo una posición al eventual ganador Max Verstappen en la curva uno; Sin embargo, decidió arriesgar más en la segunda salida de puestos, después de un período rojo; "En el inicio era muy cauteloso y le daba mucho espacio", dijo; "Así que estaba jugando muy a la defensiva". "Pero luego vi que tenía la velocidad y especialmente la primera vuelta, sabía que íbamos a estar en la lucha porque la velocidad era muy buena en los neumáticos usados". "Luego con el período rojo, todo volvió a cero y en ese momento estaba como: '¿Sabes qué; Voy a tomar más riesgos'; Tenía la oportunidad de ganar unos puestos y ese movimiento sobre Charles [Leclerc] fue crucial para llegar al podio; Intenté hasta el final mantenerme cerca y fue muy divertido, el último estancio, porque estábamos los tres dentro de dos segundos y estábamos todos empujando. Era difícil sobrepassar, pero era intensidad alta y era divertido"; "Luego en el último estancio simplemente me retiré porque no podía ver el track; Estaba llorando y dije: 'Voy a retirarme porque de lo contrario me estrellaría aquí'; Así que fue bueno terminar".
 
 Por qué importa:
-Estas luces de cadena inteligentes son una excelente opción para aquellos que buscan una iluminación exterior versátil y fácil de usar.</summary>
-    <published>2026-10-31T11:00:00+00:00</published>
+La victoria de Antonelli es especial porque es el primer título de F1 para un piloto italiano.</summary>
+    <published>2026-11-02T12:02:42+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/a-firefly-lost-for-43-years-is-back-and-its-far-from-the-only-one-missing-2000833227</id>
-    <title>[Tecnología] Una mariposa de fuego perdida durante 43 años vuelve a aparecer y no es la única</title>
-    <updated>2026-10-31T14:21:27.242035+00:00</updated>
+    <id>https://www.racefans.net/2026/11/02/leclerc-has-wrong-mentality-says-hamilton-its-do-or-die-either-i-win-or-none-of-us-do/</id>
+    <title>[Fórmula 1] Lewis Hamilton critica a Leclerc por su mentalidad</title>
+    <updated>2026-11-02T13:23:58.324074+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/a-firefly-lost-for-43-years-is-back-and-its-far-from-the-only-one-missing-2000833227"/>
-    <summary>En 1957, el entomólogo estadounidense John Wagener Green descubrió la Pyractomena similis, una mariposa de fuego conocida como la similar mariposa de fuego. Sin embargo, no se volvió a documentar desde 1983, lo que la convirtió en una de las especies más perdidas. Hasta hace poco, científicos no habían vuelto a encontrarla. Sin embargo, en este año, un equipo de científicos liderados por Christopher "Kitt" Heckscher encontró la especie en un meadow de Brandywine Creek State Park en Delaware. La especie se encuentra en peligro de extinción y hay al menos 28 otras especies de mariposas de fuego que se consideran perdidas en Estados Unidos y Canadá. La rediscoverión de la Pyractomena similis es un ejemplo de cómo la búsqueda de especies perdidas puede ser exitosa con la ayuda de la tecnología y la investigación. La especie se encuentra en hábitats comunes en la región, pero su población ha disminuido en las últimas décadas. Los científicos creen que la búsqueda de otras especies perdidas puede ser exitosa en áreas similares.
+    <link href="https://www.racefans.net/2026/11/02/leclerc-has-wrong-mentality-says-hamilton-its-do-or-die-either-i-win-or-none-of-us-do/"/>
+    <summary>Lewis Hamilton expresó su descontento con la mentalidad de su compañero de equipo Charles Leclerc, quien, según Hamilton, tiene una actitud "kamikaze" que puede costarle puntos a Ferrari. Hamilton mencionó que en el pasado, Leclerc y su anterior compañero Carlos Sainz Jnr se batieron mucho y perdieron puntos. Hamilton también destacó que, aunque no tuvo que tomar medidas drásticas para ganar en Silverstone, el resultado no fue justo para el equipo. El piloto británico expresó su deseo de trabajar hacia una mejor relación con Leclerc y su equipo en el futuro. Hamilton también mencionó que ha tenido situaciones similares en el pasado con otros equipos, como Mercedes, donde tuvo que explicar sus acciones después de una pelea con su compañero de equipo. El piloto británico expresó su frustración por la pérdida de puntos y su deseo de trabajar hacia una mejor relación con Leclerc y Ferrari.
 
 Por qué importa:
-La rediscoverión de la Pyractomena similis es importante porque puede ayudar a entender mejor la dinámica de las especies en peligro de extinción. La especie se encuentra en hábitats comunes en la región, pero su población ha disminuido en las últimas décadas debido a la degradación del hábitat y la contaminación; La búsqueda de otras especies perdidas puede ser exitosa en áreas similares, lo que podría ayudar a proteger estas especies y sus hábitats.</summary>
-    <published>2026-10-31T11:30:32+00:00</published>
+La crítica de Hamilton a Leclerc se produce en un momento en que Ferrari está buscando mejorar su desempeño en la temporada; La pérdida de puntos en Silverstone puede ser un golpe para el equipo, que busca recuperar su posición en la clasificación de la temporada. La relación entre Hamilton y Leclerc es crucial para el desempeño de Ferrari, y es importante que ambos pilotos trabajen juntos para lograr el mejor resultado posible.</summary>
+    <published>2026-11-02T12:33:06+00:00</published>
   </entry>
   <entry>
     <id>https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer</id>
     <title>[Tecnología] El nuevo iPad Mini es el producto más interesante de Apple este semana, aunque lamenta la ausencia de una pantalla ProMotion.</title>
-    <updated>2026-10-31T14:21:27.242000+00:00</updated>
+    <updated>2026-11-02T13:23:58.324036+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -321,7 +279,7 @@ El nuevo iPad Mini es un dispositivo que ha generado mucha expectación en la co
   <entry>
     <id>https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/</id>
     <title>[Tecnología] Un iPhone Duo es mejor que un iPhone 17 Pro Max</title>
-    <updated>2026-10-31T14:21:27.241965+00:00</updated>
+    <updated>2026-11-02T13:23:58.323999+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -335,7 +293,7 @@ El iPhone Duo es una tarjeta de crédito de Apple que se puede usar como un iPho
   <entry>
     <id>https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/</id>
     <title>[Tecnología] Microsoft quiere que vendas tu Xbox si no la usas</title>
-    <updated>2026-10-31T14:21:27.241928+00:00</updated>
+    <updated>2026-11-02T13:23:58.323964+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
@@ -347,65 +305,51 @@ La escasez de RAM ha causado un aumento en los precios de las consolas de Xbox, 
     <published>2026-10-31T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://hologram.page/blog/local-first-means-three-different-things</id>
-    <title>[Programación] Local-First Means Three Different Things</title>
-    <updated>2026-10-31T14:21:27.241890+00:00</updated>
+    <id>https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate</id>
+    <title>[Tecnología] Jackery hizo que sus estaciones de energía portátiles fueran aún más pequeñas</title>
+    <updated>2026-11-02T13:23:58.323928+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://hologram.page/blog/local-first-means-three-different-things"/>
-    <summary>Un grupo de desarrolladores considera que "local-first" significa que la aplicación sigue funcionando sin conexión. La idea de "local-first" se basa en la idea de que la copia local de los datos es la verdadera y la sincronización con el servidor es secundaria. La implementación de "local-first" puede incluir la utilización de CRDTs (estructuras de datos que permiten la fusión de cambios) para manejar conflictos. La aplicación de "local-first" puede incluir la sincronización de datos con el servidor, pero no requiere que el servidor sea el único responsable de la integridad de los datos. La idea de "local-first" se diferencia de la de "offline-first" en que la primera no considera la pérdida de conexión como un problema a superar, sino como una condición normal de funcionamiento. Cada cliente necesita solo la parte del database que está permitida para ver y utilizar. La tarea de determinar qué parte del database es la que cada cliente necesita es una de las hard problems. Un servidor debe aceptar escrituras realizadas en una versión anterior del schema. Un servidor puede perder escrituras si el cliente no se conecta durante un período de tiempo. La copia del servidor en el cliente sigue siendo importante incluso si el cliente no se conecta durante un período de tiempo.
+    <link href="https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate"/>
+    <summary>Jackery anunció una nueva estación de energía portátil que utiliza baterías de lithium hierro fosfato (LFP) más seguras y duraderas, que la empresa introdujo por primera vez en 2023. La estación de energía Explorer 100D es la más pequeña de Jackery, con un tamaño de 4.6 x 3.4 x 3.4 pulgadas y un peso de 1.87 libras. Su tamaño y capacidad de 96Wh (30.000mAh) la permiten llevarla en un equipaje de mano y alimentar varios dispositivos durante un vuelo largo. La estación de energía se lanzará el 15 de noviembre a través de Walmart por $99. Está disponible desde Costco, pero solo en una paquete de dos por $179.99. Aunque hay estaciones de energía portátiles más pequeñas y asequibles con la misma capacidad, las células LFP de la 100D están diseñadas para durar hasta 8 años de uso regular, con un ciclo de carga de 3.000, según Jackery. La estación de energía incluye un manija integrada y ofrece una cinta de hombro opcional para llevarla. En la parte delantera, se encuentran dos puertos USB-C de 140W, un puerto USB-A de 18W y un máximo de 158W de salida total, lo que reduce la entrega de energía cuando todos los puertos están en uso. La estación de energía soporta hasta 100W de entrada solar directa, lo que la carga hasta el 80% de capacidad en aproximadamente una hora y media si se utiliza una panela solar.
 
 Por qué importa:
-La idea de "local-first" es importante porque permite a las aplicaciones funcionar de manera independiente sin la necesidad de una conexión constante con el servidor. Esto puede ser beneficioso en entornos con alta latencia o en áreas con acceso limitado a Internet.</summary>
-    <published>2026-10-28T23:12:53+00:00</published>
+La estación de energía portátil es ideal para viajeros que necesitan una fuente de energía confiable y compacta durante largos vuelos.</summary>
+    <published>2026-11-02T05:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://css-tricks.com/the-frankenstein-table/</id>
-    <title>[Programación] La tabla Frankenstein</title>
-    <updated>2026-10-31T14:21:27.241852+00:00</updated>
+    <id>https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/</id>
+    <title>[Tecnología] Ford lanza una "promesa de privacidad" y explica cómo y por qué utiliza los datos de los clientes</title>
+    <updated>2026-11-02T13:23:58.323893+00:00</updated>
     <author>
-      <name>CSS-Tricks</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://css-tricks.com/the-frankenstein-table/"/>
-    <summary>El autor propone crear una tabla que combine la funcionalidad de una tabla con la flexibilidad de CSS Grid, permitiendo utilizar propiedades de grid en elementos que no lo permiten tradicionalmente. Aunque las tablas tienen ventajas, como una estructura semántica clara, el autor sugiere utilizar CSS Grid para crear layouts más responsivos y flexibles. La tabla Frankenstein es una solución que permite utilizar la semántica de la tabla sin afectar su estructura. El autor considera que esta solución es una forma de "bustear" CSS para crear layouts innovadores. La tabla Frankenstein es una creación que combina la funcionalidad de una tabla con la flexibilidad de CSS Grid. El autor sugiere utilizar esta solución para crear layouts más responsivos y flexibles. La tabla Frankenstein es una forma de innovar en la creación de layouts web. El autor considera que esta solución es una forma de "hacer algo de lo que no se puede".
+    <link href="https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"/>
+    <summary>Ford ha anunciado una "promesa de privacidad" para explicar cómo maneja los datos de los clientes en sus vehículos conectados. La empresa ha lanzado un sitio web para educar a los clientes sobre cómo y por qué utiliza sus datos, y cómo pueden cambiar esas configuraciones. El objetivo es mejorar la transparencia y la confianza con los clientes sobre cómo se manejan sus datos. La promesa de privacidad es parte de un esfuerzo más amplio por comunicar claramente a los clientes sobre sus prácticas de privacidad. Ford también ha establecido un control para que los clientes puedan optar por no compartir cierta información, aunque esto puede limitar algunas características del vehículo. La empresa busca justificar su solicitud de acceso a datos y asegurar que no se utilizarán para publicidad dirigida.
 
 Por qué importa:
-La creación de una tabla que combine la funcionalidad de una tabla con la flexibilidad de CSS Grid es una forma de innovar en la creación de layouts web. El autor sugiere utilizar esta solución para crear layouts más responsivos y flexibles, sin afectar la semántica de la tabla.</summary>
-    <published>2026-10-29T13:47:08+00:00</published>
+Ford busca mejorar su relación con los clientes sobre cómo manejan sus datos, especialmente en un momento en que los vehículos conectados están volviendo cada vez más populares. La empresa quiere comunicar claramente a los clientes sobre sus prácticas de privacidad y cómo se utilizarán sus datos; Esto es importante, ya que solo el 14% de los clientes de los Estados Unidos entienden completamente qué tipo de datos recopilan sus vehículos; Ford también quiere evitar que otros empresas aprovechen esta falta de conciencia para vender datos de los clientes a terceros.</summary>
+    <published>2026-11-02T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://toji.dev/2026/10/06/webgpu-bindless.html</id>
-    <title>[Programación] Experimenting with Bindless Textures in WebGPU</title>
-    <updated>2026-10-31T14:21:27.241813+00:00</updated>
+    <id>https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/</id>
+    <title>[Tecnología] Cuándo usar y no usar la búsqueda en línea con inteligencia artificial</title>
+    <updated>2026-11-02T13:23:58.323857+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://toji.dev/2026/10/06/webgpu-bindless.html"/>
-    <summary>WebGPU, lanzado en 2023, inicialmente no soportaba recursos bindless; Sin embargo, está a punto de soportar la muestreo de texturas bindless. Los desarrolladores pueden utilizar bind groups para coordinar las accesiones de recursos. El uso de bind groups puede tener overhead; WebGPU permite utilizar un Resource Table para acceder a texturas de manera bindless. El uso de bindless texturing puede reducir la cantidad de bind groups necesarios. El uso de bindless texturing permite una mayor flexibilidad en la implementación de algoritmos de renderizado. Bindless texturing está disponible para testing en Google Chrome en Windows, Linux y Android; Chrome no renderiza los glyphs a más de 300px; Los emojis en este demo se rasterizan a 256x256px. La demostración utiliza un solo array de texto para los emojis; El demostrador menciona que los paint balls no necesitan ser tan grandes como los emojis. Los logos del navegador se rasterizan a un tamaño mayor que los emojis; El uso de un solo array de texto tiene limitaciones en términos de tamaño y flexibilidad. La tecnología bindless ofrece una mayor flexibilidad y no requiere compromisos en calidad y memoria. WebGPU expondrá bindless en dos niveles: sampling resource tables y heterogeneous resource tables.
+    <link href="https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/"/>
+    <summary>La búsqueda en línea con inteligencia artificial (IA) puede ser una herramienta útil para encontrar información rápida y precisa, pero no siempre es la mejor opción. Según una investigación reciente, la IA puede fallar en encontrar fuentes precisas y presentar respuestas confiables. Por lo tanto, es importante saber cuándo usar y no usar la búsqueda en línea con IA. Por ejemplo, es recomendable utilizarla para buscar información simple y ampliamente conocida, como la altura del Empire State Building, o para buscar restaurantes en ciudades como San Francisco. Sin embargo, es mejor utilizar la búsqueda tradicional en situaciones en las que se requiere precisión y fidelidad, como en la búsqueda de citas, estadísticas o especificaciones de dispositivos. Además, es importante verificar las fuentes utilizadas por la IA y hacer preguntas para aclarar cualquier duda.
 
 Por qué importa:
-La tecnología bindless es importante porque permite una mayor flexibilidad en la implementación de algoritmos de renderizado y reduce la cantidad de bind groups necesarios. Esto puede mejorar el rendimiento y la eficiencia en la renderización de gráficos.</summary>
-    <published>2026-10-30T05:52:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/michael_maurice/the-shadow-model-issued-a-refund-7-mistakes-that-make-llm-model-upgrades-in-net-riskier-than-they-j9j</id>
-    <title>[Programación] 7 errores que hacen que las actualizaciones del modelo LLM en .NET sean más riesgosas de lo que parecen</title>
-    <updated>2026-10-31T14:21:27.241773+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/michael_maurice/the-shadow-model-issued-a-refund-7-mistakes-that-make-llm-model-upgrades-in-net-riskier-than-they-j9j"/>
-    <summary>La Tech Skill Builder cuesta $5/mes durante un tiempo limitado y luego regresa a $10. El proyecto de soporte offline tiene 206 pruebas de paso y ninguna requiere una clave de API. El modelo de soporte offline tiene hábitos malos que se pueden cambiar, lo que hace que cada escenario sea una prueba. La demo de 10 escenas de CLI la ejecuta todo en tiempo falso. Las bibliotecas de la biblioteca se comprobaron con picos contra 10.11.0 y .NET 10 y se fijaron como pruebas. No se corrió un lanzamiento contra proveedores reales con usuarios reales. Las cifras y el tráfico provienen de días simulados, por lo que se necesitarán ajustar los umbrales en tu propio tráfico. El proyecto incluye la solución completa de .NET 10 con liberaciones y un registro de preguntas, un pipeline de sombra que nunca actúa, un comparador de respuesta, un router de canario esticky con caída, las puertas Wilson-boundadas, el controlador de lanzamiento con su interruptor de muerte, los modelos de soporte offline, una API mínima y 206 pruebas, además de una guía PDF que va más allá de este post.
-
-Por qué importa:
-El proyecto de soporte offline es una prueba de 206 escenarios que evalúa los hábitos malos del modelo de soporte offline. La demo de 10 escenas de CLI es una prueba que ejecuta todo en tiempo falso, lo que hace que las cifras y el tráfico sean inexactos.</summary>
-    <published>2026-10-30T12:56:08+00:00</published>
+La búsqueda en línea con IA es una herramienta que puede ser muy útil para encontrar información rápida y precisa, pero también tiene sus limitaciones; La investigación reciente ha demostrado que la IA puede fallar en encontrar fuentes precisas y presentar respuestas confiables. Esto se debe a que la IA puede interpretar mal las preguntas y seleccionar fuentes que no son las más relevantes; Por lo tanto, es importante utilizar la búsqueda tradicional en situaciones en las que se requiere precisión y fidelidad.</summary>
+    <published>2026-11-02T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://seriot.ch/computation/curl.html</id>
     <title>[Programación] Cómo curl fue accidentalmente Turing-completo durante nueve meses</title>
-    <updated>2026-10-31T14:21:27.241718+00:00</updated>
+    <updated>2026-11-02T13:23:58.323815+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -419,7 +363,7 @@ Este incidente resalta la importancia de revisar y documentar las característic
   <entry>
     <id>https://dev.to/fuloxdev/search-a-youtube-channels-transcripts-and-get-alerts-for-new-uploads-apify-no-code-2ao7</id>
     <title>[Programación] Buscar transcripciones de un canal de YouTube y recibir alertas por nuevos subidos (Apify, sin código)</title>
-    <updated>2026-10-31T14:21:27.241625+00:00</updated>
+    <updated>2026-11-02T13:23:58.323776+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +373,47 @@ Este incidente resalta la importancia de revisar y documentar las característic
 Por qué importa:
 Esta herramienta es útil para investigadores y usuarios de YouTube que necesitan buscar transcripciones de videos y recibir alertas por cambios en el contenido. El lector personal de noticias permite buscar transcripciones de videos de YouTube de manera rápida y eficiente, sin requerir código o pago adicional.</summary>
     <published>2026-10-31T13:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://labs.leaningtech.com/blog/cheerpj-5.0</id>
+    <title>[Programación] CheerpJ 5.0: Java 21/25 en el navegador, full OpenJDK y un nuevo motor de ejecución WasmGC</title>
+    <updated>2026-11-02T13:23:58.323731+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://labs.leaningtech.com/blog/cheerpj-5.0"/>
+    <summary>CheerpJ 5.0 es la última versión mayor de CheerpJ, una distribución completa de OpenJDK para el navegador en WebAssembly. Incluye soporte para Java 21 y 25, junto con Java 8, 11 y 17; Envía la versión completa del JDK, no solo la JRE, para cada versión soportada. El nuevo motor de ejecución experimental basado en WasmGC está diseñado para mejorar el rendimiento de las aplicaciones Java en el navegador. La versión 5.0 de CheerpJ incluye más de seis meses de trabajo en todos los componentes y permite ejecutar aplicaciones Java modernas en el navegador sin modificaciones. CheerpJ 5.0 completa el roadmap para traer moderno Java a la navegador, según lo planeado. La versión 5.0 de CheerpJ incluye una versión de Java 25 en preview, lo que significa que se espera que funcione en muchas aplicaciones pequeñas y medianas. CheerpJ 5.0 tiene una versión de WasmGC en preview y se planea hacer disponible como paquete NPM y modernizar su interfaz. CheerpJ mantiene la paridad con Java LTS con un retraso de hasta seis meses. CheerpJ se integrará con el kernel de BrowserPod, lo que mejorará el soporte de procesos y la manipulación de archivos. CheerpJ es software comercial con una licencia de comunidad gratuita para uso personal, educativo y de evaluación técnica.
+
+Por qué importa:
+CheerpJ 5.0 es una importante actualización que permite ejecutar aplicaciones Java modernas en el navegador sin modificaciones, lo que puede tener un impacto significativo en la industria de la tecnología. La inclusión de soporte para Java 21 y 25, junto con otras versiones, completa el roadmap inicial publicado en febrero de 2025 y muestra el compromiso de CheerpJ con la compatibilidad y la actualización.</summary>
+    <published>2026-11-02T11:34:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/eugine_noel_fe6aa47191efa/democratizing-cyber-defense-building-jed-autonomous-security-system-with-just-kali-and-python-hgg</id>
+    <title>[Programación] Democratizando la defensa cibernética: Construyendo el sistema de seguridad JED</title>
+    <updated>2026-11-02T13:23:58.323673+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/eugine_noel_fe6aa47191efa/democratizing-cyber-defense-building-jed-autonomous-security-system-with-just-kali-and-python-hgg"/>
+    <summary>En 2026, las workflows de seguridad son lentas y fragmentadas, lo que genera "fatiga terminal" y "fragmentación de herramienta". El autor, un estudiante de CS en la Pwani University en Kenia, busca democratizar la defensa cibernética creando un sistema de seguridad autónomo llamado JED. El sistema utiliza herramientas como Kali Linux y Python, y está disponible en la web desde ahora. El objetivo es proporcionar una plataforma de seguridad de alta calidad a los investigadores, desarrolladores y analistas desde un solo enlace. El sistema cuenta con varias herramientas consolidadas, un agente de reacción autónomo y una plataforma de visualización de geolocalización en tiempo real. El autor busca la retroalimentación de la comunidad sobre la adición de nuevas herramientas al sistema.
+
+Por qué importa:
+El autor busca democratizar la defensa cibernética para que los investigadores, desarrolladores y analistas tengan acceso a herramientas de seguridad de alta calidad desde un solo enlace. Esto es especialmente importante en entornos con limitaciones de recursos, como el de la Pwani University en Kenia.</summary>
+    <published>2026-11-02T12:53:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/syncoders/test-mode-passes-production-double-charges-a-stripe-webhook-clip-and-a-4-step-fix-3m9a</id>
+    <title>[Programación] Test mode pasa, carga doble en producción: un clip de webhook de Stripe y una solución de 4 pasos</title>
+    <updated>2026-11-02T13:23:58.323572+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/syncoders/test-mode-passes-production-double-charges-a-stripe-webhook-clip-and-a-4-step-fix-3m9a"/>
+    <summary>Un cliente de Stripe puede pasar todos los controles de prueba y aún así fallar con clientes reales. La razón es simple: en producción, Stripe puede enviar el mismo evento más de una vez, en cualquier orden, y seguir intentándolo cuando el endpoint está lento o caído. Un ejemplo muestra un manejo básico y un manejo endurecido recibiendo el mismo tráfico. Si se cambian solo cuatro cosas en el manejo, se pueden evitar los problemas. Se recomienda verificar primero, insertar el ID del evento en una tabla con una clave única y no confiar en el orden de llegada. Un manejo rápido y eficiente puede evitar problemas de retraso. El problema se puede encontrar en 7 formas diferentes en el artículo completo, con diagramas y código para cada caso. También se ofrece un checklist de lanzamiento de webhooks de Stripe gratuito.
+
+Por qué importa:
+La carga doble en producción es un problema común que puede ocurrir con los webhooks de Stripe; Si no se toman las precauciones adecuadas, los eventos pueden ser procesados varias veces, lo que puede generar problemas de dinero y de datos. Es importante verificar el ID del evento y no confiar en el orden de llegada para evitar estos problemas.</summary>
+    <published>2026-11-02T12:53:29+00:00</published>
   </entry>
 </feed>
