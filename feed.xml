@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-04T13:19:31.298295+00:00</updated>
+  <updated>2026-11-05T14:21:59.001462+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,65 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html</id>
-    <title>[Economía] Los estadounidenses han dicho "NO A LA GUERRA" según el hablante iraní</title>
-    <updated>2026-11-04T13:19:31.299489+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html"/>
-    <summary>El hablante del parlamento iraní, Mohammad Bagher Ghalibaf, afirmó que los estadounidenses han dicho "NO A LA GUERRA" después de las proyecciones de las elecciones midterm en Estados Unidos. Los estadounidenses han expresado su oposición a la guerra, según Ghalibaf, y los iraníes la endosan. Esto se debe a que la guerra con Irán ha aumentado los precios de la energía en Estados Unidos, lo que ha generado preocupaciones sobre el costo de la vida. Los estadounidenses han votado en las elecciones midterm con el objetivo de evitar la guerra con Irán. Los republicanos perdieron las elecciones debido en parte a la guerra con Irán. El presidente estadounidense Donald Trump ha atribuido la derrota republicana a la guerra con Irán. Trump ha defendido la guerra con Irán, asegurando que fue la decisión correcta. El presidente estadounidense ha expresado su intención de continuar con la guerra con Irán, aunque no ha anunciado planes concretos. Los demócratas, que ganaron las elecciones, podrían aprobar una resolución sobre las poderes de guerra para terminar la guerra con Irán.
-
-Por qué importa:
-La guerra con Irán ha sido un tema importante en las elecciones midterm en Estados Unidos. Los estadounidenses han expresado su oposición a la guerra, lo que podría afectar la política exterior del país.</summary>
-    <published>2026-11-04T06:45:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html</id>
-    <title>[Economía] Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market</title>
-    <updated>2026-11-04T13:19:31.299456+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html"/>
-    <summary>Wayfair reportó su cuarto trimestre más fuerte de crecimiento de ventas desde la pandemia, con una crecimiento del 11.4% en la venta de $3 mil millones en Estados Unidos, y una disminución del 2.3% en la venta internacional. La compañía ha reportado crecimiento consistente durante el último año. El director financiero de la empresa, Kate Gulliver, dijo que la compañía está ganando mercado y que la lealtad de los clientes, la apertura de nuevos tiendas, la línea de muebles de lujo y el enfoque en el valor han permitido ganar más clientes. Los clientes también continúan gastando, ya sea en precios de valor o en la línea de lujo. Wayfair también informó un crecimiento del 9.7% en la venta total, con una ganancia de $62 millones y 45 centavos por acción. La empresa también informó un aumento del 4.7% en la cantidad de clientes activos, con 22.2 millones de personas, y un aumento del 12.2% en el número de pedidos entregados durante el trimestre, con 11 millones de pedidos. La empresa mantiene la actividad promocional similar a la del año anterior y está confiada en que su amplia gama de precios y productos atraerá a una amplia base de consumidores. La empresa también informó una mejora en la rentabilidad, con una ganancia de EBITDA positiva en el trimestre.
-
-Por qué importa:
-La noticia es importante porque refleja la tendencia general de la industria de la vivienda, que sigue siendo lenta. Sin embargo, Wayfair está demostrando que puede prosperar en un entorno lento, lo que podría inspirar a otros negocios en la industria.</summary>
-    <published>2026-11-04T12:08:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html</id>
-    <title>[Economía] McDonald's gana más que esperaba, pero la circulación a sus restaurantes en EE. UU. cae</title>
-    <updated>2026-11-04T13:19:31.299421+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html"/>
-    <summary>McDonald's ha presentado resultados trimestrales mixtos, con una disminución del 0,2% en las ventas de sus restaurantes en EE. UU. que han estado abiertos al menos 13 meses, lo que supera las expectativas de Wall Street. A pesar de esto, la empresa ha reportado una disminución en las ventas de sus restaurantes en EE. UU., que ha sido influenciada por una caída en la circulación a sus establecimientos. En el tercer trimestre, McDonald's ha reportado una ganancia neto de $2.49 mil millones, o $3.51 por acción, y una ganancia ex clausura de $3.57 por acción. Las ventas de sus restaurantes en el extranjero han crecido un 1,5%, mientras que en algunos mercados, como Francia, la empresa ha reportado una caída en las ventas. Las acciones de la empresa han subido más del 2% en la premercado.
-
-Por qué importa:
-La caída en la circulación a los restaurantes de McDonald's en EE; UU; es preocupante, ya que afecta directamente las ventas de la empresa. La empresa ha estado intentando mejorar su oferta de valor para atraer a los consumidores, pero parece que aún tiene mucho trabajo por delante.</summary>
-    <published>2026-11-04T12:24:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html</id>
-    <title>[Economía] CVS to split off drugstore business en una separación histórica</title>
-    <updated>2026-11-04T13:19:31.299385+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"/>
-    <summary>CVS Health anunció planes para dividirse en dos empresas separadas públicas por la primera mitad de 2028, lo que sería uno de los mayores desmembramientos corporativos de la historia. La empresa planea separar sus 9,000 farmacias de retail de su negocio de seguros y gerenciador de beneficios de farmacia, Caremark, uno de los tres mayores PBMs del país. El desmembramiento sigue una "revisión estratégica completa" de la empresa, según una declaración de noticias. El CEO David Joyner dijo que la empresa planea crear dos empresas enfocadas para mejorar la participación del consumidor, la asequibilidad y la coordinación de la atención. Las acciones de la empresa han saltado un 70% desde que Joyner tomó el cargo en octubre de 2024, lo que ha aumentado su valor de mercado a $117 billion. Los dos nuevos empresas serán públicas y las acciones de los accionistas existentes serán propietarias de acciones en ambas empresas. El desmembramiento también permitirá a las dos empresas experimentar una "agenda estratégica enfocada" y una mayor capacidad para "innovar, adoptar tecnología y aumentar la eficiencia". El desmembramiento es una reversión para la empresa, que ha trabajado durante dos décadas para convertirse en una sola fuente de salud. El desmembramiento también viene en un momento en que los gerenciadores de beneficios de farmacia enfrentan una creciente supervisión legislativa en Washington D.C. y en los estados.
-
-Por qué importa:
-El desmembramiento de CVS Health es una noticia significativa en el mundo de la salud y la farmacia; La empresa ha sido una de las principales fuerzas en el mercado de la salud y la farmacia durante décadas, pero ha enfrentado desafíos en los últimos años, incluyendo la creciente supervisión legislativa sobre los gerenciadores de beneficios de farmacia. El desmembramiento permitirá a las dos empresas experimentar una mayor autonomía y flexibilidad para innovar y adaptarse a los cambios en el mercado.</summary>
-    <published>2026-11-04T12:35:05+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html</id>
     <title>[Economía] Los demócratas dominan las elecciones del medio en Estados Unidos</title>
-    <updated>2026-11-04T13:19:31.299349+00:00</updated>
+    <updated>2026-11-05T14:21:59.002976+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +27,7 @@ La victoria de los demócratas en las elecciones del medio tiene implicaciones s
   <entry>
     <id>https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html</id>
     <title>[Economía] AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown</title>
-    <updated>2026-11-04T13:19:31.299314+00:00</updated>
+    <updated>2026-11-05T14:21:59.002896+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,23 +39,65 @@ La victoria de los demócratas en Texas es un punto de inflexión importante par
     <published>2026-11-04T13:00:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/?p=20122</id>
-    <title>[Data Science] Defining the Tush Push</title>
-    <updated>2026-11-04T13:19:31.299271+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html</id>
+    <title>[Economía] Cómo las elecciones del medio tiempo pueden impulsar la división K en el comercio de inteligencia artificial</title>
+    <updated>2026-11-05T14:21:59.002860+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/?p=20122"/>
-    <summary>El artículo explora la creación de un agente de inteligencia artificial para analizar y definir el término "tush push" en el fútbol americano. El agente utiliza un conjunto de datos para identificar la definición más precisa del término y evalúa su efectividad en la predicción de resultados. Se determina que el término "tush push" se refiere a un tipo de carrera corta con un yardaje de un yardaje o menos, y que el agente puede identificar con precisión tales carreras. El artículo también destaca la importancia de definir términos ambiguos en la inteligencia artificial y la necesidad de evaluar críticamente los resultados obtenidos. El agente se demostró con un éxito del 78.3% en la predicción de resultados, lo que sugiere que puede ser una herramienta útil para analizar el fútbol americano. Sin embargo, se destaca que los resultados no establecen si el término "tush push" debe ser prohibido en el juego. El artículo concluye que la inteligencia artificial puede ser una herramienta valiosa para analizar el fútbol americano, pero que es importante considerar críticamente los resultados obtenidos.
+    <link href="https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html"/>
+    <summary>Las elecciones del medio tiempo en los Estados Unidos podrían ampliar la brecha en el comercio de inteligencia artificial. Los gobiernos demócratas en varios estados propusieron restricciones más estrictas para los centros de datos, lo que podría beneficiar a las empresas tecnológicas grandes con capacidad disponible y poner a las empresas que dependen de préstamos en una situación más difícil. Las empresas de inteligencia artificial, como CoreWeave, sufrieron una caída del 10% después de las elecciones, mientras que las empresas de tecnología, como Microsoft y Amazon, aumentaron su valor en más del 6%. Las empresas de hardware, como Micron y Nvidia, también sufrieron una caída en su valor. Las diferencias en los costos de préstamo están jugando un papel importante en la división, según James Sullivan, director de investigación de JPMorgan. Las empresas de neocloud, que dependen de préstamos, tienen un costo de capital más alto que las empresas de hyperscalers, que tienen una mayor diversidad de clientes y ingresos. Las empresas de neocloud, como CoreWeave, tienen un riesgo mayor de retrasos en la construcción y en la financiación de sus proyectos. Las empresas de hyperscalers, como Nvidia, tienen una mayor capacidad para absorber los retrasos y financiar sus proyectos. Las empresas de neocloud pueden enfrentar dificultades para financiar sus proyectos si los costos de préstamo aumentan. Las empresas de hyperscalers pueden aprovecharse de la situación y adquirir activos o obtener capacidad a precios más bajos.
 
 Por qué importa:
-El artículo se centra en la creación de un agente de inteligencia artificial para analizar y definir el término "tush push" en el fútbol americano; El agente utiliza un conjunto de datos para identificar la definición más precisa del término y evalúa su efectividad en la predicción de resultados. La creación de un agente de inteligencia artificial requiere la definición de términos ambiguos y la evaluación crítica de los resultados obtenidos; El artículo destaca la importancia de utilizar definiciones claras y precisas en la inteligencia artificial para obtener resultados confiables.</summary>
-    <published>2026-11-04T13:19:31.299306+00:00</published>
+Las elecciones del medio tiempo podrían tener un impacto significativo en el comercio de inteligencia artificial, ya que las empresas de centros de datos podrían enfrentar restricciones más estrictas; Esto podría beneficiar a las empresas tecnológicas grandes con capacidad disponible y poner a las empresas que dependen de préstamos en una situación más difícil. Las empresas de inteligencia artificial, como CoreWeave, están en una situación más vulnerable debido a su dependencia de préstamos y su falta de capacidad para absorber retrasos en la construcción; Las empresas de tecnología, como Microsoft y Amazon, podrían aprovecharse de la situación y aumentar su valor en el mercado.</summary>
+    <published>2026-11-05T11:01:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html</id>
+    <title>[Economía] Ruta democrática en las elecciones puede influir en las políticas económicas</title>
+    <updated>2026-11-05T14:21:59.002821+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html"/>
+    <summary>La victoria democrática en las elecciones medianas podría llevar a cambios en las políticas económicas relacionadas con el comercio, las prioridades de gasto y la inteligencia artificial. Sin embargo, los principales factores que moldean la economía no cambiarán solo porque el partido en el poder cambie. Los economistas consideran que la presión de la afabilidad, los niveles altos de gasto gubernamental y el crecimiento dependiente de la inteligencia artificial son riesgos para la economía. El economista Mark Zandi, de Moody's Analytics, advierte que la economía está en un lugar "fragil" y que un pequeño cambio podría empujarla hacia la recesión. Aunque los demócratas ganaron las elecciones, el presidente Donald Trump seguirá en el poder y es probable que continúen las políticas económicas actuales, incluyendo las tarifas y la política de inmigración. Zandi también destaca la importancia de la inteligencia artificial como motor del crecimiento económico, pero advierte que sus efectos pueden ser riesgosos. La elección también vio una oposición significativa a los centros de datos, lo que podría ser un obstáculo adicional para la economía. A pesar de la división económica, los indicadores económicos como el PIB, el gasto de consumo y el desempleo muestran un crecimiento económico sólido, pero la inflación ha aumentado y los salarios no han seguido el ritmo de los costos. Los expertos económicos esperan que la economía siga creciendo, aunque con algunos contratiempos y preocupaciones sobre el costo de la vida.
+
+Por qué importa:
+La elección de los demócratas en las medianas puede tener un impacto significativo en las políticas económicas, pero no cambiará los principales factores que moldean la economía. La presión de la afabilidad, los niveles altos de gasto gubernamental y el crecimiento dependiente de la inteligencia artificial son riesgos para la economía; El cambio en el poder puede llevar a una mayor incertidumbre política, lo que podría afectar la confianza de los inversores y el crecimiento económico.</summary>
+    <published>2026-11-05T12:53:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html</id>
+    <title>[Economía] Rechaza Wendy's una oferta de $1.4 billion de Trian para adquirir la cadena</title>
+    <updated>2026-11-05T14:21:59.002785+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"/>
+    <summary>Wendy's ha rechazado una oferta de $1.4 billion de Trian para adquirir la cadena, que ofrecía $7.35 por acción en efectivo. La oferta fue presentada el 28 de octubre y Wendy's consideró que no reflejaba los ganancias potenciales de la cadena en su estrategia de turnaround. El consejo de administración de Wendy's formó un comité para evaluar la oferta y concluyó que la propuesta "substantially undervalúa" a la empresa. La empresa ha adoptado un plan de derechos de accionista para prevenir una toma de control hostil. La decisión se suma a una larga historia de conflictos entre Nelson Peltz y la cadena, que se remonta a una campaña activista de Peltz más de dos décadas atrás. Wendy's ha informado sus resultados del tercer trimestre, en los que las ventas en tienda misma disminuyeron por séptima vez consecutiva, pero sus ganancias y ingresos superaron las expectativas de los analistas. Las acciones de Wendy's cayeron menos de 1% en comercio previo, después de que la oferta de Trian impulsara el precio de la acción.
+
+Por qué importa:
+La decisión de Wendy's es importante porque refleja la confianza de la empresa en su estrategia de turnaround y su liderazgo actual, liderado por el CEO Bob Wright. La oferta de Trian fue el último intento de un inversor para adquirir la cadena, que ha sido objeto de una larga historia de conflictos con Nelson Peltz.</summary>
+    <published>2026-11-05T13:26:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html</id>
+    <title>[Economía] Banks están volviendo cautelosos con el crédito, según la Fed.</title>
+    <updated>2026-11-05T14:21:59.002746+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html"/>
+    <summary>La Fed informó que las instituciones financieras están volviendo cautelosas con el crédito debido a preocupaciones sobre la salud de la economía. Las pequeñas empresas, las familias de riesgo y las propiedades comerciales enfrentan un apriete crediticio. El último informe del Senior Loan Officer Opinion Survey de la Fed, publicado el 2 de noviembre, mostró un panorama crediticio desigual en el tercer trimestre. Las instituciones financieras reportaron una disminución en la demanda de crédito y una mayor cautela en la concesión de préstamos. El 10% de los préstamos se vieron afectados por la crisis de la deuda pública. El informe también mostró una disminución en la concesión de préstamos a empresas pequeñas y a familias de riesgo. El 5,349% es el mayor nivel de la deuda pública desde abril de 2002. El informe también mostró una disminución en la concesión de préstamos a empresas pequeñas y a familias de riesgo. El informe también mostró una disminución en la concesión de préstamos a empresas pequeñas y a familias de riesgo.
+
+Por qué importa:
+La disminución en la concesión de crédito puede tener un impacto significativo en la economía. La disminución en la concesión de crédito puede tener un impacto significativo en la economía.</summary>
+    <published>2026-11-05T13:52:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm</id>
     <title>[Data Science] Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM</title>
-    <updated>2026-11-04T13:19:31.299191+00:00</updated>
+    <updated>2026-11-05T14:21:59.002708+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -125,7 +111,7 @@ La importancia de este artículo radica en que muestra cómo se puede combinar l
   <entry>
     <id>https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/</id>
     <title>[Data Science] Una nueva abordaje cuántica para la predicción de series de tiempo</title>
-    <updated>2026-11-04T13:19:31.299153+00:00</updated>
+    <updated>2026-11-05T14:21:59.002665+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -137,23 +123,9 @@ La predicción de series de tiempo es un problema complejo que requiere la capac
     <published>2026-11-04T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/</id>
-    <title>[Data Science] Cómo entrenar un modelo de decisión personalizado con Unsloth</title>
-    <updated>2026-11-04T13:19:31.299118+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/"/>
-    <summary>Qwen3.5-4B es un modelo de lenguaje abierto que se fine-tunea en el dataset CLINC150 con Unsloth; Unsloth ahora soporta la entrenamiento de modelos de decisión a partir de modelos de lenguaje abierto como Qwen y Gemma. La guía oficial de entrenamiento de modelos de decisión de Unsloth explica el método y proporciona notebooks de ejecución listas para usar. Se utiliza Google Colab, Unsloth y Qwen3.5-4B para construir un clasificador de intención personalizado utilizando el dataset CLINC150. La guía de tutorial explica cómo construir un clasificador de intención utilizando CLINC150 y cómo utilizar Google Colab para entrenar el modelo. La técnica de LoRA se utiliza para reducir la cantidad de parámetros que se actualizan durante el entrenamiento; La guía de tutorial proporciona un ejemplo de cómo entrenar un modelo de decisión utilizando CLINC150 y Google Colab. La guía de tutorial explica cómo utilizar la técnica de FastDecisionModel para convertir un modelo de lenguaje abierto en un modelo de decisión. Los modelos de decisión son útiles cuando una aplicación necesita tomar decisiones estructuradas en lugar de generar respuestas largas. Con Unsloth, puedes entrenar uno utilizando un LLM existente y un conjunto de datos relativamente pequeño. En un experimento se entrenó a Qwen3.5-4B con 10 intenciones de CLINC150 y se alcanzó un 100% de precisión en el conjunto de prueba; Los resultados son prometedores, pero están limitados a este pequeño experimento. Puedes utilizar el mismo enfoque con tu propio conjunto de datos y explorar cómo los modelos de decisión se integran en tus aplicaciones.
-
-Por qué importa:
-Es importante destacar que la guía de tutorial de Unsloth proporciona un enfoque sencillo y accesible para entrenar modelos de decisión utilizando modelos de lenguaje abierto. Esto puede ser especialmente útil para desarrolladores y investigadores que buscan integrar modelos de decisión en sus aplicaciones y workflows.</summary>
-    <published>2026-11-04T11:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/</id>
     <title>[Data Science] Se utiliza un modelo de lenguaje para que el asistente de voz hable y escuche en tiempo real.</title>
-    <updated>2026-11-04T13:19:31.299083+00:00</updated>
+    <updated>2026-11-05T14:21:59.002630+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -165,51 +137,51 @@ Es importante destacar que el uso de modelos de lenguaje y decisión en asistent
     <published>2026-11-04T12:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job</id>
-    <title>[Data Science] 7 pequeños modelos especializados que superan a los gigantes de LLMs en una tarea</title>
-    <updated>2026-11-04T13:19:31.299050+00:00</updated>
+    <id>https://www.oreilly.com/radar/what-it-takes-to-trust-automatic-model-routing/</id>
+    <title>[Data Science] ¿Qué se necesita para confiar en la ruta automática del modelo?</title>
+    <updated>2026-11-05T14:21:59.002594+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/what-it-takes-to-trust-automatic-model-routing/"/>
+    <summary>La empresa ha entrenado a sus routers para elegir entre modelos más fuertes y más baratos, lo que ha reducido el costo en más de dos veces. La empresa puede utilizar el nuevo modelo más a menudo si el presupuesto lo permite, lo que puede mejorar la calidad de la asistencia. La empresa necesita entender cómo funciona el nuevo modelo y cómo puede utilizarlo de manera efectiva. La empresa debe considerar cómo el nuevo modelo afectará a la conversación con el usuario y cómo puede mejorar la experiencia del usuario. La empresa debe asegurarse de que el nuevo modelo tenga acceso a la información relevante y que pueda utilizarla para tomar decisiones informadas. La empresa debe evaluar cómo el nuevo modelo se integra con el hardware y la infraestructura existentes. La empresa puede utilizar el nuevo modelo para mejorar la calidad de la asistencia y reducir el costo. La empresa debe considerar cómo el nuevo modelo puede afectar la conversación con el usuario y cómo puede mejorar la experiencia del usuario.
+
+Por qué importa:
+La empresa necesita confiar en la ruta automática del modelo para mejorar la calidad de la asistencia y reducir el costo. La empresa debe asegurarse de que el nuevo modelo tenga acceso a la información relevante y que pueda utilizarla para tomar decisiones informadas.</summary>
+    <published>2026-11-05T11:54:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models</id>
+    <title>[Data Science] Un sistema de planificación de viajes local multi-agente</title>
+    <updated>2026-11-05T14:21:59.002560+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job"/>
-    <summary>Parakeet v3, un modelo de ASR de 600M de parámetros, alcanza un error de 6.32 en promedio, 23 veces más rápido que Whisper large-v3, con un tamaño del cuarto de este modelo. PaddleOCR-VL-1.6, un modelo de OCR de 0.9B de parámetros, alcanza un puntaje del 96.33 en OmniDocBench v1.6, superando a Gemini 3 Pro y GPT-5.2. GLiNER-S, un modelo de extracción de 50M de parámetros, supera a ChatGPT en evaluaciones de cero conjetura en el NER, con un puntaje del 52.7. Gemma, un modelo de embeddings de 308M de parámetros, es el modelo más alto clasificado en MTEB, entrenado en 100+ idiomas y pequeño para ejecutarse en menos de 200 MB de RAM. Qwen2.5-1.5B-Instruct, un modelo de routing de 1.5B de parámetros, alcanza un puntaje del 93.17% en routing, superando a modelos propietarios y otros modelos de routing. vLLM, un modelo de decisiones de 8B de parámetros, supera a GPT-5 en evaluaciones de decisiones, con un puntaje del 37.1% en Humanity's Last Exam. Kokoro, un modelo de OCR de 600M de parámetros, requiere el paquete espeak-ng para funcionar correctamente. TeleOCR y OvisOCR2, modelos de OCR de 0.9B y 50M de parámetros respectivamente, también alcanzan altos puntajes en OmniDocBench v1.6.
+    <link href="https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models"/>
+    <summary>Hermes Agent es un agente de inteligencia artificial abierto lanzado por Nous Research, disponible en dos versiones: una aplicación de escritorio native y una terminal-first CLI. Ollama es un tool abierto que descarga, gestiona y sirve modelos de lenguaje grandes directamente en tu propio ordenador. El modelo de lenguaje es una herramienta abierta que permite ejecutar modelos de lenguaje grandes en tu propio ordenador. El sistema Wanderlist utiliza Hermes Agent y Ollama para crear un planificador de viajes local multi-agente que puede investigar destinos, sugerir alojamientos y generar enlaces de búsqueda de vuelos reales. El sistema utiliza dos bloques try/except para manejar fechas malformadas y un sistema de memoria del coordinador que permite recordar información a lo largo de sesiones. El sistema combina la información de los tres bloques y crea un briefing de viaje con un enlace de búsqueda de vuelos real. El sistema almacena la preferencia de alojamiento económico y histórico en memoria para futuras sesiones. El sistema de búsqueda de alojamiento busca barrios recomendados y económicos en Lisboa y Porto. El sistema de búsqueda de vuelos busca información de precios típicos para la ruta Madrid-Lisboa.
 
 Por qué importa:
-Estos modelos especializados superan a los gigantes de LLMs en tareas específicas, lo que los hace interesantes para aplicaciones específicas.</summary>
-    <published>2026-11-04T13:00:00+00:00</published>
+Este sistema es importante porque permite a los usuarios planificar viajes de manera más eficiente y personalizada, utilizando modelos de lenguaje grandes y agentes de inteligencia artificial. El sistema puede ayudar a los usuarios a encontrar destinos y alojamientos que se adapten a sus preferencias y presupuesto.</summary>
+    <published>2026-11-05T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/02/social-media-russell-vows-to-rediscover-his-performance-after-more-bad-days-than-good-in-2026/</id>
-    <title>[Fórmula 1] Russell vows to rediscover his performance</title>
-    <updated>2026-11-04T13:19:31.299017+00:00</updated>
+    <id>https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/</id>
+    <title>[Data Science] Decoradores para Timing, Retries, Caching, y Validation en Python</title>
+    <updated>2026-11-05T14:21:59.002524+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/02/social-media-russell-vows-to-rediscover-his-performance-after-more-bad-days-than-good-in-2026/"/>
-    <summary>George Russell expresó que la temporada 2026 ha sido difícil de manejar, ya que no pudo ganar el mundo de campeonatos. Afirmó que la temporada comenzó como lo había esperado, pero se desmoronó rápidamente debido a la mala suerte y las mala actuaciones. Russell reconoció que la temporada ha sido la primera de su carrera donde ha tenido más días malos que buenos. Agradeció a su equipo por producir el mejor coche y unidad de potencia de la temporada. Russell prometió dar su máximo esfuerzo para recuperar su rendimiento y buscar un poco de suerte en el futuro. A Kimi, el campeón, le deseó sinceramente felicitaciones. Russell también agradeció a su equipo por su trabajo arduo y dedicación.
+    <link href="https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/"/>
+    <summary>Seis semanas después, una tercera parte de cada una de las tres funciones es código de límite; La función de decorador se ejecuta una vez, en el momento de la importación, y su valor se utiliza para reemplazar la función original. La función `functools.wraps` copia el nombre, nombre calificado, módulo, docstring y anotaciones de la función original en la función de decorador. La función perf_counter() es la hora correcta para la resta; La función time.sleep() suspende la llamada durante un número de segundos. La función time.time() devuelve la cantidad de segundos desde la época Unix; La función datetime() devuelve la fecha y hora actual. La función functools.lru_cache() envuelve una función en un llamable memorizado; La función cache_info() informa sobre los hits, las misiones, el límite y el tamaño actual del caché. La función cache_clear() vacía el caché; La función inspect.signature() devuelve un objeto de firma para la función; La función wrapper mantiene el contrato que se describe en el artículo. El contrato de la función wrapper incluye @functools.wraps, la propagación de argumentos y el retorno del resultado original. La función wrapper nunca convierte una excepción en None; El estado de la función wrapper es pequeño y puede ser inspeccionado. La ordenación de los decoradores es importante para el rendimiento; La ordenación correcta de los decoradores es: @check, @lru_cache, @timed. La función wrapper es una función plana cuando se aplica la ordenación correcta; La función wrapper es una función que puede ser inspeccionada cuando se aplica la ordenación correcta.
 
 Por qué importa:
-La noticia es importante porque Russell es un piloto destacado y su desempeño en la temporada 2026 puede influir en el resultado del campeonato.</summary>
-    <published>2026-11-02T20:47:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/</id>
-    <title>[Fórmula 1] Antonelli dice que los dudos "agregaron combustible al fuego" en su búsqueda del título mundial</title>
-    <updated>2026-11-04T13:19:31.298983+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/"/>
-    <summary>Andrea Kimi Antonelli, el nuevo campeón mundial de F1, dijo que fue impulsado a desmentir a aquellos que dijeron que no estaba listo para la categoría. En su primera temporada, Antonelli no tuvo un campeonato perfecto, ya que falló a obtener puntos en siete ocasiones de un total de nueve rondas. Sin embargo, en su segunda temporada, fue competitivo desde el principio y superó a su compañero de equipo George Russell en el campeonato. Antonelli ganó el título ayer con cuatro rondas de antelación; El piloto italiano dijo que fue una respuesta satisfactoria a aquellos que lo cuestionaron. "Es siempre bueno silenciar a algunos de los ruidos", dijo Antonelli. "En muchos sentidos, la realidad de que algunas personas me dijeron que no estaba listo para F1 o que no era lo suficientemente bueno, me ayudó a ser más listo para esto". En su primera temporada, Antonelli obtuvo nueve victorias, la mayor cantidad de cualquier piloto; Sin embargo, admitió que hubo momentos en los que podría haber hecho mejor. "He tenido momentos en los que podría haber hecho mucho mejor, mucho mejor", dijo Antonelli; "Es un proceso de aprendizaje constante". Antonelli creció mucho gracias a su experiencia de la temporada anterior, que incluyó correr con Mercedes y estar bajo el foco de la prensa. "La experiencia de correr con Mercedes, obviamente, me hizo crecer mucho más rápido que si hubiera ido a un equipo menor", dijo Antonelli.
-
-Por qué importa:
-La victoria de Antonelli es importante porque muestra que la perseverancia y la determinación pueden llevar a la éxito en el mundo del deporte. Su historia es un ejemplo a seguir para los jóvenes pilotos que buscan alcanzar sus sueños en la F1.</summary>
-    <published>2026-11-03T07:15:05+00:00</published>
+Es importante entender los decoradores en Python porque permiten agregar funcionalidades a las funciones sin modificar su código original. Los decoradores también ayudan a mantener el código organizado y fácil de leer.</summary>
+    <published>2026-11-05T13:25:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/03/silly-power-unit-rules-prevent-passing-says-hamilton-the-engine-can-go-faster/</id>
     <title>[Fórmula 1] "Hamilton critica las reglas de potencia de F1 en México"</title>
-    <updated>2026-11-04T13:19:31.298948+00:00</updated>
+    <updated>2026-11-05T14:21:59.002487+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -223,7 +195,7 @@ Las reglas de potencia de F1 han sido objeto de críticas de conductores y fans,
   <entry>
     <id>https://www.f1technical.net/news/29597</id>
     <title>[Fórmula 1] Rafael Camara hará su debut en Fórmula 1 con Haas en el Gran Premio de São Paulo</title>
-    <updated>2026-11-04T13:19:31.298911+00:00</updated>
+    <updated>2026-11-05T14:21:59.002439+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -237,7 +209,7 @@ La decisión de Haas de no regresar a Ocon a la parrilla de carreras es importan
   <entry>
     <id>https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/</id>
     <title>[Fórmula 1] Ocon no regresará a conducir para Haas, Camara tomará el volante en Brasil</title>
-    <updated>2026-11-04T13:19:31.298876+00:00</updated>
+    <updated>2026-11-05T14:21:59.002395+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -251,7 +223,7 @@ La noticia es importante porque afecta a Ocon, quien había estado esperando su 
   <entry>
     <id>https://www.racefans.net/2026/11/04/on-this-day-2001-champ-car-fontana/</id>
     <title>[Fórmula 1] Aplicación final de Penske en CART</title>
-    <updated>2026-11-04T13:19:31.298839+00:00</updated>
+    <updated>2026-11-05T14:21:59.002351+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,65 +235,37 @@ La temporada de 2001 fue una temporada muy disputada en la historia de CART; La 
     <published>2026-11-04T00:01:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/neve-campbell-confirmed-for-scream-8-2000834091</id>
-    <title>[Tecnología] Neve Campbell Confirmada para ‘Scream 8’</title>
-    <updated>2026-11-04T13:19:31.298802+00:00</updated>
+    <id>https://www.racefans.net/2026/11/05/a-home-debutant-and-another-mercedes-title-six-brazilian-gp-talking-points/</id>
+    <title>[Fórmula 1] Six Brazilian GP talking points</title>
+    <updated>2026-11-05T14:21:59.002304+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/neve-campbell-confirmed-for-scream-8-2000834091"/>
-    <summary>Neve Campbell ha confirmado su regreso como Sidney Prescott en la próxima entrega de la saga Scream, Scream 8. La actriz también expresó su entusiasmo por el proyecto, sin revelar detalles sobre el guion o la producción. En otro lado, David Cronenberg lucha por encontrar financiamiento para su próximo proyecto, basado en su novela Consumed. La producción de Hostel, una serie de televisión basada en la franquicia de Hostel, ha sido cancelada por Peacock. En el mundo de los monstruos, King Ghidorah ha sido confirmado como el villano de Godzilla Minus Zero, con tres cabezas y dos caudales. En el ámbito de la televisión, Callum Turner ha sido elegido para interpretar a James Bond en Amazon, reemplazando a Daniel Craig. Scarlet Johansson ha interpretado a una víctima de exorcismo en Exorcist: Martyrs, con una imagen reveladora del cuerpo del actor Robert Longstreet. Disney+ ha lanzado un trailer para la tercera temporada de Percy Jackson y los dioses olímpicos, que se estrenará el 20 de noviembre.
+    <link href="https://www.racefans.net/2026/11/05/a-home-debutant-and-another-mercedes-title-six-brazilian-gp-talking-points/"/>
+    <summary>Rafael Camara, el líder del campeonato de Fórmula 2, hará su debut en el Gran Premio de Brasil antes de lo esperado, reemplazando a Esteban Ocon en la escudería Haas. Camara se unirá a Gabriel Bortoleto, quien impresionó en su temporada de debut anterior y está en curso de terminar la temporada en la clasificación. Sin embargo, Felipe Drugovich, quien pasó años probando para Aston Martin después de ganar el título de F2, ahora parece poco probable que tenga otra oportunidad en F1. Ocon no regresará a Haas, y su salida del equipo parece ser el final de su carrera en F1. La escudería McLaren introducirá cambios en sus alas y su piso para el Gran Premio, lo que podría mejorar su rendimiento. La carrera de F1 en Brasil se llevará a cabo mientras que algunas de las equipos de Moto GP están programadas para competir en Qatar, aunque Yamaha ha anunciado que no enviará sus equipos debido a preocupaciones sobre la amenaza que representa la guerra en Irán.
 
 Por qué importa:
-La confirmación de Neve Campbell como Sidney Prescott en Scream 8 es un gran alivio para los fans de la saga, que habían estado esperando con ansias la próxima entrega; La lucha de David Cronenberg por encontrar financiamiento para su próximo proyecto es un recordatorio de la dificultad que enfrentan los directores y escritores en la industria del cine. La cancelación de la serie de televisión Hostel por Peacock es un ejemplo de cómo la pandemia y la evolución de la industria del entretenimiento han cambiado las prioridades y las oportunidades para los creadores.</summary>
-    <published>2026-11-03T12:00:40+00:00</published>
+La carrera de F1 en Brasil es importante porque es una oportunidad para que los pilotos brasileños demuestren su habilidad y pueden inspirar a la audiencia local. Además, la carrera tendrá un impacto significativo en la lucha por el título de constructores entre Mercedes y Ferrari.</summary>
+    <published>2026-11-05T07:15:35+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2305059/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/</id>
-    <title>[Tecnología] La observatorio Swift de NASA se espera que reentre la Tierra el 4 de noviembre</title>
-    <updated>2026-11-04T13:19:31.298768+00:00</updated>
+    <id>https://www.racefans.net/2026/11/05/social-media-williams-show-off-their-1986-brazilian-grand-prix-trophy/</id>
+    <title>[Fórmula 1] Williams muestra el trofeo de 40 años de GP de Jacarepagua brasileño</title>
+    <updated>2026-11-05T14:21:59.002256+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.engadget.com/2305059/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/"/>
-    <summary>La NASA anunció que su observatorio Swift se espera que reentre la Tierra el 4 de noviembre, 22 años después de su lanzamiento. El 3,200-pounds de la nave espacial se descomponerá en la atmósfera, pero algunos componentes podrían sobrevivir y llegar al suelo. La misión de rescate fallida en julio no pudo recuperar la nave, que se descomponerá en la atmósfera. La NASA ha observado más de 2,000 explosiones de gamma rayos y 1,400 supernovas con el observatorio. La nave espacial se descomponerá en la atmósfera, pero no hay riesgo de que cualquier fragmento sobreviviente cause daño a las personas. La NASA y las Fuerzas Armadas monitorean la caída del telescopio y actualizan las predicciones según sea necesario. La nave espacial se descomponerá en la atmósfera, pero algunos componentes podrían sobrevivir y llegar al suelo. La NASA ha observado más de 2,000 explosiones de gamma rayos y 1,400 supernovas con el observatorio. La nave espacial se descomponerá en la atmósfera, pero no hay riesgo de que cualquier fragmento sobreviviente cause daño a las personas. La NASA y las Fuerzas Armadas monitorean la caída del telescopio y actualizan las predicciones según sea necesario.
+    <link href="https://www.racefans.net/2026/11/05/social-media-williams-show-off-their-1986-brazilian-grand-prix-trophy/"/>
+    <summary>El equipo Williams compartió un video de un trofeo de 40 años de su victoria en el GP de Brasil de 1986, que se llevó a cabo en el circuito de Jacarepagua en Río de Janeiro. Nelson Piquet, el piloto que ganó la carrera en su debut con el equipo, no fue mencionado en la publicación. Piquet ganó el campeonato de pilotos con Williams en 1987, pero dejó el equipo después de una disputa por el estatus de "número uno". En 2022, Piquet fue criticado por hacer comentarios racistas sobre Lewis Hamilton; El trofeo se encuentra en posesión del equipo Williams. El GP de Brasil de 1986 fue una carrera memorable para el equipo, con Piquet liderando una victoria brasileña. La carrera también marcó el debut de Piquet con Williams; El equipo Williams compartió el video del trofeo en sus redes sociales. El GP de Brasil de 1986 es considerado un momento importante en la historia del equipo. El trofeo es un recordatorio de la victoria de Piquet en la carrera; El equipo Williams ha compartido el video del trofeo en varias ocasiones. El GP de Brasil de 1986 es una carrera que se ha recordado en el tiempo; El equipo Williams ha mostrado el trofeo en varias ocasiones. El GP de Brasil de 1986 es una carrera que se ha convertido en un momento importante en la historia del equipo.
 
 Por qué importa:
-La observación Swift de la NASA ha sido fundamental para detectar explosiones de gamma rayos y supernovas en el universo. La nave espacial ha proporcionado valiosas informaciones sobre la cosmos, y su reentrada en la Tierra es un evento significativo.</summary>
-    <published>2026-11-03T12:41:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</id>
-    <title>[Tecnología] Working collaboratively to fight scams in Asia Pacific</title>
-    <updated>2026-11-04T13:19:31.298732+00:00</updated>
-    <author>
-      <name>Technology</name>
-    </author>
-    <link href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/"/>
-    <summary>Google está trabajando en colaboración con empresas y organizaciones para combatir las estafas en la región del Pacífico Asiático. La empresa ha lanzado nuevas protecciones para Android, está trabajando con industrias y educando a las comunidades para ayudar a prevenir las estafas. Las pérdidas totales de las estafas en la región del Pacífico Asiático alcanzaron hasta $114.1 billion USD en 2025. Google ha anunciado $6 millones en fondos para ayudar a pequeñas empresas y individuos a estar seguros en línea. La empresa está trabajando con industrias y organizaciones para compartir inteligencia de amenazas y coordinar defensas. Google también está expandiendo su educación y concienciación sobre las estafas. La empresa está comprometida a trabajar en colaboración con otras organizaciones para combatir las estafas en la región. Google está utilizando tecnologías de seguridad avanzadas para detectar y prevenir las estafas.
-
-Por qué importa:
-Las estafas están creciendo en complejidad y son un problema grave en la región del Pacífico Asiático. Un informe reciente de la ONU destaca el impacto que tienen estas estafas en la región; Es importante que las comunidades y las empresas trabajen juntas para combatir estas amenazas.</summary>
-    <published>2026-11-03T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/</id>
-    <title>[Tecnología] Apple Music introduce una nueva función para grabar karaoke</title>
-    <updated>2026-11-04T13:19:31.298696+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/"/>
-    <summary>Apple Music lanzará una nueva función llamada "Selfie Sing" que permitirá a los usuarios grabar videos de sí mismos cantando karaoke sin necesidad de utilizar otra aplicación. Esta función se integrará con iOS 27.3 y estará disponible en beta. Los usuarios podrán grabar videos de sí mismos cantando a canciones con la letra que se muestra en pantalla en tiempo real. La función viene con su propia lista de canciones y no está disponible para todo el catálogo de Apple Music. La lista de canciones incluye canciones como "Since U Been Gone" de Kelly Clarkson, "What Makes You Beautiful" de One Direction y "Like a Virgin" de Madonna. Los usuarios podrán agregar efectos a su voz o cambiar su volumen antes de guardar o compartir el video con sus amigos. La función se lanzará con iOS 27.3, que se espera que esté disponible en diciembre.
-
-Por qué importa:
-Esta función es útil para aquellos que quieren grabar momentos especiales o compartir sus habilidades vocales con amigos y familiares. La función "Selfie Sing" de Apple Music ofrece una forma divertida y fácil de grabar y compartir videos de karaoke.</summary>
-    <published>2026-11-04T11:02:04+00:00</published>
+El GP de Brasil de 1986 fue una carrera importante para el equipo Williams, ya que Nelson Piquet ganó la carrera en su debut con el equipo. El trofeo se encuentra en posesión del equipo Williams y ha sido compartido en varias ocasiones en sus redes sociales.</summary>
+    <published>2026-11-05T11:20:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.wired.com/story/finally-a-kindle-page-turner/</id>
     <title>[Tecnología] Amazon's New Kindle Click Accessory</title>
-    <updated>2026-11-04T13:19:31.298659+00:00</updated>
+    <updated>2026-11-05T14:21:59.002207+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
@@ -335,7 +279,7 @@ La Kindle Click es una solución práctica para aquellos que buscan un remoto de
   <entry>
     <id>https://gizmodo.com/ahsoka-season-2-will-feature-more-clone-wars-and-rebels-characters-2000834611</id>
     <title>[Tecnología] Ahsoka Season 2 incluirá más personajes de Clone Wars y Rebels</title>
-    <updated>2026-11-04T13:19:31.298621+00:00</updated>
+    <updated>2026-11-05T14:21:59.002161+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -347,51 +291,65 @@ Rosario Dawson reveló que la segunda temporada de Ahsoka incluirá la aparició
     <published>2026-11-04T12:00:26+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.tauto.run/tauto-macros/</id>
-    <title>[Programación] ¿Tauto podría tener el sistema de macros más poderoso del mundo?</title>
-    <updated>2026-11-04T13:19:31.298584+00:00</updated>
+    <id>https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/</id>
+    <title>[Tecnología] Motorola Signature 27</title>
+    <updated>2026-11-05T14:21:59.002120+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://blog.tauto.run/tauto-macros/"/>
-    <summary>Tauto es un sistema de macros que combina un sistema de pruebas dependientes con un runtime que incluye efectos algebraicos y propiedad de propiedad. El sistema de macros de Tauto es seguro y preciso gracias a su sistema de tipos dependientes. Permite a los usuarios escribir macros que pueden manipular el código fuente de manera segura y eficiente. El sistema de macros de Tauto incluye un kernel que verifica la seguridad y la precisión de los macros y un sistema de pruebas que permite a los usuarios probar y validar los macros. Tauto permite la ejecución de macros con un presupuesto de ejecución, lo que reduce el riesgo de fallos. El sistema de macros de Tauto incluye un sistema de formadores y resaltado de sintaxis que permite a los usuarios personalizar la apariencia y el comportamiento de los macros. El sistema de macros de Tauto es un sistema de macros que permite a los usuarios escribir macros que pueden manipular el código fuente de manera segura y eficiente, y que incluye un sistema de pruebas y verificación para garantizar la seguridad y la precisión de los macros.
+    <link href="https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/"/>
+    <summary>Motorola ha lanzado el Motorola Signature 27, un smartphone de alta gama con un precio de $1,600. El teléfono tiene un diseño contoured y un front glass de Gorilla Glass Ceramic 3; La pantalla de 6.8 pulgadas tiene una resolución de 1.5K y un rendimiento de 12,000 nits. El teléfono cuenta con una cámara principal de 50 megapíxeles y una cámara periscópica de 200 megapíxeles; El Motorola Signature 27 utiliza el chip Qualcomm Snapdragon 8 Elite Extreme Gen 6. El teléfono tiene una batería de 7,000 mAh y soporta 90-watt TurboPower fast charging; El teléfono tiene 12 GB de RAM y 512 GB de almacenamiento. El Motorola Signature 27 tiene un sistema de sonido con Bang &amp; Olufsen y soporta Wi-Fi 8; La nueva iPhone Duo de Apple está esperada para reducir significativamente el liderazgo de Motorola. La tendencia de "premiumización" en la industria de hardware implica que los dispositivos se mejoran para aumentar los precios. La nueva línea de productos de Amazon, anunciada en octubre, incluye tabletas, dispositivos Echo y Kindles con materiales y componentes más avanzados. La "premiumización" es una estrategia para que las empresas puedan mantener la rentabilidad en un entorno económico difícil. El precio de $1,600 puede ser un obstáculo para muchos consumidores. La competencia en el mercado de teléfonos es intensa y Motorola debe encontrar formas de mantener su posición de liderazgo.
 
 Por qué importa:
-Tauto es un sistema de macros que puede revolucionar la forma en que los desarrolladores escriben y ejecutan código. Su capacidad para combinar seguridad y precisión hace de él un sistema de macros muy atractivo para los entusiastas de la macro.</summary>
-    <published>2026-11-03T01:14:06+00:00</published>
+La "premiumización" es una estrategia común en la industria de hardware para mantener la rentabilidad en un entorno económico difícil. La competencia en el mercado de teléfonos es intensa y Motorola debe encontrar formas de mantener su posición de liderazgo.</summary>
+    <published>2026-11-05T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://orib.dev/gefs.html</id>
-    <title>[Programación] Gefs: un nuevo sistema de archivo diseñado para Plan 9</title>
-    <updated>2026-11-04T13:19:31.298542+00:00</updated>
+    <id>https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/</id>
+    <title>[Tecnología] Spotify llega a pantallas de asiento de United Airlines</title>
+    <updated>2026-11-05T14:21:59.002076+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://orib.dev/gefs.html"/>
-    <summary>Gefs es un sistema de archivo crash-safe diseñado para Plan 9, que utiliza un sistema de árboles de Bε para almacenar datos y metadata. El objetivo de Gefs es ser simpl. El sistema de Gefs es más simple que otros sistemas de archivo como CWFS y Fossil. Gefs tiene un tamaño de código de 8737 líneas, en comparación con 15634 líneas de CWFS y 27762 líneas de Fossil. El sistema de Gefs utiliza un algoritmo de deadlist para reclamation de espacio. Gefs tiene un sistema de snapshots que permite la reclamation de espacio y la detección de corrupción. El sistema de Gefs utiliza un algoritmo de Bε para almacenar los datos y la metadata. Gefs tiene un tamaño de rendimiento de varios megabytes por segundo.
+    <link href="https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/"/>
+    <summary>Spotify ha anunciado que su biblioteca de contenido estará disponible en las pantallas de asiento de United Airlines, equipadas con internet satelital Starlink. Los pasajeros pueden acceder a su biblioteca conectando su teléfono a la Wi-Fi inflight y escaneando un código QR en la pantalla de asiento. La conexión a Wi-Fi para Spotify es gratuita, lo que significa que no necesitarán pagar por un pas de Wi-Fi inflight. Esta integración es una ventaja para los pasajeros, ya que les permite utilizar la pantalla de asiento en lugar de su teléfono para ver videos de podcasts o música. Además, no necesitarán descargar listas de reproducción o podcasts antes del vuelo. La integración de Spotify con United Airlines es una novedad, ya que otras aerolíneas como American Airlines ofrecen música streaming como beneficio para los pasajeros. La mayoría de los vuelos diarios de United Airlines ahora ofrecen internet satelital Starlink, según el aerolíneo. Los pasajeros pueden verificar si su vuelo ofrece internet satelital a través del tracker de Wi-Fi de United.
 
 Por qué importa:
-Gefs es un sistema de archivo diseñado para Plan 9 que utiliza un sistema de árboles de Bε para almacenar datos y metadata; Esto permite una menor cantidad de relleno que se requeriría normalmente. La estructura de Bε tree permite la fusión de nodos con sus hermanos de manera oportunista; Un gefs utiliza un árbol de Bε para almacenar su sistema de archivos; Un gefs utiliza un árbol de Bε para almacenar todos los datos del sistema de archivos en un solo almacenamiento de clave-valor.</summary>
-    <published>2026-11-03T09:54:52+00:00</published>
+Esta integración es importante porque permite a los pasajeros disfrutar de su biblioteca de música, podcasts y audiobooks durante los vuelos, sin necesidad de llevar un dispositivo portátil. La conexión a Wi-Fi inflight es gratuita, lo que la hace accesible para todos los pasajeros.</summary>
+    <published>2026-11-05T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/splashxmoon/what-happens-when-you-correct-a-coding-agent-twice-od2</id>
-    <title>[Programación] ¿Qué sucede cuando correctas un agente de codificación dos veces?</title>
-    <updated>2026-11-04T13:19:31.298503+00:00</updated>
+    <id>https://gizmodo.com/best-gaming-gifts-under-100-dollars-2000834568</id>
+    <title>[Tecnología] Regalos de videojuegos asequibles</title>
+    <updated>2026-11-05T14:21:59.002029+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Gizmodo</name>
     </author>
-    <link href="https://dev.to/splashxmoon/what-happens-when-you-correct-a-coding-agent-twice-od2"/>
-    <summary>El autor de Friday, una aplicación de escritorio gratuita que ejecuta agentes de codificación como Claude Code, Codex y Cursor, ha encontrado un problema en la versión 0.2.6. Cuando se correcta un agente, el siguiente comienza a ignorar la corrección. El autor ha experimentado esto con Claude Code y Codex, y ha encontrado que algunos agentes no aprenden de las correcciones. Para solucionar esto, Friday ofrece una función que permite a los usuarios agregar una comandos para detectar errores y enviar retroalimentación a los agentes. Esta función se puede agregar de manera voluntaria y no requiere una cuenta. El autor ha encontrado que esta función puede ayudar a mejorar la precisión de los agentes de codificación. El autor invita a los usuarios a probar esta función y compartir sus experiencias. La función se encuentra en la sección de "Settings" de la aplicación. El autor ha encontrado que esta función puede ser útil para mejorar la precisión de los agentes de codificación.
+    <link href="https://gizmodo.com/best-gaming-gifts-under-100-dollars-2000834568"/>
+    <summary>Gizmodo ha seleccionado una lista de regalos de videojuegos asequibles para el año de la Navidad. Entre ellos se encuentran un Pro Controller para Nintendo Switch 2, una línea de consolas retro inspiradas en Game Boy y PlayStation, un cargador oficial para DualSense de PlayStation, un juego de ritmo llamado Rhythm Heaven Groove, una réplica de la consola original PlayStation en Lego, un cojín para el controlador de juego, una réplica de la consola N64 de Zelda, un conjunto de luces para PlayStation, un juego de carreras en Star Wars, un mouse de juego ligero de Logitech, un teclado mecánico retro de 8Bitdo, un juego de acción llamado Onimusha, un asiento para gamers de Ikea/Xbox y un controlador de SNES wireless. Estos regalos ofrecen una variedad de opciones para los jugadores de videojuegos, desde accesorios hasta juegos y objetos decorativos. La mayoría de ellos están disponibles a un precio razonable, lo que los hace ideales para regalos de Navidad; Los jugadores de videojuegos pueden disfrutar de estos regalos sin tener que gastar una fortuna. La lista de regalos de Gizmodo es una excelente opción para aquellos que buscan encontrar un regalo asequible pero de alta calidad. Los regalos de videojuegos asequibles son una excelente opción para aquellos que buscan encontrar un regalo para un jugador de videojuegos sin tener que gastar una fortuna. La lista de regalos de Gizmodo ofrece una variedad de opciones para los jugadores de videojuegos, desde accesorios hasta juegos y objetos decorativos. Los regalos de videojuegos asequibles son ideales para regalos de Navidad; Los jugadores de videojuegos pueden disfrutar de estos regalos sin tener que gastar una fortuna. La lista de regalos de Gizmodo es una excelente opción para aquellos que buscan encontrar un regalo asequible pero de alta calidad. Los regalos de videojuegos asequibles son una excelente opción para aquellos que buscan encontrar un regalo para un jugador de videojuegos sin tener que gastar una fortuna.
 
 Por qué importa:
-La función de corrección de agentes de codificación es importante porque permite a los usuarios mejorar la precisión de sus proyectos de codificación. Al agregar comandos para detectar errores, los usuarios pueden asegurarse de que sus agentes de codificación estén aprendiendo de las correcciones y no ignorándolas; Esto puede ayudar a mejorar la calidad de los proyectos de codificación y reducir el número de errores.</summary>
-    <published>2026-11-03T12:52:59+00:00</published>
+La lista de regalos de videojuegos asequibles de Gizmodo es una excelente opción para aquellos que buscan encontrar un regalo para un jugador de videojuegos sin tener que gastar una fortuna. Los regalos de videojuegos asequibles son ideales para regalos de Navidad.</summary>
+    <published>2026-11-05T13:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/</id>
+    <title>[Tecnología] RadianX promete dispositivos solarizados que nunca necesitan cargar</title>
+    <updated>2026-11-05T14:21:59.001983+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/"/>
+    <summary>RadianX, una startup, ha desarrollado un nuevo tipo de material solar basado en perovskites, que es tan eficiente al aire libre como los paneles solares existentes, pero es dos veces más eficiente en interiores. El material permite a los dispositivos portátiles y de borde funcionar sin necesidad de carga durante mucho tiempo. La startup ha recaudado $5 millones en una ronda de financiación y ha establecido una alianza con una empresa para producir los paneles en serie. El objetivo de RadianX es vender los paneles a fabricantes de dispositivos, que no necesitarán preocuparse por la eficiencia solar. La startup espera que sus paneles se utilicen en dispositivos como rellenos de libros electrónicos, sensores de IoT y otros dispositivos que actualmente tienen limitaciones en términos de duración de la batería. RadianX también está desarrollando tecnología de electrónica para maximizar la eficiencia de los paneles. La startup ha demostrado que sus paneles pueden funcionar durante mucho tiempo sin necesidad de carga, lo que podría revolucionar la forma en que se diseñan los dispositivos portátiles y de borde. La startup espera que sus paneles se utilicen en una variedad de aplicaciones, desde rellenos de libros electrónicos hasta sensores de IoT. RadianX ha establecido una alianza con una empresa para producir los paneles en serie y espera que la tecnología de solarización sea una parte importante de su estrategia de negocio.
+
+Por qué importa:
+RadianX está en el centro de un movimiento hacia la energía solar más eficiente y sostenible; La startup ha desarrollado un nuevo tipo de material solar basado en perovskites, que es tan eficiente al aire libre como los paneles solares existentes, pero es dos veces más eficiente en interiores. Esto podría revolucionar la forma en que se diseñan los dispositivos portátiles y de borde, permitiéndoles funcionar durante mucho tiempo sin necesidad de carga; La startup espera que sus paneles se utilicen en una variedad de aplicaciones, desde rellenos de libros electrónicos hasta sensores de IoT.</summary>
+    <published>2026-11-05T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/sherotree/record-a-short-repro-for-the-agent-instead-of-describing-the-bug-in-slack-2o86</id>
     <title>[Programación] Una guía para crear un repro en Slack en lugar de describir el bug</title>
-    <updated>2026-11-04T13:19:31.298462+00:00</updated>
+    <updated>2026-11-05T14:21:59.001933+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -403,23 +361,9 @@ La creación de un repro en Slack es una práctica común en el desarrollo de so
     <published>2026-11-03T12:54:13+00:00</published>
   </entry>
   <entry>
-    <id>https://css-tricks.com/re-implementing-nth-child-with-modern-css/</id>
-    <title>[Programación] Re-Implementing :nth-child() With Modern CSS</title>
-    <updated>2026-11-04T13:19:31.298410+00:00</updated>
-    <author>
-      <name>CSS-Tricks</name>
-    </author>
-    <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
-    <summary>El autor re-implanta el selector :nth-child() con el nuevo CSS para poder ajustar los argumentos de manera dinámica. El objetivo es poder reutilizar el código en diferentes casos, como seleccionar elementos con un índice específico o con un rango de índices. El autor presenta una implementación genérica del selector :nth-child() que utiliza la función if() y la función mod() para calcular el índice. La implementación se basa en la variable A para determinar el patrón de selección y la variable B para determinar el índice específico. El autor también presenta una versión ajustada para el caso en el que A es igual a 0. El código se puede ajustar para adaptarlo a diferentes casos, como seleccionar elementos con :nth-last-child(). El autor invita a los lectores a explorar y aprender nuevas técnicas. El código se puede encontrar en un enlace interactivo.
-
-Por qué importa:
-El autor de la noticia explora la posibilidad de re-implantar el selector :nth-child() con el nuevo CSS para poder ajustar los argumentos de manera dinámica; El objetivo es poder reutilizar el código en diferentes casos, como seleccionar elementos con un índice específico o con un rango de índices; El autor presenta una implementación genérica del selector :nth-child() que utiliza la función if() y la función mod() para calcular el índice. La implementación se basa en la variable A para determinar el patrón de selección y la variable B para determinar el índice específico; El autor también presenta una versión ajustada para el caso en el que A es igual a 0.</summary>
-    <published>2026-11-03T14:50:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026</id>
     <title>[Programación] Consejos de un mantenedor para contribuir a proyectos de código abierto en 2026</title>
-    <updated>2026-11-04T13:19:31.298317+00:00</updated>
+    <updated>2026-11-05T14:21:59.001882+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -429,5 +373,61 @@ El autor de la noticia explora la posibilidad de re-implantar el selector :nth-c
 Por qué importa:
 Este artículo ofrece consejos para contribuir a proyectos de código abierto de manera efectiva. Importa entender el proyecto y estar emocionado con él para generar contribuciones de alta calidad.</summary>
     <published>2026-11-04T09:26:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://css-tricks.com/smashing-ai-conference/</id>
+    <title>[Programación] Conferencia de Inteligencia Artificial</title>
+    <updated>2026-11-05T14:21:59.001823+00:00</updated>
+    <author>
+      <name>CSS-Tricks</name>
+    </author>
+    <link href="https://css-tricks.com/smashing-ai-conference/"/>
+    <summary>La conferencia de inteligencia artificial de Smashing se llevará a cabo el 1 de diciembre y será una oportunidad para explorar el uso práctico de la inteligencia artificial en los sistemas de diseño. El evento contará con la participación de expertos como Brad Frost, Christine Vallaure, Vitaly Friedman y TJ Pitre, quienes compartirán sus conocimientos sobre cómo aplicar la inteligencia artificial en el diseño. La conferencia será una experiencia en vivo y estará disponible en línea. El costo es de €50, pero CSS-Tricks tiene un código de descuento especial para los asistentes. El autor de la publicación recibió dos boletos gratuitos que donará a los primeros comentaristas que utilicen su dirección de correo electrónico real. La conferencia es una oportunidad para aprender sobre el uso de la inteligencia artificial en el diseño y cómo puede beneficiar a los profesionales del campo. El evento será una experiencia valiosa para diseñadores, desarrolladores y stakeholders en el proceso de diseño. La conferencia de inteligencia artificial de Smashing es una oportunidad única para aprender de los expertos en el campo. El evento será una experiencia en vivo y estará disponible en línea para que todos puedan participar. La conferencia es una oportunidad para explorar el uso práctico de la inteligencia artificial en los sistemas de diseño y cómo puede beneficiar a los profesionales del campo.
+
+Por qué importa:
+La conferencia de inteligencia artificial de Smashing es una oportunidad para explorar el uso práctico de la inteligencia artificial en los sistemas de diseño. El evento es una experiencia valiosa para diseñadores, desarrolladores y stakeholders en el proceso de diseño.</summary>
+    <published>2026-11-04T15:02:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://denkstein.github.io/2026/11/05/do-not-ask-is-a-a-b/</id>
+    <title>[Programación] No preguntar "¿Es A un B?" sobre herencia y el trampolín de la is-A</title>
+    <updated>2026-11-05T14:21:59.001768+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://denkstein.github.io/2026/11/05/do-not-ask-is-a-a-b/"/>
+    <summary>En 1994, el grupo de cuatro incluyó "Composición de objetos favorables sobre la herencia de clase" en sus puntos de diseño de patrones; En 2013, Sean Parent reafirmó la retórica en su charla titulada "La herencia es la clase base del mal". La mayoría de los lenguajes modernos han optado por evitar la herencia, como Go y Rust, que utilizan mecanismos diferentes para apoyar la polimorfia en tiempo de ejecución y la reutilización del código. A pesar de esto, la mayoría de las organizaciones y proyectos de código abierto utilizan la herencia en sus proyectos, incluso en código reciente. La mayoría de las técnicas de diseño de software enseñan que una clase debe heredar de otra si "A es un B"; La mayoría de los desarrolladores utilizan un test de "A es un B" para decidir si una clase debe heredar de otra. Sin embargo, el test de "A es un B" no es adecuado para determinar si una clase debe heredar de otra, ya que no tiene en cuenta las promesas y operaciones de la clase base. Un ejemplo de esto es que un cuadrado no es un rectángulo, incluso si todos los rectángulos son cuadrados; La definición de "is-a" requiere conocimiento de las operaciones y sus contratos antes de poder responder si se aplica. El Liskov Substitution Principle es una regla que establece que si una propiedad es verdadera para un objeto de tipo T, también debe ser verdadera para un objeto de tipo S donde S es un subtipo de T. La regla de "inheritar solo de interfaces" puede llevar a mejores resultados que "is-a", pero no es el objetivo correcto; Esta regla elimina el acoplamiento de implementación, pero también elimina algunos patrones útiles y puede llevar a soluciones forzadas. La regla de "inheritar solo de interfaces" no previene la creación de subtipos mal diseñados; La inherencia es una herramienta que debe usarse deliberadamente y no como un recurso default. La pregunta "¿Es A un B?" devuelve demasiados falsos positivos y no es una guía adecuada para decidir si se debe usar la inherencia.
+
+Por qué importa:
+La pregunta "¿Es A un B?" es una herramienta común en la programación, pero no es adecuada para decidir si se debe usar la inherencia. La herencia es una herramienta con un propósito específico: fuerte acoplamiento entre tipos.</summary>
+    <published>2026-11-05T12:30:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/</id>
+    <title>[Programación] Making Immersive LLM Chat Experiences More Accessible</title>
+    <updated>2026-11-05T14:21:59.001683+00:00</updated>
+    <author>
+      <name>Articles on Smashing Magazine — For Web Designers And Developers</name>
+    </author>
+    <link href="https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/"/>
+    <summary>La mayoría de las experiencias de chat LLM son aplicaciones de software que se construyen utilizando tecnologías web y luego se envuelven en un marco nativo como Electron o Tauri. La experiencia de usuario de un chat LLM es similar a cualquier otro contenido web interativo, y las barreras de acceso pueden ser similares a cualquier otro contenido web. La barrera de acceso principal en una experiencia de chat LLM es la falta de una comunicación clara y concisa sobre el contenido de la respuesta. Es importante que las experiencias de chat LLM sean compatibles con la tecnología de asistencia para personas con discapacidad, incluyendo la tecnología de lectura de pantalla. La tecnología ariaNotify() es una herramienta que puede ayudar a mejorar la experiencia de usuario de los chat LLM, pero su disponibilidad puede variar dependiendo del navegador y la versión del sistema operativo. Se recomienda utilizar el método de TetraLogical para live region en lugar de ariaNotify() debido a su soporte más amplio y política de accesibilidad más adecuada. Se insertan elementos de encabezado visiblemente ocultos antes de cada mensaje de chat para facilitar la navegación con lectores de pantalla. Se utiliza el elemento article para encapsular cada mensaje individual y se agrega un elemento de encabezado h2 con la clase sr-only para ocultar el texto visualmente pero permitir su acceso a lectores de pantalla. Se recomienda exponer y hacer reconfigurable la navegación F6 para ayudar a los usuarios a adaptarse a diferentes formas de interactuar con la aplicación. Se sugiere que se ajuste el tamaño de texto de la experiencia para evitar que el contenido se corte o se muestre con overflow horizontal; La investigación de usuarios inclusiva es esencial para determinar si una experiencia es usabilidad y crear algo que sea equitativo.
+
+Por qué importa:
+Es importante que las experiencias de chat LLM sean accesibles para todos los usuarios, independientemente de sus habilidades o discapacidades; La tecnología ariaNotify() es una herramienta que puede ayudar a mejorar la experiencia de usuario de los chat LLM, pero su disponibilidad puede variar dependiendo del navegador y la versión del sistema operativo. La implementación de estas mejoras es fundamental para garantizar que todos puedan utilizar las interacciones de chat con LLM sin barreras de acceso.</summary>
+    <published>2026-11-05T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/tonycantave/how-i-write-small-tests-for-python-scripts-3k4o</id>
+    <title>[Programación] Escribe pequeños tests para scripts de Python</title>
+    <updated>2026-11-05T14:21:59.001509+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/tonycantave/how-i-write-small-tests-for-python-scripts-3k4o"/>
+    <summary>Un desarrollador de software de Connecticut comparte su experiencia sobre la importancia de escribir pequeños tests para scripts de Python. Comenzó a escribir tests de manera casual, pero luego cambió su enfoque cuando comenzó a revisar código todos los días. Aprendió que los pequeños errores en el código pueden ser difíciles de detectar, pero que los tests pueden ayudar a prevenirlos. Comparte un ejemplo de cómo escribir un test para una función que convierte números de texto a números. También destaca la importancia de escribir tests para los casos de edge, como valores inválidos o formatos de entrada inesperados. Finalmente, destaca la importancia de escribir tests para evitar problemas en el futuro y de hacer que el proceso de desarrollo sea más seguro y confiable.
+
+Por qué importa:
+El desarrollador de software de Connecticut comparte su experiencia sobre la importancia de escribir pequeños tests para scripts de Python en su blog; La idea de escribir tests se le ocurrió cuando comenzó a revisar código todos los días y aprendió que los pequeños errores en el código pueden ser difíciles de detectar. Comparte un ejemplo de cómo escribir un test para una función que convierte números de texto a números y destaca la importancia de escribir tests para los casos de edge.</summary>
+    <published>2026-11-05T13:53:36+00:00</published>
   </entry>
 </feed>
