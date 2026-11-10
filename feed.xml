@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-10T13:35:09.786113+00:00</updated>
+  <updated>2026-11-10T15:18:20.827206+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -13,7 +13,7 @@
   <entry>
     <id>https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html</id>
     <title>[Economía] Inflación en octubre</title>
-    <updated>2026-11-10T13:35:09.786902+00:00</updated>
+    <updated>2026-11-10T15:18:20.828264+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -25,23 +25,79 @@ La caída en los precios del gasolina proporcionó alivio a los consumidores en 
     <published>2026-11-09T21:03:55+00:00</published>
   </entry>
   <entry>
+    <id>https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html</id>
+    <title>[Economía] Demanda de respuestas de Nvidia CEO por supuesta relación con espía china</title>
+    <updated>2026-11-10T15:18:20.828227+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"/>
+    <summary>Rep. John Moolenaar, presidente del comité permanente de la Cámara de Representantes sobre China, exigió que Nvidia CEO Jensen Huang se presentara ante el comité para responder a preguntas sobre su supuesta relación con una espía china. Moolenaar también solicitó una investigación interna exhaustiva de Huang y expresó su preocupación por la seguridad nacional. El comité de China de la Cámara de Representantes de los Estados Unidos ha iniciado una investigación sobre el asunto. El CEO de Nvidia, Jensen Huang, está involucrado en una supuesta relación con una espía china, según informes recientes. La relación de Huang con la espía china, identificada como Alice Huang, ha generado preocupación en el Congreso. El comité de Inteligencia del Senado de los Estados Unidos también ha iniciado una investigación sobre el asunto. La relación de Huang con la espía china ha sido objeto de una demanda de respuestas por parte de Rep. John Moolenaar; La investigación sobre el asunto ha sido intensificada en los últimos días. El comité de China de la Cámara de Representantes de los Estados Unidos ha solicitado una reunión con Huang para discutir el asunto.
+
+Por qué importa:
+La relación de Huang con la espía china ha generado preocupación en el Congreso debido a las implicaciones de seguridad nacional. La investigación sobre el asunto ha sido intensificada en los últimos días.</summary>
+    <published>2026-11-10T13:41:57+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html</id>
-    <title>[Economía] Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem</title>
-    <updated>2026-11-10T13:35:09.786868+00:00</updated>
+    <title>[Economía] La relación de Jensen Huang con la supuesta espía china complicará aún más el problema de Nvidia en China</title>
+    <updated>2026-11-10T15:18:20.828192+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
     <link href="https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"/>
-    <summary>El CEO de Nvidia, Jensen Huang, ha admitido un affair con una supuesta espía china, lo que complica aún más la relación de la empresa con China. Desde octubre de 2022, Nvidia ha visto su negocio disminuir en China debido a las restricciones impuestas por el gobierno estadounidense. En octubre de 2025, Huang dijo que Nvidia estaba "100% fuera de China". Sin embargo, las acusaciones contra Huang han traído a la luz su posible influencia en la política de exportación de chips de Nvidia hacia China. La empresa ha estado trabajando para cumplir con las restricciones, pero su negocio en China sigue siendo un tema de interés. Las investigaciones en curso incluyen una posible conexión entre Nvidia y una empresa china que ha sido acusada de divertir GPUs de Nvidia.
+    <summary>El CEO de Nvidia, Jensen Huang, admitió recientemente un affair con la supuesta espía china Alice Huang, lo que ha arrojado una nueva luz sobre la relación de la empresa con China. Desde octubre de 2022, Nvidia ha visto su negocio disminuir en China debido a las restricciones impuestas por el gobierno estadounidense; En octubre de 2025, Huang dijo que Nvidia estaba "100% fuera de China". Sin embargo, las acusaciones contra Huang han traído a la luz la posible influencia de la empresa en la política de exportación de chips hacia China. Se han realizado investigaciones sobre si los chips de Nvidia, especialmente los H200, han llegado a empresas chinas a través de clientes como Megaspeed, la empresa ligada a Alice Huang. La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed; Los demócratas han anunciado que investigarán y buscarán respuestas; La empresa ha mantenido su negocio en China, aunque ha sido afectada por las restricciones. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos. La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed. Los demócratas han anunciado que investigarán y buscarán respuestas; La empresa ha mantenido su negocio en China, aunque ha sido afectada por las restricciones. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos.
 
 Por qué importa:
-El caso de Jensen Huang ha generado un gran interés en Washington, D.C., donde se están investigando las acusaciones contra él. Las restricciones a la exportación de chips de Nvidia hacia China han sido un tema de debate en los últimos años; La empresa ha estado trabajando para cumplir con las restricciones, pero su negocio en China sigue siendo un tema de interés.</summary>
-    <published>2026-11-10T12:00:01+00:00</published>
+La situación de Nvidia en China ha sido complicada desde que el gobierno estadounidense impuso restricciones en octubre de 2022; Desde entonces, la empresa ha visto su negocio disminuir en el país; En octubre de 2025, el CEO de Nvidia, Jensen Huang, dijo que la empresa estaba "100% fuera de China". Sin embargo, las acusaciones contra Huang han traído a la luz la posible influencia de la empresa en la política de exportación de chips hacia China; La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed; Los demócratas han anunciado que investigarán y buscarán respuestas.</summary>
+    <published>2026-11-10T14:42:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html</id>
+    <title>[Economía] Pete Hegseth denuncia empuje a la inculpación y defiende manejo de la guerra de Irán</title>
+    <updated>2026-11-10T15:18:20.828157+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"/>
+    <summary>El secretario de Defensa Pete Hegseth ha denunciado el empuje a la inculpación contra él y ha defendido su manejo de la guerra de Irán y otras operaciones militares. El congresman republicano Thomas Massie introdujo ocho artículos de inculpación contra Hegseth, acusándolo de luchar en contra de la ley del Congreso, realizar asesinatos extrajudiciales y silenciar la libertad de expresión. Hegseth ha calificado el empuje como una "farce" y un "espectáculo político", y ha acusado a Massie de enviar señales peligrosas a los enemigos de Estados Unidos. El House de Representantes votará esta semana sobre una resolución procedimental relacionada con la inculpación, lo que podría llevar a una discusión y votación. Si Hegseth es inculpado, el Senado tendría que realizar un juicio y votar sobre su remoción del cargo. El vicepresidente JD Vance ha expresado que la guerra de Irán fue una causa de las pérdidas republicanas en las elecciones medios. El presidente Donald Trump ha apoyado a Hegseth y ha calificado a Massie como "perdedor total".
+
+Por qué importa:
+La inculpación de Hegseth es una medida política que puede tener consecuencias importantes para el manejo de la guerra de Irán y las operaciones militares. Si Hegseth es inculpado, el Senado tendría que realizar un juicio y votar sobre su remoción del cargo, lo que podría tener un impacto en la política militar de Estados Unidos.</summary>
+    <published>2026-11-10T14:48:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html</id>
+    <title>[Economía] Rise in Consumer Prices Complicates Fed's Inflation Fight</title>
+    <updated>2026-11-10T15:18:20.828121+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"/>
+    <summary>El índice de precios al consumidor aumentó un 0,4% en octubre, más del esperado, lo que proporciona nuevos signos de advertencia para la Reserva Federal en su lucha por reducir la inflación. Los costos de bienes y servicios aumentaron más del esperado en octubre, lo que proporciona nuevos signos de advertencia para la Reserva Federal en su lucha por reducir la inflación. Los economistas esperaban un aumento del 0,3%; El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés; El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés.
+
+Por qué importa:
+La Reserva Federal está considerando su próximo movimiento en cuanto a los tipos de interés, y el aumento en el índice de precios al consumidor en octubre puede habersele dado un impulso. El aumento en el índice de precios al consumidor puede habersele dado a la Reserva Federal un impulso para considerar aumentar los tipos de interés.</summary>
+    <published>2026-11-10T14:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html</id>
+    <title>[Economía] Anthropic establece precio de IPO entre $70 y $78</title>
+    <updated>2026-11-10T15:18:20.828086+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"/>
+    <summary>Anthropic, una empresa de inteligencia artificial, ha establecido un precio de IPO entre $70 y $78 por acción, lo que podría llevar a una posible debut en la bolsa de valores Nasdaq. La empresa ofrecerá 825 millones de acciones y espera comenzar a cotizar el 19 de noviembre. El precio de IPO podría generar hasta $64.35 mil millones en ingresos y hacer que la empresa valga hasta $1.405 mil millones en base de valor total. La empresa ha entrado en acuerdos con varias empresas para comprar $26 mil millones de acciones de su clase N común. El CEO de Anthropic, Dario Amodei, co-fundó la empresa en 2021 y ha estado trabajando en el desarrollo de modelos de inteligencia artificial. La empresa ha reportado una ganancia de $33.24 mil millones en ingresos en el período de nueve meses que ha presentado su solicitud de IPO. El CEO de Anthropic ha expresado su ambición de ayudar a la humanidad a navegar por la evolución tecnológica de manera segura. La empresa ha presentado un prospecto en el que sus fundadores han escrito que su objetivo es "chartar un curso seguro" a través de la evolución tecnológica.
+
+Por qué importa:
+Anthropic está a punto de debutar en la bolsa de valores Nasdaq con un precio de IPO entre $70 y $78 por acción; La empresa ha establecido un precio de IPO que podría generar hasta $64.35 mil millones en ingresos y hacer que la empresa valga hasta $1.405 mil millones en base de valor total. La empresa ha entrado en acuerdos con varias empresas para comprar $26 mil millones de acciones de su clase N común; El CEO de Anthropic, Dario Amodei, co-fundó la empresa en 2021 y ha estado trabajando en el desarrollo de modelos de inteligencia artificial; La empresa ha reportado una ganancia de $33.24 mil millones en ingresos en el período de nueve meses que ha presentado su solicitud de IPO.</summary>
+    <published>2026-11-10T14:50:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy</id>
     <title>[Data Science] ¿Puede el aprendizaje automático detectar la pérdida de datos antes de que su modelo alcance el 99% de precisión?</title>
-    <updated>2026-11-10T13:35:09.786833+00:00</updated>
+    <updated>2026-11-10T15:18:20.828050+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -55,7 +111,7 @@ Esta investigación es importante porque puede ayudar a mejorar la precisión de
   <entry>
     <id>https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/</id>
     <title>[Data Science] Batch Continuo Mejora el rendimiento de vLLM</title>
-    <updated>2026-11-10T13:35:09.786799+00:00</updated>
+    <updated>2026-11-10T15:18:20.828015+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -69,7 +125,7 @@ La investigación se centra en mejorar el rendimiento del modelo de lenguaje vLL
   <entry>
     <id>https://www.oreilly.com/radar/human-pilled/</id>
     <title>[Data Science] Human-Pilled</title>
-    <updated>2026-11-10T13:35:09.786762+00:00</updated>
+    <updated>2026-11-10T15:18:20.827978+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -81,9 +137,37 @@ La industria de la inteligencia artificial está en un punto crítico en el que 
     <published>2026-11-10T12:02:31+00:00</published>
   </entry>
   <entry>
+    <id>https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/</id>
+    <title>[Data Science] Cómo validar el output de LLM en un flujo de trabajo de DuckDB y dbt</title>
+    <updated>2026-11-10T15:18:20.827945+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"/>
+    <summary>Un autor utilizó un modelo de Gemini Flash-Lite en una capa de inteligencia artificial para procesar datos de empleo. Sin embargo, un problema de codificación de caracteres en los datos de RemoteOk causó que el modelo produjera texto incorrecto. El autor agregó una función para reparar el error de codificación y probó la función con varios ejemplos. Luego, agregó funciones de validación para verificar si el modelo había extraído correctamente las habilidades requeridas y la información de Nigeria para cada trabajo. El autor también agregó una función de validación para verificar si el modelo había extraído correctamente más del 20% de los trabajos sin ser leídos. El tamaño del conjunto de datos es la limitación más grande ahora, pero el autor espera que el tamaño del conjunto de datos cambie con el tiempo.
+
+Por qué importa:
+Esta noticia es importante porque muestra cómo un autor utilizó un modelo de inteligencia artificial para procesar datos de empleo y cómo agregó funciones de validación para mejorar la precisión del modelo. El uso de un modelo de inteligencia artificial para procesar datos de empleo es relevante para aquellos que buscan entender mejor el mercado laboral y las habilidades requeridas.</summary>
+    <published>2026-11-10T13:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/</id>
+    <title>[Data Science] una sesión de inicio de sesión de Claude Code aumentó su habilidad de 15% a 62%</title>
+    <updated>2026-11-10T15:18:20.827912+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"/>
+    <summary>En una sesión de prueba, se corrió el prompt 18 veces para escribir pruebas de pytest para una función de Python con un fixture de datos de ejemplo. Se utilizaron 26 habilidades públicas para probar, debugar y revisar el código, incluyendo Claude Code y sus habilidades Haiku, Sonnet y Opus. El 15% de las ejecuciones con descripciones originales y el 62% con la herramienta Superpowers lograron activar la habilidad en todas las ejecuciones. El hook de inicio de sesión de Superpowers aumentó la tasa de firing en indirectos en 47 puntos, y en directos en 36 puntos. El hook de Superpowers se utilizó en 936 runs, lo que permitió probar su efecto en una muestra más grande que la del pushy sentence. El pushy sentence aumentó la tasa de firing en indirectos en 5 puntos, con un intervalo de 2.2 a 8.3 puntos. La tasa de firing en indirectos aumentó de 15% a 62% en Opus, y de 49% a 85% en directos, con un aumento significativo en Sonnet y Haiku. El hook de Superpowers se utilizó en 12 de 18 runs de Jest, lo que sugiere que puede tener un efecto positivo en ciertos
+
+Por qué importa:
+s; CONTEXTO_ES: Esta noticia es importante porque muestra el potencial de las herramientas de automatización de código para mejorar la eficiencia y la precisión en la creación de habilidades de código. El uso de un hook de inicio de sesión de Superpowers permitió aumentar la tasa de firing en indirectos en 47 puntos, lo que sugiere que esta herramienta puede ser una herramienta valiosa para los desarrolladores de código.</summary>
+    <published>2026-11-10T15:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.f1technical.net/news/29620</id>
     <title>[Fórmula 1] Hamilton lamenta giro costoso y señala luchas con llantas después de carrera de São Paulo</title>
-    <updated>2026-11-10T13:35:09.786725+00:00</updated>
+    <updated>2026-11-10T15:18:20.827874+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -97,7 +181,7 @@ La carrera de São Paulo fue crucial para Ferrari, ya que buscaba recuperar terr
   <entry>
     <id>https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/</id>
     <title>[Fórmula 1] La carrera de Antonelli se vio afectada por problemas de manejo</title>
-    <updated>2026-11-10T13:35:09.786689+00:00</updated>
+    <updated>2026-11-10T15:18:20.827839+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -111,7 +195,7 @@ La carrera de Antonelli fue importante porque marcó el comienzo de su carrera c
   <entry>
     <id>https://www.f1technical.net/news/29625</id>
     <title>[Fórmula 1] Ferrari admite que luchó con las temperaturas de los neumáticos en São Paulo y emerge la preocupación por Las Vegas</title>
-    <updated>2026-11-10T13:35:09.786653+00:00</updated>
+    <updated>2026-11-10T15:18:20.827806+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -125,7 +209,7 @@ La lucha de Ferrari por mantener la temperatura óptima de los neumáticos duran
   <entry>
     <id>https://www.f1technical.net/news/29622</id>
     <title>[Fórmula 1] Stella pide al equipo McLaren que celebren su victoria en el GP de São Paulo</title>
-    <updated>2026-11-10T13:35:09.786619+00:00</updated>
+    <updated>2026-11-10T15:18:20.827773+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -139,7 +223,7 @@ La victoria de McLaren en el GP de São Paulo es importante porque muestra la ca
   <entry>
     <id>https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/</id>
     <title>[Fórmula 1] No F1 engine manufacturers recibirán actualizaciones adicionales después de la evaluación ADUO del FIA</title>
-    <updated>2026-11-10T13:35:09.786585+00:00</updated>
+    <updated>2026-11-10T15:18:20.827739+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -151,37 +235,9 @@ La evaluación ADUO es un sistema que busca equilibrar el rendimiento de los mot
     <published>2026-11-10T11:20:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology</id>
-    <title>[Tecnología] Seagate’s FireCuda Forge</title>
-    <updated>2026-11-10T13:35:09.786547+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology"/>
-    <summary>Seagate ha anunciado una nueva solución de almacenamiento externo llamada FireCuda Forge, que combina los beneficios de velocidad de un SSD con la afabilidad de un disco duro de mayor capacidad. El Forge es la primera unidad que se alimenta de la plataforma de almacenamiento inteligente Alkemi de la empresa, que aprende cómo se utiliza su datos y relocaliza los archivos que se utilizan o se utilizan con más frecuencia en el SSD más rápido. La FireCuda Forge está disponible ahora en la tienda en línea de Seagate con un disco duro de 8TB por $699, o un disco duro de 20TB por $899, ambos de usuario reemplazable. Sin embargo, el SSD NVMe no está incluido y, en medio de una escasez de memoria, esto aumentará significativamente el precio del Forge. El algoritmo de Alkemi utiliza aprendizaje de máquina para mover datos dinámicamente entre los dos discos según su carga actual y qué datos requieren. A medida que cambian sus necesidades y tareas, los datos se reorganizarán dinámicamente entre los dos discos pero siempre aparecerán como un solo disco conectado a su PC. La FireCuda Forge ofrece velocidades de lectura de hasta 2,500MB/s y velocidades de escritura que alcanzan los 2,000MB/s en computadoras que corran al menos Windows 11 o macOS 26.
-
-Por qué importa:
-La FireCuda Forge es una solución innovadora para aquellos que buscan mejorar el rendimiento de su almacenamiento externo. Importa destacar que esta unidad combina la velocidad de un SSD con la afabilidad de un disco duro de mayor capacidad, lo que la hace una excelente opción para aquellos que necesitan almacenar grandes cantidades de datos.</summary>
-    <published>2026-11-10T11:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/</id>
-    <title>[Tecnología] Louis Rossmann quiere que más personas se preocupen por el derecho a reparar</title>
-    <updated>2026-11-10T13:35:09.786510+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/"/>
-    <summary>Louis Rossmann, un periodista y organizador de la Own Your Shit tour, ha estado trabajando para concienciar a la gente sobre la importancia del derecho a reparar dispositivos. En 2017, asistió a una audiencia legislativa en Nebraska donde se discutió el problema de la reparación de dispositivos. Apple fue criticado por no permitir la reparación de dispositivos, como en el caso de un MacBook Air que se presentó con un problema de trackpad y keyboard. La ley de los Estados Unidos, Section 1201 de la Digital Millennium Copyright Act, prohíbe el bypass de medidas de protección digitales para acceder a obras protegidas, incluso para repararlos. La organización FULU (Freedom from Unethical Limitations on Users) tiene como objetivo apoyar el derecho a reparar y ha realizado un tour nacional para concienciar a la gente sobre el tema. La ley ha sido criticada por limitar la capacidad de los consumidores para reparar y mantener sus propios productos. La organización ha ofrecido bounties para personas que puedan desbloquear digitalmente los sistemas de reparación de dispositivos. La bountys programa de FULU ha tenido éxito en algunos casos, como el caso de un empleado que encontró una solución para un termostato que no funcionaba debido a una actualización de firmware. La organización ha viajado a 13 ciudades diferentes en el país para concienciar a la gente sobre el derecho a reparar. La organización está trabajando para mostrar a los políticos que el derecho a reparar es un tema importante y que puede generar apoyo político si se conciencia adecuadamente.
-
-Por qué importa:
-El derecho a reparar dispositivos es un tema importante que afecta a los consumidores y a las empresas; La organización FULU (Freedom from Unethical Limitations on Users) está trabajando para concienciar a la gente sobre la importancia de este derecho y ha realizado un tour nacional para promover la reparación de dispositivos. La ley de los Estados Unidos, Section 1201 de la Digital Millennium Copyright Act, prohíbe el bypass de medidas de protección digitales para acceder a obras protegidas, incluso para repararlos, lo que limita la capacidad de los consumidores para reparar y mantener sus propios productos.</summary>
-    <published>2026-11-10T11:30:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://gizmodo.com/karen-gillan-teases-the-possible-return-of-nebula-in-the-mcu-2000837411</id>
     <title>[Tecnología] Karen Gillan Teasura el regreso de Nebula en el MCU</title>
-    <updated>2026-11-10T13:35:09.786476+00:00</updated>
+    <updated>2026-11-10T15:18:20.827704+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -193,37 +249,79 @@ La noticia menciona varios proyectos de películas y series de televisión, incl
     <published>2026-11-10T12:00:13+00:00</published>
   </entry>
   <entry>
-    <id>https://css-tricks.com/css-tricks-version-20/</id>
-    <title>[Programación] CSS-Tricks, Versión 20</title>
-    <updated>2026-11-10T13:35:09.786441+00:00</updated>
+    <id>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/</id>
+    <title>[Tecnología] Rocco’s Mini Mini Fridge Is Here (2026)</title>
+    <updated>2026-11-10T15:18:20.827669+00:00</updated>
     <author>
-      <name>CSS-Tricks</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://css-tricks.com/css-tricks-version-20/"/>
-    <summary>El sitio CSS-Tricks ha actualizado su estética con una nueva versión, que incluye cambios y nuevas características desde 2024. El sitio ha eliminado scripts que no se utilizaban más, reduciendo el tamaño del JavaScript de 151,6 KB a 133,8 KB. El sitio formalmente retiró el foro de CSS-Tricks, que se había archivado en 2018. El sitio eliminó 400 MB de datos al desactivar el plugin bbPress. El sitio sigue utilizando Gulp, aunque se ha modernizado el flujo de trabajo. El sitio ha sido audited por seguridad y se ha identificado espacio para mejorar. El autor ha mejorado la accesibilidad y la rendimiento de la página. El autor está satisfecho con los resultados de la medición de Lighthouse.
+    <link href="https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/"/>
+    <summary>Rocco ha lanzado el Mini Mini, una versión de escritorio de su famoso refrigerador de bebidas vintage. El Mini Mini puede sostener 12 cajas de 12 onzas estándar y alcanza temperaturas de 41 grados Fahrenheit. El refrigerador tiene 360 grados de ventilación y se puede instalar contra cualquier pared. El Mini Mini está disponible en cuatro colores y se vende por $295, aunque se puede obtener con un descuento de $50 si se compra un refrigerador Rocco Classic o Essential. El Mini Mini es la primera nevera de escritorio con estándares de refrigeración reales. El refrigerador no tiene una función de reconocimiento de bebidas inteligente. El Mini Mini es una opción atractiva para aquellos que buscan una nevera compacta y eficiente.
 
 Por qué importa:
-El sitio CSS-Tricks ha sido actualizado con una nueva versión que incluye cambios y nuevas características desde 2024. Esto es importante porque refleja el esfuerzo del sitio por mantenerse actualizado y relevante en el mundo de la programación y el desarrollo web.</summary>
-    <published>2026-11-09T15:49:48+00:00</published>
+El Mini Mini es una opción interesante para aquellos que buscan una nevera compacta y eficiente para su escritorio. El hecho de que el Mini Mini tenga estándares de refrigeración reales y 360 grados de ventilación lo convierte en una opción atractiva para aquellos que buscan una nevera que pueda mantener sus bebidas frescas sin tener que preocuparse por la eficiencia energética.</summary>
+    <published>2026-11-10T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.cloudflare.com/optimizing-core-unit-boot-time/</id>
-    <title>[Programación] Reducimos el tiempo de arranque de unidades de core de horas a minutos</title>
-    <updated>2026-11-10T13:35:09.786402+00:00</updated>
+    <id>https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support</id>
+    <title>[Tecnología] GTA VI estará disponible en Xbox Cloud Gaming para consolas Xbox One</title>
+    <updated>2026-11-10T15:18:20.827633+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://blog.cloudflare.com/optimizing-core-unit-boot-time/"/>
-    <summary>Cloudflare redujo el tiempo de arranque de sus servidores de cuatro horas a menos de un minuto implementando una solución que declaraba la interfaz de arranque por red correcta al principio del proceso de arranque. La empresa trabajó con sus proveedores para cambiar la configuración de boot order y resolver el problema de la búsqueda lineal de interfaces de arranque por red. La solución implementada redujo el tiempo de arranque de los servidores a menos de un minuto, lo que mejoró la automatización de rebootes y redujo los tiempos de inactividad. Se implementó una función adicional en el CfHIIConfig_App para configurar la configuración sin tener la cadena completa. Se está trabajando con los proveedores de UEFI para standardizar las cadenas de interfaz de red. Se eliminó el uso de wildcards y se redujo el tiempo de arranque en un factor de 4. Se implementó un flag booleano, uefi-same-hex, para indicar si la configuración había cambiado. Se eliminó la necesidad de manualidades de BIOS, reduciendo el tiempo de arranque a 3 minutos. Se utilizó iPXE para automatizar el proceso de arranque. Se utilizó un solo comando de set en lugar de primero mostrar y luego setear si la configuración no estaba en el estado deseado.
+    <link href="https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support"/>
+    <summary>Rockstar Games anuncia que Grand Theft Auto VI estará disponible en Xbox Cloud Gaming para consolas Xbox One. La plataforma de streaming de Microsoft permitirá a los usuarios jugar el juego sin necesidad de actualizar a una consola más reciente. Esto significa que los usuarios con consolas Xbox One antiguas podrán jugar el juego en lugar de tener que comprar una consola más reciente. La plataforma de streaming utilizará los gráficos de la consola Xbox Series S para transmitir el juego a las consolas Xbox; Microsoft tiene una exclusiva en la streaming de Grand Theft Auto VI desde la nube, aunque solo para consolas Xbox. El juego también estará disponible para Remote Play en PlayStation y Xbox; La versión del juego en PC no está disponible en la plataforma de streaming. Rockstar Games confirmó que el juego tendrá un rendimiento de 30fps en las consolas PS5, PS5 Pro, Xbox Series S / X; La versión del juego en PS5 Pro tendrá ray-traced shadows y soporte para PlayStation Spectral Super Resolution (PSSR). La plataforma de streaming de Xbox Cloud Gaming permitirá a los usuarios jugar Grand Theft Auto VI sin necesidad de actualizar a una consola más reciente. La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante; La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox. El juego estará disponible en la plataforma de streaming de Xbox Cloud Gaming el próximo semana; La versión del juego en PC no está disponible en la plataforma de streaming. La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante; La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox.
 
 Por qué importa:
-La reducción del tiempo de arranque de los servidores de Cloudflare es importante porque permite una mayor automatización y eficiencia en la gestión de los servidores. Esto también reduce los tiempos de inactividad y mejora la disponibilidad de los servicios.</summary>
-    <published>2026-11-10T01:13:15+00:00</published>
+La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante. La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox.</summary>
+    <published>2026-11-10T14:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621</id>
+    <title>[Tecnología] Un objeto en el sistema solar exterior se mueve en contra del flujo normal de la órbita del Sol</title>
+    <updated>2026-11-10T15:18:20.827596+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621"/>
+    <summary>Un objeto en el sistema solar exterior se ha detectado moviéndose en contra del flujo normal de la órbita del Sol, lo que ha generado gran interés entre los científicos. El objeto, designado como R631, se encuentra a una distancia de aproximadamente 3 billones de millas del Sol y sigue un camino de retroceso definido por una órbita altamente inclinada. Aunque no se conoce con certeza cómo llegó allí, se cree que podría ser un cometa o un cuerpo rocoso. Los científicos están estudiando el objeto para entender por qué se mueve de esta manera y si es un objeto interstelar o parte del sistema solar. El objeto se acercará al Sol en el próximo año y se espera que los científicos puedan recopilar más información sobre su naturaleza. R631 tiene una inclinación orbital de 142 grados, lo que la convierte en un objeto de gran interés en el campo de la astronomía. El objeto se detectó durante las observaciones del Rubin Observatory entre diciembre de 2025 y marzo de 2026; Se estima que R631 toma aproximadamente 547,84 años en completar una órbita alrededor del Sol. El objeto se acercará al Sol en octubre de 2047 y se espera que comience a mostrar actividad o emisión de material cuando esté cerca del Sol. Los científicos creen que R631 podría ser un cometa de aproximadamente 62 millas de ancho; Si es un cometa, podría comenzar a mostrar actividad o emisión de material cuando esté cerca del Sol. Hay dos teorías sobre cómo R631 llegó a su órbita retrograda: podría haber sido nacido en un sistema estelar diferente y capturado por la gravedad del Sol, o podría haber sido el resultado de un cruce con un objeto grande como Júpiter o Neptuno.
+
+Por qué importa:
+El descubrimiento de R631 es un ejemplo de cómo la astronomía puede revelar secretos sobre el sistema solar y su lugar en el universo; La detección del objeto en el sistema solar exterior es un recordatorio de que todavía hay mucho que aprender sobre nuestro entorno cósmico. Los científicos están emocionados de seguir el seguimiento de R631 y recopilar más información sobre su naturaleza, lo que podría proporcionar nuevas perspectivas sobre la formación y evolución del sistema solar.</summary>
+    <published>2026-11-10T14:40:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</id>
+    <title>[Tecnología] Reddit es turning user conversations into AI-powered product reviews</title>
+    <updated>2026-11-10T15:18:20.827560+00:00</updated>
+    <author>
+      <name>TechCrunch</name>
+    </author>
+    <link href="https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"/>
+    <summary>Reddit ha lanzado una nueva característica llamada "Reddit Reviews" que organiza las conversaciones de los usuarios sobre productos en reseñas estructuradas. Esta característica utiliza inteligencia artificial para resumir los puntos clave y las opiniones de los usuarios en diferentes comunidades. El objetivo es ayudar a los consumidores a tomar decisiones informadas al comprar productos. La característica se ha estado testando desde febrero y ahora se está expandiendo a todos los usuarios de Estados Unidos. Reddit ha implementado medidas para combatir el astroturfing y garantizar la autenticidad de las reseñas. La característica se puede acceder a través de la barra de búsqueda o haciendo clic en el nombre del producto en un comentario. Los usuarios pueden filtrar las reseñas por tema y leer las conversaciones originales. Reddit Reviews llega justo a tiempo para la temporada de compras de Navidad, cuando las personas pasan más tiempo haciendo investigación de productos en línea.
+
+Por qué importa:
+La característica de "Reddit Reviews" es importante porque puede ayudar a los consumidores a tomar decisiones informadas al comprar productos. La característica utiliza inteligencia artificial para resumir las opiniones de los usuarios en diferentes comunidades, lo que puede ser útil para aquellos que buscan obtener una visión general de cómo funciona un producto antes de comprarlo.</summary>
+    <published>2026-11-10T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping</id>
+    <title>[Tecnología] Reddit quiere guiar su próxima compra</title>
+    <updated>2026-11-10T15:18:20.827523+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping"/>
+    <summary>Reddit está lanzando Reddit Reviews, un hub de reseñas de productos para consumo que recopila y analiza discusiones y comentarios en subreddits sobre productos específicos. El hub incluye una lista de comentarios, pros y contras, y una calificación de sentimiento. Los usuarios pueden filtrar comentarios por atributos y ver páginas de categoría curadas para encontrar productos similares. Reddit no recibirá una comisión por las ventas de los productos y los comerciantes no pueden pagar para ser incluidos en el hub. El objetivo es ofrecer una experiencia de compra más personalizada y humanizada. Reddit también busca contrarrestar el uso de inteligencia artificial para la investigación de productos. El hub cubre 10,000 productos en categorías como electrónica, salud y belleza, hogar y jardín, y moda y ropa. Reddit ha notado que el 40% de las conversaciones en la plataforma tienen un carácter comercial. El lanzamiento de Reddit Reviews pone presión en otros outlets que publican reseñas y recomendaciones de productos.
+
+Por qué importa:
+El lanzamiento de Reddit Reviews es importante porque Reddit busca ofrecer una experiencia de compra más personalizada y humanizada, contrarrestando el uso de inteligencia artificial para la investigación de productos. El hub también busca proporcionar una fuente de información confiable y basada en la experiencia de los usuarios.</summary>
+    <published>2026-11-10T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.benjoffe.com/fast-easter</id>
     <title>[Programación] Una forma más rápida de calcular la fecha del Pascua</title>
-    <updated>2026-11-10T13:35:09.786364+00:00</updated>
+    <updated>2026-11-10T15:18:20.827486+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -237,7 +335,7 @@ La fecha del Pascua es un tema importante para muchos, ya que se relaciona con l
   <entry>
     <id>http://letoverlambda.com/</id>
     <title>[Programación] Let Over Lambda libro es ahora gratuito para leer en línea</title>
-    <updated>2026-11-10T13:35:09.786325+00:00</updated>
+    <updated>2026-11-10T15:18:20.827448+00:00</updated>
     <author>
       <name>programming</name>
     </author>
@@ -251,7 +349,7 @@ El libro "Let Over Lambda" es considerado un clásico en el mundo de la programa
   <entry>
     <id>https://dev.to/tak0122/building-a-lightweight-kubernetes-environment-on-k3s-and-the-kubectl-command-on-wsl2-windows-11-9pc</id>
     <title>[Programación] Construyendo un entorno ligero de Kubernetes en K3s y el comando kubectl en WSL2 de Windows 11</title>
-    <updated>2026-11-10T13:35:09.786269+00:00</updated>
+    <updated>2026-11-10T15:18:20.827410+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -265,7 +363,7 @@ Este artículo es útil para aquellos que buscan aprender a utilizar K3s y el co
   <entry>
     <id>https://dev.to/zediot/can-an-8-gb-edge-device-run-a-2-gb-model-budget-memory-at-peak-concurrency-4e92</id>
     <title>[Programación] Un modelo de 3.000.000.000 de parámetros ocupa aproximadamente 1,40 GiB de espacio en la memoria.</title>
-    <updated>2026-11-10T13:35:09.786133+00:00</updated>
+    <updated>2026-11-10T15:18:20.827371+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -275,5 +373,33 @@ Este artículo es útil para aquellos que buscan aprender a utilizar K3s y el co
 Por qué importa:
 La pregunta de si un modelo de 2 GB puede ejecutarse en un dispositivo de 8 GB de memoria es relevante para entender cómo se gestionan los recursos de memoria en los dispositivos de edge.</summary>
     <published>2026-11-10T12:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/edison_flores_6d2cd381b13/143-prs-en-6-semanas-lo-que-un-agente-ai-aprendio-contribuyendo-a-open-source-1dn8</id>
+    <title>[Programación] 143 PRs en 6 semanas: lo que un agente AI aprendió contribuyendo a open source</title>
+    <updated>2026-11-10T15:18:20.827318+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/edison_flores_6d2cd381b13/143-prs-en-6-semanas-lo-que-un-agente-ai-aprendio-contribuyendo-a-open-source-1dn8"/>
+    <summary>Entre finales de septiembre y hoy (10 de noviembre de 2026), el agente AI operó como agente autónomo de contribuciones open source para AliceLabs. En este período, se crearon 143 pull requests, de los cuales 74 se mergearon en 24 repositorios externos. De los 47 PRs abiertos, 34 tuvieron diálogo activo con el mantenedor. El agente AI responde en horas y acepta el "no" en sus solicitudes. Los merges rápidos casi siempre fueron PRs pequeños con tests, y los catálogos "awesome" son la puerta de entrada más dura y valiosa. La transparencia vende más que el marketing, y el ecosistema open source premia la honestidad sobre la procedencia si el código es bueno.
+
+Por qué importa:
+La transparencia y la honestidad son fundamentales en el ecosistema open source; El agente AI de AliceLabs demostró que la transparencia vende más que el marketing, y que la honestidad sobre la procedencia del código es valorada por la comunidad. Los datos verificados el 10 de noviembre de 2026 vía GitHub Search API confirman que el agente AI ha contribuido de manera significativa a proyectos como uta-shield, MarketNow y agent-bridge.</summary>
+    <published>2026-11-10T14:40:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/alpomar/the-cookie-cutter-method-fast-estimates-for-repetitive-work-g59</id>
+    <title>[Programación] El método de la tijera de galleta: estimaciones rápidas para el trabajo repetitivo</title>
+    <updated>2026-11-10T15:18:20.827227+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/alpomar/the-cookie-cutter-method-fast-estimates-for-repetitive-work-g59"/>
+    <summary>El método de la tijera de galleta es una herramienta para estimar el tiempo de entrega de proyectos repetitivos. Se basa en dividir el proyecto en tareas individuales y estimar el tiempo mínimo y máximo para cada una. Esto permite a los equipos tener una estimación defensible en un plazo de cinco minutos. El método se puede aplicar a proyectos similares, ajustando las estimaciones según la complejidad, el volumen y las dependencias. Esto permite a los equipos tener una conversación más informada sobre el proyecto y tomar decisiones más informadas. El método no proporciona una estimación perfecta, pero ofrece una estimación razonable y defensible. El autor, Filipe Albero Pomar, es un gerente de ingeniería y hablante basado en Londres que ha escrito sobre la adopción de la inteligencia artificial, la liderazgo de ingeniería y la entrega de software. El método de la tijera de galleta es una herramienta útil para equipos que trabajan en proyectos repetitivos y necesitan estimar el tiempo de entrega de manera rápida y precisa.
+
+Por qué importa:
+El método de la tijera de galleta se basa en la experiencia y la observación de los equipos que trabajan en proyectos repetitivos; En el mundo de los juegos y la realidad virtual, los equipos crean 3D environments inspirados en el mundo real, lo que requiere una comprensión de la complejidad y el volumen de los proyectos. El método de la tijera de galleta es una herramienta para capturar esta experiencia y utilizarla para estimar el tiempo de entrega de manera más precisa.</summary>
+    <published>2026-11-10T14:53:00+00:00</published>
   </entry>
 </feed>
