@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-10T15:18:20.827206+00:00</updated>
+  <updated>2026-11-11T13:39:43.478262+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,65 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html</id>
-    <title>[Economía] Inflación en octubre</title>
-    <updated>2026-11-10T15:18:20.828264+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"/>
-    <summary>El informe de inflación para octubre se espera que revelará una ligería aumento en el índice de precios al consumidor, con un aumento esperado del 0.3% y una inflación core de 0.2%. A pesar de la caída en los precios del gasolina, que proporcionó alivio a los consumidores, los funcionarios de la Reserva Federal están preocupados por la persistencia de las presiones inflacionarias en otros sectores de la economía. El Chicago Fed President Austan Goolsbee expresó su preocupación por la inflación y la necesidad de abordar los costos y la inflación en la economía. El informe también muestra que la economía sigue creciendo fuerte, con un crecimiento del 3.4% en el tercer trimestre y una tasa de desempleo baja de 4.1%. Sin embargo, la inflación ajustada de los salarios ha sido negativa. El informe se espera que sea el último antes de la reunión del Fed en diciembre, y se espera que la inflación pueda justificar una aumento en la tasa de interés.
-
-Por qué importa:
-La caída en los precios del gasolina proporcionó alivio a los consumidores en octubre, pero los funcionarios de la Reserva Federal están preocupados por la persistencia de las presiones inflacionarias en otros sectores de la economía.</summary>
-    <published>2026-11-09T21:03:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html</id>
-    <title>[Economía] Demanda de respuestas de Nvidia CEO por supuesta relación con espía china</title>
-    <updated>2026-11-10T15:18:20.828227+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"/>
-    <summary>Rep. John Moolenaar, presidente del comité permanente de la Cámara de Representantes sobre China, exigió que Nvidia CEO Jensen Huang se presentara ante el comité para responder a preguntas sobre su supuesta relación con una espía china. Moolenaar también solicitó una investigación interna exhaustiva de Huang y expresó su preocupación por la seguridad nacional. El comité de China de la Cámara de Representantes de los Estados Unidos ha iniciado una investigación sobre el asunto. El CEO de Nvidia, Jensen Huang, está involucrado en una supuesta relación con una espía china, según informes recientes. La relación de Huang con la espía china, identificada como Alice Huang, ha generado preocupación en el Congreso. El comité de Inteligencia del Senado de los Estados Unidos también ha iniciado una investigación sobre el asunto. La relación de Huang con la espía china ha sido objeto de una demanda de respuestas por parte de Rep. John Moolenaar; La investigación sobre el asunto ha sido intensificada en los últimos días. El comité de China de la Cámara de Representantes de los Estados Unidos ha solicitado una reunión con Huang para discutir el asunto.
-
-Por qué importa:
-La relación de Huang con la espía china ha generado preocupación en el Congreso debido a las implicaciones de seguridad nacional. La investigación sobre el asunto ha sido intensificada en los últimos días.</summary>
-    <published>2026-11-10T13:41:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html</id>
-    <title>[Economía] La relación de Jensen Huang con la supuesta espía china complicará aún más el problema de Nvidia en China</title>
-    <updated>2026-11-10T15:18:20.828192+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"/>
-    <summary>El CEO de Nvidia, Jensen Huang, admitió recientemente un affair con la supuesta espía china Alice Huang, lo que ha arrojado una nueva luz sobre la relación de la empresa con China. Desde octubre de 2022, Nvidia ha visto su negocio disminuir en China debido a las restricciones impuestas por el gobierno estadounidense; En octubre de 2025, Huang dijo que Nvidia estaba "100% fuera de China". Sin embargo, las acusaciones contra Huang han traído a la luz la posible influencia de la empresa en la política de exportación de chips hacia China. Se han realizado investigaciones sobre si los chips de Nvidia, especialmente los H200, han llegado a empresas chinas a través de clientes como Megaspeed, la empresa ligada a Alice Huang. La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed; Los demócratas han anunciado que investigarán y buscarán respuestas; La empresa ha mantenido su negocio en China, aunque ha sido afectada por las restricciones. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos. La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed. Los demócratas han anunciado que investigarán y buscarán respuestas; La empresa ha mantenido su negocio en China, aunque ha sido afectada por las restricciones. En el último trimestre, Nvidia reportó que el 9% de sus ganancias provinían de China, aunque esto incluye ingresos de segmentos fuera de los chips de datos restringidos.
-
-Por qué importa:
-La situación de Nvidia en China ha sido complicada desde que el gobierno estadounidense impuso restricciones en octubre de 2022; Desde entonces, la empresa ha visto su negocio disminuir en el país; En octubre de 2025, el CEO de Nvidia, Jensen Huang, dijo que la empresa estaba "100% fuera de China". Sin embargo, las acusaciones contra Huang han traído a la luz la posible influencia de la empresa en la política de exportación de chips hacia China; La situación ha generado un escándalo en Washington, D.C., donde se han realizado solicitudes de reuniones cerradas con el CEO de Nvidia sobre su relación con Megaspeed; Los demócratas han anunciado que investigarán y buscarán respuestas.</summary>
-    <published>2026-11-10T14:42:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html</id>
-    <title>[Economía] Pete Hegseth denuncia empuje a la inculpación y defiende manejo de la guerra de Irán</title>
-    <updated>2026-11-10T15:18:20.828157+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"/>
-    <summary>El secretario de Defensa Pete Hegseth ha denunciado el empuje a la inculpación contra él y ha defendido su manejo de la guerra de Irán y otras operaciones militares. El congresman republicano Thomas Massie introdujo ocho artículos de inculpación contra Hegseth, acusándolo de luchar en contra de la ley del Congreso, realizar asesinatos extrajudiciales y silenciar la libertad de expresión. Hegseth ha calificado el empuje como una "farce" y un "espectáculo político", y ha acusado a Massie de enviar señales peligrosas a los enemigos de Estados Unidos. El House de Representantes votará esta semana sobre una resolución procedimental relacionada con la inculpación, lo que podría llevar a una discusión y votación. Si Hegseth es inculpado, el Senado tendría que realizar un juicio y votar sobre su remoción del cargo. El vicepresidente JD Vance ha expresado que la guerra de Irán fue una causa de las pérdidas republicanas en las elecciones medios. El presidente Donald Trump ha apoyado a Hegseth y ha calificado a Massie como "perdedor total".
-
-Por qué importa:
-La inculpación de Hegseth es una medida política que puede tener consecuencias importantes para el manejo de la guerra de Irán y las operaciones militares. Si Hegseth es inculpado, el Senado tendría que realizar un juicio y votar sobre su remoción del cargo, lo que podría tener un impacto en la política militar de Estados Unidos.</summary>
-    <published>2026-11-10T14:48:34+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html</id>
     <title>[Economía] Rise in Consumer Prices Complicates Fed's Inflation Fight</title>
-    <updated>2026-11-10T15:18:20.828121+00:00</updated>
+    <updated>2026-11-11T13:39:43.479390+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +27,7 @@ La Reserva Federal está considerando su próximo movimiento en cuanto a los tip
   <entry>
     <id>https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html</id>
     <title>[Economía] Anthropic establece precio de IPO entre $70 y $78</title>
-    <updated>2026-11-10T15:18:20.828086+00:00</updated>
+    <updated>2026-11-11T13:39:43.479357+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,51 +39,65 @@ Anthropic está a punto de debutar en la bolsa de valores Nasdaq con un precio d
     <published>2026-11-10T14:50:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy</id>
-    <title>[Data Science] ¿Puede el aprendizaje automático detectar la pérdida de datos antes de que su modelo alcance el 99% de precisión?</title>
-    <updated>2026-11-10T15:18:20.828050+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html</id>
+    <title>[Economía] Nvidia comparte un día de recuperación tras el escándalo que rodea a su CEO</title>
+    <updated>2026-11-11T13:39:43.479322+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy"/>
-    <summary>Se plantearon cuatro lecciones diferentes en cuatro proyectos de datos reales y se entrenaron modelos con y sin las lecciones para comparar sus efectos. Los modelos Opus, Sonnet y Fable detectaron problemas de "frío" en los snippets de código, pero no pudieron determinar la precisión. El modelo Opus agregó una expectativa de precisión honesta y un desafío a si la solución era la correcta. Los modelos Opus, Sonnet y Fable capturaron ambos problemas en todos los casos; El modelo Opus fue el único que agregó algo más allá del problema en sí. Se probó un snippet corto, sin datos ni métricas, solo código, y se evaluó a un modelo con un conjunto de prueba que nunca se había tocado, reportando un AUC de 0.637. Duplicar filas antes de la división hace que copias idénticas de los mismos préstamos terminen en ambos lados, lo que hace que el modelo se gradúe en ejemplos que ya ha visto. Todos los modelos identificaron el problema "frío" con el snippet, pero no pudieron determinar la precisión; Los modelos diferenciaron en lo que se incluía en el bundle principal. Haiku respondió correctamente y brevemente, pero en el caso 2, la brevedad costó un segundo problema real; Sonnet y Fable capturaron ambos problemas en todos los casos. El modelo Opus fue el único que, en todos los casos, agregó algo más allá del problema en sí: una expectativa de precisión honesta, un punto de referencia, un problema que no se había preguntado y un desafío a si la solución era la correcta. La precisión del modelo sin el leak es en el rango de 50, lo que coincide con la precisión del modelo con el leak.
+    <link href="https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"/>
+    <summary>Nvidia vio sus acciones subir el miércoles después de dos días de caída, tras el escándalo que rodea a su CEO Jensen Huang, quien se encuentra bajo escrutinio debido a su supuesto affair con una supuesta espía china. Las acciones de la empresa cayeron el lunes y martes, con una caída del 5.47% el martes, pero luego recuperaron el 5.3% en premarket trading. La empresa anunció que había contratado a una firma de abogados para investigar si se comprometieron secretos de la empresa o la seguridad nacional. Los inversores están evaluando si el escándalo afectará negativamente a la empresa. Analistas de diferentes firmas, como Bank of America y Morgan Stanley, han expresado su preocupación por el impacto que podría tener el escándalo en la empresa y su CEO. La empresa tiene sus cuartos generales en el estado de Georgia, donde se encuentra el centro de la investigación.
 
 Por qué importa:
-Esta investigación es importante porque puede ayudar a mejorar la precisión de los modelos de aprendizaje automático y detectar posibles problemas de datos antes de que se conviertan en un problema grave.</summary>
-    <published>2026-11-09T15:00:00+00:00</published>
+El escándalo que rodea a Jensen Huang es importante porque afecta directamente a la reputación de la empresa y su capacidad para liderar; La empresa es líder en el mercado de la inteligencia artificial y su CEO es clave para su estrategia. El impacto del escándalo en la empresa podría ser significativo, no solo para su valoración, sino también para su capacidad para innovar y liderar en el mercado.</summary>
+    <published>2026-11-11T10:56:10+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/</id>
-    <title>[Data Science] Batch Continuo Mejora el rendimiento de vLLM</title>
-    <updated>2026-11-10T15:18:20.828015+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html</id>
+    <title>[Economía] Measles is surging in the U.S. — and outbreaks can cost millions</title>
+    <updated>2026-11-11T13:39:43.479285+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/"/>
-    <summary>Un equipo de investigadores ha demostrado que el uso de batch continuo en el modelo de lenguaje vLLM puede mejorar su rendimiento en hasta 2.91 veces. Según un informe de Anyscale, el uso de batch continuo y optimizaciones de memoria aumentó el tráfico en 2.91 veces, mientras que el motor y el scheduler mejoraron en 1.33 y 2.91 veces respectivamente. La controlación fue el factor más confiable, ya que la batch contínua no debería proporcionar beneficios cuando cada solicitud termina juntas. La variación de longitud de salida importa, ya que cuando las solicitudes terminan en diferentes momentos, la batch contínua puede rellenar los espacios vacíos. El equipo utilizó un DGX Spark con una GB10 y 128 GB de LPDDR5X para probar el comportamiento de Triton. Realizó 3 repeticiones de cada política de batch para obtener una muestra amplia. Calculó el coeficiente de variación (CV) para medir la variabilidad de las respuestas. Verificó que la política de batch continuo no ofrecía una ventaja significativa cuando las respuestas eran idénticas. Encontró que la política de batch continuo era particularmente valiosa cuando las respuestas tenían una gran variabilidad. El aumento de la cantidad de tokens en una secuencia aumentó la latencia promedio de 0,276 segundos.
+    <link href="https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html"/>
+    <summary>En 2026, más de 5.100 casos de measles se han reportado en Estados Unidos, lo que marca el peor brote en más de tres décadas. Se han confirmado ocho muertes asociadas con la enfermedad en 2026, seis en Pennsylvania, una en Nueva York y una en Wisconsin. El costo estimado de los brotes de 2025 es de $83 millones, incluyendo $56 millones en respuesta a la salud pública, $25 millones en pérdidas de productividad y $1.8 millones en gastos médicos directos. En 2025, hubo 2.289 casos confirmados de measles en todo el país, lo que generó un costo estimado de más de $37 millones. El costo de los brotes de measles puede variar según el estado, con un ejemplo en Nueva York donde se estimó un costo de $1.1 millones por 48 casos. En Texas, el epicentro del mayor brote de measles en 2025, se estimó un costo de $13 millones, incluyendo $9 millones en respuesta a la salud pública y $4 millones en pérdidas de productividad. El costo de los brotes de measles se estima en $59.000 por caso, según un estudio de 2025 que examinó los costos de los brotes en 18 estados. El costo de los brotes de measles puede ser muy alto, con un estudio que estimó un costo de $90 millones para un brote hipotético de 1.500 casos.
 
 Por qué importa:
-La investigación se centra en mejorar el rendimiento del modelo de lenguaje vLLM, que es un modelo de gran tamaño y complejidad. El uso de batch continuo puede ayudar a reducir la latencia y mejorar la eficiencia del modelo, lo que es especialmente importante en aplicaciones de inteligencia artificial donde la velocidad y la precisión son fundamentales.</summary>
-    <published>2026-11-09T16:30:00+00:00</published>
+Los brotes de enfermedades como la patena pueden ser costosos de tratar y contener, y pueden divertir recursos para los departamentos de salud estatales y locales.</summary>
+    <published>2026-11-11T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/human-pilled/</id>
-    <title>[Data Science] Human-Pilled</title>
-    <updated>2026-11-10T15:18:20.827978+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html</id>
+    <title>[Economía] Zelenskyy advierte que Ucrania no es "propiedad" como expertos dicen que un acuerdo de paz con Rusia sigue siendo inalcanzable</title>
+    <updated>2026-11-11T13:39:43.479250+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/human-pilled/"/>
-    <summary>La industria de la inteligencia artificial está enfrentando desafíos para encontrar un equilibrio entre la automatización y la creatividad humana. La empresa O'Reilly Media ha desarrollado un asistente de investigación para ayudar a los ingenieros de tecnología a gestionar la tecnología en las organizaciones, y ha utilizado este asistente para ayudar a encontrar soluciones a problemas complejos. La empresa también está trabajando en el desarrollo de "magic words" que puedan ser utilizados para guiar a los modelos de lenguaje grandes y enfocar su atención en un enfoque específico. Además, la industria de la inteligencia artificial necesita diseñar mecanismos y affordances que permitan a los usuarios monetizar sus creaciones y a los creadores de contenido recibir compensación justa. La empresa Anthropic ha pagado $1.5 billion para resolver una acción legal relacionada con libros piratas utilizados para entrenar sus modelos. La industria de la inteligencia artificial ha pasado por alto la oportunidad de compartir el valor con los creadores de contenido, como lo hizo YouTube con su sistema de identificación de contenido. La empresa Google ha desarrollado un sistema de notetaking llamado NotebookLM, pero no lo ha utilizado para permitir a los usuarios monetizar sus creaciones. La industria de la inteligencia artificial necesita aplicar la teoría de juegos y la mecánica de diseño para crear sistemas que permitan a los usuarios y creadores de contenido recibir compensación justa. La empresa O'Reilly Media está trabajando en una solución para ayudar a las organizaciones a aprovechar al máximo la inteligencia artificial y a crear una economía que funcione para los humanos.
+    <link href="https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"/>
+    <summary>El presidente ucraniano Volodymyr Zelenskyy advirtió que su país "no es propiedad" durante las conversaciones de paz en Abu Dhabi entre representantes rusos y ucranianos. Zelenskyy expresó su satisfacción con las discusiones, pero no tiene expectativas de avances significativos en la negociación. El experto ucraniano Mykola Bielieskov considera que la única forma de compromiso es el intercambio de prisioneros de guerra. El envoy estadounidense Jared Kushner afirmó que está trabajando para establecer la seguridad necesaria para un Ucrania soberana y próspera. La negociación sigue sin avanzar debido a las diferencias sobre la frontera y la soberanía rusa. El experto Maximilian Hess considera que poco se ha logrado en las últimas reuniones.
 
 Por qué importa:
-La industria de la inteligencia artificial está en un punto crítico en el que necesita encontrar un equilibrio entre la automatización y la creatividad humana; La empresa O'Reilly Media está trabajando en una solución para ayudar a las organizaciones a aprovechar al máximo la inteligencia artificial y a crear una economía que funcione para los humanos. Esto es importante porque la industria de la inteligencia artificial tiene el potencial de revolucionar la forma en que trabajamos y vivimos, pero también tiene el riesgo de reemplazar a los humanos y reducir la creatividad y la innovación.</summary>
-    <published>2026-11-10T12:02:31+00:00</published>
+La negociación de paz en Abu Dhabi es crucial para encontrar una solución al conflicto en Ucrania. La tensión entre Rusia y Occidente sigue siendo alta, y la negociación puede ser un paso importante para encontrar una solución pacífica.</summary>
+    <published>2026-11-11T12:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html</id>
+    <title>[Economía] Consumidores muestran signos de estrés incluso mientras continúan gastando</title>
+    <updated>2026-11-11T13:39:43.479213+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"/>
+    <summary>En octubre, las ventas al por menor crecieron a su ritmo más lento en casi un año, según el último informe CNBC/NRF Retail Monitor. Las ventas totales de retail aumentaron un 0,2% en octubre, un 3,6% más que el mismo mes del año anterior. Los consumidores están mostrando signos de estrés debido a los precios altos, según el informe. La creciente escasez de memoria de computadora está impulsando las ventas de tecnología. Los consumidores están siendo más selectivos con sus compras y están aprovechando las ofertas y promociones para ahorrar dinero. La industria de la vivienda está experimentando una recesión debido a la subida de los tipos de interés. Las ventas de artículos de ocio, como deportes, música y librerías, también han disminuido. El informe ofrece una visión de cómo la inflación y los precios altos están afectando a los consumidores en los Estados Unidos. El informe también muestra que la mayoría de las empresas planean aumentar sus precios en los próximos tres meses. Las ventas totales de retail en octubre fueron de $561,7 mil millones, un 0,2% más que el mes anterior y un 3,6% más que el mismo mes del año anterior.
+
+Por qué importa:
+La información proporcionada ofrece una visión de cómo la inflación y los precios altos están afectando a los consumidores en los Estados Unidos. La recesión en la industria de la vivienda y la subida de los tipos de interés están contribuyendo a la disminución de las ventas en este sector.</summary>
+    <published>2026-11-11T12:27:47+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/</id>
     <title>[Data Science] Cómo validar el output de LLM en un flujo de trabajo de DuckDB y dbt</title>
-    <updated>2026-11-10T15:18:20.827945+00:00</updated>
+    <updated>2026-11-11T13:39:43.479178+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -153,7 +111,7 @@ Esta noticia es importante porque muestra cómo un autor utilizó un modelo de i
   <entry>
     <id>https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/</id>
     <title>[Data Science] una sesión de inicio de sesión de Claude Code aumentó su habilidad de 15% a 62%</title>
-    <updated>2026-11-10T15:18:20.827912+00:00</updated>
+    <updated>2026-11-11T13:39:43.479143+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -165,23 +123,65 @@ s; CONTEXTO_ES: Esta noticia es importante porque muestra el potencial de las he
     <published>2026-11-10T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29620</id>
-    <title>[Fórmula 1] Hamilton lamenta giro costoso y señala luchas con llantas después de carrera de São Paulo</title>
-    <updated>2026-11-10T15:18:20.827874+00:00</updated>
+    <id>https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/</id>
+    <title>[Data Science] Scikit-Learn Matched o Beat Jev's Calibration on BANKING77</title>
+    <updated>2026-11-11T13:39:43.479109+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29620"/>
-    <summary>Lewis Hamilton admitió que contribuyó a la pobre cosecha de puntos de Ferrari en el Gran Premio de São Paulo después de un giro complicado en la segunda mitad de la carrera; Comenzó la carrera desde la parte trasera del campo pero hizo un excelente inicio, subiendo rápidamente a las primeras posiciones. Sin embargo, Ferrari enfrentó dificultades con la gestión de las llantas; Los neumáticos de Hamilton comenzaron a perder rendimiento a medida que el circuito se secaba, lo que complicó su progreso. Hamilton fue el primer piloto en pedir llantas de composición suave y fue el primero en cambiar a las llantas intermedias; Aunque inicialmente parecía la decisión correcta, la llegada del agua complicó su estrategia; Hamilton fue el último piloto en cambiar a llantas intermedias. Antes de hacer el cambio, se deslizó en las condiciones húmedas, perdiendo tiempo y caíendo más abajo en el orden; Aunque logró recuperarse en las primeras posiciones, terminó noveno, un lapso detrás del ganador Lando Norris. Hamilton explicó que las dificultades con las llantas habían debilitado su progreso, a pesar del buen inicio del equipo; "Teníamos un buen inicio y el equipo hizo un gran trabajo, pero en general no fue la carrera que esperaba; La primera etapa fue complicada, ya que luchamos con el rear y no pudimos encontrar el punto de calor adecuado para las llantas", dijo. "Intentamos recuperarnos y hacia el final sentí que podía seguir empujando, pero, desafortunadamente, el agua se intensificó y perdí terreno; Vamos a seguir trabajando como equipo y hacer todo lo posible para obtener un buen resultado en las próximas carreras", dijo. Hamilton también admitió que había esperado un resultado más gratificante después de su buen inicio, asumiendo la responsabilidad del error que comprometió su recuperación en las últimas fases. "Tuvimos un buen inicio y pensé que estaba a punto de algo positivo, pero las llantas se dieron a perder casi de inmediato cuando el circuito se secaba; Es muy difícil mantenerse en la pista; Es un desafío enorme para encontrar el punto de calor adecuado y que las llantas funcionen", dijo. El piloto de Ferrari también elogió el esfuerzo del equipo a lo largo de un tripleheader exigente, mientras que reconoció que el resultado no reflejaba el trabajo realizado por el equipo. "El triple triple ha sido muy difícil y exigente para el equipo, pero han hecho un trabajo increíble a lo largo de todo; No obtuvimos los puntos que creo que merecía el equipo hoy; Me tomo parte de eso hoy, con ese giro al final; Vamos a aprender y seguir adelante".
+    <link href="https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/"/>
+    <summary>El modelo Jev, desarrollado por TypeSafe AI, ha demostrado una precisión de 0.022 en la prueba de BANKING77, superando a un modelo de logistic regression calificado con isotónica. El modelo Jev utiliza el método de RLCD para tomar decisiones y tiene una confianza bajo en las respuestas verdaderas. En el 7-intent task, el modelo auto-decide el 21.2% de las solicitudes con un umbral de 0.90. El modelo Jev también tiene una precisión de 0.975 en las respuestas de Choice y una ECE de 0.014. El modelo Jev es mejor que un modelo de logistic regression calificado con isotónica en la prueba de 77 intentos. El modelo Jev se entrenó con un método que recompensa respuestas que coinciden con la realidad.
 
 Por qué importa:
-La carrera de São Paulo fue crucial para Ferrari, ya que buscaba recuperar terreno en la lucha por el título.</summary>
-    <published>2026-11-09T14:19:00+00:00</published>
+El modelo Jev es importante porque ofrece una mejor calibración que otros modelos, lo que puede mejorar la precisión de las decisiones. La calibración es un aspecto crítico en la toma de decisiones, ya que puede afectar la confianza en las respuestas; El modelo Jev utiliza un método de RLCD para tomar decisiones, lo que lo hace más eficiente y preciso.</summary>
+    <published>2026-11-10T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/</id>
+    <title>[Data Science] Sandboxing AI Agent Code Execution en Python: Contenedores, MicroVMs y Más</title>
+    <updated>2026-11-11T13:39:43.479076+00:00</updated>
+    <author>
+      <name>MachineLearningMastery.com</name>
+    </author>
+    <link href="https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/"/>
+    <summary>En el escenario de seguridad para el código de un agente, se basa en la creación de un límite alrededor del lugar donde se ejecuta el código. En noviembre de 2025, tres vulnerabilidades de runc permitieron a los atacantes romper las contenedores. Docker lanzó Docker Sandboxes en microVMs en abril de 2026. AWS ofrece Lambda MicroVMs, que mantienen el estado durante hasta 8 horas y se suspenden cuando están inactivos. La expectativa es que los microVMs se conviertan en la frontera predeterminada para el código de agentes. Un agente necesita una frontera, y cada capa la mueve. Se construyeron todos tres detrás de una interfaz de ejecución única, se los probó contra la misma serie de ataques y se creó un script para medir el costo de latencia. Se testean las fronteras con seis ataques. La primera parte de sandbox.py contiene el tipo de resultado compartido y el backend de subprocess. La segunda parte agrega el backend de contenedor; La tercera parte envuelve E2B, que crea un nuevo sandbox para cada ejecución.
+
+Por qué importa:
+La seguridad del código de los agentes es crucial en la era de la inteligencia artificial. Los microVMs ofrecen una solución a este problema, proporcionando a cada ejecución su propio núcleo detrás de un hipervisor.</summary>
+    <published>2026-11-11T11:00:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/</id>
+    <title>[Data Science] A Jev de todas las habilidades: Construye y entrena un modelo de decisión Jev desde cero</title>
+    <updated>2026-11-11T13:39:43.479042+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"/>
+    <summary>El modelo Jev-inspired superó al modelo Qwen en las mismas preguntas de patología, alcanzando un promedio del 96,22-97,96% de recall en las preguntas de reconocimiento de clases. En categorías familiares, las decisiones correctas fueron del 67.00% versus el 43.00% para Qwen. El modelo Jev-inspired también alcanzó un promedio del 70,97% de recall en las preguntas de reconocimiento de categorías adicionales. El modelo Jev-inspired puede evaluar sus descripciones escritas sin necesidad de entrenamiento adicional y alcanzó un promedio del 76,28% de recall en las preguntas de reconocimiento de clases. El modelo Jev-inspired también superó al modelo Qwen en la comparación, alcanzando una precisión del 66,00-67,00% en la decisión final. El modelo Jev-inspired puede representar una opción de respuesta que no está dentro del catálogo de etiquetas aprendidas y puede comparar una imagen con un texto y calcular un puntaje para una opción de respuesta.
+
+Por qué importa:
+El modelo Jev-inspired es un modelo de decisión que superó al modelo Qwen en las mismas preguntas de patología, lo que indica que el modelo Jev-inspired es más eficaz en este tipo de preguntas. La precisión del modelo Jev-inspired también es mayor que la del modelo Qwen en algunas categorías, lo que sugiere que el modelo Jev-inspired es más preciso en estas áreas.</summary>
+    <published>2026-11-11T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes</id>
+    <title>[Data Science] Nueve métricas clave para la inferencia de LLM explicadas en 5 minutos</title>
+    <updated>2026-11-11T13:39:43.479007+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes"/>
+    <summary>Un artículo explica cómo medir la performance de la inferencia de modelos de lenguaje grande (LLM) utilizando nueve métricas clave. Estas métricas ayudan a descomponer la performance en componentes medibles, desde el retraso inicial hasta la velocidad de generación de tokens y la carga del sistema. El artículo cubre cuatro valores que definen la latencia: el momento en que la solicitud sale del cliente, el momento en que llega el primer token de salida, el momento en que llega el último token de salida y el número de tokens de salida. Estas métricas son fundamentales para evaluar la latencia, identificar los puntos de congestión y rastrear la performance a lo largo del tiempo. El artículo también explica cómo calcular la velocidad de generación de tokens, la velocidad de streaming y la latencia total, y cómo utilizar estas métricas para evaluar la performance de un sistema de LLM. Además, el artículo cubre la relación entre la latencia y la velocidad de streaming, y cómo utilizar las métricas para comparar la performance de diferentes sistemas de LLM. En resumen, el artículo proporciona una visión completa de las métricas clave para la inferencia de LLM y cómo utilizarlas para evaluar y mejorar la performance de estos sistemas.
+
+Por qué importa:
+El artículo es escrito por Bala Priya, una desarrolladora, educadora y escritora técnica basada en la India; Ella es conocida por escribir sobre temas como la inteligencia artificial, la ciencia de datos y la aprendizaje automático, con un enfoque en hacer que las ideas técnicas complejas sean prácticas y accesibles. El artículo es una guía práctica para desarrolladores que buscan entender mejor cómo funcionan los modelos de lenguaje grande y cómo pueden ser utilizados para mejorar la experiencia del usuario.</summary>
+    <published>2026-11-11T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/</id>
     <title>[Fórmula 1] La carrera de Antonelli se vio afectada por problemas de manejo</title>
-    <updated>2026-11-10T15:18:20.827839+00:00</updated>
+    <updated>2026-11-11T13:39:43.478971+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -195,7 +195,7 @@ La carrera de Antonelli fue importante porque marcó el comienzo de su carrera c
   <entry>
     <id>https://www.f1technical.net/news/29625</id>
     <title>[Fórmula 1] Ferrari admite que luchó con las temperaturas de los neumáticos en São Paulo y emerge la preocupación por Las Vegas</title>
-    <updated>2026-11-10T15:18:20.827806+00:00</updated>
+    <updated>2026-11-11T13:39:43.478936+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -209,7 +209,7 @@ La lucha de Ferrari por mantener la temperatura óptima de los neumáticos duran
   <entry>
     <id>https://www.f1technical.net/news/29622</id>
     <title>[Fórmula 1] Stella pide al equipo McLaren que celebren su victoria en el GP de São Paulo</title>
-    <updated>2026-11-10T15:18:20.827773+00:00</updated>
+    <updated>2026-11-11T13:39:43.478902+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -223,7 +223,7 @@ La victoria de McLaren en el GP de São Paulo es importante porque muestra la ca
   <entry>
     <id>https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/</id>
     <title>[Fórmula 1] No F1 engine manufacturers recibirán actualizaciones adicionales después de la evaluación ADUO del FIA</title>
-    <updated>2026-11-10T15:18:20.827739+00:00</updated>
+    <updated>2026-11-11T13:39:43.478869+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -235,65 +235,37 @@ La evaluación ADUO es un sistema que busca equilibrar el rendimiento de los mot
     <published>2026-11-10T11:20:33+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/karen-gillan-teases-the-possible-return-of-nebula-in-the-mcu-2000837411</id>
-    <title>[Tecnología] Karen Gillan Teasura el regreso de Nebula en el MCU</title>
-    <updated>2026-11-10T15:18:20.827704+00:00</updated>
+    <id>https://www.f1technical.net/news/29630</id>
+    <title>[Fórmula 1] Russell admite haber tomado demasiada riesa en la salida de la curva de la pista después de su error extraño en São Paulo</title>
+    <updated>2026-11-11T13:39:43.478831+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://gizmodo.com/karen-gillan-teases-the-possible-return-of-nebula-in-the-mcu-2000837411"/>
-    <summary>Karen Gillan ha hablado sobre su posible regreso como Nebula en el MCU. En una entrevista con The Direct, Gillan mencionó que ha hablado con los productores de Marvel sobre el tema, pero no reveló si se trata de un regreso o no. También expresó que no quiere dar spoilers sobre el tema. Además, se menciona que Variety reporta que Alicia Witt y María Camila Giraldo estarán en el proyecto Incuba Project, una película de terror colombiana. La actriz Carrie-Anne Moss también se unirá al proyecto Replacer, una película de terror psicológico. Por otro lado, Variety reporta que Vera Farmiga protagonizará la película Inferno, una película de terror oculto. Finalmente, se menciona que Deadline informa que L.A.-based Tyrus Pictures está desarrollando una película de adaptación de la manga de Yu Satomi, Noah of the Blood Sea.
+    <link href="https://www.f1technical.net/news/29630"/>
+    <summary>George Russell admitió que tomó demasiada riesa cuando se deslizó en la salida de la curva de la pista durante el Gran Premio de São Paulo, mientras que Mercedes se aseguró su novena edición del Campeonato de Constructores a pesar de una tarde desafiante en Interlagos. El piloto británico perdió el control en la curva de la salida de la pista, cayendo a la décima posición y perdiendo una gran cantidad de tiempo; Russell reconoció que su error fue al intentar aprovechar una oportunidad para luchar por la victoria; "Fue un día muy eventivo. Teníamos una gran velocidad en ciertas partes, especialmente con las llantas suaves, y eso fue un gran positivo para mí; Me cometí un error en la salida de la curva cuando estaba intentando ir por el ganar y quería ir por ello", explicó. Russell también destacó que el título fue el resultado de contribuciones de personas que no estaban en la pista cada fin de semana, destacando el trabajo realizado en las fábricas de Mercedes en Brackley y Brixworth; "Ganar el Campeonato Mundial de Constructores es siempre la reflexión última de un esfuerzo de equipo. Este deporte no es solo sobre los dos pilotos que están en la carretera cada fin de semana; es sobre las miles de decisiones que se toman en las fábricas y la determinación de cada persona que contribuye a la rendimiento del equipo", dijo. Russell también destacó que el equipo había trabajado duro para regresar a la cima después de varios años difíciles; "Cuando me uní a Mercedes en 2022, esperábamos estar luchando por campeonatos regularmente, así que haber pasado por esa jornada y ahora regresar a la cima es algo en lo que todos deberíamos sentir orgullosos", dijo. El piloto británico también destacó que el título fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana. "Cuando me uní a Mercedes en 2022, esperábamos que estuviéramos luchando por campeonatos regularmente, así que haber pasado por esa jornada y ahora regresar a la cima es algo en lo que todos deberíamos sentir orgullosos", dijo. El piloto británico también destacó que el título fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana; "Winning the Constructors World Championship is always the ultimate reflection of a team effort. This sport isn't just about the two drivers who are in the car every weekend; it's about the thousands of decisions made back at the factories and the determination of every person who contributes to the performance of the team."
 
 Por qué importa:
-La noticia menciona varios proyectos de películas y series de televisión, incluyendo Incuba Project, Replacer, Inferno y Noah of the Blood Sea; También se menciona que Karen Gillan ha hablado sobre su posible regreso como Nebula en el MCU. Además, se menciona que Variety reporta que Alicia Witt y María Camila Giraldo estarán en el proyecto Incuba Project, una película de terror colombiana.</summary>
-    <published>2026-11-10T12:00:13+00:00</published>
+El título de Mercedes fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana.</summary>
+    <published>2026-11-10T15:50:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/</id>
-    <title>[Tecnología] Rocco’s Mini Mini Fridge Is Here (2026)</title>
-    <updated>2026-11-10T15:18:20.827669+00:00</updated>
+    <id>https://www.f1technical.net/news/29631</id>
+    <title>[Fórmula 1] FIA confirma no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de F1 después de la tercera evaluación de ADUO</title>
+    <updated>2026-11-11T13:39:43.478794+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/"/>
-    <summary>Rocco ha lanzado el Mini Mini, una versión de escritorio de su famoso refrigerador de bebidas vintage. El Mini Mini puede sostener 12 cajas de 12 onzas estándar y alcanza temperaturas de 41 grados Fahrenheit. El refrigerador tiene 360 grados de ventilación y se puede instalar contra cualquier pared. El Mini Mini está disponible en cuatro colores y se vende por $295, aunque se puede obtener con un descuento de $50 si se compra un refrigerador Rocco Classic o Essential. El Mini Mini es la primera nevera de escritorio con estándares de refrigeración reales. El refrigerador no tiene una función de reconocimiento de bebidas inteligente. El Mini Mini es una opción atractiva para aquellos que buscan una nevera compacta y eficiente.
+    <link href="https://www.f1technical.net/news/29631"/>
+    <summary>La FIA ha confirmado que no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de Fórmula 1 después de la tercera evaluación de ADUO del temporada 2026. La FIA ha anunciado los resultados de su tercera evaluación de ADUO, que cubre las carreras 12 a 18 de la temporada 2026 de Fórmula 1. Mercedes se encuentra entre un 2% y un 4% detrás del mejor rendimiento de la unidad de combustión interna, lo que la hace elegible para una actualización adicional en ambos 2026 y 2027. Audi, Ferrari y Honda se encuentran más de un 4% detrás del benchmark y, por lo tanto, reciben dos actualizaciones adicionales para cada temporada. La FIA ha no revelado las mediciones de rendimiento exactas ni las diferencias entre los fabricantes, citando la naturaleza confidencial de la información. El sistema de ADUO operará durante el ciclo regulatorio 2026-2030, con la FIA monitoreando el rendimiento de cada unidad de combustión interna de los fabricantes a través de tres períodos de evaluación por temporada. Un fabricante que se encuentra al menos un 2% detrás del benchmark se hace elegible para actualizaciones adicionales. Los fabricantes que se encuentran entre un 2% y un 4% detrás del benchmark reciben una actualización adicional para la temporada actual y otra para la temporada siguiente. Se ha estado trabajando de manera estrecha con los fabricantes de la Unidad de Potencia y las equipos para explorar mejoras en el método que apoyarán la efectividad de ADUO en las temporadas futuras. El próximo período de evaluación de ADUO comenzará en 2027 y cubrirá las primeras seis carreras de la temporada, desde el Gran Premio de Bahrain hasta el Gran Premio de Miami.
 
 Por qué importa:
-El Mini Mini es una opción interesante para aquellos que buscan una nevera compacta y eficiente para su escritorio. El hecho de que el Mini Mini tenga estándares de refrigeración reales y 360 grados de ventilación lo convierte en una opción atractiva para aquellos que buscan una nevera que pueda mantener sus bebidas frescas sin tener que preocuparse por la eficiencia energética.</summary>
-    <published>2026-11-10T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support</id>
-    <title>[Tecnología] GTA VI estará disponible en Xbox Cloud Gaming para consolas Xbox One</title>
-    <updated>2026-11-10T15:18:20.827633+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support"/>
-    <summary>Rockstar Games anuncia que Grand Theft Auto VI estará disponible en Xbox Cloud Gaming para consolas Xbox One. La plataforma de streaming de Microsoft permitirá a los usuarios jugar el juego sin necesidad de actualizar a una consola más reciente. Esto significa que los usuarios con consolas Xbox One antiguas podrán jugar el juego en lugar de tener que comprar una consola más reciente. La plataforma de streaming utilizará los gráficos de la consola Xbox Series S para transmitir el juego a las consolas Xbox; Microsoft tiene una exclusiva en la streaming de Grand Theft Auto VI desde la nube, aunque solo para consolas Xbox. El juego también estará disponible para Remote Play en PlayStation y Xbox; La versión del juego en PC no está disponible en la plataforma de streaming. Rockstar Games confirmó que el juego tendrá un rendimiento de 30fps en las consolas PS5, PS5 Pro, Xbox Series S / X; La versión del juego en PS5 Pro tendrá ray-traced shadows y soporte para PlayStation Spectral Super Resolution (PSSR). La plataforma de streaming de Xbox Cloud Gaming permitirá a los usuarios jugar Grand Theft Auto VI sin necesidad de actualizar a una consola más reciente. La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante; La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox. El juego estará disponible en la plataforma de streaming de Xbox Cloud Gaming el próximo semana; La versión del juego en PC no está disponible en la plataforma de streaming. La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante; La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox.
-
-Por qué importa:
-La exclusividad de Microsoft en la streaming de Grand Theft Auto VI desde la nube es una noticia interesante. La disponibilidad del juego en Xbox Cloud Gaming es una buena noticia para los usuarios de consolas Xbox.</summary>
-    <published>2026-11-10T14:37:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621</id>
-    <title>[Tecnología] Un objeto en el sistema solar exterior se mueve en contra del flujo normal de la órbita del Sol</title>
-    <updated>2026-11-10T15:18:20.827596+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621"/>
-    <summary>Un objeto en el sistema solar exterior se ha detectado moviéndose en contra del flujo normal de la órbita del Sol, lo que ha generado gran interés entre los científicos. El objeto, designado como R631, se encuentra a una distancia de aproximadamente 3 billones de millas del Sol y sigue un camino de retroceso definido por una órbita altamente inclinada. Aunque no se conoce con certeza cómo llegó allí, se cree que podría ser un cometa o un cuerpo rocoso. Los científicos están estudiando el objeto para entender por qué se mueve de esta manera y si es un objeto interstelar o parte del sistema solar. El objeto se acercará al Sol en el próximo año y se espera que los científicos puedan recopilar más información sobre su naturaleza. R631 tiene una inclinación orbital de 142 grados, lo que la convierte en un objeto de gran interés en el campo de la astronomía. El objeto se detectó durante las observaciones del Rubin Observatory entre diciembre de 2025 y marzo de 2026; Se estima que R631 toma aproximadamente 547,84 años en completar una órbita alrededor del Sol. El objeto se acercará al Sol en octubre de 2047 y se espera que comience a mostrar actividad o emisión de material cuando esté cerca del Sol. Los científicos creen que R631 podría ser un cometa de aproximadamente 62 millas de ancho; Si es un cometa, podría comenzar a mostrar actividad o emisión de material cuando esté cerca del Sol. Hay dos teorías sobre cómo R631 llegó a su órbita retrograda: podría haber sido nacido en un sistema estelar diferente y capturado por la gravedad del Sol, o podría haber sido el resultado de un cruce con un objeto grande como Júpiter o Neptuno.
-
-Por qué importa:
-El descubrimiento de R631 es un ejemplo de cómo la astronomía puede revelar secretos sobre el sistema solar y su lugar en el universo; La detección del objeto en el sistema solar exterior es un recordatorio de que todavía hay mucho que aprender sobre nuestro entorno cósmico. Los científicos están emocionados de seguir el seguimiento de R631 y recopilar más información sobre su naturaleza, lo que podría proporcionar nuevas perspectivas sobre la formación y evolución del sistema solar.</summary>
-    <published>2026-11-10T14:40:08+00:00</published>
+La FIA ha confirmado que no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de Fórmula 1 después de la tercera evaluación de ADUO del temporada 2026, lo que significa que los fabricantes ya no podrán mejorar su rendimiento en comparación con el benchmark. Esto es importante porque afectará directamente a la competitividad de los equipos en la temporada 2027 y más allá.</summary>
+    <published>2026-11-10T16:01:54+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</id>
     <title>[Tecnología] Reddit es turning user conversations into AI-powered product reviews</title>
-    <updated>2026-11-10T15:18:20.827560+00:00</updated>
+    <updated>2026-11-11T13:39:43.478757+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -307,7 +279,7 @@ La característica de "Reddit Reviews" es importante porque puede ayudar a los c
   <entry>
     <id>https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping</id>
     <title>[Tecnología] Reddit quiere guiar su próxima compra</title>
-    <updated>2026-11-10T15:18:20.827523+00:00</updated>
+    <updated>2026-11-11T13:39:43.478722+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -319,37 +291,65 @@ El lanzamiento de Reddit Reviews es importante porque Reddit busca ofrecer una e
     <published>2026-11-10T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.benjoffe.com/fast-easter</id>
-    <title>[Programación] Una forma más rápida de calcular la fecha del Pascua</title>
-    <updated>2026-11-10T15:18:20.827486+00:00</updated>
+    <id>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</id>
+    <title>[Tecnología] Crisis de Nvidia</title>
+    <updated>2026-11-11T13:39:43.478686+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://www.benjoffe.com/fast-easter"/>
-    <summary>El científico Dirk Loss repuso a una de mis publicaciones en Twitter con un enlace a un thread de ChatGPT que utilizó AI para calcular la Pascua de manera rápida. El AI produjo una función que es rápida y precisa en el rango de 1498 a 14,544. Mi algoritmo fue adaptado de la presentación en Calendrical Calculations y no apliqué aprendizajes del thread de ChatGPT, aunque coincidimos en varios pasos. El algoritmo tiene un 5-15% de mayor throughput en plataformas probadas y similar latencia, aunque con un rango más amplio. El algoritmo de ChatGPT es solo un modelo básico con un poco de computo, por lo que es probable que modelos más avanzados lo superen en optimizaciones. El rango de 1498 a 14,544 es una elección razonable dada que las reglas modernas para la Pascua se implementaron después de 1582 y nadie necesita calcularla más allá de ese punto. El algoritmo de ChatGPT es solo una alternativa rápida y precisa en un rango muy pequeño. El algoritmo de Dirk Loss es más preciso y tiene una estructura de existentes algoritmos que van mucho más atrás en el tiempo. El algoritmo de ChatGPT es solo un modelo básico que puede mejorar con optimizaciones futuras.
+    <link href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"/>
+    <summary>La crisis de Nvidia se profundiza después de que el CEO Jensen Huang admitió a un encuentro extramarital con Alice Huang, quien los U.S. inteligencia agencies creen que estaba espía para China. La empresa ha visto su acción de acciones caer un 5.47% el martes, tras una caída del 4% el lunes, y una pérdida del 9.5% en dos días. La junta de directores ha contratado a la firma de abogados Wachtell, Lipton, Rosen &amp; Katz para investigar el asunto. Los expertos en gobernanza corporativa dicen que no hay un precedente claro para un CEO atrapado en una situación de posible honeypot. La investigación, liderada por directores independientes con su propio abogado, es considerada la parte más "estándar" del asunto. Los expertos también destacan la importancia de qué Huang sabía y cuándo, ya que esto puede afectar la investigación y las posibles consecuencias para la empresa.
 
 Por qué importa:
-La fecha del Pascua es un tema importante para muchos, ya que se relaciona con la fe y la tradición; La precisión en el cálculo de la fecha del Pascua es fundamental para evitar confusiones y errores. La introducción de nuevas reglas y algoritmos para calcular la fecha del Pascua es un avance significativo en la comprensión y la precisión de este tema.</summary>
-    <published>2026-11-10T09:36:42+00:00</published>
+La crisis de Nvidia es importante porque puede afectar la confianza de los inversores y el público en general; La empresa tiene una estructura de gobierno muy centralizada, con el CEO Jensen Huang teniendo un control absoluto, lo que puede hacer que sea difícil para la junta de directores actuar de manera independiente. Además, la presencia de hijos de Huang en la empresa, incluyendo a su hijo Spencer y su hija Madison, puede generar preocupación sobre la posible nepotismo y la falta de transparencia en la toma de decisiones.</summary>
+    <published>2026-11-11T07:30:51+00:00</published>
   </entry>
   <entry>
-    <id>http://letoverlambda.com/</id>
-    <title>[Programación] Let Over Lambda libro es ahora gratuito para leer en línea</title>
-    <updated>2026-11-10T15:18:20.827448+00:00</updated>
+    <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</id>
+    <title>[Tecnología] Experiencia la arte y legado de Dr. Esther Mahlangu</title>
+    <updated>2026-11-11T13:39:43.478646+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Technology</name>
     </author>
-    <link href="http://letoverlambda.com/"/>
-    <summary>El libro "Let Over Lambda" (ISBN 978-1-4357-1275-1, 376+iv pp.) es considerado uno de los libros de programación más duros y avanzados. El libro describe las características más avanzadas del lenguaje C OMMON L ISP y busca exponer ideas que de otra manera no se podrían conocer. El libro se centra en macros, programas que escriben programas, y destaca su capacidad para lograr fechas de abstracción, productividad y seguridad del código que no se pueden alcanzar en otros lenguajes. El libro no es para aquellos que buscan un manual de codificación seco, sino para aquellos que buscan explorar los límites del conocimiento sobre el programación. El libro fue publicado en 2008, alineado con el 50 aniversario de la invención de Lisp en 1958, y ahora está disponible gratuitamente para leer en línea. El autor, Doug Hoyte, afirma que el libro sigue siendo una guía valiosa para entender por qué Lisp es especial.
+    <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"/>
+    <summary>El 10 de junio de 2024, Google Arts &amp; Culture lanzó una retrospectiva en línea de la artista sudanesa Dr; Esther Mahlangu, que conmemora su 91º cumpleaños; La colección cuenta con más de 45 historias, materiales arquitectónicos y recreaciones de su infancia con la ayuda de la inteligencia artificial. El proyecto busca preservar la herencia ndebele para un público global; La retrospectiva incluye más de 45 exhibiciones, murales y materiales arquitectónicos, y es accesible desde cualquier lugar del mundo. El proyecto fue desarrollado en colaboración con el Departamento de Curaduría, Públicas y Culturas Visuales de la Universidad de Witwatersrand, y con el equipo de Google Arts &amp; Culture; El objetivo es presentar una exploración completa de su vida y obra, contribuyendo a la investigación sobre las mujeres sudanesas artistas que han tenido un impacto en las artes desde el siglo XX. La retrospectiva incluye una rica colección de su trabajo, incluyendo murales, piezas íntimas y materiales arquitectónicos raros; Sin embargo, los archivos no incluían nada de su vida antes de 1980, lo que dejaba un vacío en su historia. El proyecto utilizó la inteligencia artificial para recrear sus recuerdos no documentados, lo que nos acercó más a su trabajo y provocó recuerdos adicionales de su parte; El proyecto fue desarrollado en colaboración con el equipo de Google DeepMind y Google Arts &amp; Culture Lab, junto con el estudio de datos sintéticos Domestic Data Streamers. A través de una serie de talleres y entrevistas, documentaron un período de su historia que estaba ausente, desde cuando comenzó a pintar a los 10 años hasta sus primeras obras documentadas en 1980. Estas historias, como el momento en que descubrió su talento para la pintura utilizando plumas en lugar de una pincel, se convirtieron en la fuente material para nuestro trabajo; Siguiendo la metodología del proyecto de memorias sintéticas y utilizando materiales arquitectónicos, el equipo generó imágenes estáticas basadas en sus recuerdos. Luego, utilizaron Veo para convertir las imágenes en videos que trajeron a la vida sus primeros días; Las historias también contribuyen al archivo de su vida en Google Arts &amp; Culture. La retrospectiva cuenta con más de 45 exhibiciones, curadas en colaboración con Art of Contemporary Africa, Iziko Museums of South Africa, el British Museum, la Jean Pigozzi Collection, el National Museum of Women in the Arts y Serpentine, que cuentan la historia de cómo llegó a ser conocida en el mundo, a través de su arte, archivos, Street View y más. El proyecto demuestra una nueva forma de abordar la preservación del patrimonio cultural, con tecnología guiada en cada paso por un respeto por la memoria personal y la precisión histórica; El objetivo es cementar su lugar como una voz clave en el arte contemporáneo global, invitar a los audiencias a reimprimir las posibilidades de su archivo y asegurar que su historia y su visión artística puedan inspirar generaciones futuras.
 
 Por qué importa:
-El libro "Let Over Lambda" es considerado un clásico en el mundo de la programación y es ampliamente reconocido por su enfoque innovador y su capacidad para desafiar las convenciones. El hecho de que el libro esté disponible gratuitamente para leer en línea es un gesto de generosidad del autor, Doug Hoyte, quien busca compartir su conocimiento y inspirar a otros programadores.</summary>
-    <published>2026-11-10T11:45:22+00:00</published>
+Este proyecto es importante porque permite a un público global conocer y apreciar la obra y la vida de Dr; Esther Mahlangu, una artista sudanesa que ha sido una voz clave en el arte contemporáneo global. La retrospectiva en línea es una forma innovadora de preservar su legado y hacerlo accesible para una audiencia más amplia.</summary>
+    <published>2026-11-11T09:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/gallery/best-indoor-gardening-systems/</id>
+    <title>[Tecnología] Los mejores sistemas de jardinería indoor que he estado probando durante años (2026)</title>
+    <updated>2026-11-11T13:39:43.478613+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/gallery/best-indoor-gardening-systems/"/>
+    <summary>En 2026, la Agencia de Seguridad Cibernética de los Estados Unidos emitió advertencias sobre vulnerabilidades en los sistemas Gardyn Home y Studio. El sistema Gardyn Home 4.0 es uno de los más fáciles de montar y configurar, y puede producir una variedad de plantas. El Lettuce Grow Farmstand es fácil de montar, pero puede ser propenso a plagas. Los sistemas hidropónicos, como el Gardyn Home 4.0, pueden ser más caros que plantar semillas en el suelo, y pueden requerir una gran cantidad de luz y ser ruidosos. El EVE Indoor Garden tiene un costo aproximado de $600 y se puede recuperar con el crecimiento de microgreens. El Lykyn Smart Mushroom Grow Box tiene un costo de $300 y se utiliza para crecer champiñones.
+
+Por qué importa:
+Los sistemas de jardinería indoor son una excelente opción para aquellos que buscan cultivar plantas en un espacio limitado; Importa destacar que los sistemas hidropónicos pueden tener sus propias limitaciones y desafíos, como la necesidad de una gran cantidad de luz y el riesgo de contaminación del agua. Sin embargo, también ofrecen ventajas como la capacidad de controlar el crecimiento de las plantas y la reducción de la necesidad de mantenimiento.</summary>
+    <published>2026-11-11T12:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/the-ancient-maya-used-mercury-for-paint-and-poisoned-entire-lakes-for-centuries-2000837937</id>
+    <title>[Tecnología] El uso de mercurio en pintura y la contaminación de lagos mayas</title>
+    <updated>2026-11-11T13:39:43.478578+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/the-ancient-maya-used-mercury-for-paint-and-poisoned-entire-lakes-for-centuries-2000837937"/>
+    <summary>En un estudio publicado en la revista Science Advances, investigadores encontraron altos niveles de mercurio en dos lagos mayas en México durante el período Clásico (250 CE a 900 CE). Los niveles de mercurio superaban los umbrales de toxicidad modernos. El equipo, compuesto principalmente por no arqueólogos, busca nuevos conocimientos sobre la arqueología maya. Los investigadores también encontraron evidencia de la desaparición de organismos en los lagos. Los niveles de mercurio eran hasta seis veces más altos que los umbrales modernos. El mercurio se utilizó en la pintura maya y probablemente se contaminó el agua y la comida de las comunidades. Los investigadores creen que las comunidades mayas se expusieron a la contaminación durante siglos.
+
+Por qué importa:
+La contaminación de lagos mayas con mercurio es un tema interesante para entender la arqueología maya. Los investigadores buscan nuevos conocimientos sobre la sociedad maya y su relación con el medio ambiente.</summary>
+    <published>2026-11-11T12:30:07+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/tak0122/building-a-lightweight-kubernetes-environment-on-k3s-and-the-kubectl-command-on-wsl2-windows-11-9pc</id>
     <title>[Programación] Construyendo un entorno ligero de Kubernetes en K3s y el comando kubectl en WSL2 de Windows 11</title>
-    <updated>2026-11-10T15:18:20.827410+00:00</updated>
+    <updated>2026-11-11T13:39:43.478542+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -363,7 +363,7 @@ Este artículo es útil para aquellos que buscan aprender a utilizar K3s y el co
   <entry>
     <id>https://dev.to/zediot/can-an-8-gb-edge-device-run-a-2-gb-model-budget-memory-at-peak-concurrency-4e92</id>
     <title>[Programación] Un modelo de 3.000.000.000 de parámetros ocupa aproximadamente 1,40 GiB de espacio en la memoria.</title>
-    <updated>2026-11-10T15:18:20.827371+00:00</updated>
+    <updated>2026-11-11T13:39:43.478503+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -377,7 +377,7 @@ La pregunta de si un modelo de 2 GB puede ejecutarse en un dispositivo de 8 GB d
   <entry>
     <id>https://dev.to/edison_flores_6d2cd381b13/143-prs-en-6-semanas-lo-que-un-agente-ai-aprendio-contribuyendo-a-open-source-1dn8</id>
     <title>[Programación] 143 PRs en 6 semanas: lo que un agente AI aprendió contribuyendo a open source</title>
-    <updated>2026-11-10T15:18:20.827318+00:00</updated>
+    <updated>2026-11-11T13:39:43.478467+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -391,7 +391,7 @@ La transparencia y la honestidad son fundamentales en el ecosistema open source;
   <entry>
     <id>https://dev.to/alpomar/the-cookie-cutter-method-fast-estimates-for-repetitive-work-g59</id>
     <title>[Programación] El método de la tijera de galleta: estimaciones rápidas para el trabajo repetitivo</title>
-    <updated>2026-11-10T15:18:20.827227+00:00</updated>
+    <updated>2026-11-11T13:39:43.478427+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -401,5 +401,33 @@ La transparencia y la honestidad son fundamentales en el ecosistema open source;
 Por qué importa:
 El método de la tijera de galleta se basa en la experiencia y la observación de los equipos que trabajan en proyectos repetitivos; En el mundo de los juegos y la realidad virtual, los equipos crean 3D environments inspirados en el mundo real, lo que requiere una comprensión de la complejidad y el volumen de los proyectos. El método de la tijera de galleta es una herramienta para capturar esta experiencia y utilizarla para estimar el tiempo de entrega de manera más precisa.</summary>
     <published>2026-11-10T14:53:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://maurycyz.com/projects/bad_jpeg/</id>
+    <title>[Programación] Regressive JPEGs</title>
+    <updated>2026-11-11T13:39:43.478373+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://maurycyz.com/projects/bad_jpeg/"/>
+    <summary>Un grupo de desarrolladores ha encontrado una forma de crear archivos JPEG progresivos que pueden mostrar imágenes de baja resolución antes de que la imagen completa esté cargada. Esto se logra dividiendo el archivo en múltiples "escáneres" que contienen diferentes niveles de precisión. Los escáneres se pueden concatenar para crear un archivo que muestra imágenes progresivas. Sin embargo, muchos decodificadores no pueden manejar este tipo de archivo y pueden dejar de funcionar después de un cierto número de escáneres. Los desarrolladores han encontrado una forma de crear archivos JPEG que pueden mostrar alrededor de 90 frames antes de que el navegador deje de funcionar. Esto se logra creando archivos JPEG que solo contienen escáneres de baja resolución. Los desarrolladores han creado ejemplos de cómo se pueden utilizar estos archivos para crear efectos como rickrolls y aplicaciones interactivas. Los archivos JPEG progresivos pueden ser creados utilizando herramientas como un hex editor o un programa de C. Los desarrolladores han encontrado que los navegadores como Chrome y Firefox pueden manejar estos archivos, mientras que otros navegadores pueden dejar de funcionar después de un cierto número de escáneres.
+
+Por qué importa:
+La creación de archivos JPEG progresivos es posible gracias a la forma en que se almacenan los datos de imagen en un archivo JPEG; Los archivos JPEG se dividen en múltiples "escáneres" que contienen diferentes niveles de precisión; Los escáneres se pueden concatenar para crear un archivo que muestra imágenes progresivas; Sin embargo, la forma en que se manejan estos archivos puede variar dependiendo del navegador y la plataforma. Los desarrolladores han encontrado formas de crear archivos JPEG que pueden mostrar alrededor de 90 frames antes de que el navegador deje de funcionar; Esto se logra creando archivos JPEG que solo contienen escáneres de baja resolución.</summary>
+    <published>2026-11-11T04:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/dipeshba/nuxt-3-is-end-of-life-migrate-to-nuxt-4-now-or-wait-for-nuxt-5-358m</id>
+    <title>[Programación] Nuxt 3 es el final de vida y se recomienda migrar a Nuxt 4 ahora o esperar a Nuxt 5.</title>
+    <updated>2026-11-11T13:39:43.478282+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/dipeshba/nuxt-3-is-end-of-life-migrate-to-nuxt-4-now-or-wait-for-nuxt-5-358m"/>
+    <summary>Nuxt 3 alcanzó el final de vida el 31 de julio de 2026 y ya no recibe actualizaciones de seguridad ni correcciones de bugs. Nuxt 4 es la única versión de Nuxt que se considera soportada para la mayoría de las aplicaciones de producción. El equipo de Nuxt prometió mantener Nuxt 4 durante al menos seis meses después del lanzamiento de Nuxt 5. La migración a Nuxt 4 es recomendada para aplicaciones que no requieren una gran cantidad de cambios. El equipo de Nuxt lanzó una guía de migración para ayudar a los desarrolladores a actualizar a Nuxt 4. Nuxt 5 se estima lanzará en Q4 de 2026. Nuxt 4 es soportado por al menos seis meses después de que Nuxt 5 se lance. El equipo de Nuxt prometió que la mayoría de los cambios de Nuxt 4 serán mínimos y que se pueden realizar con un mínimo de esfuerzo.
+
+Por qué importa:
+La decisión de Nuxt de finalizar el soporte para Nuxt 3 es importante porque afectará a los desarrolladores que utilizan esta versión de la plataforma. La migración a Nuxt 4 es una opción recomendada para aquellos que desean un paso pequeño y fácil.</summary>
+    <published>2026-11-11T12:55:31+00:00</published>
   </entry>
 </feed>
