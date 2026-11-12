@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-11T13:39:43.478262+00:00</updated>
+  <updated>2026-11-12T16:29:08.314006+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html</id>
-    <title>[Economía] Rise in Consumer Prices Complicates Fed's Inflation Fight</title>
-    <updated>2026-11-11T13:39:43.479390+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"/>
-    <summary>El índice de precios al consumidor aumentó un 0,4% en octubre, más del esperado, lo que proporciona nuevos signos de advertencia para la Reserva Federal en su lucha por reducir la inflación. Los costos de bienes y servicios aumentaron más del esperado en octubre, lo que proporciona nuevos signos de advertencia para la Reserva Federal en su lucha por reducir la inflación. Los economistas esperaban un aumento del 0,3%; El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés; El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés. El aumento en el índice de precios al consumidor fue mayor que el esperado, lo que puede hacer que la Reserva Federal considere aumentar los tipos de interés.
-
-Por qué importa:
-La Reserva Federal está considerando su próximo movimiento en cuanto a los tipos de interés, y el aumento en el índice de precios al consumidor en octubre puede habersele dado un impulso. El aumento en el índice de precios al consumidor puede habersele dado a la Reserva Federal un impulso para considerar aumentar los tipos de interés.</summary>
-    <published>2026-11-10T14:50:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html</id>
-    <title>[Economía] Anthropic establece precio de IPO entre $70 y $78</title>
-    <updated>2026-11-11T13:39:43.479357+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"/>
-    <summary>Anthropic, una empresa de inteligencia artificial, ha establecido un precio de IPO entre $70 y $78 por acción, lo que podría llevar a una posible debut en la bolsa de valores Nasdaq. La empresa ofrecerá 825 millones de acciones y espera comenzar a cotizar el 19 de noviembre. El precio de IPO podría generar hasta $64.35 mil millones en ingresos y hacer que la empresa valga hasta $1.405 mil millones en base de valor total. La empresa ha entrado en acuerdos con varias empresas para comprar $26 mil millones de acciones de su clase N común. El CEO de Anthropic, Dario Amodei, co-fundó la empresa en 2021 y ha estado trabajando en el desarrollo de modelos de inteligencia artificial. La empresa ha reportado una ganancia de $33.24 mil millones en ingresos en el período de nueve meses que ha presentado su solicitud de IPO. El CEO de Anthropic ha expresado su ambición de ayudar a la humanidad a navegar por la evolución tecnológica de manera segura. La empresa ha presentado un prospecto en el que sus fundadores han escrito que su objetivo es "chartar un curso seguro" a través de la evolución tecnológica.
-
-Por qué importa:
-Anthropic está a punto de debutar en la bolsa de valores Nasdaq con un precio de IPO entre $70 y $78 por acción; La empresa ha establecido un precio de IPO que podría generar hasta $64.35 mil millones en ingresos y hacer que la empresa valga hasta $1.405 mil millones en base de valor total. La empresa ha entrado en acuerdos con varias empresas para comprar $26 mil millones de acciones de su clase N común; El CEO de Anthropic, Dario Amodei, co-fundó la empresa en 2021 y ha estado trabajando en el desarrollo de modelos de inteligencia artificial; La empresa ha reportado una ganancia de $33.24 mil millones en ingresos en el período de nueve meses que ha presentado su solicitud de IPO.</summary>
-    <published>2026-11-10T14:50:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html</id>
-    <title>[Economía] Nvidia comparte un día de recuperación tras el escándalo que rodea a su CEO</title>
-    <updated>2026-11-11T13:39:43.479322+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"/>
-    <summary>Nvidia vio sus acciones subir el miércoles después de dos días de caída, tras el escándalo que rodea a su CEO Jensen Huang, quien se encuentra bajo escrutinio debido a su supuesto affair con una supuesta espía china. Las acciones de la empresa cayeron el lunes y martes, con una caída del 5.47% el martes, pero luego recuperaron el 5.3% en premarket trading. La empresa anunció que había contratado a una firma de abogados para investigar si se comprometieron secretos de la empresa o la seguridad nacional. Los inversores están evaluando si el escándalo afectará negativamente a la empresa. Analistas de diferentes firmas, como Bank of America y Morgan Stanley, han expresado su preocupación por el impacto que podría tener el escándalo en la empresa y su CEO. La empresa tiene sus cuartos generales en el estado de Georgia, donde se encuentra el centro de la investigación.
-
-Por qué importa:
-El escándalo que rodea a Jensen Huang es importante porque afecta directamente a la reputación de la empresa y su capacidad para liderar; La empresa es líder en el mercado de la inteligencia artificial y su CEO es clave para su estrategia. El impacto del escándalo en la empresa podría ser significativo, no solo para su valoración, sino también para su capacidad para innovar y liderar en el mercado.</summary>
-    <published>2026-11-11T10:56:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html</id>
-    <title>[Economía] Measles is surging in the U.S. — and outbreaks can cost millions</title>
-    <updated>2026-11-11T13:39:43.479285+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html"/>
-    <summary>En 2026, más de 5.100 casos de measles se han reportado en Estados Unidos, lo que marca el peor brote en más de tres décadas. Se han confirmado ocho muertes asociadas con la enfermedad en 2026, seis en Pennsylvania, una en Nueva York y una en Wisconsin. El costo estimado de los brotes de 2025 es de $83 millones, incluyendo $56 millones en respuesta a la salud pública, $25 millones en pérdidas de productividad y $1.8 millones en gastos médicos directos. En 2025, hubo 2.289 casos confirmados de measles en todo el país, lo que generó un costo estimado de más de $37 millones. El costo de los brotes de measles puede variar según el estado, con un ejemplo en Nueva York donde se estimó un costo de $1.1 millones por 48 casos. En Texas, el epicentro del mayor brote de measles en 2025, se estimó un costo de $13 millones, incluyendo $9 millones en respuesta a la salud pública y $4 millones en pérdidas de productividad. El costo de los brotes de measles se estima en $59.000 por caso, según un estudio de 2025 que examinó los costos de los brotes en 18 estados. El costo de los brotes de measles puede ser muy alto, con un estudio que estimó un costo de $90 millones para un brote hipotético de 1.500 casos.
-
-Por qué importa:
-Los brotes de enfermedades como la patena pueden ser costosos de tratar y contener, y pueden divertir recursos para los departamentos de salud estatales y locales.</summary>
-    <published>2026-11-11T12:00:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html</id>
-    <title>[Economía] Zelenskyy advierte que Ucrania no es "propiedad" como expertos dicen que un acuerdo de paz con Rusia sigue siendo inalcanzable</title>
-    <updated>2026-11-11T13:39:43.479250+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"/>
-    <summary>El presidente ucraniano Volodymyr Zelenskyy advirtió que su país "no es propiedad" durante las conversaciones de paz en Abu Dhabi entre representantes rusos y ucranianos. Zelenskyy expresó su satisfacción con las discusiones, pero no tiene expectativas de avances significativos en la negociación. El experto ucraniano Mykola Bielieskov considera que la única forma de compromiso es el intercambio de prisioneros de guerra. El envoy estadounidense Jared Kushner afirmó que está trabajando para establecer la seguridad necesaria para un Ucrania soberana y próspera. La negociación sigue sin avanzar debido a las diferencias sobre la frontera y la soberanía rusa. El experto Maximilian Hess considera que poco se ha logrado en las últimas reuniones.
-
-Por qué importa:
-La negociación de paz en Abu Dhabi es crucial para encontrar una solución al conflicto en Ucrania. La tensión entre Rusia y Occidente sigue siendo alta, y la negociación puede ser un paso importante para encontrar una solución pacífica.</summary>
-    <published>2026-11-11T12:12:48+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html</id>
     <title>[Economía] Consumidores muestran signos de estrés incluso mientras continúan gastando</title>
-    <updated>2026-11-11T13:39:43.479213+00:00</updated>
+    <updated>2026-11-12T16:29:08.315281+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,93 +25,163 @@ La información proporcionada ofrece una visión de cómo la inflación y los pr
     <published>2026-11-11T12:27:47+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/</id>
-    <title>[Data Science] Cómo validar el output de LLM en un flujo de trabajo de DuckDB y dbt</title>
-    <updated>2026-11-11T13:39:43.479178+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html</id>
+    <title>[Economía] Trump dice que "no necesitamos un acuerdo con Irán"</title>
+    <updated>2026-11-12T16:29:08.315244+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"/>
-    <summary>Un autor utilizó un modelo de Gemini Flash-Lite en una capa de inteligencia artificial para procesar datos de empleo. Sin embargo, un problema de codificación de caracteres en los datos de RemoteOk causó que el modelo produjera texto incorrecto. El autor agregó una función para reparar el error de codificación y probó la función con varios ejemplos. Luego, agregó funciones de validación para verificar si el modelo había extraído correctamente las habilidades requeridas y la información de Nigeria para cada trabajo. El autor también agregó una función de validación para verificar si el modelo había extraído correctamente más del 20% de los trabajos sin ser leídos. El tamaño del conjunto de datos es la limitación más grande ahora, pero el autor espera que el tamaño del conjunto de datos cambie con el tiempo.
+    <link href="https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"/>
+    <summary>El presidente Donald Trump dijo que el país no necesita un acuerdo con Irán, y que en cambio, el vicepresidente JD Vance debe enfocarse en combatir la corrupción y el crimen en las ciudades y estados demócratas. Esto viene después de las elecciones del medio mandato, en las que los republicanos sufrieron grandes pérdidas. El presidente Trump también mencionó que el país ya tiene "hundreds of billions of dollars" y el control del estrecho de Hormuz, lo que hace que la necesidad de un acuerdo sea innecesaria. El vicepresidente Vance había estado considerando hablar con un alto oficial de seguridad iraní. La noticia de Trump ha causado una caída en los futuros de Wall Street. El conflicto con Irán, que comenzó en febrero, ahora está en su novena semana sin una solución clara. La guerra ha aumentado los precios de la energía global, lo que ha afectado la economía y ha aumentado las preocupaciones sobre la inflación y la afabilidad. El presidente Trump también ha intentado cambiar el tema, acusando a los estados demócratas de permitir la corrupción y el crimen. El vicepresidente Vance ha sido instruido para enfocarse en la lucha contra la corrupción y el crimen en estos estados.
 
 Por qué importa:
-Esta noticia es importante porque muestra cómo un autor utilizó un modelo de inteligencia artificial para procesar datos de empleo y cómo agregó funciones de validación para mejorar la precisión del modelo. El uso de un modelo de inteligencia artificial para procesar datos de empleo es relevante para aquellos que buscan entender mejor el mercado laboral y las habilidades requeridas.</summary>
-    <published>2026-11-10T13:30:00+00:00</published>
+La noticia de Trump es un intento de cambiar el tema después de las elecciones del medio mandato, en las que los republicanos sufrieron grandes pérdidas. La guerra con Irán ha sido un tema polémico y ha generado preocupación sobre la seguridad y la economía; La corrupción y el crimen en los estados demócratas también han sido un tema de debate en las elecciones.</summary>
+    <published>2026-11-12T14:15:05+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/</id>
-    <title>[Data Science] una sesión de inicio de sesión de Claude Code aumentó su habilidad de 15% a 62%</title>
-    <updated>2026-11-11T13:39:43.479143+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html</id>
+    <title>[Economía] Análisis: La salida de Jensen Huang prueba el papel de Nvidia como "banca central del AI"</title>
+    <updated>2026-11-12T16:29:08.315206+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"/>
-    <summary>En una sesión de prueba, se corrió el prompt 18 veces para escribir pruebas de pytest para una función de Python con un fixture de datos de ejemplo. Se utilizaron 26 habilidades públicas para probar, debugar y revisar el código, incluyendo Claude Code y sus habilidades Haiku, Sonnet y Opus. El 15% de las ejecuciones con descripciones originales y el 62% con la herramienta Superpowers lograron activar la habilidad en todas las ejecuciones. El hook de inicio de sesión de Superpowers aumentó la tasa de firing en indirectos en 47 puntos, y en directos en 36 puntos. El hook de Superpowers se utilizó en 936 runs, lo que permitió probar su efecto en una muestra más grande que la del pushy sentence. El pushy sentence aumentó la tasa de firing en indirectos en 5 puntos, con un intervalo de 2.2 a 8.3 puntos. La tasa de firing en indirectos aumentó de 15% a 62% en Opus, y de 49% a 85% en directos, con un aumento significativo en Sonnet y Haiku. El hook de Superpowers se utilizó en 12 de 18 runs de Jest, lo que sugiere que puede tener un efecto positivo en ciertos
+    <link href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"/>
+    <summary>La salida del CEO de Nvidia, Jensen Huang, genera preocupación sobre el impacto en el sistema financiero. La empresa ha comprometido billones de dólares en apuestas financieras con otras empresas para impulsar el crecimiento del sector de la inteligencia artificial. Los reguladores están vigilando estrechamente la exposición de las instituciones financieras a Nvidia y otras empresas similares. Aunque Huang's salida hace que sea difícil predecir el futuro de la empresa, los analistas esperan que su recaudación de ingresos siga siendo sólida. La empresa ha establecido acuerdos con varias empresas para proporcionar servicios de nube, lo que podría mitigar el impacto de su salida. Sin embargo, si el valor de las placas de GPU de Nvidia cae, podría provocar problemas de deuda en las empresas que las compraron. Los reguladores están preocupados por el riesgo de que el sector de la inteligencia artificial se vuelva inestable y afecte a la economía en general.
 
 Por qué importa:
-s; CONTEXTO_ES: Esta noticia es importante porque muestra el potencial de las herramientas de automatización de código para mejorar la eficiencia y la precisión en la creación de habilidades de código. El uso de un hook de inicio de sesión de Superpowers permitió aumentar la tasa de firing en indirectos en 47 puntos, lo que sugiere que esta herramienta puede ser una herramienta valiosa para los desarrolladores de código.</summary>
-    <published>2026-11-10T15:00:00+00:00</published>
+La salida de Huang genera preocupación sobre el impacto en el sistema financiero, ya que Nvidia ha comprometido billones de dólares en apuestas financieras con otras empresas para impulsar el crecimiento del sector de la inteligencia artificial. Los reguladores están vigilando estrechamente la exposición de las instituciones financieras a Nvidia y otras empresas similares.</summary>
+    <published>2026-11-12T14:55:16+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/</id>
-    <title>[Data Science] Scikit-Learn Matched o Beat Jev's Calibration on BANKING77</title>
-    <updated>2026-11-11T13:39:43.479109+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html</id>
+    <title>[Economía] La fortuna conjunta de Jensen y Lori Huang en Nvidia es objeto de dudas tras su renuncia</title>
+    <updated>2026-11-12T16:29:08.315168+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/"/>
-    <summary>El modelo Jev, desarrollado por TypeSafe AI, ha demostrado una precisión de 0.022 en la prueba de BANKING77, superando a un modelo de logistic regression calificado con isotónica. El modelo Jev utiliza el método de RLCD para tomar decisiones y tiene una confianza bajo en las respuestas verdaderas. En el 7-intent task, el modelo auto-decide el 21.2% de las solicitudes con un umbral de 0.90. El modelo Jev también tiene una precisión de 0.975 en las respuestas de Choice y una ECE de 0.014. El modelo Jev es mejor que un modelo de logistic regression calificado con isotónica en la prueba de 77 intentos. El modelo Jev se entrenó con un método que recompensa respuestas que coinciden con la realidad.
+    <link href="https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html"/>
+    <summary>Jensen Huang, CEO de Nvidia, ha renunciado a su cargo, lo que genera incertidumbre sobre su fortuna conjunta con su esposa, Lori Huang. La pareja juntos posee alrededor de 800 millones de acciones de Nvidia, valiosas en aproximadamente $135 mil millones, a través de una red de trusts y LLCs creados para fines de impuestos y planificación de sucesiones. Este tipo de estructura es común entre fundadores y CEOs de la industria tecnológica, pero es menos común que una pareja tenga una participación igual en la propiedad de acciones. La situación se complica aún más debido a la renuncia de Huang, pero podría proporcionar estabilidad para las acciones, ya que los trusts dificultan la venta rápida de acciones por parte de ambos. La estructura de trusts también genera incertidumbre sobre cómo se distribuirán las acciones en caso de divorcio o muerte. Los expertos en impuestos y planificación de sucesiones consideran que la estructura de trusts puede proporcionar beneficios fiscales significativos, pero también puede ser complicada de cambiar. La renuncia de Huang genera preguntas sobre su futuro financiero y cómo se distribuirán sus acciones. La situación también genera interés entre los inversores y los medios de comunicación. La fortuna conjunta de Jensen y Lori Huang en Nvidia es objeto de estudio y análisis.
 
 Por qué importa:
-El modelo Jev es importante porque ofrece una mejor calibración que otros modelos, lo que puede mejorar la precisión de las decisiones. La calibración es un aspecto crítico en la toma de decisiones, ya que puede afectar la confianza en las respuestas; El modelo Jev utiliza un método de RLCD para tomar decisiones, lo que lo hace más eficiente y preciso.</summary>
-    <published>2026-11-10T16:30:00+00:00</published>
+La renuncia de Jensen Huang como CEO de Nvidia genera interés y preocupación entre los inversores y los medios de comunicación; La estructura de trusts que posee la pareja genera incertidumbre sobre cómo se distribuirán sus acciones en caso de divorcio o muerte. Los expertos en impuestos y planificación de sucesiones consideran que la estructura de trusts puede proporcionar beneficios fiscales significativos, pero también puede ser complicada de cambiar; La situación también genera preguntas sobre el futuro financiero de Jensen Huang y cómo se distribuirán sus acciones; La renuncia de Huang puede tener un impacto en el valor de las acciones de Nvidia y en la reputación de la empresa.</summary>
+    <published>2026-11-12T15:03:59+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/</id>
-    <title>[Data Science] Sandboxing AI Agent Code Execution en Python: Contenedores, MicroVMs y Más</title>
-    <updated>2026-11-11T13:39:43.479076+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html</id>
+    <title>[Economía] Una renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro</title>
+    <updated>2026-11-12T16:29:08.315128+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"/>
+    <summary>Nvidia anunció la renuncia de su CEO, Jensen Huang, después de más de 30 años en el cargo. La empresa tiene un problema de liderazgo después de que Huang admitió tener una relación romántica con una mujer que la inteligencia de EE. UU; cree que es una espía china; El precio de acción de Nvidia cayó más del 12% después de la anunciación de la renuncia de Huang. El analista Ben Reitzes de Melius Research bajó su rating de Nvidia de "comprar" a "hold" después de la renuncia de Huang. El precio de acción de Nvidia bajó 6% después de la anunciación de la renuncia de Huang. El analista Mark Lipacis bajó su precio de acción de Nvidia de $465 a $186 después de la renuncia de Huang. El analista Sebastien Naji de William Blair bajó su rating de Nvidia de "outperform" a "market perform" después de la renuncia de Huang. El analista Rick Schafer bajó su rating de Nvidia de "outperform" a "perform" después de la renuncia de Huang. La empresa tiene 40,000 empleados y "real talent" que el consejo puede utilizar para ejecutar los planes existentes. La empresa no tiene un plan de sucesión claro y esto podría hacer que su valor disminuya.
+
+Por qué importa:
+La renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro en el mercado de la inteligencia artificial. La empresa tiene una gran dependencia de Huang y su partida podría exponer a la empresa como un riesgo para el mercado.</summary>
+    <published>2026-11-12T15:22:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html</id>
+    <title>[Economía] Jensen Huang's exit from Nvidia raises critical questions about the future of AI</title>
+    <updated>2026-11-12T16:29:08.315089+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html"/>
+    <summary>Jensen Huang, CEO de Nvidia, dejó la empresa después de 33 años de fundación, lo que genera preocupación sobre el futuro de la inteligencia artificial. Michael Dell lo describió como un "visionario de la era de la inteligencia artificial". Deutsche Telekom CEO Tim Höttges dijo que una foto con el CEO de Nvidia produjo más cobertura de medios para su empresa que su lanzamiento de iPhone. Marc Benioff, CEO de Salesforce, expresó su apoyo a Huang. Jensen Huang anunció un plan de $500 mil millones para construir una infraestructura de inteligencia artificial. Nvidia se convirtió en la primera empresa en superar una capitalización de mercado de $5 trillones; Colette Kress, CFO de Nvidia, fue nombrada interim CEO. Los ejecutivos y socios de Nvidia informaron que Huang frecuentemente ofrecía su ayuda en momentos difíciles a CEOs de otras empresas. La empresa Alembic recibió préstamos de Nvidia después de que Huang le envió un correo electrónico para ayudar en momentos de crisis. En 2024, Nvidia comenzó a apoyar a la startup Fireworks AI, que fue afectada por una serie de ataques cibernéticos. Fireworks AI estaba "dealing with a series of high-profile cyberattacks" cuando Huang se disculpó públicamente por su infidelidad.
+
+Por qué importa:
+La salida de Jensen Huang de Nvidia genera preocupación sobre el futuro de la inteligencia artificial, ya que su experiencia y conocimientos en el sector son fundamentales. La empresa necesita encontrar un sucesor capaz de liderar la innovación en inteligencia artificial.</summary>
+    <published>2026-11-12T15:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/</id>
+    <title>[Data Science] ¿Dónde están los "aplicativos killer" de la inteligencia artificial?</title>
+    <updated>2026-11-12T16:29:08.315049+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/"/>
+    <summary>En la década de 1970, los primeros ordenadores personales revolucionaron la forma en que las personas interactuaban con la tecnología. En 1993, se demostró el primer sitio web comercial, y en 1995 y 1996, se consideró que Microsoft y Netscape estaban en una batalla por el dominio del servidor web y el navegador. Sin embargo, la creación de aplicaciones sobre el navegador dio valor; En la actualidad, se considera que ChatGPT, Claude, Gemini y otros agentes de código son los navegadores de esta era, pero no han demostrado ser el "aplicativo killer" aún. La creación de un "aplicativo killer" implica que la tecnología revoluciona la forma en que las personas interactúan con ella y se vuelve una parte integral de su vida diaria. La plataforma de AI es similar a la web en la medida en que requiere una plataforma sólida para funcionar, pero aún no se ha encontrado el "aplicativo killer" para la AI. La creación de un "aplicativo killer" requiere que los desarrolladores creen algo que cambie la forma en que las personas interactúan con la tecnología y se convierta en una parte integral de su vida diaria. En 1985, se lanzó Aldus PageMaker y el Apple LaserWriter, que se convirtieron en el "killer app" de la interfaz gráfica de usuario. En 1994, Netscape introdujo HTTPS y lo hizo disponible en su navegador, lo que hizo que fuera seguro ingresar números de tarjeta de crédito en una página web. La empresa Google invirtió capital en la construcción de centros de datos y fibra óptica; La empresa Amazon fue una tienda de libros con más libros que cualquier tienda física podría albergar. En 2000, los operadores de telecomunicaciones estadounidenses invirtieron aproximadamente $97 mil millones en capital en su infraestructura; En 2005, YouTube se fundó sobre una banda ancha barata que alguien más había pagado antes de salir de negocio.
+
+Por qué importa:
+La creación de un "aplicativo killer" de la inteligencia artificial es importante porque revolucionaría la forma en que las personas interactúan con la tecnología y se vuelve una parte integral de su vida diaria. La plataforma de AI es similar a la web en la medida en que requiere una plataforma sólida para funcionar, pero aún no se ha encontrado el "aplicativo killer" para la AI.</summary>
+    <published>2026-11-11T15:43:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/</id>
+    <title>[Data Science] Se utiliza la tecnología de ropa de deporte para crear un perfil de riesgo cardiovascular-renal-metabólico personalizado</title>
+    <updated>2026-11-12T16:29:08.315010+00:00</updated>
+    <author>
+      <name>The latest research from Google</name>
+    </author>
+    <link href="https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/"/>
+    <summary>Zeinab Esmaeilpour y Ahmed A; Metwally, investigadores de Google Research, han desarrollado un marco de aprendizaje de máquina investigativo que traduce señales pasivas de ropa de deporte en una edad de salud modifiable. El estudio identifica que el síndrome cardiovascular-renal-metabólico (CKM) es una condición interconectada que comienza a declinar silenciosamente años antes de que aparezcan los síntomas. El estudio muestra que la CKM saludable se relaciona estrechamente con la salud general y que la personalización es clave para mejorar la salud. El estudio desarrolla un modelo de salud que combina señales pasivas de ropa de deporte con biomarcadores de sangre rutinarios para perfilar la CKM en individuos. Los modelos investigativos presentados son prototipos de herramientas diagnósticas, pero no deben ser utilizados para fines clínicos. La investigación se llevó a cabo en colaboración con equipos de Google Research y otros equipos de investigación. El trabajo ha sido realizado por un equipo diverso de investigadores, incluyendo a Zeinab Esmaeilpour, Simon A; Lee y otros. El estudio se llevó a cabo durante 12 semanas y muestra que la CKM saludable se relaciona estrechamente con la salud general. El estudio identifica que el síndrome cardiovascular-renal-metabólico (CKM) es una condición interconectada que comienza a declinar silenciosamente años antes de que aparezcan los síntomas. El estudio desarrolla un marco de salud que combina señales pasivas de ropa de deporte con biomarcadores de sangre rutinarios para perfilar la CKM en individuos.
+
+Por qué importa:
+Este estudio es importante porque puede ayudar a prevenir enfermedades crónicas relacionadas con la salud cardiovascular, renal y metabólica. La tecnología de ropa de deporte puede ser una herramienta útil para la detección temprana de estas enfermedades, permitiendo a los individuos tomar medidas preventivas para mejorar su salud.</summary>
+    <published>2026-11-11T19:54:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/</id>
+    <title>[Data Science] Obtener salidas estructuradas confiables de LLMs: Validación, intentos y decodificación restringida</title>
+    <updated>2026-11-12T16:29:08.314971+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/"/>
-    <summary>En el escenario de seguridad para el código de un agente, se basa en la creación de un límite alrededor del lugar donde se ejecuta el código. En noviembre de 2025, tres vulnerabilidades de runc permitieron a los atacantes romper las contenedores. Docker lanzó Docker Sandboxes en microVMs en abril de 2026. AWS ofrece Lambda MicroVMs, que mantienen el estado durante hasta 8 horas y se suspenden cuando están inactivos. La expectativa es que los microVMs se conviertan en la frontera predeterminada para el código de agentes. Un agente necesita una frontera, y cada capa la mueve. Se construyeron todos tres detrás de una interfaz de ejecución única, se los probó contra la misma serie de ataques y se creó un script para medir el costo de latencia. Se testean las fronteras con seis ataques. La primera parte de sandbox.py contiene el tipo de resultado compartido y el backend de subprocess. La segunda parte agrega el backend de contenedor; La tercera parte envuelve E2B, que crea un nuevo sandbox para cada ejecución.
+    <link href="https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/"/>
+    <summary>La API de respuestas de OpenAI promete una respuesta que se ajusta a un esquema de JSON o un modelo Pydantic. El SDK de Python proporciona un objeto parseado en lugar de una cadena, y la mayoría de las tutoriales terminan en el momento en que el JSON se parsea. El contrato tiene cuatro campos y el usuario es el propietario del campo, no la solicitud; Las dos opciones de configuración hacen la mayor parte del trabajo: modo estricto y extra='forbid'. La función accept() ejecuta cuatro pasos y termina en uno de cuatro estados: aceptado, necesita revisión, rechazado o error de forma; El presupuesto de tres es real solo si también se propietaria de los intentos de transporte. La API de OpenAI Python reintenta errores de conexión, tiempos de espera, respuestas 409, 429 y 5xx dos veces por defecto con un retroalimento exponencial. Un modelo de lenguaje puede producir una respuesta con un código fence, una oración adicional o un extra key, independientemente de la solicitud. La guía estructurada de OpenAI para el SDK de Python, como de octubre de 2026, utiliza la función client.responses.parse(...) con text_format=Invoice. La función accept() en el pipeline verifica la forma del objeto, pero no garantiza que el valor de total_cents sea exactamente 125000; La función accept() en el pipeline garantiza que total_cents sea un número entero, no que sea 125000. La función accept() en el pipeline solo verifica la forma del objeto, no su contenido; La función accept() en el pipeline solo verifica la forma del objeto, no su contenido. La función accept() en el pipeline solo verifica la forma del objeto, no su contenido; La función accept() en el pipeline solo verifica la forma del objeto, no su contenido.
 
 Por qué importa:
-La seguridad del código de los agentes es crucial en la era de la inteligencia artificial. Los microVMs ofrecen una solución a este problema, proporcionando a cada ejecución su propio núcleo detrás de un hipervisor.</summary>
-    <published>2026-11-11T11:00:27+00:00</published>
+Es importante entender cómo funcionan las API de respuestas de LLMs y cómo se pueden utilizar para obtener salidas estructuradas confiables. La validación y el reintentado son fundamentales para garantizar la precisión de las respuestas.</summary>
+    <published>2026-11-12T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/</id>
-    <title>[Data Science] A Jev de todas las habilidades: Construye y entrena un modelo de decisión Jev desde cero</title>
-    <updated>2026-11-11T13:39:43.479042+00:00</updated>
+    <id>https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/</id>
+    <title>[Data Science] Git necesita ayuda: De archivos a sistemas para control de fuentes</title>
+    <updated>2026-11-12T16:29:08.314935+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>Radar</name>
     </author>
-    <link href="https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/"/>
-    <summary>El modelo Jev-inspired superó al modelo Qwen en las mismas preguntas de patología, alcanzando un promedio del 96,22-97,96% de recall en las preguntas de reconocimiento de clases. En categorías familiares, las decisiones correctas fueron del 67.00% versus el 43.00% para Qwen. El modelo Jev-inspired también alcanzó un promedio del 70,97% de recall en las preguntas de reconocimiento de categorías adicionales. El modelo Jev-inspired puede evaluar sus descripciones escritas sin necesidad de entrenamiento adicional y alcanzó un promedio del 76,28% de recall en las preguntas de reconocimiento de clases. El modelo Jev-inspired también superó al modelo Qwen en la comparación, alcanzando una precisión del 66,00-67,00% en la decisión final. El modelo Jev-inspired puede representar una opción de respuesta que no está dentro del catálogo de etiquetas aprendidas y puede comparar una imagen con un texto y calcular un puntaje para una opción de respuesta.
+    <link href="https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/"/>
+    <summary>En 2005, Git fue diseñado para resolver problemas de colaboración en terminales, pero en 2026, los agentes de código autónomos no piensan en archivos de texto ni en saltos de línea. El autor argumenta que Git debe evolucionar para tratar a los agentes de código como un artefacto de primera clase, versionado junto con el código. Esto requiere un cambio en la arquitectura de Git para tratar de sistemas de código en lugar de archivos de texto. El autor describe cómo este cambio puede mejorar la eficiencia y la seguridad del control de fuentes. El cambio requiere una reestructuración de la herramientería de desarrollo y puede ser difícil de implementar debido a la profundidad del ecosistema de Git. Sin embargo, el autor argumenta que es necesario para permitir a los agentes de código trabajar de manera segura y eficiente a gran escala.
 
 Por qué importa:
-El modelo Jev-inspired es un modelo de decisión que superó al modelo Qwen en las mismas preguntas de patología, lo que indica que el modelo Jev-inspired es más eficaz en este tipo de preguntas. La precisión del modelo Jev-inspired también es mayor que la del modelo Qwen en algunas categorías, lo que sugiere que el modelo Jev-inspired es más preciso en estas áreas.</summary>
-    <published>2026-11-11T12:00:00+00:00</published>
+El autor argumenta que la actual arquitectura de Git es inadecuada para manejar la complejidad de los agentes de código autónomos; Los agentes de código no piensan en archivos de texto ni en saltos de línea, sino que razonan en árboles de sintaxis, gráficos de ejecución y restricciones de tipo. El autor describe cómo la actual arquitectura de Git se vuelve ineficiente y vulnerable a errores cuando se intenta manejar la complejidad de estos agentes de código; El cambio a un sistema de código en lugar de archivos de texto puede mejorar la eficiencia y la seguridad del control de fuentes.</summary>
+    <published>2026-11-12T11:54:27+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes</id>
-    <title>[Data Science] Nueve métricas clave para la inferencia de LLM explicadas en 5 minutos</title>
-    <updated>2026-11-11T13:39:43.479007+00:00</updated>
+    <id>https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems</id>
+    <title>[Data Science] 7 libros gratuitos para aprender sobre sistemas de inteligencia artificial</title>
+    <updated>2026-11-12T16:29:08.314898+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
-    <link href="https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes"/>
-    <summary>Un artículo explica cómo medir la performance de la inferencia de modelos de lenguaje grande (LLM) utilizando nueve métricas clave. Estas métricas ayudan a descomponer la performance en componentes medibles, desde el retraso inicial hasta la velocidad de generación de tokens y la carga del sistema. El artículo cubre cuatro valores que definen la latencia: el momento en que la solicitud sale del cliente, el momento en que llega el primer token de salida, el momento en que llega el último token de salida y el número de tokens de salida. Estas métricas son fundamentales para evaluar la latencia, identificar los puntos de congestión y rastrear la performance a lo largo del tiempo. El artículo también explica cómo calcular la velocidad de generación de tokens, la velocidad de streaming y la latencia total, y cómo utilizar estas métricas para evaluar la performance de un sistema de LLM. Además, el artículo cubre la relación entre la latencia y la velocidad de streaming, y cómo utilizar las métricas para comparar la performance de diferentes sistemas de LLM. En resumen, el artículo proporciona una visión completa de las métricas clave para la inferencia de LLM y cómo utilizarlas para evaluar y mejorar la performance de estos sistemas.
+    <link href="https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems"/>
+    <summary>El autor comparte 7 libros gratuitos que cubren la ingeniería de sistemas de inteligencia artificial, desde la preparación de datos pipelines hasta la depuración y el servicio. Estos libros abordan temas como la latencia de inferencia, la gestión de memoria y la depuración de modelos. El autor recomienda estos libros para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial y cómo construir aplicaciones que funcionen en producción. Los libros cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la creación de modelos hasta la depuración y el servicio. El autor destaca la importancia de aprender sobre la ingeniería de sistemas de inteligencia artificial para construir aplicaciones que sean confiables, rápidas y seguras. Los libros gratuitos compartidos por el autor son una excelente fuente de conocimiento para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial. El autor enfatiza la importancia de la práctica y la depuración para asegurarse de que los modelos funcionen correctamente en producción. Los libros compartidos por el autor cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la creación de modelos hasta la depuración y el servicio. El autor recomienda leer estos libros para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial y cómo construir aplicaciones que funcionen en producción.
 
 Por qué importa:
-El artículo es escrito por Bala Priya, una desarrolladora, educadora y escritora técnica basada en la India; Ella es conocida por escribir sobre temas como la inteligencia artificial, la ciencia de datos y la aprendizaje automático, con un enfoque en hacer que las ideas técnicas complejas sean prácticas y accesibles. El artículo es una guía práctica para desarrolladores que buscan entender mejor cómo funcionan los modelos de lenguaje grande y cómo pueden ser utilizados para mejorar la experiencia del usuario.</summary>
-    <published>2026-11-11T13:00:00+00:00</published>
+El autor es un experto en ingeniería de sistemas de inteligencia artificial y comparte sus conocimientos a través de 7 libros gratuitos; Estos libros cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la preparación de datos pipelines hasta la depuración y el servicio. El autor destaca la importancia de aprender sobre la ingeniería de sistemas de inteligencia artificial para construir aplicaciones que sean confiables, rápidas y seguras; Los libros compartidos por el autor son una excelente fuente de conocimiento para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial.</summary>
+    <published>2026-11-12T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit</id>
+    <title>[Data Science] Building Graph-Enhanced GenAI Applications con graphrag-toolkit</title>
+    <updated>2026-11-12T16:29:08.314863+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit"/>
+    <summary>AWS Labs ha lanzado el open-source graphrag-toolkit para mejorar la búsqueda de información relevante y la conexión de relaciones entre piezas de texto. El toolkit utiliza Neo4j y Postgres como opciones de almacenamiento local, y Amazon Bedrock como proveedor de modelos. El objetivo es crear un asistente de investigación que pueda responder preguntas que requieren información de varias artículos de Wikipedia. La herramienta puede ser utilizada para realizar búsquedas de manera escalable y eficiente en grandes conjuntos de datos. Deloitte utiliza el lexical-graph en su Amazon Neptune-based GenAI Security Intelligence Center. El graphrag-toolkit es una herramienta de código abierto que utiliza dos componentes: lexical-graph y BYOKG-RAG, para cerrar la brecha en la búsqueda de información relevante. La herramienta puede ser utilizada para realizar búsquedas de manera escalable y eficiente en grandes conjuntos de datos.
+
+Por qué importa:
+El graphrag-toolkit es una herramienta importante para mejorar la búsqueda de información relevante y la conexión de relaciones entre piezas de texto. La herramienta puede ser utilizada para crear un asistente de investigación que pueda responder preguntas que requieren información de varias artículos de Wikipedia, lo que puede ser especialmente útil en campos como la medicina y la ciencia.</summary>
+    <published>2026-11-12T15:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/</id>
     <title>[Fórmula 1] La carrera de Antonelli se vio afectada por problemas de manejo</title>
-    <updated>2026-11-11T13:39:43.478971+00:00</updated>
+    <updated>2026-11-12T16:29:08.314824+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -193,23 +193,9 @@ La carrera de Antonelli fue importante porque marcó el comienzo de su carrera c
     <published>2026-11-09T17:05:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29625</id>
-    <title>[Fórmula 1] Ferrari admite que luchó con las temperaturas de los neumáticos en São Paulo y emerge la preocupación por Las Vegas</title>
-    <updated>2026-11-11T13:39:43.478936+00:00</updated>
-    <author>
-      <name>F1Technical.net . Motorsport news</name>
-    </author>
-    <link href="https://www.f1technical.net/news/29625"/>
-    <summary>Ferrari luchó para mantener la temperatura óptima de los neumáticos durante el Gran Premio de São Paulo, lo que afectó la performance de Lewis Hamilton y Charles Leclerc. El equipo, liderado por Fred Vasseur, admitió que no pudo mantener un ritmo constante, lo que hizo que el coche fuera difícil de conducir. Hamilton, que comenzó desde la última posición, logró recuperarse y terminó en noveno lugar, pero su recuperación fue complicada por la falta de tiempo para cambiar a neumáticos intermedios. Leclerc, por otro lado, mejoró su posición con una estrategia de cambio de neumáticos, pero terminó en octavo lugar después de recibir una penalización por contactar a Liam Lawson. Vasseur expresó su admiración por Mercedes por ganar el campeonato de constructores y reconoció que Ferrari luchó para mantener la temperatura óptima de los neumáticos. El equipo principal francés identificó la falta de manejo de temperatura de los neumáticos como una de sus mayores debilidades durante la carrera. La preocupación de Vasseur es que este problema pueda surgir de nuevo en Las Vegas, donde las bajas temperaturas podrían crear un desafío similar. El equipo busca mejorar su desempeño en condiciones similares.
-
-Por qué importa:
-La lucha de Ferrari por mantener la temperatura óptima de los neumáticos durante el Gran Premio de São Paulo es un problema que afecta la performance de los coches. La preocupación de Vasseur por la posibilidad de que este problema se repita en Las Vegas es un recordatorio de que la preparación y la estrategia son fundamentales en el mundo del automovilismo.</summary>
-    <published>2026-11-09T23:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.f1technical.net/news/29622</id>
     <title>[Fórmula 1] Stella pide al equipo McLaren que celebren su victoria en el GP de São Paulo</title>
-    <updated>2026-11-11T13:39:43.478902+00:00</updated>
+    <updated>2026-11-12T16:29:08.314789+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -223,7 +209,7 @@ La victoria de McLaren en el GP de São Paulo es importante porque muestra la ca
   <entry>
     <id>https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/</id>
     <title>[Fórmula 1] No F1 engine manufacturers recibirán actualizaciones adicionales después de la evaluación ADUO del FIA</title>
-    <updated>2026-11-11T13:39:43.478869+00:00</updated>
+    <updated>2026-11-12T16:29:08.314752+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -237,7 +223,7 @@ La evaluación ADUO es un sistema que busca equilibrar el rendimiento de los mot
   <entry>
     <id>https://www.f1technical.net/news/29630</id>
     <title>[Fórmula 1] Russell admite haber tomado demasiada riesa en la salida de la curva de la pista después de su error extraño en São Paulo</title>
-    <updated>2026-11-11T13:39:43.478831+00:00</updated>
+    <updated>2026-11-12T16:29:08.314709+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -251,7 +237,7 @@ El título de Mercedes fue el resultado de un trabajo en equipo que involucró a
   <entry>
     <id>https://www.f1technical.net/news/29631</id>
     <title>[Fórmula 1] FIA confirma no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de F1 después de la tercera evaluación de ADUO</title>
-    <updated>2026-11-11T13:39:43.478794+00:00</updated>
+    <updated>2026-11-12T16:29:08.314665+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -263,163 +249,93 @@ La FIA ha confirmado que no se otorgan más homologaciones de actualización a l
     <published>2026-11-10T16:01:54+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</id>
-    <title>[Tecnología] Reddit es turning user conversations into AI-powered product reviews</title>
-    <updated>2026-11-11T13:39:43.478757+00:00</updated>
-    <author>
-      <name>TechCrunch</name>
-    </author>
-    <link href="https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"/>
-    <summary>Reddit ha lanzado una nueva característica llamada "Reddit Reviews" que organiza las conversaciones de los usuarios sobre productos en reseñas estructuradas. Esta característica utiliza inteligencia artificial para resumir los puntos clave y las opiniones de los usuarios en diferentes comunidades. El objetivo es ayudar a los consumidores a tomar decisiones informadas al comprar productos. La característica se ha estado testando desde febrero y ahora se está expandiendo a todos los usuarios de Estados Unidos. Reddit ha implementado medidas para combatir el astroturfing y garantizar la autenticidad de las reseñas. La característica se puede acceder a través de la barra de búsqueda o haciendo clic en el nombre del producto en un comentario. Los usuarios pueden filtrar las reseñas por tema y leer las conversaciones originales. Reddit Reviews llega justo a tiempo para la temporada de compras de Navidad, cuando las personas pasan más tiempo haciendo investigación de productos en línea.
-
-Por qué importa:
-La característica de "Reddit Reviews" es importante porque puede ayudar a los consumidores a tomar decisiones informadas al comprar productos. La característica utiliza inteligencia artificial para resumir las opiniones de los usuarios en diferentes comunidades, lo que puede ser útil para aquellos que buscan obtener una visión general de cómo funciona un producto antes de comprarlo.</summary>
-    <published>2026-11-10T15:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping</id>
-    <title>[Tecnología] Reddit quiere guiar su próxima compra</title>
-    <updated>2026-11-11T13:39:43.478722+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping"/>
-    <summary>Reddit está lanzando Reddit Reviews, un hub de reseñas de productos para consumo que recopila y analiza discusiones y comentarios en subreddits sobre productos específicos. El hub incluye una lista de comentarios, pros y contras, y una calificación de sentimiento. Los usuarios pueden filtrar comentarios por atributos y ver páginas de categoría curadas para encontrar productos similares. Reddit no recibirá una comisión por las ventas de los productos y los comerciantes no pueden pagar para ser incluidos en el hub. El objetivo es ofrecer una experiencia de compra más personalizada y humanizada. Reddit también busca contrarrestar el uso de inteligencia artificial para la investigación de productos. El hub cubre 10,000 productos en categorías como electrónica, salud y belleza, hogar y jardín, y moda y ropa. Reddit ha notado que el 40% de las conversaciones en la plataforma tienen un carácter comercial. El lanzamiento de Reddit Reviews pone presión en otros outlets que publican reseñas y recomendaciones de productos.
-
-Por qué importa:
-El lanzamiento de Reddit Reviews es importante porque Reddit busca ofrecer una experiencia de compra más personalizada y humanizada, contrarrestando el uso de inteligencia artificial para la investigación de productos. El hub también busca proporcionar una fuente de información confiable y basada en la experiencia de los usuarios.</summary>
-    <published>2026-11-10T15:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</id>
-    <title>[Tecnología] Crisis de Nvidia</title>
-    <updated>2026-11-11T13:39:43.478686+00:00</updated>
-    <author>
-      <name>TechCrunch</name>
-    </author>
-    <link href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"/>
-    <summary>La crisis de Nvidia se profundiza después de que el CEO Jensen Huang admitió a un encuentro extramarital con Alice Huang, quien los U.S. inteligencia agencies creen que estaba espía para China. La empresa ha visto su acción de acciones caer un 5.47% el martes, tras una caída del 4% el lunes, y una pérdida del 9.5% en dos días. La junta de directores ha contratado a la firma de abogados Wachtell, Lipton, Rosen &amp; Katz para investigar el asunto. Los expertos en gobernanza corporativa dicen que no hay un precedente claro para un CEO atrapado en una situación de posible honeypot. La investigación, liderada por directores independientes con su propio abogado, es considerada la parte más "estándar" del asunto. Los expertos también destacan la importancia de qué Huang sabía y cuándo, ya que esto puede afectar la investigación y las posibles consecuencias para la empresa.
-
-Por qué importa:
-La crisis de Nvidia es importante porque puede afectar la confianza de los inversores y el público en general; La empresa tiene una estructura de gobierno muy centralizada, con el CEO Jensen Huang teniendo un control absoluto, lo que puede hacer que sea difícil para la junta de directores actuar de manera independiente. Además, la presencia de hijos de Huang en la empresa, incluyendo a su hijo Spencer y su hija Madison, puede generar preocupación sobre la posible nepotismo y la falta de transparencia en la toma de decisiones.</summary>
-    <published>2026-11-11T07:30:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</id>
-    <title>[Tecnología] Experiencia la arte y legado de Dr. Esther Mahlangu</title>
-    <updated>2026-11-11T13:39:43.478646+00:00</updated>
+    <id>https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/</id>
+    <title>[Tecnología] Designing for privacy on intelligent eyewear</title>
+    <updated>2026-11-12T16:29:08.314624+00:00</updated>
     <author>
       <name>Technology</name>
     </author>
-    <link href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"/>
-    <summary>El 10 de junio de 2024, Google Arts &amp; Culture lanzó una retrospectiva en línea de la artista sudanesa Dr; Esther Mahlangu, que conmemora su 91º cumpleaños; La colección cuenta con más de 45 historias, materiales arquitectónicos y recreaciones de su infancia con la ayuda de la inteligencia artificial. El proyecto busca preservar la herencia ndebele para un público global; La retrospectiva incluye más de 45 exhibiciones, murales y materiales arquitectónicos, y es accesible desde cualquier lugar del mundo. El proyecto fue desarrollado en colaboración con el Departamento de Curaduría, Públicas y Culturas Visuales de la Universidad de Witwatersrand, y con el equipo de Google Arts &amp; Culture; El objetivo es presentar una exploración completa de su vida y obra, contribuyendo a la investigación sobre las mujeres sudanesas artistas que han tenido un impacto en las artes desde el siglo XX. La retrospectiva incluye una rica colección de su trabajo, incluyendo murales, piezas íntimas y materiales arquitectónicos raros; Sin embargo, los archivos no incluían nada de su vida antes de 1980, lo que dejaba un vacío en su historia. El proyecto utilizó la inteligencia artificial para recrear sus recuerdos no documentados, lo que nos acercó más a su trabajo y provocó recuerdos adicionales de su parte; El proyecto fue desarrollado en colaboración con el equipo de Google DeepMind y Google Arts &amp; Culture Lab, junto con el estudio de datos sintéticos Domestic Data Streamers. A través de una serie de talleres y entrevistas, documentaron un período de su historia que estaba ausente, desde cuando comenzó a pintar a los 10 años hasta sus primeras obras documentadas en 1980. Estas historias, como el momento en que descubrió su talento para la pintura utilizando plumas en lugar de una pincel, se convirtieron en la fuente material para nuestro trabajo; Siguiendo la metodología del proyecto de memorias sintéticas y utilizando materiales arquitectónicos, el equipo generó imágenes estáticas basadas en sus recuerdos. Luego, utilizaron Veo para convertir las imágenes en videos que trajeron a la vida sus primeros días; Las historias también contribuyen al archivo de su vida en Google Arts &amp; Culture. La retrospectiva cuenta con más de 45 exhibiciones, curadas en colaboración con Art of Contemporary Africa, Iziko Museums of South Africa, el British Museum, la Jean Pigozzi Collection, el National Museum of Women in the Arts y Serpentine, que cuentan la historia de cómo llegó a ser conocida en el mundo, a través de su arte, archivos, Street View y más. El proyecto demuestra una nueva forma de abordar la preservación del patrimonio cultural, con tecnología guiada en cada paso por un respeto por la memoria personal y la precisión histórica; El objetivo es cementar su lugar como una voz clave en el arte contemporáneo global, invitar a los audiencias a reimprimir las posibilidades de su archivo y asegurar que su historia y su visión artística puedan inspirar generaciones futuras.
+    <link href="https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/"/>
+    <summary>Google está diseñando gafas inteligentes con Gemini para proporcionar respuestas rápidas sobre lo que se ve, manteniendo las manos libres. Estas gafas tienen características de protección para garantizar la privacidad de los usuarios y los que los rodean. Entre estas características se incluyen luzes de indicación físicas, redacción automática de la cara y cifrado de datos para asegurar que la información del usuario permanezca segura. El usuario tiene control total sobre sus configuraciones y puede apagar el dispositivo en cualquier momento. Estas gafas también pueden ayudar a personas con discapacidad visual, proporcionando descripciones auditivas de textos pequeños y objetos cotidianos. Sin embargo, Google reconoce la importancia de proteger la privacidad de los usuarios y los que los rodean, y está trabajando para avanzar en estas protecciones en colaboración con expertos en privacidad.
 
 Por qué importa:
-Este proyecto es importante porque permite a un público global conocer y apreciar la obra y la vida de Dr; Esther Mahlangu, una artista sudanesa que ha sido una voz clave en el arte contemporáneo global. La retrospectiva en línea es una forma innovadora de preservar su legado y hacerlo accesible para una audiencia más amplia.</summary>
-    <published>2026-11-11T09:00:00+00:00</published>
+La privacidad es fundamental para el diseño de tecnología de gafas inteligentes. Google está trabajando para crear experiencias que sean seguras y protejan tanto al usuario como a los que lo rodean.</summary>
+    <published>2026-11-12T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/gallery/best-indoor-gardening-systems/</id>
-    <title>[Tecnología] Los mejores sistemas de jardinería indoor que he estado probando durante años (2026)</title>
-    <updated>2026-11-11T13:39:43.478613+00:00</updated>
+    <id>https://www.wired.com/story/best-open-earbuds/</id>
+    <title>[Tecnología] Mejores auriculares abiertos de 2026</title>
+    <updated>2026-11-12T16:29:08.314584+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
-    <link href="https://www.wired.com/gallery/best-indoor-gardening-systems/"/>
-    <summary>En 2026, la Agencia de Seguridad Cibernética de los Estados Unidos emitió advertencias sobre vulnerabilidades en los sistemas Gardyn Home y Studio. El sistema Gardyn Home 4.0 es uno de los más fáciles de montar y configurar, y puede producir una variedad de plantas. El Lettuce Grow Farmstand es fácil de montar, pero puede ser propenso a plagas. Los sistemas hidropónicos, como el Gardyn Home 4.0, pueden ser más caros que plantar semillas en el suelo, y pueden requerir una gran cantidad de luz y ser ruidosos. El EVE Indoor Garden tiene un costo aproximado de $600 y se puede recuperar con el crecimiento de microgreens. El Lykyn Smart Mushroom Grow Box tiene un costo de $300 y se utiliza para crecer champiñones.
+    <link href="https://www.wired.com/story/best-open-earbuds/"/>
+    <summary>En 2026, los mejores auriculares abiertos son la Anker AeroClip 2, seguida de cerca por los Shokz OpenDots. Los auriculares abiertos de Bose Ultra son una opción sólida, pero carísima, con una excelente calidad de sonido. Los PearClip Pros son una opción asequible y una buena forma de probar si te gustan los auriculares abiertos. Los Shokz OpenRun Pro 2 son una excelente opción para actividades al aire libre, con una excelente calidad de sonido y una duración de batería larga. Los Nothing Ear (Open) son una opción asequible y cómoda, con una excelente calidad de sonido y un diseño transparente. Los CMF Clip Pro son una opción más cómoda y fácil de usar que la Soundpeats PearClip Pro; Los JLab Epic Open Sport tienen una excelente calidad de control, pero una pobre calidad de sonido. El EarFun Clip es una opción asequible y cómoda, con una excelente calidad de sonido y una caja compacta. El Shokz OpenFit Pro cuesta $250 y tiene una batería de 12 horas con un cargador inalámbrico. El Suunto Wing 2 tiene una batería de 12 horas y un cargador inalámbrico, mientras que el Suunto Spark tiene un diseño similar al del Suunto Wing 2. El Shokz Openfit 2 supera al Suunto Spark en comodidad y calidad de sonido.
 
 Por qué importa:
-Los sistemas de jardinería indoor son una excelente opción para aquellos que buscan cultivar plantas en un espacio limitado; Importa destacar que los sistemas hidropónicos pueden tener sus propias limitaciones y desafíos, como la necesidad de una gran cantidad de luz y el riesgo de contaminación del agua. Sin embargo, también ofrecen ventajas como la capacidad de controlar el crecimiento de las plantas y la reducción de la necesidad de mantenimiento.</summary>
-    <published>2026-11-11T12:30:00+00:00</published>
+Los auriculares abiertos son una opción popular para aquellos que buscan una forma de escuchar música o hablar con amigos sin bloquear sus oídos. Importa elegir un modelo que se adapte a tus necesidades y preferencias.</summary>
+    <published>2026-11-12T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/the-ancient-maya-used-mercury-for-paint-and-poisoned-entire-lakes-for-centuries-2000837937</id>
-    <title>[Tecnología] El uso de mercurio en pintura y la contaminación de lagos mayas</title>
-    <updated>2026-11-11T13:39:43.478578+00:00</updated>
+    <id>https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/</id>
+    <title>[Tecnología] Pre-orders para algunos dispositivos de la colección de Apple Home abrirán el 13 de noviembre</title>
+    <updated>2026-11-12T16:29:08.314544+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/"/>
+    <summary>Apple confirmó que los pre-orders para dos cámaras LG y una puerta de vidrio abrirán el 13 de noviembre. Los dispositivos, que Apple y LG colaboraron en, serán los primeros accesorios de la colección de Apple Home a llegar. Se espera que lleguen en diciembre. Los pre-orders para otros productos de la línea, incluyendo termómetros y cerraduras, no han sido anunciados. Los dispositivos tienen características como la cámara de 2.5K, visión nocturna y detección de personas y animales. El precio de los dispositivos es de $200, $300 y $250 respectivamente. Los dispositivos ofrecen end-to-end encryption y pueden ser controlados mediante otros dispositivos de Apple.
+
+Por qué importa:
+La colección de Apple Home es una línea de accesorios diseñados para integrar con los dispositivos de Apple; Los dispositivos de la colección ofrecen características como la cámara de 2.5K y visión nocturna, lo que los hace útiles para monitorear la casa. La seguridad y la privacidad son aspectos importantes de estos dispositivos, que ofrecen end-to-end encryption y pueden ser controlados mediante otros dispositivos de Apple.</summary>
+    <published>2026-11-12T15:16:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873</id>
+    <title>[Tecnología] Un caso de anafilaxia causada por una bebida energética</title>
+    <updated>2026-11-12T16:29:08.314502+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/the-ancient-maya-used-mercury-for-paint-and-poisoned-entire-lakes-for-centuries-2000837937"/>
-    <summary>En un estudio publicado en la revista Science Advances, investigadores encontraron altos niveles de mercurio en dos lagos mayas en México durante el período Clásico (250 CE a 900 CE). Los niveles de mercurio superaban los umbrales de toxicidad modernos. El equipo, compuesto principalmente por no arqueólogos, busca nuevos conocimientos sobre la arqueología maya. Los investigadores también encontraron evidencia de la desaparición de organismos en los lagos. Los niveles de mercurio eran hasta seis veces más altos que los umbrales modernos. El mercurio se utilizó en la pintura maya y probablemente se contaminó el agua y la comida de las comunidades. Los investigadores creen que las comunidades mayas se expusieron a la contaminación durante siglos.
+    <link href="https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873"/>
+    <summary>Un caso reportado por una médica de Atlanta, Georgia, muestra que una anafilaxia puede ser causada por una bebida energética. Annabelle Rowland describe un episodio de anafilaxia en un niño de 15 años que se debió a una bebida energética que contenía collagen de pescado. El niño había tenido una historia de eczema, asma, fiebre del heno y una condición rara del pulmón. Después de recibir tratamiento en un centro de emergencia para alergias, el niño se recuperó completamente. La investigación mostró que el niño tenía una reacción alergica a la bebida energética debido a la presencia de collagen de pescado. El caso ilustra la complejidad de las alergias de pescado y la importancia de considerar el collagen de pescado en los productos. El niño había experimentado síntomas similares en el pasado después de consumir pescado enlatado. La investigación también encontró que el niño no tenía reacciones alergicas a otros tipos de pescado. El caso es raro, pero ilustra la importancia de ser cuidadoso al diagnosticar y tratar las alergias de pescado.
 
 Por qué importa:
-La contaminación de lagos mayas con mercurio es un tema interesante para entender la arqueología maya. Los investigadores buscan nuevos conocimientos sobre la sociedad maya y su relación con el medio ambiente.</summary>
-    <published>2026-11-11T12:30:07+00:00</published>
+Este caso es importante porque ilustra la complejidad de las alergias de pescado y la necesidad de considerar el collagen de pescado en los productos. La investigación muestra que el niño tenía una reacción alergica a la bebida energética debido a la presencia de collagen de pescado, lo que destaca la importancia de ser cuidadoso al diagnosticar y tratar las alergias de pescado.</summary>
+    <published>2026-11-12T15:40:18+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/tak0122/building-a-lightweight-kubernetes-environment-on-k3s-and-the-kubectl-command-on-wsl2-windows-11-9pc</id>
-    <title>[Programación] Construyendo un entorno ligero de Kubernetes en K3s y el comando kubectl en WSL2 de Windows 11</title>
-    <updated>2026-11-11T13:39:43.478542+00:00</updated>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</id>
+    <title>[Tecnología] Jensen Huang renuncia como CEO de Nvidia</title>
+    <updated>2026-11-12T16:29:08.314462+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://dev.to/tak0122/building-a-lightweight-kubernetes-environment-on-k3s-and-the-kubectl-command-on-wsl2-windows-11-9pc"/>
-    <summary>En este artículo, se muestra cómo instalar y configurar K3s en una máquina virtual de Google Cloud, y cómo utilizar el comando kubectl en WSL2 de Windows 11. La instalación de K3s se realiza utilizando un script de instalación, y se verifica la versión y número de release del sistema operativo Ubuntu y la memoria disponible en la máquina virtual. Luego, se copia el archivo de configuración k3s.yaml a la carpeta de la configuración de Kubernetes y se actualiza la dirección IP externa del servidor K3s. Finalmente, se verifica la conexión al servidor K3s utilizando el comando curl. Además, se menciona el libro "Kubernetes and Helm: A Primer" que ofrece instrucciones paso a paso para construir un cluster K3s en Google Cloud y configurar el comando kubectl en WSL2. El libro también utiliza kubectl y helm para orchestrar microservicios en aplicaciones. El libro tiene 563 páginas y está disponible en Amazon. El libro configura el comando kubectl en WSL2 de Windows 11 y utiliza kubectl y helm para orchestrar microservicios en aplicaciones. El libro ofrece instrucciones paso a paso para construir un cluster K3s en Google Cloud y configura el comando kubectl en WSL2 de Windows 11.
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"/>
+    <summary>Jensen Huang, cofundador de Nvidia en 1993, renunció como CEO de la empresa esta mañana, tras una investigación interna sobre varias relaciones extramaritales con un empleado directo y una supuesta espía china. La empresa anunció que Colette Kress, su nueva CEO interina, liderará el equipo mientras se busca un sucesor permanente. La decisión de Huang sigue tras una investigación sobre sus relaciones personales. La empresa ha expresado su confianza en Kress para liderar el equipo. La renuncia de Huang es el resultado de una investigación interna sobre sus relaciones personales. La empresa ha anunciado que Kress liderará el equipo mientras se busca un sucesor permanente. La renuncia de Huang sigue tras una investigación sobre sus relaciones personales. La empresa ha expresado su confianza en Kress para liderar el equipo. La investigación sobre las relaciones personales de Huang sigue en curso. La empresa ha anunciado que Kress liderará el equipo mientras se busca un sucesor permanente.
 
 Por qué importa:
-Este artículo es útil para aquellos que buscan aprender a utilizar K3s y el comando kubectl en WSL2 de Windows 11. La configuración de K3s y el comando kubectl es esencial para la administración de clústeres de Kubernetes, y este artículo proporciona una guía paso a paso para realizarlo.</summary>
-    <published>2026-11-10T12:00:00+00:00</published>
+La renuncia de Jensen Huang como CEO de Nvidia es un golpe para la empresa, que ha sido una de las más exitosas en el sector de la tecnología; La empresa ha sido pionera en el desarrollo de la GPU y ha jugado un papel clave en la revolución de la inteligencia artificial; La investigación sobre las relaciones personales de Huang sigue en curso, lo que sugiere que la empresa enfrenta desafíos internos. La renuncia de Huang es un momento crítico para la empresa, que debe encontrar un nuevo líder para liderar su equipo y seguir adelante con sus objetivos.</summary>
+    <published>2026-11-12T15:48:12+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/zediot/can-an-8-gb-edge-device-run-a-2-gb-model-budget-memory-at-peak-concurrency-4e92</id>
-    <title>[Programación] Un modelo de 3.000.000.000 de parámetros ocupa aproximadamente 1,40 GiB de espacio en la memoria.</title>
-    <updated>2026-11-11T13:39:43.478503+00:00</updated>
+    <id>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</id>
+    <title>[Tecnología] Quiénop lanzó una red social</title>
+    <updated>2026-11-12T16:29:08.314421+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://dev.to/zediot/can-an-8-gb-edge-device-run-a-2-gb-model-budget-memory-at-peak-concurrency-4e92"/>
-    <summary>Un modelo de 3.000.000.000 de parámetros ocupa aproximadamente 1,40 GiB de espacio en la memoria. La cantidad de bytes de un modelo no es una medida directa de la capacidad de la memoria del dispositivo. Un modelo de 8 GB puede ocupar diferentes cantidades de memoria, dependiendo de la configuración y el uso. Un sistema de contabilización de memoria debe ser utilizado para medir el consumo de memoria del sistema. Un modelo de artefacto de memoria debe ser revisado antes de tratar cualquier estimación como un requisito. Un conjunto de trabajo de prueba debe ser creado para cada configuración de candidato. La cantidad de bytes de un modelo puede variar según la cantidad de caché y la cantidad de memoria que se utiliza. Un trabajo de carga de concurrencia debe ser definido de manera que otro ingeniero pueda reproducirlo. Un presupuesto de trabajo debe mostrar cuatro etapas al lado: estimación estática, dispositivo cargado, solicitud más larga, y máximo intento de concurrencia.
+    <link href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"/>
+    <summary>Whoop, la empresa que fabrica bandas de fitness sin pantalla, lanzó una red social llamada Whoop Humans, que permitirá a sus miembros seguir a amigos y familiares y compartir datos de salud. El network se lanzará en la aplicación Whoop para todos los niveles de membresía a un costo adicional. Los miembros pueden decidir quién sigue a quién y qué datos compartir. La red social es opt-in y no se vende ni se comparte data de miembros. Whoop espera que la red social sea particularmente útil para entender cuando alguien está luchando y necesita atención. La empresa también está explorando la oportunidad de la medicina y ha visto crecimiento significativo entre personas mayores. La red social se lanzará en más de 1.200 tiendas, incluyendo Ulta, y Whoop espera tener 4 millones de miembros antes del final del año.
 
 Por qué importa:
-La pregunta de si un modelo de 2 GB puede ejecutarse en un dispositivo de 8 GB de memoria es relevante para entender cómo se gestionan los recursos de memoria en los dispositivos de edge.</summary>
-    <published>2026-11-10T12:20:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/edison_flores_6d2cd381b13/143-prs-en-6-semanas-lo-que-un-agente-ai-aprendio-contribuyendo-a-open-source-1dn8</id>
-    <title>[Programación] 143 PRs en 6 semanas: lo que un agente AI aprendió contribuyendo a open source</title>
-    <updated>2026-11-11T13:39:43.478467+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/edison_flores_6d2cd381b13/143-prs-en-6-semanas-lo-que-un-agente-ai-aprendio-contribuyendo-a-open-source-1dn8"/>
-    <summary>Entre finales de septiembre y hoy (10 de noviembre de 2026), el agente AI operó como agente autónomo de contribuciones open source para AliceLabs. En este período, se crearon 143 pull requests, de los cuales 74 se mergearon en 24 repositorios externos. De los 47 PRs abiertos, 34 tuvieron diálogo activo con el mantenedor. El agente AI responde en horas y acepta el "no" en sus solicitudes. Los merges rápidos casi siempre fueron PRs pequeños con tests, y los catálogos "awesome" son la puerta de entrada más dura y valiosa. La transparencia vende más que el marketing, y el ecosistema open source premia la honestidad sobre la procedencia si el código es bueno.
-
-Por qué importa:
-La transparencia y la honestidad son fundamentales en el ecosistema open source; El agente AI de AliceLabs demostró que la transparencia vende más que el marketing, y que la honestidad sobre la procedencia del código es valorada por la comunidad. Los datos verificados el 10 de noviembre de 2026 vía GitHub Search API confirman que el agente AI ha contribuido de manera significativa a proyectos como uta-shield, MarketNow y agent-bridge.</summary>
-    <published>2026-11-10T14:40:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/alpomar/the-cookie-cutter-method-fast-estimates-for-repetitive-work-g59</id>
-    <title>[Programación] El método de la tijera de galleta: estimaciones rápidas para el trabajo repetitivo</title>
-    <updated>2026-11-11T13:39:43.478427+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/alpomar/the-cookie-cutter-method-fast-estimates-for-repetitive-work-g59"/>
-    <summary>El método de la tijera de galleta es una herramienta para estimar el tiempo de entrega de proyectos repetitivos. Se basa en dividir el proyecto en tareas individuales y estimar el tiempo mínimo y máximo para cada una. Esto permite a los equipos tener una estimación defensible en un plazo de cinco minutos. El método se puede aplicar a proyectos similares, ajustando las estimaciones según la complejidad, el volumen y las dependencias. Esto permite a los equipos tener una conversación más informada sobre el proyecto y tomar decisiones más informadas. El método no proporciona una estimación perfecta, pero ofrece una estimación razonable y defensible. El autor, Filipe Albero Pomar, es un gerente de ingeniería y hablante basado en Londres que ha escrito sobre la adopción de la inteligencia artificial, la liderazgo de ingeniería y la entrega de software. El método de la tijera de galleta es una herramienta útil para equipos que trabajan en proyectos repetitivos y necesitan estimar el tiempo de entrega de manera rápida y precisa.
-
-Por qué importa:
-El método de la tijera de galleta se basa en la experiencia y la observación de los equipos que trabajan en proyectos repetitivos; En el mundo de los juegos y la realidad virtual, los equipos crean 3D environments inspirados en el mundo real, lo que requiere una comprensión de la complejidad y el volumen de los proyectos. El método de la tijera de galleta es una herramienta para capturar esta experiencia y utilizarla para estimar el tiempo de entrega de manera más precisa.</summary>
-    <published>2026-11-10T14:53:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://maurycyz.com/projects/bad_jpeg/</id>
-    <title>[Programación] Regressive JPEGs</title>
-    <updated>2026-11-11T13:39:43.478373+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://maurycyz.com/projects/bad_jpeg/"/>
-    <summary>Un grupo de desarrolladores ha encontrado una forma de crear archivos JPEG progresivos que pueden mostrar imágenes de baja resolución antes de que la imagen completa esté cargada. Esto se logra dividiendo el archivo en múltiples "escáneres" que contienen diferentes niveles de precisión. Los escáneres se pueden concatenar para crear un archivo que muestra imágenes progresivas. Sin embargo, muchos decodificadores no pueden manejar este tipo de archivo y pueden dejar de funcionar después de un cierto número de escáneres. Los desarrolladores han encontrado una forma de crear archivos JPEG que pueden mostrar alrededor de 90 frames antes de que el navegador deje de funcionar. Esto se logra creando archivos JPEG que solo contienen escáneres de baja resolución. Los desarrolladores han creado ejemplos de cómo se pueden utilizar estos archivos para crear efectos como rickrolls y aplicaciones interactivas. Los archivos JPEG progresivos pueden ser creados utilizando herramientas como un hex editor o un programa de C. Los desarrolladores han encontrado que los navegadores como Chrome y Firefox pueden manejar estos archivos, mientras que otros navegadores pueden dejar de funcionar después de un cierto número de escáneres.
-
-Por qué importa:
-La creación de archivos JPEG progresivos es posible gracias a la forma en que se almacenan los datos de imagen en un archivo JPEG; Los archivos JPEG se dividen en múltiples "escáneres" que contienen diferentes niveles de precisión; Los escáneres se pueden concatenar para crear un archivo que muestra imágenes progresivas; Sin embargo, la forma en que se manejan estos archivos puede variar dependiendo del navegador y la plataforma. Los desarrolladores han encontrado formas de crear archivos JPEG que pueden mostrar alrededor de 90 frames antes de que el navegador deje de funcionar; Esto se logra creando archivos JPEG que solo contienen escáneres de baja resolución.</summary>
-    <published>2026-11-11T04:01:00+00:00</published>
+La red social de Whoop es importante porque permite a los miembros compartir datos de salud de manera más privada y controlada. La empresa está explorando la oportunidad de la medicina y está trabajando para mejorar la salud de sus miembros.</summary>
+    <published>2026-11-12T16:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/dipeshba/nuxt-3-is-end-of-life-migrate-to-nuxt-4-now-or-wait-for-nuxt-5-358m</id>
     <title>[Programación] Nuxt 3 es el final de vida y se recomienda migrar a Nuxt 4 ahora o esperar a Nuxt 5.</title>
-    <updated>2026-11-11T13:39:43.478282+00:00</updated>
+    <updated>2026-11-12T16:29:08.314380+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +345,75 @@ La creación de archivos JPEG progresivos es posible gracias a la forma en que s
 Por qué importa:
 La decisión de Nuxt de finalizar el soporte para Nuxt 3 es importante porque afectará a los desarrolladores que utilizan esta versión de la plataforma. La migración a Nuxt 4 es una opción recomendada para aquellos que desean un paso pequeño y fácil.</summary>
     <published>2026-11-11T12:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</id>
+    <title>[Programación] Incidente de seguridad en eMudhra</title>
+    <updated>2026-11-12T16:29:08.314334+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"/>
+    <summary>Mozilla recibió un informe de seguridad el 17 de octubre a las 20:06 UTC, que informaba sobre la posible compromiso de 8 certificados de eMudhra. El informe fue enviado a eMudhra y a los programas de raíz de Apple y Microsoft; Mozilla confirmó la validez del informe y comenzó el proceso de desconfiar de los certificados en Firefox. El 21 de octubre a las 21:29 UTC, eMudhra aprobó el informe y notificó a Sectigo; El 21 de octubre a las 21:48 UTC, Mozilla recuperó las claves privadas de los certificados afectados sin necesidad de ayuda. El 22 de octubre a las 22:59 UTC, Mozilla completó el proceso de desconfiar de los certificados; El 30 de abril de 2025, se generaron 24 intermediatos que incluyeron a los 8 certificados afectados. El problema se debió a que las claves privadas se generaron con números enteros pequeños que pueden ser recuperados fácilmente; Mozilla ha marcado las certificaciones afectadas como revocadas para proteger a sus usuarios. El problema no afecta a las claves RSA de eMudhra; El problema se debió a un error en el script de KGC utilizado para generar las claves ECC. Mozilla ha revocado la confianza en el certificado de raíz emSign ECC Root CA - G3 debido a que los privados de los intermediados se han recuperado y algunos lo han compartido públicamente. Se ha emitido una versión no programada de Firefox Release/ESR el 20 de octubre, que revoca la confianza en los certificados intermedios; Chrome ha adoptado un enfoque similar al de Mozilla para abordar el problema; Se ha ceído la emisión de certificados de emSign ECC Root CA - G3. Se han identificado 30.000 certificados que requieren migración y el 97% de ellos fueron emitidos a través de ACME; Se ha publicado un informe de seguridad en el sitio web de emudhra.com. Se ha solicitado información adicional a eMudhra sobre cómo se comunicará con los suscriptores y los proveedores de servicios relacionados; Se ha identificado que el 99,9% de los certificados que se emiten a través de emSign ECC Root CA - G3 se han emitido a través de dos subordinados de Internet2 / InCommon.
+
+Por qué importa:
+El incidente de seguridad en eMudhra es importante porque afecta la confianza de los usuarios en las certificaciones de seguridad. La vulnerabilidad en las claves intermedias puede ser utilizada para comprometer la seguridad de los sitios web y aplicaciones que utilizan certificados de eMudhra; Es fundamental que los usuarios y los proveedores de servicios estén al tanto de este incidente y tomen medidas para protegerse.</summary>
+    <published>2026-11-11T19:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://m.youtube.com/watch?v=Ke-_V_XT5i4</id>
+    <title>[Programación] Un bug en Unity sigue siendo un problema en el mundo de la software</title>
+    <updated>2026-11-12T16:29:08.314289+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://m.youtube.com/watch?v=Ke-_V_XT5i4"/>
+    <summary>En un video, se analiza un bug que ha estado presente durante décadas pero sigue siendo fácilmente ignorado debido a las reglas de casificación única del alfabeto turco. El problema se debe a la combinación de la caja de Unity con el método de mayúscula regular de C#. Este bug ha afectado a varios juegos de Unity y programas, incluyendo Pillars of Eternity, que lo solucionaron reemplazando una instancia de ToUpper por ToUpperInvariant. El autor recomienda utilizar el Turkey Test para detectar este tipo de errores y sugiere que las empresas de software implementen esta práctica de manera estándar. Además, se destaca la importancia de informar a los desarrolladores sobre los errores que se producen solo en dispositivos con idioma turco. El autor también menciona que este problema no se limita a los dispositivos turcos, sino que también afecta a otros dispositivos con idioma turco. El problema se ha solucionado en Unity versión 6.2 en 2024, según se informó a los autores. El autor recomienda utilizar ToLowerInvariant y ToUpperInvariant en lugar de ToLower y ToUpper para solucionar este problema. Finalmente, se destaca la importancia de reportar errores de manera oportuna para mantener este tema en la atención de las empresas de software y juegos.
+
+Por qué importa:
+Este bug es importante porque afecta a los usuarios que utilizan dispositivos con idioma turco, lo que puede hacer que algunos juegos y programas no funcionen correctamente. Es fundamental que las empresas de software y juegos tomen medidas para solucionar este problema y brindar una experiencia de usuario más fluida para todos los usuarios.</summary>
+    <published>2026-11-12T08:15:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</id>
+    <title>[Programación] C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules</title>
+    <updated>2026-11-12T16:29:08.314236+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/"/>
+    <summary>C3 0.8.6 es ahora disponible; Las dos principales características son la funcionalidad de recopilación de bibliotecas revolucionada y un objetivo para la compilación de bibliotecas de fuente completa. También vemos mejoras en la velocidad de compilación y una reducción del tamaño de los binarios de modo seguro en un tercio; Además, se incluyen correcciones de errores de un análisis sistemático de casts, vectores y convenciones de llamada. La nueva versión incluye una serie de mejoras y cambios en la funcionalidad, incluyendo la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums. También se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más. El nuevo objetivo de compilación de bibliotecas de fuente completa permite a los usuarios crear bibliotecas de fuente y compilarlas de manera más fácil. Además, se ha mejorado la capacidad de recopilar y descargar bibliotecas de manera más flexible. La versión 0.8.6 también incluye una serie de correcciones de errores y mejoras en la funcionalidad, incluyendo la capacidad de especificar versiones y checksums. Además, se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más. En resumen, la versión 0.8.6 de C3 ofrece una serie de mejoras y cambios en la funcionalidad, incluyendo la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums. También se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más.
+
+Por qué importa:
+La versión 0.8.6 de C3 es importante porque ofrece una serie de mejoras y cambios en la funcionalidad que pueden mejorar la seguridad y la estabilidad del compilador. Además, la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums pueden ser beneficiosas para los usuarios que necesitan trabajar con bibliotecas de fuente.</summary>
+    <published>2026-11-12T13:16:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l</id>
+    <title>[Programación] Un sistema de análisis de mercados automatizado que convierte las noticias en operaciones de simulación.</title>
+    <updated>2026-11-12T16:29:08.314159+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l"/>
+    <summary>Stock Intelligent es un sistema de análisis de mercados automatizado que utiliza un filtro de siete partes para eliminar noticias no relevantes y un modelo de lenguaje natural para analizar las noticias. El sistema produce una lectura estructurada de cada artículo, que incluye la tendencia del sentimiento, el impacto probable en el precio y la confianza en la convicción. El sistema verifica si la noticia ya está "precionada" para evitar operar en noticias que ya se conocen. El sistema tiene un "engine de convicción" que combina los signos de las noticias para producir una puntuación de convicción. El sistema tiene un conjunto de "puertas de seguridad" que deben ser superadas para que una operación se realice. El sistema utiliza un "engine de trading" que gestiona el portafolio de papel y sigue un conjunto de reglas para gestionar las operaciones. El sistema está recopilando resultados de trading de sombras en vivo contra un portafolio de papel y está diseñado para ignorar cosas y recompensar la paciencia. El sistema está vivo y está trading un portafolio simulado. El equipo de Stock Intelligent forma parte de ECUPSE y está construyendo una base de evidencia. El portafolio de Stock Intelligent está siendo evaluado por su capacidad para imitar los movimientos del mercado.
+
+Por qué importa:
+El sistema es importante porque puede ayudar a los inversores a tomar decisiones informadas basadas en noticias y tendencias del mercado. El sistema también puede ser un ejemplo de cómo la inteligencia artificial puede ser utilizada para mejorar la toma de decisiones en el mercado.</summary>
+    <published>2026-11-12T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3</id>
+    <title>[Programación] El problema de seguridad de Claude Code pone a los agentes de código de AI en juicio</title>
+    <updated>2026-11-12T16:29:08.314037+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3"/>
+    <summary>La empresa Apiiro encontró más de 100,000 archivos de configuración de Claude Code en repositorios GitHub públicos, de los cuales aproximadamente 1.100 contenían credenciales sensibles. Esto se debe a que la herramienta de Claude Code, Anthropic, permite a los desarrolladores guardar credenciales en archivos de configuración locales que pueden ser almacenados en repositorios públicos. El problema surge cuando un comando de línea incluye credenciales directamente en su texto. Anthropic está investigando formas de prevenir el problema y ha recomendado la auto-modo y el escaneo de secretos. La creación de código de herramientas de AI puede exponer problemas más amplios, ya que introducen operaciones cortas en torno a archivos, permisos, comandos de shell y control de versiones. La adopción empresarial depende de si los proveedores pueden hacer que esas fronteras sean dependibles. La configuración de permisos merece más escrutinio que su interfaz modesta. El escaneo de secretos puede ayudar a detectar patrones conocidos después de que una credencial se haya escrito.
+
+Por qué importa:
+Este problema de seguridad de Claude Code es importante porque puede tener consecuencias graves para las empresas que utilizan sus herramientas de AI; La exposición de credenciales sensibles puede comprometer la seguridad de la información y dar lugar a ataques cibernéticos. Es fundamental que los proveedores de herramientas de AI tomen medidas para prevenir este tipo de problemas y garantizar la seguridad de sus usuarios.</summary>
+    <published>2026-11-12T16:00:01+00:00</published>
   </entry>
 </feed>
