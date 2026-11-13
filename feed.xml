@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-12T16:29:08.314006+00:00</updated>
+  <updated>2026-11-13T13:32:23.392299+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,51 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html</id>
-    <title>[Economía] Consumidores muestran signos de estrés incluso mientras continúan gastando</title>
-    <updated>2026-11-12T16:29:08.315281+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"/>
-    <summary>En octubre, las ventas al por menor crecieron a su ritmo más lento en casi un año, según el último informe CNBC/NRF Retail Monitor. Las ventas totales de retail aumentaron un 0,2% en octubre, un 3,6% más que el mismo mes del año anterior. Los consumidores están mostrando signos de estrés debido a los precios altos, según el informe. La creciente escasez de memoria de computadora está impulsando las ventas de tecnología. Los consumidores están siendo más selectivos con sus compras y están aprovechando las ofertas y promociones para ahorrar dinero. La industria de la vivienda está experimentando una recesión debido a la subida de los tipos de interés. Las ventas de artículos de ocio, como deportes, música y librerías, también han disminuido. El informe ofrece una visión de cómo la inflación y los precios altos están afectando a los consumidores en los Estados Unidos. El informe también muestra que la mayoría de las empresas planean aumentar sus precios en los próximos tres meses. Las ventas totales de retail en octubre fueron de $561,7 mil millones, un 0,2% más que el mes anterior y un 3,6% más que el mismo mes del año anterior.
-
-Por qué importa:
-La información proporcionada ofrece una visión de cómo la inflación y los precios altos están afectando a los consumidores en los Estados Unidos. La recesión en la industria de la vivienda y la subida de los tipos de interés están contribuyendo a la disminución de las ventas en este sector.</summary>
-    <published>2026-11-11T12:27:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html</id>
-    <title>[Economía] Trump dice que "no necesitamos un acuerdo con Irán"</title>
-    <updated>2026-11-12T16:29:08.315244+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"/>
-    <summary>El presidente Donald Trump dijo que el país no necesita un acuerdo con Irán, y que en cambio, el vicepresidente JD Vance debe enfocarse en combatir la corrupción y el crimen en las ciudades y estados demócratas. Esto viene después de las elecciones del medio mandato, en las que los republicanos sufrieron grandes pérdidas. El presidente Trump también mencionó que el país ya tiene "hundreds of billions of dollars" y el control del estrecho de Hormuz, lo que hace que la necesidad de un acuerdo sea innecesaria. El vicepresidente Vance había estado considerando hablar con un alto oficial de seguridad iraní. La noticia de Trump ha causado una caída en los futuros de Wall Street. El conflicto con Irán, que comenzó en febrero, ahora está en su novena semana sin una solución clara. La guerra ha aumentado los precios de la energía global, lo que ha afectado la economía y ha aumentado las preocupaciones sobre la inflación y la afabilidad. El presidente Trump también ha intentado cambiar el tema, acusando a los estados demócratas de permitir la corrupción y el crimen. El vicepresidente Vance ha sido instruido para enfocarse en la lucha contra la corrupción y el crimen en estos estados.
-
-Por qué importa:
-La noticia de Trump es un intento de cambiar el tema después de las elecciones del medio mandato, en las que los republicanos sufrieron grandes pérdidas. La guerra con Irán ha sido un tema polémico y ha generado preocupación sobre la seguridad y la economía; La corrupción y el crimen en los estados demócratas también han sido un tema de debate en las elecciones.</summary>
-    <published>2026-11-12T14:15:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html</id>
-    <title>[Economía] Análisis: La salida de Jensen Huang prueba el papel de Nvidia como "banca central del AI"</title>
-    <updated>2026-11-12T16:29:08.315206+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"/>
-    <summary>La salida del CEO de Nvidia, Jensen Huang, genera preocupación sobre el impacto en el sistema financiero. La empresa ha comprometido billones de dólares en apuestas financieras con otras empresas para impulsar el crecimiento del sector de la inteligencia artificial. Los reguladores están vigilando estrechamente la exposición de las instituciones financieras a Nvidia y otras empresas similares. Aunque Huang's salida hace que sea difícil predecir el futuro de la empresa, los analistas esperan que su recaudación de ingresos siga siendo sólida. La empresa ha establecido acuerdos con varias empresas para proporcionar servicios de nube, lo que podría mitigar el impacto de su salida. Sin embargo, si el valor de las placas de GPU de Nvidia cae, podría provocar problemas de deuda en las empresas que las compraron. Los reguladores están preocupados por el riesgo de que el sector de la inteligencia artificial se vuelva inestable y afecte a la economía en general.
-
-Por qué importa:
-La salida de Huang genera preocupación sobre el impacto en el sistema financiero, ya que Nvidia ha comprometido billones de dólares en apuestas financieras con otras empresas para impulsar el crecimiento del sector de la inteligencia artificial. Los reguladores están vigilando estrechamente la exposición de las instituciones financieras a Nvidia y otras empresas similares.</summary>
-    <published>2026-11-12T14:55:16+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html</id>
     <title>[Economía] La fortuna conjunta de Jensen y Lori Huang en Nvidia es objeto de dudas tras su renuncia</title>
-    <updated>2026-11-12T16:29:08.315168+00:00</updated>
+    <updated>2026-11-13T13:32:23.394365+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -69,7 +27,7 @@ La renuncia de Jensen Huang como CEO de Nvidia genera interés y preocupación e
   <entry>
     <id>https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html</id>
     <title>[Economía] Una renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro</title>
-    <updated>2026-11-12T16:29:08.315128+00:00</updated>
+    <updated>2026-11-13T13:32:23.394329+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +41,7 @@ La renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro en el mercad
   <entry>
     <id>https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html</id>
     <title>[Economía] Jensen Huang's exit from Nvidia raises critical questions about the future of AI</title>
-    <updated>2026-11-12T16:29:08.315089+00:00</updated>
+    <updated>2026-11-13T13:32:23.394293+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,65 +53,65 @@ La salida de Jensen Huang de Nvidia genera preocupación sobre el futuro de la i
     <published>2026-11-12T15:46:36+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/</id>
-    <title>[Data Science] ¿Dónde están los "aplicativos killer" de la inteligencia artificial?</title>
-    <updated>2026-11-12T16:29:08.315049+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html</id>
+    <title>[Economía] U.S. seizes $1.2 billion in cryptocurrency stolen from Binance</title>
+    <updated>2026-11-13T13:32:23.394255+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html"/>
+    <summary>Los Estados Unidos han incautado alrededor de $1.2 mil millones en activos virtuales robados de la exchange de criptomonedas Binance hace un mes, según dijo el Departamento de Justicia. El Departamento de Justicia atribuyó el robo a actores vinculados a la milicia norcoreana; Se han congelado más de $2.7 mil millones de ese monto; La FBI atribuye el ataque a miembros de la milicia norcoreana conocidos como "TraderTraitor". El Departamento de Justicia está tomando medidas coordinadas contra las esquemas del gobierno norcoreano para financiar su régimen a través del robo de criptomonedas; Se han incautado más de $1.2 mil millones de activos virtuales. Los esfuerzos para interceptar y congelar los activos siguen en curso, aunque los actores de "TraderTraitor" continúan lavando los activos a través de canales de criptomonedas. El Departamento de Justicia también ha incautado la infraestructura basada en la nube utilizada en un gran esquema de identidad falsa conocido como "FaceStealer", que ha visto más de $400 millones de criptomonedas robadas en 18 meses. El esquema funciona con hackers que establecen reuniones de video falsas utilizando cuentas robadas y grabaciones de personas conocidas por el objetivo, utilizando fakes de profundidad artificial. Los hackers luego dicen que hay un problema técnico que requiere una solución, instalan malware en un ordenador y toman el control de las comunicaciones del víctima, robándoles criptomonedas y objetivo a sus contactos, a veces meses o más de un año después del inicial compromiso. Los trabajadores en la industria de las criptomonedas y las web3 son los principales objetivos; El director asistente de la FBI en el despacho de Los Ángeles, Patrick Grandy, calificó a "FaceStealer" como "un esquema social de ingeniería muy efectivo capaz de engañar incluso a los usuarios más experimentados y conscientes de la seguridad de los ordenadores". Grandy dijo que "exploita nuestra confianza en las plataformas de video de conferencia universales y nuestras relaciones personales valoradas; Si no puedes imaginar un escenario en el que podrías caerte, no estás pensando lo suficientemente creativamente"; El principal asistente del asistente general para la seguridad nacional M. Scott Proctor dijo que "el gobierno norcoreano financia su régimen y su programa de armas ilegales a través del robo de criptomonedas"; "Estamos luchando contra ese régimen corrupto para obtener sus ganancias ilícitas; La División de Nacionalidad Seguridad utilizará todos los instrumentos a su disposición para incautar y devolver las ganancias ilícitas del régimen norcoreano".
+
+Por qué importa:
+El Departamento de Justicia está tomando medidas para combatir las esquemas de ciberdelincuencia que originan del régimen norcoreano.</summary>
+    <published>2026-11-13T12:03:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html</id>
+    <title>[Economía] Trump dice que quiere "hacerse con Cuba" antes de dejar la oficina</title>
+    <updated>2026-11-13T13:32:23.394218+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html"/>
+    <summary>El presidente de los Estados Unidos, Donald Trump, ha dicho que quiere "hacerse con Cuba" antes de dejar la oficina en 2029 y que consideraría la intervención militar en el caribe. Su administración está monitoreando la situación en La Habana de manera muy cercana y describe a Cuba como un estado fallido. Trump dijo que su secretario de Estado, Marco Rubio, "lo amaría hacer" y que consideraría una operación militar breve. La embajada cubana en Washington D.C; estimó que el costo del bloqueo estadounidense a Cuba entre marzo de 2025 y febrero de 2026 fue de $8 mil millones. El gobierno de Trump ha impuesto sanciones adicionales a los tanques de petróleo cubanos y compañías de navegación, y ha amenazado con perseguir a cualquier entidad o persona que realice negocios en sus industrias marítimas. La embajada cubana ha respondido que estos pasos "profunden un asedio energético que deja a los hospitales sin energía y a las familias sin electricidad". Trump ha hablado anteriormente de una "topta de amistad" de La Habana y ha dicho que el White House podría enfocarse en Cuba después de la guerra de Irán. El presidente ha dicho que podría hacer lo que quisiera con el país y que cree que tendrá el "honor" de "tomar Cuba". En mayo, el ministro de energía cubano, Vicente de la O Levy, dijo que el país de 10 millones de habitantes se había quedado sin petróleo y diesel, describiendo la situación como "extremadamente tensa". Los analistas han sido escépticos con la posibilidad de una campaña militar estadounidense contra Cuba, sugiriendo que la presión económica contra las autoridades cubanas es más probable.
+
+Por qué importa:
+La situación en Cuba es crítica, con recientes apagones nacionales y escasez de combustible y alimentos. El bloqueo económico de los Estados Unidos ha contribuido a la crisis, y la embajada cubana ha denunciado que la política es "colectiva" y "punitiva".</summary>
+    <published>2026-11-13T12:28:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html</id>
+    <title>[Economía] ¿Qué hay por delante para el financiamiento de la inteligencia artificial después de que el CEO de Nvidia Jensen Huang se vaya?</title>
+    <updated>2026-11-13T13:32:23.394175+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"/>
+    <summary>Nvidia CEO Jensen Huang's departure hasn't produced a broad shock to the credit market, but it is putting the company's role as a financier of artificial intelligence infrastructure under scrutiny. Huang, who stepped down Thursday amid an espionage and adultery scandal, built Nvidia into an AI powerhouse in the 33 years since he co-founded the company. Chief financial officer Colette Kress has been named interim CEO as the company searches for a permanent chief executive. Nvidia not only supplies its graphics processing units to hyperscalers and tech giants, it also provides financing to other companies to help the industry expand. That could all change; The news of Huang's resignation comes after investors were already concerned about the massive amount of debt being taken on to fund AI infrastructure. Tech bond yields have risen and spreads have widened on credit default swaps, most notably in lower-rated names; On Friday, the yield on Nvidia's 4.5% bond due in 2031 sat at 5.77%, nearly 6% higher week to date. The yield on hyperscaler bonds ticked slightly higher on Thursday, signaling the broader concern about AI debt lingers. The smaller AI companies that could ultimately see an impact if Nvidia makes any changes to its AI financing are those that had $36 billion in off-balance-sheet AI cloud agreements, or backstops, for neoclouds. CoreWeave, Nebius and IREN are all in Nvidia's portfolio, and their shares were down sharply Thursday; The yield on CoreWeave's 9.75% bond due in 2031 was 14.75% on Friday after climbing to 16.7% last week. The spread on CoreWeave's five-year CDS also dropped 18% week to date, although it remained above 1,000 — which is generally considered a sign of distress.
+
+Por qué importa:
+Nvidia CEO Jensen Huang's departure amid an espionage and adultery scandal has raised concerns about the company's role as a financier of artificial intelligence infrastructure. The company's massive debt and its impact on the credit market are also being closely watched.</summary>
+    <published>2026-11-13T12:54:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.oreilly.com/radar/?p=20219</id>
+    <title>[Data Science] ¿Qué hace que un agente sea autoevolucionado?</title>
+    <updated>2026-11-13T13:32:23.394132+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
-    <link href="https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/"/>
-    <summary>En la década de 1970, los primeros ordenadores personales revolucionaron la forma en que las personas interactuaban con la tecnología. En 1993, se demostró el primer sitio web comercial, y en 1995 y 1996, se consideró que Microsoft y Netscape estaban en una batalla por el dominio del servidor web y el navegador. Sin embargo, la creación de aplicaciones sobre el navegador dio valor; En la actualidad, se considera que ChatGPT, Claude, Gemini y otros agentes de código son los navegadores de esta era, pero no han demostrado ser el "aplicativo killer" aún. La creación de un "aplicativo killer" implica que la tecnología revoluciona la forma en que las personas interactúan con ella y se vuelve una parte integral de su vida diaria. La plataforma de AI es similar a la web en la medida en que requiere una plataforma sólida para funcionar, pero aún no se ha encontrado el "aplicativo killer" para la AI. La creación de un "aplicativo killer" requiere que los desarrolladores creen algo que cambie la forma en que las personas interactúan con la tecnología y se convierta en una parte integral de su vida diaria. En 1985, se lanzó Aldus PageMaker y el Apple LaserWriter, que se convirtieron en el "killer app" de la interfaz gráfica de usuario. En 1994, Netscape introdujo HTTPS y lo hizo disponible en su navegador, lo que hizo que fuera seguro ingresar números de tarjeta de crédito en una página web. La empresa Google invirtió capital en la construcción de centros de datos y fibra óptica; La empresa Amazon fue una tienda de libros con más libros que cualquier tienda física podría albergar. En 2000, los operadores de telecomunicaciones estadounidenses invirtieron aproximadamente $97 mil millones en capital en su infraestructura; En 2005, YouTube se fundó sobre una banda ancha barata que alguien más había pagado antes de salir de negocio.
+    <link href="https://www.oreilly.com/radar/?p=20219"/>
+    <summary>Un agente puede mejorar su desempeño sin necesidad de un nuevo modelo. Puede aprender a encontrar información útil, elegir la herramienta adecuada o verificar que una tarea se haya completado antes de informar el éxito. La investigación de Harness-RSI explora cómo los agentes pueden cambiar el "harnes" mientras continúan utilizando el mismo modelo. Para evaluar un agente, es necesario preguntarse si utilizó la información adecuada, tomó las acciones adecuadas y cumplió con las necesidades del usuario. Un agente puede planificar una cena por sí mismo y aún depende de un ingeniero para enseñarle una mejor forma de planificar. El agente maneja la información devuelta por sus herramientas y utiliza su harness actualizado para realizar la próxima ronda de mejora. El agente tiene la oportunidad de mejorar su capacidad para encontrar y probar mejoras. Antes de pedirle a un agente que mejore a sí mismo, es importante saber qué haría un mejor desempeño; Un modelo de benchmark nos dice cómo se desempeñó el modelo en ese test. Un cambio puede hacer que las cosas empeoren, por lo que es importante evaluar si el agente utilizó la información adecuada y tomó las acciones adecuadas. Los componentes trabajan juntos para lograr el objetivo del agente; Un agente puede mejorar su desempeño sin necesidad de un nuevo modelo, lo que lo hace más eficiente y efectivo.
 
 Por qué importa:
-La creación de un "aplicativo killer" de la inteligencia artificial es importante porque revolucionaría la forma en que las personas interactúan con la tecnología y se vuelve una parte integral de su vida diaria. La plataforma de AI es similar a la web en la medida en que requiere una plataforma sólida para funcionar, pero aún no se ha encontrado el "aplicativo killer" para la AI.</summary>
-    <published>2026-11-11T15:43:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/</id>
-    <title>[Data Science] Se utiliza la tecnología de ropa de deporte para crear un perfil de riesgo cardiovascular-renal-metabólico personalizado</title>
-    <updated>2026-11-12T16:29:08.315010+00:00</updated>
-    <author>
-      <name>The latest research from Google</name>
-    </author>
-    <link href="https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/"/>
-    <summary>Zeinab Esmaeilpour y Ahmed A; Metwally, investigadores de Google Research, han desarrollado un marco de aprendizaje de máquina investigativo que traduce señales pasivas de ropa de deporte en una edad de salud modifiable. El estudio identifica que el síndrome cardiovascular-renal-metabólico (CKM) es una condición interconectada que comienza a declinar silenciosamente años antes de que aparezcan los síntomas. El estudio muestra que la CKM saludable se relaciona estrechamente con la salud general y que la personalización es clave para mejorar la salud. El estudio desarrolla un modelo de salud que combina señales pasivas de ropa de deporte con biomarcadores de sangre rutinarios para perfilar la CKM en individuos. Los modelos investigativos presentados son prototipos de herramientas diagnósticas, pero no deben ser utilizados para fines clínicos. La investigación se llevó a cabo en colaboración con equipos de Google Research y otros equipos de investigación. El trabajo ha sido realizado por un equipo diverso de investigadores, incluyendo a Zeinab Esmaeilpour, Simon A; Lee y otros. El estudio se llevó a cabo durante 12 semanas y muestra que la CKM saludable se relaciona estrechamente con la salud general. El estudio identifica que el síndrome cardiovascular-renal-metabólico (CKM) es una condición interconectada que comienza a declinar silenciosamente años antes de que aparezcan los síntomas. El estudio desarrolla un marco de salud que combina señales pasivas de ropa de deporte con biomarcadores de sangre rutinarios para perfilar la CKM en individuos.
-
-Por qué importa:
-Este estudio es importante porque puede ayudar a prevenir enfermedades crónicas relacionadas con la salud cardiovascular, renal y metabólica. La tecnología de ropa de deporte puede ser una herramienta útil para la detección temprana de estas enfermedades, permitiendo a los individuos tomar medidas preventivas para mejorar su salud.</summary>
-    <published>2026-11-11T19:54:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/</id>
-    <title>[Data Science] Obtener salidas estructuradas confiables de LLMs: Validación, intentos y decodificación restringida</title>
-    <updated>2026-11-12T16:29:08.314971+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/getting-reliable-structured-outputs-from-llms-validation-retries-and-constrained-decoding/"/>
-    <summary>La API de respuestas de OpenAI promete una respuesta que se ajusta a un esquema de JSON o un modelo Pydantic. El SDK de Python proporciona un objeto parseado en lugar de una cadena, y la mayoría de las tutoriales terminan en el momento en que el JSON se parsea. El contrato tiene cuatro campos y el usuario es el propietario del campo, no la solicitud; Las dos opciones de configuración hacen la mayor parte del trabajo: modo estricto y extra='forbid'. La función accept() ejecuta cuatro pasos y termina en uno de cuatro estados: aceptado, necesita revisión, rechazado o error de forma; El presupuesto de tres es real solo si también se propietaria de los intentos de transporte. La API de OpenAI Python reintenta errores de conexión, tiempos de espera, respuestas 409, 429 y 5xx dos veces por defecto con un retroalimento exponencial. Un modelo de lenguaje puede producir una respuesta con un código fence, una oración adicional o un extra key, independientemente de la solicitud. La guía estructurada de OpenAI para el SDK de Python, como de octubre de 2026, utiliza la función client.responses.parse(...) con text_format=Invoice. La función accept() en el pipeline verifica la forma del objeto, pero no garantiza que el valor de total_cents sea exactamente 125000; La función accept() en el pipeline garantiza que total_cents sea un número entero, no que sea 125000. La función accept() en el pipeline solo verifica la forma del objeto, no su contenido; La función accept() en el pipeline solo verifica la forma del objeto, no su contenido. La función accept() en el pipeline solo verifica la forma del objeto, no su contenido; La función accept() en el pipeline solo verifica la forma del objeto, no su contenido.
-
-Por qué importa:
-Es importante entender cómo funcionan las API de respuestas de LLMs y cómo se pueden utilizar para obtener salidas estructuradas confiables. La validación y el reintentado son fundamentales para garantizar la precisión de las respuestas.</summary>
-    <published>2026-11-12T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/</id>
-    <title>[Data Science] Git necesita ayuda: De archivos a sistemas para control de fuentes</title>
-    <updated>2026-11-12T16:29:08.314935+00:00</updated>
-    <author>
-      <name>Radar</name>
-    </author>
-    <link href="https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/"/>
-    <summary>En 2005, Git fue diseñado para resolver problemas de colaboración en terminales, pero en 2026, los agentes de código autónomos no piensan en archivos de texto ni en saltos de línea. El autor argumenta que Git debe evolucionar para tratar a los agentes de código como un artefacto de primera clase, versionado junto con el código. Esto requiere un cambio en la arquitectura de Git para tratar de sistemas de código en lugar de archivos de texto. El autor describe cómo este cambio puede mejorar la eficiencia y la seguridad del control de fuentes. El cambio requiere una reestructuración de la herramientería de desarrollo y puede ser difícil de implementar debido a la profundidad del ecosistema de Git. Sin embargo, el autor argumenta que es necesario para permitir a los agentes de código trabajar de manera segura y eficiente a gran escala.
-
-Por qué importa:
-El autor argumenta que la actual arquitectura de Git es inadecuada para manejar la complejidad de los agentes de código autónomos; Los agentes de código no piensan en archivos de texto ni en saltos de línea, sino que razonan en árboles de sintaxis, gráficos de ejecución y restricciones de tipo. El autor describe cómo la actual arquitectura de Git se vuelve ineficiente y vulnerable a errores cuando se intenta manejar la complejidad de estos agentes de código; El cambio a un sistema de código en lugar de archivos de texto puede mejorar la eficiencia y la seguridad del control de fuentes.</summary>
-    <published>2026-11-12T11:54:27+00:00</published>
+La autoevolución de un agente es importante porque permite mejorar su desempeño y aumentar su eficiencia. Al aprender a encontrar información útil y elegir la herramienta adecuada, un agente puede mejorar su capacidad para cumplir con las necesidades del usuario.</summary>
+    <published>2026-11-13T13:32:23.394165+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems</id>
     <title>[Data Science] 7 libros gratuitos para aprender sobre sistemas de inteligencia artificial</title>
-    <updated>2026-11-12T16:29:08.314898+00:00</updated>
+    <updated>2026-11-13T13:32:23.394097+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -167,7 +125,7 @@ El autor es un experto en ingeniería de sistemas de inteligencia artificial y c
   <entry>
     <id>https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit</id>
     <title>[Data Science] Building Graph-Enhanced GenAI Applications con graphrag-toolkit</title>
-    <updated>2026-11-12T16:29:08.314863+00:00</updated>
+    <updated>2026-11-13T13:32:23.394061+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -179,51 +137,51 @@ El graphrag-toolkit es una herramienta importante para mejorar la búsqueda de i
     <published>2026-11-12T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/</id>
-    <title>[Fórmula 1] La carrera de Antonelli se vio afectada por problemas de manejo</title>
-    <updated>2026-11-12T16:29:08.314824+00:00</updated>
+    <id>https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/</id>
+    <title>[Data Science] Guía completa para la evaluación de modelos de lenguaje</title>
+    <updated>2026-11-13T13:32:23.394024+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/"/>
-    <summary>Andrea Kimi Antonelli, el nuevo campeón mundial, parecía estar a punto de ganar su primera carrera cuando se adelantó a sus rivales por ocho segundos en los primeros 12 laps en Interlagos. Sin embargo, su equipo, Mercedes, no pudo reconocer el problema con su carro y Antonelli terminó en quinto lugar después de pitar por intermediatos y recibir una penalización por una salida insegura. A pesar de la mala suerte, Antonelli aseguró que su carro no se comportaba bien, especialmente en las curvas de alta velocidad, y tuvo que abandonar la carrera después de una segunda caída. Su equipo, liderado por Toto Wolff, logró asegurar la victoria en la clasificación de constructores. A pesar de la derrota, Antonelli aseguró que su equipo aún tenía mucho por celebrar. Su compañero de equipo, George Russell, aprovechó la oportunidad para adelantarlo y terminar en segundo lugar. La carrera se vio afectada por la lluvia, que regresó después de que Antonelli pitaron por intermediatos. La penalización de Antonelli fue una consecuencia de su salida insegura.
+    <link href="https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"/>
+    <summary>La evaluación de modelos de lenguaje es un proceso crucial para mejorar su calidad. Se utilizan scorers y jueces para evaluar los outputs de los modelos, y se pueden utilizar diferentes técnicas para evaluar la calidad de los outputs. Es importante ejecutar evaluaciones offline y en línea, utilizar holdout sets y múltiples métricas para evitar sesgos y asegurar resultados precisos. La evaluación de la fealdad y la relevancia de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de fealdad y relevancia, y se puede utilizar un sistema de puntuación para evaluar la fealdad y la relevancia. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje. Los modelos de lenguaje pueden ser evaluados utilizando diferentes métodos, como la evaluación de la fealdad y la relevancia, y se pueden utilizar diferentes técnicas para evaluar la calidad de los outputs. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje. La evaluación de la fealdad de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de fealdad, y se puede utilizar un sistema de puntuación para evaluar la fealdad. La evaluación de la relevancia de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de relevancia, y se puede utilizar un sistema de puntuación para evaluar la relevancia. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje.
 
 Por qué importa:
-La carrera de Antonelli fue importante porque marcó el comienzo de su carrera como campeón mundial; Su equipo, Mercedes, había trabajado duro para asegurar la victoria en la clasificación de constructores. La carrera también fue significativa porque Antonelli demostró su habilidad para liderar en una carrera difícil.</summary>
-    <published>2026-11-09T17:05:55+00:00</published>
+La evaluación de los modelos de lenguaje es un proceso crucial para mejorar su calidad y asegurar que cumplan con los criterios de calidad. Es importante utilizar diferentes técnicas y métodos para evaluar la calidad de los outputs y evitar sesgos en las evaluaciones.</summary>
+    <published>2026-11-13T11:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29622</id>
-    <title>[Fórmula 1] Stella pide al equipo McLaren que celebren su victoria en el GP de São Paulo</title>
-    <updated>2026-11-12T16:29:08.314789+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/</id>
+    <title>[Data Science] Cómo verificar el output de LLM locales con Ollama, Gemma 4 y Nimble</title>
+    <updated>2026-11-13T13:32:23.393990+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29622"/>
-    <summary>El equipo McLaren, liderado por Andrea Stella, celebró su victoria en el GP de São Paulo gracias a la excelente conducción de Lando Norris, quien se llevó la victoria con una actuación impresionante en condiciones difíciles. Stella destacó la contribución del equipo en su victoria, destacando la ejecución estratégica y el desempeño de Norris. Aunque Oscar Piastri no pudo aprovechar al máximo su potencial, Stella lo calificó de rápido. La victoria de McLaren fue gracias a la combinación de la velocidad y la consistencia de Norris, así como a la ejecución estratégica y los pit stops bien ejecutados. Stella también destacó la importancia de la colaboración del equipo y la contribución de su power unit partner, Mercedes High Performance Powertrains (HPP). La victoria de McLaren fue una victoria de equipo, y Stella pide que el equipo celebre su logro.
+    <link href="https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"/>
+    <summary>Un equipo de desarrolladores ha creado un flujo de trabajo para revisar y mejorar el output de modelos de lenguaje locales, utilizando Ollama, Gemma 4 y Nimble. Se envían tres revisiones en una sola solicitud API, y se extraen cada elección seleccionada para dar un acción a seguir en el código de Python. El retry enfocado se ha implementado para solo reintentar preguntas problemáticas. El recordatorio del asistente fue enviado, pero la lista de hablantes aún espera la aprobación final antes de poder comunicarse. El equipo ha configurado Ollama y Gemma para funcionar localmente, y Nimble para funcionar localmente. Se han creado flujos de trabajo para revisar y elegir el próximo paso en el proceso de revisión de respuestas. El equipo ha instalado Ollama, Gemma 4 E2B y Nimble, y ha configurado los modelos para funcionar localmente. El flujo de trabajo se ha creado para revisar y mejorar el output de Gemma, y se ha implementado un retry enfocado para las respuestas problemáticas.
 
 Por qué importa:
-La victoria de McLaren en el GP de São Paulo es importante porque muestra la capacidad del equipo para adaptarse a condiciones difíciles y demostrar su habilidad para trabajar en equipo. La victoria de Lando Norris es un ejemplo de su habilidad para conducir en condiciones adversas, y la contribución de Oscar Piastri es un recordatorio de que el equipo tiene talento en todas sus líneas; La victoria de McLaren también es un recordatorio de que el equipo sigue trabajando duro para mejorar su desempeño y alcanzar sus objetivos.</summary>
-    <published>2026-11-10T09:00:00+00:00</published>
+Es importante entender cómo funcionan los modelos de lenguaje locales y cómo se pueden mejorar sus respuestas; El equipo de desarrolladores ha creado un flujo de trabajo para revisar y mejorar el output de Gemma, lo que permite mejorar la precisión y la calidad de las respuestas. El uso de Ollama y Nimble permite funcionar los modelos localmente, lo que reduce la dependencia de internet y mejora la velocidad de respuesta.</summary>
+    <published>2026-11-13T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/</id>
-    <title>[Fórmula 1] No F1 engine manufacturers recibirán actualizaciones adicionales después de la evaluación ADUO del FIA</title>
-    <updated>2026-11-12T16:29:08.314752+00:00</updated>
+    <id>https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev</id>
+    <title>[Data Science] 5 FREE Open-Source Alternatives to Jev</title>
+    <updated>2026-11-13T13:32:23.393955+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/"/>
-    <summary>La FIA no ofrecerá a ningún fabricante de motores de F1 la oportunidad de realizar actualizaciones adicionales de unidad de potencia después de su evaluación más reciente de ADUO. La evaluación concluyó que no se deberían ofrecer más oportunidades de homologación de motores. Los fabricantes de motores que no cumplieron con los estándares de rendimiento fueron Audi, Ferrari y Honda, que perdieron 4% de potencia. Mercedes recibió una actualización adicional después de estar cerca del rendimiento del líder. La FIA revisó las reglas de ADUO para permitir que los fabricantes que estén 10% por debajo del líder puedan gastar más dinero. El director de F1, Nikolas Tombazis, defendió las reglas y indicó que podrían ser revisadas en las próximas temporadas. La FIA ha trabajado con los fabricantes y equipos para mejorar la eficiencia del sistema ADUO.
+    <link href="https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev"/>
+    <summary>El artículo presenta 5 alternativas de modelos de decisión abiertos y gratuitas para aquellos que buscan una solución alternativa a Jev. Estas alternativas ofrecen diferentes características y tamaños de modelo, lo que las hace adecuadas para diferentes aplicaciones. Mammoth-1, vLLM Semantic Router D3, Perplexity pplx-decider v1.2, H2O-Lightning-4B y Kev son algunas de las opciones presentadas. Cada una de estas alternativas tiene sus ventajas y desventajas, por lo que es importante evaluarlas en función de las necesidades específicas de cada proyecto. Es importante mencionar que aunque estas alternativas son gratuitas, pueden requerir hardware y recursos computacionales significativos. Es recomendable probar cada una de ellas en su propio datos y verificar sus licencias y requisitos de despliegue antes de tomar una decisión. Además, es importante recordar que la eficacia de un modelo no siempre se traduce en la mejor opción para una aplicación específica.
 
 Por qué importa:
-La evaluación ADUO es un sistema que busca equilibrar el rendimiento de los motores de F1. Aunque ha sido criticado, la FIA defiende su implementación y busca mejorar el sistema para que siga siendo relevante y eficiente.</summary>
-    <published>2026-11-10T11:20:33+00:00</published>
+El artículo es una guía para aquellos que buscan una solución alternativa a Jev, un modelo de decisión propietario; La guía presenta 5 alternativas de modelos de decisión abiertos y gratuitas que ofrecen diferentes características y tamaños de modelo. Estas alternativas son adecuadas para diferentes aplicaciones y pueden ser una buena opción para aquellos que buscan una solución más flexible y personalizable; La guía también destaca la importancia de evaluar cada una de estas alternativas en función de las necesidades específicas de cada proyecto.</summary>
+    <published>2026-11-13T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/29630</id>
     <title>[Fórmula 1] Russell admite haber tomado demasiada riesa en la salida de la curva de la pista después de su error extraño en São Paulo</title>
-    <updated>2026-11-12T16:29:08.314709+00:00</updated>
+    <updated>2026-11-13T13:32:23.393916+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -237,7 +195,7 @@ El título de Mercedes fue el resultado de un trabajo en equipo que involucró a
   <entry>
     <id>https://www.f1technical.net/news/29631</id>
     <title>[Fórmula 1] FIA confirma no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de F1 después de la tercera evaluación de ADUO</title>
-    <updated>2026-11-12T16:29:08.314665+00:00</updated>
+    <updated>2026-11-13T13:32:23.393878+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -249,79 +207,51 @@ La FIA ha confirmado que no se otorgan más homologaciones de actualización a l
     <published>2026-11-10T16:01:54+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/</id>
-    <title>[Tecnología] Designing for privacy on intelligent eyewear</title>
-    <updated>2026-11-12T16:29:08.314624+00:00</updated>
+    <id>https://www.racefans.net/2026/11/12/court-of-appeal-to-hear-audis-case-over-tsunoda-decision-on-november-25th/</id>
+    <title>[Fórmula 1] Corte de Apelación escuchará el caso de Audi sobre la decisión de Tsunoda el 25 de noviembre</title>
+    <updated>2026-11-13T13:32:23.393812+00:00</updated>
     <author>
-      <name>Technology</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/"/>
-    <summary>Google está diseñando gafas inteligentes con Gemini para proporcionar respuestas rápidas sobre lo que se ve, manteniendo las manos libres. Estas gafas tienen características de protección para garantizar la privacidad de los usuarios y los que los rodean. Entre estas características se incluyen luzes de indicación físicas, redacción automática de la cara y cifrado de datos para asegurar que la información del usuario permanezca segura. El usuario tiene control total sobre sus configuraciones y puede apagar el dispositivo en cualquier momento. Estas gafas también pueden ayudar a personas con discapacidad visual, proporcionando descripciones auditivas de textos pequeños y objetos cotidianos. Sin embargo, Google reconoce la importancia de proteger la privacidad de los usuarios y los que los rodean, y está trabajando para avanzar en estas protecciones en colaboración con expertos en privacidad.
+    <link href="https://www.racefans.net/2026/11/12/court-of-appeal-to-hear-audis-case-over-tsunoda-decision-on-november-25th/"/>
+    <summary>La Corte de Apelaciones ha fijado una fecha para escuchar el caso de Audi sobre la decisión de los stewards italianos sobre Yuki Tsunoda. Tsunoda, quien sustituyó a Liam Lawson de Racing Bulls en Monza, terminó siete segundos por delante de Gabriel Bortoleto, lo que podría darle a Audi un punto si Tsunoda es penalizado. Audi cree que Tsunoda debería recibir una penalización porque no comenzó desde la pista de pit lane. Los stewards decidieron que Tsunoda "no fue la causa" del extra lap de formación y, por lo tanto, no tenía que comenzar desde la pista de pit lane. Este es el segundo caso este año en el que la Corte de Apelaciones ha sido solicitada a decidir sobre una decisión tomada por los stewards en un gran premio. En septiembre, la Corte de Apelaciones reinstató dos penalizaciones que habían sido originalmente emitidas a Pierre Gasly durante el Gran Premio de Monaco y luego rescindidas. Audi Revolut F1 Team apeló la decisión del 9 de septiembre de 2026, argumentando que Tsunoda había causado el extra lap de formación y debería haber recibido la penalización correspondiente. El caso se escuchará el 25 de noviembre en la sede de la FIA en París.
 
 Por qué importa:
-La privacidad es fundamental para el diseño de tecnología de gafas inteligentes. Google está trabajando para crear experiencias que sean seguras y protejan tanto al usuario como a los que lo rodean.</summary>
-    <published>2026-11-12T14:00:00+00:00</published>
+La decisión de los stewards sobre Tsunoda es importante porque puede tener un impacto en el resultado de la carrera y en la clasificación de la temporada. La Corte de Apelaciones tendrá que decidir si la decisión de los stewards fue correcta o no, y si Tsunoda debería recibir una penalización por no comenzar desde la pista de pit lane.</summary>
+    <published>2026-11-12T16:52:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/best-open-earbuds/</id>
-    <title>[Tecnología] Mejores auriculares abiertos de 2026</title>
-    <updated>2026-11-12T16:29:08.314584+00:00</updated>
+    <id>https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/</id>
+    <title>[Fórmula 1] Grosjean admite que su carrera en monoplazas es probablemente al final</title>
+    <updated>2026-11-13T13:32:23.393773+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/story/best-open-earbuds/"/>
-    <summary>En 2026, los mejores auriculares abiertos son la Anker AeroClip 2, seguida de cerca por los Shokz OpenDots. Los auriculares abiertos de Bose Ultra son una opción sólida, pero carísima, con una excelente calidad de sonido. Los PearClip Pros son una opción asequible y una buena forma de probar si te gustan los auriculares abiertos. Los Shokz OpenRun Pro 2 son una excelente opción para actividades al aire libre, con una excelente calidad de sonido y una duración de batería larga. Los Nothing Ear (Open) son una opción asequible y cómoda, con una excelente calidad de sonido y un diseño transparente. Los CMF Clip Pro son una opción más cómoda y fácil de usar que la Soundpeats PearClip Pro; Los JLab Epic Open Sport tienen una excelente calidad de control, pero una pobre calidad de sonido. El EarFun Clip es una opción asequible y cómoda, con una excelente calidad de sonido y una caja compacta. El Shokz OpenFit Pro cuesta $250 y tiene una batería de 12 horas con un cargador inalámbrico. El Suunto Wing 2 tiene una batería de 12 horas y un cargador inalámbrico, mientras que el Suunto Spark tiene un diseño similar al del Suunto Wing 2. El Shokz Openfit 2 supera al Suunto Spark en comodidad y calidad de sonido.
+    <link href="https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/"/>
+    <summary>Romain Grosjean, el expiloto de Fórmula 1 que sobrevivió a un accidente con fuego seis años atrás en Bahrein, está preparando su salida de la carrera en monoplazas. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos; El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos; El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos; El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos. El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos. El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos. Grosjean terminó en la pista en 19º lugar en la temporada de IndyCar, lo que lo convierte en uno de los pilotos con menos puntos. El piloto francés admitió que la temporada fue "dura" y que no tuvo la herramienta para competir en algunos circuitos.
 
 Por qué importa:
-Los auriculares abiertos son una opción popular para aquellos que buscan una forma de escuchar música o hablar con amigos sin bloquear sus oídos. Importa elegir un modelo que se adapte a tus necesidades y preferencias.</summary>
-    <published>2026-11-12T15:00:00+00:00</published>
+Grosjean es un piloto experimentado que ha tenido una carrera exitosa en Fórmula 1 y ha demostrado su valía en diferentes series de monoplazas. Su decisión de dejar la carrera en monoplazas es un paso importante en su carrera, ya que le permite enfocarse en otros proyectos y seguir adelante con su pasión por el motor deporte.</summary>
+    <published>2026-11-13T08:39:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/</id>
-    <title>[Tecnología] Pre-orders para algunos dispositivos de la colección de Apple Home abrirán el 13 de noviembre</title>
-    <updated>2026-11-12T16:29:08.314544+00:00</updated>
+    <id>https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/</id>
+    <title>[Fórmula 1] FIA retira la credencial de periodista de F1 por artículo ofensivo</title>
+    <updated>2026-11-13T13:32:23.393733+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/"/>
-    <summary>Apple confirmó que los pre-orders para dos cámaras LG y una puerta de vidrio abrirán el 13 de noviembre. Los dispositivos, que Apple y LG colaboraron en, serán los primeros accesorios de la colección de Apple Home a llegar. Se espera que lleguen en diciembre. Los pre-orders para otros productos de la línea, incluyendo termómetros y cerraduras, no han sido anunciados. Los dispositivos tienen características como la cámara de 2.5K, visión nocturna y detección de personas y animales. El precio de los dispositivos es de $200, $300 y $250 respectivamente. Los dispositivos ofrecen end-to-end encryption y pueden ser controlados mediante otros dispositivos de Apple.
+    <link href="https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/"/>
+    <summary>La FIA ha retirado la credencial de periodista de un reportero de F1 debido a un artículo en el que se le llamó "sneaky b*d" a Charles Leclerc. El reportero, que trabajaba para The Daily Mail, fue acusado de no cumplir con los estándares de profesionalidad esperados por la FIA. La decisión se tomó después de que Max Verstappen ordenara la expulsión de otro periodista, Giles Richards de The Guardian, de una conferencia de prensa. Tres rondas de la temporada de F1 quedan por disputarse en Estados Unidos, Catar y Abu Dhabi. El reportero en cuestión no podrá cubrir las próximas carreras como periodista de la FIA. La FIA considera que el artículo fue inapropiado y no cumplió con los estándares de profesionalidad esperados.
 
 Por qué importa:
-La colección de Apple Home es una línea de accesorios diseñados para integrar con los dispositivos de Apple; Los dispositivos de la colección ofrecen características como la cámara de 2.5K y visión nocturna, lo que los hace útiles para monitorear la casa. La seguridad y la privacidad son aspectos importantes de estos dispositivos, que ofrecen end-to-end encryption y pueden ser controlados mediante otros dispositivos de Apple.</summary>
-    <published>2026-11-12T15:16:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873</id>
-    <title>[Tecnología] Un caso de anafilaxia causada por una bebida energética</title>
-    <updated>2026-11-12T16:29:08.314502+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873"/>
-    <summary>Un caso reportado por una médica de Atlanta, Georgia, muestra que una anafilaxia puede ser causada por una bebida energética. Annabelle Rowland describe un episodio de anafilaxia en un niño de 15 años que se debió a una bebida energética que contenía collagen de pescado. El niño había tenido una historia de eczema, asma, fiebre del heno y una condición rara del pulmón. Después de recibir tratamiento en un centro de emergencia para alergias, el niño se recuperó completamente. La investigación mostró que el niño tenía una reacción alergica a la bebida energética debido a la presencia de collagen de pescado. El caso ilustra la complejidad de las alergias de pescado y la importancia de considerar el collagen de pescado en los productos. El niño había experimentado síntomas similares en el pasado después de consumir pescado enlatado. La investigación también encontró que el niño no tenía reacciones alergicas a otros tipos de pescado. El caso es raro, pero ilustra la importancia de ser cuidadoso al diagnosticar y tratar las alergias de pescado.
-
-Por qué importa:
-Este caso es importante porque ilustra la complejidad de las alergias de pescado y la necesidad de considerar el collagen de pescado en los productos. La investigación muestra que el niño tenía una reacción alergica a la bebida energética debido a la presencia de collagen de pescado, lo que destaca la importancia de ser cuidadoso al diagnosticar y tratar las alergias de pescado.</summary>
-    <published>2026-11-12T15:40:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</id>
-    <title>[Tecnología] Jensen Huang renuncia como CEO de Nvidia</title>
-    <updated>2026-11-12T16:29:08.314462+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"/>
-    <summary>Jensen Huang, cofundador de Nvidia en 1993, renunció como CEO de la empresa esta mañana, tras una investigación interna sobre varias relaciones extramaritales con un empleado directo y una supuesta espía china. La empresa anunció que Colette Kress, su nueva CEO interina, liderará el equipo mientras se busca un sucesor permanente. La decisión de Huang sigue tras una investigación sobre sus relaciones personales. La empresa ha expresado su confianza en Kress para liderar el equipo. La renuncia de Huang es el resultado de una investigación interna sobre sus relaciones personales. La empresa ha anunciado que Kress liderará el equipo mientras se busca un sucesor permanente. La renuncia de Huang sigue tras una investigación sobre sus relaciones personales. La empresa ha expresado su confianza en Kress para liderar el equipo. La investigación sobre las relaciones personales de Huang sigue en curso. La empresa ha anunciado que Kress liderará el equipo mientras se busca un sucesor permanente.
-
-Por qué importa:
-La renuncia de Jensen Huang como CEO de Nvidia es un golpe para la empresa, que ha sido una de las más exitosas en el sector de la tecnología; La empresa ha sido pionera en el desarrollo de la GPU y ha jugado un papel clave en la revolución de la inteligencia artificial; La investigación sobre las relaciones personales de Huang sigue en curso, lo que sugiere que la empresa enfrenta desafíos internos. La renuncia de Huang es un momento crítico para la empresa, que debe encontrar un nuevo líder para liderar su equipo y seguir adelante con sus objetivos.</summary>
-    <published>2026-11-12T15:48:12+00:00</published>
+La decisión de la FIA es importante porque muestra que el comportamiento de los pilotos y los periodistas puede tener consecuencias; La FIA busca mantener un ambiente de respeto y profesionalismo en el mundo de la F1. La retirada de la credencial del reportero es un recordatorio de que los periodistas deben cumplir con ciertos estándares de conducta.</summary>
+    <published>2026-11-13T09:33:53+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</id>
     <title>[Tecnología] Quiénop lanzó una red social</title>
-    <updated>2026-11-12T16:29:08.314421+00:00</updated>
+    <updated>2026-11-13T13:32:23.393644+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -333,65 +263,79 @@ La red social de Whoop es importante porque permite a los miembros compartir dat
     <published>2026-11-12T16:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/dipeshba/nuxt-3-is-end-of-life-migrate-to-nuxt-4-now-or-wait-for-nuxt-5-358m</id>
-    <title>[Programación] Nuxt 3 es el final de vida y se recomienda migrar a Nuxt 4 ahora o esperar a Nuxt 5.</title>
-    <updated>2026-11-12T16:29:08.314380+00:00</updated>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</id>
+    <title>[Tecnología] 5 new Google Flow Tools designed by visual artists</title>
+    <updated>2026-11-13T13:32:23.393604+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Technology</name>
     </author>
-    <link href="https://dev.to/dipeshba/nuxt-3-is-end-of-life-migrate-to-nuxt-4-now-or-wait-for-nuxt-5-358m"/>
-    <summary>Nuxt 3 alcanzó el final de vida el 31 de julio de 2026 y ya no recibe actualizaciones de seguridad ni correcciones de bugs. Nuxt 4 es la única versión de Nuxt que se considera soportada para la mayoría de las aplicaciones de producción. El equipo de Nuxt prometió mantener Nuxt 4 durante al menos seis meses después del lanzamiento de Nuxt 5. La migración a Nuxt 4 es recomendada para aplicaciones que no requieren una gran cantidad de cambios. El equipo de Nuxt lanzó una guía de migración para ayudar a los desarrolladores a actualizar a Nuxt 4. Nuxt 5 se estima lanzará en Q4 de 2026. Nuxt 4 es soportado por al menos seis meses después de que Nuxt 5 se lance. El equipo de Nuxt prometió que la mayoría de los cambios de Nuxt 4 serán mínimos y que se pueden realizar con un mínimo de esfuerzo.
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"/>
+    <summary>Google Flow está lanzando cinco nuevas herramientas creativas diseñadas por artistas visuales para ayudar a los usuarios a mantener la coherencia de los personajes a lo largo de las décadas, convertir videos de teléfonos en imágenes de alta calidad y más. Estas herramientas permiten generar arte estilizado, simular efectos de luz complejos y mejorar la calidad de la imagen de los videos con efectos profesionales. Los usuarios pueden visitar el estudio de Google Flow hoy mismo para empezar a construir sus propias herramientas creativas y explorar estas nuevas características para su próximo proyecto. Estas herramientas permiten a los usuarios diseñar personajes consistentes, aplicar estilos digitales retro, simular efectos de luz complejos y mejorar la calidad de la imagen de los videos con ángulos de cámara cinematográficos. Estas herramientas pueden ayudar a acelerar el proceso creativo, mantener un estilo único y llevar a la vida sus ideas únicas. Los usuarios pueden probar estas características en el estudio de Google Flow hoy mismo; Las nuevas herramientas de Google Flow demuestran cómo se pueden seguir empujando los límites de la narrativa visual. Estas cinco herramientas, todas diseñadas por creativos, demuestran que hay cada vez menos límite en lo que se puede construir en Google Flow. Estas herramientas pueden ayudar a los usuarios a moldear su próxima historia, desde el concepto hasta la última edición; Los usuarios pueden utilizar estas herramientas para crear imágenes de alta calidad y mantener un estilo único en sus proyectos. Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y llevar a la vida sus ideas únicas; Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y mantener un estilo único en sus proyectos. Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y llevar a la vida sus ideas únicas.
 
 Por qué importa:
-La decisión de Nuxt de finalizar el soporte para Nuxt 3 es importante porque afectará a los desarrolladores que utilizan esta versión de la plataforma. La migración a Nuxt 4 es una opción recomendada para aquellos que desean un paso pequeño y fácil.</summary>
-    <published>2026-11-11T12:55:31+00:00</published>
+Estas herramientas son importantes porque permiten a los usuarios crear imágenes de alta calidad y mantener un estilo único en sus proyectos.</summary>
+    <published>2026-11-12T20:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</id>
-    <title>[Programación] Incidente de seguridad en eMudhra</title>
-    <updated>2026-11-12T16:29:08.314334+00:00</updated>
+    <id>https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/</id>
+    <title>[Tecnología] Whoop Humans es un red social diseñada para entusiastas del fitness</title>
+    <updated>2026-11-13T13:32:23.393516+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"/>
-    <summary>Mozilla recibió un informe de seguridad el 17 de octubre a las 20:06 UTC, que informaba sobre la posible compromiso de 8 certificados de eMudhra. El informe fue enviado a eMudhra y a los programas de raíz de Apple y Microsoft; Mozilla confirmó la validez del informe y comenzó el proceso de desconfiar de los certificados en Firefox. El 21 de octubre a las 21:29 UTC, eMudhra aprobó el informe y notificó a Sectigo; El 21 de octubre a las 21:48 UTC, Mozilla recuperó las claves privadas de los certificados afectados sin necesidad de ayuda. El 22 de octubre a las 22:59 UTC, Mozilla completó el proceso de desconfiar de los certificados; El 30 de abril de 2025, se generaron 24 intermediatos que incluyeron a los 8 certificados afectados. El problema se debió a que las claves privadas se generaron con números enteros pequeños que pueden ser recuperados fácilmente; Mozilla ha marcado las certificaciones afectadas como revocadas para proteger a sus usuarios. El problema no afecta a las claves RSA de eMudhra; El problema se debió a un error en el script de KGC utilizado para generar las claves ECC. Mozilla ha revocado la confianza en el certificado de raíz emSign ECC Root CA - G3 debido a que los privados de los intermediados se han recuperado y algunos lo han compartido públicamente. Se ha emitido una versión no programada de Firefox Release/ESR el 20 de octubre, que revoca la confianza en los certificados intermedios; Chrome ha adoptado un enfoque similar al de Mozilla para abordar el problema; Se ha ceído la emisión de certificados de emSign ECC Root CA - G3. Se han identificado 30.000 certificados que requieren migración y el 97% de ellos fueron emitidos a través de ACME; Se ha publicado un informe de seguridad en el sitio web de emudhra.com. Se ha solicitado información adicional a eMudhra sobre cómo se comunicará con los suscriptores y los proveedores de servicios relacionados; Se ha identificado que el 99,9% de los certificados que se emiten a través de emSign ECC Root CA - G3 se han emitido a través de dos subordinados de Internet2 / InCommon.
+    <link href="https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/"/>
+    <summary>Whoop Humans es una red social diseñada para entusiastas del fitness, lanzada por la empresa Whoop. Los miembros pueden compartir datos de su Whoop wearable como garantía de autenticidad. El CEO de Whoop, Will Ahmed, describió el nombre de la red como "la red social más verificable que se ha lanzado". Los miembros pueden compartir datos de su fitness, incluyendo su sueño, recuperación, estrés y actividades. El objetivo es que los miembros puedan congratularse entre sí cuando alcanzan sus objetivos o recordar a un amigo que tome un descanso si ven que su "Recovery" data es baja. La red está disponible a través de la aplicación de Whoop y permite a los miembros seguir a amigos y familiares, comentar y reaccionar a sus publicaciones. La empresa envisionsa una red social donde las personas puedan verificar el progreso de los demás. La red está diseñada para que los miembros puedan compartir datos de su fitness, pero también pueden elegir compartir fotos de sus entrenamientos con un recurso llamado "Moments". Los miembros pueden elegir qué tipos de entrenamientos o logros se muestren en la red. La red está ahora disponible y los miembros pueden actualizar sus preferencias de compartir datos en cualquier momento.
 
 Por qué importa:
-El incidente de seguridad en eMudhra es importante porque afecta la confianza de los usuarios en las certificaciones de seguridad. La vulnerabilidad en las claves intermedias puede ser utilizada para comprometer la seguridad de los sitios web y aplicaciones que utilizan certificados de eMudhra; Es fundamental que los usuarios y los proveedores de servicios estén al tanto de este incidente y tomen medidas para protegerse.</summary>
-    <published>2026-11-11T19:46:16+00:00</published>
+La creación de Whoop Humans es una oportunidad para que los entusiastas del fitness compartan sus logros y progresos con otros. La red social puede ser una herramienta útil para aquellos que buscan motivarse y apoyarse mutuamente en su camino hacia la salud y el bienestar.</summary>
+    <published>2026-11-13T10:39:44+00:00</published>
   </entry>
   <entry>
-    <id>https://m.youtube.com/watch?v=Ke-_V_XT5i4</id>
-    <title>[Programación] Un bug en Unity sigue siendo un problema en el mundo de la software</title>
-    <updated>2026-11-12T16:29:08.314289+00:00</updated>
+    <id>https://www.wired.com/story/best-walking-pads/</id>
+    <title>[Tecnología] Tres caminadoras de piso para hogares y oficinas</title>
+    <updated>2026-11-13T13:32:23.393477+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://m.youtube.com/watch?v=Ke-_V_XT5i4"/>
-    <summary>En un video, se analiza un bug que ha estado presente durante décadas pero sigue siendo fácilmente ignorado debido a las reglas de casificación única del alfabeto turco. El problema se debe a la combinación de la caja de Unity con el método de mayúscula regular de C#. Este bug ha afectado a varios juegos de Unity y programas, incluyendo Pillars of Eternity, que lo solucionaron reemplazando una instancia de ToUpper por ToUpperInvariant. El autor recomienda utilizar el Turkey Test para detectar este tipo de errores y sugiere que las empresas de software implementen esta práctica de manera estándar. Además, se destaca la importancia de informar a los desarrolladores sobre los errores que se producen solo en dispositivos con idioma turco. El autor también menciona que este problema no se limita a los dispositivos turcos, sino que también afecta a otros dispositivos con idioma turco. El problema se ha solucionado en Unity versión 6.2 en 2024, según se informó a los autores. El autor recomienda utilizar ToLowerInvariant y ToUpperInvariant en lugar de ToLower y ToUpper para solucionar este problema. Finalmente, se destaca la importancia de reportar errores de manera oportuna para mantener este tema en la atención de las empresas de software y juegos.
+    <link href="https://www.wired.com/story/best-walking-pads/"/>
+    <summary>El Urevo CyberPad es una caminadora de piso con una inclinación de 14 por ciento y un sistema de seguridad que impide que el usuario se caiga. El modelo tiene un sistema de control por Bluetooth y una aplicación que permite rastrear datos de ejercicio y ajustar la velocidad y la inclinación; El NordicTrack Commercial 1750 Treadmill es otro modelo con una velocidad máxima de 12 mph y opciones de inclinación y declive. El Toputure TP6 Walking Pad es un piso caminador foldable con un diseño compacto y un peso de 56 libras; El Lifesmart TM2202 3-in-1 Treadmill se puede utilizar como piso caminador, treadmill y workstation. El GoYouth 2-in-1 Under Desk Treadmill tiene un diseño simple y una capacidad de carga de 300 libras; El Egofit Walker Pro M1 tiene una inclinación fija del 5% y un diseño ligero y fácil de mover. La US Consumer Product Safety Commission ha advertido a los consumidores sobre el uso de varios modelos de piso caminador Sperax debido a riesgos de caídas y incendios. El Urevo SpaceWalk 5L Smart Walking Pad tiene una capacidad de carga de 300 libras y una velocidad máxima de 4 mph; El Urevo CyberPad tiene un sistema de audio que permite escuchar música o podcasts mientras se camina. El Urevo CyberPad tiene un sistema de monitoreo de salud que rastrea la frecuencia cardíaca, la respiración y otros parámetros de salud. El Urevo CyberPad tiene un sistema de ajuste de velocidad que permite ajustar la velocidad de caminada según sea necesario; El Urevo CyberPad tiene un sistema de iluminación que se activa automáticamente cuando se utiliza la caminadora. El Urevo CyberPad tiene un sistema de control por Bluetooth y una aplicación que permite rastrear datos de ejercicio y ajustar la velocidad y la inclinación. El Urevo CyberPad tiene un sistema de seguridad que impide que el usuario se caiga, gracias a su diseño estable y su sistema de frenado.
 
 Por qué importa:
-Este bug es importante porque afecta a los usuarios que utilizan dispositivos con idioma turco, lo que puede hacer que algunos juegos y programas no funcionen correctamente. Es fundamental que las empresas de software y juegos tomen medidas para solucionar este problema y brindar una experiencia de usuario más fluida para todos los usuarios.</summary>
-    <published>2026-11-12T08:15:24+00:00</published>
+La elección de una caminadora de piso adecuada para el hogar o la oficina es crucial para mantener una buena salud y bienestar. Las caminadoras de piso ofrecen una forma segura y eficiente de caminar mientras se trabaja o se relaja.</summary>
+    <published>2026-11-13T12:34:00+00:00</published>
   </entry>
   <entry>
-    <id>https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</id>
-    <title>[Programación] C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules</title>
-    <updated>2026-11-12T16:29:08.314236+00:00</updated>
+    <id>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</id>
+    <title>[Tecnología] Oportunidades para desafiantes en el turbio liderazgo de Nvidia</title>
+    <updated>2026-11-13T13:32:23.393440+00:00</updated>
     <author>
-      <name>programming</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/"/>
-    <summary>C3 0.8.6 es ahora disponible; Las dos principales características son la funcionalidad de recopilación de bibliotecas revolucionada y un objetivo para la compilación de bibliotecas de fuente completa. También vemos mejoras en la velocidad de compilación y una reducción del tamaño de los binarios de modo seguro en un tercio; Además, se incluyen correcciones de errores de un análisis sistemático de casts, vectores y convenciones de llamada. La nueva versión incluye una serie de mejoras y cambios en la funcionalidad, incluyendo la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums. También se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más. El nuevo objetivo de compilación de bibliotecas de fuente completa permite a los usuarios crear bibliotecas de fuente y compilarlas de manera más fácil. Además, se ha mejorado la capacidad de recopilar y descargar bibliotecas de manera más flexible. La versión 0.8.6 también incluye una serie de correcciones de errores y mejoras en la funcionalidad, incluyendo la capacidad de especificar versiones y checksums. Además, se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más. En resumen, la versión 0.8.6 de C3 ofrece una serie de mejoras y cambios en la funcionalidad, incluyendo la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums. También se ha mejorado la seguridad y la estabilidad del compilador, con una reducción del tamaño de los binarios en un 30% o más.
+    <link href="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"/>
+    <summary>El retiro del CEO de Nvidia, Jensen Huang, ha generado preocupación en Israel, donde la empresa considera su "hogar" y ha sido fundamental para el crecimiento económico del país. Intel, Microsoft y startups locales también tienen una presencia significativa en el país. La pregunta es si Nvidia seguirá comprometida con Israel con un nuevo líder. La empresa ha sido clave en el desarrollo de tecnología de inteligencia artificial, pero su liderazgo crisis podría dar espacio a competidores. Los inversores creen que la demanda por productos de Nvidia no disminuirá, pero que el nuevo líder podría tener menos control sobre la empresa y la industria. La salida de Huang podría dar más espacio a startups que desarrollan tecnología de inteligencia artificial alternativa.
 
 Por qué importa:
-La versión 0.8.6 de C3 es importante porque ofrece una serie de mejoras y cambios en la funcionalidad que pueden mejorar la seguridad y la estabilidad del compilador. Además, la capacidad de descargar bibliotecas de manera más flexible y la posibilidad de especificar versiones y checksums pueden ser beneficiosas para los usuarios que necesitan trabajar con bibliotecas de fuente.</summary>
-    <published>2026-11-12T13:16:09+00:00</published>
+La salida de Jensen Huang como CEO de Nvidia ha generado preocupación en Israel, donde la empresa tiene una gran presencia; La pregunta es si Nvidia seguirá comprometida con Israel con un nuevo líder. La empresa ha sido clave en el desarrollo de tecnología de inteligencia artificial, pero su liderazgo crisis podría dar espacio a competidores.</summary>
+    <published>2026-11-13T12:52:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors</id>
+    <title>[Tecnología] Apple debería haber utilizado un logo de MacBook RGB</title>
+    <updated>2026-11-13T13:32:23.393348+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors"/>
+    <summary>Apple CEO John Ternus anunció el primer MacBook con pantalla táctil el mes pasado, y la reacción más grande en la sala no fue por la pantalla OLED PROLED o el chassis más delgado y ligero; fue por el logo de la tapa iluminada. Es un toque de nostalgia, pero funcionó muy bien; El logo se ajusta a la intensidad de la pantalla: más brillante la pantalla, más brillante el logo. Sin embargo, el logo de los viejos MacBooks estaba iluminado por la luz de fondo de la pantalla, y una pantalla OLED no tiene eso; Gracias a iFixit, ahora sabemos que está iluminado por cuatro LEDs blancas y sincronizado con la intensidad de la pantalla por software. Pero eso significa que Apple podría haber utilizado LEDs RGB; Los colores del espectro, como rojo, naranja, amarillo, verde, azul, índigo y violeta, ¿por qué no? Después de todo, Apple insiste en ser seria sobre el juego, y nada dice "serio sobre el juego" como la iluminación RGB; El autor estaba esperando que los usuarios pudieran personalizar el logo iluminado de la tapa de manera similar a la de la consola de juegos Xbox de Microsoft. Sin embargo, no hubo suerte; Se puede apagar la iluminación con algunos comandos del terminal o controlarla con una aplicación de tercer partido; Pero cuando está encendido, solo está iluminado con luz blanca; La dispección de iFixit también mostró la dificultad de acceder a esas LEDs (la pantalla se despegó y se rompió en el proceso). Por lo tanto, es poco probable que veamos mods de LEDs RGB para este laptop a menos que alguien se atreve a voidar la garantía y arriesgar una reparación cara de pantalla en su laptop de $3,000. La mayor diversión que se puede tener con el logo de Apple es instalar una aplicación gratuita como LogoLight y hacer que pulse, respire, o sincronizarse con el ritmo de cualquier música que se esté tocando. Hay diversión ahí, pero si se combinara con estas características y se agregara un toque de color, realmente estaríamos cocinando; Los MacBooks no son laptops de juego, por lo que la iluminación RGB puede parecer un mal ajuste, pero los LEDs multicolores podrían haber sido una easter egg divertida. Nadie pensó que Apple pondría una pantalla táctil en un MacBook, y el iPhone Duo y HomeView muestran que Apple está en una nueva era de experimentación durante la era de Ternus; Quizás si el logo de la tapa iluminada alguna vez se convierte en un MacBook Air o MacBook Neo, Apple podría soltar un poco.
+
+Por qué importa:
+El logo de la tapa iluminada es un toque de nostalgia que funcionó muy bien.</summary>
+    <published>2026-11-13T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l</id>
     <title>[Programación] Un sistema de análisis de mercados automatizado que convierte las noticias en operaciones de simulación.</title>
-    <updated>2026-11-12T16:29:08.314159+00:00</updated>
+    <updated>2026-11-13T13:32:23.393281+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -405,7 +349,7 @@ El sistema es importante porque puede ayudar a los inversores a tomar decisiones
   <entry>
     <id>https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3</id>
     <title>[Programación] El problema de seguridad de Claude Code pone a los agentes de código de AI en juicio</title>
-    <updated>2026-11-12T16:29:08.314037+00:00</updated>
+    <updated>2026-11-13T13:32:23.393238+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -415,5 +359,61 @@ El sistema es importante porque puede ayudar a los inversores a tomar decisiones
 Por qué importa:
 Este problema de seguridad de Claude Code es importante porque puede tener consecuencias graves para las empresas que utilizan sus herramientas de AI; La exposición de credenciales sensibles puede comprometer la seguridad de la información y dar lugar a ataques cibernéticos. Es fundamental que los proveedores de herramientas de AI tomen medidas para prevenir este tipo de problemas y garantizar la seguridad de sus usuarios.</summary>
     <published>2026-11-12T16:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.cloudflare.com/choosing-quepaxa/</id>
+    <title>[Programación] Cloudflare utiliza QuePaxa para su control plane global</title>
+    <updated>2026-11-13T13:32:23.393160+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://blog.cloudflare.com/choosing-quepaxa/"/>
+    <summary>Cloudflare ha anunciado Meerkat, un servicio de consenso distribuido experimental diseñado para gestionar su plano de control global. La nueva algoritmo de consenso, QuePaxa, promete estabilidad mejorada en entornos con conectividad de red volátil y latencia, como Internet. QuePaxa fue publicado en 2023 por Tennage &amp; Băsescu et al. y se diferencia del papel original, con clientes que esperan un tiempo de hedge en lugar de los replicas. La implementación de QuePaxa utiliza un enfoque diferente al de Raft o Multi-Paxos para manejar los tiempos de espera, que no están limitados por la latencia de la red. Cloudflare diseñó y desarrolló el protocolo Meerkat para un sistema de consenso distribuido y está formalmente verificando su implementación. La implementación de Meerkat y QuePaxa se está probando con pruebas de simulación y inyección de fallos. La elección del líder en Meerkat se puede cambiar dinámicamente sin afectar la estabilidad del sistema. Cloudflare está extendiendo el diseño original de Meerkat para incluir la recuperación de fallos.
+
+Por qué importa:
+La implementación de Meerkat y QuePaxa es importante porque permite a Cloudflare gestionar su plano de control global de manera más eficiente y estable, especialmente en entornos con conectividad de red volátil y latencia. Esto puede tener un impacto significativo en la seguridad y la disponibilidad de sus servicios en línea.</summary>
+    <published>2026-11-13T01:45:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tendril.hokora.xyz/blog/a-leaderboard-you-cant-fake/</id>
+    <title>[Programación] A leaderboard you can't fake: deterministic replay, sealed replays and a source check</title>
+    <updated>2026-11-13T13:32:23.393083+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://tendril.hokora.xyz/blog/a-leaderboard-you-cant-fake/"/>
+    <summary>Tendril es un juego de cultivo que se juega escribiendo un programa. El servidor no confía en los puntajes que se envían, por lo que utiliza un sistema de replay determinista para verificar la legalidad de cada entrada. Cada entrada tiene un "fingerprint" único, que es la SHA-256 de la lista de movimientos. El servidor compara este fingerprint con el de la entrada que se está verificando para asegurarse de que sean idénticos. El sistema también tiene un límite diario para el número de submissions que se pueden hacer por cuenta. El servidor provee que cada run es legal y que el programa que se ha enviado produjo ese run. El sistema es transparente y los reglas, el código de replay y el verificador están en el repositorio abierto. El servidor también tiene un sistema de "human" o "model" para distinguir entre entradas escritas por humanos y modelos. El sistema es seguro y no confía en la autenticidad de los puntajes. El servidor también tiene un sistema de "duel" para que los jugadores puedan ver los replays de sus oponentes; El sistema es único y no se puede "falsificar".
+
+Por qué importa:
+Este sistema es importante porque garantiza la integridad del juego y no permite que los jugadores "falsifiquen" sus puntajes. El sistema es transparente y los reglas, el código de replay y el verificador están en el repositorio abierto, lo que permite a los jugadores verificar la legalidad de cada entrada; El sistema también es seguro y no confía en la autenticidad de los puntajes, lo que ayuda a mantener la integridad del juego.</summary>
+    <published>2026-11-13T12:42:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/ohyoseok92/how-to-trace-one-stale-citation-in-an-existing-rag-app-53a8</id>
+    <title>[Programación] Cómo rastrear una cita caducada en una aplicación RAG existente</title>
+    <updated>2026-11-13T13:32:23.393011+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/ohyoseok92/how-to-trace-one-stale-citation-in-an-existing-rag-app-53a8"/>
+    <summary>Un chatbot de política indica que un permiso vence después de 30 días y cita un documento de política; Sin embargo, el documento ahora dice 45 días, pero el chatbot sigue dando la respuesta antigua. Un análisis de trazado limitado se puede utilizar para este tipo de fallos; Se recomienda redactar nombres, secretos y datos personales antes de compartir un trazado. Se deben comparar los trazados en cada paso de mano, en orden: fuente → ingestión, ingestión → recuperación, recuperación → caché de respuesta, respuesta → exhibición de la cita. El primer desacuerdo encaja en el siguiente test; Un error de índice antiguo es diferente de un error de caché que ignora cambios de fuente. Un correcto respuesta con la respuesta equivocada puede ser un fallo de exhibición o metadatos; Se recomienda no prescribir una solución antes de ver la frontera; En un ejemplo sintético, el inicial fuente dice 30 días. Después de cambiarlo a 45 días, el mecanismo de caché da como resultado un entry clave que devuelve el texto de 30 días; El trazado muestra cache_hit: verdadero y citation_valid: falso. Un source-aware key falla después de la edición y devuelve el texto de 45 días; esto demuestra el mecanismo de caché para este caso, no una solución universal RAG. En este caso, la respuesta equivocada y la cita equivocada tienen la misma origen: una respuesta guardada contra una fuente anterior. Se recomienda un resultado observable: inmediatamente después de que la edición de la fuente ha completado la ingestión, la misma pregunta debe devolver la declaración de 45 días, citar texto presente en la actual documentación y identificar la documentación esperada. Una solicitud repetida puede golpear el actual caché; La respuesta antigua de 30 días no debe reaparecer mientras la entrada anterior sigue viva.
+
+Por qué importa:
+Es importante entender por qué importa rastrear una cita caducada en una aplicación RAG existente; Si el chatbot no actualiza correctamente la información, puede generar respuestas incorrectas que pueden tener consecuencias importantes. Por ejemplo, si un permiso caducado no se actualiza correctamente, puede generar problemas de seguridad o de cumplimiento; Por lo tanto, es fundamental identificar y solucionar los fallos de este tipo para garantizar la precisión y la confiabilidad de la información proporcionada por el chatbot.</summary>
+    <published>2026-11-13T12:55:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/moathothman/backend-not-ready-mock-it-at-the-proxy-from-the-openapi-spec-you-already-have-35ef</id>
+    <title>[Programación] Cómo mockear APIs en desarrollo</title>
+    <updated>2026-11-13T13:32:23.392589+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/moathothman/backend-not-ready-mock-it-at-the-proxy-from-the-openapi-spec-you-already-have-35ef"/>
+    <summary>En desarrollo, es común que los endpoints de una API no estén listos; Para solucionar esto, existen varias opciones para mockear APIs, como utilizar fixtures, un cliente HTTP falso o una biblioteca de intercepción de solicitudes como MSW. Estas opciones son adecuadas para pruebas unitarias y de componentes, proporcionan retroalimentación rápida y no requieren una conexión a Internet; Sin embargo, pueden ser débiles en situaciones donde se necesita mockear todo el API, incluso después de que el endpoint real esté disponible. Otra opción es utilizar un servidor de mock que se basa en la especificación de OpenAPI, como Stoplight Prism, y cambiar la URL base del aplicativo para que utilice este servidor. Esta opción es adecuada para contratos de API que no existen aún, equipos que trabajan de manera contracargada y desarrollo local; Sin embargo, puede ser débil cuando se necesita combinar mockear con el código real. Una tercera opción es utilizar un proxy de depuración que solo responde a los endpoints que faltan y pasa el resto a la backend real. Esta opción es adecuada para mockear uno o dos endpoints faltantes en un API real, pruebas manuales en dispositivos reales y pruebas de calidad contra los mismos mocks que los desarrolladores. Sin embargo, puede ser débil cuando se necesita configurar el proxy de manera convencional; Es importante tener en cuenta que un mock que solo devuelve el camino feliz no es suficiente, ya que los endpoints que producen listas o detalles a menudo no se producen en demanda. En cambio, un mock puede producirlos en segundos; La opción 3, que es lo que hace Proxycept, es una herramienta que permite subir una especificación de OpenAPI 3 o una colección de Postman y obtener un route de mock por operación. También permite editar un route para devolver lo que se necesita, como una lista vacía, un 401 o un 500, o una retraso; Cualquier cosa que no se haya mockeado se envía a la backend real, a menos que se active el modo de captura, que bloquea todo lo que no se ha mockeado. La herramienta es gratuita y se puede utilizar con un plan de inicio; También ofrece una herramienta para capturar y reproducir respuestas reales y reproducir solicitudes de HTTP; La opción 3 es adecuada para pruebas de calidad y es una herramienta útil para cualquier equipo que necesite mockear APIs en desarrollo.
+
+Por qué importa:
+En el desarrollo de aplicaciones, es común que los endpoints de una API no estén listos para su uso; Esto puede causar problemas y retrasos en el proceso de desarrollo; En estos casos, es importante tener opciones para mockear APIs de manera efectiva. La opción 3, que es lo que hace Proxycept, es una herramienta que permite subir una especificación de OpenAPI 3 o una colección de Postman y obtener un route de mock por operación; Esta herramienta es útil para contratos de API que no existen aún, equipos que trabajan de manera contracargada y desarrollo local.</summary>
+    <published>2026-11-13T12:56:43+00:00</published>
   </entry>
 </feed>
