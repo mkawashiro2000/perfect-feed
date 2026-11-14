@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-13T13:32:23.392299+00:00</updated>
+  <updated>2026-11-14T13:23:08.891094+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html</id>
-    <title>[Economía] La fortuna conjunta de Jensen y Lori Huang en Nvidia es objeto de dudas tras su renuncia</title>
-    <updated>2026-11-13T13:32:23.394365+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html"/>
-    <summary>Jensen Huang, CEO de Nvidia, ha renunciado a su cargo, lo que genera incertidumbre sobre su fortuna conjunta con su esposa, Lori Huang. La pareja juntos posee alrededor de 800 millones de acciones de Nvidia, valiosas en aproximadamente $135 mil millones, a través de una red de trusts y LLCs creados para fines de impuestos y planificación de sucesiones. Este tipo de estructura es común entre fundadores y CEOs de la industria tecnológica, pero es menos común que una pareja tenga una participación igual en la propiedad de acciones. La situación se complica aún más debido a la renuncia de Huang, pero podría proporcionar estabilidad para las acciones, ya que los trusts dificultan la venta rápida de acciones por parte de ambos. La estructura de trusts también genera incertidumbre sobre cómo se distribuirán las acciones en caso de divorcio o muerte. Los expertos en impuestos y planificación de sucesiones consideran que la estructura de trusts puede proporcionar beneficios fiscales significativos, pero también puede ser complicada de cambiar. La renuncia de Huang genera preguntas sobre su futuro financiero y cómo se distribuirán sus acciones. La situación también genera interés entre los inversores y los medios de comunicación. La fortuna conjunta de Jensen y Lori Huang en Nvidia es objeto de estudio y análisis.
-
-Por qué importa:
-La renuncia de Jensen Huang como CEO de Nvidia genera interés y preocupación entre los inversores y los medios de comunicación; La estructura de trusts que posee la pareja genera incertidumbre sobre cómo se distribuirán sus acciones en caso de divorcio o muerte. Los expertos en impuestos y planificación de sucesiones consideran que la estructura de trusts puede proporcionar beneficios fiscales significativos, pero también puede ser complicada de cambiar; La situación también genera preguntas sobre el futuro financiero de Jensen Huang y cómo se distribuirán sus acciones; La renuncia de Huang puede tener un impacto en el valor de las acciones de Nvidia y en la reputación de la empresa.</summary>
-    <published>2026-11-12T15:03:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html</id>
-    <title>[Economía] Una renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro</title>
-    <updated>2026-11-13T13:32:23.394329+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"/>
-    <summary>Nvidia anunció la renuncia de su CEO, Jensen Huang, después de más de 30 años en el cargo. La empresa tiene un problema de liderazgo después de que Huang admitió tener una relación romántica con una mujer que la inteligencia de EE. UU; cree que es una espía china; El precio de acción de Nvidia cayó más del 12% después de la anunciación de la renuncia de Huang. El analista Ben Reitzes de Melius Research bajó su rating de Nvidia de "comprar" a "hold" después de la renuncia de Huang. El precio de acción de Nvidia bajó 6% después de la anunciación de la renuncia de Huang. El analista Mark Lipacis bajó su precio de acción de Nvidia de $465 a $186 después de la renuncia de Huang. El analista Sebastien Naji de William Blair bajó su rating de Nvidia de "outperform" a "market perform" después de la renuncia de Huang. El analista Rick Schafer bajó su rating de Nvidia de "outperform" a "perform" después de la renuncia de Huang. La empresa tiene 40,000 empleados y "real talent" que el consejo puede utilizar para ejecutar los planes existentes. La empresa no tiene un plan de sucesión claro y esto podría hacer que su valor disminuya.
-
-Por qué importa:
-La renuncia de Jensen Huang deja a Nvidia con dudas sobre su futuro en el mercado de la inteligencia artificial. La empresa tiene una gran dependencia de Huang y su partida podría exponer a la empresa como un riesgo para el mercado.</summary>
-    <published>2026-11-12T15:22:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html</id>
-    <title>[Economía] Jensen Huang's exit from Nvidia raises critical questions about the future of AI</title>
-    <updated>2026-11-13T13:32:23.394293+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html"/>
-    <summary>Jensen Huang, CEO de Nvidia, dejó la empresa después de 33 años de fundación, lo que genera preocupación sobre el futuro de la inteligencia artificial. Michael Dell lo describió como un "visionario de la era de la inteligencia artificial". Deutsche Telekom CEO Tim Höttges dijo que una foto con el CEO de Nvidia produjo más cobertura de medios para su empresa que su lanzamiento de iPhone. Marc Benioff, CEO de Salesforce, expresó su apoyo a Huang. Jensen Huang anunció un plan de $500 mil millones para construir una infraestructura de inteligencia artificial. Nvidia se convirtió en la primera empresa en superar una capitalización de mercado de $5 trillones; Colette Kress, CFO de Nvidia, fue nombrada interim CEO. Los ejecutivos y socios de Nvidia informaron que Huang frecuentemente ofrecía su ayuda en momentos difíciles a CEOs de otras empresas. La empresa Alembic recibió préstamos de Nvidia después de que Huang le envió un correo electrónico para ayudar en momentos de crisis. En 2024, Nvidia comenzó a apoyar a la startup Fireworks AI, que fue afectada por una serie de ataques cibernéticos. Fireworks AI estaba "dealing with a series of high-profile cyberattacks" cuando Huang se disculpó públicamente por su infidelidad.
-
-Por qué importa:
-La salida de Jensen Huang de Nvidia genera preocupación sobre el futuro de la inteligencia artificial, ya que su experiencia y conocimientos en el sector son fundamentales. La empresa necesita encontrar un sucesor capaz de liderar la innovación en inteligencia artificial.</summary>
-    <published>2026-11-12T15:46:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html</id>
-    <title>[Economía] U.S. seizes $1.2 billion in cryptocurrency stolen from Binance</title>
-    <updated>2026-11-13T13:32:23.394255+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html"/>
-    <summary>Los Estados Unidos han incautado alrededor de $1.2 mil millones en activos virtuales robados de la exchange de criptomonedas Binance hace un mes, según dijo el Departamento de Justicia. El Departamento de Justicia atribuyó el robo a actores vinculados a la milicia norcoreana; Se han congelado más de $2.7 mil millones de ese monto; La FBI atribuye el ataque a miembros de la milicia norcoreana conocidos como "TraderTraitor". El Departamento de Justicia está tomando medidas coordinadas contra las esquemas del gobierno norcoreano para financiar su régimen a través del robo de criptomonedas; Se han incautado más de $1.2 mil millones de activos virtuales. Los esfuerzos para interceptar y congelar los activos siguen en curso, aunque los actores de "TraderTraitor" continúan lavando los activos a través de canales de criptomonedas. El Departamento de Justicia también ha incautado la infraestructura basada en la nube utilizada en un gran esquema de identidad falsa conocido como "FaceStealer", que ha visto más de $400 millones de criptomonedas robadas en 18 meses. El esquema funciona con hackers que establecen reuniones de video falsas utilizando cuentas robadas y grabaciones de personas conocidas por el objetivo, utilizando fakes de profundidad artificial. Los hackers luego dicen que hay un problema técnico que requiere una solución, instalan malware en un ordenador y toman el control de las comunicaciones del víctima, robándoles criptomonedas y objetivo a sus contactos, a veces meses o más de un año después del inicial compromiso. Los trabajadores en la industria de las criptomonedas y las web3 son los principales objetivos; El director asistente de la FBI en el despacho de Los Ángeles, Patrick Grandy, calificó a "FaceStealer" como "un esquema social de ingeniería muy efectivo capaz de engañar incluso a los usuarios más experimentados y conscientes de la seguridad de los ordenadores". Grandy dijo que "exploita nuestra confianza en las plataformas de video de conferencia universales y nuestras relaciones personales valoradas; Si no puedes imaginar un escenario en el que podrías caerte, no estás pensando lo suficientemente creativamente"; El principal asistente del asistente general para la seguridad nacional M. Scott Proctor dijo que "el gobierno norcoreano financia su régimen y su programa de armas ilegales a través del robo de criptomonedas"; "Estamos luchando contra ese régimen corrupto para obtener sus ganancias ilícitas; La División de Nacionalidad Seguridad utilizará todos los instrumentos a su disposición para incautar y devolver las ganancias ilícitas del régimen norcoreano".
-
-Por qué importa:
-El Departamento de Justicia está tomando medidas para combatir las esquemas de ciberdelincuencia que originan del régimen norcoreano.</summary>
-    <published>2026-11-13T12:03:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html</id>
-    <title>[Economía] Trump dice que quiere "hacerse con Cuba" antes de dejar la oficina</title>
-    <updated>2026-11-13T13:32:23.394218+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html"/>
-    <summary>El presidente de los Estados Unidos, Donald Trump, ha dicho que quiere "hacerse con Cuba" antes de dejar la oficina en 2029 y que consideraría la intervención militar en el caribe. Su administración está monitoreando la situación en La Habana de manera muy cercana y describe a Cuba como un estado fallido. Trump dijo que su secretario de Estado, Marco Rubio, "lo amaría hacer" y que consideraría una operación militar breve. La embajada cubana en Washington D.C; estimó que el costo del bloqueo estadounidense a Cuba entre marzo de 2025 y febrero de 2026 fue de $8 mil millones. El gobierno de Trump ha impuesto sanciones adicionales a los tanques de petróleo cubanos y compañías de navegación, y ha amenazado con perseguir a cualquier entidad o persona que realice negocios en sus industrias marítimas. La embajada cubana ha respondido que estos pasos "profunden un asedio energético que deja a los hospitales sin energía y a las familias sin electricidad". Trump ha hablado anteriormente de una "topta de amistad" de La Habana y ha dicho que el White House podría enfocarse en Cuba después de la guerra de Irán. El presidente ha dicho que podría hacer lo que quisiera con el país y que cree que tendrá el "honor" de "tomar Cuba". En mayo, el ministro de energía cubano, Vicente de la O Levy, dijo que el país de 10 millones de habitantes se había quedado sin petróleo y diesel, describiendo la situación como "extremadamente tensa". Los analistas han sido escépticos con la posibilidad de una campaña militar estadounidense contra Cuba, sugiriendo que la presión económica contra las autoridades cubanas es más probable.
-
-Por qué importa:
-La situación en Cuba es crítica, con recientes apagones nacionales y escasez de combustible y alimentos. El bloqueo económico de los Estados Unidos ha contribuido a la crisis, y la embajada cubana ha denunciado que la política es "colectiva" y "punitiva".</summary>
-    <published>2026-11-13T12:28:55+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html</id>
     <title>[Economía] ¿Qué hay por delante para el financiamiento de la inteligencia artificial después de que el CEO de Nvidia Jensen Huang se vaya?</title>
-    <updated>2026-11-13T13:32:23.394175+00:00</updated>
+    <updated>2026-11-14T13:23:08.892459+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,9 +25,79 @@ Nvidia CEO Jensen Huang's departure amid an espionage and adultery scandal has r
     <published>2026-11-13T12:54:43+00:00</published>
   </entry>
   <entry>
+    <id>https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html</id>
+    <title>[Economía] Trump no planea abordar el asunto de Nvidia, cuestión de espionaje durante la visita a China, según oficiales de EE. UU.</title>
+    <updated>2026-11-14T13:23:08.892423+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"/>
+    <summary>Presidente Donald Trump no planea abordar las acusaciones de una operación de inteligencia china involucrando al expresidente de Nvidia, Jensen Huang, durante su reunión con el presidente chino Xi Jinping. Los oficiales de EE; UU. indicaron que la situación con Nvidia no debería afectar la reunión. El CEO de Tesla y SpaceX, Elon Musk, acompañará a Trump en la reunión en Shenzhen, China, para el summit de la Copei en noviembre. Las acusaciones contra Alice Huang, una ejecutiva de una empresa de Singapore que no está relacionada con Jensen Huang, han generado preocupación sobre la posible divulgación de chips de Nvidia restringidos en China. La administración de Trump no espera que Trump aborde las acusaciones contra Alice Huang durante la reunión. China ha descartado las acusaciones como infundadas. El CEO de Nvidia, Jensen Huang, renunció esta semana después de revelarse que había tenido una relación con Alice Huang, quien era ejecutiva de una empresa de cloud-computing que está siendo investigada por posibles violaciones de restricciones de exportación de chips de Nvidia. La situación ha generado preocupación sobre la agresividad de la administración de comercio de EE. UU; en bloquear los chips de Nvidia en China.
+
+Por qué importa:
+La reunión entre Trump y Xi Jinping es importante porque ambos líderes deben discutir la implementación del acuerdo comercial entre EE; UU; y China. La situación con Nvidia y las acusaciones contra Alice Huang también generan preocupación sobre la seguridad nacional y las posibles implicaciones para la relación comercial entre EE; UU; y China.</summary>
+    <published>2026-11-14T01:34:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html</id>
+    <title>[Economía] Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home</title>
+    <updated>2026-11-14T13:23:08.892386+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"/>
+    <summary>Foundation Future Industries, una empresa que desarrolla robots humanoides militares, no ha podido pagar a sus empleados después de que su fundador, Sankaet Pathak, tomó $4.6 millones de la empresa para comprar una casa de lujo. El problema se ha vuelto particularmente grave para algunos empleados de la empresa, que se sintieron engañados por el hecho de que Pathak había tomado el dinero que podría haberse utilizado para pagarlos. La empresa, que ha recibido apoyo financiero de Eric Trump, se encuentra en una situación precaria y se espera que Pathak pueda encontrar nuevos fondos para pagar las deudas. La empresa ha estado trabajando en un robot avanzado que podría ayudar a la US a competir con China, pero su situación financiera es crítica. La empresa ha ganado notoriedad por sus afirmaciones de que su robot podría ser utilizado en la guerra en Ucrania o en la patrulla en la frontera con México. El fundador de la empresa, Sankaet Pathak, ha sido criticado por su gestión de la empresa y su falta de transparencia. La empresa ha sido objeto de una investigación por parte del Congreso demócrata, que ha cuestionado si la empresa ganó contratos con el gobierno debido a la relación de Pathak con Eric Trump. La empresa ha sido objeto de críticas por su falta de transparencia y su gestión financiera. La situación de la empresa es crítica y se espera que Pathak pueda encontrar nuevos fondos para pagar las deudas.
+
+Por qué importa:
+La situación de Foundation Future Industries es crítica debido a la falta de transparencia y la mala gestión de su fundador, Sankaet Pathak; La empresa ha sido objeto de críticas por su falta de transparencia y su gestión financiera; La empresa ha sido objeto de una investigación por parte del Congreso demócrata, que ha cuestionado si la empresa ganó contratos con el gobierno debido a la relación de Pathak con Eric Trump. La empresa ha sido criticada por su afirmación de que su robot podría ser utilizado en la guerra en Ucrania o en la patrulla en la frontera con México, lo que ha generado preocupación sobre su viabilidad y su impacto en la seguridad nacional.</summary>
+    <published>2026-11-14T12:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html</id>
+    <title>[Economía] Conoce a los siete co-fundadores de Anthropic</title>
+    <updated>2026-11-14T13:23:08.892351+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"/>
+    <summary>Dario Amodei, 43, es el CEO de Anthropic y tiene 245,259,100 acciones, incluyendo acciones sujetas a votación. Daniela Amodei, 39, es la presidenta y presidenta del consejo de Anthropic; Tom Brown, 39, es el jefe de computación de Anthropic y co-inventó el método de RLHF. Jared Kaplan, 42, es el científico jefe de Anthropic y co-pionero de las leyes de escala; Jack Clark, 37, es el director de beneficios públicos de Anthropic y director del Instituto de Anthropic. Sam McCandlish, 36, es el chief architect de Anthropic y llegó a OpenAI como un fellow enfocado en la seguridad del AI. Anthropic tiene un valor de mercado estimado de $1.4 trillion y sus acciones se cotizarán entre $70 y $78 por acción. Los co-fundadores de Anthropic poseen alrededor del 10% de la empresa y cada uno tiene alrededor de 240,000,000 acciones. Sam McCandlish lideró la investigación inicial del código de Codex, que ahora constituye una parte significativa de la renta de OpenAI. Chris Olah, 34, dirige la investigación de interpretabilidad en Anthropic. Olah abandonó la Universidad de Toronto después de un año y trabajó en breves estancias como desarrollador en el agencia gubernamental Environment Canada y la startup de software Xelerance. Olah recibió una beca Thiel en 2012, que le permitió dedicar dos años a investigar impresoras 3D; Anthropic se espera que comience a cotizar en bolsa el 19 de noviembre.
+
+Por qué importa:
+Los co-fundadores de Anthropic poseen una gran cantidad de acciones de la empresa, lo que sugiere que tienen un gran control sobre su destino. La empresa tiene un valor de mercado estimado de $1.4 trillion, lo que la convierte en una de las empresas más valiosas del mundo.</summary>
+    <published>2026-11-14T12:15:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html</id>
+    <title>[Economía] Disrupciones de vuelo continúan después de que la FAA levanta el parón en tierra, algunos partidos de fútbol universitario retrasados</title>
+    <updated>2026-11-14T13:23:08.892315+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"/>
+    <summary>El Federal Aviation Administration (FAA) levantó el parón en tierra el sábado, lo que provocó que más de 3.000 vuelos estadounidenses se cancelaran y casi 1.000 se retrasaran hasta las 5:45 a.m. ET, según el sitio de seguimiento de vuelos FlightAware. Esto suma a las 9.000 cancelaciones y 7.000 retrasos del viernes, aunque algunas interrupciones fueron causadas por mal tiempo. Las aerolíneas están desplegando planes de repuesto y personal para recuperarse de la interrupción, que se extendió a lo largo del fin de semana. El FAA había suspendido los vuelos estadounidenses a partir de las 4 p.m. del viernes, lo que duró más de cuatro horas debido a problemas con la información de navegación. El secretario de transporte, Sean Duffy, atribuyó la interrupción a la infraestructura obsoleta del país y a la necesidad de más fondos para modernizar el control aéreo. El parón también afectó a los equipos de la NBA, NHL y la NCAA, que tuvieron dificultades para llegar a sus destinos a tiempo para los partidos este fin de semana. El secretario Duffy dijo que los equipos de fútbol universitario viajando en vuelos charter podrían recibir prioridad.
+
+Por qué importa:
+La interrupción de vuelos es un problema crónico en el país, causado por la obsolescencia de la infraestructura de control aéreo y la falta de personal capacitado; El FAA ha estado trabajando para mejorar la seguridad y la eficiencia del sistema, pero la falta de fondos y la complejidad del sistema han obstaculizado estos esfuerzos. La interrupción del viernes y el sábado es un recordatorio de la importancia de invertir en la modernización del control aéreo para evitar interrupciones similares en el futuro.</summary>
+    <published>2026-11-14T12:30:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html</id>
+    <title>[Economía] Retailers are turning to entertainment to win shoppers’ attention</title>
+    <updated>2026-11-14T13:23:08.892279+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html"/>
+    <summary>Gap Inc. ha creado un nuevo rol de jefe de entretenimiento para atraer a los consumidores. La empresa ha lanzado campañas importantes, colaborando con bandas como Just Your Type y construyendo sobre el éxito de las publicaciones de última año de la girl group Katseye. El objetivo es crear una experiencia única para los consumidores, reflejando la identidad de la marca. Gap es parte de un creciente grupo de retailers que invierten en entretenimiento y experiencias para atraer a los consumidores. El CEO Richard Dickson ha dicho que las marcas son historias y que Gap está en el centro de la cultura y la conversación cultural. Mattel también ha hecho campañas exitosas con su película de "Barbie". Los expertos dicen que los consumidores están buscando algo nuevo y original, y que las marcas que pueden "cortar el ruido" serán las que ganarán la batalla por la atención. Gap y otros retailers están trabajando en experiencias inmersivas en las tiendas y contenido exclusivo en línea para atraer a los consumidores. Sin embargo, la clave para el éxito es la autenticidad y la creación de una comunidad alrededor de la marca.
+
+Por qué importa:
+La creciente competencia por la atención de los consumidores ha llevado a los retailers a buscar nuevas formas de atraer a los clientes; Gap Inc; ha creado un nuevo rol de jefe de entretenimiento para atraer a los consumidores; La empresa ha lanzado campañas importantes, colaborando con bandas como Just Your Type y construyendo sobre el éxito de las publicaciones de última año de la girl group Katseye. El objetivo es crear una experiencia única para los consumidores, reflejando la identidad de la marca; Gap es parte de un creciente grupo de retailers que invierten en entretenimiento y experiencias para atraer a los consumidores.</summary>
+    <published>2026-11-14T13:00:01+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.oreilly.com/radar/?p=20219</id>
     <title>[Data Science] ¿Qué hace que un agente sea autoevolucionado?</title>
-    <updated>2026-11-13T13:32:23.394132+00:00</updated>
+    <updated>2026-11-14T13:23:08.892237+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -106,68 +106,12 @@ Nvidia CEO Jensen Huang's departure amid an espionage and adultery scandal has r
 
 Por qué importa:
 La autoevolución de un agente es importante porque permite mejorar su desempeño y aumentar su eficiencia. Al aprender a encontrar información útil y elegir la herramienta adecuada, un agente puede mejorar su capacidad para cumplir con las necesidades del usuario.</summary>
-    <published>2026-11-13T13:32:23.394165+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems</id>
-    <title>[Data Science] 7 libros gratuitos para aprender sobre sistemas de inteligencia artificial</title>
-    <updated>2026-11-13T13:32:23.394097+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems"/>
-    <summary>El autor comparte 7 libros gratuitos que cubren la ingeniería de sistemas de inteligencia artificial, desde la preparación de datos pipelines hasta la depuración y el servicio. Estos libros abordan temas como la latencia de inferencia, la gestión de memoria y la depuración de modelos. El autor recomienda estos libros para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial y cómo construir aplicaciones que funcionen en producción. Los libros cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la creación de modelos hasta la depuración y el servicio. El autor destaca la importancia de aprender sobre la ingeniería de sistemas de inteligencia artificial para construir aplicaciones que sean confiables, rápidas y seguras. Los libros gratuitos compartidos por el autor son una excelente fuente de conocimiento para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial. El autor enfatiza la importancia de la práctica y la depuración para asegurarse de que los modelos funcionen correctamente en producción. Los libros compartidos por el autor cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la creación de modelos hasta la depuración y el servicio. El autor recomienda leer estos libros para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial y cómo construir aplicaciones que funcionen en producción.
-
-Por qué importa:
-El autor es un experto en ingeniería de sistemas de inteligencia artificial y comparte sus conocimientos a través de 7 libros gratuitos; Estos libros cubren diferentes aspectos de la ingeniería de sistemas de inteligencia artificial, desde la preparación de datos pipelines hasta la depuración y el servicio. El autor destaca la importancia de aprender sobre la ingeniería de sistemas de inteligencia artificial para construir aplicaciones que sean confiables, rápidas y seguras; Los libros compartidos por el autor son una excelente fuente de conocimiento para aquellos que buscan aprender sobre la ingeniería de sistemas de inteligencia artificial.</summary>
-    <published>2026-11-12T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit</id>
-    <title>[Data Science] Building Graph-Enhanced GenAI Applications con graphrag-toolkit</title>
-    <updated>2026-11-13T13:32:23.394061+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit"/>
-    <summary>AWS Labs ha lanzado el open-source graphrag-toolkit para mejorar la búsqueda de información relevante y la conexión de relaciones entre piezas de texto. El toolkit utiliza Neo4j y Postgres como opciones de almacenamiento local, y Amazon Bedrock como proveedor de modelos. El objetivo es crear un asistente de investigación que pueda responder preguntas que requieren información de varias artículos de Wikipedia. La herramienta puede ser utilizada para realizar búsquedas de manera escalable y eficiente en grandes conjuntos de datos. Deloitte utiliza el lexical-graph en su Amazon Neptune-based GenAI Security Intelligence Center. El graphrag-toolkit es una herramienta de código abierto que utiliza dos componentes: lexical-graph y BYOKG-RAG, para cerrar la brecha en la búsqueda de información relevante. La herramienta puede ser utilizada para realizar búsquedas de manera escalable y eficiente en grandes conjuntos de datos.
-
-Por qué importa:
-El graphrag-toolkit es una herramienta importante para mejorar la búsqueda de información relevante y la conexión de relaciones entre piezas de texto. La herramienta puede ser utilizada para crear un asistente de investigación que pueda responder preguntas que requieren información de varias artículos de Wikipedia, lo que puede ser especialmente útil en campos como la medicina y la ciencia.</summary>
-    <published>2026-11-12T15:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/</id>
-    <title>[Data Science] Guía completa para la evaluación de modelos de lenguaje</title>
-    <updated>2026-11-13T13:32:23.394024+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/"/>
-    <summary>La evaluación de modelos de lenguaje es un proceso crucial para mejorar su calidad. Se utilizan scorers y jueces para evaluar los outputs de los modelos, y se pueden utilizar diferentes técnicas para evaluar la calidad de los outputs. Es importante ejecutar evaluaciones offline y en línea, utilizar holdout sets y múltiples métricas para evitar sesgos y asegurar resultados precisos. La evaluación de la fealdad y la relevancia de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de fealdad y relevancia, y se puede utilizar un sistema de puntuación para evaluar la fealdad y la relevancia. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje. Los modelos de lenguaje pueden ser evaluados utilizando diferentes métodos, como la evaluación de la fealdad y la relevancia, y se pueden utilizar diferentes técnicas para evaluar la calidad de los outputs. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje. La evaluación de la fealdad de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de fealdad, y se puede utilizar un sistema de puntuación para evaluar la fealdad. La evaluación de la relevancia de un modelo de lenguaje es un proceso que involucra la comparación de los outputs con un criterio de relevancia, y se puede utilizar un sistema de puntuación para evaluar la relevancia. La evaluación de los modelos de lenguaje es un proceso que requiere la creación de casos de prueba, la evaluación de los outputs y la comparación de los resultados, y se puede utilizar para mejorar la calidad de los modelos de lenguaje.
-
-Por qué importa:
-La evaluación de los modelos de lenguaje es un proceso crucial para mejorar su calidad y asegurar que cumplan con los criterios de calidad. Es importante utilizar diferentes técnicas y métodos para evaluar la calidad de los outputs y evitar sesgos en las evaluaciones.</summary>
-    <published>2026-11-13T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/</id>
-    <title>[Data Science] Cómo verificar el output de LLM locales con Ollama, Gemma 4 y Nimble</title>
-    <updated>2026-11-13T13:32:23.393990+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/"/>
-    <summary>Un equipo de desarrolladores ha creado un flujo de trabajo para revisar y mejorar el output de modelos de lenguaje locales, utilizando Ollama, Gemma 4 y Nimble. Se envían tres revisiones en una sola solicitud API, y se extraen cada elección seleccionada para dar un acción a seguir en el código de Python. El retry enfocado se ha implementado para solo reintentar preguntas problemáticas. El recordatorio del asistente fue enviado, pero la lista de hablantes aún espera la aprobación final antes de poder comunicarse. El equipo ha configurado Ollama y Gemma para funcionar localmente, y Nimble para funcionar localmente. Se han creado flujos de trabajo para revisar y elegir el próximo paso en el proceso de revisión de respuestas. El equipo ha instalado Ollama, Gemma 4 E2B y Nimble, y ha configurado los modelos para funcionar localmente. El flujo de trabajo se ha creado para revisar y mejorar el output de Gemma, y se ha implementado un retry enfocado para las respuestas problemáticas.
-
-Por qué importa:
-Es importante entender cómo funcionan los modelos de lenguaje locales y cómo se pueden mejorar sus respuestas; El equipo de desarrolladores ha creado un flujo de trabajo para revisar y mejorar el output de Gemma, lo que permite mejorar la precisión y la calidad de las respuestas. El uso de Ollama y Nimble permite funcionar los modelos localmente, lo que reduce la dependencia de internet y mejora la velocidad de respuesta.</summary>
-    <published>2026-11-13T12:00:00+00:00</published>
+    <published>2026-11-14T13:23:08.892272+00:00</published>
   </entry>
   <entry>
     <id>https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev</id>
     <title>[Data Science] 5 FREE Open-Source Alternatives to Jev</title>
-    <updated>2026-11-13T13:32:23.393955+00:00</updated>
+    <updated>2026-11-14T13:23:08.892203+00:00</updated>
     <author>
       <name>KDnuggets</name>
     </author>
@@ -179,37 +123,65 @@ El artículo es una guía para aquellos que buscan una solución alternativa a J
     <published>2026-11-13T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29630</id>
-    <title>[Fórmula 1] Russell admite haber tomado demasiada riesa en la salida de la curva de la pista después de su error extraño en São Paulo</title>
-    <updated>2026-11-13T13:32:23.393916+00:00</updated>
+    <id>https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour</id>
+    <title>[Data Science] Construir un lago de DuckLake: Crear un lagohouse en DuckDB en menos de una hora</title>
+    <updated>2026-11-14T13:23:08.892168+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/29630"/>
-    <summary>George Russell admitió que tomó demasiada riesa cuando se deslizó en la salida de la curva de la pista durante el Gran Premio de São Paulo, mientras que Mercedes se aseguró su novena edición del Campeonato de Constructores a pesar de una tarde desafiante en Interlagos. El piloto británico perdió el control en la curva de la salida de la pista, cayendo a la décima posición y perdiendo una gran cantidad de tiempo; Russell reconoció que su error fue al intentar aprovechar una oportunidad para luchar por la victoria; "Fue un día muy eventivo. Teníamos una gran velocidad en ciertas partes, especialmente con las llantas suaves, y eso fue un gran positivo para mí; Me cometí un error en la salida de la curva cuando estaba intentando ir por el ganar y quería ir por ello", explicó. Russell también destacó que el título fue el resultado de contribuciones de personas que no estaban en la pista cada fin de semana, destacando el trabajo realizado en las fábricas de Mercedes en Brackley y Brixworth; "Ganar el Campeonato Mundial de Constructores es siempre la reflexión última de un esfuerzo de equipo. Este deporte no es solo sobre los dos pilotos que están en la carretera cada fin de semana; es sobre las miles de decisiones que se toman en las fábricas y la determinación de cada persona que contribuye a la rendimiento del equipo", dijo. Russell también destacó que el equipo había trabajado duro para regresar a la cima después de varios años difíciles; "Cuando me uní a Mercedes en 2022, esperábamos estar luchando por campeonatos regularmente, así que haber pasado por esa jornada y ahora regresar a la cima es algo en lo que todos deberíamos sentir orgullosos", dijo. El piloto británico también destacó que el título fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana. "Cuando me uní a Mercedes en 2022, esperábamos que estuviéramos luchando por campeonatos regularmente, así que haber pasado por esa jornada y ahora regresar a la cima es algo en lo que todos deberíamos sentir orgullosos", dijo. El piloto británico también destacó que el título fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana; "Winning the Constructors World Championship is always the ultimate reflection of a team effort. This sport isn't just about the two drivers who are in the car every weekend; it's about the thousands of decisions made back at the factories and the determination of every person who contributes to the performance of the team."
+    <link href="https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour"/>
+    <summary>DuckLake 1.0 se lanzó en abril de 2026 con una especificación estable y compatibilidad retroalimentada garantizada. DuckLake utiliza un catálogo de SQL y archivos Parquet para almacenar datos. Un lagohouse solo requiere DuckDB y una carpeta. Se creó una carpeta, se cargaron Parquet, se agregaron, se actualizó y se cambió la esquema. Se consultaron versiones pasadas con AT (VERSION =&gt; n). Se corrigió un error de la historia; Se fusionaron archivos pequeños. Los archivos antiguos permanecen hasta que se expiran las capturas de snapshot. Los escritos pequeños se alinean por defecto. El primer comando instala la biblioteca de Python de DuckDB a la versión mínima necesaria para DuckLake 1.0. DuckLake 1.0 se utiliza con Python 3 reciente y conexión a Internet para descargar la extensión de DuckDB.
 
 Por qué importa:
-El título de Mercedes fue el resultado de un trabajo en equipo que involucró a personas que no estaban en la pista cada fin de semana.</summary>
-    <published>2026-11-10T15:50:58+00:00</published>
+DuckLake es una herramienta que permite a los usuarios crear un lagohouse en DuckDB, una base de datos SQL, en un plazo de menos de una hora. Esto se logra mediante la utilización de un catálogo de SQL y archivos Parquet para almacenar datos, lo que permite una mayor eficiencia y escalabilidad.</summary>
+    <published>2026-11-13T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29631</id>
-    <title>[Fórmula 1] FIA confirma no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de F1 después de la tercera evaluación de ADUO</title>
-    <updated>2026-11-13T13:32:23.393878+00:00</updated>
+    <id>https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/</id>
+    <title>[Data Science] Búsqueda de palabras clave ligada a un modelo de embebido de 8B en herramientas de búsqueda de agentes</title>
+    <updated>2026-11-14T13:23:08.892132+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29631"/>
-    <summary>La FIA ha confirmado que no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de Fórmula 1 después de la tercera evaluación de ADUO del temporada 2026. La FIA ha anunciado los resultados de su tercera evaluación de ADUO, que cubre las carreras 12 a 18 de la temporada 2026 de Fórmula 1. Mercedes se encuentra entre un 2% y un 4% detrás del mejor rendimiento de la unidad de combustión interna, lo que la hace elegible para una actualización adicional en ambos 2026 y 2027. Audi, Ferrari y Honda se encuentran más de un 4% detrás del benchmark y, por lo tanto, reciben dos actualizaciones adicionales para cada temporada. La FIA ha no revelado las mediciones de rendimiento exactas ni las diferencias entre los fabricantes, citando la naturaleza confidencial de la información. El sistema de ADUO operará durante el ciclo regulatorio 2026-2030, con la FIA monitoreando el rendimiento de cada unidad de combustión interna de los fabricantes a través de tres períodos de evaluación por temporada. Un fabricante que se encuentra al menos un 2% detrás del benchmark se hace elegible para actualizaciones adicionales. Los fabricantes que se encuentran entre un 2% y un 4% detrás del benchmark reciben una actualización adicional para la temporada actual y otra para la temporada siguiente. Se ha estado trabajando de manera estrecha con los fabricantes de la Unidad de Potencia y las equipos para explorar mejoras en el método que apoyarán la efectividad de ADUO en las temporadas futuras. El próximo período de evaluación de ADUO comenzará en 2027 y cubrirá las primeras seis carreras de la temporada, desde el Gran Premio de Bahrain hasta el Gran Premio de Miami.
+    <link href="https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/"/>
+    <summary>El equipo utilizó 200 preguntas de ToolRet, un benchmark público, para evaluar la recuperación de herramientas. Cada método empeoró a medida que crecía la cantidad de herramientas, y por aproximadamente un quinto de su puntuación. La búsqueda de palabras clave de la década de 1990 mantuvo su rendimiento con un modelo de embebido 24 veces más grande, aunque corriendo mucho más rápido. Al poner todas las herramientas en la pregunta, se agotó el espacio antes de que la pila de herramientas se detuviera. La documentación completa de las herramientas en lugar de una descripción resumida mejoró el rendimiento. El código, el conjunto de evaluación y los resultados por pregunta están disponibles en GitHub para que se puedan ejecutar nuevamente. El modelo BM25 responde a 40 veces más rápido que BGE-large y 2,000 veces más rápido que el pipeline de reencaje. El mejor setup de BM25 obtuvo una nDCG de 0,533 en 3,794 herramientas.
 
 Por qué importa:
-La FIA ha confirmado que no se otorgan más homologaciones de actualización a los fabricantes de unidades de potencia de Fórmula 1 después de la tercera evaluación de ADUO del temporada 2026, lo que significa que los fabricantes ya no podrán mejorar su rendimiento en comparación con el benchmark. Esto es importante porque afectará directamente a la competitividad de los equipos en la temporada 2027 y más allá.</summary>
-    <published>2026-11-10T16:01:54+00:00</published>
+La investigación es importante porque puede mejorar la recuperación de herramientas en aplicaciones de búsqueda de agentes. El uso de modelos de embebido de gran tamaño puede mejorar el rendimiento de la búsqueda de palabras clave.</summary>
+    <published>2026-11-13T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</id>
+    <title>[Data Science] Antigravity avanza la ciencia y la ingeniería con el trabajo en equipo</title>
+    <updated>2026-11-14T13:23:08.892092+00:00</updated>
+    <author>
+      <name>The latest research from Google</name>
+    </author>
+    <link href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"/>
+    <summary>El equipo de Antigravity, liderado por Vahab Mirrokni, presentó resultados recientes que mejoran las colaboraciones humano-IA para resolver problemas abiertos en matemáticas, química, software de sistemas y ingeniería de ML. El sistema Antigravity permite a los investigadores y desarrolladores aplicar herramientas agentes para resolver problemas complejos. Los investigadores de Google, CUHK, USC y CMU utilizaron el patrón de Long Proof de Antigravity para probar la conjetura de Courtade-Kumar en matemáticas, confirmando que la compresión de la información no puede preservar más información que una función dictadora. El sistema Antigravity también permitió a los investigadores resolver problemas abiertos en procesamiento de grandes matrices y gráficos, como la resolución de la pregunta abierta de STOC 2024. Además, se presentaron nuevos algoritmos deterministas que resuelven la pregunta abierta de STOC 2024 sobre la multiplicación de matrices booleanas, alcanzando un tiempo de ejecución lineal. Un nuevo límite inferior resuelve un problema abierto en geometría de alta dimensión, demostrando que la aproximación de todas las distancias entre n puntos requiere un número polinómico de bordes. Un nuevo algoritmo para la multiplicación de números enteros de n bits reduce el tiempo de ejecución a tiempo polinómico; Un nuevo algoritmo para la optimización lineal online resuelve una pregunta abierta, alcanzando un tiempo de ejecución polinómico. Un nuevo límite inferior para la teoría de números, demostrando que la aproximación de la función aritmética de Killip y Vişan es bien definida. Un nuevo algoritmo para la resolución de problemas de dinámica de fluidos, alcanzando una precisión del 95% en la resolución de estructuras de proteínas. Un nuevo algoritmo para la generación de benchmarks empíricos, alcanzando una precisión del 100% en la identificación de efectos causales; Un nuevo algoritmo para la evaluación de software y hardware, alcanzando una precisión del 100% en la identificación de errores.
+
+Por qué importa:
+El sistema Antigravity es una herramienta que permite a los investigadores y desarrolladores aplicar herramientas agentes para resolver problemas complejos. La colaboración entre el equipo de Antigravity y instituciones académicas fue clave para desarrollar este sistema.</summary>
+    <published>2026-11-13T20:47:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/</id>
+    <title>[Data Science] Los 100+ agentes de inteligencia artificial fallan por un "drift silencioso", no por errores</title>
+    <updated>2026-11-14T13:23:08.892055+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/"/>
+    <summary>Se observó un patrón consistente en que problemas surgen dentro de días de la monitorización, con una mediana de seis días para el primer alerta. La calidad, el costo y la velocidad son los primeros indicadores que se activan, con una mediana de ocho días para la primera alerta de calidad. El 83% de los agentes con evaluaciones de calidad activaron una alerta de calidad, con una mediana de ocho días. El 92% de los días en los que se activó un "token spike" también presentó otros signos de alerta. El 72% de los alertas de "ciclo de escape" involucraron llamadas a herramientas y consultas SQL. El 89% de los agentes activaron al menos una alerta durante el período de análisis. La mayoría de los problemas de agentes no se solucionan con un parche único, sino que requieren una atención más profunda a los problemas de calidad y rendimiento. Los agentes de inteligencia artificial fallan por un "drift silencioso", no por errores, según los datos de 100+ agentes. La calidad de salida es el tipo de check más común, y los checks de token spend son el segundo tipo más común. La latencia es el tercer tipo de check más común; La mayoría de los checks de gobierno y seguridad son delgados y se deben a la configuración del producto.
+
+Por qué importa:
+Los datos de los 100+ agentes de inteligencia artificial muestran que los problemas surgen dentro de días de la monitorización, lo que sugiere que es importante tener un enfoque proactivo para detectar y solucionar los problemas.</summary>
+    <published>2026-11-14T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/12/court-of-appeal-to-hear-audis-case-over-tsunoda-decision-on-november-25th/</id>
     <title>[Fórmula 1] Corte de Apelación escuchará el caso de Audi sobre la decisión de Tsunoda el 25 de noviembre</title>
-    <updated>2026-11-13T13:32:23.393812+00:00</updated>
+    <updated>2026-11-14T13:23:08.892017+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -223,7 +195,7 @@ La decisión de los stewards sobre Tsunoda es importante porque puede tener un i
   <entry>
     <id>https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/</id>
     <title>[Fórmula 1] Grosjean admite que su carrera en monoplazas es probablemente al final</title>
-    <updated>2026-11-13T13:32:23.393773+00:00</updated>
+    <updated>2026-11-14T13:23:08.891982+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -236,176 +208,134 @@ Grosjean es un piloto experimentado que ha tenido una carrera exitosa en Fórmul
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/</id>
-    <title>[Fórmula 1] FIA retira la credencial de periodista de F1 por artículo ofensivo</title>
-    <updated>2026-11-13T13:32:23.393733+00:00</updated>
+    <title>[Fórmula 1] Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*d’</title>
+    <updated>2026-11-14T13:23:08.891946+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
     <link href="https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/"/>
-    <summary>La FIA ha retirado la credencial de periodista de un reportero de F1 debido a un artículo en el que se le llamó "sneaky b*d" a Charles Leclerc. El reportero, que trabajaba para The Daily Mail, fue acusado de no cumplir con los estándares de profesionalidad esperados por la FIA. La decisión se tomó después de que Max Verstappen ordenara la expulsión de otro periodista, Giles Richards de The Guardian, de una conferencia de prensa. Tres rondas de la temporada de F1 quedan por disputarse en Estados Unidos, Catar y Abu Dhabi. El reportero en cuestión no podrá cubrir las próximas carreras como periodista de la FIA. La FIA considera que el artículo fue inapropiado y no cumplió con los estándares de profesionalidad esperados.
+    <summary>La FIA ha retirado la acreditación de un reportero de F1 debido a un artículo que lo calificó de "sneaky b*d" en referencia a Charles Leclerc. El reportero, que trabajaba para The Daily Mail, no podrá asistir a los últimos tres rondas de la temporada. La FIA considera que el artículo no cumple con los estándares de profesionalismo esperados; El reportero había sido acusado de ser "sneaky" por Max Verstappen en una conferencia de prensa. La decisión de la FIA se tomó bajo las directrices de la 2026 FIA Formula One World Championship; El reportero no podrá cubrir los eventos restantes de la temporada en Estados Unidos, Catar y Abu Dhabi. La FIA considera que el comportamiento del reportero fue inaceptable y no cumple con los estándares de la F1. El reportero había sido acusado de ser "sneaky" por Max Verstappen en una conferencia de prensa; La decisión de la FIA se tomó bajo las directrices de la 2026 FIA Formula One World Championship. El reportero no podrá cubrir los eventos restantes de la temporada en Estados Unidos, Catar y Abu Dhabi; La FIA considera que el comportamiento del reportero fue inaceptable y no cumple con los estándares de la F1. El reportero había sido acusado de ser "sneaky" por Max Verstappen en una conferencia de prensa; La decisión de la FIA se tomó bajo las directrices de la 2026 FIA Formula One World Championship. El reportero no podrá cubrir los eventos restantes de la temporada en Estados Unidos, Catar y Abu Dhabi. La FIA considera que el comportamiento del reportero fue inaceptable y no cumple con los estándares de la F1.
 
 Por qué importa:
-La decisión de la FIA es importante porque muestra que el comportamiento de los pilotos y los periodistas puede tener consecuencias; La FIA busca mantener un ambiente de respeto y profesionalismo en el mundo de la F1. La retirada de la credencial del reportero es un recordatorio de que los periodistas deben cumplir con ciertos estándares de conducta.</summary>
+La decisión de la FIA es importante porque muestra que la organización está dispuesta a tomar medidas firmes contra los periodistas que no cumplen con los estándares de profesionalismo. La FIA considera que el comportamiento del reportero fue inaceptable y no cumple con los estándares de la F1.</summary>
     <published>2026-11-13T09:33:53+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</id>
-    <title>[Tecnología] Quiénop lanzó una red social</title>
-    <updated>2026-11-13T13:32:23.393644+00:00</updated>
+    <id>https://www.racefans.net/2026/11/13/featured-comment-pay-more-attention-to-racing-bulls-helping-red-bull/</id>
+    <title>[Fórmula 1] Racing Bulls ayudó a Red Bull</title>
+    <updated>2026-11-14T13:23:08.891911+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"/>
-    <summary>Whoop, la empresa que fabrica bandas de fitness sin pantalla, lanzó una red social llamada Whoop Humans, que permitirá a sus miembros seguir a amigos y familiares y compartir datos de salud. El network se lanzará en la aplicación Whoop para todos los niveles de membresía a un costo adicional. Los miembros pueden decidir quién sigue a quién y qué datos compartir. La red social es opt-in y no se vende ni se comparte data de miembros. Whoop espera que la red social sea particularmente útil para entender cuando alguien está luchando y necesita atención. La empresa también está explorando la oportunidad de la medicina y ha visto crecimiento significativo entre personas mayores. La red social se lanzará en más de 1.200 tiendas, incluyendo Ulta, y Whoop espera tener 4 millones de miembros antes del final del año.
+    <link href="https://www.racefans.net/2026/11/13/featured-comment-pay-more-attention-to-racing-bulls-helping-red-bull/"/>
+    <summary>El piloto Liam Lawson permitió que Max Verstappen lo superara en Interlagos, lo que sugiere que Racing Bulls estaba guiando su acción. Days después, Racing Bulls anunció que Lawson había firmado un nuevo contrato; Esto ha generado controversia entre los fanáticos, quienes no entienden por qué no se hace más de este tipo de acciones. Lawson había notificado a Red Bull de su acción, lo que podría haber sido intencional; La falta de reacción de los equipos y los expertos es sorprendente. Lawson había asegurado que Red Bull vio que ayudó a Verstappen después del incidente en México; La situación ha generado debate entre los seguidores de la F1. El piloto Liam Lawson permitió que Max Verstappen lo superara en Interlagos, lo que sugiere que Racing Bulls estaba guiando su acción. Days después, Racing Bulls anunció que Lawson había firmado un nuevo contrato; Esto ha generado controversia entre los fanáticos, quienes no entienden por qué no se hace más de este tipo de acciones. Lawson había notificado a Red Bull de su acción, lo que podría haber sido intencional; La falta de reacción de los equipos y los expertos es sorprendente. Lawson había asegurado que Red Bull vio que ayudó a Verstappen después del incidente en México; La situación ha generado debate entre los seguidores de la F1. La noticia ha sido compartida por Bogolo Moremong (@Bogolo), quien expresó su sorpresa y confusión por la falta de reacción. Keith Collantine, creador de RaceFans, ha estado siguiendo la F1 durante años y ha expresado su interés en este tipo de situaciones.
 
 Por qué importa:
-La red social de Whoop es importante porque permite a los miembros compartir datos de salud de manera más privada y controlada. La empresa está explorando la oportunidad de la medicina y está trabajando para mejorar la salud de sus miembros.</summary>
-    <published>2026-11-12T16:00:00+00:00</published>
+La situación genera debate entre los fanáticos de la F1, quienes no entienden por qué no se hace más de este tipo de acciones. La falta de reacción de los equipos y los expertos es sorprendente, ya que se podría haber hecho más de este tipo de situaciones en el pasado.</summary>
+    <published>2026-11-13T15:35:32+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</id>
-    <title>[Tecnología] 5 new Google Flow Tools designed by visual artists</title>
-    <updated>2026-11-13T13:32:23.393604+00:00</updated>
+    <id>https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/</id>
+    <title>[Fórmula 1] Ignore social media echo chamber y confíe en F1 sobre las carreras en el Medio Oriente – Wolff | Fórmula 1</title>
+    <updated>2026-11-14T13:23:08.891872+00:00</updated>
+    <author>
+      <name>RaceFans</name>
+    </author>
+    <link href="https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/"/>
+    <summary>El equipo principal de Mercedes, Toto Wolff, defiende la decisión de Fórmula 1 de seguir adelante con sus planes de carrera en el Medio Oriente. El equipo confirmó esta semana que abandonó su plan de reubicar la última ronda de 2026 en Imola, Italia, si los eventos programados en Qatar y Abu Dhabi no se pueden llevar a cabo. Wolff advirtió a aquellos que cuestionan la sabiduría de las carreras en el Medio Oriente que deben prestar menos atención a la cobertura de los medios y confiar en las autoridades. El equipo no obligará a nadie a asistir a las últimas dos rondas y aquellos que elijan no asistir pueden perder la oportunidad de participar. Wolff sostuvo que si alguien no quiere asistir a las carreras, es una cuestión personal y no habrá sanciones. El equipo busca dar oportunidades a otros para que puedan ser probados y demostrar su capacidad.
+
+Por qué importa:
+La decisión de Fórmula 1 de seguir adelante con sus planes de carrera en el Medio Oriente es importante porque puede tener un impacto significativo en la popularidad y la reputación del deporte. Los críticos argumentan que las carreras en el Medio Oriente pueden ser un obstáculo para la diversidad y la inclusión, pero Wolff sostiene que es importante confiar en las autoridades y no ceder a la opinión pública.</summary>
+    <published>2026-11-14T10:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</id>
+    <title>[Tecnología] Claim your Google Cloud Credits in Google AI Studio</title>
+    <updated>2026-11-14T13:23:08.891791+00:00</updated>
     <author>
       <name>Technology</name>
     </author>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"/>
-    <summary>Google Flow está lanzando cinco nuevas herramientas creativas diseñadas por artistas visuales para ayudar a los usuarios a mantener la coherencia de los personajes a lo largo de las décadas, convertir videos de teléfonos en imágenes de alta calidad y más. Estas herramientas permiten generar arte estilizado, simular efectos de luz complejos y mejorar la calidad de la imagen de los videos con efectos profesionales. Los usuarios pueden visitar el estudio de Google Flow hoy mismo para empezar a construir sus propias herramientas creativas y explorar estas nuevas características para su próximo proyecto. Estas herramientas permiten a los usuarios diseñar personajes consistentes, aplicar estilos digitales retro, simular efectos de luz complejos y mejorar la calidad de la imagen de los videos con ángulos de cámara cinematográficos. Estas herramientas pueden ayudar a acelerar el proceso creativo, mantener un estilo único y llevar a la vida sus ideas únicas. Los usuarios pueden probar estas características en el estudio de Google Flow hoy mismo; Las nuevas herramientas de Google Flow demuestran cómo se pueden seguir empujando los límites de la narrativa visual. Estas cinco herramientas, todas diseñadas por creativos, demuestran que hay cada vez menos límite en lo que se puede construir en Google Flow. Estas herramientas pueden ayudar a los usuarios a moldear su próxima historia, desde el concepto hasta la última edición; Los usuarios pueden utilizar estas herramientas para crear imágenes de alta calidad y mantener un estilo único en sus proyectos. Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y llevar a la vida sus ideas únicas; Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y mantener un estilo único en sus proyectos. Estas herramientas pueden ayudar a los usuarios a crear imágenes de alta calidad y llevar a la vida sus ideas únicas.
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"/>
+    <summary>Google Developer Program Cloud credits ahora están integrados en Google AI Studio. Los suscriptores de Google AI Pro y Ultra pueden configurar facturación, reclamar créditos mensuales y empezar a construir con la API Gemini sin salir de su espacio de trabajo. Los créditos mensuales se pueden utilizar para la API Gemini, el código de vibración o la depuración en producción. Los suscriptores de Google AI Pro y Ultra ya tienen un crédito mensual recurrante a través del Google Developer Program. El nuevo flujo en AI Studio crea automáticamente un perfil si no existe; Los créditos mensuales se pueden utilizar para la API Gemini, el código de vibración o la depuración en producción. Los suscriptores de Google AI Pro y Ultra pueden empezar a construir con la API Gemini sin salir de su espacio de trabajo. Los créditos mensuales se pueden utilizar para la API Gemini, el código de vibración o la depuración en producción. Los suscriptores de Google AI Pro y Ultra pueden empezar a construir con la API Gemini sin salir de su espacio de trabajo. Los créditos mensuales se pueden utilizar para la API Gemini, el código de vibración o la depuración en producción. Los suscriptores de Google AI Pro y Ultra pueden empezar a construir con la API Gemini sin salir de su espacio de trabajo.
 
 Por qué importa:
-Estas herramientas son importantes porque permiten a los usuarios crear imágenes de alta calidad y mantener un estilo único en sus proyectos.</summary>
-    <published>2026-11-12T20:30:00+00:00</published>
+La integración de los créditos de Google Cloud en Google AI Studio permite a los usuarios gestionar su facturación y reclamar créditos de manera más sencilla. Esto es importante porque permite a los usuarios aprovechar al máximo las herramientas de Google AI Studio sin tener que salir de su espacio de trabajo.</summary>
+    <published>2026-11-13T20:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/</id>
-    <title>[Tecnología] Whoop Humans es un red social diseñada para entusiastas del fitness</title>
-    <updated>2026-11-13T13:32:23.393516+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/"/>
-    <summary>Whoop Humans es una red social diseñada para entusiastas del fitness, lanzada por la empresa Whoop. Los miembros pueden compartir datos de su Whoop wearable como garantía de autenticidad. El CEO de Whoop, Will Ahmed, describió el nombre de la red como "la red social más verificable que se ha lanzado". Los miembros pueden compartir datos de su fitness, incluyendo su sueño, recuperación, estrés y actividades. El objetivo es que los miembros puedan congratularse entre sí cuando alcanzan sus objetivos o recordar a un amigo que tome un descanso si ven que su "Recovery" data es baja. La red está disponible a través de la aplicación de Whoop y permite a los miembros seguir a amigos y familiares, comentar y reaccionar a sus publicaciones. La empresa envisionsa una red social donde las personas puedan verificar el progreso de los demás. La red está diseñada para que los miembros puedan compartir datos de su fitness, pero también pueden elegir compartir fotos de sus entrenamientos con un recurso llamado "Moments". Los miembros pueden elegir qué tipos de entrenamientos o logros se muestren en la red. La red está ahora disponible y los miembros pueden actualizar sus preferencias de compartir datos en cualquier momento.
-
-Por qué importa:
-La creación de Whoop Humans es una oportunidad para que los entusiastas del fitness compartan sus logros y progresos con otros. La red social puede ser una herramienta útil para aquellos que buscan motivarse y apoyarse mutuamente en su camino hacia la salud y el bienestar.</summary>
-    <published>2026-11-13T10:39:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/story/best-walking-pads/</id>
-    <title>[Tecnología] Tres caminadoras de piso para hogares y oficinas</title>
-    <updated>2026-11-13T13:32:23.393477+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/story/best-walking-pads/"/>
-    <summary>El Urevo CyberPad es una caminadora de piso con una inclinación de 14 por ciento y un sistema de seguridad que impide que el usuario se caiga. El modelo tiene un sistema de control por Bluetooth y una aplicación que permite rastrear datos de ejercicio y ajustar la velocidad y la inclinación; El NordicTrack Commercial 1750 Treadmill es otro modelo con una velocidad máxima de 12 mph y opciones de inclinación y declive. El Toputure TP6 Walking Pad es un piso caminador foldable con un diseño compacto y un peso de 56 libras; El Lifesmart TM2202 3-in-1 Treadmill se puede utilizar como piso caminador, treadmill y workstation. El GoYouth 2-in-1 Under Desk Treadmill tiene un diseño simple y una capacidad de carga de 300 libras; El Egofit Walker Pro M1 tiene una inclinación fija del 5% y un diseño ligero y fácil de mover. La US Consumer Product Safety Commission ha advertido a los consumidores sobre el uso de varios modelos de piso caminador Sperax debido a riesgos de caídas y incendios. El Urevo SpaceWalk 5L Smart Walking Pad tiene una capacidad de carga de 300 libras y una velocidad máxima de 4 mph; El Urevo CyberPad tiene un sistema de audio que permite escuchar música o podcasts mientras se camina. El Urevo CyberPad tiene un sistema de monitoreo de salud que rastrea la frecuencia cardíaca, la respiración y otros parámetros de salud. El Urevo CyberPad tiene un sistema de ajuste de velocidad que permite ajustar la velocidad de caminada según sea necesario; El Urevo CyberPad tiene un sistema de iluminación que se activa automáticamente cuando se utiliza la caminadora. El Urevo CyberPad tiene un sistema de control por Bluetooth y una aplicación que permite rastrear datos de ejercicio y ajustar la velocidad y la inclinación. El Urevo CyberPad tiene un sistema de seguridad que impide que el usuario se caiga, gracias a su diseño estable y su sistema de frenado.
-
-Por qué importa:
-La elección de una caminadora de piso adecuada para el hogar o la oficina es crucial para mantener una buena salud y bienestar. Las caminadoras de piso ofrecen una forma segura y eficiente de caminar mientras se trabaja o se relaja.</summary>
-    <published>2026-11-13T12:34:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</id>
-    <title>[Tecnología] Oportunidades para desafiantes en el turbio liderazgo de Nvidia</title>
-    <updated>2026-11-13T13:32:23.393440+00:00</updated>
+    <id>https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/</id>
+    <title>[Tecnología] Amazon’s new Kindle Colorsoft es una lectura de color premium con un precio premium</title>
+    <updated>2026-11-14T13:23:08.891753+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"/>
-    <summary>El retiro del CEO de Nvidia, Jensen Huang, ha generado preocupación en Israel, donde la empresa considera su "hogar" y ha sido fundamental para el crecimiento económico del país. Intel, Microsoft y startups locales también tienen una presencia significativa en el país. La pregunta es si Nvidia seguirá comprometida con Israel con un nuevo líder. La empresa ha sido clave en el desarrollo de tecnología de inteligencia artificial, pero su liderazgo crisis podría dar espacio a competidores. Los inversores creen que la demanda por productos de Nvidia no disminuirá, pero que el nuevo líder podría tener menos control sobre la empresa y la industria. La salida de Huang podría dar más espacio a startups que desarrollan tecnología de inteligencia artificial alternativa.
+    <link href="https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"/>
+    <summary>Amazon ha lanzado una nueva línea de Kindle, incluyendo un modelo básico, Paperwhite y Colorsoft. El Colorsoft Colorsoft comienza en $290, mientras que la edición de firma, que he probado durante las últimas semanas, cuesta $320. El modelo básico viene con 16GB de almacenamiento, mientras que la edición de firma lo duplica a 32GB y está disponible en gráfite o un acabado marón similar a Fig con un fondo de aluminio. El Colorsoft Colorsoft es una lectura de color que trae color a la biblioteca digital, lo que lo hace atractivo para lectores que disfrutan de cómics, novelas gráficas o libros de cocina, donde el color es fundamental. El Colorsoft Colorsoft también permite resaltar pasajes en diferentes colores; Aunque los colores no son tan vibrantes como en un iPad, son una mejor opción que los displays de negro y blanco estándar de Kindles. El Colorsoft Colorsoft también permite ajustar la temperatura del color del pantalla, lo que facilita la lectura en la noche. La batería del Colorsoft Colorsoft puede durar hasta ocho semanas en una sola carga, lo que es más que suficiente para la mayoría de los lectores. El nuevo Colorsoft Colorsoft también tiene un botón de encendido repositionado, lo que lo hace más fácil de usar. El Colorsoft Colorsoft es una lectura de color premium que vale la pena considerar, aunque su precio es un poco alto; Para muchos lectores, la opción básica o la Paperwhite son mejores opciones. El Colorsoft Colorsoft es una lectura de color que vale la pena considerar para aquellos que buscan una experiencia de lectura más inmersiva.
 
 Por qué importa:
-La salida de Jensen Huang como CEO de Nvidia ha generado preocupación en Israel, donde la empresa tiene una gran presencia; La pregunta es si Nvidia seguirá comprometida con Israel con un nuevo líder. La empresa ha sido clave en el desarrollo de tecnología de inteligencia artificial, pero su liderazgo crisis podría dar espacio a competidores.</summary>
-    <published>2026-11-13T12:52:19+00:00</published>
+El Colorsoft Colorsoft es una lectura de color premium que trae color a la biblioteca digital, lo que lo hace atractivo para lectores que disfrutan de cómics, novelas gráficas o libros de cocina. El Colorsoft Colorsoft también permite resaltar pasajes en diferentes colores, lo que lo hace ideal para lectores que buscan una experiencia de lectura más inmersiva.</summary>
+    <published>2026-11-13T23:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors</id>
-    <title>[Tecnología] Apple debería haber utilizado un logo de MacBook RGB</title>
-    <updated>2026-11-13T13:32:23.393348+00:00</updated>
+    <id>https://gizmodo.com/vampire-the-masquerade-alpha-2-0-playtest-undoes-controversial-changes-2000839946</id>
+    <title>[Tecnología] Vampire: the Masquerade Alpha 2.0 Playtest Undoes Controversial Changes</title>
+    <updated>2026-11-14T13:23:08.891717+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/vampire-the-masquerade-alpha-2-0-playtest-undoes-controversial-changes-2000839946"/>
+    <summary>Vampire: the Masquerade, el juego de rol de mesa de White Wolf, recibió una gran actualización en Gen Con este año. El juego de la sexta edición se está trabajando y el Alpha 1.0 de prueba fue abierto al público. Los fans se sumergieron en el nuevo conjunto de reglas, que no había sido actualizado desde la quinta edición en 2018. El Alpha 1.0 presentaba cambios significativos, incluyendo la eliminación de la narrativa y la adición de mecánicas más crujientes. Sin embargo, algunos cambios fueron controvertidos, como la combinación de recursos de salud y vida. El nuevo Alpha 2.0 de prueba, lanzado el lunes, corrige muchos de estos problemas y vuelve a la trayectoria original en varios de los cambios más controvertidos. El juego ahora tiene los recursos de salud y vida separados, y las mecánicas como Drama y Quickening han sido eliminadas. El nuevo juego también incluye el Beast's Bargain, que devuelve el poder de negociación a las manos del Storyteller. El juego es una gran noticia para los Storytellers, ya que ahora pueden realizar lanzamientos de dados para los NPCs. El juego ha sido actualizado con la retroalimentación de los primeros jugadores y se puede leer más sobre los cambios en el blog de Paradox Interactive.
+
+Por qué importa:
+El juego de Vampire: the Masquerade es un clásico del género de rol de mesa y ha sido ampliamente aclamado por sus jugadores; La actualización del Alpha 2.0 es una gran noticia para los fans del juego, ya que corrige muchos de los problemas que surgieron en el Alpha 1.0. La actualización también es una gran oportunidad para los Storytellers, ya que ahora pueden crear experiencias de juego más dinámicas y emocionantes.</summary>
+    <published>2026-11-14T00:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/</id>
+    <title>[Tecnología] Salida de mantenimiento en la plataforma de recursos humanos Workday</title>
+    <updated>2026-11-14T13:23:08.891681+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/"/>
+    <summary>El 13 de noviembre, una salida de mantenimiento en la plataforma de recursos humanos Workday dejó a millones de empleados fuera de sus cuentas, ya que no pudieron clockear, acceder a sus salarios, solicitar tiempo libre o presentar solicitudes de beneficios. La compañía dijo que colocó algunos de sus sistemas en modo de mantenimiento para solucionar un problema que descubrió durante pruebas. El problema dejó información inconsistente y la compañía advirtió que podría causar errores cuando los usuarios intentan acceder a sus cuentas o completar tareas dentro del sistema. El problema se reportó en Downdetector a las 5:19PM de la hora este, aunque ha disminuido desde entonces. No se sabe si la salida afectó a todos los clientes de Workday, pero la compañía dijo que 11,500 organizaciones de todo el mundo utilizan la plataforma para tareas de recursos humanos. Los clientes de la compañía incluyen a Target, Walmart, Charles Schwab, Nasdaq, Netflix y incluso el Departamento de Energía de los Estados Unidos y el Laboratorio de Propulsión Jet de la NASA. La compañía ha pedido disculpas por la interrupción y dijo que busca la mejor manera de solucionar el problema.
+
+Por qué importa:
+La salida de mantenimiento en Workday es importante porque afecta a millones de empleados que dependen de la plataforma para realizar tareas de recursos humanos.</summary>
+    <published>2026-11-14T08:54:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</id>
+    <title>[Tecnología] Los mejores cuadernos digitales para 2026</title>
+    <updated>2026-11-14T13:23:08.891645+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"/>
+    <summary>El ReMarkable Paper Pro es un cuaderno digital con una pantalla de 11,8 pulgadas y un sistema de escritura con lápiz que utiliza la tecnología E Ink. La Supernote Manta tiene una pantalla de 8,5 pulgadas y un diseño modular que permite fácilmente cambiar la placa base o la batería. El Kobo Libra Colour tiene una pantalla de 7,8 pulgadas y un precio de $260, después de que se subió el precio desde $230. El Kindle Scribe tiene una pantalla de 10,2 pulgadas y un precio de $500, con una función de generación de inteligencia artificial; El Neo Smartpen M1+ es una herramienta para anotar notas en papel con un precio de $129. El Boox Note Air4 C tiene una pantalla de 10,3 pulgadas y un precio de $470, con una función de e-ink y acceso a la Google Play Store. El ReMarkable Paper Pro Move cuesta $449 y el ReMarkable Paper Pure cuesta $399; El ReMarkable 2 cuesta $419 (refurbished); La Supernote Nomad tiene una pantalla de 8 pulgadas y un diseño compacto que la hace ideal para llevar en bolsillo o en un bolso. La Supernote Nomad también tiene una función de anotación de libros que permite anotar y resaltar páginas de libros, y también tiene una función de búsqueda de texto en el contenido de los libros. El Kobo Libra Colour tiene una función de color anotación con 10 colores disponibles, incluyendo negro y gris. El Kobo Libra Colour también tiene una función de erasor en la parte trasera del dispositivo que puede eliminar anotaciones con un solo toque. El Kobo Libra Colour tiene una función de notebook separado donde se pueden crear páginas de notas personalizadas.
+
+Por qué importa:
+Los cuadernos digitales han vuelto a ganar popularidad en los últimos años, gracias a su capacidad para ofrecer una experiencia de escritura similar a la de un cuaderno, pero con las ventajas de la tecnología digital. Los modelos presentados en este artículo son solo algunos ejemplos de los mejores cuadernos digitales disponibles en el mercado, y pueden ser una excelente opción para aquellos que buscan una herramienta para anotar notas y leer libros de manera eficiente y cómoda.</summary>
+    <published>2026-11-14T12:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer</id>
+    <title>[Tecnología] Un gadget para hacer que tu casa sea más inteligente</title>
+    <updated>2026-11-14T13:23:08.891605+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors"/>
-    <summary>Apple CEO John Ternus anunció el primer MacBook con pantalla táctil el mes pasado, y la reacción más grande en la sala no fue por la pantalla OLED PROLED o el chassis más delgado y ligero; fue por el logo de la tapa iluminada. Es un toque de nostalgia, pero funcionó muy bien; El logo se ajusta a la intensidad de la pantalla: más brillante la pantalla, más brillante el logo. Sin embargo, el logo de los viejos MacBooks estaba iluminado por la luz de fondo de la pantalla, y una pantalla OLED no tiene eso; Gracias a iFixit, ahora sabemos que está iluminado por cuatro LEDs blancas y sincronizado con la intensidad de la pantalla por software. Pero eso significa que Apple podría haber utilizado LEDs RGB; Los colores del espectro, como rojo, naranja, amarillo, verde, azul, índigo y violeta, ¿por qué no? Después de todo, Apple insiste en ser seria sobre el juego, y nada dice "serio sobre el juego" como la iluminación RGB; El autor estaba esperando que los usuarios pudieran personalizar el logo iluminado de la tapa de manera similar a la de la consola de juegos Xbox de Microsoft. Sin embargo, no hubo suerte; Se puede apagar la iluminación con algunos comandos del terminal o controlarla con una aplicación de tercer partido; Pero cuando está encendido, solo está iluminado con luz blanca; La dispección de iFixit también mostró la dificultad de acceder a esas LEDs (la pantalla se despegó y se rompió en el proceso). Por lo tanto, es poco probable que veamos mods de LEDs RGB para este laptop a menos que alguien se atreve a voidar la garantía y arriesgar una reparación cara de pantalla en su laptop de $3,000. La mayor diversión que se puede tener con el logo de Apple es instalar una aplicación gratuita como LogoLight y hacer que pulse, respire, o sincronizarse con el ritmo de cualquier música que se esté tocando. Hay diversión ahí, pero si se combinara con estas características y se agregara un toque de color, realmente estaríamos cocinando; Los MacBooks no son laptops de juego, por lo que la iluminación RGB puede parecer un mal ajuste, pero los LEDs multicolores podrían haber sido una easter egg divertida. Nadie pensó que Apple pondría una pantalla táctil en un MacBook, y el iPhone Duo y HomeView muestran que Apple está en una nueva era de experimentación durante la era de Ternus; Quizás si el logo de la tapa iluminada alguna vez se convierte en un MacBook Air o MacBook Neo, Apple podría soltar un poco.
+    <link href="https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"/>
+    <summary>La Home Assistant Connect Aux-2 es una caja simple que ayuda a agregar dispositivos a la casa inteligente, con un enfoque especial en la música y los dispositivos Bluetooth. El nuevo aplicativo TK de Medium ofrece ideas interesantes sobre cómo compartir ideas y colaborar con otros sin tener que hacerlo completamente en público; El podcast "Get Huge: Looksmaxxing to Death" es una mirada crítica a las prácticas de atractivo que los hombres utilizan para mejorar su apariencia. El nuevo podcast "Tripod" de Ben Rice McCarthy es una aplicación de podcast bien diseñada con características de organización inteligentes; La película "12 12 12" es un thriller de Apple TV que parece ser demasiado inteligente, pero que también es divertido. El podcast "Click Through" es una idea divertida en la que dos anfitriones juegan al juego de Wikipedia, intentando llegar de un lugar a otro lo más rápido posible. El nuevo aplicativo Google Tabletop es una colaborativa workspace como Google Docs, pero que puede tomar la forma de cualquier herramienta o mini-aplicación. Bruce está considerando cambiar de cuenta de gestión de finanzas de Quicken a Monarch; William ha escuchado la audiobook "Dungeon Crawler" y ha consumido la mayor parte de su tiempo escuchándola. Brenpoly ha compartido en YouTube su proyecto de construcción de un Apple Vision Pro por $5; Marcus ha encontrado una extensión de Safari para iPhone Duo que le permite ver más contenido en la pantalla. Stephen ha visto la película "Wildwood" y la ha considerado una de las mejores películas de animación de todos los tiempos. Kait ha encontrado un navegador llamado Brave Origin que combina velocidad, características y privacidad; Kyle ha descubierto un juego llamado "Queen's Domain" que le recuerda a los juegos de FromSoftware. Utkarsh ha terminado la serie de videos "Jet Lag: The Game" y la ha considerado la mejor serie de turismo para Japón.
 
 Por qué importa:
-El logo de la tapa iluminada es un toque de nostalgia que funcionó muy bien.</summary>
-    <published>2026-11-13T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l</id>
-    <title>[Programación] Un sistema de análisis de mercados automatizado que convierte las noticias en operaciones de simulación.</title>
-    <updated>2026-11-13T13:32:23.393281+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/frederick_wong_76/from-headlines-to-conviction-how-stock-intelligent-turns-news-into-trades-529l"/>
-    <summary>Stock Intelligent es un sistema de análisis de mercados automatizado que utiliza un filtro de siete partes para eliminar noticias no relevantes y un modelo de lenguaje natural para analizar las noticias. El sistema produce una lectura estructurada de cada artículo, que incluye la tendencia del sentimiento, el impacto probable en el precio y la confianza en la convicción. El sistema verifica si la noticia ya está "precionada" para evitar operar en noticias que ya se conocen. El sistema tiene un "engine de convicción" que combina los signos de las noticias para producir una puntuación de convicción. El sistema tiene un conjunto de "puertas de seguridad" que deben ser superadas para que una operación se realice. El sistema utiliza un "engine de trading" que gestiona el portafolio de papel y sigue un conjunto de reglas para gestionar las operaciones. El sistema está recopilando resultados de trading de sombras en vivo contra un portafolio de papel y está diseñado para ignorar cosas y recompensar la paciencia. El sistema está vivo y está trading un portafolio simulado. El equipo de Stock Intelligent forma parte de ECUPSE y está construyendo una base de evidencia. El portafolio de Stock Intelligent está siendo evaluado por su capacidad para imitar los movimientos del mercado.
-
-Por qué importa:
-El sistema es importante porque puede ayudar a los inversores a tomar decisiones informadas basadas en noticias y tendencias del mercado. El sistema también puede ser un ejemplo de cómo la inteligencia artificial puede ser utilizada para mejorar la toma de decisiones en el mercado.</summary>
-    <published>2026-11-12T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3</id>
-    <title>[Programación] El problema de seguridad de Claude Code pone a los agentes de código de AI en juicio</title>
-    <updated>2026-11-13T13:32:23.393238+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/spaisee/claude-codes-secret-leak-problem-puts-ai-coding-agents-on-trial-48a3"/>
-    <summary>La empresa Apiiro encontró más de 100,000 archivos de configuración de Claude Code en repositorios GitHub públicos, de los cuales aproximadamente 1.100 contenían credenciales sensibles. Esto se debe a que la herramienta de Claude Code, Anthropic, permite a los desarrolladores guardar credenciales en archivos de configuración locales que pueden ser almacenados en repositorios públicos. El problema surge cuando un comando de línea incluye credenciales directamente en su texto. Anthropic está investigando formas de prevenir el problema y ha recomendado la auto-modo y el escaneo de secretos. La creación de código de herramientas de AI puede exponer problemas más amplios, ya que introducen operaciones cortas en torno a archivos, permisos, comandos de shell y control de versiones. La adopción empresarial depende de si los proveedores pueden hacer que esas fronteras sean dependibles. La configuración de permisos merece más escrutinio que su interfaz modesta. El escaneo de secretos puede ayudar a detectar patrones conocidos después de que una credencial se haya escrito.
-
-Por qué importa:
-Este problema de seguridad de Claude Code es importante porque puede tener consecuencias graves para las empresas que utilizan sus herramientas de AI; La exposición de credenciales sensibles puede comprometer la seguridad de la información y dar lugar a ataques cibernéticos. Es fundamental que los proveedores de herramientas de AI tomen medidas para prevenir este tipo de problemas y garantizar la seguridad de sus usuarios.</summary>
-    <published>2026-11-12T16:00:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://blog.cloudflare.com/choosing-quepaxa/</id>
-    <title>[Programación] Cloudflare utiliza QuePaxa para su control plane global</title>
-    <updated>2026-11-13T13:32:23.393160+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://blog.cloudflare.com/choosing-quepaxa/"/>
-    <summary>Cloudflare ha anunciado Meerkat, un servicio de consenso distribuido experimental diseñado para gestionar su plano de control global. La nueva algoritmo de consenso, QuePaxa, promete estabilidad mejorada en entornos con conectividad de red volátil y latencia, como Internet. QuePaxa fue publicado en 2023 por Tennage &amp; Băsescu et al. y se diferencia del papel original, con clientes que esperan un tiempo de hedge en lugar de los replicas. La implementación de QuePaxa utiliza un enfoque diferente al de Raft o Multi-Paxos para manejar los tiempos de espera, que no están limitados por la latencia de la red. Cloudflare diseñó y desarrolló el protocolo Meerkat para un sistema de consenso distribuido y está formalmente verificando su implementación. La implementación de Meerkat y QuePaxa se está probando con pruebas de simulación y inyección de fallos. La elección del líder en Meerkat se puede cambiar dinámicamente sin afectar la estabilidad del sistema. Cloudflare está extendiendo el diseño original de Meerkat para incluir la recuperación de fallos.
-
-Por qué importa:
-La implementación de Meerkat y QuePaxa es importante porque permite a Cloudflare gestionar su plano de control global de manera más eficiente y estable, especialmente en entornos con conectividad de red volátil y latencia. Esto puede tener un impacto significativo en la seguridad y la disponibilidad de sus servicios en línea.</summary>
-    <published>2026-11-13T01:45:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tendril.hokora.xyz/blog/a-leaderboard-you-cant-fake/</id>
-    <title>[Programación] A leaderboard you can't fake: deterministic replay, sealed replays and a source check</title>
-    <updated>2026-11-13T13:32:23.393083+00:00</updated>
-    <author>
-      <name>programming</name>
-    </author>
-    <link href="https://tendril.hokora.xyz/blog/a-leaderboard-you-cant-fake/"/>
-    <summary>Tendril es un juego de cultivo que se juega escribiendo un programa. El servidor no confía en los puntajes que se envían, por lo que utiliza un sistema de replay determinista para verificar la legalidad de cada entrada. Cada entrada tiene un "fingerprint" único, que es la SHA-256 de la lista de movimientos. El servidor compara este fingerprint con el de la entrada que se está verificando para asegurarse de que sean idénticos. El sistema también tiene un límite diario para el número de submissions que se pueden hacer por cuenta. El servidor provee que cada run es legal y que el programa que se ha enviado produjo ese run. El sistema es transparente y los reglas, el código de replay y el verificador están en el repositorio abierto. El servidor también tiene un sistema de "human" o "model" para distinguir entre entradas escritas por humanos y modelos. El sistema es seguro y no confía en la autenticidad de los puntajes. El servidor también tiene un sistema de "duel" para que los jugadores puedan ver los replays de sus oponentes; El sistema es único y no se puede "falsificar".
-
-Por qué importa:
-Este sistema es importante porque garantiza la integridad del juego y no permite que los jugadores "falsifiquen" sus puntajes. El sistema es transparente y los reglas, el código de replay y el verificador están en el repositorio abierto, lo que permite a los jugadores verificar la legalidad de cada entrada; El sistema también es seguro y no confía en la autenticidad de los puntajes, lo que ayuda a mantener la integridad del juego.</summary>
-    <published>2026-11-13T12:42:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/ohyoseok92/how-to-trace-one-stale-citation-in-an-existing-rag-app-53a8</id>
-    <title>[Programación] Cómo rastrear una cita caducada en una aplicación RAG existente</title>
-    <updated>2026-11-13T13:32:23.393011+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/ohyoseok92/how-to-trace-one-stale-citation-in-an-existing-rag-app-53a8"/>
-    <summary>Un chatbot de política indica que un permiso vence después de 30 días y cita un documento de política; Sin embargo, el documento ahora dice 45 días, pero el chatbot sigue dando la respuesta antigua. Un análisis de trazado limitado se puede utilizar para este tipo de fallos; Se recomienda redactar nombres, secretos y datos personales antes de compartir un trazado. Se deben comparar los trazados en cada paso de mano, en orden: fuente → ingestión, ingestión → recuperación, recuperación → caché de respuesta, respuesta → exhibición de la cita. El primer desacuerdo encaja en el siguiente test; Un error de índice antiguo es diferente de un error de caché que ignora cambios de fuente. Un correcto respuesta con la respuesta equivocada puede ser un fallo de exhibición o metadatos; Se recomienda no prescribir una solución antes de ver la frontera; En un ejemplo sintético, el inicial fuente dice 30 días. Después de cambiarlo a 45 días, el mecanismo de caché da como resultado un entry clave que devuelve el texto de 30 días; El trazado muestra cache_hit: verdadero y citation_valid: falso. Un source-aware key falla después de la edición y devuelve el texto de 45 días; esto demuestra el mecanismo de caché para este caso, no una solución universal RAG. En este caso, la respuesta equivocada y la cita equivocada tienen la misma origen: una respuesta guardada contra una fuente anterior. Se recomienda un resultado observable: inmediatamente después de que la edición de la fuente ha completado la ingestión, la misma pregunta debe devolver la declaración de 45 días, citar texto presente en la actual documentación y identificar la documentación esperada. Una solicitud repetida puede golpear el actual caché; La respuesta antigua de 30 días no debe reaparecer mientras la entrada anterior sigue viva.
-
-Por qué importa:
-Es importante entender por qué importa rastrear una cita caducada en una aplicación RAG existente; Si el chatbot no actualiza correctamente la información, puede generar respuestas incorrectas que pueden tener consecuencias importantes. Por ejemplo, si un permiso caducado no se actualiza correctamente, puede generar problemas de seguridad o de cumplimiento; Por lo tanto, es fundamental identificar y solucionar los fallos de este tipo para garantizar la precisión y la confiabilidad de la información proporcionada por el chatbot.</summary>
-    <published>2026-11-13T12:55:58+00:00</published>
+La Home Assistant Connect Aux-2 es una herramienta útil para aquellos que desean agregar dispositivos a su casa inteligente y mejorar su experiencia de vida diaria. Por otro lado, el nuevo aplicativo TK de Medium y el podcast "Get Huge: Looksmaxxing to Death" ofrecen ideas interesantes sobre cómo compartir ideas y colaborar con otros de manera más efectiva.</summary>
+    <published>2026-11-14T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/moathothman/backend-not-ready-mock-it-at-the-proxy-from-the-openapi-spec-you-already-have-35ef</id>
     <title>[Programación] Cómo mockear APIs en desarrollo</title>
-    <updated>2026-11-13T13:32:23.392589+00:00</updated>
+    <updated>2026-11-14T13:23:08.891565+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -415,5 +345,75 @@ Es importante entender por qué importa rastrear una cita caducada en una aplica
 Por qué importa:
 En el desarrollo de aplicaciones, es común que los endpoints de una API no estén listos para su uso; Esto puede causar problemas y retrasos en el proceso de desarrollo; En estos casos, es importante tener opciones para mockear APIs de manera efectiva. La opción 3, que es lo que hace Proxycept, es una herramienta que permite subir una especificación de OpenAPI 3 o una colección de Postman y obtener un route de mock por operación; Esta herramienta es útil para contratos de API que no existen aún, equipos que trabajan de manera contracargada y desarrollo local.</summary>
     <published>2026-11-13T12:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</id>
+    <title>[Programación] Anuncia la versión 1.100.0 de Rust</title>
+    <updated>2026-11-14T13:23:08.891526+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"/>
+    <summary>El equipo de Rust ha anunciado la versión 1.100.0, una versión estable del lenguaje de programación. Esta versión introduce cambios en la compatibilidad con Infallible y el never type, y también incluye una nueva función para crear valores de tipos cero. La versión se ha publicado una llamada a la prueba y se espera que estabilice la resolución de dependencias de Cargo. La versión 1.100.0 también incluye cambios en la organización del directorio de construcción y la introducción de un nuevo lint para detectar problemas de construcción. La versión se registrará en Cargo.lock y se mantendrá desde entonces hasta que una actualización posterior de cargo re-resuelva. La versión 1.100.0 es una versión estable del lenguaje de programación que permite a los desarrolladores crear programas más seguros y eficientes. La versión se ha publicado para detectar dependencias inusas y problemas de construcción. La versión 1.100.0 es una versión importante que incluye cambios en la estabilidad de allocator_api.
+
+Por qué importa:
+La versión 1.100.0 de Rust es importante porque permite a los desarrolladores crear programas más seguros y eficientes. La versión se ha publicado para detectar dependencias inusas y problemas de construcción, lo que la hace relevante para cualquier proyecto que requiera una mayor estabilidad y seguridad.</summary>
+    <published>2026-11-13T20:34:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://alperenkeles.com/posts/formal-verification-is-not-verifiable/</id>
+    <title>[Programación] La verificación formal del software "Bouba" es inverificable</title>
+    <updated>2026-11-14T13:23:08.891485+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"/>
+    <summary>En diciembre de 2025, el número de startups de verificación formal aumentó significativamente; La empresa Claude escribió un billón de líneas de código para un proyecto de verificación formal. La verificación formal se ha vuelto más económica y valiosa debido al aumento de la seguridad cibernética; Sin embargo, el autor de un artículo sostiene que la verificación formal del software "Bouba" es inverificable. El autor opina que hablar de una noción de corrección uniforme es imposible en el caso de software "Bouba". El autor considera que es imposible formalmente verificar software "Bouba"; A pesar de esto, el autor está optimista sobre la posibilidad de probar generalidades de software. El autor cree que se pueden probar grandes sistemas de producción con la ayuda de pruebas generadas por máquina. El autor previó resolver la traducción de código en 2030 y ahora cree que se puede hacer más; El autor cree que se pueden generar pruebas a nivel de bits para cualquier propiedad de un programa. El autor considera que la validación de modelos de arquitectura por millones de horas de prueba es importante. El autor ve en la prueba aleatoria y la exploración general una herramienta invaluable para superar los desafíos; La verificación formal no garantiza la ausencia de errores, pero sí puede detectarlos. La reducción del tamaño de los componentes confiables es una forma de hacer que la verificación formal sea más verificable. La verificación de binaries es una forma de reducir la complejidad de la verificación formal; La verificación formal no es lo mismo que la verificación de propiedades vacías o triviales.
+
+Por qué importa:
+La verificación formal del software es un tema importante en la industria del software; La seguridad cibernética es un desafío creciente que requiere soluciones innovadoras. La verificación formal puede ayudar a reducir los riesgos y mejorar la confiabilidad del software; Sin embargo, la complejidad del software moderno puede hacer que la verificación formal sea un desafío.</summary>
+    <published>2026-11-14T05:37:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://yusufaytas.com/some-projects-need-to-fail</id>
+    <title>[Programación] Proyectos que necesitan fallar</title>
+    <updated>2026-11-14T13:23:08.891443+00:00</updated>
+    <author>
+      <name>programming</name>
+    </author>
+    <link href="https://yusufaytas.com/some-projects-need-to-fail"/>
+    <summary>Un proyecto puede ser rescatado asignando a un ingeniero destacado, pero esto puede tener consecuencias negativas. Si un proyecto no funciona, es posible que sea mejor dejar que se acabe en lugar de invertir más tiempo y esfuerzo en su rescate. Esto puede afectar negativamente al equipo y al proyecto. El rescate de un proyecto puede enseñar poco o nada, ya que se ignora el problema subyacente. Es importante considerar si el rescate es realmente necesario y si se está protegiendo la buena salud del negocio. El rescate de un proyecto puede crear un ciclo de heroísmo, donde se prioriza la solución sobre la identificación de problemas. Es necesario encontrar un equilibrio entre la resolución de problemas y la toma de decisiones. El rescate de un proyecto puede no ser la mejor opción si no se justifica con beneficios económicos. Es importante aprender de los fracasos y no repetirlos. El rescate de un proyecto puede crear una cultura de heroísmo, donde se prioriza la solución sobre la identificación de problemas.
+
+Por qué importa:
+La decisión de rescatar un proyecto puede ser difícil, especialmente si se ha invertido mucho tiempo y recursos; Sin embargo, es importante considerar las consecuencias a largo plazo de este tipo de acciones; Al rescatar un proyecto, se puede crear un ciclo de heroísmo, donde se prioriza la solución sobre la identificación de problemas. Esto puede llevar a una cultura de heroísmo, donde se ignora el problema subyacente y se prioriza la resolución de problemas sobre la toma de decisiones; Es importante encontrar un equilibrio entre la resolución de problemas y la toma de decisiones.</summary>
+    <published>2026-11-14T08:08:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/uncle-pushui/why-cabloyvona-has-no-nestjs-dynamic-module-2b2b</id>
+    <title>[Programación] ¿Por qué Cabloy/Vona no tiene módulos dinámicos en NestJS?</title>
+    <updated>2026-11-14T13:23:08.891383+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/uncle-pushui/why-cabloyvona-has-no-nestjs-dynamic-module-2b2b"/>
+    <summary>Vona, una plataforma de desarrollo de aplicaciones, no tiene módulos dinámicos en NestJS debido a su enfoque en la configuración de módulos estáticos y la eliminación de la premisa sobre la que dependen los módulos dinámicos. Vona compra un escenario de proveedores que puede reemplazar los proveedores dinámicos de NestJS y elimina la necesidad de módulos dinámicos. Esto se debe a que Vona compra un contenedor de beans que busca por nombre y instancia las clases de manera lazy y elimina las restricciones de orden de compilación. Además, Vona compra un grafo de dependencias explícito y una frontera de visibilidad, lo que permite una configuración de módulos más precisa y segura. La aplicación personaliza la configuración de un módulo durante la fase de carga de la aplicación, lo que permite una mayor flexibilidad y personalización. La definición de un módulo en Vona es una estructura de código organizada con una namespace para la configuración y los recursos, y no hay providers, exports ni imports en un módulo. Un módulo en Vona proporciona solo dos cosas: la propiedad de propiedad (moduleBelong) y el orden de carga (vonaModule.dependencies). La función forRoot(options) existe porque las opciones participan en la construcción de los proveedores. La configuración de un módulo se carga durante la fase de carga del módulo, y la aplicación personaliza la configuración de un módulo durante la fase de carga de la aplicación. Vona no es una solución gratuita, sino que reasigna el costo a otro lado, lo que permite una mayor eficiencia y productividad.
+
+Por qué importa:
+La eliminación de módulos dinámicos en Vona es importante porque permite una mayor seguridad y precisión en la configuración de las aplicaciones. Al eliminar la premisa sobre la que dependen los módulos dinámicos, Vona se convierte en una solución más estable y segura para desarrollar aplicaciones.</summary>
+    <published>2026-11-14T12:48:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/sumit0rn/why-ideation-is-hard-and-why-it-breaks-most-projects-icl</id>
+    <title>[Programación] ¿Por qué la ideación es difícil y por qué rompe la mayoría de los proyectos?</title>
+    <updated>2026-11-14T13:23:08.891201+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/sumit0rn/why-ideation-is-hard-and-why-it-breaks-most-projects-icl"/>
+    <summary>La mayoría de los proyectos no fallan porque los desarrolladores no pueden escribir código, sino porque los equipos no pasan suficiente tiempo entendiendo qué están construyendo, por qué lo están construyendo y si su enfoque es adecuado. La ideación es mucho más difícil de lo que la mayoría de las personas piensan. Sin entender qué problema se está tratando de resolver, se está construyendo un expensive guessing machine. La gente a menudo confunde la complejidad con la innovación. La mayoría de las veces, cuando se le pide a alguien que construya una aplicación de tareas simples, la tarea de creación de la función de tarea sigue siendo defectuosa. La mayoría de las veces, cuando se le pide a alguien que construya una aplicación simple, la realidad es que se construye un sistema operativo, una red social y un laboratorio de investigación de inteligencia artificial. Un tutorial promete construir una aplicación en 15 minutos, pero en realidad tarda 15 días en depurar y 15 meses en acumular deuda técnica. Un equipo implementa autenticación utilizando un tutorial, pero no comprende cómo almacenar tokens de autenticación. Un equipo utiliza Docker, pero no comprende cómo funciona el networking, el mapping de puertos, el DNS, los volúmenes y la aislación de entornos.
+
+Por qué importa:
+La comprensión de la ideación es crucial en el desarrollo de software, ya que puede hacer o deshacerse de un proyecto en cuestión de minutos. La falta de comprensión de los equipos puede llevar a proyectos fallidos y a la acumulación de deuda técnica.</summary>
+    <published>2026-11-14T12:48:54+00:00</published>
   </entry>
 </feed>
