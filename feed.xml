@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-19T20:48:46.989943+00:00</updated>
+  <updated>2026-11-20T14:37:02.011800+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html</id>
-    <title>[Economía] Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show</title>
-    <updated>2026-11-19T20:48:46.991088+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"/>
-    <summary>Federal Reserve officials expresaron confianza en octubre de que se necesitarían más aumentos de tasa para controlar la inflación, aunque decidieron no actuar mientras recopilaban más información. Los políticos consideraron que la tecnología artificial sería una fuente significativa de riesgo de inflación. Los oficiales también creían que las presiones de inflación en la economía eran amplias y requerían acción. Aunque algunos miembros del comité consideraron un aumento de un cuartopunto, otros pensaron que podría ser necesario un aumento más grande en la próxima reunión en diciembre. Los oficiales estaban preocupados por la posibilidad de que los precios relacionados con la guerra de Irán y las tarifas de Donald Trump se convirtieran en una tendencia más estable. El FOMC votó 10-2 para mantener la tasa de interés en un rango entre 3.75% y 4%. La inflación sigue siendo más alta de lo esperado.
-
-Por qué importa:
-La decisión del FOMC de no aumentar las tasas de interés se debió a que aún no se tenía suficiente información sobre la inflación. Los oficiales están preocupados por la posibilidad de que la tecnología artificial pueda aumentar la inflación.</summary>
-    <published>2026-11-18T19:41:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html</id>
-    <title>[Economía] Anthropic IPO: AI lab considera aumentar la oferta</title>
-    <updated>2026-11-19T20:48:46.991054+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"/>
-    <summary>Anthropic, el laboratorio de inteligencia artificial, considera aumentar su oferta pública inicial (IPO) debido a la demanda de inversores que surge. La empresa cerró sus libros de orden y fijó la demanda total el martes, lo que pone el escenario para la lista en Nasdaq. La demanda institucional es de $400 mil millones, mientras que la demanda de retail se acerca a $100 mil millones. Anthropic espera establecer el precio final de la oferta después de la cerración del mercado el miércoles. La demanda es mayor que la de Elon Musk's SpaceX, aunque el fabricante de cohetes tuvo una oferta más grande. La empresa ofreció 825 millones de acciones en la IPO a un rango de precios entre $70 y $78 por acción, lo que podría generar hasta $64.35 mil millones. Amazon y Google tienen estacas valoradas en más de $100 mil millones; Anthropic es un comprador de sistemas costosos de Nvidia, Google, Amazon y AMD. El CEO Dario Amodei dijo que si se hace bien, se puede crear una era de milagros donde la humanidad pueda resolver problemas que han eludido durante siglos. La empresa generó $33.24 mil millones en ingresos en los nueve meses finales de 2026, un aumento del 1.200% en comparación con el mismo período del año anterior. Anthropic ha enfrentado desafíos durante su ascenso, incluyendo dos disputas con el gobierno de EE; UU; sobre seguridad y regulación.
-
-Por qué importa:
-La lista de Anthropic es un test importante para la industria de la inteligencia artificial, que ha experimentado recientemente una serie de choques, incluyendo una reacción dramática que se sintió en las elecciones del medio mandato y la destitución de Nvidia CEO Jensen Huang. La empresa tiene una gran exposición entre las principales empresas de tecnología, como Amazon y Google, que tienen estacas valoradas en más de $100 mil millones.</summary>
-    <published>2026-11-18T20:20:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html</id>
-    <title>[Economía] AMD cae tras informe de cortista que acusa a la empresa de tener problemas en China</title>
-    <updated>2026-11-19T20:48:46.991018+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"/>
-    <summary>Las acciones de AMD cayeron un 7% el miércoles después de que el firmamento de inversión Hunterbrook Media emitió un informe que acusaba a la empresa de tener problemas en China. Hunterbrook reveló que había tomado una posición cortista en AMD; El informe afirmaba que después de que el gobierno de EE; UU. bloqueó al fabricante de servidores chino IEIT Systems, AMD siguió recibiendo firmware más nuevo que permite que las placas de AMD funcionen en servidores. El informe también afirmaba que las nuevas reglas de exportación en Washington podrían "restringir las restricciones a las operaciones extranjeras de AMD", y que AMD "cobra más del 20% de sus ingresos a clientes en China y Hong Kong", y "depende de un socio chino para terminar la mayoría de sus chips". Las acusaciones vienen en medio de las investigaciones de su rival de la industria de los chips, Nvidia, sobre sus ventas a empresas en Asia con vínculos con China. AMD ha sido visto como un beneficiario de la incertidumbre que rodea a Nvidia. La empresa respondió que las acusaciones "mienten en las prácticas comerciales y relaciones" de la empresa, y que cumplía con las leyes de control de exportación de EE. UU; y mantenía procesos estrictos para garantizar la conformidad en sus operaciones globales. La CEO de AMD, Lisa Su, dijo en una llamada de inversores reciente que China es "un mercado importante" y que la empresa quiere cumplir con las normas de control de exportación de EE. UU.
-
-Por qué importa:
-La noticia es relevante porque AMD ha sido visto como un beneficiario de la incertidumbre que rodea a Nvidia, y las acusaciones de Hunterbrook Media podrían afectar la reputación de la empresa.</summary>
-    <published>2026-11-19T18:24:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html</id>
-    <title>[Economía] Amazon lanza campaña de empuje en aplicación para oponerse a un bill de entrega en Nueva York</title>
-    <updated>2026-11-19T20:48:46.990983+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html"/>
-    <summary>Amazon ha lanzado una campaña de empuje en su aplicación para oponerse al bill de entrega "Delivery Protection Act" (Intro 518) en Nueva York, que ha sido respaldado por el alcalde Zohran Mamdani. La empresa ha informado a sus usuarios que si el bill pasa, podría aumentar los costos de entrega en hasta $5 por orden, lo que podría afectar a millones de clientes en la ciudad. Amazon ha argumentado que la ley podría forzar a la empresa a contratar a sus propios empleados de entrega directamente, lo que podría afectar a pequeñas empresas y sus empleados. El bill ha sido respaldado por grupos laborales, como el Sindicato Internacional de Trabajadores de la Unión, que busca unionizar a los trabajadores de entrega y almacén de Amazon. La ley ha sido introducida en febrero y está siendo revisada por el hablante del Consejo de la Ciudad, Julie Menin. Menin ha desacreditado las afirmaciones de Amazon, afirmando que la ley no impactará en los precios ni en los empleos. En los primeros seis horas de aparecer la campaña, 20.000 clientes de Amazon enviaron correos electrónicos a sus representantes del consejo. Amazon ha utilizado su sitio web y aplicación para promocionar su posición y pedir a los usuarios que contacten a sus representantes del consejo para oponerse al bill.
-
-Por qué importa:
-La campaña de Amazon es una forma de protesta contra el bill de entrega que podría afectar a las pequeñas empresas y sus empleados; La ley busca regular a las empresas de entrega y proteger a los trabajadores, pero Amazon argumenta que podría forzar a la empresa a contratar a sus propios empleados de entrega directamente, lo que podría afectar a millones de clientes en la ciudad. La campaña de Amazon es una forma de promocionar su posición y pedir a los usuarios que contacten a sus representantes del consejo para oponerse al bill.</summary>
-    <published>2026-11-19T19:29:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html</id>
-    <title>[Economía] Trump compró Nvidia, Palantir y SpaceX en septiembre como acuerdos federales, las relaciones con la Casa Blanca crecieron</title>
-    <updated>2026-11-19T20:48:46.990948+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"/>
-    <summary>Presidente Donald Trump compró acciones de Nvidia, Palantir y SpaceX en septiembre, alrededor del tiempo en que las empresas obtuvieron contratos federales importantes y sus ejecutivos se reunieron con el presidente, según una nueva declaración financiera. Las transacciones incluyeron compras y ventas totales de alrededor de $40.9 millones a $148.1 millones, según un análisis de CNBC; Las compras superaron los $29.2 millones, mientras que las ventas superaron los $11.7 millones. El presidente Trump tiene más de 21.000 transacciones en sus cuentas en 2025, en comparación con alrededor de 500 durante su primer mandato. La Casa Blanca ha dicho que las transacciones son independientes y que el presidente ni él ni su familia tienen control sobre ellas. El presidente Trump compró acciones de Palantir antes de que la empresa recibiera dos contratos federales por un total de $42.5 millones. También compró acciones de SpaceX justo antes y después de un contrato NASA por $946 millones. Las transacciones destacan una característica notable de la presidencia de Trump: su fortuna personal sigue invertida en empresas cuyas fortunas su administración puede moldear. El presidente Trump compró acciones de Nvidia justo antes de que su CEO, Jensen Huang, se acercara a él. Las transacciones también incluyeron compras y ventas de acciones de otras empresas, como Comcast, McDonald's y Home Depot; El presidente Trump también compró acciones de Tesla y CoreWeave. Las transacciones de Trump siguen siendo objeto de atención debido a las conexiones de su administración con empresas cuyas acciones ha comprado.
-
-Por qué importa:
-La relación entre el presidente Trump y las empresas que ha comprado acciones es objeto de atención debido a las conexiones de su administración con empresas cuyas acciones ha comprado. Las transacciones destacan una característica notable de la presidencia de Trump: su fortuna personal sigue invertida en empresas cuyas fortunas su administración puede moldear.</summary>
-    <published>2026-11-19T19:43:08+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html</id>
     <title>[Economía] Walmart aumenta su perspectiva como CEO dice CNBC que el retailer busca mantener precios bajos a pesar de los costos de combustible en auge</title>
-    <updated>2026-11-19T20:48:46.990911+00:00</updated>
+    <updated>2026-11-20T14:37:02.013036+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,51 +25,79 @@ Walmart es una de las empresas más grandes y bien establecidas del mundo, lo qu
     <published>2026-11-19T19:58:30+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/</id>
-    <title>[Data Science] Agentes neurosimbólicos explicados, con un ejemplo de Z3 en Python</title>
-    <updated>2026-11-19T20:48:46.990876+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html</id>
+    <title>[Economía] Rechazando materiales baratos, precios más altos: ¿Por qué los consumidores están pidiendo ropa de mejor calidad?</title>
+    <updated>2026-11-20T14:37:02.012997+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/"/>
-    <summary>Un pasajero llamado Moffatt solicitó una rebaja por fallecimiento a la chatbot de Air Canada en noviembre de 2022. La chatbot rechazó su solicitud, pero un tribunal ordenó al aerolíneo que le pagara la diferencia. En el siglo XVII, Gottfried Wilhelm Leibniz imaginó un lenguaje formal para escribir cualquier argumento con precisión. La distancia entre el lenguaje natural y el lenguaje formal se conoce como el "gap formal". Los agentes neurosimbólicos pueden resolver este problema mediante un componente simbólico que verifica la precisión de sus decisiones. Planetarium testó directamente el problema de traducción de GPT-4 y encontró que casi todos sus outputs eran válidos. Un estudio de 2026 encontró un caso peor. Un agente de código fue utilizado para verificar si los programas de Python eran correctos y encontró que 98% de los programas correctos y 98% de los programas incorrectos eran correctos. El verificador nunca aceptó una prueba incorrecta. El sistema solo pudo decidir el 57% de los casos cuando la traducción se dividía en etapas separadas.
+    <link href="https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html"/>
+    <summary>En los últimos años, la composición de la ropa importada a Estados Unidos ha cambiado, con una disminución en la cantidad de ropa hecha de algodón y una mayor cantidad de ropa hecha de materiales sintéticos como poliéster y nylon. Esto se debe en parte a la pandemia, que aumentó los precios de la ropa y llevó a los consumidores a buscar opciones más baratas. Sin embargo, algunos expertos creen que la calidad de la ropa está volviendo a ser un factor importante para los consumidores, que están dispuestos a pagar más por ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos. Los consumidores también están buscando opciones más sostenibles y de mayor calidad, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de la moda sostenible y la conciencia sobre el impacto que tiene la ropa en el medio ambiente y en la salud humana. Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de las marcas que se enfocan en la sostenibilidad y la calidad de sus productos. Los consumidores están buscando opciones más sostenibles y de mayor calidad, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales; La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos. Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales.
 
 Por qué importa:
-Los agentes neurosimbólicos son una forma de resolver problemas complejos mediante la combinación de la inteligencia artificial y la lógica. La traducción de lenguaje natural a lenguaje formal es un ejemplo de este tipo de problemas.</summary>
-    <published>2026-11-18T15:00:00+00:00</published>
+La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos; Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de la moda sostenible y la conciencia sobre el impacto que tiene la ropa en el medio ambiente y en la salud humana.</summary>
+    <published>2026-11-20T12:00:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/who-builds-the-next-model/</id>
-    <title>[Data Science] ¿Quién construirá el próximo modelo de inteligencia artificial?</title>
-    <updated>2026-11-19T20:48:46.990843+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html</id>
+    <title>[Economía] A24 es una gran fuerza en el box office y eso puede darle a HBO Max una ventaja en la competencia de streaming.</title>
+    <updated>2026-11-20T14:37:02.012960+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/who-builds-the-next-model/"/>
-    <summary>En 2024, METR midió que los modelos de AI podían completar tareas sin ayuda en aproximadamente cuatro minutos. En 2025, un modelo de AI logró mejorar un código en tres veces más rápido que un ingeniero experimentado en cuatro horas. En 2027, se espera que los modelos de AI puedan realizar el trabajo de un top codificador. En 2028, se espera que los modelos de AI puedan diseñar sus propios sucesores con poco o ningún input humano. La cantidad de trabajos de entrada ha caído en un 73% en cuatro años. En 2025, un estudio de Stanford encontró una caída del 13% en la empleabilidad de los jóvenes de 22 a 25 años en los trabajos más expuestos a la inteligencia artificial. En 2028, se espera que la seguridad se convierta en una carrera entre ciclos de mejora. La cantidad de agentes de soporte de Salesforce cayó de aproximadamente 9.000 a 5.000 después de que los agentes de inteligencia artificial asumieran la mayor parte de las conversaciones con los clientes.
+    <link href="https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"/>
+    <summary>A24 ha tenido un año muy exitoso en el box office, con más de $526 millones en ganancias en el mercado doméstico hasta noviembre de 2025. Esto es más del 50% más que lo que ganó en todo 2025. La plataforma de streaming de HBO Max puede beneficiarse de esta alianza gracias a un acuerdo de licencia que permite a sus suscriptores ver películas nuevas de A24 después de que dejan las salas de cine. Entre las películas de A24 que han tenido éxito se encuentran "Backrooms", "The Drama" con Zendaya y Robert Pattinson, y la documental "You Can See Everything" dirigido por Nathan Fielder. La plataforma de streaming de HBO Max ha visto un aumento en la popularidad de estas películas, con "Backrooms" siendo la más vista en dos semanas y "You Can See Everything" notando el mayor debut de documental desde 2004. Además, se ha informado que nearly 70% de los usuarios de HBO Max que han visto al menos una película de A24 en 2025 han visto cuatro películas de la misma. La empresa Skydance, que es la dueña de HBO Max, planea ofrecer un paquete de valor en 2027 y espera que la combinación de sus plataformas de streaming mejore la engagement y el valor de vida de sus usuarios.
 
 Por qué importa:
-La predicción de I.J; Good en 1965 sobre la posibilidad de que una máquina inteligente diseñara una máquina aún más inteligente es un punto de partida interesante para entender el avance de la inteligencia artificial. La capacidad de los modelos de AI para completar tareas sin ayuda en poco tiempo y mejorar el rendimiento en áreas como el código y la seguridad es un indicador de su creciente capacidad para automatizar tareas.</summary>
-    <published>2026-11-19T11:45:40+00:00</published>
+La alianza entre A24 y HBO Max es importante para Skydance, que busca aumentar su streaming y superar a sus competidores; La empresa tiene más de $80 mil millones de deuda y necesita generar más ingresos para pagarla. La combinación de las plataformas de streaming de Skydance, que incluye HBO Max y Paramount+, puede ayudar a la empresa a lograr esto.</summary>
+    <published>2026-11-20T12:00:02+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy</id>
-    <title>[Data Science] Running BigQuery, Spark, and Trino on a Single Iceberg Copy</title>
-    <updated>2026-11-19T20:48:46.990808+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html</id>
+    <title>[Economía] Cathie Wood's ARK Invest fue un gran comprador de Anthropic, dice CNBC que está "muy optimista"</title>
+    <updated>2026-11-20T14:37:02.012923+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy"/>
-    <summary>Google Cloud ha logrado conectar a BigQuery, Apache Spark y Trino con un mismo Apache Iceberg table en el catálogo de runtime de Lakehouse, sin necesidad de copias ni jobs de sincronización. Esto permite que cada engine lea los mismos archivos Parquet y la misma estructura de metadata sin tener que crear copias separadas. La cataloga compartida y el protocolo de comitamiento garantizan que los motores de engine estén de acuerdo sobre dónde vive la versión actual de la tabla y cómo se comienza a cambiar sin que un escritor tramplee a otro. Un proyecto de prueba se creó con una tabla de pedidos y se demostró que BigQuery, Apache Spark y Trino pueden escribir en la misma tabla sin necesidad de definir una tabla externa ni de una conexión de recursos. Se realizaron pruebas para ver qué hace Iceberg cuando dos comités coliden. En las pruebas, se escribieron filas en la tabla compartida sin necesidad de sincronizar con otros motores. Esto permite una mayor eficiencia y consistencia en la gestión de datos.
+    <link href="https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"/>
+    <summary>Cathie Wood, gerente de ARK Invest, fue un gran comprador de Anthropic después de su debut en la Nasdaq, adquiriendo $90.8 millones de acciones en seis fondos, según una notificación de comercio de la empresa. Wood dijo que su confianza en Anthropic creció con el tiempo y que su empresa ha tenido una de las mejores rendiciones del mercado en su ARKVX. Las acciones de Anthropic saltaron el 17% en su primer día, pero cerraron lejos de los máximos de la sesión y se dirigieron a pérdidas significativas el viernes. Wood dijo que está "climando una pared de preocupación" y que cree que el mercado estará "muy optimista" en el futuro. Las acciones de Anthropic representan un 0,3% de la participación de la fundación ARK Innovation, que tiene una participación de más del 21% en Tesla y SpaceX. La fundación ARK Innovation perdió 67% en 2022 y ha caído más del 10% en 2026. Wood dijo que no compara el mercado actual con el burbuza del Dotcom.
 
 Por qué importa:
-La integración de BigQuery, Apache Spark y Trino con un mismo Apache Iceberg table es importante porque permite una mayor flexibilidad y eficiencia en la gestión de datos. Al no necesitar crear copias separadas de los datos, se reduce la complejidad y se mejora la consistencia de los datos.</summary>
-    <published>2026-11-19T13:00:00+00:00</published>
+La compra de Anthropic por parte de ARK Invest es importante porque Anthropic es una empresa de inteligencia artificial que ha tenido un impacto significativo en el mercado. La empresa ha tenido un crecimiento rápido y ha sido objeto de interés de inversores; La compra de ARK Invest es un indicio de la confianza de la empresa en el potencial de Anthropic.</summary>
+    <published>2026-11-20T13:11:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html</id>
+    <title>[Economía] Resolución de la disputa comercial entre EE. UU. y China</title>
+    <updated>2026-11-20T14:37:02.012887+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"/>
+    <summary>El presidente Donald Trump regresó de Asia después de una serie de reuniones con líderes de China, Rusia y Japón. A pesar de las reuniones bilaterales y trilaterales, las tensiones entre EE. UU. y China sobre la tecnología y el comercio permanecen sin resolver. Trump no se reunió con el líder norcoreano Kim Jong Un, y la reunión trilateral entre él, Xi Jinping y Vladimir Putin no abordó la resolución del conflicto en Ucrania. La reunión también no abordó la reducción de tarifas ni la regulación de la tecnología avanzada. El presidente de Nvidia, Jensen Huang, renunció después de ser acusado de tener vínculos con China.
+
+Por qué importa:
+La reunión de Trump con Xi Jinping y Vladimir Putin fue vista como una oportunidad para reducir las tensiones entre EE; UU; y China, pero no abordó los principales problemas de disputa comercial y tecnológica. La reunión también no incluyó a otros líderes de EE; UU., como Elon Musk, que visitó Shanghai para visitar la fábrica de Tesla; La reunión fue vista como una oportunidad para mostrar la cooperación entre EE; UU; y China, pero no resolvió los problemas pendientes.</summary>
+    <published>2026-11-20T13:29:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</id>
+    <title>[Economía] Anthropic recauda $93.5 mil millones después que los subastadores adquieren el exceso de "greenshoe"</title>
+    <updated>2026-11-20T14:37:02.012844+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"/>
+    <summary>Anthropic ha oficialmente ejercido su exceso de acciones en la histórica oferta pública inicial, convirtiendo el total recaudado en $93.5 mil millones, según una comunicación de viernes. La empresa de inteligencia artificial recaudó $81.3 mil millones el miércoles y obtuvo una cantidad adicional de $12.2 mil millones a través del exceso, superando a SpaceX, que estableció un récord en la IPO en junio; La empresa vendió un total de 1.127.000.000 acciones de su acción común de clase A a $83 por acción en la oferta. También vendió 980 millones de acciones el miércoles y sus subastadores tuvieron la opción de comprar hasta 147 millones de acciones adicionales hasta viernes como parte del exceso, conocido comúnmente como "greenshoe"; Las acciones de la empresa cayeron en el Nasdaq hasta $97.17 después de abrirse a $111.50. La empresa también cerró una venta simultánea de su acción común de clase N después de que una serie de empresas tecnológicas, incluyendo Advanced Micro Devices, Google, Microsoft y Nvidia, acordaron participar en una venta privada de $26 mil millones a los precios de la IPO. Anthropic dijo viernes que los ingresos brutos totales de su IPO, incluyendo la venta privada, fueron de $119.5 mil millones, antes de deducir los gastos de la oferta. La empresa superó una serie de obstáculos desafiantes en su camino a la Nasdaq el miércoles, cuando los inversores se preocupaban por la salida inesperada de Jensen Huang de Nvidia, el voto desaprobatorio de la tecnología en las elecciones del medio tiempo y si las tasas de interés subirían y obstaculizarían los planes de la industria para construir una infraestructura de inteligencia artificial de varios trillones de dólares. El CEO Dario Amodei co-fundó la empresa en 2021 después de que él y una pequeña élite de investigadores, incluyendo a su hermana Daniela, abandonaron sus puestos en OpenAI, ahora la principal rival de Anthropic. Anthropic es conocida por desarrollar una familia de modelos de inteligencia artificial llamados Claude, que han capturado la atención de las empresas y impulsado la ascensión histórica de la empresa. Los hermanos celebraron la IPO como un "milenio" en una entrevista con CNBC el miércoles, pero dijeron que hay más trabajo por delante para Anthropic. "Para nosotros, es como un paso", dijo Daniela Amodei; "Creemos que esto es un momento increíble para Anthropic para nuestra misión, pero vamos a despertar mañana y vamos a ser la misma empresa".
+
+Por qué importa:
+La venta de Anthropic es significativa porque es una de las empresas más valiosas en el sector de la inteligencia artificial; La empresa ha sido objeto de atención debido a su modelo de inteligencia artificial llamado Claude, que ha sido utilizado por varias empresas importantes. La venta de Anthropic también es relevante porque refleja la creciente inversión en la inteligencia artificial y la tecnología en general.</summary>
+    <published>2026-11-20T13:56:23+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/model-compression-beyond-quantization/</id>
     <title>[Data Science] Model Compression Beyond Quantization</title>
-    <updated>2026-11-19T20:48:46.990775+00:00</updated>
+    <updated>2026-11-20T14:37:02.012805+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -153,7 +111,7 @@ La compresión de modelos es una técnica importante en el aprendizaje automáti
   <entry>
     <id>https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/</id>
     <title>[Data Science] Cómo ejecutar código de Claude y otros agentes de codificación en la nube 24/7</title>
-    <updated>2026-11-19T20:48:46.990740+00:00</updated>
+    <updated>2026-11-20T14:37:02.012769+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -165,65 +123,65 @@ La nube es una opción más segura que ejecutar los agentes de codificación en 
     <published>2026-11-19T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/</id>
-    <title>[Data Science] La expectilidad de una variable uniforme entre 0 y 1 no es igual a la 95ª percentil</title>
-    <updated>2026-11-19T20:48:46.990706+00:00</updated>
+    <id>https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/</id>
+    <title>[Data Science] Un watermark oculto en el lenguaje artificial</title>
+    <updated>2026-11-20T14:37:02.012732+00:00</updated>
+    <author>
+      <name>Radar</name>
+    </author>
+    <link href="https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/"/>
+    <summary>Anthropic ha incorporado un watermark en su modelo de lenguaje artificial, Claude, en todas las superficies donde se puede utilizar, sin embargo, no se puede detectar aún. Esto se debe a que el watermark se combina con el texto utilizando un código secreto. Google ya ha utilizado un watermark en su aplicación Gemini desde 2024, mientras que OpenAI anunció que agregará un watermark a ChatGPT y Codex en la Unión Europea en octubre. El modelo GPT-2 tiene 50.257 tokens en su vocabulario. El watermark se puede detectar utilizando un detector que analiza las probabilidades de cada palabra en el texto. El objetivo es encontrar la combinación correcta de palabras para que el 60% de las monedas salgan cabeza. El watermark se puede ocultar utilizando un código secreto que se combina con el texto. El código secreto se utiliza para determinar las probabilidades de cada palabra en el texto. El watermark se puede detectar utilizando un detector que analiza las probabilidades de cada palabra en el texto.
+
+Por qué importa:
+El watermark es una forma de ocultar información en un texto utilizando un código secreto. El objetivo es encontrar la combinación correcta de palabras para que el 60% de las monedas salgan cabeza.</summary>
+    <published>2026-11-20T11:43:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/</id>
+    <title>[Data Science] Cinco límites que limitan el daño que puede hacer un agente de inteligencia artificial</title>
+    <updated>2026-11-20T14:37:02.012696+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
-    <link href="https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/"/>
-    <summary>La expectilidad de una variable uniforme entre 0 y 1 es aproximadamente 0,8134, mientras que la 95ª percentil de la misma variable es 0,95. La expectilidad se utiliza para responder a preguntas de pérdida cuadrada asimétrica y se calcula utilizando una fórmula específica. Se requiere una evaluación de la calidad de los datos y la naturaleza de la población. La expectilidad se compara con soluciones obtenidas mediante una técnica de partición. La expectilidad se utiliza para determinar un nivel de cobertura del 0,95. La expectilidad es una estadística que responde a una pregunta de pérdida cuadrada asimétrica. La expectilidad se calcula utilizando técnicas de optimización numérica. La expectilidad se utiliza para responder a preguntas de pérdida cuadrada asimétrica y se compara con soluciones obtenidas mediante una técnica de partición. La expectilidad es una estadística que responde a una pregunta de pérdida cuadrada asimétrica y se utiliza para determinar un nivel de cobertura del 0,95.
+    <link href="https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"/>
+    <summary>Un nuevo proyecto de agentes locales ha sido creado para realizar tareas de búsqueda de clientes y gestión de pedidos. Se han agregado varias funciones para evitar cambios no deseados en la base de datos, como la confirmación y solicitud idempotente, y se ha creado un sistema de validación para detectar y rechazar solicitudes de herramientas desconocidas. Se han limitado el número de vueltas que puede tomar el modelo para evitar problemas de seguridad. Se ha utilizado pytest para verificar que los guardrails funcionaran correctamente. Se ha utilizado un agente de inteligencia artificial para realizar una tarea, como buscar detalles de clientes y calcular totales. Se ha implementado guardrails para prevenir errores en el agente de la tienda.
 
 Por qué importa:
-La expectilidad es una estadística que se utiliza para responder a preguntas de pérdida cuadrada asimétrica, lo que la hace importante en ciertos contextos. La comprensión de la expectilidad es fundamental para determinar un nivel de cobertura adecuado.</summary>
-    <published>2026-11-19T16:30:00+00:00</published>
+Estos límites son importantes porque evitan que el agente de inteligencia artificial realice cambios no deseados en la base de datos y minimizan el riesgo de errores. Al implementar estas medidas, se garantiza la seguridad y la integridad de los datos.</summary>
+    <published>2026-11-20T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/18/official-bottas-to-stay-at-cadillacin-2027/</id>
-    <title>[Fórmula 1] Valtteri Bottas se quedará en Cadillac en 2027 junto a Pérez</title>
-    <updated>2026-11-19T20:48:46.990672+00:00</updated>
+    <id>https://www.kdnuggets.com/decision-ai-explained-in-5-minutes</id>
+    <title>[Data Science] El uso de inteligencia artificial para ayudar a tomar decisiones es un campo amplio, pero una nueva generación de modelos de decisión se centra en algo simple: seleccionar de respuestas predefinidas y devolver probabilidades.</title>
+    <updated>2026-11-20T14:37:02.012661+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/18/official-bottas-to-stay-at-cadillacin-2027/"/>
-    <summary>Cadillac ha confirmado que Valtteri Bottas seguirá conduciendo para ellos en 2027. A pesar de que el piloto de pruebas Colton Herta había ganado la licencia FIA necesaria para hacer su debut en F1, la escudería decidió seguir con Bottas. El CEO de Cadillac, Dan Towriss, destacó la importancia de la continuidad en la línea de pilotos, ya que Bottas aporta experiencia, perspectiva y compromiso. La decisión se anunció en un comunicado en el que se mencionó que los pilotos de reserva y pruebas para el próximo año se anunciarán en un momento posterior. Bottas se unirá a Pérez en la escudería para la temporada 2027. La decisión de Cadillac se hizo pública en el eve del Gran Premio de Las Vegas. La continuidad en la línea de pilotos es un aspecto importante para el equipo, ya que permite desarrollar la escudería y trabajar hacia sus ambiciones en F1. La noticia fue bien recibida por el equipo, que se siente agradecido por tener a Bottas en la escudería. La decisión de Cadillac se considera un paso importante en su camino hacia la superación en F1.
+    <link href="https://www.kdnuggets.com/decision-ai-explained-in-5-minutes"/>
+    <summary>La Decision AI es el uso de inteligencia artificial para ayudar a tomar decisiones. Estos modelos seleccionan de respuestas predefinidas y devuelven probabilidades. Los modelos de decisión son útiles para aplicaciones que procesan miles de solicitudes similares. El proceso es sencillo: proporcionar información, definir una pregunta y especificar respuestas posibles. El modelo evalúa la información y devuelve su decisión con probabilidades. Los modelos de decisión son útiles para aplicaciones que requieren rapidez y eficiencia. La Decision AI puede trabajar junto a modelos de lenguaje grande (LLM) para mejorar la velocidad y reducir los costos. Los modelos de decisión pueden ser utilizados en aplicaciones de soporte al cliente, clasificación de comentarios y detección de fraude. La Decision AI es un campo en constante evolución, con nuevos modelos y tecnologías emergiendo constantemente.
 
 Por qué importa:
-La decisión de Cadillac de mantener a Bottas en la escudería es importante porque permite al equipo mantener su estabilidad y continuidad; La experiencia y la perspectiva de Bottas son valiosas para el equipo, que busca desarrollarse y trabajar hacia sus ambiciones en F1. La noticia también es significativa porque muestra que Cadillac está comprometida con su línea de pilotos y está dispuesta a invertir en la continuidad.</summary>
-    <published>2026-11-18T20:07:11+00:00</published>
+La Decision AI es un campo amplio que se centra en la creación de modelos que pueden tomar decisiones de manera rápida y eficiente; Estos modelos pueden ser utilizados en una variedad de aplicaciones, desde el soporte al cliente hasta la detección de fraude. La Decision AI puede ser especialmente útil en aplicaciones que requieren procesar grandes cantidades de datos y tomar decisiones rápidas; La tecnología de Decision AI está en constante evolución, con nuevos modelos y tecnologías emergiendo constantemente; La Decision AI puede ser utilizada para mejorar la velocidad y reducir los costos de las aplicaciones de inteligencia artificial.</summary>
+    <published>2026-11-20T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29639</id>
-    <title>[Fórmula 1] los desafíos técnicos que enfrentarán las equipos en el Gran Premio de Las Vegas</title>
-    <updated>2026-11-19T20:48:46.990636+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/</id>
+    <title>[Data Science] Preparación para una entrevista de interno de riesgo crediticio en nueve pasos</title>
+    <updated>2026-11-20T14:37:02.012624+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29639"/>
-    <summary>El Gran Premio de Las Vegas 2026 presentará una combinación única de desafíos técnicos y estratégicos para los equipos de Fórmula 1, con un enfoque en la gestión de energía, el calentamiento de los neumáticos y las características impredecibles de un circuito de calle temporal. El circuito, ubicado en el corazón de Las Vegas, presenta longitudes de recta extremadamente largas y oportunidades limitadas para que los neumáticos se calienten. Los equipos deberán utilizar herramientas de simulación para determinar la mejor distribución de su energía a lo largo de la carrera. La gestión de energía será crucial, especialmente en las longitudes de recta, donde un uso ineficiente podría dejar a los conductores vulnerables. Los neumáticos también serán un tema importante, ya que Pirelli ha seleccionado su rango de compuestos más suave para el fin de semana, lo que podría hacer que los neumáticos sean más duros de lo esperado. La temperatura ambiente baja y la limitada energía de entrada en los neumáticos harán que el calentamiento sea especialmente difícil. Los equipos deberán encontrar un equilibrio precario entre el calentamiento y la conservación de energía; La carrera se espera que sea una carrera de un solo parada, con la combinación de compuestos medio y suave siendo la preferida. La estrategia de pit stop podría ser crucial, ya que el uso de neumáticos calientes podría ofrecer una ventaja significativa. La carrera también podría ser más interesante debido a las oportunidades de ultrapasar, ya que las longitudes de recta y la capacidad de usar el slipstream harán que el ultrapasar sea más fácil. Los equipos con un ritmo de carrera más rápido podrían recuperar posiciones incluso si no tienen una actuación competitiva en la clasificación de cualificación.
+    <link href="https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/"/>
+    <summary>Un estudiante de maestría de una escuela prestigiosa se ofreció a trabajar como analista cuantitativo en el departamento de riesgos de una gran empresa. El internado aprende a utilizar modelos de riesgo para calibrar la probabilidad de default de las empresas y a trabajar con los equipos de negocio y la IT. El objetivo es dar un "puntuaje" a cada observación relacionada con el modelo de la variable objetivo. La variable objetivo es 1 si el obligor defaulta y 0 en caso contrario. El banco tiene más de 100.000 obligores observados entre 2022 y 2023. El objetivo es calibrar las probabilidades de default a nivel de grado. El modelo se refit a cada conjunto de variables y se mide su rendimiento en una muestra de prueba. El modelo se refit a la totalidad de los datos y se utiliza para estimar los coeficientes. El Wald test se utiliza para verificar la significancia de los coeficientes. La AUC (Area Under Curve) se utiliza para medir la capacidad del modelo para discriminar entre clases.
 
 Por qué importa:
-El Gran Premio de Las Vegas es considerado uno de los circuitos más energéticamente sensibles del calendario, junto con Silverstone y Baku. La longitud de recta que conduce hacia Turn 14 es particularmente desafiante; La introducción de las nuevas regulaciones técnicas de 2026 agrega un nivel de complejidad adicional a un circuito ya desafiante.</summary>
-    <published>2026-11-19T06:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.racefans.net/2026/11/19/people-in-the-team-are-asking-why-my-2027-deal-hasnt-been-announced-bearman/</id>
-    <title>[Fórmula 1] Oliver Bearman se siente desapuntado por la falta de anuncio de su contrato con Haas</title>
-    <updated>2026-11-19T20:48:46.990601+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/11/19/people-in-the-team-are-asking-why-my-2027-deal-hasnt-been-announced-bearman/"/>
-    <summary>Oliver Bearman, piloto de Haas, se siente desapuntado por la falta de anuncio oficial de su contrato para la temporada 2027. Ha sido un piloto full-time para la escudería desde el inicio de la temporada anterior. Ha sido preguntado por algunos miembros del equipo por qué no ha habido un anuncio oficial sobre su contrato. Bearman ha expresado su desilusión y ha aclarado que no hay problemas con su contrato, pero que las cosas han demorado mucho tiempo. La escudería Haas no ha confirmado aún si su compañero de equipo, Camara, continuará con el equipo en los dos últimos rondas. Solo Mercedes y Audi no han confirmado aún a sus pilotos para la temporada 2027. Bearman espera que el equipo confirme su contrato, pero se siente desapuntado por la falta de claridad. La situación es complicada, pero Bearman confía en que su contrato con Haas será oficial.
-
-Por qué importa:
-La falta de anuncio oficial de Oliver Bearman como piloto de Haas para la temporada 2027 es preocupante para los fanáticos y los miembros del equipo.</summary>
-    <published>2026-11-19T09:15:35+00:00</published>
+Es importante prepararse para una entrevista de interno de riesgo crediticio para demostrar habilidades y conocimientos en modelos de riesgo y análisis de datos. La experiencia del estudiante de maestría en una escuela prestigiosa y su oferta de trabajar como analista cuantitativo en una gran empresa demuestran su capacidad para aplicar modelos de riesgo en la práctica.</summary>
+    <published>2026-11-20T13:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/</id>
     <title>[Fórmula 1] La lucha por el segundo lugar en F1 es intensa</title>
-    <updated>2026-11-19T20:48:46.990565+00:00</updated>
+    <updated>2026-11-20T14:37:02.012588+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -237,7 +195,7 @@ La lucha por el segundo lugar en la clasificación de constructores de F1 es imp
   <entry>
     <id>https://www.f1technical.net/news/29642</id>
     <title>[Fórmula 1] Bottas stays with Cadillac for the 2027 F1 season</title>
-    <updated>2026-11-19T20:48:46.990526+00:00</updated>
+    <updated>2026-11-20T14:37:02.012550+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -251,7 +209,7 @@ La confirmación de Bottas es importante para Cadillac, ya que permite al equipo
   <entry>
     <id>https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/</id>
     <title>[Fórmula 1] Video: FIA revela cómo el control de carrera toma decisiones durante un evento</title>
-    <updated>2026-11-19T20:48:46.990487+00:00</updated>
+    <updated>2026-11-20T14:37:02.012511+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,135 +221,135 @@ El video es una herramienta útil para entender cómo se toman las decisiones en
     <published>2026-11-19T15:26:31+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/</id>
-    <title>[Tecnología] Sam Altman dice que su vida es tan extraña que no se siente afectado por que Andrew Garfield lo interprete en una película</title>
-    <updated>2026-11-19T20:48:46.990449+00:00</updated>
+    <id>https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/</id>
+    <title>[Fórmula 1] He's decided on a direction: Cadillac offered reserve role to "disappointed" Herta | Formula 1</title>
+    <updated>2026-11-20T14:37:02.012475+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"/>
-    <summary>Sam Altman, el CEO de OpenAI, dijo que su vida es tan extraña que no se siente afectado por el hecho de que Andrew Garfield lo interprete en una película. La película, llamada "Artificial", cuenta la historia de la ascensión de OpenAI y la tormenta interna que se produjo cuando Altman fue temporalmente destituido en 2023. Garfield también interpretó a Eduardo Saverin en "The Social Network" y a Spider-Man en la serie de películas de Marvel. Altman dijo que la situación de liderazgo de OpenAI es "crazy" y que él se siente responsable de hacer que la tecnología salga bien. La película se estrenará en Navidad y Altman no se siente nervioso por su interpretación. Garfield no ha hablado mucho sobre su papel en la película, pero dijo que Altman es una persona que puede "dissociarse" de sus acciones. La película es una biografía cómica-drama que explora la vida y la carrera de Altman; La película también explora las implicaciones éticas de la tecnología de OpenAI. La película es una oportunidad para que la gente sepa más sobre la vida y la carrera de Altman; La película también es una oportunidad para que la gente sepa más sobre la tecnología de OpenAI y sus implicaciones. La película es una obra de arte que busca capturar la esencia de la vida y la carrera de Altman. La película es una oportunidad para que la gente sepa más sobre la vida y la carrera de Altman y la tecnología de OpenAI.
+    <link href="https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/"/>
+    <summary>Cadillac ha ofrecido a Colton Herta un rol de piloto de reserva para la próxima temporada después de decidir no promoverlo. Herta, quien ha tenido una temporada difícil en la IndyCar, ha competido en la F2 para prepararse para su posible debut en F1 en 2027. A pesar de haber obtenido suficientes puntos de licencia FIA para competir en F1, el equipo decidió mantener su línea de pilotos actuales. El CEO de Cadillac, Dan Towriss, explicó que la decisión se tomó después de una "tough discussion" con Herta, quien estaba "disappointed" con la decisión. Herta tiene "a number of options on the table" para 2027, incluyendo un rol de piloto de reserva con Cadillac. El equipo está dispuesto a seguir conversando con Herta para ver qué opciones él considera. La decisión de Cadillac se tomó después de una evaluación cuidadosa de las opciones disponibles, y el equipo está emocionado de ver qué opciones Herta considera.
 
 Por qué importa:
-La película "Artificial" es una biografía cómica-drama que explora la vida y la carrera de Sam Altman, el CEO de OpenAI; La película cuenta la historia de la ascensión de OpenAI y la tormenta interna que se produjo cuando Altman fue temporalmente destituido en 2023. La película también explora las implicaciones éticas de la tecnología de OpenAI; La película es una oportunidad para que la gente sepa más sobre la vida y la carrera de Altman y la tecnología de OpenAI; La película es una obra de arte que busca capturar la esencia de la vida y la carrera de Altman.</summary>
-    <published>2026-11-18T20:07:01+00:00</published>
+La decisión de Cadillac de no promover a Colton Herta es importante porque Herta ha sido un piloto prometedor en la IndyCar y su experiencia en la F2 podría ser valiosa para el equipo en su debut en F1. La decisión también muestra que el equipo está dispuesto a considerar opciones para mejorar su línea de pilotos y aumentar su competitividad en la pista.</summary>
+    <published>2026-11-20T10:33:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/best-home-entertainment-gifts-2026/</id>
-    <title>[Tecnología] 21 mejores regalos para la entretenimiento en casa (2026): TVs, luces y más</title>
-    <updated>2026-11-19T20:48:46.990414+00:00</updated>
+    <id>https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/</id>
+    <title>[Fórmula 1] Donnelly a publicar su autobiografía con contribuciones de Hamilton y Pitt</title>
+    <updated>2026-11-20T14:37:02.012439+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/story/best-home-entertainment-gifts-2026/"/>
-    <summary>El artículo destaca algunos de los mejores artículos de entretenimiento para casa que se han probado por WIRED, incluyendo TVs OLED, proyectores, altavoces y más. Entre los artículos destacados se encuentran el Samsung S95H, el Leica Cine Play 1, los altavoces KEF LSX II y el kit Audioengine Color. Estos artículos ofrecen una experiencia de entretenimiento de alta calidad y son ideales para aquellos que buscan mejorar su hogar. Los artículos también incluyen opciones para aquellos que buscan regalos para amigos o familiares. Los precios de estos artículos variarán según el tamaño y la marca. Los artículos se han probado por WIRED y se recomiendan para aquellos que buscan la mejor experiencia de entretenimiento. Los artículos son ideales para aquellos que buscan mejorar su hogar con la última tecnología. Los artículos ofrecen una experiencia de entretenimiento única y personalizada. Los artículos son ideales para aquellos que buscan regalos especiales para amigos o familiares. Los artículos se han probado por WIRED y se recomiendan para aquellos que buscan la mejor experiencia de entretenimiento.
+    <link href="https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/"/>
+    <summary>Martin Donnelly, quien sufrió un accidente casi fatal que inspiró la trama de "F1: The Movie", publicará su autobiografía en julio de 2027 a través de Transworld. El libro incluirá contribuciones de Lewis Hamilton y Brad Pitt. Donnelly expresó su emoción por ver su historia publicada y destacó que el accidente que lo obligó a retirarse de la F1 en 1990 había sido olvidado hasta que su historia se incluyó en la película. El libro relatará su vida, desde su carrera en la F1 hasta su supervivencia del accidente y su posterior vida. Donnelly también mencionó que su historia ha generado gran interés y que está emocionado de compartir su experiencia con el público. El libro será publicado en 2027, un año después de que su historia se incluyó en la película. Donnelly ha expresado su gratitud a Hamilton y Pitt por su contribución al libro. El libro será una oportunidad para Donnelly compartir su historia y compartir su perspectiva sobre su carrera en la F1 y su supervivencia del accidente. El libro también incluirá detalles sobre su vida después del accidente y su posterior carrera en la F1.
 
 Por qué importa:
-El artículo destaca la importancia de tener una buena experiencia de entretenimiento en casa, ya que puede ser un lugar donde se reúnen amigos y familiares. Los artículos destacados ofrecen una experiencia de entretenimiento de alta calidad y son ideales para aquellos que buscan mejorar su hogar.</summary>
-    <published>2026-11-19T12:00:00+00:00</published>
+La publicación de la autobiografía de Martin Donnelly es importante porque ofrece una oportunidad para que el público conozca su historia y su experiencia en la F1; El libro proporcionará una perspectiva única sobre la carrera de Donnelly y su supervivencia del accidente, y es una oportunidad para que el público se familiarice con su vida y su legado. La inclusión de contribuciones de Lewis Hamilton y Brad Pitt en el libro también agrega un elemento de interés y relevancia, ya que ambos son figuras destacadas en el mundo de la F1.</summary>
+    <published>2026-11-20T11:05:09+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming</id>
-    <title>[Tecnología] FCC permite regla para que las cárceles puedan bloquear señales de teléfonos móviles</title>
-    <updated>2026-11-19T20:48:46.990378+00:00</updated>
+    <id>https://www.f1technical.net/news/29643</id>
+    <title>[Fórmula 1] FP2: Russell edges Gasly en las condiciones de lluvia de Las Vegas FP2</title>
+    <updated>2026-11-20T14:37:02.012402+00:00</updated>
+    <author>
+      <name>F1Technical.net . Motorsport news</name>
+    </author>
+    <link href="https://www.f1technical.net/news/29643"/>
+    <summary>George Russell lideró el segundo ejercicio de pruebas libres con un tiempo de 1m 47.272s, solo 0.071 segundos por delante de Pierre Gasly de Alpine, y Charles Leclerc de Ferrari en tercer lugar. La sesión fue interrumpida por una bandera roja debido a la presencia de plástico en el circuito, pero los conductores pudieron completar el tiempo restante en neumáticos intermedios. Russell se llevó la victoria provisional, con Gasly en segundo y Leclerc en tercer lugar. Fernando Alonso, Lando Norris y otros conductores tuvieron dificultades con la lluvia y el circuito, pero muchos pudieron adaptarse y mejorar su tiempo. La sesión fue importante para recopilar datos sobre el circuito de Las Vegas, que se realizará en la próxima carrera. La competencia se intensificará en el tercer ejercicio de pruebas libres, que se llevará a cabo el día siguiente.
+
+Por qué importa:
+La sesión de pruebas libres fue crucial para recopilar datos sobre el circuito de Las Vegas, que se realizará en la próxima carrera. La lluvia afectó la sesión, pero los conductores pudieron adaptarse y mejorar su tiempo; La competencia se intensificará en el tercer ejercicio de pruebas libres, que se llevará a cabo el día siguiente.</summary>
+    <published>2026-11-20T13:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships</id>
+    <title>[Tecnología] ¿Por qué los robots están abandonando Uber?</title>
+    <updated>2026-11-20T14:37:02.012361+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
-    <link href="https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming"/>
-    <summary>La Comisión Federal de Comunicaciones (FCC) votó unánimemente para permitir que las cárceles bloqueen las señales de teléfonos móviles. La regla busca combatir el "influx de teléfonos móviles contrabandeados" que se utilizan para llevar a cabo delitos desde la cárcel. El jefe de la FCC, Brendan Carr, afirma que esta tecnología ayudará a prevenir que los reos utilicen teléfonos para actividades ilícitas. Sin embargo, grupos de comercio y defensores de derechos humanos han expresado preocupación sobre los riesgos de bloquear las señales de teléfonos en las cárceles, lo que podría afectar las comunicaciones legítimas fuera de las instalaciones. La ACLU ha argumentado que los teléfonos móviles pueden ayudar a los reos a documentar problemas de seguridad y derechos humanos que no son visibles para el mundo exterior. La FCC ha establecido requisitos técnicos y de prueba para las cárceles que deseen bloquear las señales de teléfonos, y requiere que notifiquen a las comunidades cercanas sobre las pruebas y la implementación de la tecnología. El solo demócrata de la Comisión, Anna Gomez, votó a favor de la medida, aunque expresó su preocupación por posibles consecuencias no deseadas.
+    <link href="https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships"/>
+    <summary>En un giro inesperado, varias empresas de robotaxis y delivery están abandonando sus acuerdos con Uber. Waymo, una empresa de robotaxis liderada por la co-CEO Tekedra Mawakana, anunció que terminará su exclusiva partnership con Uber en enero de 2028. Serve Robotics, que opera robots de entrega en la calle, también decidió no renovar su acuerdo con Uber Eats en 2027. Uber espera tener "tens of thousands" de vehículos autónomos en más de 50 ciudades en 2028. La razón detrás de este abandono es que Waymo y Serve tienen visiones diferentes sobre cómo operar y traer la autonomía a la sociedad. Uber, por otro lado, ha enfrentado críticas y problemas legales, como el caso de una mujer asesinada por un vehículo de prueba de Uber en 2018. A pesar de esto, Uber sigue albergando viajes de Waymo mediante acuerdos no exclusivos en 2028. Waymo también tiene una nueva alianza con Lyft en Nashville en 2028. Uber también lobbó contra una ley que legalizaría robotaxis en Washington, D.C; en 2028. En resumen, Waymo y Serve están abandonando a Uber debido a diferencias en sus visiones y problemas legales que han enfrentado la empresa.
 
 Por qué importa:
-Esta regla es importante porque puede afectar la seguridad pública y la libertad de expresión de los reos. La FCC ha establecido requisitos para que las cárceles que deseen bloquear las señales de teléfonos también notifiquen a las comunidades cercanas, lo que sugiere que la agencia está tratando de equilibrar la seguridad con la privacidad y la libertad de expresión.</summary>
-    <published>2026-11-19T19:40:28+00:00</published>
+La decisión de Waymo y Serve de abandonar a Uber se debe a que las empresas tienen visiones diferentes sobre cómo operar y traer la autonomía a la sociedad. Además, Uber ha enfrentado críticas y problemas legales, como el caso de una mujer asesinada por un vehículo de prueba de Uber en 2018.</summary>
+    <published>2026-11-20T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/divers-found-the-remains-of-australias-first-naval-warship-and-old-newspapers-had-it-right-all-along-2000842534</id>
-    <title>[Tecnología] El HMCS Spitfire, la primera embarcación naval de Australia, fue commissionada en 1855 para enfrentar una flota rusa imperial en el Lejano Oeste.</title>
-    <updated>2026-11-19T20:48:46.990343+00:00</updated>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</id>
+    <title>[Tecnología] Signal está bloqueando Gemini y Siri AI para leer la pantalla</title>
+    <updated>2026-11-20T14:37:02.012321+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"/>
+    <summary>Signal está restringiendo la capacidad de tomar capturas de pantalla en dispositivos Android e iOS para prevenir que los agentes de inteligencia artificial (IA) lean los mensajes y otros datos de los usuarios. La presidenta de Signal, Meredith Whittaker, afirmó que esta medida es necesaria para proteger la privacidad de los usuarios. Signal está llamando a los proveedores de sistemas operativos para que faciliten a los desarrolladores de aplicaciones el control de qué datos pueden acceder los agentes de IA. El bloqueo de capturas de pantalla es una medida incompleta, ya que no aborda otras formas en que los agentes de IA pueden acceder a los datos de las aplicaciones. Signal está llamando a Apple, Google y Microsoft para que proporcionen herramientas técnicas y documentación precisa para los desarrolladores de aplicaciones. El bloqueo de capturas de pantalla afecta a Siri, Gemini y otros asistentes de Android AI. Los usuarios pueden restaurar la capacidad de tomar capturas de pantalla en la configuración de la aplicación Signal, pero esto podría exponer su contenido a los agentes de IA. Signal está luchando para desarrollar una solución más efectiva debido a la falta de información sobre cómo los agentes de IA están accediendo a los datos de las aplicaciones. El bloqueo de capturas de pantalla es una medida necesaria para proteger la privacidad de los usuarios y es un llamado a la acción para los desarrolladores de aplicaciones y los proveedores de sistemas operativos.
+
+Por qué importa:
+El bloqueo de capturas de pantalla es una medida necesaria para proteger la privacidad de los usuarios en un momento en que los agentes de inteligencia artificial están integrados en los sistemas operativos y están accediendo a grandes cantidades de datos. La falta de herramientas y documentación para los desarrolladores de aplicaciones es un problema grave que afecta a la privacidad de los usuarios; Signal está luchando para desarrollar una solución más efectiva, pero necesita la colaboración de los proveedores de sistemas operativos y los desarrolladores de aplicaciones para proteger la privacidad de los usuarios.</summary>
+    <published>2026-11-20T12:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/</id>
+    <title>[Tecnología] Google mejora la capacidad de Gemini para realizar tareas repetitivas en su aplicación de Mac</title>
+    <updated>2026-11-20T14:37:02.012285+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"/>
+    <summary>Google ha mejorado la capacidad de Gemini para realizar tareas repetitivas en su aplicación de Mac. El nuevo feature permite a Gemini realizar tareas como listar items en plataformas de comercio electrónico, completar formularios PDF y automatizar tareas que suelen requerir varios pasos. El feature se puede utilizar para automatizar tareas en aplicaciones y dispositivos diferentes, siempre y cuando se indique qué acción realizar en lenguaje natural. Gemini trabajará en las tareas en una ventana de fondo y solo mostrará una preview en vivo en el chat. El feature no tomará control del screen o del cursor, permitiendo utilizar el ordenador como de costumbre. Gemini solo podrá utilizar aplicaciones y programas que se le han dado acceso y pedirá aprobación para acciones clave.
+
+Por qué importa:
+Este nuevo feature es importante porque permite a los usuarios automatizar tareas repetitivas y ahorrar tiempo. Con Gemini, los usuarios pueden realizar tareas complejas de manera sencilla y eficiente, lo que puede ser especialmente útil para personas que venden productos en línea o necesitan completar formularios PDF con frecuencia.</summary>
+    <published>2026-11-20T12:36:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/getting-into-last-years-trump-memecoin-dinner-took-55000-this-weekends-costs-just-518-2000842414</id>
+    <title>[Tecnología] El costo de asistir al primer TRUMP dinner fue de $55,000, mientras que este fin de semana cuesta solo $518.</title>
+    <updated>2026-11-20T14:37:02.012246+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/divers-found-the-remains-of-australias-first-naval-warship-and-old-newspapers-had-it-right-all-along-2000842534"/>
-    <summary>El HMCS Spitfire, una embarcación naval de 51 pies de largo, fue commissionada en 1855 para enfrentar una flota rusa imperial en el Lejano Oeste. La embarcación se hundió el 21 de agosto de 1898 después de sufrir daños por tormentas y otros peligros. Sin embargo, gracias a la búsqueda realizada por el Royal Australian Navy y la Australian National Maritime Museum, se ha encontrado el hundimiento del HMCS Spitfire en un lecho marino de Queensland. La preservación del hundimiento es notable, y se espera que la excavación del sitio permita obtener más información sobre la embarcación y su tripulación. La tripulación del HMCS Spitfire estaba compuesta principalmente por personas de origen aborigen o torres Strait Islander o pacífico. La búsqueda del HMCS Spitfire fue un esfuerzo de un mes que involucró a clearance divers, entrenados para desarmar minas submarinas, y arqueólogos marítimos. El sonar detectó la "anomalía acústica" creada por el hundimiento, que fue confirmada mediante imágenes recogidas por buzos y vehículos operados a distancia. Se espera que la próxima etapa de la investigación incluya la excavación de un "trench de excavación" submarina para obtener más información sobre la embarcación y su tripulación.
+    <link href="https://gizmodo.com/getting-into-last-years-trump-memecoin-dinner-took-55000-this-weekends-costs-just-518-2000842414"/>
+    <summary>En enero de 2025, Donald Trump lanzó su propia moneda memecoin llamada TRUMP; La moneda perdió $46 mil millones de valor en semanas después de que Trump asumiera la presidencia. En mayo de 2025, se celebró el primer TRUMP dinner, lo que provocó un breve aumento en el precio de la moneda; En septiembre de 2025, el TRUMP dinner produjo un aumento del 9% en el precio de la moneda, pero que se desvaneció en 24 horas. En junio de 2026, se informó que la familia Trump había ganado $2.3 mil millones con cuatro de sus proyectos de criptomonedas. En octubre de 2026, nueve senadores, liderados por Adam Schiff, escribieron a la jefa de asesoramiento del White House, Susie Wiles, solicitando información sobre el TRUMP dinner. En noviembre de 2026, el fiscal general de Texas, Aaron Reitz, pidió a varios legisladores que preservaran documentos relacionados con el TRUMP dinner. Aaron Reitz ha enviado demandas de preservación de documentos a varios legisladores, incluyendo a Schiff, Blumenthal, Warren, Slotkin y Robert Garcia. La Justicia Department está cuestionando el uso de la supervisión congressional contra ciudadanos privados que se asocian con Trump. El Senador Warren ha anunciado que su comité bancario del Senado será su objetivo en el próximo año; El memecoin de Hunter Biden, LAPTOP, cayó en precio el 98% en un solo hora después de su lanzamiento en septiembre. El memecoin de Trump, TRUMP, y el token de la familia Trump, World Liberty Financial, alcanzaron nuevos bajos después del colapso del memecoin Bluenami. Bitcoin ha perdido el 23% de su valor en los últimos 30 días, aunque sigue siendo mayor que el de otros criptomonedas.
 
 Por qué importa:
-El HMCS Spitfire es un recordatorio importante de la historia de Australia y su relación con el Lejano Oeste; La preservación del hundimiento del HMCS Spitfire es un hallazgo significativo que permite a los investigadores obtener más información sobre la embarcación y su tripulación. La excavación del sitio permitirá obtener más información sobre la cultura y la historia de la tripulación del HMCS Spitfire, que estaba compuesta principalmente por personas de origen aborigen o torres Strait Islander o pacífico.</summary>
-    <published>2026-11-19T19:45:21+00:00</published>
+El TRUMP dinner se ha convertido en un evento exclusivo y caro, con un costo que ha aumentado significativamente desde su inicio. Esto puede ser importante porque refleja la creciente popularidad y el impacto de las criptomonedas en la sociedad.</summary>
+    <published>2026-11-20T13:10:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</id>
-    <title>[Tecnología] Google está poniendo los chats de inteligencia artificial directamente en la página de inicio</title>
-    <updated>2026-11-19T20:48:46.990307+00:00</updated>
+    <id>https://www.wired.com/story/pura-black-friday-2026/</id>
+    <title>[Tecnología] Las mejores ofertas de Pura durante Cyber Week (2026)</title>
+    <updated>2026-11-20T14:37:02.012211+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"/>
-    <summary>Google está actualizando su página de inicio para incluir búsquedas de inteligencia artificial. Según un post en X, el vicepresidente de producto de Google, Robby Stein, muestra cómo se puede abrir un panel colapsable para ver y continuar los chats de inteligencia artificial. El panel se puede abrir haciendo clic en la barra gris que aparece en el lado izquierdo de la pantalla. Allí, Google mostrará una lista de las búsquedas que has realizado en modo de inteligencia artificial, junto con la posibilidad de iniciar un nuevo hilo, buscar hilos o conectar un cuaderno de Gemini. Este cambio es el último en una serie de cambios en la página de inicio de Google, que ha presentado siempre un solo bar para iniciar la búsqueda. La compañía introdujo el botón de modo de inteligencia artificial en su barra de búsqueda el año pasado, lo que abre una experiencia de búsqueda similar a chatbot dentro de Google. En mayo, Google actualizó su caja de búsqueda para acomodar preguntas más largas y agregó autocompletado de inteligencia artificial. El vicepresidente de producto, Robby Stein, afirma que Google está implementando esta opción porque "las personas están llegando a la búsqueda con más preguntas que no son solo una y se van", y que "en pruebas, este panel hizo una gran diferencia para hacer progreso y explorar la web". El nuevo panel de inicio se está lanzando globalmente en desktop.
+    <link href="https://www.wired.com/story/pura-black-friday-2026/"/>
+    <summary>Pura ofrece una amplia variedad de fragancias, más de 150 opciones de grandes marcas como Anthropologie, Nest, LAFCO, Brooklyn Candle Company, Studio McGee y más. Durante Cyber Week, las fragancias están a 20% de descuento y los difusores a 30% de descuento. La marca es conocida por sus fragancias caras, pero durante la venta, es posible obtener una buena oferta. El Pura Home es la recomendación de la autora, ya que ofrece una mejor experiencia de uso y control. El Pura Mini es otra opción recomendada, aunque tiene un ruido de alta frecuencia. El Pura Car es una buena opción para padres, ya que ofrece una experiencia de aroma agradable. La Pura Advent Calendar es una buena opción para aquellos que buscan una experiencia de aroma divertida. El Pura Plus es una opción para espacios grandes, aunque tiene un ruido de fondo.
 
 Por qué importa:
-Este cambio es importante porque refleja la evolución de la forma en que las personas buscan información en línea. La introducción de la inteligencia artificial en la búsqueda de Google es un paso más en la dirección de la personalización y la interacción más natural con la búsqueda.</summary>
-    <published>2026-11-19T20:05:06+00:00</published>
+Pura es una marca conocida por sus fragancias de alta calidad, pero sus productos también tienen un precio alto; Durante Cyber Week, la marca ofrece una oportunidad para obtener sus productos a un precio más asequible. La venta es una buena oportunidad para aquellos que buscan mejorar su ambiente de hogar o como regalo para alguien especial.</summary>
+    <published>2026-11-20T13:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</id>
-    <title>[Tecnología] El escándalo de Jensen Huang se despliega</title>
-    <updated>2026-11-19T20:48:46.990271+00:00</updated>
+    <id>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</id>
+    <title>[Tecnología] Six AI-powered gadgets that could make your home office smarter</title>
+    <updated>2026-11-20T14:37:02.012172+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
-    <summary>Jensen Huang, CEO de Nvidia, admitió a tener una relación extramarital con su esposa de 40 años, lo que podría tener ramificaciones más allá de su vida personal y la seguridad nacional de EE. UU; La empresa también ha estado involucrada en una investigación por supuestas partidas ilegales de chips con China. Después de su renuncia, Nvidia planifica aumentar su pronóstico para el año fiscal 2028, lo que sugiere confianza en que el cambio de liderazgo no afectará su trayectoria. La empresa ha experimentado una caída del 8% en su precio de acción después de su renuncia. Jensen Huang testificará ante el Congreso antes de la Thanksgiving, enfrentando preguntas serias sobre sus acciones y su impacto en la seguridad nacional de EE; UU. La investigación también ha involucrado a Megaspeed, una empresa de infraestructura de AI basada en Singapur, que ha comprado $4.8 mil millones de chips de Nvidia en los últimos dos años. La situación ha generado preocupación en el ámbito de la seguridad nacional, ya que EE; UU. y China están en una carrera tecnológica para construir la infraestructura de AI más avanzada, con Nvidia desempeñando un papel crucial en esta competencia. La empresa ha experimentado una caída del 11% en su precio de acción en los últimos cinco días. La situación también ha generado una petición para que Jensen Huang sea reinstado como CEO, firmada por Elon Musk y otros ejecutivos de tecnología.
+    <link href="https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"/>
+    <summary>Las empresas de tecnología están trabajando para entender cómo el aprendizaje automático puede hacer que el trabajo diario sea un poco más fácil. Se presentan seis gadgets de tecnología con potencial de mejorar la eficiencia en el espacio de trabajo. Entre ellos se encuentran el Scribe de Flowtica, que combina la escritura a mano con la grabación de audio; el pin de grabación de sonido de Anker, que puede grabar conversaciones sin ocupar mucho espacio en la mesa; y el teclado MX de Logitech, que permite acceder a herramientas de productividad con solo presionar un botón. También se mencionan el Kindle Scribe Colorsoft de Amazon, que ofrece herramientas de anotación digitales con tecnología de aprendizaje automático. el webcam Link 2 Pro de Insta360, que sigue el movimiento del usuario y ajusta la cámara para mantenerlo en el centro de la pantalla; y el escritorio ajustable Autonomous Desk Pro, que utiliza sensores para monitorear la actividad del usuario y recordarle cuando es hora de moverse. Estos gadgets pueden ayudar a mejorar la productividad y la eficiencia en el espacio de trabajo.
 
 Por qué importa:
-El escándalo de Jensen Huang tiene implicaciones más allá de su vida personal y su papel en Nvidia, ya que la empresa juega un papel crucial en la carrera tecnológica entre EE. UU; y China; La situación también ha generado preocupación en el ámbito de la seguridad nacional, ya que la investigación ha involucrado a Megaspeed y Nvidia.</summary>
-    <published>2026-11-19T20:18:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://css-tricks.com/when-everything-has-changed/</id>
-    <title>[Programación] Cuando todo cambia, ¿qué hacemos a continuación?</title>
-    <updated>2026-11-19T20:48:46.990235+00:00</updated>
-    <author>
-      <name>CSS-Tricks</name>
-    </author>
-    <link href="https://css-tricks.com/when-everything-has-changed/"/>
-    <summary>Microsoft y Meta, junto con startups de AI como Open AI y Anthropic, han transformado la tecnología y el trabajo. El uso de LLMs ha afectado a todos, especialmente en la industria de la tecnología. La demanda de utilizar la tecnología de LLM para producir más volumen sigue siendo alta, pero el uso excesivo ha tenido un efecto devastador en muchas personas. El autor recomienda a los empleados aprender, desarrollar sus habilidades y participar en conferencias. Los subsidios de tokens eventualmente terminarán, lo que hará que el uso de inteligencia artificial en la organización sea más eficiente y costoso. El autor sugiere reevaluar las decisiones anteriores y invertir los costos ahorrados en desarrollar a los empleados. La tecnología de LLM no reemplaza la experiencia, el conocimiento, la nuance y la creatividad humanas. El autor destaca la importancia de involucrar a los empleados en las decisiones y discutir los impactos de las mandatas en ellos.
-
-Por qué importa:
-La tecnología de LLM ha tenido un impacto significativo en la industria de la tecnología, afectando a muchos empleados y personas. Es importante considerar la importancia de la calidad de la salida y dar tiempo para pensar.</summary>
-    <published>2026-11-18T14:55:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/amrithesh_dev/apple-just-made-1080p-video-in-120-ms-heres-how-its-changing-live-streaming-47l3</id>
-    <title>[Programación] Apple Just Made 1080p Video in 120 ms – Here’s How It’s Changing Live‑Streaming</title>
-    <updated>2026-11-19T20:48:46.990194+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/amrithesh_dev/apple-just-made-1080p-video-in-120-ms-heres-how-its-changing-live-streaming-47l3"/>
-    <summary>Apple ha desarrollado una tecnología que permite generar videos de alta definición en 120 ms, lo que revoluciona la transmisión en vivo. La empresa ha presentado FastFrames, un sistema de generación de video que utiliza un enfoque de difusión basado en autoregressive para producir 1080p en aproximadamente 120 ms. Esto permite una reducción significativa de la latencia interactiva, lo que es esencial para aplicaciones como la transmisión en vivo y la realidad aumentada. FastFrames también reduce la cantidad de datos que se transmiten, lo que puede ser beneficioso para aplicaciones que requieren una conexión a Internet de baja velocidad. La tecnología ha sido implementada en el estudio de visión de Apple y se puede utilizar en aplicaciones de realidad aumentada y realidad virtual. La empresa ha demostrado que la tecnología puede reducir la latencia en un 50% y que puede ser utilizada en dispositivos móviles sin necesidad de un procesador de gráficos potente. La empresa ha lanzado el SDK de FastFrames para que los desarrolladores puedan experimentar con la tecnología y evaluar su potencial.
-
-Por qué importa:
-La tecnología de FastFrames es importante porque permite una transmisión en vivo más rápida y eficiente; La reducción de la latencia interactiva es esencial para aplicaciones que requieren una experiencia de usuario inmediata, como la transmisión en vivo y la realidad aumentada. La tecnología también puede ser utilizada en aplicaciones de realidad virtual y de realidad aumentada, lo que puede revolucionar la forma en que interactuamos con la información; La empresa ha demostrado que la tecnología puede ser utilizada en dispositivos móviles sin necesidad de un procesador de gráficos potente, lo que puede hacer que sea más accesible para una audiencia más amplia.</summary>
-    <published>2026-11-18T20:50:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/1ds22cs119_manish_274b7b2/shrutiscript-media-2028-renewals-currencyscoop-inr-notes-fictional-data-4kp</id>
-    <title>[Programación] Renewals de CurrencyScoop para 2028</title>
-    <updated>2026-11-19T20:48:46.990152+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/1ds22cs119_manish_274b7b2/shrutiscript-media-2028-renewals-currencyscoop-inr-notes-fictional-data-4kp"/>
-    <summary>El 20 de noviembre de 2027, CurrencyScoop realizó un ejercicio de planificación de renovaciones para 2028. Se inventaron los nombres de los clientes, los IDs de contrato, los alcances de servicio, las fechas y los valores en moneda extranjera para este ejercicio. Los datos se convirtieron a INR utilizando la operación de CurrencyScoop, que se realizó por separado para cada una de las 27 cantidades de origen con la operación to=INR y sin parámetro de fecha histórica. Todos los llamados fueron exitosos; Los proveedores respondieron el 18 de noviembre de 2026, y se proporcionaron los datos de tasa en INR por unidad de moneda de origen. Los cálculos se realizaron con los valores no redondeados; Se redondearon los valores en INR al número entero más cercano. Se realizó una verificación separada con un snapshot de tasas más recientes de CurrencyScoop en base USD el 18 de noviembre de 2026; Los totales se sumaron con los valores redondeados en INR y no son previsiones de ingresos. Se refrescarán los cálculos cada vez que se prepare el paquete de renovación el 20 de noviembre de 2027, y se verificarán los datos de renovación antes de la firma y en la facturación. Se confirmaron los fechas de renovación, los plazos de notificación, los volúmenes y los alcances de servicio; Se asumió que dos plazos de notificación preceden la fecha del paquete: SSM-2028-001 el 12 de octubre de 2027 y SSM-2028-003 el 9 de noviembre de 2027. Se confirmó que se documentó la notificación o la decisión de renovación requerida; Los datos de tasas de cambio y los valores convertidos se proporcionaron por CurrencyScoop. Los proveedores respondieron que el uso está sujeto a los términos: https://currencybeacon.com/terms.
-
-Por qué importa:
-Estos datos son una simulación y no reflejan información real sobre organizaciones o contratos. Los datos se inventaron para este ejercicio de planificación y no deben considerarse como representaciones de datos reales.</summary>
-    <published>2026-11-18T20:51:24+00:00</published>
+Estos gadgets de tecnología con potencial de mejorar la eficiencia en el espacio de trabajo pueden ser especialmente útiles para profesionales que trabajan largas horas sentados en su escritorio; Algunos de estos gadgets, como el Scribe de Flowtica y el Kindle Scribe Colorsoft, ofrecen herramientas de anotación digitales con tecnología de aprendizaje automático que pueden ayudar a organizar y simplificar la información. Otros, como el webcam Link 2 Pro de Insta360, pueden ayudar a reducir el estrés y la distracción durante las llamadas de video, permitiendo a los usuarios mantenerse enfocados en la conversación.</summary>
+    <published>2026-11-20T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://css-tricks.com/almanac/functions/s/scroll-state/</id>
     <title>[Programación] scroll-state()</title>
-    <updated>2026-11-19T20:48:46.990113+00:00</updated>
+    <updated>2026-11-20T14:37:02.012133+00:00</updated>
     <author>
       <name>CSS-Tricks</name>
     </author>
@@ -405,7 +363,7 @@ La función scroll-state() es una herramienta útil para diseñadores y desarrol
   <entry>
     <id>https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1</id>
     <title>[Programación] Una asistente de ventas de inteligencia artificial en Telegram que sabe cuándo ceder</title>
-    <updated>2026-11-19T20:48:46.990057+00:00</updated>
+    <updated>2026-11-20T14:37:02.012089+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +377,7 @@ La implementación de un asistente de ventas de inteligencia artificial en Teleg
   <entry>
     <id>https://dev.to/nmorestd/5-real-bugs-we-fixed-hardening-a-zero-dependency-nodejs-mcp-client-1k4c</id>
     <title>[Programación] Bug en el cliente Node.js MCP</title>
-    <updated>2026-11-19T20:48:46.989965+00:00</updated>
+    <updated>2026-11-20T14:37:02.012047+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +387,47 @@ La implementación de un asistente de ventas de inteligencia artificial en Teleg
 Por qué importa:
 La corrección de estos errores es importante para garantizar la seguridad y la estabilidad del cliente Node.js MCP; Los errores identificados pueden afectar la capacidad del cliente para funcionar correctamente con los servidores MCP. La corrección de estos errores también es esencial para garantizar que el cliente se comporte de manera predecible y segura.</summary>
     <published>2026-11-19T20:10:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/dev-sahadat/the-picture-element-which-format-each-browser-downloads-2e6l</id>
+    <title>[Programación] El formato de imagen que cada navegador descarga</title>
+    <updated>2026-11-20T14:37:02.012002+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/dev-sahadat/the-picture-element-which-format-each-browser-downloads-2e6l"/>
+    <summary>En un experimento, se compararon los formatos de imagen AVIF, WebP y JPEG en diferentes navegadores. Se encontró que AVIF es el formato más pequeño en términos de tamaño de archivo, seguido de WebP. Los navegadores Chromium, Firefox y WebKit descargaron el formato AVIF en todas las pruebas, mientras que el formato WebP fue descargado en todas las pruebas cuando se colocó antes del formato AVIF. El formato JPEG fue descargado en todas las pruebas cuando no se encontraba un formato compatible con AVIF o WebP. Los navegadores descargaron el formato AVIF en todas las pruebas, incluso cuando se colocó el formato WebP antes del formato AVIF. El tamaño de archivo de AVIF es significativamente menor que el de JPEG en todas las pruebas. Los navegadores descargaron el formato AVIF en todas las pruebas, incluso cuando se colocó el formato WebP antes del formato AVIF. El tamaño de archivo de AVIF es significativamente menor que el de JPEG en todas las pruebas.
+
+Por qué importa:
+El artículo se centra en la comparación de los formatos de imagen AVIF, WebP y JPEG en diferentes navegadores; El autor realizó un experimento para comparar los tamaños de archivo de estos formatos en diferentes navegadores y encontró que AVIF es el formato más pequeño. El autor destaca la importancia de colocar el formato AVIF antes del formato WebP para que se descargue correctamente; El artículo también destaca la importancia de verificar que los navegadores descarguen el formato AVIF en todas las pruebas.</summary>
+    <published>2026-11-20T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/aemon-cz/how-to-get-a-transcript-of-any-spotify-podcast-episode-without-touching-spotifys-audio-3178</id>
+    <title>[Programación] Cómo obtener un transcripto de cualquier episodio de un podcast de Spotify (Sin tocar el audio de Spotify)</title>
+    <updated>2026-11-20T14:37:02.011942+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/aemon-cz/how-to-get-a-transcript-of-any-spotify-podcast-episode-without-touching-spotifys-audio-3178"/>
+    <summary>Spotify no permite descargar ni exportar audio, y no hay un punto de transcripción en su API público. Sin embargo, la mayoría de los podcasts de Spotify también están publicados como una feed RSS. Spotify muestra los mismos episodios. Para obtener un transcripto, se puede convertir la URL de Spotify en el nombre del programa, buscar el nombre del programa en el directorio de Apple Podcasts, encontrar el episodio correspondiente y transcribir el archivo de audio del feed. El proceso implica: 1) convertir la URL de Spotify en el nombre del programa, 2) buscar el nombre del programa en el directorio de Apple Podcasts, 3) encontrar el episodio correspondiente y transcribir el archivo de audio del feed. El proceso se puede automatizar con un actor de Apify llamado "Podcast to Text" que devuelve el transcripto como texto JSON.
+
+Por qué importa:
+Spotify es una plataforma que muestra los mismos episodios de podcasts, pero la mayoría de los podcasts también están publicados en una feed RSS. Los usuarios pueden utilizar esta feed para obtener un transcripto del episodio.</summary>
+    <published>2026-11-20T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/neticslabs/eks-auto-mode-resizes-pod-requests-in-place-from-observed-usage-3oib</id>
+    <title>[Programación] Optimización de recursos en clusters de Kubernetes de AWS</title>
+    <updated>2026-11-20T14:37:02.011827+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/neticslabs/eks-auto-mode-resizes-pod-requests-in-place-from-observed-usage-3oib"/>
+    <summary>AWS ha anunciado la optimización de recursos para clusters de Kubernetes 1.36 o más en siete regiones, a cargo. La optimización, que se lanzará el 17 de noviembre de 2026, permite que los clusters ajusten automáticamente las solicitudes de CPU y memoria para los Pods, sin editar los Deployment o StatefulSet. El costo de la nube en EKS Auto Mode sigue una sola regla: la solicitud de recursos escrita en un template de Pod. La optimización cubre CPU y memoria en los Deployments y StatefulSets, y también observa el uso de CPU y memoria de cada container. El caso de prueba de Java es un ejemplo de cómo funciona la optimización. AWS ha establecido las fronteras de la visualización Netics para el preview, que incluye desde los tipos de carga de trabajo hasta la ausencia de un rollback. Los equipos que ya ejecutan sus clústeres con DevOps y monitoreo administrado tienen las medición necesarias para este preview.
+
+Por qué importa:
+Esta optimización es importante porque permite a los usuarios de Kubernetes optimizar mejor el uso de recursos en sus clústeres, lo que puede ayudar a reducir los costos y mejorar la eficiencia. La optimización también permite a los usuarios ajustar automáticamente las solicitudes de CPU y memoria para los Pods, lo que puede ayudar a evitar la sobrecarga y la subutilización de recursos.</summary>
+    <published>2026-11-20T14:00:02+00:00</published>
   </entry>
 </feed>
