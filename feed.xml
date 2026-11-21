@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-20T14:37:02.011800+00:00</updated>
+  <updated>2026-11-21T13:32:03.273031+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html</id>
-    <title>[Economía] Walmart aumenta su perspectiva como CEO dice CNBC que el retailer busca mantener precios bajos a pesar de los costos de combustible en auge</title>
-    <updated>2026-11-20T14:37:02.013036+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"/>
-    <summary>Walmart reportó ganancias y ventas que superaron las expectativas y aumentó su perspectiva anual al informar crecimiento fuerte en e-commerce antes de la temporada de fiestas. La empresa dijo que sus ventas de e-commerce globales crecieron un 17% en el tercer trimestre, impulsados por la entrega de productos en tienda y el Walmart U.S. que aumentó un 23%. Walmart también redujo precios en casi 8.000 productos en sus tiendas. El CEO John Furner dijo que la empresa está trabajando para reducir los costos de combustible y mantener precios bajos. El CFO John David Rainey dijo que el crecimiento en pedidos en línea de Walmart y Sam's Club se debió a un enfoque en la velocidad de entrega y precios reducidos. La empresa también aumentó su perspectiva anual, ahora espera que las ventas crezcan entre un 4,9% y un 5,2%, y que los ingresos ajustados por acciones crezcan entre un 8% y un 8,6%.
-
-Por qué importa:
-Walmart es una de las empresas más grandes y bien establecidas del mundo, lo que le permite ser más resistente a las presiones económicas; La empresa ha demostrado su capacidad para adaptarse a los cambios en el mercado y ha implementado estrategias para atraer a nuevos clientes y mantener a los existentes. La creación de su membresía Walmart+ ha sido un paso importante en esta dirección, ya que ha permitido a la empresa ofrecer servicios adicionales y aumentar los ingresos.</summary>
-    <published>2026-11-19T19:58:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html</id>
-    <title>[Economía] Rechazando materiales baratos, precios más altos: ¿Por qué los consumidores están pidiendo ropa de mejor calidad?</title>
-    <updated>2026-11-20T14:37:02.012997+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html"/>
-    <summary>En los últimos años, la composición de la ropa importada a Estados Unidos ha cambiado, con una disminución en la cantidad de ropa hecha de algodón y una mayor cantidad de ropa hecha de materiales sintéticos como poliéster y nylon. Esto se debe en parte a la pandemia, que aumentó los precios de la ropa y llevó a los consumidores a buscar opciones más baratas. Sin embargo, algunos expertos creen que la calidad de la ropa está volviendo a ser un factor importante para los consumidores, que están dispuestos a pagar más por ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos. Los consumidores también están buscando opciones más sostenibles y de mayor calidad, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de la moda sostenible y la conciencia sobre el impacto que tiene la ropa en el medio ambiente y en la salud humana. Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de las marcas que se enfocan en la sostenibilidad y la calidad de sus productos. Los consumidores están buscando opciones más sostenibles y de mayor calidad, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales; La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos. Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales.
-
-Por qué importa:
-La tendencia hacia la ropa de alta calidad está impulsada en parte por la creciente conciencia sobre el impacto ambiental y de salud de los materiales sintéticos; Los consumidores están dispuestos a pagar más por ropa que sea de alta calidad y sostenible, lo que está llevando a una mayor demanda de ropa hecha de materiales naturales. La tendencia hacia la ropa de alta calidad también está impulsada por la creciente popularidad de la moda sostenible y la conciencia sobre el impacto que tiene la ropa en el medio ambiente y en la salud humana.</summary>
-    <published>2026-11-20T12:00:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html</id>
-    <title>[Economía] A24 es una gran fuerza en el box office y eso puede darle a HBO Max una ventaja en la competencia de streaming.</title>
-    <updated>2026-11-20T14:37:02.012960+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"/>
-    <summary>A24 ha tenido un año muy exitoso en el box office, con más de $526 millones en ganancias en el mercado doméstico hasta noviembre de 2025. Esto es más del 50% más que lo que ganó en todo 2025. La plataforma de streaming de HBO Max puede beneficiarse de esta alianza gracias a un acuerdo de licencia que permite a sus suscriptores ver películas nuevas de A24 después de que dejan las salas de cine. Entre las películas de A24 que han tenido éxito se encuentran "Backrooms", "The Drama" con Zendaya y Robert Pattinson, y la documental "You Can See Everything" dirigido por Nathan Fielder. La plataforma de streaming de HBO Max ha visto un aumento en la popularidad de estas películas, con "Backrooms" siendo la más vista en dos semanas y "You Can See Everything" notando el mayor debut de documental desde 2004. Además, se ha informado que nearly 70% de los usuarios de HBO Max que han visto al menos una película de A24 en 2025 han visto cuatro películas de la misma. La empresa Skydance, que es la dueña de HBO Max, planea ofrecer un paquete de valor en 2027 y espera que la combinación de sus plataformas de streaming mejore la engagement y el valor de vida de sus usuarios.
-
-Por qué importa:
-La alianza entre A24 y HBO Max es importante para Skydance, que busca aumentar su streaming y superar a sus competidores; La empresa tiene más de $80 mil millones de deuda y necesita generar más ingresos para pagarla. La combinación de las plataformas de streaming de Skydance, que incluye HBO Max y Paramount+, puede ayudar a la empresa a lograr esto.</summary>
-    <published>2026-11-20T12:00:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html</id>
-    <title>[Economía] Cathie Wood's ARK Invest fue un gran comprador de Anthropic, dice CNBC que está "muy optimista"</title>
-    <updated>2026-11-20T14:37:02.012923+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"/>
-    <summary>Cathie Wood, gerente de ARK Invest, fue un gran comprador de Anthropic después de su debut en la Nasdaq, adquiriendo $90.8 millones de acciones en seis fondos, según una notificación de comercio de la empresa. Wood dijo que su confianza en Anthropic creció con el tiempo y que su empresa ha tenido una de las mejores rendiciones del mercado en su ARKVX. Las acciones de Anthropic saltaron el 17% en su primer día, pero cerraron lejos de los máximos de la sesión y se dirigieron a pérdidas significativas el viernes. Wood dijo que está "climando una pared de preocupación" y que cree que el mercado estará "muy optimista" en el futuro. Las acciones de Anthropic representan un 0,3% de la participación de la fundación ARK Innovation, que tiene una participación de más del 21% en Tesla y SpaceX. La fundación ARK Innovation perdió 67% en 2022 y ha caído más del 10% en 2026. Wood dijo que no compara el mercado actual con el burbuza del Dotcom.
-
-Por qué importa:
-La compra de Anthropic por parte de ARK Invest es importante porque Anthropic es una empresa de inteligencia artificial que ha tenido un impacto significativo en el mercado. La empresa ha tenido un crecimiento rápido y ha sido objeto de interés de inversores; La compra de ARK Invest es un indicio de la confianza de la empresa en el potencial de Anthropic.</summary>
-    <published>2026-11-20T13:11:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html</id>
-    <title>[Economía] Resolución de la disputa comercial entre EE. UU. y China</title>
-    <updated>2026-11-20T14:37:02.012887+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"/>
-    <summary>El presidente Donald Trump regresó de Asia después de una serie de reuniones con líderes de China, Rusia y Japón. A pesar de las reuniones bilaterales y trilaterales, las tensiones entre EE. UU. y China sobre la tecnología y el comercio permanecen sin resolver. Trump no se reunió con el líder norcoreano Kim Jong Un, y la reunión trilateral entre él, Xi Jinping y Vladimir Putin no abordó la resolución del conflicto en Ucrania. La reunión también no abordó la reducción de tarifas ni la regulación de la tecnología avanzada. El presidente de Nvidia, Jensen Huang, renunció después de ser acusado de tener vínculos con China.
-
-Por qué importa:
-La reunión de Trump con Xi Jinping y Vladimir Putin fue vista como una oportunidad para reducir las tensiones entre EE; UU; y China, pero no abordó los principales problemas de disputa comercial y tecnológica. La reunión también no incluyó a otros líderes de EE; UU., como Elon Musk, que visitó Shanghai para visitar la fábrica de Tesla; La reunión fue vista como una oportunidad para mostrar la cooperación entre EE; UU; y China, pero no resolvió los problemas pendientes.</summary>
-    <published>2026-11-20T13:29:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</id>
     <title>[Economía] Anthropic recauda $93.5 mil millones después que los subastadores adquieren el exceso de "greenshoe"</title>
-    <updated>2026-11-20T14:37:02.012844+00:00</updated>
+    <updated>2026-11-21T13:32:03.274148+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,79 +25,79 @@ La venta de Anthropic es significativa porque es una de las empresas más valios
     <published>2026-11-20T13:56:23+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/model-compression-beyond-quantization/</id>
-    <title>[Data Science] Model Compression Beyond Quantization</title>
-    <updated>2026-11-20T14:37:02.012805+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html</id>
+    <title>[Economía] CrowdStrike en conversaciones para comprar a Zscaler</title>
+    <updated>2026-11-21T13:32:03.274116+00:00</updated>
     <author>
-      <name>MachineLearningMastery.com</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://machinelearningmastery.com/model-compression-beyond-quantization/"/>
-    <summary>La compresión de modelos va más allá de la quantización, ya que otras técnicas reducen el número de valores o la tamaño de las estructuras del modelo. Pruning elimina pesos o estructuras, mientras que la distilación de conocimientos entrenan un modelo más pequeño para reproducir el comportamiento de un modelo más grande. La compresión de modelos puede mejorar la velocidad de ejecución y el uso de memoria, pero requiere una cuidadosa evaluación de la compresión de la estructura del modelo. La distilación de conocimientos es una técnica efectiva para transferir el comportamiento de un modelo más grande a un modelo más pequeño. La compresión de modelos es una técnica importante en el aprendizaje automático, ya que puede mejorar la velocidad de ejecución y el uso de memoria. La compresión de modelos puede ser utilizada en una variedad de aplicaciones, desde la inteligencia artificial hasta la inteligencia de negocios. La compresión de modelos es un campo en constante evolución, con nuevas técnicas y aplicaciones emergiendo constantemente. La compresión de modelos es una técnica que requiere una cuidadosa evaluación de la compresión de la estructura del modelo para asegurarse de que se mantenga el comportamiento deseado.
+    <link href="https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"/>
+    <summary>CrowdStrike está en conversaciones para comprar a Zscaler, según un informe de Bloomberg. Las acciones de Zscaler subieron el 18% en comercio prolongado el viernes, mientras que las acciones de CrowdStrike cayeron más del 8%. El valor de mercado de CrowdStrike se ha duplicado en este año, mientras que el de Zscaler ha disminuido un 13%. Si el acuerdo se cumple, sería uno de los más grandes en la industria de la seguridad cibernética. CrowdStrike ha anunciado planes para adquirir varias plataformas de inteligencia artificial en el pasado. El acuerdo podría tener un impacto significativo en la industria de la seguridad cibernética.
 
 Por qué importa:
-La compresión de modelos es una técnica importante en el aprendizaje automático que puede mejorar la velocidad de ejecución y el uso de memoria; La distilación de conocimientos es una técnica efectiva para transferir el comportamiento de un modelo más grande a un modelo más pequeño. La compresión de modelos se utiliza en una variedad de aplicaciones, desde la inteligencia artificial hasta la inteligencia de negocios; La compresión de modelos es un campo en constante evolución, con nuevas técnicas y aplicaciones emergiendo constantemente.</summary>
-    <published>2026-11-19T14:06:50+00:00</published>
+La noticia de que CrowdStrike está en conversaciones para comprar a Zscaler podría tener un impacto significativo en la industria de la seguridad cibernética, ya que ambos empresas son líderes en el sector. CrowdStrike ha sido uno de los ganadores más grandes de la industria en el boom de la inteligencia artificial, mientras que Zscaler ha visto su valor de mercado disminuir en este año; El acuerdo podría ser uno de los más grandes en la historia de la industria, superando incluso la adquisición de Wiz por parte de Google por $32 mil millones.</summary>
+    <published>2026-11-20T21:35:24+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/</id>
-    <title>[Data Science] Cómo ejecutar código de Claude y otros agentes de codificación en la nube 24/7</title>
-    <updated>2026-11-20T14:37:02.012769+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html</id>
+    <title>[Economía] Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis</title>
+    <updated>2026-11-21T13:32:03.274080+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/"/>
-    <summary>La nube permite ejecutar agentes de codificación de manera más eficiente y segura. Utilizar la nube para ejecutar agentes de codificación permite trabajar de manera más eficiente sin preocuparse por el cierre del ordenador o la conexión a Internet. Algunos proveedores de servicios de nube, como AWS o Google Cloud, ofrecen créditos de inteligencia artificial que se pueden utilizar para ejecutar sesiones de codificación. La renta de un servidor en la nube es una opción más cara que utilizar un proveedor de servicios de nube, pero ofrece más flexibilidad y control sobre las sesiones de codificación. Utilizar un servidor en la nube es más fácil de configurar que ejecutar los agentes de codificación en la computadora. La nube permite que los agentes de codificación se ejecuten de manera más segura y sin interrupciones, lo que reduce el estrés mental asociado con la gestión de estas sesiones. Los agentes de codificación pueden ejecutarse 24/7 sin problemas de memoria en el propio ordenador. La renta de un servidor con 128 GB de RAM cuesta alrededor de $500 por mes.
+    <link href="https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"/>
+    <summary>Nvidia shares tumbaron 14% el viernes, lo que suma un séptimo día consecutivo de caída, lo que lleva a la empresa a su longer streak de pérdidas semanales desde la crisis financiera de 2008. La empresa ha perdido 46% de valor en el período, lo que ha reducido su capitalización bursárica en alrededor de $2.6 trillion. El valor de la empresa es ahora de $3 trillion, lo que la coloca en el cuarto lugar detrás de Apple, Microsoft y Alphabet. La crisis de Nvidia se debe en parte a la salida de su fundador, Jensen Huang, quien renunció el 12 de noviembre después de ser acusado de varias infidelidades, incluyendo una con una mujer china que se cree que era espía. La empresa está reaccionando a la noticia de Huang, quien había sido una figura clave en el crecimiento de la empresa. La empresa ha anunciado que su nuevo presidente ejecutivo, Colette Kress, ha proyectado un crecimiento del 75% en la próxima fiscalidad, pero la empresa sigue sin saber si puede seguir innovando y liderando en el mercado de los chips de inteligencia artificial sin su líder visionario. La empresa ha estado experimentando una crisis de liderazgo después de la salida de Huang, quien había sido una figura clave en el crecimiento de la empresa.
 
 Por qué importa:
-La nube es una opción más segura que ejecutar los agentes de codificación en la computadora, ya que no requiere que la computadora esté siempre encendida. El uso de cloud coding agents reduce la mentalidad de estrés asociada con la ejecución de agentes de codificación.</summary>
-    <published>2026-11-19T15:00:00+00:00</published>
+La crisis de Nvidia es un ejemplo de cómo la pérdida de un líder carismático y visionario puede afectar a una empresa; La empresa ha estado experimentando una crisis de liderazgo después de la salida de Jensen Huang, quien había sido una figura clave en el crecimiento de la empresa. La empresa ha estado reaccionando a la noticia de Huang, quien había sido acusado de varias infidelidades, incluyendo una con una mujer china que se cree que era espía; La empresa está intentando encontrar un nuevo líder y seguir innovando en el mercado de los chips de inteligencia artificial, pero la pregunta sigue siendo si puede seguir liderando sin su líder visionario.</summary>
+    <published>2026-11-20T22:59:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/</id>
-    <title>[Data Science] Un watermark oculto en el lenguaje artificial</title>
-    <updated>2026-11-20T14:37:02.012732+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html</id>
+    <title>[Economía] Cómo China utiliza los cumbres para ampliar su influencia global</title>
+    <updated>2026-11-21T13:32:03.274046+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/"/>
-    <summary>Anthropic ha incorporado un watermark en su modelo de lenguaje artificial, Claude, en todas las superficies donde se puede utilizar, sin embargo, no se puede detectar aún. Esto se debe a que el watermark se combina con el texto utilizando un código secreto. Google ya ha utilizado un watermark en su aplicación Gemini desde 2024, mientras que OpenAI anunció que agregará un watermark a ChatGPT y Codex en la Unión Europea en octubre. El modelo GPT-2 tiene 50.257 tokens en su vocabulario. El watermark se puede detectar utilizando un detector que analiza las probabilidades de cada palabra en el texto. El objetivo es encontrar la combinación correcta de palabras para que el 60% de las monedas salgan cabeza. El watermark se puede ocultar utilizando un código secreto que se combina con el texto. El código secreto se utiliza para determinar las probabilidades de cada palabra en el texto. El watermark se puede detectar utilizando un detector que analiza las probabilidades de cada palabra en el texto.
+    <link href="https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"/>
+    <summary>El presidente chino Xi Jinping ha reunido a la presidenta rusa Vladimir Putin y al presidente estadounidense Donald Trump en una cumbre en Shenzhen, China, por segunda vez en un año. Esta reunión marcó el primer encuentro en persona entre los tres líderes. En septiembre de 2025, Xi, Putin y el primer ministro indio Narendra Modi se reunieron brevemente durante una reunión anual de la Organización de Cooperación del Shanghai. China busca jugar un papel más constructivo en un mundo en conflicto y busca proporcionar plataformas para que los países discutan temas. En la reunión, Trump, Xi y Putin planificaron aumentar la producción de petróleo y reformar la ONU. El presidente chino Xi anunció que China proporcionará $20 millones de apoyo a la región del Pacífico Asiático. La reunión puede crear resultados significativos para la gestión de crisis y espacio diplomático para futuras negociaciones. Los líderes también discutieron sobre reducir armas nucleares y temas como Ucrania, el Medio Oriente y Corea del Norte.
 
 Por qué importa:
-El watermark es una forma de ocultar información en un texto utilizando un código secreto. El objetivo es encontrar la combinación correcta de palabras para que el 60% de las monedas salgan cabeza.</summary>
-    <published>2026-11-20T11:43:53+00:00</published>
+La reunión de Xi Jinping con Putin y Trump refleja la creciente influencia de China en el mundo; China ha estado jugando un papel de mediador en la restauración de relaciones diplomáticas entre Arabia Saudita e Irán en 2023. La participación de China en multilateralismo y la hostelería de eventos como la Cumbre de los Líderes de la APEC en Shenzhen reflejan su deseo de expandir su influencia global y demostrar su compromiso con el multilateralismo; Sin embargo, la creciente diversidad de prioridades geopolíticas y económicas entre los países puede hacer que sea desafiante llegar a acuerdos a través de organizaciones multilaterales.</summary>
+    <published>2026-11-21T06:00:02+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/</id>
-    <title>[Data Science] Cinco límites que limitan el daño que puede hacer un agente de inteligencia artificial</title>
-    <updated>2026-11-20T14:37:02.012696+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html</id>
+    <title>[Economía] Corrección del mercado: Cinco fuerzas detrás de la venta del mercado</title>
+    <updated>2026-11-21T13:32:03.274012+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/"/>
-    <summary>Un nuevo proyecto de agentes locales ha sido creado para realizar tareas de búsqueda de clientes y gestión de pedidos. Se han agregado varias funciones para evitar cambios no deseados en la base de datos, como la confirmación y solicitud idempotente, y se ha creado un sistema de validación para detectar y rechazar solicitudes de herramientas desconocidas. Se han limitado el número de vueltas que puede tomar el modelo para evitar problemas de seguridad. Se ha utilizado pytest para verificar que los guardrails funcionaran correctamente. Se ha utilizado un agente de inteligencia artificial para realizar una tarea, como buscar detalles de clientes y calcular totales. Se ha implementado guardrails para prevenir errores en el agente de la tienda.
+    <link href="https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"/>
+    <summary>El mercado de valores experimentó una corrección significativa el viernes, con el S&amp;P 500 y la Dow Jones Industrial Average cayendo más del 10% de sus récords. La Nasdaq Composite perdió su ganancia del año y la Nasdaq-100 entró en el territorio del mercado de bear. El experto Wharton Jeremy Siegel atribuyó la venta al mercado a varios factores, incluyendo la oferta inicial pública de Anthropic, una empresa líder en inteligencia artificial, y la venta intensa de Nvidia, una empresa de chips de alta tecnología. La venta del mercado se intensificó después de que el gobierno de Estados Unidos anunciara restricciones más estrictas sobre la exportación de chips a China. Siegel señaló que la tendencia a vender cuando el mercado sube puede haber contribuido a la corrección. El mercado de valores ha experimentado una corrección similar en el pasado, y Siegel cree que esta corrección puede ser una simple corrección del mercado que restaura el bull market que había generado expectativas demasiado altas. Sin embargo, si la corrección se convierte en una tendencia más larga, podría tener consecuencias negativas para la economía y los inversores.
 
 Por qué importa:
-Estos límites son importantes porque evitan que el agente de inteligencia artificial realice cambios no deseados en la base de datos y minimizan el riesgo de errores. Al implementar estas medidas, se garantiza la seguridad y la integridad de los datos.</summary>
-    <published>2026-11-20T12:00:00+00:00</published>
+La corrección del mercado es importante porque puede tener un impacto significativo en la economía y los inversores; La tendencia a vender cuando el mercado sube puede haber contribuido a la corrección, lo que podría tener consecuencias negativas para la economía y los inversores. La corrección del mercado también puede ser un indicador de que el mercado está entrando en una fase de ajuste, lo que podría ser una oportunidad para los inversores que buscan comprar en el mercado.</summary>
+    <published>2026-11-21T11:29:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.kdnuggets.com/decision-ai-explained-in-5-minutes</id>
-    <title>[Data Science] El uso de inteligencia artificial para ayudar a tomar decisiones es un campo amplio, pero una nueva generación de modelos de decisión se centra en algo simple: seleccionar de respuestas predefinidas y devolver probabilidades.</title>
-    <updated>2026-11-20T14:37:02.012661+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html</id>
+    <title>[Economía] El aumento de las preocupaciones por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres.</title>
+    <updated>2026-11-21T13:32:03.273976+00:00</updated>
     <author>
-      <name>KDnuggets</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.kdnuggets.com/decision-ai-explained-in-5-minutes"/>
-    <summary>La Decision AI es el uso de inteligencia artificial para ayudar a tomar decisiones. Estos modelos seleccionan de respuestas predefinidas y devuelven probabilidades. Los modelos de decisión son útiles para aplicaciones que procesan miles de solicitudes similares. El proceso es sencillo: proporcionar información, definir una pregunta y especificar respuestas posibles. El modelo evalúa la información y devuelve su decisión con probabilidades. Los modelos de decisión son útiles para aplicaciones que requieren rapidez y eficiencia. La Decision AI puede trabajar junto a modelos de lenguaje grande (LLM) para mejorar la velocidad y reducir los costos. Los modelos de decisión pueden ser utilizados en aplicaciones de soporte al cliente, clasificación de comentarios y detección de fraude. La Decision AI es un campo en constante evolución, con nuevos modelos y tecnologías emergiendo constantemente.
+    <link href="https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"/>
+    <summary>En los últimos días, una serie de tecnologías de alto perfil que han dejado a los aviones en el aire, a los usuarios sin acceso a internet y a los bancos sin poder realizar transacciones, han generado una gran preocupación entre los ciudadanos. Muchas personas, como Sabrina Cepeda, una madre de tres hijos de Houston, están preparándose para un posible blackout tecnológico o otro evento de emergencia. Cepeda ha comprado propane y fluido de encendedor para su cocina y calefacción, y ha reponido sus reservas de alimentos no perecederos, productos de higiene y medicamentos para alergias. Según datos de Consumer Edge, el gasto en productos de emergencia ha aumentado un 400% en comparación con el mismo período del año anterior. Empresas como Ready America y Costco han visto un aumento significativo en las ventas de productos de emergencia, incluyendo kits de supervivencia, agua embotellada y alimentos enlatados. Los expertos creen que la creciente preocupación por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres.
 
 Por qué importa:
-La Decision AI es un campo amplio que se centra en la creación de modelos que pueden tomar decisiones de manera rápida y eficiente; Estos modelos pueden ser utilizados en una variedad de aplicaciones, desde el soporte al cliente hasta la detección de fraude. La Decision AI puede ser especialmente útil en aplicaciones que requieren procesar grandes cantidades de datos y tomar decisiones rápidas; La tecnología de Decision AI está en constante evolución, con nuevos modelos y tecnologías emergiendo constantemente; La Decision AI puede ser utilizada para mejorar la velocidad y reducir los costos de las aplicaciones de inteligencia artificial.</summary>
-    <published>2026-11-20T13:00:00+00:00</published>
+La creciente preocupación por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres. Los gobiernos y las empresas están tomando medidas para prepararse para posibles eventos de emergencia, como la posible caída del sistema de energía eléctrica o la creación de ataques cibernéticos.</summary>
+    <published>2026-11-21T13:00:01+00:00</published>
   </entry>
   <entry>
     <id>https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/</id>
     <title>[Data Science] Preparación para una entrevista de interno de riesgo crediticio en nueve pasos</title>
-    <updated>2026-11-20T14:37:02.012624+00:00</updated>
+    <updated>2026-11-21T13:32:03.273941+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,79 +109,79 @@ Es importante prepararse para una entrevista de interno de riesgo crediticio par
     <published>2026-11-20T13:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/</id>
-    <title>[Fórmula 1] La lucha por el segundo lugar en F1 es intensa</title>
-    <updated>2026-11-20T14:37:02.012588+00:00</updated>
+    <id>https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026</id>
+    <title>[Data Science] Un marco de decisión para 2026 sobre modelos de lenguaje grande abiertos y propietarios</title>
+    <updated>2026-11-21T13:32:03.273908+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/"/>
-    <summary>La lucha por el segundo lugar en la clasificación de constructores de F1 es intensa, con varios pilotos buscando mejorar su posición. Lando Norris y Max Verstappen, los dos pilotos más destacados, han expresado que su prioridad es mejorar la posición de su equipo en la clasificación de constructores. Andrea Kimi Antonelli, el campeón mundial actual, ha dicho que está dispuesto a ayudar a George Russell para que se asegure el segundo lugar en la clasificación de pilotos. George Russell, por su parte, no se preocupa por su posición en la clasificación y se enfoca en tener buenas actuaciones en cada weekend. Lewis Hamilton y Charles Leclerc también han expresado que su prioridad es mejorar la posición de su equipo en la clasificación de constructores. La lucha por el segundo lugar en F1 es intensa y cada piloto busca mejorar su posición en la clasificación; La temporada de F1 está a punto de terminar y cada piloto busca hacer todo lo posible para mejorar su posición. La lucha por el segundo lugar en la clasificación de pilotos es intensa y cada piloto busca hacer todo lo posible para asegurarse un buen resultado. La temporada de F1 ha sido muy intensa y cada piloto busca hacer todo lo posible para mejorar su posición en la clasificación. La lucha por el segundo lugar en F1 es muy intensa y cada piloto busca hacer todo lo posible para asegurarse un buen resultado. La temporada de F1 está a punto de terminar y cada piloto busca hacer todo lo posible para mejorar su posición en la clasificación de pilotos.
+    <link href="https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026"/>
+    <summary>En 2026, los modelos de lenguaje grande abiertos han avanzado significativamente, cerrando un 70-90% del gap de capacidad con los modelos propietarios de vanguardia. Qwen 3.5 lidera en varias leaderboards de modelos abiertos de lenguaje grande, especialmente en la razón y el código. La API de Qwen 3.5 está licenciada bajo Apache 2.0, lo que la hace comercialmente accesible. Los modelos propietarios, como GPT-5, Claude y Gemini, tienen distintas fortalezas y ventajas en diferentes áreas. La API de GPT-5 cuesta entre $0.05 y $30 por millón de tokens de entrada, dependiendo del nivel de frontera. En 2026, la API de modelos de lenguaje grande ha caído en un 80% desde principios de 2023. Para el 80% de los casos de ciencia de datos, los modelos abiertos de lenguaje grande entregan resultados funcionales indistinguibles de las APIs propietarias. Los modelos abiertos permiten fine-tuning personalizado sin costos adicionales y se pueden realizar con datos propios. La elección de un modelo de aprendizaje automático no se puede predecir con los puntajes de benchmark. Los modelos de aprendizaje automático abiertos son producción-viable para una amplia gama de tareas que no lo eran dos años atrás.
 
 Por qué importa:
-La lucha por el segundo lugar en la clasificación de constructores de F1 es importante porque determina la posición de cada equipo en la clasificación y puede tener un impacto significativo en su futuro. La temporada de F1 ha sido muy intensa y cada piloto busca hacer todo lo posible para mejorar su posición en la clasificación; La lucha por el segundo lugar en F1 es muy intensa y cada piloto busca hacer todo lo posible para asegurarse un buen resultado.</summary>
-    <published>2026-11-19T10:00:38+00:00</published>
+La elección entre modelos de lenguaje grande abiertos y propietarios es crucial para las empresas que buscan mejorar su eficiencia y reducir costos. Los modelos abiertos ofrecen ventajas en términos de costos y flexibilidad, lo que las hace atractivos para las empresas que buscan innovar y mantenerse competitivas en el mercado.</summary>
+    <published>2026-11-20T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29642</id>
-    <title>[Fórmula 1] Bottas stays with Cadillac for the 2027 F1 season</title>
-    <updated>2026-11-20T14:37:02.012550+00:00</updated>
+    <id>https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/</id>
+    <title>[Data Science] Comparación de modelos de predicción para alquileres de bicicletas</title>
+    <updated>2026-11-21T13:32:03.273874+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.f1technical.net/news/29642"/>
-    <summary>El piloto finlandés Valtteri Bottas seguirá con el equipo Cadillac en la temporada 2027 de Fórmula 1. La confirmación se hizo antes de la próxima Gran Premio de Las Vegas. Bottas continuará junto a Sergio Pérez, mientras que Cadillac se prepara para su segunda campaña en la categoría. El piloto, que regresó a la pista en 2026 después de pasar una temporada como piloto de reserva de Mercedes, proporcionará experiencia y retroalimentación técnica valiosa para el equipo. La confirmación ofrece continuidad para Cadillac después de su debut en la temporada 2026, con el equipo buscando construir sobre las bases establecidas en su primera temporada. Bottas tiene experiencia en varias equipos, incluyendo Williams, Mercedes y Sauber, lo que se espera que juegue un papel importante en el desarrollo continuo del equipo. El piloto expresó su intención de seguir con el equipo, mientras que el CEO de Cadillac, Dan Towriss, destacó la importancia de mantener a Bottas en el equipo. La confirmación asegura continuidad en el equipo de pilotos, lo que permitirá a Cadillac centrarse en desarrollar su paquete técnico y infraestructura para convertirse en una fuerza competitiva en Fórmula 1. Bottas ha acumulado una extensa carrera en Fórmula 1, con 10 victorias de carrera, 20 puestos de pole y 19 vueltas rápidas. El piloto ha sido piloto de reserva de Mercedes en 2024 y ha sido piloto de full-time para el equipo en 2026.
+    <link href="https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/"/>
+    <summary>El autor utilizó el dataset de bike sharing de UCI para predecir el número de alquileres de bicicletas para los próximos 48 horas. Utilizó un modelo de LightGBM y un enfoque de temporada simple para predecir los datos. El modelo de LightGBM mejoró su error de predicción en 1.570 al agregar información climática. El modelo LightGBM superó al promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012. El autor encontró que la evaluación del modelo era crucial para obtener resultados precisos. El modelo LightGBM utilizó patrones semanales regulares para hacer predicciones, lo que sugiere que estos patrones son importantes para predecir los alquileres de horas. El autor utilizó la biblioteca Scikit-learn para realizar la ingeniería de características y la biblioteca LightGBM para realizar la predicción. El modelo de LightGBM produjo predicciones más precisas que el promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012. El autor realizó experimentos con el dataset de bike sharing de UCI y encontró que LightGBM era más competitivo que esperaba.
 
 Por qué importa:
-La confirmación de Bottas es importante para Cadillac, ya que permite al equipo centrarse en su desarrollo continuo y construir sobre las bases establecidas en su primera temporada. La continuidad en el equipo de pilotos es clave para el éxito de Cadillac en Fórmula 1.</summary>
-    <published>2026-11-19T11:17:47+00:00</published>
+El autor utilizó el dataset de bike sharing de UCI para predecir el número de alquileres de bicicletas para los próximos 48 horas; El modelo de LightGBM mejoró su error de predicción en 1.570 al agregar información climática. El modelo LightGBM superó al promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012; El autor encontró que la evaluación del modelo era crucial para obtener resultados precisos; El modelo LightGBM utilizó patrones semanales regulares para hacer predicciones, lo que sugiere que estos patrones son importantes para predecir los alquileres de horas.</summary>
+    <published>2026-11-20T16:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/</id>
-    <title>[Fórmula 1] Video: FIA revela cómo el control de carrera toma decisiones durante un evento</title>
-    <updated>2026-11-20T14:37:02.012511+00:00</updated>
+    <id>https://www.oreilly.com/radar/what-happened-to-silicon-valley/</id>
+    <title>[Data Science] El futuro de Silicon Valley</title>
+    <updated>2026-11-21T13:32:03.273840+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Radar</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/"/>
-    <summary>La FIA ha publicado un nuevo video que proporciona visión de cómo se toman las decisiones en el control de carrera durante los grands prix. Un concepto comúnmente malentendido es que el control de carrera es responsable de tomar las penalizaciones; Esto no es cierto: las decisiones sobre si los conductores deben ser penalizados y cómo, son manejadas por separado por los stewardes. El control de carrera es responsable de proporcionar a los stewardes la información que necesitan para tomar decisiones durante los grands prix. El video operator Richard Serschen explica que cuando se necesita revisar algo, el control de carrera entra en modo de replay y puede seleccionar y mostrar ciertas cámaras a los directores de carrera o a los directores deportivos. Los directores deportivos pueden pedir más ángulos o cámaras, y el video operator puede enviar las imágenes a la sala de los stewardes. El video también muestra cómo el control de carrera puede proporcionar información en tiempo real a los stewardes; La FIA ha publicado el video para proporcionar más transparencia sobre el proceso de toma de decisiones en el control de carrera. El video es una herramienta útil para entender cómo se toman las decisiones en el control de carrera durante los grands prix; El video también es una oportunidad para los aficionados a la F1 para aprender más sobre el proceso de toma de decisiones. El video ha sido bien recibido por la comunidad de aficionados a la F1, que lo considera una herramienta valiosa para entender mejor el deporte. El video ha sido publicado en el sitio web de la FIA y es disponible para ver en línea; El video es una parte importante de la transparencia de la FIA en cuanto a su proceso de toma de decisiones. El video ha sido bien recibido por la comunidad de aficionados a la F1, que lo considera una herramienta valiosa para entender mejor el deporte; El video ha sido publicado en el sitio web de la FIA y es disponible para ver en línea.
+    <link href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/"/>
+    <summary>En Silicon Valley, las empresas priorizan las ganancias sobre la búsqueda de información, lo que lleva a la explotación de los recursos y la creación de rentas. La empresa Google se ha convertido en un modelo de "slow AI" que prioriza la maximización de ganancias sobre la búsqueda de información y la satisfacción del usuario. La renta en Silicon Valley se divide en dos categorías: las rentas de "tide rising" (arriba y arriba) y las rentas de "barón robador" (arriba y abajo). La empresa Tesla ha recibido préstamos garantizados para hacer posible su negocio y ha ganado "supermoney" a través de la emisión de acciones. La desigualdad de ingresos en Estados Unidos se ve exacerbada por la brecha entre el valor de mercado de las empresas y los salarios de los trabajadores. La economía de Silicon Valley se basa en la especulación con expectativas futuras, lo que genera una gran desigualdad entre aquellos que viven en el "dólar" y aquellos que viven en el "supermoney". La empresa Anthropic es una excepción a la regla, ya que está ganando dinero y generando beneficios.
 
 Por qué importa:
-El video es una herramienta útil para entender cómo se toman las decisiones en el control de carrera durante los grands prix. La FIA ha publicado el video para proporcionar más transparencia sobre el proceso de toma de decisiones en el control de carrera.</summary>
-    <published>2026-11-19T15:26:31+00:00</published>
+La pregunta de qué ha pasado con Silicon Valley es relevante porque la empresa ha cambiado su enfoque de la búsqueda de información a la maximización de ganancias, lo que ha llevado a una gran desigualdad entre los trabajadores y los propietarios de las empresas.</summary>
+    <published>2026-11-20T20:11:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/</id>
-    <title>[Fórmula 1] He's decided on a direction: Cadillac offered reserve role to "disappointed" Herta | Formula 1</title>
-    <updated>2026-11-20T14:37:02.012475+00:00</updated>
+    <id>https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/</id>
+    <title>[Data Science] Evolución de Google Duplex para realizar llamadas a negocios en Gemini</title>
+    <updated>2026-11-21T13:32:03.273804+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>The latest research from Google</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/20/hes-decided-on-a-direction-cadillac-offered-reserve-role-to-disappointed-herta/"/>
-    <summary>Cadillac ha ofrecido a Colton Herta un rol de piloto de reserva para la próxima temporada después de decidir no promoverlo. Herta, quien ha tenido una temporada difícil en la IndyCar, ha competido en la F2 para prepararse para su posible debut en F1 en 2027. A pesar de haber obtenido suficientes puntos de licencia FIA para competir en F1, el equipo decidió mantener su línea de pilotos actuales. El CEO de Cadillac, Dan Towriss, explicó que la decisión se tomó después de una "tough discussion" con Herta, quien estaba "disappointed" con la decisión. Herta tiene "a number of options on the table" para 2027, incluyendo un rol de piloto de reserva con Cadillac. El equipo está dispuesto a seguir conversando con Herta para ver qué opciones él considera. La decisión de Cadillac se tomó después de una evaluación cuidadosa de las opciones disponibles, y el equipo está emocionado de ver qué opciones Herta considera.
+    <link href="https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"/>
+    <summary>En 2018, Google Duplex revolucionó las conversaciones de voz entre inteligencia artificial y negocios locales. Desde entonces, esta tecnología ha trabajado detrás de escena en muchos productos de Google. La capacidad de Duplex se ha integrado directamente en Gemini. La tecnología utiliza inteligencia artificial para completar tareas como hacer reservas de mesa o programar una cita, lo que puede ser un proceso tedioso. Duplex utiliza una combinación de comprensión de habla, razonamiento contextual y síntesis de habla para completar tareas de manera respetuosa y eficiente. La tecnología ha evolucionado significativamente desde su introducción, pasando de modelos de habla estrechos a una arquitectura unificada utilizando Gemini. Duplex ha sido fundamental en la verificación de información de negocios y ha sido utilizado en más de un trillón de veces en Google Search y Maps. La tecnología ha sido integrada en la aplicación Gemini, que puede ayudar a coordinar tareas en el mundo real, como realizar llamadas a negocios y manejar solicitudes en línea. La evolución de Duplex ha sido posible gracias a avances en modelos de lenguaje y la colaboración con equipos de Google. La tecnología sigue evolucionando para mejorar la experiencia del usuario y la precisión de la información.
 
 Por qué importa:
-La decisión de Cadillac de no promover a Colton Herta es importante porque Herta ha sido un piloto prometedor en la IndyCar y su experiencia en la F2 podría ser valiosa para el equipo en su debut en F1. La decisión también muestra que el equipo está dispuesto a considerar opciones para mejorar su línea de pilotos y aumentar su competitividad en la pista.</summary>
-    <published>2026-11-20T10:33:06+00:00</published>
+La evolución de Google Duplex ha sido posible gracias a la colaboración con equipos de Google y la adopción de avances en modelos de lenguaje; La tecnología ha sido utilizada en una variedad de aplicaciones, incluyendo Google Search y Maps, y ha sido fundamental en la verificación de información de negocios. La integración de Duplex en la aplicación Gemini ha permitido a los usuarios coordinar tareas en el mundo real de manera más eficiente; La tecnología sigue evolucionando para mejorar la experiencia del usuario y la precisión de la información.</summary>
+    <published>2026-11-20T23:30:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/</id>
-    <title>[Fórmula 1] Donnelly a publicar su autobiografía con contribuciones de Hamilton y Pitt</title>
-    <updated>2026-11-20T14:37:02.012439+00:00</updated>
+    <id>https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/</id>
+    <title>[Data Science] Regresión censurada vs. truncada en Python, explicada</title>
+    <updated>2026-11-21T13:32:03.273772+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/20/spotlight-donnelly-to-publish-autobiography-with-contributions-from-hamilton-and-pitt/"/>
-    <summary>Martin Donnelly, quien sufrió un accidente casi fatal que inspiró la trama de "F1: The Movie", publicará su autobiografía en julio de 2027 a través de Transworld. El libro incluirá contribuciones de Lewis Hamilton y Brad Pitt. Donnelly expresó su emoción por ver su historia publicada y destacó que el accidente que lo obligó a retirarse de la F1 en 1990 había sido olvidado hasta que su historia se incluyó en la película. El libro relatará su vida, desde su carrera en la F1 hasta su supervivencia del accidente y su posterior vida. Donnelly también mencionó que su historia ha generado gran interés y que está emocionado de compartir su experiencia con el público. El libro será publicado en 2027, un año después de que su historia se incluyó en la película. Donnelly ha expresado su gratitud a Hamilton y Pitt por su contribución al libro. El libro será una oportunidad para Donnelly compartir su historia y compartir su perspectiva sobre su carrera en la F1 y su supervivencia del accidente. El libro también incluirá detalles sobre su vida después del accidente y su posterior carrera en la F1.
+    <link href="https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"/>
+    <summary>La organización que llevó a cabo el sondeo de salarios censuró los salarios que superaban los $100,000, lo que significa que los observó como $100,000. Esto puede distorsionar la relación entre el salario y la experiencia laboral. Por otro lado, la truncación de los salarios puede llevar a un modelo de regresión que no se ajusta bien a la relación entre el salario y la experiencia laboral. El modelo de Tobit fue introducido por el economista James Tobin en 1958 para modelar variables dependientes limitadas. Este modelo incorpora la información disponible sobre cada observación, incluyendo las censuras y las truncaciones. Se estima el logaritmo de la desviación estándar en lugar de estimar la desviación estándar directamente para asegurar que la desviación estándar siempre sea positiva. El coeficiente estimado es aproximadamente 5.032, muy cercano al coeficiente verdadero de 5. Se ha recuperado una estimación mucho mejor de la relación subyacente entre el salario y la experiencia profesional. El dataset no tiene observaciones censuradas por encima de $100,000. El likelihood function necesita ajustar la función de densidad original para considerar la selección mecánica.
 
 Por qué importa:
-La publicación de la autobiografía de Martin Donnelly es importante porque ofrece una oportunidad para que el público conozca su historia y su experiencia en la F1; El libro proporcionará una perspectiva única sobre la carrera de Donnelly y su supervivencia del accidente, y es una oportunidad para que el público se familiarice con su vida y su legado. La inclusión de contribuciones de Lewis Hamilton y Brad Pitt en el libro también agrega un elemento de interés y relevancia, ya que ambos son figuras destacadas en el mundo de la F1.</summary>
-    <published>2026-11-20T11:05:09+00:00</published>
+La censura y la truncación de los salarios pueden tener un impacto significativo en la precisión de los modelos de regresión. La censura puede distorsionar la relación entre el salario y la experiencia laboral, mientras que la truncación puede llevar a un modelo de regresión que no se ajusta bien a la relación entre el salario y la experiencia laboral.</summary>
+    <published>2026-11-21T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.f1technical.net/news/29643</id>
     <title>[Fórmula 1] FP2: Russell edges Gasly en las condiciones de lluvia de Las Vegas FP2</title>
-    <updated>2026-11-20T14:37:02.012402+00:00</updated>
+    <updated>2026-11-21T13:32:03.273738+00:00</updated>
     <author>
       <name>F1Technical.net . Motorsport news</name>
     </author>
@@ -263,79 +193,79 @@ La sesión de pruebas libres fue crucial para recopilar datos sobre el circuito 
     <published>2026-11-20T13:15:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships</id>
-    <title>[Tecnología] ¿Por qué los robots están abandonando Uber?</title>
-    <updated>2026-11-20T14:37:02.012361+00:00</updated>
+    <id>https://www.f1technical.net/news/29645</id>
+    <title>[Fórmula 1] Verstappen explica su decisión de realizar solo un running limitado en la primera sesión de práctica</title>
+    <updated>2026-11-21T13:32:03.273702+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships"/>
-    <summary>En un giro inesperado, varias empresas de robotaxis y delivery están abandonando sus acuerdos con Uber. Waymo, una empresa de robotaxis liderada por la co-CEO Tekedra Mawakana, anunció que terminará su exclusiva partnership con Uber en enero de 2028. Serve Robotics, que opera robots de entrega en la calle, también decidió no renovar su acuerdo con Uber Eats en 2027. Uber espera tener "tens of thousands" de vehículos autónomos en más de 50 ciudades en 2028. La razón detrás de este abandono es que Waymo y Serve tienen visiones diferentes sobre cómo operar y traer la autonomía a la sociedad. Uber, por otro lado, ha enfrentado críticas y problemas legales, como el caso de una mujer asesinada por un vehículo de prueba de Uber en 2018. A pesar de esto, Uber sigue albergando viajes de Waymo mediante acuerdos no exclusivos en 2028. Waymo también tiene una nueva alianza con Lyft en Nashville en 2028. Uber también lobbó contra una ley que legalizaría robotaxis en Washington, D.C; en 2028. En resumen, Waymo y Serve están abandonando a Uber debido a diferencias en sus visiones y problemas legales que han enfrentado la empresa.
+    <link href="https://www.f1technical.net/news/29645"/>
+    <summary>Max Verstappen, el cuatro veces campeón del mundo, explicó que su equipo, Red Bull, decidió limitar su programa de práctica en la primera sesión debido a las condiciones climáticas. Verstappen completó solo un lapo representativo y reportó problemas de potencia. A pesar de esto, el piloto enfatizó la importancia de aprovechar al máximo la segunda sesión de práctica para optimizar el rendimiento del coche. Isack Hadjar, el piloto de Red Bull, tuvo una sesión más productiva y demostró un buen ritmo en las condiciones húmedas. El equipo de Red Bull reconoció que las condiciones climáticas complicaron la evaluación de su posición competitiva, pero está listo para aprovechar al máximo la segunda sesión de práctica. La carrera de las Vegas Grand Prix se llevará a cabo el sábado, y Verstappen y Hadjar están listos para hacer lo mejor posible. La redacción de Red Bull también reconoció que el equipo tuvo que adaptarse a las condiciones climáticas y que el comportamiento del coche en la pista fue un tema de estudio. El equipo de Red Bull está trabajando para resolver los problemas de equilibrio del coche y está confiado en que Isack Hadjar pueda aprovechar al máximo la segunda sesión de práctica. La carrera de las Vegas Grand Prix es importante para el equipo de Red Bull, ya que es una oportunidad para ganar puntos y mejorar su posición en el campeonato. El equipo está listo para la batalla y está trabajando arduamente para optimizar el rendimiento del coche.
 
 Por qué importa:
-La decisión de Waymo y Serve de abandonar a Uber se debe a que las empresas tienen visiones diferentes sobre cómo operar y traer la autonomía a la sociedad. Además, Uber ha enfrentado críticas y problemas legales, como el caso de una mujer asesinada por un vehículo de prueba de Uber en 2018.</summary>
-    <published>2026-11-20T12:00:00+00:00</published>
+La primera sesión de práctica de las Vegas Grand Prix se vio afectada por las condiciones climáticas, lo que limitó la capacidad de los equipos para establecer una imagen clara de su posición competitiva. A pesar de esto, Max Verstappen y Isack Hadjar demostraron un buen ritmo en las condiciones húmedas, lo que les da una oportunidad para aprovechar al máximo la segunda sesión de práctica y optimizar el rendimiento del coche; La carrera de las Vegas Grand Prix es importante para el equipo de Red Bull, ya que es una oportunidad para ganar puntos y mejorar su posición en el campeonato.</summary>
+    <published>2026-11-20T19:56:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</id>
-    <title>[Tecnología] Signal está bloqueando Gemini y Siri AI para leer la pantalla</title>
-    <updated>2026-11-20T14:37:02.012321+00:00</updated>
+    <id>https://www.f1technical.net/news/29646</id>
+    <title>[Fórmula 1] McLaren postpones new floor evaluation as Piastri prepares for 10-place grid penalty in Las Vegas</title>
+    <updated>2026-11-21T13:32:03.273670+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"/>
-    <summary>Signal está restringiendo la capacidad de tomar capturas de pantalla en dispositivos Android e iOS para prevenir que los agentes de inteligencia artificial (IA) lean los mensajes y otros datos de los usuarios. La presidenta de Signal, Meredith Whittaker, afirmó que esta medida es necesaria para proteger la privacidad de los usuarios. Signal está llamando a los proveedores de sistemas operativos para que faciliten a los desarrolladores de aplicaciones el control de qué datos pueden acceder los agentes de IA. El bloqueo de capturas de pantalla es una medida incompleta, ya que no aborda otras formas en que los agentes de IA pueden acceder a los datos de las aplicaciones. Signal está llamando a Apple, Google y Microsoft para que proporcionen herramientas técnicas y documentación precisa para los desarrolladores de aplicaciones. El bloqueo de capturas de pantalla afecta a Siri, Gemini y otros asistentes de Android AI. Los usuarios pueden restaurar la capacidad de tomar capturas de pantalla en la configuración de la aplicación Signal, pero esto podría exponer su contenido a los agentes de IA. Signal está luchando para desarrollar una solución más efectiva debido a la falta de información sobre cómo los agentes de IA están accediendo a los datos de las aplicaciones. El bloqueo de capturas de pantalla es una medida necesaria para proteger la privacidad de los usuarios y es un llamado a la acción para los desarrolladores de aplicaciones y los proveedores de sistemas operativos.
+    <link href="https://www.f1technical.net/news/29646"/>
+    <summary>McLaren decidió posponer la evaluación de su nuevo piso debido a las condiciones climáticas adversas en el Gran Premio de Las Vegas. Lando Norris y Oscar Piastri realizaron dos sesiones de práctica, aunque la primera fue afectada por la lluvia. Piastri enfrenta una penalización de 10 lugares en la clasificación de inicio, pero aseguró que el equipo no cambiará su enfoque. El equipo McLaren se enfocará en maximizar el rendimiento del coche durante la cualificación. La penalización de Piastri y las condiciones climáticas complican la evaluación del nuevo piso. El equipo McLaren decidió no evaluar el nuevo piso debido a las condiciones climáticas adversas. El equipo McLaren se enfocará en la cualificación y en maximizar el rendimiento del coche. La penalización de Piastri y las condiciones climáticas complican la evaluación del nuevo piso y la clasificación de inicio.
 
 Por qué importa:
-El bloqueo de capturas de pantalla es una medida necesaria para proteger la privacidad de los usuarios en un momento en que los agentes de inteligencia artificial están integrados en los sistemas operativos y están accediendo a grandes cantidades de datos. La falta de herramientas y documentación para los desarrolladores de aplicaciones es un problema grave que afecta a la privacidad de los usuarios; Signal está luchando para desarrollar una solución más efectiva, pero necesita la colaboración de los proveedores de sistemas operativos y los desarrolladores de aplicaciones para proteger la privacidad de los usuarios.</summary>
-    <published>2026-11-20T12:30:47+00:00</published>
+La penalización de 10 lugares para Piastri y las condiciones climáticas adversas en el Gran Premio de Las Vegas complican la evaluación del nuevo piso. El equipo McLaren decidió posponer la evaluación del nuevo piso debido a las condiciones climáticas adversas.</summary>
+    <published>2026-11-20T20:03:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/</id>
-    <title>[Tecnología] Google mejora la capacidad de Gemini para realizar tareas repetitivas en su aplicación de Mac</title>
-    <updated>2026-11-20T14:37:02.012285+00:00</updated>
+    <id>https://www.f1technical.net/news/29647</id>
+    <title>[Fórmula 1] Russell cauteloso a pesar de liderar FP2 húmedo en Las Vegas</title>
+    <updated>2026-11-21T13:32:03.273635+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"/>
-    <summary>Google ha mejorado la capacidad de Gemini para realizar tareas repetitivas en su aplicación de Mac. El nuevo feature permite a Gemini realizar tareas como listar items en plataformas de comercio electrónico, completar formularios PDF y automatizar tareas que suelen requerir varios pasos. El feature se puede utilizar para automatizar tareas en aplicaciones y dispositivos diferentes, siempre y cuando se indique qué acción realizar en lenguaje natural. Gemini trabajará en las tareas en una ventana de fondo y solo mostrará una preview en vivo en el chat. El feature no tomará control del screen o del cursor, permitiendo utilizar el ordenador como de costumbre. Gemini solo podrá utilizar aplicaciones y programas que se le han dado acceso y pedirá aprobación para acciones clave.
+    <link href="https://www.f1technical.net/news/29647"/>
+    <summary>George Russell lideró el segundo entrenamiento libre de la semana de las Grandes Premias de Las Vegas con un tiempo de 1m 47.272s, 0.071 segundos por delante de Pierre Gasly de Alpine. Sin embargo, Russell reconoció que su posición en la clasificación no refleja la verdadera competencia de Mercedes en las condiciones húmedas. La lluvia afectó tanto al primer como al segundo entrenamiento libre, dejando a los equipos con poco tiempo representativo. Russell fue cauteloso al evaluar el rendimiento de Mercedes, señalando que la escudería no había sido tan competitiva en las condiciones húmedas como lo había sido en el último evento. A pesar de esto, Russell sigue siendo optimista sobre las posibilidades de Mercedes, que ha tenido front-row starts en los dos últimos eventos. Kimi Antonelli, el compañero de Russell, terminó en el octavo lugar con un tiempo de 1m 49.043s, 1.771 segundos por detrás de su compañero de equipo. Antonelli está corriendo con un turbocharger actualizado en Las Vegas, pero su actualización también incluye un motor de combustión interna (ICE) nuevo, lo que le impone una penalización de cinco puestos en la clasificación para la carrera. Russell y Antonelli esperan que el tercer entrenamiento libre sea crucial si las condiciones se mantienen secas, ya que entenderá el comportamiento de los neumáticos y encontrarán un equilibrio cómodo serán sus principales prioridades. El director de ingeniería de pista de Mercedes, Andrew Shovlin, advirtió que el tiempo de Russell debe tratarse con cautela, ya que completó su lapo más rápido en el punto más favorable de la sesión. Shovlin también destacó que la dificultad para establecer un equilibrio consistente en el coche fue un desafío para el equipo, lo que deja varias áreas para investigar la noche del viernes.
 
 Por qué importa:
-Este nuevo feature es importante porque permite a los usuarios automatizar tareas repetitivas y ahorrar tiempo. Con Gemini, los usuarios pueden realizar tareas complejas de manera sencilla y eficiente, lo que puede ser especialmente útil para personas que venden productos en línea o necesitan completar formularios PDF con frecuencia.</summary>
-    <published>2026-11-20T12:36:11+00:00</published>
+La lluvia afectó tanto al primer como al segundo entrenamiento libre de las Grandes Premias de Las Vegas, lo que limitó la cantidad de tiempo representativo que los equipos pudieron recopilar. A pesar de esto, Russell y Antonelli demostraron su habilidad para adaptarse a las condiciones adversas y recopilar información valiosa; La penalización de cinco puestos que impone la actualización de turbocharger de Antonelli en Las Vegas también es un desafío adicional para el equipo.</summary>
+    <published>2026-11-20T20:06:06+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/getting-into-last-years-trump-memecoin-dinner-took-55000-this-weekends-costs-just-518-2000842414</id>
-    <title>[Tecnología] El costo de asistir al primer TRUMP dinner fue de $55,000, mientras que este fin de semana cuesta solo $518.</title>
-    <updated>2026-11-20T14:37:02.012246+00:00</updated>
+    <id>https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/</id>
+    <title>[Fórmula 1] Zak Brown se une a McLaren como director ejecutivo</title>
+    <updated>2026-11-21T13:32:03.273600+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/getting-into-last-years-trump-memecoin-dinner-took-55000-this-weekends-costs-just-518-2000842414"/>
-    <summary>En enero de 2025, Donald Trump lanzó su propia moneda memecoin llamada TRUMP; La moneda perdió $46 mil millones de valor en semanas después de que Trump asumiera la presidencia. En mayo de 2025, se celebró el primer TRUMP dinner, lo que provocó un breve aumento en el precio de la moneda; En septiembre de 2025, el TRUMP dinner produjo un aumento del 9% en el precio de la moneda, pero que se desvaneció en 24 horas. En junio de 2026, se informó que la familia Trump había ganado $2.3 mil millones con cuatro de sus proyectos de criptomonedas. En octubre de 2026, nueve senadores, liderados por Adam Schiff, escribieron a la jefa de asesoramiento del White House, Susie Wiles, solicitando información sobre el TRUMP dinner. En noviembre de 2026, el fiscal general de Texas, Aaron Reitz, pidió a varios legisladores que preservaran documentos relacionados con el TRUMP dinner. Aaron Reitz ha enviado demandas de preservación de documentos a varios legisladores, incluyendo a Schiff, Blumenthal, Warren, Slotkin y Robert Garcia. La Justicia Department está cuestionando el uso de la supervisión congressional contra ciudadanos privados que se asocian con Trump. El Senador Warren ha anunciado que su comité bancario del Senado será su objetivo en el próximo año; El memecoin de Hunter Biden, LAPTOP, cayó en precio el 98% en un solo hora después de su lanzamiento en septiembre. El memecoin de Trump, TRUMP, y el token de la familia Trump, World Liberty Financial, alcanzaron nuevos bajos después del colapso del memecoin Bluenami. Bitcoin ha perdido el 23% de su valor en los últimos 30 días, aunque sigue siendo mayor que el de otros criptomonedas.
+    <link href="https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/"/>
+    <summary>McLaren celebró hace 10 años un cambio significativo en su liderazgo, lo que marcó el comienzo de una recuperación después de una serie de temporadas difíciles. En 2015, el equipo terminó en noveno lugar en la clasificación, su primera temporada con unidades de potencia de Honda, y mejoró solo en 2016. En 2024, el equipo ganó su primera de dos títulos de constructor consecutivos. Zak Brown, quien marcó su décimo aniversario en McLaren, destacó la transformación del equipo, que ha ganado 24 carreras y 3 títulos, y expresó su emoción por los próximos 10 años. Brown mencionó que cuando se unió al equipo en 2016, era "un lugar bastante malo", pero ahora es "un lugar increíble". La llegada de Brown como director ejecutivo marca un nuevo capítulo en la historia de McLaren.
 
 Por qué importa:
-El TRUMP dinner se ha convertido en un evento exclusivo y caro, con un costo que ha aumentado significativamente desde su inicio. Esto puede ser importante porque refleja la creciente popularidad y el impacto de las criptomonedas en la sociedad.</summary>
-    <published>2026-11-20T13:10:34+00:00</published>
+La noticia de la llegada de Zak Brown como director ejecutivo de McLaren es importante porque marca un cambio significativo en la dirección del equipo; La transformación de McLaren desde su última temporada difícil en 2015 hasta su victoria en el título de constructor en 2024 es un testimonio de la capacidad del equipo para adaptarse y mejorar. La llegada de Brown, quien ha estado al frente del equipo durante 10 años, sugiere que McLaren está listo para seguir creciendo y competiendo en el futuro.</summary>
+    <published>2026-11-21T10:57:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/pura-black-friday-2026/</id>
-    <title>[Tecnología] Las mejores ofertas de Pura durante Cyber Week (2026)</title>
-    <updated>2026-11-20T14:37:02.012211+00:00</updated>
+    <id>https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/</id>
+    <title>[Fórmula 1] Pirelli’s F1 tyres still can’t cope with Losail</title>
+    <updated>2026-11-21T13:32:03.273565+00:00</updated>
     <author>
-      <name>Gear Latest</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.wired.com/story/pura-black-friday-2026/"/>
-    <summary>Pura ofrece una amplia variedad de fragancias, más de 150 opciones de grandes marcas como Anthropologie, Nest, LAFCO, Brooklyn Candle Company, Studio McGee y más. Durante Cyber Week, las fragancias están a 20% de descuento y los difusores a 30% de descuento. La marca es conocida por sus fragancias caras, pero durante la venta, es posible obtener una buena oferta. El Pura Home es la recomendación de la autora, ya que ofrece una mejor experiencia de uso y control. El Pura Mini es otra opción recomendada, aunque tiene un ruido de alta frecuencia. El Pura Car es una buena opción para padres, ya que ofrece una experiencia de aroma agradable. La Pura Advent Calendar es una buena opción para aquellos que buscan una experiencia de aroma divertida. El Pura Plus es una opción para espacios grandes, aunque tiene un ruido de fondo.
+    <link href="https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/"/>
+    <summary>Formula 1 regresa a Losail International Circuit para su quinta vez este fin de semana, y Pirelli se preocupa nuevamente por posibles fallos. Pirelli ha establecido un límite de 27 vueltas, más que el año pasado, pero esto obligará a los conductores a realizar dos paradas de pit. En el evento de 2023, Pirelli impuso un límite de 18 vueltas, lo que requirió a los conductores realizar tres paradas de pit. A pesar de haber seleccionado sus tires más duraderos, Pirelli ha decidido que el límite es necesario. En 2021, cuando F1 visitó la pista por primera vez, no se aplicó un límite, pero los conductores como Lando Norris, Valtteri Bottas y los conductores de Williams sufrieron fallos de tires. En 2023, F1 cambió a un formato de ruedas de 18 pulgadas y la pista fue reformada, con nuevas curvas. Durante la práctica del viernes, Pirelli descubrió problemas con sus tires. Además, se redibujaron los límites de la pista para evitar las curvas y se programó una sesión de práctica adicional de 10 minutos. Pirelli ha permitido un aumento en la longitud máxima de la carrera debido a la reducción de la fuerza de frenado. Pirelli ha extendido su contrato como proveedor de tires hasta 2028 al menos.
 
 Por qué importa:
-Pura es una marca conocida por sus fragancias de alta calidad, pero sus productos también tienen un precio alto; Durante Cyber Week, la marca ofrece una oportunidad para obtener sus productos a un precio más asequible. La venta es una buena oportunidad para aquellos que buscan mejorar su ambiente de hogar o como regalo para alguien especial.</summary>
-    <published>2026-11-20T13:30:00+00:00</published>
+Pirelli se preocupa por los fallos de tires en la pista de Losail. La reducción de la fuerza de frenado en la pista ha permitido un aumento en la longitud máxima de la carrera.</summary>
+    <published>2026-11-21T11:50:21+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</id>
     <title>[Tecnología] Six AI-powered gadgets that could make your home office smarter</title>
-    <updated>2026-11-20T14:37:02.012172+00:00</updated>
+    <updated>2026-11-21T13:32:03.273528+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
@@ -347,37 +277,79 @@ Estos gadgets de tecnología con potencial de mejorar la eficiencia en el espaci
     <published>2026-11-20T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://css-tricks.com/almanac/functions/s/scroll-state/</id>
-    <title>[Programación] scroll-state()</title>
-    <updated>2026-11-20T14:37:02.012133+00:00</updated>
+    <id>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</id>
+    <title>[Tecnología] Startup sues Apple en India sobre la función de compartir contactos</title>
+    <updated>2026-11-21T13:32:03.273493+00:00</updated>
     <author>
-      <name>CSS-Tricks</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://css-tricks.com/almanac/functions/s/scroll-state/"/>
-    <summary>La función CSS scroll-state() permite cambiar el estilo de un elemento basado en el comportamiento de pestañeo. Puede ser utilizado para revelar elementos o animar enlaces cuando el usuario pestaña hacia abajo. También puede ser utilizado para indicar la dirección de pestañeo, como un indicador que apunta en la dirección correcta. La función tiene cuatro características posibles: pestañeo hacia abajo, pestañeo hacia arriba, elementos estancados y pestañeo en una dirección específica. La función puede ser utilizada en combinación con otras características para crear efectos más complejos. La función es compatible con navegadores modernos y puede ser utilizada para mejorar la experiencia del usuario en sitios web. La función es una herramienta útil para diseñadores y desarrolladores que buscan crear sitios web más interactivos y atractivos. La función es fácil de utilizar y requiere conocimientos básicos de CSS y pestañeo.
+    <link href="https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"/>
+    <summary>GG Technologies, una startup estadounidense, ha iniciado una demanda contra Apple en India por infringir su patente con la función NameDrop, que permite compartir información de contacto al acercar dispositivos. La startup busca ₹15 billion (aproximadamente $161.86 millones) en daños y una orden de prohibición. Apple introdujo la función en iOS 17 en junio de 2023. GG Technologies lanzó su aplicación StayTouch en 2019 y recibió la patente en julio de 2024. La startup también ha iniciado una demanda en los Estados Unidos. El caso aún no ha sido programado para una audiencia.
 
 Por qué importa:
-La función scroll-state() es una herramienta útil para diseñadores y desarrolladores que buscan crear sitios web más interactivos y atractivos; Puede ser utilizada para revelar elementos o animar enlaces cuando el usuario pestaña hacia abajo; También puede ser utilizada para indicar la dirección de pestañeo, como un indicador que apunta en la dirección correcta. La función es compatible con navegadores modernos y puede ser utilizada para mejorar la experiencia del usuario en sitios web; La función es fácil de utilizar y requiere conocimientos básicos de CSS y pestañeo.</summary>
-    <published>2026-11-19T14:57:54+00:00</published>
+GG Technologies, fundada en 2018, desarrolló StayTouch como una aplicación de intercambio de tarjetas de contacto; La startup busca proteger su patente en India y en los Estados Unidos. Apple ha expandido su presencia en India, donde los iPhones representan menos del 10% de las ventas de smartphones.</summary>
+    <published>2026-11-21T04:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1</id>
-    <title>[Programación] Una asistente de ventas de inteligencia artificial en Telegram que sabe cuándo ceder</title>
-    <updated>2026-11-20T14:37:02.012089+00:00</updated>
+    <id>https://www.wired.com/gallery/best-portable-chargers-power-banks/</id>
+    <title>[Tecnología] Mis elecciones de cargadores portátiles después de probar más de 100</title>
+    <updated>2026-11-21T13:32:03.273459+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1"/>
-    <summary>Aviago, una empresa de turismo, utilizó un asistente de ventas de inteligencia artificial en Telegram para automatizar la respuesta a preguntas comunes. El asistente, que se integra con el bot de Telegram de la empresa, responde a preguntas como precios de vuelos y fechas de disponibilidad. Cuando el comprador necesita una respuesta personalizada, el asistente se pasa la conversación completa al equipo de ventas en Discord. Esto permite al equipo de ventas enfocarse en los compradores que están listos para hablar, en lugar de repetir respuestas. El asistente se actualiza automáticamente con los precios de vuelos y se ajusta a la voz y tono del equipo de ventas. El objetivo es proporcionar una respuesta rápida y precisa, mientras que también permite al equipo de ventas intervenir cuando sea necesario. El asistente de ventas de inteligencia artificial ha mejorado la eficiencia del equipo de ventas y ha aumentado la satisfacción del cliente. El proyecto ha sido exitoso y ha demostrado la eficacia de la integración de inteligencia artificial en la atención al cliente. El asistente de ventas de inteligencia artificial se puede implementar en otros negocios que utilizan chatbots y requieren una respuesta rápida y precisa.
+    <link href="https://www.wired.com/gallery/best-portable-chargers-power-banks/"/>
+    <summary>El portátil Anker ofrece una capacidad de 25.000 mAh y puede entregar hasta 165 watts a dos dispositivos. El portátil Nimble Champ Pro es uno de los más ligeros del mercado, pesa 6.2 oz y puede entregar 20 watts a dos dispositivos. El portátil Sharge 170 tiene una capacidad de 24.000 mAh y un IP66 rating para resistencia a la lluvia. El portátil Anker tiene un Apple Watch charger que puede entregar 5 watts y soporta la modificación de Nightstand. El portátil Nimble SharePower es un 10.000-mAh, modular que se puede dividir en dos separados, 5.000-mAh, cargadores funcionales. El portátil Anker tiene un display que muestra la capacidad de batería, tiempo de carga, watts de salida y temperatura. El portátil Sharge 170 tiene un diseño único y una pantalla que muestra la información de manera angular. El portátil Nimble Champ Pro tiene un diseño duradero y una variedad de colores; El portátil Anker's charger es delgado y se puede conectar fácilmente a cualquier teléfono. El portátil tiene una capacidad de carga de hasta 90.000 mAh; El portátil tiene una variedad de colores y diseños. El portátil tiene una pantalla que muestra la información de manera clara.
 
 Por qué importa:
-La implementación de un asistente de ventas de inteligencia artificial en Telegram puede ser beneficioso para empresas que utilizan chatbots y requieren una respuesta rápida y precisa. El asistente puede ayudar a automatizar la respuesta a preguntas comunes y a enfocarse en los compradores que están listos para hablar; Esto puede mejorar la eficiencia del equipo de ventas y aumentar la satisfacción del cliente; El proyecto de Aviago demuestra la eficacia de la integración de inteligencia artificial en la atención al cliente y puede servir de modelo para otros negocios.</summary>
-    <published>2026-11-19T20:09:56+00:00</published>
+Es importante tener un cargador portátil confiable y eficiente para mantener tus dispositivos cargados en todo momento. Los cargadores portátiles con una capacidad de carga alta y una variedad de características pueden ser muy útiles para viajeros y personas que utilizan sus dispositivos de manera intensiva.</summary>
+    <published>2026-11-21T12:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/</id>
+    <title>[Tecnología] Recap de la revisión de Engadget: Apple HomeView, Ray-Ban Meta (Gen 3) y más</title>
+    <updated>2026-11-21T13:32:03.273424+00:00</updated>
+    <author>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
+    </author>
+    <link href="https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/"/>
+    <summary>En este recopilación de revisión de Engadget, se presentan los últimos productos revisados por el sitio. Durante 14 días, se publicaron 14 reviews, que cubren desde nuevos productos de Apple hasta gafas inteligentes y equipo de juego. El HomeView de Apple es una pantalla inteligente que ofrece una experiencia familiar, pero su dependencia del iPhone y la falta de eficiencia de Siri son puntos a considerar. La nueva Apple TV 4K sigue siendo la mejor opción de streaming, pero su precio más alto es un obstáculo. Las gafas Ray-Ban Meta Gen 3 no ofrecen muchas mejoras sobre su versión anterior, mientras que las gafas de realidad aumentada Xreal Aura están limitadas por la plataforma Android XR. El Surface Laptop Ultra de Microsoft es un dispositivo elegante y potente, pero su precio y rendimiento no superan a los de Apple. El HoverAir Versa es una cámara gimbal que se puede convertir en un drone, pero no excela en ninguno de los dos aspectos. Los controles de juego Nacon Revolution 5 Unlimited y la pantalla de juego Sony 27-inch con carga de DualSense son opciones interesantes para los gamers. Finalmente, se presentan varios dispositivos que pueden mejorar la productividad y el bienestar, como la Pixel Tag, las Neurable One y el Pebble Index 01.
+
+Por qué importa:
+Este recopilación de revisión de Engadget ofrece una visión general de los últimos productos revisados por el sitio. Es importante considerar las limitaciones y beneficios de cada dispositivo, ya que pueden variar según las necesidades y preferencias individuales.</summary>
+    <published>2026-11-21T12:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/a-historic-el-nino-has-arrived-heres-what-it-means-for-us-prices-2000841360</id>
+    <title>[Tecnología] El Niño histórico llega a Estados Unidos</title>
+    <updated>2026-11-21T13:32:03.273388+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/a-historic-el-nino-has-arrived-heres-what-it-means-for-us-prices-2000841360"/>
+    <summary>El Niño intensifica hacia un punto récord, lo que podría generar impactos significativos en la economía global. Los expertos no pueden predecir con certeza los efectos económicos, pero pueden hacer predicciones basadas en los mejores pronósticos y datos de años anteriores. El análisis del Federal Reserve Bank of San Francisco sugiere que El Niño podría haber causado un aumento de 0,3 puntos porcentuales en los niveles de precios, lo que es consistente con eventos anteriores. Sin embargo, si se produce una transición a La Niña, se estima que los precios de consumo podrían aumentar un 1 punto porcentual en 2027, principalmente afectando los costos de servicios básicos y alimentos. Los expertos destacan que los sectores más afectados serán aquellos que dependen del clima, como la agricultura, la pesca, la energía, el transporte, la construcción y la seguridad. El Niño también podría generar impactos significativos en la economía estadounidense, especialmente en sectores como la construcción y la agricultura. Los expertos enfatizan la importancia de considerar la interacción entre El Niño y el cambio climático humano.
+
+Por qué importa:
+El Niño amplifica el viento alisoso del Pacífico y lo desplaza hacia el sur de su posición neutral; Esto aumenta el riesgo de inundaciones y daños por tormentas en la zona sur en invierno. En los meses cálidos, El Niño puede exacerbar el riesgo de sequía y incendios forestales en la zona norte, especialmente en el noroeste; El Niño también puede tener impactos significativos en la economía estadounidense, especialmente en sectores como la construcción y la agricultura.</summary>
+    <published>2026-11-21T12:30:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</id>
+    <title>[Tecnología] El Xiaomi 18 Pro prueba que dos pantallas no son mejores que una</title>
+    <updated>2026-11-21T13:32:03.273353+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"/>
+    <summary>Xiaomi lanzó el 18 Pro y Pro Max, dos teléfonos flagship con una pantalla en la parte trasera. El 18 Pro tiene una pantalla de 6,4 pulgadas y un chip Snapdragon 8 Elite Gen 6, mientras que el Pro Max tiene una pantalla de 6,9 pulgadas y un chip Snapdragon 8 Elite Gen 6 con una versión Extreme. El 18 Pro Max tiene una batería de 7.050mAh y un cargador inalámbrico de 100W. La cámara principal del 18 Pro Max tiene un sensor LOFIC que ofrece una dinámica de 16 puntos. El teléfono también tiene una pantalla de retro que simula tres estilos de Leica diferentes. El Xiaomi 18 Pro tiene una pantalla de privacidad que reduce la visibilidad de la pantalla. La aplicación Essential Moments utiliza AI para simular tres estilos retro Leica. El Xiaomi 18 Pro tiene un diseño atractivo, pero con algunas limitaciones. La batería del Xiaomi 18 Pro no dura tanto como algunas otras banderas. El Xiaomi 18 Pro es una oportunidad para probar si una pantalla en la parte trasera de un teléfono es más útil que la de 2021.
+
+Por qué importa:
+La noticia es interesante porque muestra cómo Xiaomi está innovando en la tecnología de sus teléfonos. La pantalla en la parte trasera es una característica única que puede ser útil o no, dependiendo del uso.</summary>
+    <published>2026-11-21T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/nmorestd/5-real-bugs-we-fixed-hardening-a-zero-dependency-nodejs-mcp-client-1k4c</id>
     <title>[Programación] Bug en el cliente Node.js MCP</title>
-    <updated>2026-11-20T14:37:02.012047+00:00</updated>
+    <updated>2026-11-21T13:32:03.273317+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -391,7 +363,7 @@ La corrección de estos errores es importante para garantizar la seguridad y la 
   <entry>
     <id>https://dev.to/dev-sahadat/the-picture-element-which-format-each-browser-downloads-2e6l</id>
     <title>[Programación] El formato de imagen que cada navegador descarga</title>
-    <updated>2026-11-20T14:37:02.012002+00:00</updated>
+    <updated>2026-11-21T13:32:03.273277+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -405,7 +377,7 @@ El artículo se centra en la comparación de los formatos de imagen AVIF, WebP y
   <entry>
     <id>https://dev.to/aemon-cz/how-to-get-a-transcript-of-any-spotify-podcast-episode-without-touching-spotifys-audio-3178</id>
     <title>[Programación] Cómo obtener un transcripto de cualquier episodio de un podcast de Spotify (Sin tocar el audio de Spotify)</title>
-    <updated>2026-11-20T14:37:02.011942+00:00</updated>
+    <updated>2026-11-21T13:32:03.273240+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +391,7 @@ Spotify es una plataforma que muestra los mismos episodios de podcasts, pero la 
   <entry>
     <id>https://dev.to/neticslabs/eks-auto-mode-resizes-pod-requests-in-place-from-observed-usage-3oib</id>
     <title>[Programación] Optimización de recursos en clusters de Kubernetes de AWS</title>
-    <updated>2026-11-20T14:37:02.011827+00:00</updated>
+    <updated>2026-11-21T13:32:03.273200+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +401,33 @@ Spotify es una plataforma que muestra los mismos episodios de podcasts, pero la 
 Por qué importa:
 Esta optimización es importante porque permite a los usuarios de Kubernetes optimizar mejor el uso de recursos en sus clústeres, lo que puede ayudar a reducir los costos y mejorar la eficiencia. La optimización también permite a los usuarios ajustar automáticamente las solicitudes de CPU y memoria para los Pods, lo que puede ayudar a evitar la sobrecarga y la subutilización de recursos.</summary>
     <published>2026-11-20T14:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/</id>
+    <title>[Programación] Andy Clarke answers six questions about Standout Designs for the Web</title>
+    <updated>2026-11-21T13:32:03.273145+00:00</updated>
+    <author>
+      <name>CSS-Tricks</name>
+    </author>
+    <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
+    <summary>Andy Clarke, un diseñador web y autor, ha lanzado Standout Designs for the Web, un nuevo libro que anima a los diseñadores a dejar atrás las plantillas y disposiciones convencionales para crear sitios web más personalizados. El libro se basa en la experiencia de treinta años de diseño web de Clarke y explora cómo la narrativa, el color, el tipografía, la imagen y la disposición pueden trabajar juntos para crear sitios web que se reconocen y se recuerdan. Se le preguntó a Clarke varias preguntas sobre el libro y las ideas que lo inspiraron. Clarke sostiene que, a pesar de tener más herramientas y tecnologías disponibles, muchos sitios web siguen pareciendo similares. Asegura que no se trata de que todos los sitios web necesiten un diseño innovador, pero que los diseñadores han vuelto demasiado cómodos con las plantillas y disposiciones predecibles. El objetivo del libro es animar a los diseñadores a rediscoverar la creatividad y la personalidad que lo hicieron enamorar con la web en primer lugar. Clarke también destaca la importancia de la "comodidad" en el diseño, que puede hacer que los sitios web parezcan similares, pero también destaca la necesidad de que los diseñadores se sientan más confiados al tomar decisiones que dan carácter a su trabajo. El libro ofrece varias soluciones y consejos para mejorar la calidad de los sitios web, como la exploración de diferentes tipos de grillas, la utilización de tipografía y la creación de ritmo y movimiento en la página. Clarke finalmente anima a los diseñadores a abordar sus proyectos con más curiosidad y a cuestionar sus primeras decisiones de diseño.
+
+Por qué importa:
+El libro de Andy Clarke, Standout Designs for the Web, es una guía para diseñadores web que buscan mejorar la calidad de sus sitios web; La publicación se centra en la importancia de la personalidad y la creatividad en el diseño web, y ofrece soluciones y consejos prácticos para ayudar a los diseñadores a crear sitios web que se reconocen y se recuerdan. El libro es una oportunidad para que los diseñadores reflexionen sobre sus prácticas y consideren nuevas formas de abordar el diseño web.</summary>
+    <published>2026-11-20T15:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/durianlive/submitting-a-wordpress-plugin-in-2026-slug-plugin-check-and-a-250-character-form-52aa</id>
+    <title>[Programación] Submitting a WordPress plugin in 2026: slug, Plugin Check, and a 250-character form</title>
+    <updated>2026-11-21T13:32:03.273052+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/durianlive/submitting-a-wordpress-plugin-in-2026-slug-plugin-check-and-a-250-character-form-52aa"/>
+    <summary>En 2026, se subió un pequeño plugin de WordPress a la directory; La forma en la que se presenta el formulario no es lo que se esperaba. Para subir un plugin, se sube un zip y WordPress se basa en el encabezado del plugin y el readme.txt. El formulario "additional information" es la única oportunidad para hablar con un humano, y es opcional. El readme es la página de producto, y los revisores lo leen antes de leer el código. El slug se deriva del nombre del plugin; El Plugin Check es el review más barato que se puede obtener. Se puede solicitar una sola modificación antes de la revisión, y una vez aprobada, es permanente. El formulario tiene un límite de 250 caracteres; El formulario se subió el plugin que tiene 120 líneas de PHP. El tiempo de espera para la aprobación fue mayor que el tiempo de desarrollo del código. El formulario tiene una categoría de 621 plugins que esperan su primera revisión. No se debe planificar una lanzamiento alrededor de la fecha de aprobación; El formulario es real.
+
+Por qué importa:
+Es importante destacar que la forma en que se presenta el formulario es importante, ya que es la única oportunidad para hablar con un humano y explicar cualquier problema o inquietud que tenga el plugin. El hecho de que el formulario tenga un límite de 250 caracteres y que se basa en el encabezado del plugin y el readme.txt, muestra que se prioriza la simplicidad y la eficiencia en el proceso de subida de plugins.</summary>
+    <published>2026-11-21T12:50:45+00:00</published>
   </entry>
 </feed>
