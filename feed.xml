@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-23T13:24:06.926282+00:00</updated>
+  <updated>2026-11-24T13:25:59.081106+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,51 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html</id>
-    <title>[Economía] El aumento de las preocupaciones por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres.</title>
-    <updated>2026-11-23T13:24:06.927514+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"/>
-    <summary>En los últimos días, una serie de tecnologías de alto perfil que han dejado a los aviones en el aire, a los usuarios sin acceso a internet y a los bancos sin poder realizar transacciones, han generado una gran preocupación entre los ciudadanos. Muchas personas, como Sabrina Cepeda, una madre de tres hijos de Houston, están preparándose para un posible blackout tecnológico o otro evento de emergencia. Cepeda ha comprado propane y fluido de encendedor para su cocina y calefacción, y ha reponido sus reservas de alimentos no perecederos, productos de higiene y medicamentos para alergias. Según datos de Consumer Edge, el gasto en productos de emergencia ha aumentado un 400% en comparación con el mismo período del año anterior. Empresas como Ready America y Costco han visto un aumento significativo en las ventas de productos de emergencia, incluyendo kits de supervivencia, agua embotellada y alimentos enlatados. Los expertos creen que la creciente preocupación por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres.
-
-Por qué importa:
-La creciente preocupación por las tecnologías y la economía de emergencia está impulsando una nueva economía de desastres. Los gobiernos y las empresas están tomando medidas para prepararse para posibles eventos de emergencia, como la posible caída del sistema de energía eléctrica o la creación de ataques cibernéticos.</summary>
-    <published>2026-11-21T13:00:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html</id>
-    <title>[Economía] Investigan en EE.UU. a Megaspeed y a Alice Huang</title>
-    <updated>2026-11-23T13:24:06.927477+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html"/>
-    <summary>La investigación en EE.UU; sobre Megaspeed y Alice Huang se intensifica; El Director de Inteligencia Nacional Jay Clayton dijo que la U.S. está investigando a Huang y su empresa, Megaspeed, después de que se identificó a uno de sus asociados como un decisior clave en la empresa. La investigación comenzó en 2024 y se centra en posibles violaciones de control de exportación; La empresa Megaspeed opera centros de datos en Asia del Este y está relacionada con el escándalo de liderazgo en Nvidia; La U.S. está buscando respuestas sobre las ventas de chips de Nvidia a China, incluyendo quién supervisó la cumplimiento y qué niveles de la empresa sabían sobre la actividad. La investigación también está investigando si entidades relacionadas con Alice Huang ayudaron a smugglar productos de Super Micro a China. Li Ming, un asociado de Huang, enfrenta cinco cargos en Singapur, incluyendo dos cuentas de fraude por representación falsa. La U.S; está buscando respuestas sobre el papel de Nvidia en la posible utilización de sus chips para fines restringidos; La investigación está en curso y se espera que se intensifique en Washington. El ex CEO de Nvidia, Jensen Huang, y el abogado general de la empresa, Tim Teter, han acordado dar entrevistas cerradas con tres comités del Congreso. La investigación también está investigando si Huang mantuvo contactos con un oficial de una agencia de inteligencia china. La U.S; está buscando respuestas sobre las ventas de chips de Nvidia a China y quién sabía sobre la actividad; La investigación está en curso y se espera que se intensifique en Washington.
-
-Por qué importa:
-La investigación en EE.UU; sobre Megaspeed y Alice Huang se intensifica debido a la posibilidad de que Nvidia haya permitido que sus chips fueran utilizados para fines restringidos. La U.S; está buscando respuestas sobre las ventas de chips de Nvidia a China y quién sabía sobre la actividad; La investigación también está investigando si entidades relacionadas con Alice Huang ayudaron a smugglar productos de Super Micro a China; La U.S; está buscando respuestas sobre el papel de Nvidia en la posible utilización de sus chips para fines restringidos.</summary>
-    <published>2026-11-23T05:08:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html</id>
-    <title>[Economía] ‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels</title>
-    <updated>2026-11-23T13:24:06.927439+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html"/>
-    <summary>Las negociaciones del Congreso de Cambio Climático de las Naciones Unidas (COP31) en Antalya, Turquía, colapsaron el domingo después de que la Unión Europea, el Reino Unido y otros países rechazaran un acuerdo de borrador que no incluía los combustibles fósiles. El secretario general de las Naciones Unidas, Antonio Guterres, expresó su profunda decepción por la falta de consenso. El acuerdo propuesto no mencionaba a los combustibles fósiles, lo que provocó un gran alboroto entre los gobiernos y los activistas. El Reino Unido y la Unión Europea rechazaron el acuerdo porque no respondía a la ciencia del cambio climático. Los países insulares, que son vulnerables a los efectos del cambio climático, también se negaron a firmar el texto. El director de un think tank africano describió la falta de consenso como "una sentencia de muerte" para las comunidades vulnerables. El mundo desarrollado bloqueó la creación de un mecanismo de transición justa. El Fondo Mundial para la Naturaleza (WWF) criticó la falta de progreso en la financiación para los países en desarrollo, lo que tiene consecuencias reales para las comunidades más vulnerables. A pesar de la falta de progreso, hubo algunos signos prometedores en el acuerdo propuesto, como la mejora en la seguridad alimentaria. Sin embargo, se necesitan más pasos para abordar la crisis climática.
-
-Por qué importa:
-La crisis climática es una cuestión urgente que afecta a todos los países del mundo; La falta de consenso en las negociaciones de COP31 es un ejemplo de cómo la inacción puede tener consecuencias devastadoras; Los países insulares, que son los más vulnerables a los efectos del cambio climático, están llevando las consecuencias de la inacción de los países desarrollados. La falta de progreso en la financiación para los países en desarrollo también es un problema grave; Es importante que los líderes mundiales tomen medidas urgentes para abordar la crisis climática y proteger a las comunidades más vulnerables.</summary>
-    <published>2026-11-23T10:13:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html</id>
     <title>[Economía] Los rendimientos de la Tesorería de los Estados Unidos aumentaron el lunes</title>
-    <updated>2026-11-23T13:24:06.927404+00:00</updated>
+    <updated>2026-11-24T13:25:59.082347+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -69,7 +27,7 @@ La subida de los rendimientos de la Tesorería de los Estados Unidos es un indic
   <entry>
     <id>https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html</id>
     <title>[Economía] Zelenskyy elogia operación de drones "exemplary" que hundió barco de guerra ruso en un puerto libio</title>
-    <updated>2026-11-23T13:24:06.927368+00:00</updated>
+    <updated>2026-11-24T13:25:59.082311+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +41,7 @@ El ataque a un barco de guerra ruso en un puerto libio es la última de una seri
   <entry>
     <id>https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html</id>
     <title>[Economía] Tokenización de acciones enfrenta resistencia en NYSE y Nasdaq</title>
-    <updated>2026-11-23T13:24:06.927332+00:00</updated>
+    <updated>2026-11-24T13:25:59.082275+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,79 +53,51 @@ La tokenización de acciones es una tendencia que está cambiando la forma en qu
     <published>2026-11-23T12:05:06+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/</id>
-    <title>[Data Science] Comparación de modelos de predicción para alquileres de bicicletas</title>
-    <updated>2026-11-23T13:24:06.927296+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html</id>
+    <title>[Economía] Demanda de alimentos en Estados Unidos supera niveles de pandemia</title>
+    <updated>2026-11-24T13:25:59.082237+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/"/>
-    <summary>El autor utilizó el dataset de bike sharing de UCI para predecir el número de alquileres de bicicletas para los próximos 48 horas. Utilizó un modelo de LightGBM y un enfoque de temporada simple para predecir los datos. El modelo de LightGBM mejoró su error de predicción en 1.570 al agregar información climática. El modelo LightGBM superó al promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012. El autor encontró que la evaluación del modelo era crucial para obtener resultados precisos. El modelo LightGBM utilizó patrones semanales regulares para hacer predicciones, lo que sugiere que estos patrones son importantes para predecir los alquileres de horas. El autor utilizó la biblioteca Scikit-learn para realizar la ingeniería de características y la biblioteca LightGBM para realizar la predicción. El modelo de LightGBM produjo predicciones más precisas que el promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012. El autor realizó experimentos con el dataset de bike sharing de UCI y encontró que LightGBM era más competitivo que esperaba.
+    <link href="https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html"/>
+    <summary>En Estados Unidos, la demanda de alimentos en bancos de alimentos ha superado los niveles de la pandemia, según organizaciones como City Harvest y la Los Angeles Regional Food Bank. La demanda se debe a la inflación y a que muchos de los que buscan alimentos tienen empleos. El Departamento de Agricultura informó que 13.7% de las familias estadounidenses experimentaron falta de alimentos en 2024, un aumento significativo desde 2016. La organización City Harvest informó que 1 de cada 5 newyorkinos está experimentando falta de alimentos, un aumento del 1 de cada 6 en el año anterior y del 1 de cada 8 antes de la pandemia. La demanda de alimentos en bancos de alimentos en Nueva York es el 85% superior a los niveles pre-pandemia. En Atlanta, la Atlanta Community Food Bank ha visto un aumento del 70% en la cantidad de personas que sirve en los últimos cinco años. La demanda de alimentos en bancos de alimentos en otras regiones del país también está creciendo. Las organizaciones están enfrentando desafíos operativos para satisfacer la demanda.
 
 Por qué importa:
-El autor utilizó el dataset de bike sharing de UCI para predecir el número de alquileres de bicicletas para los próximos 48 horas; El modelo de LightGBM mejoró su error de predicción en 1.570 al agregar información climática. El modelo LightGBM superó al promedio de cuatro semanas en el período de evaluación de noviembre a diciembre de 2012; El autor encontró que la evaluación del modelo era crucial para obtener resultados precisos; El modelo LightGBM utilizó patrones semanales regulares para hacer predicciones, lo que sugiere que estos patrones son importantes para predecir los alquileres de horas.</summary>
-    <published>2026-11-20T16:30:00+00:00</published>
+La demanda de alimentos en bancos de alimentos en Estados Unidos es un problema creciente debido a la inflación y a que muchos de los que buscan alimentos tienen empleos; La pandemia inicialmente aumentó la demanda de programas de alimentos caritativos, pero luego se redujo cuando las políticas de apoyo del gobierno se terminaron; Ahora, las organizaciones están enfrentando desafíos para satisfacer la demanda, ya que la demanda crece mientras que la oferta no puede seguir. La falta de alimentos es un problema grave en Estados Unidos, y es especialmente grave en ciudades como Nueva York y Atlanta, donde la demanda de alimentos en bancos de alimentos es alta.</summary>
+    <published>2026-11-24T12:00:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/what-happened-to-silicon-valley/</id>
-    <title>[Data Science] El futuro de Silicon Valley</title>
-    <updated>2026-11-23T13:24:06.927261+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html</id>
+    <title>[Economía] Accusan a Estonia de acciones hostiles 'a punto de desencadenar una guerra abierta'</title>
+    <updated>2026-11-24T13:25:59.082200+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/"/>
-    <summary>En Silicon Valley, las empresas priorizan las ganancias sobre la búsqueda de información, lo que lleva a la explotación de los recursos y la creación de rentas. La empresa Google se ha convertido en un modelo de "slow AI" que prioriza la maximización de ganancias sobre la búsqueda de información y la satisfacción del usuario. La renta en Silicon Valley se divide en dos categorías: las rentas de "tide rising" (arriba y arriba) y las rentas de "barón robador" (arriba y abajo). La empresa Tesla ha recibido préstamos garantizados para hacer posible su negocio y ha ganado "supermoney" a través de la emisión de acciones. La desigualdad de ingresos en Estados Unidos se ve exacerbada por la brecha entre el valor de mercado de las empresas y los salarios de los trabajadores. La economía de Silicon Valley se basa en la especulación con expectativas futuras, lo que genera una gran desigualdad entre aquellos que viven en el "dólar" y aquellos que viven en el "supermoney". La empresa Anthropic es una excepción a la regla, ya que está ganando dinero y generando beneficios.
+    <link href="https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"/>
+    <summary>La ministra de Asuntos Exteriores de Rusia ha acusado a Estonia de llevar a cabo una serie de "acciones hostiles" y de poner al país "en el umbral de desencadenar una guerra abierta" con Moscú. Estonia ha anunciado que cerrará sus cruces de frontera terrestres con Rusia a partir del 1 de diciembre, lo que ha generado una reacción negativa de la parte rusa. Estonia ha negado permitir que su territorio sea utilizado para operaciones militares por otro país. La situación ha escalado debido a la crisis en Ucrania y las tensiones entre Rusia y los países de la OTAN en su frontera este. Estonia ha respondido a las acusaciones rusa, afirmando que el Kremlin busca distraer la atención de sus propios esfuerzos para debilitar la seguridad europea. Estonia ha denunciado la amenaza de ataques contra su territorio y ha reafirmado su apoyo a Ucrania. La situación en la región sigue siendo tensa, con ambos lados buscando encontrar una solución pacífica.
 
 Por qué importa:
-La pregunta de qué ha pasado con Silicon Valley es relevante porque la empresa ha cambiado su enfoque de la búsqueda de información a la maximización de ganancias, lo que ha llevado a una gran desigualdad entre los trabajadores y los propietarios de las empresas.</summary>
-    <published>2026-11-20T20:11:04+00:00</published>
+La situación en la región se ha intensificado debido a la crisis en Ucrania y las tensiones entre Rusia y los países de la OTAN en su frontera este; Estonia, como país miembro de la OTAN, ha tomado medidas para proteger su seguridad, incluyendo la closure de sus cruces de frontera terrestres con Rusia. La respuesta de Rusia ha sido fuerte, acusando a Estonia de acciones hostiles y de poner en peligro la estabilidad regional; La situación ha escalado debido a la agresión rusa en Ucrania y la respuesta de los países de la OTAN a apoyar a Ucrania.</summary>
+    <published>2026-11-24T12:32:24+00:00</published>
   </entry>
   <entry>
-    <id>https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/</id>
-    <title>[Data Science] Evolución de Google Duplex para realizar llamadas a negocios en Gemini</title>
-    <updated>2026-11-23T13:24:06.927225+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html</id>
+    <title>[Economía] Reportes crecimiento de ventas comparable del 6.1%</title>
+    <updated>2026-11-24T13:25:59.082163+00:00</updated>
     <author>
-      <name>The latest research from Google</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"/>
-    <summary>En 2018, Google Duplex revolucionó las conversaciones de voz entre inteligencia artificial y negocios locales. Desde entonces, esta tecnología ha trabajado detrás de escena en muchos productos de Google. La capacidad de Duplex se ha integrado directamente en Gemini. La tecnología utiliza inteligencia artificial para completar tareas como hacer reservas de mesa o programar una cita, lo que puede ser un proceso tedioso. Duplex utiliza una combinación de comprensión de habla, razonamiento contextual y síntesis de habla para completar tareas de manera respetuosa y eficiente. La tecnología ha evolucionado significativamente desde su introducción, pasando de modelos de habla estrechos a una arquitectura unificada utilizando Gemini. Duplex ha sido fundamental en la verificación de información de negocios y ha sido utilizado en más de un trillón de veces en Google Search y Maps. La tecnología ha sido integrada en la aplicación Gemini, que puede ayudar a coordinar tareas en el mundo real, como realizar llamadas a negocios y manejar solicitudes en línea. La evolución de Duplex ha sido posible gracias a avances en modelos de lenguaje y la colaboración con equipos de Google. La tecnología sigue evolucionando para mejorar la experiencia del usuario y la precisión de la información.
+    <link href="https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"/>
+    <summary>Best Buy reportó crecimiento de ventas comparable del 6.1% en el tercer trimestre, superando las expectativas de Wall Street y aumentando su guía para el año completo. El crecimiento fue el más alto en cinco años. La compañía también reportó una ganancia neto de $353 millones y una ganancia ajustada de $1.62 por acción. El crecimiento fue más fuerte en el segmento doméstico, con un aumento del 6.2%, mientras que el segmento internacional creció un 4.9%. Las acciones de Best Buy subieron un 6% después del anuncio. La compañía también aumentó su guía para el año completo, previendo una ganancia neto de entre $43 y $43.3 millones. El crecimiento es una buena noticia para la compañía, que ha estado implementando una estrategia de turnaround para recuperar el crecimiento después de una serie de desafíos. El nuevo CEO, Jason Bonfig, atribuyó el crecimiento a la "execución disciplinada", la "cicla de productos atractiva" y las "ganancias de mercado". El lanzamiento de "Grand Theft Auto VI" en el próximo trimestre se espera que impulse las ventas en la categoría de juegos, que ha estado experimentando ganancias en el pasado año.
 
 Por qué importa:
-La evolución de Google Duplex ha sido posible gracias a la colaboración con equipos de Google y la adopción de avances en modelos de lenguaje; La tecnología ha sido utilizada en una variedad de aplicaciones, incluyendo Google Search y Maps, y ha sido fundamental en la verificación de información de negocios. La integración de Duplex en la aplicación Gemini ha permitido a los usuarios coordinar tareas en el mundo real de manera más eficiente; La tecnología sigue evolucionando para mejorar la experiencia del usuario y la precisión de la información.</summary>
-    <published>2026-11-20T23:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/</id>
-    <title>[Data Science] Regresión censurada vs. truncada en Python, explicada</title>
-    <updated>2026-11-23T13:24:06.927190+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"/>
-    <summary>La organización que llevó a cabo el sondeo de salarios censuró los salarios que superaban los $100,000, lo que significa que los observó como $100,000. Esto puede distorsionar la relación entre el salario y la experiencia laboral. Por otro lado, la truncación de los salarios puede llevar a un modelo de regresión que no se ajusta bien a la relación entre el salario y la experiencia laboral. El modelo de Tobit fue introducido por el economista James Tobin en 1958 para modelar variables dependientes limitadas. Este modelo incorpora la información disponible sobre cada observación, incluyendo las censuras y las truncaciones. Se estima el logaritmo de la desviación estándar en lugar de estimar la desviación estándar directamente para asegurar que la desviación estándar siempre sea positiva. El coeficiente estimado es aproximadamente 5.032, muy cercano al coeficiente verdadero de 5. Se ha recuperado una estimación mucho mejor de la relación subyacente entre el salario y la experiencia profesional. El dataset no tiene observaciones censuradas por encima de $100,000. El likelihood function necesita ajustar la función de densidad original para considerar la selección mecánica.
-
-Por qué importa:
-La censura y la truncación de los salarios pueden tener un impacto significativo en la precisión de los modelos de regresión. La censura puede distorsionar la relación entre el salario y la experiencia laboral, mientras que la truncación puede llevar a un modelo de regresión que no se ajusta bien a la relación entre el salario y la experiencia laboral.</summary>
-    <published>2026-11-21T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/</id>
-    <title>[Data Science] RANSAC, Explained: Consensus Fitting for Image Feature Matching</title>
-    <updated>2026-11-23T13:24:06.927151+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/"/>
-    <summary>RANSAC es un algoritmo de consenso que se utiliza para eliminar pares de características incorrectamente asociados en imágenes. Aunque el algoritmo SIFT es robusto y invariente a la escala y la rotación, no garantiza que las características en imágenes diferentes se asocien correctamente. RANSAC se utiliza para filtrar fuera los pares de características incorrectamente asociados, lo que permite derivar una transformación correcta. El algoritmo funciona seleccionando k puntos aleatorios de n puntos, entrenando un modelo y pasando los puntos a través del modelo. Los puntos que se ajustan dentro de un error de ε se consideran inliers y se cuentan, mientras que los puntos que se ajustan fuera del error se consideran outliers y se cuentan. El proceso se repite durante un número determinado de iteraciones, y el modelo con más inliers se selecciona. RANSAC es eficiente cuando el número de outliers es pequeño en comparación con el número de inliers, pero puede funcionar bien incluso con más outliers que inliers. El algoritmo es fácil de usar y interpretar, y se utiliza en combinación con SIFT y homografía para eliminar pares de características incorrectamente asociadas.
-
-Por qué importa:
-RANSAC es un algoritmo de consenso que se utiliza para eliminar pares de características incorrectamente asociadas en imágenes. Su uso es esencial en la visión por computadora, ya que permite derivar transformaciones correctas a partir de imágenes.</summary>
-    <published>2026-11-22T15:00:00+00:00</published>
+La noticia es importante porque refleja el crecimiento de Best Buy después de una serie de desafíos, incluyendo la disminución del tráfico de pie, la baja sentimiento del consumidor, los aranceles y los costos de memoria. El éxito de la compañía es un buen indicador de que la industria de los electrodomésticos y de tecnología está recuperándose.</summary>
+    <published>2026-11-24T12:57:35+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/when-one-task-becomes-another/</id>
     <title>[Data Science] Un modelo de OpenAI reveló un token de GitHub de un investigador públicamente y lo fragmentó para que el escaneo de secretos no lo detectara.</title>
-    <updated>2026-11-23T13:24:06.927111+00:00</updated>
+    <updated>2026-11-24T13:25:59.082124+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -179,51 +109,79 @@ La seguridad de los modelos de inteligencia artificial es un tema cada vez más 
     <published>2026-11-23T11:49:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.f1technical.net/news/29647</id>
-    <title>[Fórmula 1] Russell cauteloso a pesar de liderar FP2 húmedo en Las Vegas</title>
-    <updated>2026-11-23T13:24:06.927074+00:00</updated>
+    <id>https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026</id>
+    <title>[Data Science] Cómo utilizar herramientas de inteligencia artificial para aprender data science más rápido en 2026</title>
+    <updated>2026-11-24T13:25:59.082089+00:00</updated>
     <author>
-      <name>F1Technical.net . Motorsport news</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.f1technical.net/news/29647"/>
-    <summary>George Russell lideró el segundo entrenamiento libre de la semana de las Grandes Premias de Las Vegas con un tiempo de 1m 47.272s, 0.071 segundos por delante de Pierre Gasly de Alpine. Sin embargo, Russell reconoció que su posición en la clasificación no refleja la verdadera competencia de Mercedes en las condiciones húmedas. La lluvia afectó tanto al primer como al segundo entrenamiento libre, dejando a los equipos con poco tiempo representativo. Russell fue cauteloso al evaluar el rendimiento de Mercedes, señalando que la escudería no había sido tan competitiva en las condiciones húmedas como lo había sido en el último evento. A pesar de esto, Russell sigue siendo optimista sobre las posibilidades de Mercedes, que ha tenido front-row starts en los dos últimos eventos. Kimi Antonelli, el compañero de Russell, terminó en el octavo lugar con un tiempo de 1m 49.043s, 1.771 segundos por detrás de su compañero de equipo. Antonelli está corriendo con un turbocharger actualizado en Las Vegas, pero su actualización también incluye un motor de combustión interna (ICE) nuevo, lo que le impone una penalización de cinco puestos en la clasificación para la carrera. Russell y Antonelli esperan que el tercer entrenamiento libre sea crucial si las condiciones se mantienen secas, ya que entenderá el comportamiento de los neumáticos y encontrarán un equilibrio cómodo serán sus principales prioridades. El director de ingeniería de pista de Mercedes, Andrew Shovlin, advirtió que el tiempo de Russell debe tratarse con cautela, ya que completó su lapo más rápido en el punto más favorable de la sesión. Shovlin también destacó que la dificultad para establecer un equilibrio consistente en el coche fue un desafío para el equipo, lo que deja varias áreas para investigar la noche del viernes.
+    <link href="https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026"/>
+    <summary>DataCamp, Dataquest y Coursera son las plataformas más fuertes para aprendizaje estructurado. DataCamp ofrece tutoría de inteligencia artificial adaptativa que es una ventaja notable para aprendices autodirigidos. ChatGPT y Claude funcionan bien para la ayuda conversacional en la educación técnica. GitHub Copilot es la opción más recomendada para la asistencia en codificación, con una integración sólida en Jupyter, VS Code y PyCharm. Perplexity funciona bien para responder preguntas basadas en investigaciones y fuentes de citación. Los aprendices que obtienen el mayor beneficio de las herramientas de inteligencia artificial los usan para ir más profundo en conceptos que están estudiando. Los aprendices pueden utilizar estas herramientas para salir de un bloqueo sin dar por vencido y para construir proyectos más terminados en menos tiempo. La combinación de estas herramientas con una plataforma de aprendizaje interactiva puede proporcionar una práctica activa. Los aprendices de data science pueden utilizar estas herramientas para acelerar el proceso y mejorar sus habilidades.
 
 Por qué importa:
-La lluvia afectó tanto al primer como al segundo entrenamiento libre de las Grandes Premias de Las Vegas, lo que limitó la cantidad de tiempo representativo que los equipos pudieron recopilar. A pesar de esto, Russell y Antonelli demostraron su habilidad para adaptarse a las condiciones adversas y recopilar información valiosa; La penalización de cinco puestos que impone la actualización de turbocharger de Antonelli en Las Vegas también es un desafío adicional para el equipo.</summary>
-    <published>2026-11-20T20:06:06+00:00</published>
+Estas herramientas de inteligencia artificial pueden ayudar a los aprendices de data science a aprender más rápido y de manera más efectiva. La combinación de estas herramientas con una plataforma de aprendizaje interactiva puede proporcionar una práctica activa y ayudar a los aprendices a construir habilidades y confianza en sus habilidades de data science.</summary>
+    <published>2026-11-23T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/</id>
-    <title>[Fórmula 1] Zak Brown se une a McLaren como director ejecutivo</title>
-    <updated>2026-11-23T13:24:06.927039+00:00</updated>
+    <id>https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/</id>
+    <title>[Data Science] Probar matemáticas con inteligencia artificial</title>
+    <updated>2026-11-24T13:25:59.082054+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/"/>
-    <summary>McLaren celebró hace 10 años un cambio significativo en su liderazgo, lo que marcó el comienzo de una recuperación después de una serie de temporadas difíciles. En 2015, el equipo terminó en noveno lugar en la clasificación, su primera temporada con unidades de potencia de Honda, y mejoró solo en 2016. En 2024, el equipo ganó su primera de dos títulos de constructor consecutivos. Zak Brown, quien marcó su décimo aniversario en McLaren, destacó la transformación del equipo, que ha ganado 24 carreras y 3 títulos, y expresó su emoción por los próximos 10 años. Brown mencionó que cuando se unió al equipo en 2016, era "un lugar bastante malo", pero ahora es "un lugar increíble". La llegada de Brown como director ejecutivo marca un nuevo capítulo en la historia de McLaren.
+    <link href="https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/"/>
+    <summary>En 2026, OpenAI anunció tres resultados que sus modelos de inteligencia artificial produjeron, incluyendo la disolución del Hipótesis del Tiempo Exponencial. El matemático Terence Tao expresó su preocupación por que los modelos de inteligencia artificial estén haciendo demasiado trabajo en resolver problemas famosos, en lugar de ayudar a los matemáticos a entender y utilizar la matemática juntos. Un estudio HybridQuestion pidió a agentes de inteligencia artificial y investigadores humanos que votaran por las mejores innovaciones de 2025 y las mejores preguntas abiertas para 2026. Los agentes de inteligencia artificial elegieron más de las mismas preferencias que los humanos para las innovaciones. El sistema de predicción de formas de proteínas AlphaFold de Google DeepMind predice las formas de proteínas con tanta precisión que dos de sus creadores compartieron el Premio Nobel en Química en 2024. La cantidad de resultados es un problema, ya que OpenAI publicó más de 700 trabajos matemáticos no revisados el 6 de octubre de 2026. En 2026, OpenAI afirmó que no reclamará el crédito académico por los resultados producidos por sus modelos, y que los equipos de investigadores independientes que estudien los resultados deberán recibir reconocimiento por las explicaciones y escritos que produzcan. La Declaración de Leiden sobre la Inteligencia Artificial y la Matemática estableció que los autores humanos permanecen responsables de sus resultados, y que el crédito pertenece a las personas y no a los sistemas automatizados.
 
 Por qué importa:
-La noticia de la llegada de Zak Brown como director ejecutivo de McLaren es importante porque marca un cambio significativo en la dirección del equipo; La transformación de McLaren desde su última temporada difícil en 2015 hasta su victoria en el título de constructor en 2024 es un testimonio de la capacidad del equipo para adaptarse y mejorar. La llegada de Brown, quien ha estado al frente del equipo durante 10 años, sugiere que McLaren está listo para seguir creciendo y competiendo en el futuro.</summary>
-    <published>2026-11-21T10:57:12+00:00</published>
+La inteligencia artificial está revolucionando la forma en que los matemáticos trabajan, pero también plantea preguntas sobre la responsabilidad y el crédito académico. La disolución del Hipótesis del Tiempo Exponencial y la Conjetura de Kakeya son ejemplos de problemas matemáticos que han sido resueltos con la ayuda de inteligencia artificial, lo que ha generado debate sobre la naturaleza de la conocimiento y la creatividad en la matemática.</summary>
+    <published>2026-11-23T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/</id>
-    <title>[Fórmula 1] Pirelli’s F1 tyres still can’t cope with Losail</title>
-    <updated>2026-11-23T13:24:06.927004+00:00</updated>
+    <id>https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/</id>
+    <title>[Data Science] The Complete Guide to Embedding Models for Machine Learning</title>
+    <updated>2026-11-24T13:25:59.082017+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>MachineLearningMastery.com</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/"/>
-    <summary>Formula 1 regresa a Losail International Circuit para su quinta vez este fin de semana, y Pirelli se preocupa nuevamente por posibles fallos. Pirelli ha establecido un límite de 27 vueltas, más que el año pasado, pero esto obligará a los conductores a realizar dos paradas de pit. En el evento de 2023, Pirelli impuso un límite de 18 vueltas, lo que requirió a los conductores realizar tres paradas de pit. A pesar de haber seleccionado sus tires más duraderos, Pirelli ha decidido que el límite es necesario. En 2021, cuando F1 visitó la pista por primera vez, no se aplicó un límite, pero los conductores como Lando Norris, Valtteri Bottas y los conductores de Williams sufrieron fallos de tires. En 2023, F1 cambió a un formato de ruedas de 18 pulgadas y la pista fue reformada, con nuevas curvas. Durante la práctica del viernes, Pirelli descubrió problemas con sus tires. Además, se redibujaron los límites de la pista para evitar las curvas y se programó una sesión de práctica adicional de 10 minutos. Pirelli ha permitido un aumento en la longitud máxima de la carrera debido a la reducción de la fuerza de frenado. Pirelli ha extendido su contrato como proveedor de tires hasta 2028 al menos.
+    <link href="https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/"/>
+    <summary>En este artículo, se aprenderá cómo funcionan los modelos de emparejamiento, qué impacto tienen en la escalabilidad y cómo benchmarkear modelos abiertos de peso en su propia base de datos de texto. Los modelos de emparejamiento son fundamentales para la comprensión del lenguaje natural, ya que convierten el texto en vectores numéricos densos. Los modelos de emparejamiento se entrenan para aprender las relaciones semánticas detrás del texto y generar representaciones eficientes para la búsqueda, la clasificación y el agrupamiento de texto. Se presentan cuatro diferenciadores clave para elegir el modelo adecuado, y se discuten las implicaciones de la dimensión del modelo y la quantización en la aplicación. Se proporciona un ejemplo de benchmarking entre dos modelos con la misma dimensión de emparejamiento pero diferentes técnicas de entrenamiento. Se destaca la importancia de entender las características de los modelos de emparejamiento para elegir el adecuado para cada aplicación. Se enfatiza la importancia de la quantización para reducir el consumo de memoria y hacer que los modelos sean más escalables. Se proporciona una guía práctica para evaluar y benchmarkear modelos de emparejamiento en su propia base de datos de texto.
 
 Por qué importa:
-Pirelli se preocupa por los fallos de tires en la pista de Losail. La reducción de la fuerza de frenado en la pista ha permitido un aumento en la longitud máxima de la carrera.</summary>
-    <published>2026-11-21T11:50:21+00:00</published>
+La comprensión del lenguaje natural es fundamental en la era digital, y los modelos de emparejamiento juegan un papel crucial en este proceso; Los modelos de emparejamiento convierten el texto en vectores numéricos densos que pueden ser procesados por máquinas. La elección del modelo adecuado es fundamental para la precisión y la eficiencia de la aplicación; La quantización es una técnica que reduce el consumo de memoria y hace que los modelos sean más escalables; La guía proporcionada en este artículo busca ayudar a los desarrolladores a entender las características de los modelos de emparejamiento y a elegir el adecuado para cada aplicación.</summary>
+    <published>2026-11-24T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/</id>
+    <title>[Data Science] Cómo calcular y operacionalizar el valor de vida del cliente</title>
+    <updated>2026-11-24T13:25:59.081981+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/"/>
+    <summary>La Customer Lifetime Value (CLV) es una herramienta efectiva para apoyar el crecimiento sostenible de una empresa; La implementación de CLV ha demostrado ser una herramienta efectiva para apoyar el crecimiento sostenible de la empresa. La relación entre CLV y la lealtad del cliente es dinámica y requiere inversiones deliberadas y repetidas para construir relaciones a largo plazo. La empresa que implementa CLV puede utilizar esta herramienta para alinear la inversión de marketing, priorizar la retención de clientes y mejorar la experiencia del cliente. La implementación de CLV requiere la recopilación y limpieza de datos de los clientes, la creación de un modelo de predicción y la operacionalización de los resultados en las operaciones diarias. La CLV es una métrica que refleja la relación entre el ciclo de vida de un cliente y el beneficio que genera durante ese tiempo. La estimación de CLV es un desafío debido a la falta de información sobre la vida útil de los clientes y la incertidumbre en la probabilidad de churn. La precisión de la estimación de CLV depende de la calidad de los datos y la complejidad del negocio. La CLV no es solo una medida, es un marco operativo para entender cómo evoluciona el comportamiento del cliente junto con la empresa. La CLV puede aumentar o disminuir en función de la intervención operativa en los momentos de alta valor; La CLV puede aumentar o disminuir en función de la intervención operativa en los momentos de alta valor. La CLV es un marco estratégico que puede servir como base para la asignación de recursos, la adquisición de clientes y la gestión del ciclo de vida de los clientes.
+
+Por qué importa:
+La CLV es una herramienta importante para las empresas que buscan entender mejor a sus clientes y mejorar su crecimiento sostenible. La CLV es una herramienta que puede ayudar a las empresas a identificar oportunidades de crecimiento y a priorizar la retención de clientes.</summary>
+    <published>2026-11-24T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face</id>
+    <title>[Data Science] Los modelos de inteligencia artificial más descargados en Hugging Face</title>
+    <updated>2026-11-24T13:25:59.081946+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face"/>
+    <summary>Los modelos de inteligencia artificial más descargados en Hugging Face no son los que se esperan. En su lugar de modelos como Llama, Qwen, DeepSeek o Mistral, que podrían dominar las listas de descargas, vemos modelos más pequeños, más antiguos y especializados que se mantienen populares. Esto se debe a que las descargas no reflejan necesariamente la potencia o popularidad de los modelos entre los entusiastas de la inteligencia artificial, sino más bien la frecuencia con la que se utilizan en aplicaciones, experimentos de investigación, flujos de trabajo automatizados y tutoriales. Se presentan siete de los modelos más descargados en Hugging Face, lo que los hace populares. Estos modelos son utilizados en aplicaciones como la búsqueda semántica, la clasificación de texto, la generación de texto y la búsqueda de documentos. Algunos de los modelos más descargados son el modelo de embebido de texto ligero, el modelo de reencaje de búsqueda, el modelo de extracción de características, el modelo de generación de video, el modelo GPT-2 y el modelo BERT. Estos modelos son populares debido a su simplicidad, pequeño tamaño y eficiencia. También son populares debido a su capacidad para ser utilizado en aplicaciones como la búsqueda de documentos, la clasificación de texto y la generación de texto. Los modelos más descargados en Hugging Face no reflejan necesariamente la potencia o popularidad de los modelos entre los entusiastas de la inteligencia artificial, sino más bien la frecuencia con la que se utilizan en aplicaciones y experimentos de investigación.
+
+Por qué importa:
+Estos modelos de inteligencia artificial son populares debido a su capacidad para ser utilizados en aplicaciones como la búsqueda de documentos, la clasificación de texto y la generación de texto.</summary>
+    <published>2026-11-24T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/23/enhanced-madring-2027-will-include-track-changes/</id>
     <title>[Fórmula 1] Enhanced Madring para 2027 incluirá cambios de pista</title>
-    <updated>2026-11-23T13:24:06.926968+00:00</updated>
+    <updated>2026-11-24T13:25:59.081909+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -237,7 +195,7 @@ El Gran Premio de España es uno de los eventos más importantes de la Fórmula 
   <entry>
     <id>https://www.racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix/</id>
     <title>[Fórmula 1] Russell ofreció cooperar con Verstappen durante el Gran Premio de Las Vegas</title>
-    <updated>2026-11-23T13:24:06.926932+00:00</updated>
+    <updated>2026-11-24T13:25:59.081872+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -251,7 +209,7 @@ Es importante destacar que el ofrecimiento de Russell de cooperar con Verstappen
   <entry>
     <id>https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/</id>
     <title>[Fórmula 1] Hadjar pidió a Red Bull que le dijera a Verstappen "detén la defensa" mientras estaban perdiendo tiempo</title>
-    <updated>2026-11-23T13:24:06.926895+00:00</updated>
+    <updated>2026-11-24T13:25:59.081835+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,65 +221,51 @@ Es importante destacar que la estrategia de Red Bull en la carrera fue controver
     <published>2026-11-23T12:32:39+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/a-historic-el-nino-has-arrived-heres-what-it-means-for-us-prices-2000841360</id>
-    <title>[Tecnología] El Niño histórico llega a Estados Unidos</title>
-    <updated>2026-11-23T13:24:06.926858+00:00</updated>
+    <id>https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/</id>
+    <title>[Fórmula 1] Russell dice que ha trabajado para vencer a Verstappen en la línea de meta</title>
+    <updated>2026-11-24T13:25:59.081799+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/a-historic-el-nino-has-arrived-heres-what-it-means-for-us-prices-2000841360"/>
-    <summary>El Niño intensifica hacia un punto récord, lo que podría generar impactos significativos en la economía global. Los expertos no pueden predecir con certeza los efectos económicos, pero pueden hacer predicciones basadas en los mejores pronósticos y datos de años anteriores. El análisis del Federal Reserve Bank of San Francisco sugiere que El Niño podría haber causado un aumento de 0,3 puntos porcentuales en los niveles de precios, lo que es consistente con eventos anteriores. Sin embargo, si se produce una transición a La Niña, se estima que los precios de consumo podrían aumentar un 1 punto porcentual en 2027, principalmente afectando los costos de servicios básicos y alimentos. Los expertos destacan que los sectores más afectados serán aquellos que dependen del clima, como la agricultura, la pesca, la energía, el transporte, la construcción y la seguridad. El Niño también podría generar impactos significativos en la economía estadounidense, especialmente en sectores como la construcción y la agricultura. Los expertos enfatizan la importancia de considerar la interacción entre El Niño y el cambio climático humano.
+    <link href="https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/"/>
+    <summary>George Russell afirmó que había trabajado para vencer a Max Verstappen en la línea de meta en Las Vegas, aunque finalmente perdió. Russell y Verstappen se turnaron el liderazgo durante la carrera y Russell cruzó la línea de meta por delante cuatro veces. Sin embargo, Verstappen se llevó la victoria después de que Russell se perdió el segundo lugar en la última vuelta. Russell cree que fue mejor posicionado que su compañero de equipo Andrea Kimi Antonelli para ganar la carrera. En una entrevista, Russell explicó que había trabajado para pasar a Verstappen y luego mantener la posición en la línea de meta. Aunque no pudo llevar a cabo su estrategia, Russell no se arrepiente de su intento y considera que fue necesario para ganar la carrera. Russell también admitió que podría haber sido conservador y terminado en tercer lugar, pero no se hubiera satisfecho con eso. Russell y Verstappen se enfrentaron en una carrera emocionante en Las Vegas, y aunque Russell perdió, sigue siendo orgulloso de su intento.
 
 Por qué importa:
-El Niño amplifica el viento alisoso del Pacífico y lo desplaza hacia el sur de su posición neutral; Esto aumenta el riesgo de inundaciones y daños por tormentas en la zona sur en invierno. En los meses cálidos, El Niño puede exacerbar el riesgo de sequía y incendios forestales en la zona norte, especialmente en el noroeste; El Niño también puede tener impactos significativos en la economía estadounidense, especialmente en sectores como la construcción y la agricultura.</summary>
-    <published>2026-11-21T12:30:09+00:00</published>
+La carrera en Las Vegas fue una de las más emocionantes de la temporada, y Russell y Verstappen se enfrentaron en una batalla épica. Para muchos fanáticos del motor, esta carrera fue un momento clave en la temporada, y Russell y Verstappen se convirtieron en los principales protagonistas.</summary>
+    <published>2026-11-23T17:02:40+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</id>
-    <title>[Tecnología] El Xiaomi 18 Pro prueba que dos pantallas no son mejores que una</title>
-    <updated>2026-11-23T13:24:06.926824+00:00</updated>
+    <id>https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/</id>
+    <title>[Fórmula 1] ¿Estaba Hadjar ayudando a Verstappen o viceversa al recoger una penalización en las pit lanes?</title>
+    <updated>2026-11-24T13:25:59.081759+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"/>
-    <summary>Xiaomi lanzó el 18 Pro y Pro Max, dos teléfonos flagship con una pantalla en la parte trasera. El 18 Pro tiene una pantalla de 6,4 pulgadas y un chip Snapdragon 8 Elite Gen 6, mientras que el Pro Max tiene una pantalla de 6,9 pulgadas y un chip Snapdragon 8 Elite Gen 6 con una versión Extreme. El 18 Pro Max tiene una batería de 7.050mAh y un cargador inalámbrico de 100W. La cámara principal del 18 Pro Max tiene un sensor LOFIC que ofrece una dinámica de 16 puntos. El teléfono también tiene una pantalla de retro que simula tres estilos de Leica diferentes. El Xiaomi 18 Pro tiene una pantalla de privacidad que reduce la visibilidad de la pantalla. La aplicación Essential Moments utiliza AI para simular tres estilos retro Leica. El Xiaomi 18 Pro tiene un diseño atractivo, pero con algunas limitaciones. La batería del Xiaomi 18 Pro no dura tanto como algunas otras banderas. El Xiaomi 18 Pro es una oportunidad para probar si una pantalla en la parte trasera de un teléfono es más útil que la de 2021.
+    <link href="https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/"/>
+    <summary>El piloto Isack Hadjar perdió sus posibilidades de obtener puntos en la Gran Premio de Las Vegas después de sufrir una falla en el ala delantera. A pesar de haber terminado en segundo lugar, su penalización de 10 segundos probablemente lo habría relegado a no subir al podio y a caer a las zonas de puntuación inferiores; Los stewards determinaron que Hadjar "condujo lentamente bajo condiciones de Safety Car" y tenían una buena razón para creerlo. Según los stewards, cuando el campo se acercaba a la curva 14, Hadjar redujo su velocidad a alrededor de 100kph menos que su compañero de equipo Max Verstappen, el único coche delante de él. El stewards determinaron que Hadjar lo hizo "lentamente por razones tácticas", pero no elaboraron qué eran estas razones; La explicación más obvia es que Red Bull quería evitar que Hadjar tuviera que esperar inmediatamente detrás de Verstappen. Otro conductor, Andrea Kimi Antonelli, también pareció hacer lo mismo en esta carrera; Sin embargo, Antonelli no recibió una penalización ni fue investigado; También no se perdió tanto como lo hizo Hadjar. Los mensajes de radio a los dos conductores muestran que Red Bull quería que sus coches estuvieran a cinco segundos de distancia, lo que era dos veces la distancia entre los dos Mercedes que entraron en las pit lanes. Mercedes no querían arriesgar a mantener la fila de seguridad bloqueada tanto como lo hizo Red Bull; Red Bull tomó la práctica a un extremo tan grande que Hadjar recibió una penalización; ¿Qué querían lograr? La carrera del fin de semana anterior fue única en cuanto a cómo poco se extendió el campo durante los 19 vueltas antes de que se activara la Safety Car; Cuando el campo se neutralizó, había ocho coches a cinco segundos de Verstappen; Red Bull sabía que todos los conductores del campo querían aprovechar el momento perfectamente-timado de la Safety Car. Sabían que un tren de coches seguiría a Verstappen en las pit lanes, lo que hacía que fuera más difícil para ellos liberarlo en la fila de seguridad; Verstappen's race engineer Tom Hart le advirtió: "Expect a busy pit lane, so on your delta." Mientras que uno de los Red Bull conducía a su delta tiempo, el otro abría una distancia significativa. Al hacer que Hadjar se ralentizara y se colocara en la fila de seguridad a cinco segundos, Red Bull resolvió este problema; Sin embargo, el costo fue una penalización de 10 segundos, que Red Bull puede o no haber anticipado.
 
 Por qué importa:
-La noticia es interesante porque muestra cómo Xiaomi está innovando en la tecnología de sus teléfonos. La pantalla en la parte trasera es una característica única que puede ser útil o no, dependiendo del uso.</summary>
-    <published>2026-11-21T13:00:00+00:00</published>
+La penalización de 10 segundos de Hadjar fue crucial porque Red Bull quería evitar que sus coches se bloquearan en las pit lanes cuando todos los conductores del campo pitaron al mismo tiempo. La carrera del fin de semana anterior en Qatar fue similar, donde McLaren perdió la carrera porque no pitaron durante la Safety Car.</summary>
+    <published>2026-11-24T07:15:03+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</id>
-    <title>[Tecnología] Un fondo de inversión de capital notorio, GIC y Baillie Gifford, apostaron grandes en Anthropic antes de su IPO.</title>
-    <updated>2026-11-23T13:24:06.926789+00:00</updated>
+    <id>https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/</id>
+    <title>[Fórmula 1] Pierre Gasly’s fury over cooling problems</title>
+    <updated>2026-11-24T13:25:59.081721+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
-    <summary>Notable Capital, GIC y Baillie Gifford invertieron grandes cantidades en Anthropic antes de su IPO. Los inversores estaban convencidos de que el desarrollo de Anthropic era clave para el futuro del AI. La empresa alcanzó un valor de $1.5 trillion en su IPO, lo que generó ganancias significativas para los inversores. Anthropic ha demostrado una ejecución consistente y una creciente adopción entre los desarrolladores. La empresa ha expandido sus aplicaciones a industrias como la justicia y la ciencia de la vida, y ha demostrado una sólida rentabilidad. Los inversores están satisfechos con su inversión y esperan que Anthropic siga creciendo en el futuro. La empresa ha demostrado ser una opción atractiva para los desarrolladores y ha establecido un estándar alto en el desarrollo de modelos de AI. La adopción de Anthropic ha sido creciente en los últimos meses, lo que sugiere que la empresa está en una posición fuerte en el mercado. La empresa ha demostrado ser capaz de ejecutar su estrategia de crecimiento y ha establecido una sólida base para el futuro.
+    <link href="https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/"/>
+    <summary>Pierre Gasly sufrió problemas con el enfriamiento de su unidad de potencia durante la Gran Premio de Las Vegas, lo que lo llevó a perder la calma. El piloto francés, de la escudería Alpine, se sintió como un "sitting duck" (una pieza de juguete) debido a la falta de potencia. Gasly se enfureció cuando el Racing Bulls lo superó y le dijo a su equipo que "prefiriría explotar el motor" que seguir así. Sin embargo, la Safety Car intervino y le dio la oportunidad de enfriar su vehículo, lo que le permitió terminar en quinto lugar. Gasly se sintió frustrado desde el principio, ya que su equipo le había pedido que enfriara su vehículo desde el segundo lap. A pesar de la frustración, Gasly logró recuperarse y moverse hacia la quinta posición. La falta de potencia fue un problema constante para Gasly durante la carrera. El piloto francés se sintió abrumado por la situación y perdió la calma. Gasly terminó la carrera en quinto lugar, aunque su desempeño fue decepcionante.
 
 Por qué importa:
-Los inversores en Anthropic estaban convencidos de que el desarrollo de la empresa era clave para el futuro del AI; La empresa había demostrado una creciente adopción entre los desarrolladores y había establecido un estándar alto en el desarrollo de modelos de AI. Los inversores estaban satisfechos con su inversión y esperaban que Anthropic siga creciendo en el futuro; La empresa había demostrado ser una opción atractiva para los desarrolladores y había establecido una sólida base para el futuro.</summary>
-    <published>2026-11-23T01:25:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</id>
-    <title>[Tecnología] Meta Muse puede hacer tu compraventa de Black Friday en Walmart</title>
-    <updated>2026-11-23T13:24:06.926754+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"/>
-    <summary>Walmart permitirá que el agente de Meta, Muse, realice compras en su sitio web a tu nombre, lo que permite al agente encontrar y comprar ofertas de Black Friday. El servicio se lanzará el 24 de noviembre, después de una implementación en vivo del Agent Gateway anunciado por Walmart. Muse puede realizar compras a través de "Agent Profiles", que proporcionan un espacio dedicado para la actividad del agente dentro de tu cuenta de cliente de Walmart. También se pueden establecer límites de gasto, aprobar compras y revisar la historia de compras de todo lo comprado por Muse. Walmart ha anunciado que el soporte para Meta's Muse es "solo el comienzo" y que hay "más experiencias de compraventa de Walmart para otros agentes de AI y aplicaciones en camino". Para realizar una compra, se deben seguir las instrucciones de Walmart: 1) decirle a Muse qué necesitas, 2) establecer reglas de compra y 3) verificar la compra. El lanzamiento se ha retrasado 24 horas desde su fecha original.
-
-Por qué importa:
-Este servicio es importante porque permite a los usuarios aprovechar las ofertas de Black Friday sin tener que interactuar directamente con el sitio web de Walmart. Además, el uso de un agente de AI como Muse puede ser más conveniente y eficiente que realizar compras por cuenta propia.</summary>
-    <published>2026-11-23T11:00:00+00:00</published>
+La falta de potencia en la unidad de enfriamiento de Gasly fue un problema constante durante la carrera, lo que lo llevó a sentirse frustrado y abrumado. Esto es importante porque muestra la dificultad que enfrentan los pilotos en la F1, donde la precisión y la eficiencia son fundamentales para el éxito.</summary>
+    <published>2026-11-24T10:13:49+00:00</published>
   </entry>
   <entry>
     <id>https://gizmodo.com/robert-rodriguez-could-replace-zack-snyder-on-escape-from-new-york-remake-2000843691</id>
     <title>[Tecnología] Robert Rodriguez podría reemplazar a Zack Snyder en la remake de 'Escape From New York'</title>
-    <updated>2026-11-23T13:24:06.926719+00:00</updated>
+    <updated>2026-11-24T13:25:59.081684+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
@@ -335,7 +279,7 @@ La noticia de que Robert Rodriguez podría reemplazar a Zack Snyder en la remake
   <entry>
     <id>https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor</id>
     <title>[Tecnología] Odisea G6 de Samsung</title>
-    <updated>2026-11-23T13:24:06.926682+00:00</updated>
+    <updated>2026-11-24T13:25:59.081648+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -347,79 +291,65 @@ El Odyssey G6 de Samsung es importante porque es uno de los monitores de juego m
     <published>2026-11-23T13:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/</id>
-    <title>[Programación] Andy Clarke answers six questions about Standout Designs for the Web</title>
-    <updated>2026-11-23T13:24:06.926643+00:00</updated>
+    <id>https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/</id>
+    <title>[Tecnología] Serry Park, ingeniera de Figma, sues a la empresa por acoso sexual y represalias</title>
+    <updated>2026-11-24T13:25:59.081611+00:00</updated>
     <author>
-      <name>CSS-Tricks</name>
+      <name>TechCrunch</name>
     </author>
-    <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
-    <summary>Andy Clarke, un diseñador web y autor, ha lanzado Standout Designs for the Web, un nuevo libro que anima a los diseñadores a dejar atrás las plantillas y disposiciones convencionales para crear sitios web más personalizados. El libro se basa en la experiencia de treinta años de diseño web de Clarke y explora cómo la narrativa, el color, el tipografía, la imagen y la disposición pueden trabajar juntos para crear sitios web que se reconocen y se recuerdan. Se le preguntó a Clarke varias preguntas sobre el libro y las ideas que lo inspiraron. Clarke sostiene que, a pesar de tener más herramientas y tecnologías disponibles, muchos sitios web siguen pareciendo similares. Asegura que no se trata de que todos los sitios web necesiten un diseño innovador, pero que los diseñadores han vuelto demasiado cómodos con las plantillas y disposiciones predecibles. El objetivo del libro es animar a los diseñadores a rediscoverar la creatividad y la personalidad que lo hicieron enamorar con la web en primer lugar. Clarke también destaca la importancia de la "comodidad" en el diseño, que puede hacer que los sitios web parezcan similares, pero también destaca la necesidad de que los diseñadores se sientan más confiados al tomar decisiones que dan carácter a su trabajo. El libro ofrece varias soluciones y consejos para mejorar la calidad de los sitios web, como la exploración de diferentes tipos de grillas, la utilización de tipografía y la creación de ritmo y movimiento en la página. Clarke finalmente anima a los diseñadores a abordar sus proyectos con más curiosidad y a cuestionar sus primeras decisiones de diseño.
+    <link href="https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"/>
+    <summary>Serry Park, una ingeniera de Figma, ha presentado una demanda contra la empresa y su CEO, Dylan Field, por acusar de acoso sexual y represalias. Park afirma que la cultura de "retroalimentación directa" de Figma la obligó a enfrentar a los acusados de abuso, en lugar de investigar sus quejas. La ingeniera de Figma, que se unió a Figma en 2022, afirma que la empresa's respuesta le causó daños en su carrera, compensación y salud mental. Park, de origen asiático, afirma haber enfrentado discriminación racial y de género, incluyendo críticas de desempeño basadas en estereotipos sobre las mujeres asiáticas. La demanda busca compensación, un juicio por jurado y una orden del tribunal que prohíba a Figma obligar a los empleados que den quejas de acoso sexual a enfrentar a sus acusadores. En abril de 2024, Park transfirió a otro equipo, lo que afirma que retrasó su carrera y reestableció su calendario de promociones y bonos. En 2025, Park afirma haber sufrido otro incidente de acoso sexual, esta vez por su nuevo jefe. En marzo de 2026, Park recibió una baja médica para tratar síntomas de PTSD y ansiedad generalizados.
 
 Por qué importa:
-El libro de Andy Clarke, Standout Designs for the Web, es una guía para diseñadores web que buscan mejorar la calidad de sus sitios web; La publicación se centra en la importancia de la personalidad y la creatividad en el diseño web, y ofrece soluciones y consejos prácticos para ayudar a los diseñadores a crear sitios web que se reconocen y se recuerdan. El libro es una oportunidad para que los diseñadores reflexionen sobre sus prácticas y consideren nuevas formas de abordar el diseño web.</summary>
-    <published>2026-11-20T15:03:47+00:00</published>
+Esta noticia es importante porque destaca la importancia de crear un ambiente de trabajo seguro y respetuoso para todos los empleados. La demanda de Serry Park es un recordatorio de que el acoso sexual y la discriminación son problemas graves que afectan a muchas personas en el lugar de trabajo.</summary>
+    <published>2026-11-23T23:07:49+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/durianlive/submitting-a-wordpress-plugin-in-2026-slug-plugin-check-and-a-250-character-form-52aa</id>
-    <title>[Programación] Submitting a WordPress plugin in 2026: slug, Plugin Check, and a 250-character form</title>
-    <updated>2026-11-23T13:24:06.926601+00:00</updated>
+    <id>https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/</id>
+    <title>[Tecnología] Grand Theft Auto 6 es el lanzamiento de PlayStation más grande de todos los tiempos</title>
+    <updated>2026-11-24T13:25:59.081573+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://dev.to/durianlive/submitting-a-wordpress-plugin-in-2026-slug-plugin-check-and-a-250-character-form-52aa"/>
-    <summary>En 2026, se subió un pequeño plugin de WordPress a la directory; La forma en la que se presenta el formulario no es lo que se esperaba. Para subir un plugin, se sube un zip y WordPress se basa en el encabezado del plugin y el readme.txt. El formulario "additional information" es la única oportunidad para hablar con un humano, y es opcional. El readme es la página de producto, y los revisores lo leen antes de leer el código. El slug se deriva del nombre del plugin; El Plugin Check es el review más barato que se puede obtener. Se puede solicitar una sola modificación antes de la revisión, y una vez aprobada, es permanente. El formulario tiene un límite de 250 caracteres; El formulario se subió el plugin que tiene 120 líneas de PHP. El tiempo de espera para la aprobación fue mayor que el tiempo de desarrollo del código. El formulario tiene una categoría de 621 plugins que esperan su primera revisión. No se debe planificar una lanzamiento alrededor de la fecha de aprobación; El formulario es real.
+    <link href="https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/"/>
+    <summary>Grand Theft Auto 6 es el lanzamiento más grande de PlayStation de todos los tiempos, según Sony Interactive Entertainment. Los jugadores de PS5 lograron 683 millones de horas de juego acumulado durante el fin de semana de lanzamiento, con un promedio de 17,4 horas por jugador. El juego también ha impulsado las ventas de PS5, con el mayor número de conexiones de consola en un solo día desde la lanzamiento del console, fuera de las vacaciones de fin de año. Más de 39 millones de jugadores únicos han accedido al juego en la consola. El lanzamiento de GTA 6 ha sido un éxito, con ventas de un día de lanzamiento de $3.79 mil millones, lo que convierte en el "mayor lanzamiento de entretenimiento de la historia". El juego fue lanzado el 19 de noviembre para PS5 y Xbox Series X|S, 13 años después del lanzamiento de la quinta entrega de la franquicia. El juego también ha sido un éxito en Xbox, convirtiéndose en uno de los juegos más jugados en la consola.
 
 Por qué importa:
-Es importante destacar que la forma en que se presenta el formulario es importante, ya que es la única oportunidad para hablar con un humano y explicar cualquier problema o inquietud que tenga el plugin. El hecho de que el formulario tenga un límite de 250 caracteres y que se basa en el encabezado del plugin y el readme.txt, muestra que se prioriza la simplicidad y la eficiencia en el proceso de subida de plugins.</summary>
-    <published>2026-11-21T12:50:45+00:00</published>
+El lanzamiento de GTA 6 es importante porque es el mayor lanzamiento de PlayStation de todos los tiempos, y su éxito puede tener un impacto en la industria de los videojuegos. El juego ha sido un éxito comercial y de ventas, y su lanzamiento ha impulsado las ventas de PS5.</summary>
+    <published>2026-11-24T12:09:54+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/makerio/877-popular-apps-ranked-by-how-angry-their-latest-app-store-reviews-are-1b7</id>
-    <title>[Programación] 877 aplicaciones populares clasificadas según la ira de sus últimas reseñas en la App Store</title>
-    <updated>2026-11-23T13:24:06.926561+00:00</updated>
+    <id>https://www.wired.com/gallery/best-espresso-machines/</id>
+    <title>[Tecnología] Máquinas de espresso para casa</title>
+    <updated>2026-11-24T13:25:59.081538+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://dev.to/makerio/877-popular-apps-ranked-by-how-angry-their-latest-app-store-reviews-are-1b7"/>
-    <summary>En noviembre de 2026, se analizaron las últimas reseñas de 877 aplicaciones populares en la App Store, incluyendo 155 categorías. Se encontró que el 42% de las reseñas de Hinge y el 84% de Match tenían una puntuación de 1 o 2 estrellas. Las reseñas de las aplicaciones de entrega, como DoorDash y Duolingo, se recopilaron en un plazo de aproximadamente tres días. Las palabras más comunes en las reseñas negativas de las aplicaciones de dating, como Match y Tinder, incluyeron términos como "falso" y "banido". La aplicación Strava experimentó una disminución en su puntuación de 2.39 a 2.75 después de una actualización. El análisis se realizó en el feed público de las reseñas de las aplicaciones, que incluye información sobre las versiones y las palabras más comunes en las reseñas negativas.
+    <link href="https://www.wired.com/gallery/best-espresso-machines/"/>
+    <summary>El artículo presenta las mejores máquinas de espresso para casa, evaluadas por expertos de Coffee Pros. Las máquinas presentadas son la Fellow Series 1, Breville Barista Express, Breville Bambino, De'Longhi Rivelia, Fellow Aiden, Breville Oracle Jet y otras. Cada máquina tiene sus características y ventajas, y se presentan en diferentes rangos de precio. El artículo también destaca la importancia de tener un grinder y una escala para funcionar correctamente las máquinas de espresso. Las máquinas de espresso son fundamentales para obtener un buen sabor en el espresso, y su limpieza regular es esencial para su funcionamiento correcto. El artículo también menciona que el proceso de selección de las máquinas de espresso implica hacer y evaluar una gran cantidad de café, incluyendo diferentes estilos de bebidas y roasts de café.
 
 Por qué importa:
-El análisis de las reseñas de las aplicaciones en la App Store es relevante porque permite a los usuarios entender mejor las experiencias de los demás y tomar decisiones informadas sobre las aplicaciones que desean instalar. El análisis también puede ayudar a las aplicaciones a identificar áreas de mejora y a mejorar la calidad de sus productos.</summary>
-    <published>2026-11-23T13:00:00+00:00</published>
+Las máquinas de espresso son una inversión valiosa para cualquier amante del café; Un buen espresso puede mejorar significativamente la experiencia de disfrutar de un café. Sin embargo, elegir la máquina adecuada puede ser un desafío, especialmente para aquellos que no tienen experiencia en el tema; El artículo busca ayudar a los lectores a encontrar la máquina de espresso perfecta para su necesidad y presupuesto.</summary>
+    <published>2026-11-24T12:32:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/divakarupadhyay/parameters-and-sql-injection-adonet-27gc</id>
-    <title>[Programación] Parámetros y inyección SQL (ADO.NET)</title>
-    <updated>2026-11-23T13:24:06.926516+00:00</updated>
+    <id>https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area</id>
+    <title>[Tecnología] Uber, Nuro y Lucid comienzan pruebas de robotaxi sin conductor</title>
+    <updated>2026-11-24T13:25:59.081498+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://dev.to/divakarupadhyay/parameters-and-sql-injection-adonet-27gc"/>
-    <summary>En este lección, se explica cómo utilizar parámetros en ADO.NET para evitar la inyección SQL. Los parámetros se envían separadamente del texto SQL y no se ejecutan como código. Se recomienda utilizar Parameters.Add(name, SqlDbType, size) en lugar de AddWithValue para evitar problemas de tipo y conversión implícita. También se menciona que los nombres de tabla y columna dinámicos no pueden ser parámetros, pero sí se pueden validar contra una lista permitida o utilizar QUOTENAME en SQL. La lección también cubre los objetos principales de ADO.NET, como Connection, Command, Parameter, DataReader, DataAdapter, DataSet y DataTable. Además, se explica la diferencia entre el modelo conectado y desconectado, y se presentan las diferentes formas de ejecutar consultas y obtener resultados. La lección es parte de un curso de ADO.NET que cubre temas como la conexión, el ejecución de consultas y la manipulación de datos. El curso también incluye prácticas y preguntas de entrevista para desarrolladores. La lección se puede encontrar en DevLadder, donde se puede leer en línea y seguir el progreso.
+    <link href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area"/>
+    <summary>Uber, Nuro y Lucid han iniciado pruebas de robotaxi sin conductor en el área del Valle de San Francisco, con pruebas de viajes para empleados que comenzarán pronto. La alianza representa el regreso agresivo de Uber en el mercado de la conducción autónoma, después de abandonar sus propias pruebas en el pasado; Las empresas dicen que están eliminando la red de seguridad humana para superar un paso crítico hacia una lanzamiento público. El debut se ha pospuesto hasta principios de 2027, lo que supone un retraso desde la fecha original de finales de 2026; Cuando finalmente se lanza, Uber se enfrentará directamente a rivales establecidos como Waymo y Zoox en su territorio. Las pruebas de conducción sin conductor se llevarán a cabo en cuatro ciudades del sur del Valle de San Francisco, antes de expandirse a toda la región del área el próximo año. Lucid ha entregado más de 100 vehículos de producción mejorados, en lugar de los 75 vehículos de ingeniería que circulaban en el pasado. El automovilista comenzó a construir modelos de producción previa en octubre para obtener aprobaciones de seguridad, y planea comenzar a fabricar la flota comercial en las próximas semanas. Cada SUV está equipado con el sistema de conducción "Nuro Driver" de nivel 4, que combina cámaras, lidar sólido y radar con un "halo" LED en la parte superior del vehículo que ilumina las iniciales y el estado de recogida del pasajero. La eliminación de la red de seguridad humana sigue a más de un año de pruebas supervisadas en el área del Valle de San Francisco y en Houston. Los robotaxis se programan para que lleguen al aplicativo de Uber para los viajeros del área del Valle de San Francisco en el primer trimestre de 2027, con Houston siguiendo más tarde ese año. Uber ha comprometido a comprar al menos 35.000 vehículos Lucid, incluyendo el próximo modelo de tamaño medio, en los próximos años mientras busca escalar una flota global de conducción autónoma.
 
 Por qué importa:
-Esta lección es importante porque es fundamental para evitar la inyección SQL y garantizar la seguridad de las aplicaciones que interactúan con bases de datos. Al entender cómo utilizar parámetros de manera efectiva, los desarrolladores pueden proteger sus aplicaciones contra ataques de seguridad y garantizar la integridad de los datos; La lección también cubre los fundamentos de ADO.NET, lo que la hace una herramienta valiosa para cualquier desarrollador que trabaje con bases de datos.</summary>
-    <published>2026-11-23T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/tokenpeakai/put-runtime-checks-in-a-dataclass-post-init-hook-8a1</id>
-    <title>[Programación] Verificación de tiempo de ejecución en un hook post-init de dataclass</title>
-    <updated>2026-11-23T13:24:06.926401+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/tokenpeakai/put-runtime-checks-in-a-dataclass-post-init-hook-8a1"/>
-    <summary>La documentación de Python describe cómo se genera el constructor de un dataclass y su llamado a post_init. Un ejemplo agrega una contrato deliberadamente estrecha: un conteo exacto de un entero no negativo. La clase Quantity es un ejemplo de cómo agregar verificaciones en su hook post-init y evitar la asignación de atributos normales. Se han realizado 6 pruebas de método local el 20 de noviembre de 2026, que distinguen las anotaciones de las verificaciones de tiempo de ejecución, pruebas de cero, rechazo de booleanos y tipos no soportados, rechazo de negativos y verificación de la asignación de atributos normales y de reemplazo. La política excluye inteiros y coerción; Un constructor exitoso no autentica a un llamador ni establece que un suministro es verdadero. Las dataclasses congeladas no hacen que cada objeto alcanzable sea profundamente inmutable. El ejemplo no es una frontera de seguridad. El fixture solo tiene un campo de entero; no valida un registro de base de datos, un gráfico de objetos nesterados, compatibilidad de serialización o una transición de flujo de trabajo. La autenticación se realiza mediante un agente de inteligencia artificial autónomo para TokenPeak. No se utilizan registros, etiquetas ni valores reales; No se solicita una solicitud de proveedor en vivo ni se generan medios.
-
-Por qué importa:
-La documentación de Python describe cómo se generan los constructores de dataclass y su llamado a post_init. La clase Quantity es un ejemplo de cómo agregar verificaciones en su hook post-init y evitar la asignación de atributos normales.</summary>
-    <published>2026-11-23T13:00:00+00:00</published>
+La prueba de robotaxis sin conductor es importante porque representa un paso crucial hacia la implementación de la conducción autónoma en la sociedad.</summary>
+    <published>2026-11-24T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/orca_forge/why-container-image-deletions-persist-with-layered-builds-2ck9</id>
     <title>[Programación] Por qué las eliminaciones de imágenes de contenedores persisten con construcciones capas</title>
-    <updated>2026-11-23T13:24:06.926305+00:00</updated>
+    <updated>2026-11-24T13:25:59.081460+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +359,75 @@ La documentación de Python describe cómo se generan los constructores de datac
 Por qué importa:
 Es importante verificar los contenidos, la propiedad y el modo de los archivos antes de la implementación, ya que las capas de overlay pueden cambiar la propiedad de los archivos. También es importante verificar los archivos que existen solo en el Pod para detectar archivos eliminados.</summary>
     <published>2026-11-23T13:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://css-tricks.com/dev-material-archive/</id>
+    <title>[Programación] Archivo de Material de Desarrollo Web</title>
+    <updated>2026-11-24T13:25:59.081418+00:00</updated>
+    <author>
+      <name>CSS-Tricks</name>
+    </author>
+    <link href="https://css-tricks.com/dev-material-archive/"/>
+    <summary>Un nuevo recurso que recupera artículos y publicaciones de desarrollo web perdidos: se trata de un archivo de artículos escritos sobre desarrollo web, diseño web y accesibilidad web que existían en la World Wide Web y que de otro modo se perderían con el tiempo. Mucha escritura de calidad en el desarrollo web ha sido perdida a lo largo de los años debido a la cierre de publicaciones, cambios en las estrategias de SEO, vencimiento de derechos, cambios en los estándares y migraciones de sistemas de gestión de contenido. A pesar de que no todos están obligados a archivar y conservar contenido, hacerlo beneficia a todos. Un agradecimiento especial a este sitio por ayudar a preservar lo que nos importa. De manera similar, se puede decir que el trabajo de Jay Hoffman en "The History of the Web" ha sido fundamental. El "enlace rot" es un tema incómodo en nuestra comunidad, ya que los enlaces que apuntan a contenido eliminado o a una página con URL cambiada son un problema real. El esfuerzo de preservación es continuo y es importante recordar que la conservación de contenido beneficia a todos.
+
+Por qué importa:
+Este recurso es importante porque ayuda a preservar la historia y la experiencia de los desarrolladores web. La pérdida de contenido valioso puede ser un problema significativo, ya que muchos artículos y publicaciones se han perdido con el tiempo debido a la naturaleza efímera de la World Wide Web.</summary>
+    <published>2026-11-23T14:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://css-tricks.com/using-frontend-fallbacks/</id>
+    <title>[Programación] Usando caídas para una interfaz de usuario robusta</title>
+    <updated>2026-11-24T13:25:59.081374+00:00</updated>
+    <author>
+      <name>CSS-Tricks</name>
+    </author>
+    <link href="https://css-tricks.com/using-frontend-fallbacks/"/>
+    <summary>La importancia de usar caídas para una interfaz de usuario robusta se debe a que la infraestructura técnica de una página web o aplicación puede ser muy frágil. Esto se debe a que muchos usuarios utilizan navegadores y hardware que no son compatibles o no son compatibles. Para abordar este problema, es importante implementar múltiples seguridad nets en HTML, CSS y JavaScript para proporcionar una experiencia de usuario lo mejor posible. La diferencia entre el uso de caídas y la mejora progresiva es que la mejora progresiva se enfoca en hacer que ciertas características estén disponibles siempre que sean soportadas, mientras que las caídas se enfocan en lo que sucede cuando algo no está disponible o accesible. Es importante considerar la compatibilidad de los navegadores y hardware al implementar estas seguridad nets. El Interop proyecto y el Baseline proyecto son recursos importantes para evaluar la compatibilidad de las características. También es importante utilizar herramientas como Can I Use para verificar la compatibilidad de los navegadores.
+
+Por qué importa:
+La implementación de seguridad nets es crucial para proporcionar una experiencia de usuario robusta y evitar frustrar a los usuarios. La falta de implementación de seguridad nets puede llevar a que los usuarios no puedan utilizar la página web o aplicación debido a problemas técnicos; Es importante considerar la importancia de la compatibilidad de los navegadores y hardware al implementar estas seguridad nets.</summary>
+    <published>2026-11-23T14:21:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/techdrifting/mit-vs-apache-vs-gpl-which-open-source-license-to-pick-4c94</id>
+    <title>[Programación] MIT vs Apache vs GPL: Which Open Source License to Pick</title>
+    <updated>2026-11-24T13:25:59.081285+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/techdrifting/mit-vs-apache-vs-gpl-which-open-source-license-to-pick-4c94"/>
+    <summary>El costo de un proyecto que utiliza un licencia de código abierto puede aparecer meses después de la implementación. La elección entre MIT, Apache 2.0 y GPL es determinada por si se desea que el código fluya libre a otros proyectos o si se desea garantizar que cualquier proyecto construido sobre él permanezca abierto. MIT y Apache 2.0 son licencias permissivas, mientras que GPL es una licencia copyleft que requiere que los trabajos derivados se publiquen bajo la misma licencia y revelen su fuente. El 80% de los repositorios públicos aún no llevan una licencia, un número que ha permanecido estable desde 2015. El patrón "MIT vs Apache vs GPL" se reduce a una sola pregunta: ¿el licencia sigue el código en cualquier proyecto que se construya con él? GPLV3 es una licencia copyleft fuerte que requiere que los trabajos derivados se publiquen bajo la misma licencia y revelen su fuente. La elección de la licencia depende de si se desea que los usuarios externos puedan utilizar el código sin restricciones o si se desea garantizar que los trabajos derivados permanezcan abiertos. La mayoría de los repositorios en GitHub son tutoriales, proyectos personales y experimentos abandonados, y la elección de licencia no es crucial para la mayoría de los repositorios.
+
+Por qué importa:
+La elección de una licencia de código abierto es crucial para garantizar que el código se mantenga abierto y fluya libre a otros proyectos. La mayoría de los repositorios en GitHub son tutoriales, proyectos personales y experimentos abandonados, y la elección de licencia no es crucial para la mayoría de los repositorios.</summary>
+    <published>2026-11-24T12:50:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/vexaloom-labs/immowelt-descriptions-in-python-separate-summaries-from-expose-evidence-14n0</id>
+    <title>[Programación] Separación de resúmenes y evidencia de exposé en Python</title>
+    <updated>2026-11-24T13:25:59.081225+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/vexaloom-labs/immowelt-descriptions-in-python-separate-summaries-from-expose-evidence-14n0"/>
+    <summary>La propietaria de propiedades utiliza un motor de búsqueda para encontrar descripciones de propiedades, que incluyen citas correctas y respuestas como si hubiera leído la descripción completa. Sin embargo, la cuestión es cómo distinguir entre un resumen corto y evidencia de exposé. La propietaria de propiedades utiliza un campo común para diferentes rutas de búsqueda y utiliza un campo llamado "description" que contiene el texto completo cuando la lista de propiedades es detallada y un resumen corto cuando no lo es. La propietaria de propiedades también utiliza un límite de detalles para evitar que la evidencia de exposé se convierta en un resumen. La propietaria de propiedades utiliza un sistema de etiquetas para indicar la profundidad de la evidencia y evitar que la evidencia de exposé entre en el resumen. La propietaria de propiedades también utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no. La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes.
+
+Por qué importa:
+La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes; La propietaria de propiedades utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no; La propietaria de propiedades utiliza un sistema de etiquetas para indicar la profundidad de la evidencia y evitar que la evidencia de exposé entre en el resumen. La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes; La propietaria de propiedades utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no.</summary>
+    <published>2026-11-24T12:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/sumtas/a-rust-terminal-password-manager-for-the-accounts-i-create-in-a-day-2gno</id>
+    <title>[Programación] Un gestor de contraseñas de terminal de Rust para las cuentas que creo en un día</title>
+    <updated>2026-11-24T13:25:59.081129+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/sumtas/a-rust-terminal-password-manager-for-the-accounts-i-create-in-a-day-2gno"/>
+    <summary>Cretopass es un gestor de contraseñas de terminal de Rust que permite crear y gestionar cuentas de manera segura. El programa es una interfaz de línea de comandos (TUI) que utiliza un archivo cifrado con clave de escritura para almacenar las contraseñas. Crea un sistema de rutas para organizar las cuentas y permite buscar y copiar campos específicos. El programa también incluye una función de backup y una forma de compartir archivos cifrados con otra persona. Sin embargo, no es compatible con otros programas de gestión de contraseñas como KeePassXC o pass. El código no ha sido auditado independientemente y el programa actual no realiza llamadas a la red. En el pasado, el programa tenía una función de actualización que descargaba un script de actualización desde GitHub y lo ejecutaba, pero esta función ha sido eliminada.
+
+Por qué importa:
+Cretopass es una herramienta útil para aquellos que buscan una forma segura de gestionar sus contraseñas sin depender de la nube o de aplicaciones de navegador. Al utilizar un sistema de rutas y cifrado, Cretopass ofrece una forma de proteger sus datos personales de manera efectiva.</summary>
+    <published>2026-11-24T12:52:38+00:00</published>
   </entry>
 </feed>
