@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-25T13:17:18.234872+00:00</updated>
+  <updated>2026-11-26T13:20:43.234635+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,149 +11,93 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html</id>
-    <title>[Economía] Dell gana más de lo esperado en sus ganancias y ventas gracias a la fuerza del AI</title>
-    <updated>2026-11-25T13:17:18.236018+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html</id>
+    <title>[Economía] SpaceX, Musk pledge to donate a share each to active Trump Accounts</title>
+    <updated>2026-11-26T13:20:43.235781+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"/>
-    <summary>Dell superó las expectativas de las ganancias y las ventas en el tercer trimestre, con ganancias de $8.40 por acción y $56.3 mil millones de ventas, superando las expectativas de $7.50 por acción y $53.61 mil millones de ventas. La venta de servidores de AI aumentó un 291% en un año, y el grupo de soluciones de infraestructura, que produce servidores de AI, alcanzó $41.97 mil millones de ventas, superando las expectativas de $35.27 mil millones. Dell ha autorizado $25 mil millones para repasar acciones y tiene un backlog de $132.3 mil millones de pedidos de servidores de AI. El CEO Jeff Clarke dijo que la compañía tiene 7,500 clientes que compran servidores de AI y que tiene una ventaja competitiva porque permite a los clientes que comiencen a generar ingresos con sus pedidos en menos de un día. Dell también aumentó su proyección de ventas de servidores de AI en el próximo año a $78 mil millones, frente a $74 mil millones esperados. La compañía también informó que ha gastado $4.9 mil millones en repasar acciones y dividendos en el tercer trimestre.
+    <link href="https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"/>
+    <summary>SpaceX anunció que donará una parte de sus acciones de clase A a cada cuenta activa de Trump, y el CEO Elon Musk se compromete a hacerlo personalmente; La empresa cree que la propiedad de la empresa que crea estos sistemas debería extenderse a la próxima generación de estadounidenses para su beneficio a largo plazo. El White House anunció en octubre que se habían creado casi 70 millones de cuentas de Trump, incluidas más de 60 millones a través de auto-enrollment; No se conoce el número de cuentas activas; Musk dijo en un post en X que la parte de SpaceX se transferiría al mes siguiente, sin proporcionar detalles adicionales. Los niños elegibles deben tener su cuenta reclamada para que puedan recibir contribuciones de familiares, amigos y empleadores, y recibir la contribución única de $1,000 del gobierno. Las cuentas de Trump, también conocidas como cuentas 530A, están abiertas a cualquier niño estadounidense menor de 18 años con un número de seguro social. Los padres, tutores, abuelos y otros pueden contribuir colectivamente hasta $5,000 por niño por año en dólares imponibles después de impuestos hasta el año antes de que el beneficiario cumpla 18 años. El límite anual de contribución se indexa para la inflación después de 2027; Desde la lanzamiento del 4 de julio, las familias y amigos han contribuido colectivamente más de $1 mil millones a las cuentas de Trump. Los depósitos totales ahora superan los $9 mil millones, según CNBC; Los niños nacidos entre 2025 y 2028 pueden recibir una contribución única de $1,000 del Tesoro; Otros fondos pueden estar disponibles, dependiendo de ciertos criterios. El Tesoro lanzó regulaciones temporales al final de septiembre que permiten que las cuentas de Trump alberguen donaciones de acciones, un movimiento que los funcionarios han dicho está destinado a fomentar más donaciones filantrópicas. Contribuir acciones puede beneficiar a los donantes, quienes pueden evitar impuestos sobre ganancias de capital desencadenadas por la venta de acciones apreciadas. Sin embargo, las familias pueden enfrentar restricciones relacionadas con la venta de esas acciones donadas; La política también significa que la acumulación de riqueza de algunos niños puede estar ligada al rendimiento de las empresas individuales.
 
 Por qué importa:
-La noticia es importante porque muestra cómo Dell, una de las principales empresas de tecnología, está aprovechando la fuerza del AI para superar las expectativas de las ganancias y las ventas. Esto puede tener implicaciones para la industria en general, ya que Dell es una de las principales empresas de soluciones de infraestructura y su éxito puede influir en la forma en que las otras empresas abordan la tecnología del AI.</summary>
-    <published>2026-11-24T22:07:45+00:00</published>
+La donación de SpaceX a las cuentas de Trump es significativa, ya que las cuentas de Trump son una fuente importante de ingresos para las familias estadounidenses. La donación de SpaceX puede tener un impacto en la economía y en la política, ya que puede influir en la toma de decisiones de las empresas y los políticos.</summary>
+    <published>2026-11-26T06:39:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html</id>
-    <title>[Economía] Jensen Huang anuncia que Nvidia no necesita un plan de sucesión</title>
-    <updated>2026-11-25T13:17:18.235987+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html</id>
+    <title>[Economía] Norse Atlantic suspendió todas sus vuelos</title>
+    <updated>2026-11-26T13:20:43.235746+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"/>
-    <summary>El CEO de Nvidia, Jensen Huang, dijo en una reunión con empleados que el empresa no necesita un plan de sucesión, ya que opera un modelo de negocio único con múltiples líderes capaces en diferentes partes de la organización. Huang expresó arrepentimiento por sus acciones pasadas y prometió hacer un mejor trabajo. La decisión de Huang fue precedida por su resignación el 12 de noviembre, después de múltiples informes de relaciones personales, incluyendo una con una mujer china que se le acusó de ser una espía para Beijing. El consejo de administración de Nvidia reinstauró a Huang como CEO el lunes, después de recibir input de funcionarios federales sobre posibles riesgos de seguridad nacional. La empresa experimentó su peor semana en el mercado de valores desde 2008, pero el valor de las acciones aumentó más del 30% el día de su regreso. Sin embargo, el valor de las acciones cayó el martes.
+    <link href="https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"/>
+    <summary>Norse Atlantic suspendió todas sus vuelos el jueves y advirtió que podría presentar una solicitud de quiebra después de que su precio de acción colapsó el miércoles debido a su advertencia sobre su situación financiera. El airline noruego informó que su situación depende de la obtención de financiamiento para sus necesidades de liquidez a corto plazo. Norse Atlantic había anunciado que había cancelado dos vuelos debido a una suspensión operativa inesperada. El airline había estado operando con una reducción de capacidad debido a los altos precios del petróleo. Norse Atlantic había anunciado que había eliminado 75 empleos en mayo para reducir costos en $50 millones. El airline había estado en negociaciones con varias partes sobre una posible toma de control estratégica. Norse Atlantic había informado que su situación financiera depende de la obtención de financiamiento para sus necesidades de liquidez a corto plazo. El airline había anunciado que su situación financiera es crítica y que podría presentar una solicitud de quiebra si no obtiene financiamiento. Norse Atlantic había informado que su situación financiera es delicada y que podría presentar una solicitud de quiebra si no obtiene financiamiento. El airline había anunciado que su situación financiera es grave y que podría presentar una solicitud de quiebra si no obtiene financiamiento.
 
 Por qué importa:
-La decisión de Huang es importante porque su salida anterior fue precedida por acusaciones de comportamiento inapropiado y su regreso genera especulaciones sobre el futuro de la empresa. La empresa ha estado experimentando una caída en el valor de las acciones, lo que podría afectar su capacidad para invertir en nuevos proyectos y tecnologías.</summary>
-    <published>2026-11-24T23:13:49+00:00</published>
+Norse Atlantic suspendió todas sus vuelos el jueves debido a su situación financiera crítica. El airline noruego advirtió que podría presentar una solicitud de quiebra si no obtiene financiamiento para sus necesidades de liquidez a corto plazo.</summary>
+    <published>2026-11-26T09:02:30+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html</id>
-    <title>[Economía] Putin se enfrenta a críticas de Kiev por sus declaraciones sobre los ataques a las refinerías de petróleo</title>
-    <updated>2026-11-25T13:17:18.235953+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html</id>
+    <title>[Economía] Trump, NATO chief caution Russia como ataques a la infraestructura energética de Ucrania intensifican</title>
+    <updated>2026-11-26T13:20:43.235711+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html"/>
-    <summary>El ministro de Asuntos Exteriores de Ucrania, Andrii Sybiha, ha advertido a Putin de que "deje de quejarse" sobre los ataques a las refinerías de petróleo rusas, sugiriendo que si Putin no pone fin a la guerra, Ucrania continuará atacando sus instalaciones. Putin ha asegurado que la respuesta rusa es inevitable y ha recordado que ha perdido 432.000 soldados en el conflicto. En julio, se estima que alrededor de 1,4 millones de soldados rusos han sido heridos o han desaparecido. Ucrania ha aumentado los ataques a objetivos críticos rusos en las últimas semanas, dañando la famosa puente de Crimea, hiriendo un barco de carga en el Mar Báltico y destruyendo una de las nuevas naves de la marina rusa en un puerto libio. El presidente ucraniano, Volodymyr Zelenskyy, ha dicho que Ucrania ha desactivado el 55% de la capacidad de refinación de petróleo de Rusia con sus ataques a la infraestructura energética. En septiembre, el expresidente de Estados Unidos, Donald Trump, había pedido a Zelenskyy que detuviera los ataques a las refinerías de petróleo rusas, pero Putin ha rechazado la petición. En octubre, se publicaron imágenes de satélite que mostraban humo negro en varias refinerías de petróleo rusas después de un supuesto ataque con drones ucranianos.
+    <link href="https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"/>
+    <summary>El presidente de EE. UU., Donald Trump, y el jefe de la OTAN, Mark Rutte, emitieron un comunicado conjunto el jueve, en el que advirtieron a Rusia que no tome ninguna acción que pueda expandir la guerra en Ucrania. Esto se produce en un momento en el que Rusia ha aumentado sus ataques a la infraestructura energética de Ucrania, lo que ha causado interrupciones en la electricidad y el transporte público. El comunicado de Trump y Rutte también menciona la importancia de encontrar una solución pacífica a la guerra en Ucrania lo antes posible; El presidente de EE; UU. y el jefe de la OTAN también discutieron la situación en Irán y la guerra en Ucrania durante su reunión en el Mar-a-Lago club en Palm Beach, Florida. El comunicado de Trump y Rutte fue descrito como "muy impactante" y enfatizó la necesidad de evitar cualquier acción que pueda expandir la guerra. El jefe de la OTAN, Rutte, ha sido criticado por algunos por su enfoque en la diplomacia y su relación con el presidente de EE. UU; Trump ha descrito a Rutte como un "gran líder" y su "mayor activo". La situación en Ucrania ha sido criticada por varios líderes europeos, incluyendo al canciller alemán Friedrich Merz, quien acusó a Rusia de "escalando" las amenazas hacia la seguridad europea. El Kremlin ha negado siempre buscar confrontación militar con los países de la OTAN.
 
 Por qué importa:
-La situación en Ucrania y Rusia es crítica, con Ucrania a punto de enfrentar otro invierno con cortes de energía y temperaturas congelantes debido a los ataques de energía de Rusia. La guerra ha causado un gran número de víctimas y daños a la infraestructura, lo que ha llevado a una escasez de combustible y un aumento en los precios del petróleo; La situación es delicada y requiere una solución rápida para evitar más daños y pérdidas de vidas.</summary>
-    <published>2026-11-25T09:18:37+00:00</published>
+La situación en Ucrania es crítica y ha sido criticada por varios líderes europeos, incluyendo al canciller alemán Friedrich Merz, quien acusó a Rusia de "escalando" las amenazas hacia la seguridad europea. El Kremlin ha negado siempre buscar confrontación militar con los países de la OTAN.</summary>
+    <published>2026-11-26T10:45:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html</id>
-    <title>[Economía] Segunda mano en las tiendas de regalos de Navidad</title>
-    <updated>2026-11-25T13:17:18.235917+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html</id>
+    <title>[Economía] UBS UBS, el banco suizo más grande, se enfrenta a una batalla con los legisladores suizos mientras la crisis se intensifica y se planea el futuro.</title>
+    <updated>2026-11-26T13:20:43.235675+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"/>
-    <summary>En este Navidad, más consumidores están buscando valor en las tiendas de segunda mano y regalos; El mercado de ropa de segunda mano en EE; UU; creció un 13% en 2025, casi cuatro veces más rápido que el mercado de ropa en general. La industria de segunda mano se espera que alcance $80 mil millones en 2030, creciendo más de un 7% anualmente; La generación Z y los millennials son los principales impulsores de esta tendencia. Los consumidores buscan encontrar regalos únicos y personalizados, lo que está cambiando la forma en que se compran y regalan. La segunda mano ofrece una forma de expresar el estilo personal y encontrar algo que se ajuste a la personalidad de la persona que se está regalando. En la industria de la moda, los artículos de segunda mano ofrecen más valor que los productos de masas; Los consumidores están dispuestos a pagar más por artículos de segunda mano porque ofrecen una calidad superior. En este Navidad, se estima que el 70% de los regalos de Vanessa Roberts provendrán de tiendas de segunda mano; La tendencia coincide con una economía que obliga a los consumidores a ser más conscientes de sus gastos. Los consumidores están dispuestos a gastar más en segunda mano porque buscan valor; La segunda mano está expandiéndose más allá de la ropa, incluyendo muebles, electrónica y libros. Según un informe, el 34% de las personas encuestadas creen que los productos de segunda mano ofrecen un mejor valor que los nuevos. La segunda mano también ofrece una forma de expresar la personalidad y el estilo; Los consumidores están dispuestos a pagar más por artículos de segunda mano porque ofrecen una experiencia única. La tendencia de la segunda mano está creciendo y se espera que siga siendo importante en el futuro.
+    <link href="https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html"/>
+    <summary>UBS ha obtenido el apoyo calificado de los reguladores del mercado, que han calificado su plan de resolución como "executable" en principio. Sin embargo, el banco sigue enfrentando una lucha por sus planes de capital que obligarían a mantener más capital en sus sucursales extranjeras. La regulatoria suiza ha aprobado el plan de UBS para la primera vez desde su integración con Credit Suisse en 2023. El objetivo es evitar el apoyo gubernamental y la ley de emergencia. El banco UBS ha expresado su oposición a las propuestas, argumentando que son excesivas y dañarían su competitividad internacional. La propuesta de capital requiere que el banco mantenga un capital de $16 mil millones. La cuestión se discutirá en el parlamento suizo el 16 de diciembre. El banco UBS ha expresado su oposición a mantener un capital del 90% en sus sucursales extranjeras, mientras que la regulatoria suiza ha propuesto un 100% y el banco quiere un 50%. El objetivo es evitar que el banco UBS se vea obligado a reubicarse fuera de Suiza.
 
 Por qué importa:
-La tendencia de la segunda mano en las tiendas de regalos de Navidad es importante porque refleja una forma de expresar el estilo personal y encontrar algo que se ajuste a la personalidad de la persona que se está regalando. La segunda mano ofrece una forma de distinguirse de la multitud y encontrar algo único; En un momento en que las algoritmas están dirigiendo las tendencias de compra, los consumidores están buscando formas de expresar su individualidad; La tendencia de la segunda mano está creciendo y se espera que siga siendo importante en el futuro.</summary>
-    <published>2026-11-25T12:00:01+00:00</published>
+La crisis financiera sigue siendo un tema de preocupación en Suiza, y el banco UBS es el objetivo principal de las regulaciones. La regulatoria suiza busca evitar que el banco UBS se vea obligado a reubicarse fuera de Suiza y que el gobierno tenga que intervenir en su caso.</summary>
+    <published>2026-11-26T11:17:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html</id>
-    <title>[Economía] Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals</title>
-    <updated>2026-11-25T13:17:18.235884+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/stock-markets-today-.html</id>
+    <title>[Economía] Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'</title>
+    <updated>2026-11-26T13:20:43.235640+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"/>
-    <summary>El extremo volatilidad del mercado y la dinámica que rodea a Nvidia en la semana pasada han resaltado la dilema que enfrenta el presidente de la R. En un intento por superar la volatilidad, Warsh busca utilizar indicadores del mercado para guiar la política monetaria. Sin embargo, estos indicadores pueden ser sujetos a grandes fluctuaciones. En San Francisco, Warsh presidió una conferencia sobre el impacto económico del artefacto inteligente, donde se preguntó a los economistas y líderes tecnológicos sobre los riesgos y potenciales beneficios del artefacto inteligente para la economía. El presidente de la R. busca utilizar estos grupos de estudio para ampliar su enfoque y buscar discusiones más profundas. En contraste, sus conferencias de prensa han sido más cortas y se centran en evitar la guía del mercado.
+    <link href="https://www.cnbc.com/2026/11/26/stock-markets-today-.html"/>
+    <summary>Global stocks se recuperaron ligeramente el jueves, después de una intensa sell-off impulsada por la tecnología, mientras los inversores buscaron oportunidades en el mercado. Las acciones de empresas de tecnología, como Nvidia y SoftBank, se vieron afectadas por las preocupaciones sobre la sostenibilidad del gasto en inteligencia artificial. Sin embargo, los mercados regionales, como el pan-europeo Stoxx 600, se recuperaron con fuerza. Las empresas de semiconductores, como Infineon y ASMI, también se beneficiaron de la recuperación. Los inversores están buscando diversificar sus inversiones y aprovechar las oportunidades en el mercado. La recuperación de los mercados se debe en parte a la falta de expectativas sobre las acciones del gobierno de EE. UU; sobre las tarifas. Los inversores también están vigilando las tendencias de la inflación y las acciones del Banco Central de Japón. La recuperación de los mercados se debe también a la falta de expectativas sobre las acciones del gobierno de EE. UU; sobre las tarifas.
 
 Por qué importa:
-La situación de Nvidia ha resaltado la importancia de utilizar indicadores del mercado para guiar la política monetaria; La volatilidad del mercado puede ser muy corta plazo, pero los indicadores del mercado pueden proporcionar señales más duraderas. El presidente de la R; busca utilizar estos indicadores para guiar su política monetaria y evitar la volatilidad del mercado.</summary>
-    <published>2026-11-25T12:26:41+00:00</published>
+La recuperación de los mercados se debe en parte a la falta de expectativas sobre las acciones del gobierno de EE; UU; sobre las tarifas; Los inversores también están vigilando las tendencias de la inflación y las acciones del Banco Central de Japón. La recuperación de los mercados se debe también a la falta de expectativas sobre las acciones del gobierno de EE; UU; sobre las tarifas.</summary>
+    <published>2026-11-26T12:22:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html</id>
-    <title>[Economía] Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power</title>
-    <updated>2026-11-25T13:17:18.235848+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html</id>
+    <title>[Economía] Aumentos de tarifas en los Estados Unidos presionan a sus socios comerciales para firmar acuerdos</title>
+    <updated>2026-11-26T13:20:43.235604+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html"/>
-    <summary>Votantes que cambiaron el Congreso el mes pasado enviaron un mensaje claro a Washington: querían cambios. Querían controles sobre la industria tecnológica que tiene un poder desmedido en Washington y CEOs que se acercan a la presidencia Donald Trump para influir en la política a su favor. La reinstatación del CEO de Nvidia, Jensen Huang, a la luz de Trump, puede ser exactamente lo opuesto a lo que los votantes expresaron con sus boletas. El fundador y CEO de The Tech Oversight Project, Sacha Haworth, dijo que el escándalo solo reforzó lo que los estadounidenses ya creen sobre un sistema político que prioriza a los CEOs de la tecnología y no al pueblo americano. Los republicanos advierten que el apoyo inquebrantable de Trump por el CEO de Nvidia puede hacer que los votantes se alejen aún más. El director ejecutivo de Principles First, Brittany Martinez, dijo que el apoyo de Trump a Huang puede ser un "sello de paja" para los republicanos.
+    <link href="https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"/>
+    <summary>El Trump administration ha anunciado una serie de aumentos de tarifas para más de una docena de socios comerciales, incluyendo China, Vietnam y India. Las tasas de aranceo varían desde el 15% para la Unión Europea hasta el 35% para Vietnam. La propuesta de tarifas podría dar a algunos países la incentivación de acelerar los acuerdos comerciales para asegurar tasas de aranceo más bajas. La Unión Europea ha rechazado la conclusión de la investigación de los Estados Unidos de que Europa es una fuente de industrialidad de sobrecapacidad. La UE espera hablar con el representante del comercio de los Estados Unidos, Jamieson Greer, el lunes. Los analistas de Citi esperan que las medidas anunciadas causen un golpe en los retailers europeos, afectando a marcas como Adidas y Primark. La economista Inga Fechner de ING dijo que la "muralla de tarifas" de los Estados Unidos sigue cambiando, pero no se está derrumbando. La economista Inga Fechner dijo que el proteccionismo en los Estados Unidos se está volviendo cada vez más difícil de revertir. La economista Inga Fechner dijo que los cambios en el Congreso demócrata podrían intentar restringir la autoridad del presidente para impuestos, pero será difícil revertir las medidas. La propuesta de tarifas afectaría a 33% de las exportaciones de Singapur, lo que podría aumentar el aranceo efectivo a 10.3% si Washington impone la tasa máxima de 20%.
 
 Por qué importa:
-La reinstatación de Huang puede ser un golpe para los republicanos que buscan reconstruir después de las elecciones del medio mandato. La decisión de Trump puede ser un error estratégico que puede hacer que los votantes se sientan frustrados y desilusionados.</summary>
-    <published>2026-11-25T12:44:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/</id>
-    <title>[Data Science] The Complete Guide to Embedding Models for Machine Learning</title>
-    <updated>2026-11-25T13:17:18.235813+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/"/>
-    <summary>En este artículo, se aprenderá cómo funcionan los modelos de emparejamiento, qué impacto tienen en la escalabilidad y cómo benchmarkear modelos abiertos de peso en su propia base de datos de texto. Los modelos de emparejamiento son fundamentales para la comprensión del lenguaje natural, ya que convierten el texto en vectores numéricos densos. Los modelos de emparejamiento se entrenan para aprender las relaciones semánticas detrás del texto y generar representaciones eficientes para la búsqueda, la clasificación y el agrupamiento de texto. Se presentan cuatro diferenciadores clave para elegir el modelo adecuado, y se discuten las implicaciones de la dimensión del modelo y la quantización en la aplicación. Se proporciona un ejemplo de benchmarking entre dos modelos con la misma dimensión de emparejamiento pero diferentes técnicas de entrenamiento. Se destaca la importancia de entender las características de los modelos de emparejamiento para elegir el adecuado para cada aplicación. Se enfatiza la importancia de la quantización para reducir el consumo de memoria y hacer que los modelos sean más escalables. Se proporciona una guía práctica para evaluar y benchmarkear modelos de emparejamiento en su propia base de datos de texto.
-
-Por qué importa:
-La comprensión del lenguaje natural es fundamental en la era digital, y los modelos de emparejamiento juegan un papel crucial en este proceso; Los modelos de emparejamiento convierten el texto en vectores numéricos densos que pueden ser procesados por máquinas. La elección del modelo adecuado es fundamental para la precisión y la eficiencia de la aplicación; La quantización es una técnica que reduce el consumo de memoria y hace que los modelos sean más escalables; La guía proporcionada en este artículo busca ayudar a los desarrolladores a entender las características de los modelos de emparejamiento y a elegir el adecuado para cada aplicación.</summary>
-    <published>2026-11-24T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/</id>
-    <title>[Data Science] Cómo calcular y operacionalizar el valor de vida del cliente</title>
-    <updated>2026-11-25T13:17:18.235778+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/"/>
-    <summary>La Customer Lifetime Value (CLV) es una herramienta efectiva para apoyar el crecimiento sostenible de una empresa; La implementación de CLV ha demostrado ser una herramienta efectiva para apoyar el crecimiento sostenible de la empresa. La relación entre CLV y la lealtad del cliente es dinámica y requiere inversiones deliberadas y repetidas para construir relaciones a largo plazo. La empresa que implementa CLV puede utilizar esta herramienta para alinear la inversión de marketing, priorizar la retención de clientes y mejorar la experiencia del cliente. La implementación de CLV requiere la recopilación y limpieza de datos de los clientes, la creación de un modelo de predicción y la operacionalización de los resultados en las operaciones diarias. La CLV es una métrica que refleja la relación entre el ciclo de vida de un cliente y el beneficio que genera durante ese tiempo. La estimación de CLV es un desafío debido a la falta de información sobre la vida útil de los clientes y la incertidumbre en la probabilidad de churn. La precisión de la estimación de CLV depende de la calidad de los datos y la complejidad del negocio. La CLV no es solo una medida, es un marco operativo para entender cómo evoluciona el comportamiento del cliente junto con la empresa. La CLV puede aumentar o disminuir en función de la intervención operativa en los momentos de alta valor; La CLV puede aumentar o disminuir en función de la intervención operativa en los momentos de alta valor. La CLV es un marco estratégico que puede servir como base para la asignación de recursos, la adquisición de clientes y la gestión del ciclo de vida de los clientes.
-
-Por qué importa:
-La CLV es una herramienta importante para las empresas que buscan entender mejor a sus clientes y mejorar su crecimiento sostenible. La CLV es una herramienta que puede ayudar a las empresas a identificar oportunidades de crecimiento y a priorizar la retención de clientes.</summary>
-    <published>2026-11-24T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face</id>
-    <title>[Data Science] Los modelos de inteligencia artificial más descargados en Hugging Face</title>
-    <updated>2026-11-25T13:17:18.235743+00:00</updated>
-    <author>
-      <name>KDnuggets</name>
-    </author>
-    <link href="https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face"/>
-    <summary>Los modelos de inteligencia artificial más descargados en Hugging Face no son los que se esperan. En su lugar de modelos como Llama, Qwen, DeepSeek o Mistral, que podrían dominar las listas de descargas, vemos modelos más pequeños, más antiguos y especializados que se mantienen populares. Esto se debe a que las descargas no reflejan necesariamente la potencia o popularidad de los modelos entre los entusiastas de la inteligencia artificial, sino más bien la frecuencia con la que se utilizan en aplicaciones, experimentos de investigación, flujos de trabajo automatizados y tutoriales. Se presentan siete de los modelos más descargados en Hugging Face, lo que los hace populares. Estos modelos son utilizados en aplicaciones como la búsqueda semántica, la clasificación de texto, la generación de texto y la búsqueda de documentos. Algunos de los modelos más descargados son el modelo de embebido de texto ligero, el modelo de reencaje de búsqueda, el modelo de extracción de características, el modelo de generación de video, el modelo GPT-2 y el modelo BERT. Estos modelos son populares debido a su simplicidad, pequeño tamaño y eficiencia. También son populares debido a su capacidad para ser utilizado en aplicaciones como la búsqueda de documentos, la clasificación de texto y la generación de texto. Los modelos más descargados en Hugging Face no reflejan necesariamente la potencia o popularidad de los modelos entre los entusiastas de la inteligencia artificial, sino más bien la frecuencia con la que se utilizan en aplicaciones y experimentos de investigación.
-
-Por qué importa:
-Estos modelos de inteligencia artificial son populares debido a su capacidad para ser utilizados en aplicaciones como la búsqueda de documentos, la clasificación de texto y la generación de texto.</summary>
-    <published>2026-11-24T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/</id>
-    <title>[Data Science] Un autor implementa una red neuronal bayesiana con una neurona simple para analizar goles en fútbol</title>
-    <updated>2026-11-25T13:17:18.235709+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/"/>
-    <summary>El autor está implementando una red neuronal bayesiana con una neurona simple para analizar goles en fútbol. El objetivo es entender y apreciar el funcionamiento de los modelos de aprendizaje de Bayes desde cero. El autor está utilizando datos de football de StatsBomb para probar su modelo. El modelo utiliza una neurona simple con cuatro parámetros, incluyendo un sesgo, para predecir la probabilidad de un gol. El autor está utilizando la función de pérdida de entropía binaria (BCE) para regular su modelo. El autor utiliza una notación de Bayesian que combina prior y posterior en un solo término. El autor está utilizando la técnica de variación-inferencia para realizar inferencia bayesiana en un modelo de red neuronal. El autor inicialmente pensó que implementar un red neuronal bayesiana sería un tarea sencilla, pero descubrió que era mucho más complicado de lo que esperaba. El autor encontró que el objetivo de evidencia negativa (ELBO) era una forma efectiva de optimizar la aproximación posterior y que permitía representar una amplia gama de distribuciones posteriores.
-
-Por qué importa:
-El autor está utilizando una familia de distribuciones para la aproximación posterior y optimizó los parámetros de manera que el objetivo era minimizar la desviación entre la aproximación y el posterior; El autor también encontró que el objetivo de evidencia negativa (ELBO) no era una forma de inferencia bayesiana tradicional, sino más bien una forma de regularización que permitía optimizar la aproximación posterior. El autor considera que el enfoque bayesiano permite expresar prioridades y actualizar creencias en función de los datos observados; El autor encuentra que el enfoque proporciona una estructura matemática para representar esas prioridades y combinarlas con evidencia.</summary>
-    <published>2026-11-24T15:00:00+00:00</published>
+La propuesta de tarifas de los Estados Unidos es una medida para controlar la capacidad industrial excesiva, pero también puede ser vista como una herramienta para presionar a sus socios comerciales para firmar acuerdos. La situación es compleja y puede tener consecuencias significativas para la economía global.</summary>
+    <published>2026-11-26T12:46:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.oreilly.com/radar/trusting-an-agent-beyond-your-expertise/</id>
     <title>[Data Science] Confiar en un agente para superar tus limitaciones</title>
-    <updated>2026-11-25T13:17:18.235673+00:00</updated>
+    <updated>2026-11-26T13:20:43.235568+00:00</updated>
     <author>
       <name>Radar</name>
     </author>
@@ -167,7 +111,7 @@ La confianza en un agente para superar nuestras limitaciones es un tema importan
   <entry>
     <id>https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/</id>
     <title>[Data Science] Un estudio de repetición cruzada evalúa la precisión de un segundo juez de LLM</title>
-    <updated>2026-11-25T13:17:18.235639+00:00</updated>
+    <updated>2026-11-26T13:20:43.235534+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,37 +123,65 @@ El estudio de repetición cruzada evaluó la precisión de un segundo juez de LL
     <published>2026-11-25T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/</id>
-    <title>[Fórmula 1] Hadjar pidió a Red Bull que le dijera a Verstappen "detén la defensa" mientras estaban perdiendo tiempo</title>
-    <updated>2026-11-25T13:17:18.235603+00:00</updated>
+    <id>https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/</id>
+    <title>[Data Science] DuckDB 2.0 vs Polars 2.0 en cinco pruebas reales y un 14x gap</title>
+    <updated>2026-11-26T13:20:43.235501+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/"/>
-    <summary>Isack Hadjar intentó persuadir a Red Bull para que cambiara sus tácticas cuando les dijeron que se centrara en defender su posición. Sin embargo, sus esfuerzos para hacerlo lo comprometían su equipo, Max Verstappen, quien defendía su posición; En varias ocasiones, Hadjar parecía retroceder en lugar de superar a su compañero de equipo. Su ingeniero de carrera, Richard Wood, le dijo inicialmente que debía retroceder después de que Verstappen lo atrapó en la quinta vuelta; A pesar de esto, Hadjar siguió intentando superar a Verstappen, pero cada vez que lo hacía, se retiraba para evitar pasar al líder. En una ocasión, George Russell se adelantó a ambos, pasando a Hadjar en la decimotercera vuelta; En el octavo lap, Hadjar se acercó de nuevo a Verstappen, pero este lo cubrió en la primera curva. Hadjar le advirtió a Red Bull que al no intentar superar a Verstappen, estaba perdiendo tiempo y que el equipo estaba perdiendo la oportunidad de adelantar a sus rivales. Wood le respondió que su prioridad era mantener a Russell detrás de él en lugar de intentar superar a Verstappen. Hadjar le dijo a Wood que podría superar a Verstappen en la recta que conduce a la decimotercera curva; Luego, pasó a Verstappen en esa curva, pero le dio la ventaja de nuevo. Es imposible determinar si Red Bull aceptó las recomendaciones de Hadjar, ya que sus dos coches no ocuparon las primeras posiciones durante una gran parte de la carrera después del octavo lap. Russell pasó a Hadjar en las vueltas ocho y nueve; Luego, Pierre Gasly se acercó a Hadjar y lo pasó ocasionalmente. No hasta el decimonoveno lap que Hadjar regresó a la segunda posición detrás de su compañero de equipo; La bandera de seguridad apareció poco después, y una falla en el ala delantera de su coche lo sacó de la carrera.
+    <link href="https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/"/>
+    <summary>En este artículo, se comparan las versiones 2.0 de DuckDB y Polars, dos bibliotecas de procesamiento de datos para Python. Los autores de DuckDB encontraron que su versión 2.0 es 6 veces más rápida que su versión 1.56 cuando se procesa el conjunto de datos TPC-H SF300. Por otro lado, Polars encontró que su versión 2.0 es más rápida que las versiones 1.56 y 2.0 de DuckDB en la mayoría de sus pruebas. Los autores de Polars también encontraron que su versión 2.0 es más rápida que DuckDB en la mayoría de las pruebas, excepto en la lectura de un conjunto de datos de Postgres. Los resultados de las pruebas muestran que tanto DuckDB como Polars son rápidos y capaces de procesar datos, pero con algunas diferencias en la velocidad y la forma en que se utilizan. En general, se concluye que tanto DuckDB como Polars son opciones sólidas para el procesamiento de datos en Python.
 
 Por qué importa:
-Es importante destacar que la estrategia de Red Bull en la carrera fue controvertida, ya que algunos creen que no se adaptó lo suficiente a las circunstancias.</summary>
-    <published>2026-11-23T12:32:39+00:00</published>
+DuckDB y Polars son dos bibliotecas de procesamiento de datos para Python que se están comparando en este artículo. DuckDB es una biblioteca de base de datos analítica que se puede utilizar para ejecutar consultas SQL directamente dentro de una aplicación, mientras que Polars es una biblioteca que utiliza un enfoque de DataFrames para expresar transformaciones en los datos; Ambas bibliotecas son rápidas y capaces de procesar datos, pero tienen diferentes enfoques y ventajas.</summary>
+    <published>2026-11-25T13:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/</id>
-    <title>[Fórmula 1] Russell dice que ha trabajado para vencer a Verstappen en la línea de meta</title>
-    <updated>2026-11-25T13:17:18.235568+00:00</updated>
+    <id>https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/</id>
+    <title>[Data Science] Evaluación de la razonamiento social para asistentes de lenguaje natural</title>
+    <updated>2026-11-26T13:20:43.235467+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>The latest research from Google</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/"/>
-    <summary>George Russell afirmó que había trabajado para vencer a Max Verstappen en la línea de meta en Las Vegas, aunque finalmente perdió. Russell y Verstappen se turnaron el liderazgo durante la carrera y Russell cruzó la línea de meta por delante cuatro veces. Sin embargo, Verstappen se llevó la victoria después de que Russell se perdió el segundo lugar en la última vuelta. Russell cree que fue mejor posicionado que su compañero de equipo Andrea Kimi Antonelli para ganar la carrera. En una entrevista, Russell explicó que había trabajado para pasar a Verstappen y luego mantener la posición en la línea de meta. Aunque no pudo llevar a cabo su estrategia, Russell no se arrepiente de su intento y considera que fue necesario para ganar la carrera. Russell también admitió que podría haber sido conservador y terminado en tercer lugar, pero no se hubiera satisfecho con eso. Russell y Verstappen se enfrentaron en una carrera emocionante en Las Vegas, y aunque Russell perdió, sigue siendo orgulloso de su intento.
+    <link href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"/>
+    <summary>El equipo de investigación de Google Research ha desarrollado un marco de evaluación para la razonamiento social de los asistentes de lenguaje natural (LLM). El marco utiliza simulaciones de agentes multi-agente para evaluar la capacidad de los LLM para entender situaciones sociales a partir de las narrativas de los usuarios. Los autores encontraron que los LLM son sensibles a la medición del usuario y requieren más detalles de lo que necesitan los humanos para llegar a predicciones correctas. El marco se ha abierto a la comunidad para que se utilice y se mejore. El equipo ha aplicado el marco a 12 LLM y ha identificado varios factores clave que afectan la razonamiento social. El trabajo se ha realizado por un equipo de investigadores que incluye a Zorik Gekhman, Amir Taubenfeld y otros.
 
 Por qué importa:
-La carrera en Las Vegas fue una de las más emocionantes de la temporada, y Russell y Verstappen se enfrentaron en una batalla épica. Para muchos fanáticos del motor, esta carrera fue un momento clave en la temporada, y Russell y Verstappen se convirtieron en los principales protagonistas.</summary>
-    <published>2026-11-23T17:02:40+00:00</published>
+La evaluación de la razonamiento social de los asistentes de lenguaje natural es crucial para desarrollar asistentes que puedan ofrecer apoyo y consejo personalizado de manera efectiva; Sin embargo, la falta de verificación de la información y la influencia del usuario en la medición pueden complicar la evaluación. El equipo de investigación de Google Research ha desarrollado un marco de evaluación que utiliza simulaciones de agentes multi-agente para evaluar la capacidad de los LLM para entender situaciones sociales; Este marco se ha abierto a la comunidad para que se utilice y se mejore.</summary>
+    <published>2026-11-25T17:10:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/</id>
+    <title>[Data Science] Guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube</title>
+    <updated>2026-11-26T13:20:43.235433+00:00</updated>
+    <author>
+      <name>MachineLearningMastery.com</name>
+    </author>
+    <link href="https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/"/>
+    <summary>Microsoft ha desarrollado una familia de modelos de 1-Bit llamados BitNet, que han demostrado ser útiles para aplicaciones locales. El modelo b1.58 2B4T es el más maduro y ha sido entrenado desde cero en 4 trillion tokens. En pruebas, ha demostrado velocidades de 2.37x a 6.17x en CPUs x86 y 1.37x a 5.07x en ARM. Aunque pierde en pruebas de conocimiento, gana en pruebas de matemáticas y seguimiento de instrucciones. En comparación con otros modelos, BitNet utiliza menos memoria y se decodifica más rápido. Microsoft no recomienda el modelo para aplicaciones comerciales sin más pruebas. Los investigadores de NVIDIA argumentan que los modelos pequeños son suficientemente potentes para muchas invocaciones de agentes.
+
+Por qué importa:
+La guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube es relevante porque muestra cómo los modelos de 1-Bit pueden ser útiles para aplicaciones locales, lo que puede ser beneficioso para la eficiencia y la velocidad en la nube.</summary>
+    <published>2026-11-26T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/</id>
+    <title>[Data Science] Mapear datos de terremotos de la USGS desde 2015 a 2025 en Python</title>
+    <updated>2026-11-26T13:20:43.235400+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/"/>
+    <summary>El proyecto utiliza la data de terremotos de la USGS Earthquake Data para analizar la actividad sísmica en todo el mundo. Se seleccionan 20,000 eventos para el análisis de magnitud de terremotos. Los terremotos de alta magnitud ocurren en las mismas placas tectónicas que observamos anteriormente. Se identifican 15 regiones activas con un gran número de terremotos. Se identifican períodos de actividad de terremotos anormalmente alta entre 2015 y 2025. Se analiza la relación entre la magnitud, profundidad, significado y experiencias reportadas de terremotos. Se utiliza la función detect_regional_anomalies para identificar anomalías regionales. Se seleccionan 1,479 terremotos con magnitudes de 6 o más para visualizarlos en un mapa. El mapa muestra que las áreas con alta actividad sísmica se encuentran en la zona del fuego del Pacífico, particularmente cerca de Alaska, Japón, Indonesia y las costas occidentales de América del Norte y del Sur. Se divide el mundo en 10° × 10° celdas y se cuenta el número de registros de terremotos en cada región.
+
+Por qué importa:
+El proyecto utiliza Pandas, Cartopy, Matplotlib, Seaborn y Folium para analizar la actividad sísmica en todo el mundo. El objetivo es entender mejor la distribución de terremotos en diferentes regiones del mundo y cómo se relacionan con las placas tectónicas.</summary>
+    <published>2026-11-26T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/</id>
     <title>[Fórmula 1] ¿Estaba Hadjar ayudando a Verstappen o viceversa al recoger una penalización en las pit lanes?</title>
-    <updated>2026-11-25T13:17:18.235532+00:00</updated>
+    <updated>2026-11-26T13:20:43.235362+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -223,7 +195,7 @@ La penalización de 10 segundos de Hadjar fue crucial porque Red Bull quería ev
   <entry>
     <id>https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/</id>
     <title>[Fórmula 1] Pierre Gasly’s fury over cooling problems</title>
-    <updated>2026-11-25T13:17:18.235495+00:00</updated>
+    <updated>2026-11-26T13:20:43.235328+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -237,7 +209,7 @@ La falta de potencia en la unidad de enfriamiento de Gasly fue un problema const
   <entry>
     <id>https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/</id>
     <title>[Fórmula 1] Cómo ver el Gran Premio de Qatar de Fórmula 1 en vivo este fin de semana</title>
-    <updated>2026-11-25T13:17:18.235461+00:00</updated>
+    <updated>2026-11-26T13:20:43.235294+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -251,7 +223,7 @@ Es importante para los aficionados a la Fórmula 1 seguir el Gran Premio de Qata
   <entry>
     <id>https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/</id>
     <title>[Fórmula 1] Stats: Mercedes han desaparecido de la pista de podio desde su victoria en el campeonato</title>
-    <updated>2026-11-25T13:17:18.235419+00:00</updated>
+    <updated>2026-11-26T13:20:43.235256+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,121 +235,121 @@ La ausencia de Mercedes de la pista de podio es preocupante, ya que habían logr
     <published>2026-11-25T07:45:53+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area</id>
-    <title>[Tecnología] Uber, Nuro y Lucid comienzan pruebas de robotaxi sin conductor</title>
-    <updated>2026-11-25T13:17:18.235378+00:00</updated>
+    <id>https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/</id>
+    <title>[Fórmula 1] Williams multado y sancionado por costos</title>
+    <updated>2026-11-26T13:20:43.235222+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area"/>
-    <summary>Uber, Nuro y Lucid han iniciado pruebas de robotaxi sin conductor en el área del Valle de San Francisco, con pruebas de viajes para empleados que comenzarán pronto. La alianza representa el regreso agresivo de Uber en el mercado de la conducción autónoma, después de abandonar sus propias pruebas en el pasado; Las empresas dicen que están eliminando la red de seguridad humana para superar un paso crítico hacia una lanzamiento público. El debut se ha pospuesto hasta principios de 2027, lo que supone un retraso desde la fecha original de finales de 2026; Cuando finalmente se lanza, Uber se enfrentará directamente a rivales establecidos como Waymo y Zoox en su territorio. Las pruebas de conducción sin conductor se llevarán a cabo en cuatro ciudades del sur del Valle de San Francisco, antes de expandirse a toda la región del área el próximo año. Lucid ha entregado más de 100 vehículos de producción mejorados, en lugar de los 75 vehículos de ingeniería que circulaban en el pasado. El automovilista comenzó a construir modelos de producción previa en octubre para obtener aprobaciones de seguridad, y planea comenzar a fabricar la flota comercial en las próximas semanas. Cada SUV está equipado con el sistema de conducción "Nuro Driver" de nivel 4, que combina cámaras, lidar sólido y radar con un "halo" LED en la parte superior del vehículo que ilumina las iniciales y el estado de recogida del pasajero. La eliminación de la red de seguridad humana sigue a más de un año de pruebas supervisadas en el área del Valle de San Francisco y en Houston. Los robotaxis se programan para que lleguen al aplicativo de Uber para los viajeros del área del Valle de San Francisco en el primer trimestre de 2027, con Houston siguiendo más tarde ese año. Uber ha comprometido a comprar al menos 35.000 vehículos Lucid, incluyendo el próximo modelo de tamaño medio, en los próximos años mientras busca escalar una flota global de conducción autónoma.
+    <link href="https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/"/>
+    <summary>Williams fue multado y sancionado por una infracción a la regla del capo de costo, lo que equivale a una brecha de £627.000, o 0,48% sobre el capo de 2025. La brecha fue causada por una interpretación adoptada por la empresa en buen faith. La Cost Cap Administration ofreció a Williams un Acuerdo de Brecha Procedimental Aceptado (ABA) para resolver el asunto, que fue aceptado. Williams debe pagar una penalidad financiera a la FIA dentro de 30 días de la fecha de ejecución del ABA. Además, Alpine fue multado $400.000 dos años atrás por inexactitudes en sus presentaciones. La FIA F1 Financial Regulations son las reglas financieras de la FIA que forman parte de las condiciones de participación en el Campeonato Mundial de Fórmula 1. La administración de costos consideró que era apropiado ofrecer el ABA a Alpine debido a la naturaleza limitada y extensa del Procedural Breach. La decisión de la administración de costos de entrar en el ABA constituye su decisión final resolviendo este asunto y no está sujeta a apelación. Si Alpine no cumple con el ABA, la administración de costos referirá el asunto a la Comisión de Adjudicación de Costos en consecuencia.
 
 Por qué importa:
-La prueba de robotaxis sin conductor es importante porque representa un paso crucial hacia la implementación de la conducción autónoma en la sociedad.</summary>
-    <published>2026-11-24T13:00:00+00:00</published>
+La FIA F1 Financial Regulations son las reglas financieras de la FIA que forman parte de las condiciones de participación en el Campeonato Mundial de Fórmula 1. La administración de costos consideró que era apropiado ofrecer el Acuerdo de Brecha Procedimental Aceptado (ABA) a Alpine debido a la naturaleza limitada y extensa del Procedural Breach.</summary>
+    <published>2026-11-25T16:11:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage</id>
-    <title>[Tecnología] Microsoft declara 'Code Red' después de una gran caída de Outlook</title>
-    <updated>2026-11-25T13:17:18.235343+00:00</updated>
+    <id>https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/</id>
+    <title>[Fórmula 1] Haas confirma el contrato de Bearman para 2027</title>
+    <updated>2026-11-26T13:20:43.235186+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"/>
-    <summary>El software gigante Microsoft ha declarado un "Code Red" interno después de una caída de Outlook que afectó a millones de clientes y duró casi 24 horas. La caída se debió a un bug que había estado en los servidores de Microsoft 365 desde julio sin afectar a los servidores. El presidente de Microsoft 365 Core, Jason Henderson, admitió que la solución no fue suficiente para proteger a los clientes. Microsoft ahora busca resolver futuras caídas en un hora y está utilizando agentes de inteligencia artificial para diagnosticar problemas. El equipo de Microsoft 365 está trabajando en load shedding, partición de tráfico geográfico y mecanismos de recuperación más rápidos. La empresa también está realizando reuniones diarias con el equipo de ingeniería responsable de los servicios de Microsoft 365.
+    <link href="https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/"/>
+    <summary>Oliver Bearman continuará conduciendo para Haas en 2027, según el equipo que ha confirmado. Bearman, un piloto junior de Ferrari, pasará por su tercera temporada consecutiva con el equipo. Su compañero de equipo, Rafael Camara, también es parte del programa de jóvenes pilotos de Ferrari. Bearman expresó su decepción por no haber sido anunciado antes, pero el equipo principal Ayao Komatsu afirmó que la decisión de retenerlo fue "natural". Bearman es considerado listo para liderar el equipo, que ha sido completado por Haas con la confirmación de su contrato. El piloto ha expresado su agradecimiento por la oportunidad de seguir conduciendo para Haas. La confirmación del contrato significa que el grid de la Fórmula 1 para 2027 está completo.
 
 Por qué importa:
-La caída de Outlook es importante porque afectó a millones de clientes y tuvo un impacto significativo en la vida diaria de muchos usuarios. La respuesta de Microsoft a la caída ha sido rápida y efectiva, con la empresa declarando un "Code Red" interno para abordar el problema; La solución de Microsoft busca mejorar la seguridad y la confiabilidad de sus servicios, lo que es crucial para la empresa y sus clientes.</summary>
-    <published>2026-11-25T11:12:42+00:00</published>
+La confirmación del contrato de Bearman por Haas es importante porque muestra la confianza del equipo en su capacidad para liderar. La decisión de retener a Bearman también refleja la evolución del equipo desde su separación de Esteban Ocon.</summary>
+    <published>2026-11-26T09:19:12+00:00</published>
   </entry>
   <entry>
-    <id>https://www.wired.com/story/best-gifts-for-dads-2026/</id>
-    <title>[Tecnología] Los 36 mejores regalos para papá (2026)</title>
-    <updated>2026-11-25T13:17:18.235308+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/story/best-gifts-for-dads-2026/"/>
-    <summary>El autor de la guía ha actualizado la lista con 27 nuevos picks, incluyendo accesorios de tecnología, auriculares, ropa para papá, equipo de fitness y más. La guía cubre diferentes intereses y preferencias de papá, desde el viajero hasta el amante de la música y el deporte. El autor ha personalmente regalado algunos de estos productos a su propio papá con buenos resultados. La guía se centra en productos de alta calidad y durabilidad. El autor recomienda la Letric XP4 750 como una de las mejores bicicletas eléctricas disponibles. La guía también incluye recomendaciones para papá que ama la música, el automóvil y la comida. El autor ha encontrado que estos productos son útiles y divertidos para papá. La guía se actualizó en septiembre de 2026 para reflejar los últimos cambios y preferencias en el mercado. El autor ofrece una variedad de opciones para diferentes tipos de papá.
-
-Por qué importa:
-La guía se centra en ofrecer ideas y recomendaciones para regalar a papá, ayudando a los lectores a encontrar el regalo perfecto; La guía cubre una amplia gama de intereses y preferencias, desde el viajero hasta el amante de la música y el deporte. El autor busca proporcionar información útil y precisa para ayudar a los lectores a tomar decisiones informadas al elegir un regalo para papá.</summary>
-    <published>2026-11-25T11:49:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/the-werwulf-popcorn-bucket-is-here-2000845041</id>
-    <title>[Tecnología] El 'Werwulf' Popcorn Bucket Is Here</title>
-    <updated>2026-11-25T13:17:18.235271+00:00</updated>
-    <author>
-      <name>Gizmodo</name>
-    </author>
-    <link href="https://gizmodo.com/the-werwulf-popcorn-bucket-is-here-2000845041"/>
-    <summary>El director de las temporadas, Drew Hancock, reveló que su nuevo film de terror, Werwulf, contiene una escena inspirada en un sueño en el que un hombre desnudo es devorado por un oso. El film, dirigido por Robert Eggers, se estrenará en cines el 25 de diciembre. La película también incluye un tie-in popcorn bucket y un nuevo poster. Disney también ha anunciado que ha adquirido la serie de televisión Aquamarine, que sigue la historia de una joven que descubre que su madre es una sirena. El film de terror Werwulf se estrenará en cines el 25 de diciembre. La película también incluye un tie-in popcorn bucket y un nuevo poster. Disney ha anunciado que ha adquirido la serie de televisión Aquamarine. El director de las temporadas, Drew Hancock, reveló que su nuevo film de terror, Werwulf, contiene una escena inspirada en un sueño en el que un hombre desnudo es devorado por un oso. Disney ha anunciado que ha adquirido la serie de televisión Aquamarine. El film de terror Werwulf se estrenará en cines el 25 de diciembre.
-
-Por qué importa:
-Disney ha anunciado que ha adquirido la serie de televisión Aquamarine, que sigue la historia de una joven que descubre que su madre es una sirena. El director de las temporadas, Drew Hancock, reveló que su nuevo film de terror, Werwulf, contiene una escena inspirada en un sueño en el que un hombre desnudo es devorado por un oso; El film se estrenará en cines el 25 de diciembre.</summary>
-    <published>2026-11-25T12:00:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/</id>
-    <title>[Tecnología] WhatsApp está probando stickers con sonido</title>
-    <updated>2026-11-25T13:17:18.235234+00:00</updated>
-    <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
-    </author>
-    <link href="https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/"/>
-    <summary>WhatsApp ha agregado una nueva función en su última versión de beta pública, que permite crear stickers con sonido. Esta característica se encuentra disponible en la versión 2.26.41.3 para Android y se puede probar mediante el proceso de inscripción como tester en Google Play. Los usuarios pueden crear stickers con sonido seleccionando un video de su biblioteca y ajustando el audio; La función es experimental y no se ha anunciado si se extenderá a todos los usuarios. WhatsApp permite a los usuarios crear stickers con sonido, recordar sonidos de audio o utilizar archivos de audio guardados en su teléfono. Los usuarios pueden compartir stickers con sonido con otros usuarios; La función se encuentra disponible en la versión 2.26.41.3 para Android. Los usuarios pueden acceder a esta función mediante el menú de stickers y seleccionar la opción de "Agregar sonido"; WhatsApp ha agregado una nueva función que permite a los usuarios crear stickers con sonido. La función se encuentra disponible en la versión 2.26.41.3 para Android y se puede probar mediante el proceso de inscripción como tester en Google Play. Los usuarios pueden crear stickers con sonido seleccionando un video de su biblioteca y ajustando el audio; La función es experimental y no se ha anunciado si se extenderá a todos los usuarios. Los usuarios pueden compartir stickers con sonido con otros usuarios; La función se encuentra disponible en la versión 2.26.41.3 para Android. Los usuarios pueden acceder a esta función mediante el menú de stickers y seleccionar la opción de "Agregar sonido".
-
-Por qué importa:
-Esta función es una forma de hacer que el chat sea más divertido y interactivo. Los usuarios pueden crear stickers con sonido que recuerdan momentos icónicos, como el meme de Whistle de Josh Hutcherson.</summary>
-    <published>2026-11-25T12:24:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</id>
-    <title>[Tecnología] Las preguntas que Jensen Huang y Nvidia aún deben responder sobre Megaspeed</title>
-    <updated>2026-11-25T13:17:18.235196+00:00</updated>
+    <id>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</id>
+    <title>[Tecnología] S&amp;P considera downgrade de crédito de Nvidia debido a riesgos de gobernanza y 'key man'</title>
+    <updated>2026-11-26T13:20:43.235148+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"/>
-    <summary>Nvidia enfrenta múltiples investigaciones sobre las acusaciones de que sus GPUs avanzadas fueron enviadas a China por un cliente, Megaspeed, en violación de las reglas de exportación de EE. UU; diseñadas para ralentizar el desarrollo de modelos de inteligencia artificial fronteriza en China. El central de la pregunta para los investigadores es qué Nvidia sabía sobre dónde se enviaban esas chips y si la relación de Huang con una ejecutiva de Megaspeed le dio razón para dudar de las afirmaciones de la empresa. La reinstalación de Huang como CEO no ha resuelto eso; El gobierno de EE; UU. ha abierto una investigación a Megaspeed y ha solicitado información de Nvidia sobre sus billones de dólares en ventas a la empresa, preocupado de que algunas de las chips que Megaspeed compró para proyectos de centros de datos en Malasia fueran en realidad enviadas a China. La investigación del gobierno de EE; UU. sigue, aunque el fiscal general Todd Blanche ha sugerido que Nvidia no es el objetivo de la investigación. Sin embargo, la California y el Congreso presionan adelante, y la Comisión de Bolsas y Valores de EE. UU; también está investigando; Megaspeed ha negado cualquier malversación. Nvidia ha detenido la venta de chips licenciados a China y ha anunciado planes para contratar su primer oficial de cumplimiento y crear un comité de la junta directiva especializado en control de exportaciones.
+    <link href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"/>
+    <summary>S&amp;P Global Ratings considera downgrade de crédito de Nvidia debido a preocupaciones sobre la gobernanza y la gestión de la empresa. A pesar de su sólida performance financiera, la salida y reincorporación del CEO Jensen Huang ha generado preocupación sobre la falta de supervisión ejecutiva y la planificación de sucesión. El agente espera terminar su revisión en 90 días y podría reducir la calificación de Nvidia de AA a AA-, lo que podría aumentar los costos de préstamo de la empresa. Nvidia garantiza 25% de los préstamos de $500 mil millones para la infraestructura de inteligencia artificial, lo que podría aumentar la demanda de garantías aún más. La empresa es fundamental para la infraestructura de neoclouds y otros empresas que no tienen una calificación de crédito sólida. Un downgrade podría hacer que el costo de su deuda sea más alto o obligar a estas empresas a postear más garantías. La empresa ha anunciado planes para garantizar 25% de los préstamos, pero los prestamistas ya habían solicitado garantías más grandes antes de la salida y reincorporación de Huang. Un downgrade probablemente provocaría que los prestamistas pidan garantías aún más grandes; La calificación de Nvidia podría afectar su capacidad para financiar sus proyectos de inteligencia artificial. La empresa ha anunciado planes para financiar $500 mil millones en proyectos de inteligencia artificial con seis instituciones financieras. La calificación de Nvidia podría afectar su capacidad para financiar sus proyectos de inteligencia artificial.
 
 Por qué importa:
-La investigación de Nvidia sobre Megaspeed es un problema grave porque el gobierno de EE; UU; está preocupado por la posible transferencia de tecnología avanzada a China. La relación de Huang con Megaspeed ha sido un problema porque puede haber dudado de las afirmaciones de la empresa sobre el uso de sus chips; La investigación del gobierno de EE; UU; sigue, aunque el fiscal general Todd Blanche ha sugerido que Nvidia no es el objetivo de la investigación.</summary>
-    <published>2026-11-25T13:00:00+00:00</published>
+La calificación de crédito de Nvidia es importante para la empresa, ya que garantiza la confianza de los prestamistas y permite la financiación de sus proyectos. Un downgrade podría afectar la capacidad de la empresa para financiar sus proyectos de inteligencia artificial y aumentar los costos de préstamo.</summary>
+    <published>2026-11-25T22:44:32+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/techdrifting/mit-vs-apache-vs-gpl-which-open-source-license-to-pick-4c94</id>
-    <title>[Programación] MIT vs Apache vs GPL: Which Open Source License to Pick</title>
-    <updated>2026-11-25T13:17:18.235157+00:00</updated>
+    <id>https://www.theverge.com/news/1043078/x-parental-controls-features</id>
+    <title>[Tecnología] X está finalmente implementando controles parentales</title>
+    <updated>2026-11-26T13:20:43.235111+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://dev.to/techdrifting/mit-vs-apache-vs-gpl-which-open-source-license-to-pick-4c94"/>
-    <summary>El costo de un proyecto que utiliza un licencia de código abierto puede aparecer meses después de la implementación. La elección entre MIT, Apache 2.0 y GPL es determinada por si se desea que el código fluya libre a otros proyectos o si se desea garantizar que cualquier proyecto construido sobre él permanezca abierto. MIT y Apache 2.0 son licencias permissivas, mientras que GPL es una licencia copyleft que requiere que los trabajos derivados se publiquen bajo la misma licencia y revelen su fuente. El 80% de los repositorios públicos aún no llevan una licencia, un número que ha permanecido estable desde 2015. El patrón "MIT vs Apache vs GPL" se reduce a una sola pregunta: ¿el licencia sigue el código en cualquier proyecto que se construya con él? GPLV3 es una licencia copyleft fuerte que requiere que los trabajos derivados se publiquen bajo la misma licencia y revelen su fuente. La elección de la licencia depende de si se desea que los usuarios externos puedan utilizar el código sin restricciones o si se desea garantizar que los trabajos derivados permanezcan abiertos. La mayoría de los repositorios en GitHub son tutoriales, proyectos personales y experimentos abandonados, y la elección de licencia no es crucial para la mayoría de los repositorios.
+    <link href="https://www.theverge.com/news/1043078/x-parental-controls-features"/>
+    <summary>X está lanzando controles parentales que permiten a los padres y tutores gestionar cuentas de adolescentes en la plataforma. Los adolescentes seguirán siendo propietarios de sus cuentas, pero los padres y tutores podrán ver el tiempo que han pasado en la plataforma, establecer límites diarios, requerir aprobación para nuevos seguidores y limitar recomendaciones "¿Tú" a cuentas que ya siguen a un adolescente. Los controles también permitirán a los padres y tutores filtrar palabras específicas, desactivar contenido sensible de medios, controlar quién puede enviar mensajes directos a un adolescente y ver qué cuentas ha hablado sin ver los mensajes. Los padres y tutores pueden gestionar hasta cinco cuentas de adolescentes y un adolescente solo puede estar enlazado a una cuenta de padre o tutor a la vez; Ambos el adolescente y el padre/tutor deben acordar antes de que los controles comiencen. "La supervisión en X comienza con una mano de obra y termina automáticamente cuando un adolescente se convierte en adulto", dice Mridul Singhai, líder de ingeniería de productos de X. "Los padres obtienen límites, no una ventana a la vida privada de su adolescente; Simple, transparente y construido para crecer con las familias"; Los controles parentales llegan justo días después de que Oregon y Virginia se quejaron de SpaceX sobre Grok's porn deepfakes. La queja en Virginia acusa a X de ignorar intencionalmente las preocupaciones crecientes sobre los deepfakes generados por AI sexualizados, y describe los débiles controles de Grok como "no un fracaso, sino una característica". Tres adolescentes también presentaron una demanda contra xAI anteriormente, afirmando que Grok generó material de abuso sexual infantil (CSAM) cuando lanzó su "modo picoso" el año pasado; Grok también fue desnudeando a mujeres y menores anteriormente. X admite que su plataforma no está "diseñada para niñas" y ya restringe cuentas de adolescentes a un modo protegido, donde el contenido sensible está restringido y el anuncios dirigidos están bloqueados. Estos controles parentales pueden ayudar a los adolescentes evitar las partes más peores de X, justo cuando la plataforma enfrenta más escrutinio de los estados y los reguladores.
 
 Por qué importa:
-La elección de una licencia de código abierto es crucial para garantizar que el código se mantenga abierto y fluya libre a otros proyectos. La mayoría de los repositorios en GitHub son tutoriales, proyectos personales y experimentos abandonados, y la elección de licencia no es crucial para la mayoría de los repositorios.</summary>
-    <published>2026-11-24T12:50:22+00:00</published>
+Los controles parentales de X vienen en un momento en que la plataforma enfrenta más críticas por su manejo de contenido sensible y su impacto en los adolescentes.</summary>
+    <published>2026-11-26T10:45:50+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/vexaloom-labs/immowelt-descriptions-in-python-separate-summaries-from-expose-evidence-14n0</id>
-    <title>[Programación] Separación de resúmenes y evidencia de exposé en Python</title>
-    <updated>2026-11-25T13:17:18.235118+00:00</updated>
+    <id>https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/</id>
+    <title>[Tecnología] SpaceX obtiene aprobación de la FCC para desplegar 1 millón de satélites para su centro de datos orbital de inteligencia artificial</title>
+    <updated>2026-11-26T13:20:43.235075+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://dev.to/vexaloom-labs/immowelt-descriptions-in-python-separate-summaries-from-expose-evidence-14n0"/>
-    <summary>La propietaria de propiedades utiliza un motor de búsqueda para encontrar descripciones de propiedades, que incluyen citas correctas y respuestas como si hubiera leído la descripción completa. Sin embargo, la cuestión es cómo distinguir entre un resumen corto y evidencia de exposé. La propietaria de propiedades utiliza un campo común para diferentes rutas de búsqueda y utiliza un campo llamado "description" que contiene el texto completo cuando la lista de propiedades es detallada y un resumen corto cuando no lo es. La propietaria de propiedades también utiliza un límite de detalles para evitar que la evidencia de exposé se convierta en un resumen. La propietaria de propiedades utiliza un sistema de etiquetas para indicar la profundidad de la evidencia y evitar que la evidencia de exposé entre en el resumen. La propietaria de propiedades también utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no. La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes.
+    <link href="https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"/>
+    <summary>La FCC ha aprobado la solicitud de SpaceX para desplegar 1 millón de satélites para construir su centro de datos orbital de inteligencia artificial, llamado Starmind. El proyecto, que se espera que comience a desplegar su primer satélite en noviembre de 2033, busca aprovechar la energía solar y reducir los costos de operación y mantenimiento. Sin embargo, algunos críticos cuestionan la viabilidad de los centros de datos orbitales para la inteligencia artificial, argumentando que el espacio no es un medio eficiente para enfriar los componentes. La FCC ha establecido un plan de despliegue para SpaceX, que incluye la colocación de al menos un satélite autorizado en su órbita antes de noviembre de 2033, y la colocación de 100,000 satélites en su órbita antes de noviembre de 2035. El plan también establece fechas límite para la colocación de 500,000 y 1 millón de satélites. La aprobación de la FCC ha sido vista como un paso importante hacia la implementación del proyecto Starmind, que busca revolucionar la forma en que se procesa la inteligencia artificial. La empresa de Elon Musk espera lanzar los satélites en 2027, aunque se desconoce si se cumplirá con el plazo. La aprobación de la FCC ha sido vista como un paso importante hacia la implementación del proyecto Starmind, que busca revolucionar la forma en que se procesa la inteligencia artificial.
 
 Por qué importa:
-La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes; La propietaria de propiedades utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no; La propietaria de propiedades utiliza un sistema de etiquetas para indicar la profundidad de la evidencia y evitar que la evidencia de exposé entre en el resumen. La propietaria de propiedades utiliza un sistema de indexación para almacenar la evidencia de exposé y los resúmenes; La propietaria de propiedades utiliza un sistema de categorización para distinguir entre propiedades que tienen detalles y aquellas que no.</summary>
-    <published>2026-11-24T12:51:14+00:00</published>
+La aprobación de la FCC para el proyecto Starmind es significativa porque abre un nuevo capítulo en la exploración espacial y la implementación de tecnologías de inteligencia artificial. La empresa de Elon Musk busca aprovechar la energía solar y reducir los costos de operación y mantenimiento, lo que podría tener implicaciones importantes para la forma en que se procesa la inteligencia artificial.</summary>
+    <published>2026-11-26T11:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls</id>
+    <title>[Tecnología] Waymo conquista las calles urbanas pero se estrella en las autopistas</title>
+    <updated>2026-11-26T13:20:43.235038+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls"/>
+    <summary>Waymo, líder en conducción autónoma, ha sido sorprendido por una serie de errores en sus vehículos que han intentado conducir en autopistas. El incidente más reciente ocurrió el 6 de noviembre, cuando un vehículo Waymo intentó superar a dos patrulleros de la policía de California durante un paréntesis de tráfico. El vehículo, que estaba en una zona de construcción, no reconoció que la carretera estaba cerrada y condujo en la zona restringida. Waymo ha reportado un total de 11 incidentes similares entre octubre y noviembre de 2026. La empresa ha decidido pausar las operaciones comerciales de sus vehículos en autopistas en todo el país. Los expertos consideran que Waymo está utilizando "cortapisos" para solucionar los problemas, en lugar de abordar la causa raíz. Phil Koopman, un experto en seguridad de vehículos autónomos, afirma que Waymo está utilizando "cortapisos" y no está abordando la causa raíz de los problemas. La empresa ha asegurado que sus vehículos no han tenido accidentes ni lesiones mientras conducían en áreas restringidas.
+
+Por qué importa:
+Waymo ha estado experimentando problemas con sus vehículos que intentan conducir en autopistas, lo que ha llevado a la empresa a pausar sus operaciones comerciales en todo el país. Los expertos consideran que Waymo está utilizando "cortapisos" para solucionar los problemas, en lugar de abordar la causa raíz; La empresa ha asegurado que sus vehículos no han tenido accidentes ni lesiones mientras conducían en áreas restringidas.</summary>
+    <published>2026-11-26T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/gallery/best-office-chairs/</id>
+    <title>[Tecnología] Sillas de oficina de alta calidad para un trabajo cómodo y productivo</title>
+    <updated>2026-11-26T13:20:43.235001+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/gallery/best-office-chairs/"/>
+    <summary>El equipo de WIRED Reviews ha probado y comparado más de 60 sillas de oficina para elegir las mejores opciones para un trabajo cómodo y productivo. Después de más de 7 años de evaluación, el silla Ergonomic Chair Pro de Branch es la preferida de WIRED para la mayoría de las personas debido a su equilibrio entre valor, características, comodidad y ajustabilidad. La silla también ofrece una buena relación calidad-precio, con un precio de $499. Otras opciones destacadas incluyen la silla Steelcase Gesture, que cuesta $1,510 y ofrece una buena calidad y comodidad, y la silla Branch Ergonomic Chair, que es una buena opción para aquellos con un presupuesto limitado. Las sillas de oficina también deben tener características como ajustabilidad, apoyo lumbar y comodidad para mantener una buena postura y reducir el riesgo de lesiones. El equipo de WIRED Reviews ha probado más de 100 sillas de oficina en los últimos 7 años y ha encontrado que la mayoría de ellas tienen estas características. Las sillas de oficina también deben ser fáciles de limpiar y mantener, y tener un diseño que sea atractivo y cómodo. En resumen, las sillas de oficina de alta calidad son fundamentales para un trabajo cómodo y productivo.
+
+Por qué importa:
+Las sillas de oficina son un elemento crucial para un trabajo cómodo y productivo; Un buen asiento puede mejorar la postura, reducir el riesgo de lesiones y aumentar la productividad; Sin embargo, la elección de la silla adecuada puede ser difícil, ya que hay muchas opciones disponibles en el mercado; El equipo de WIRED Reviews ha trabajado durante más de 7 años para evaluar y comparar más de 60 sillas de oficina para elegir las mejores opciones. Después de esta evaluación, el silla Ergonomic Chair Pro de Branch es la preferida de WIRED para la mayoría de las personas debido a su equilibrio entre valor, características, comodidad y ajustabilidad.</summary>
+    <published>2026-11-26T12:35:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169</id>
+    <title>[Tecnología] ¿Qué tan rápido podemos eliminar CO2 del aire para revertir el calentamiento global?</title>
+    <updated>2026-11-26T13:20:43.234963+00:00</updated>
+    <author>
+      <name>Gizmodo</name>
+    </author>
+    <link href="https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169"/>
+    <summary>La industria de la captura y almacenamiento de dióxido de carbono (CDR) necesita escalar radicalmente para eliminar CO2 a escala gigatonal. La CDR se divide en dos categorías: soluciones basadas en la naturaleza y tecnologías emergentes. La tecnología de captura directa del aire y almacenamiento (DACCS) es una de las más prometedoras para la CDR. La financiación es el principal obstáculo para la escalabilidad de la CDR, ya que las tecnologías de CDR son costosas. La CDR debe demostrar efectividad en criterios como la permanencia y la contabilidad; La reducción de las emisiones de carbono mundial es necesaria para que la CDR sea rentable. Las políticas gubernamentales y los mercados de carbono pueden financiar la CDR si se adoptan medidas para alcanzar el objetivo de net-zero. La mayoría de los expertos creen que la eliminación de carbono a gran escala es posible a mediados del siglo XXI. La demanda insuficiente y los costos del mercado son los desafíos más significativos para el CDR. La mayoría de los expertos creen que la eliminación de carbono a gran escala es posible a mediados del siglo XXI. La Unión Europea ha integrado la captura de carbono en su sistema de comercio de emisiones, lo que puede servir como modelo para otros países.
+
+Por qué importa:
+La eliminación de CO2 del aire es crucial para revertir el calentamiento global; La Organización para la Cooperación y el Desarrollo Económicos (OCDE) ha establecido un objetivo de eliminar las emisiones netas de gases de efecto invernadero a finales del siglo XXI. La tecnología de captura directa de carbono (CDR) es una de las soluciones clave para alcanzar este objetivo.</summary>
+    <published>2026-11-26T12:35:36+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/sumtas/a-rust-terminal-password-manager-for-the-accounts-i-create-in-a-day-2gno</id>
     <title>[Programación] Un gestor de contraseñas de terminal de Rust para las cuentas que creo en un día</title>
-    <updated>2026-11-25T13:17:18.235080+00:00</updated>
+    <updated>2026-11-26T13:20:43.234927+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -391,7 +363,7 @@ Cretopass es una herramienta útil para aquellos que buscan una forma segura de 
   <entry>
     <id>https://dev.to/kitvane/a-filled-in-scope-of-work-for-a-small-business-website-vague-vs-clear-line-by-line-4ph8</id>
     <title>[Programación] Una guía para un sitio web de una pequeña empresa</title>
-    <updated>2026-11-25T13:17:18.235039+00:00</updated>
+    <updated>2026-11-26T13:20:43.234888+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -405,7 +377,7 @@ El artículo se centra en la importancia de tener un contrato de trabajo claro p
   <entry>
     <id>https://dev.to/dbslice/reconcile-a-big-sql-server-to-postgresql-migration-from-the-command-line-8gg</id>
     <title>[Programación] Reconcile a big SQL Server to PostgreSQL migration from the command line</title>
-    <updated>2026-11-25T13:17:18.234985+00:00</updated>
+    <updated>2026-11-26T13:20:43.234850+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +391,7 @@ Este artículo es relevante porque muestra una forma efectiva de verificar la in
   <entry>
     <id>https://dev.to/carunbox_in/a-free-csv-of-every-new-car-price-in-india-straight-from-the-carmakers-5lf</id>
     <title>[Programación] un solo párrafo</title>
-    <updated>2026-11-25T13:17:18.234893+00:00</updated>
+    <updated>2026-11-26T13:20:43.234811+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +401,33 @@ Este artículo es relevante porque muestra una forma efectiva de verificar la in
 Por qué importa:
 El sitio CarUnbox ha publicado un archivo CSV gratuito con los precios de los nuevos vehículos en India, proporcionado directamente por los fabricantes. Esto puede ser útil para aquellos que buscan analizar precios de vehículos en India.</summary>
     <published>2026-11-25T12:59:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/layoffatlas/warn-act-and-whistleblower-protections-what-happens-if-you-reported-wrongdoing-before-a-layoff-257o</id>
+    <title>[Programación] ¿Qué sucede si reportaste irregularidades laborales antes de recibir una notificación de despido?</title>
+    <updated>2026-11-26T13:20:43.234755+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/layoffatlas/warn-act-and-whistleblower-protections-what-happens-if-you-reported-wrongdoing-before-a-layoff-257o"/>
+    <summary>El WARN Act requiere que los empleadores con 100 o más empleados a tiempo completo den 60 días de notificación escrita antes de una clausura de planta o una masiva despachante. Sin embargo, esta ley no establece quién debe ser elegido; La protección del whistleblower, como la Sección 806 de la Ley Sarbanes-Oxley, protege a los empleados que reportan conductos que creen que son fraude o violaciones de la ley. Los empleados pueden presentar una queja ante una agencia federal, un miembro del Congreso o un investigador interno. La Ley de Protección del Whistleblower del Departamento de Trabajo cubre más de 20 estatutos federales, incluyendo la ley de seguridad, ambiental y transporte. En California, la ley de protección del whistleblower prohíbe la represalia por informar una violación de la ley bajo el Código Laboral sección 1102.5; El SOX requiere que los empleados presenten una queja dentro de 180 días de la represalia, o de cuando aprendieron de ella. El plazo generalmente comienza cuando se aprendió de la decisión, no del día en que se notificó el despido; Los empleados pueden presentar una queja si fueron demolidos, recibieron una reducción de salario o fueron despedidos. La ley está diseñada para favorecer a los empleados, y los empleadores solo pueden evitar la responsabilidad si pueden demostrar que habrían actuado de la misma manera sin la actividad del empleado. En 2024, la Corte Suprema decidió en Murray v; UBS Securities que los empleados no necesitan demostrar la intención de represalia. La Ley Dodd-Frank ofrece protección contra la represalia con un plazo más largo, generalmente de seis años desde la violación, o tres años después de que se conocieran los hechos materiales, con un límite de diez años. La Comisión de Bolsas y Valores también ofrece un programa de premios para whistleblowers si la información lleva a una acción de enlace exitosa.
+
+Por qué importa:
+La protección del whistleblower es importante porque puede ayudar a prevenir la represalia contra los empleados que reportan irregularidades laborales; Los empleados que reportan conductos que creen que son fraude o violaciones de la ley pueden ser protegidos por la ley. Es importante que los empleados mantengan un registro de su reporte y cualquier respuesta que reciban, y que busquen asesoramiento legal si creen que han sido represaliados.</summary>
+    <published>2026-11-26T12:55:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/bruce_zhang_2026/muses-first-80-daysai-got-a-computerthen-hit-five-walls-48fn</id>
+    <title>[Programación] Muse’s First 80 Days: AI Got a Computer, Then Hit Five Walls</title>
+    <updated>2026-11-26T13:20:43.234656+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/bruce_zhang_2026/muses-first-80-daysai-got-a-computerthen-hit-five-walls-48fn"/>
+    <summary>Meta lanzó Muse Wonder y Muse Wonder Full el 12 de octubre; Muse se utiliza para tareas cotidianas como la compra de productos y la planificación de eventos; Más de un cuarto de los usuarios activos de Muse realizan compras con la herramienta; El modelo de Muse puede realizar tareas que no requieren inteligencia artificial avanzada, como seguir instrucciones y realizar acciones repetitivas. Muse utiliza dos dominios de seguridad aislados para proteger la información del usuario; El modelo Muse puede generar balances bancarios y Bitcoin, pero según Meta, estos no corresponden a datos reales de los usuarios. El modelo Muse ha sido bloqueado en Amazon y eBay, y cinco bancos británicos han bloqueado el acceso a sus agentes; La empresa Meta ha invertido $27 mil millones en el modelo Muse, lo que podría generar $23 mil millones en ingresos anuales. El modelo Muse utiliza tokens para funcionar, y su uso puede ser costoso, especialmente si se utiliza para realizar tareas largas; En China, las comunidades de tecnología han encontrado formas de evitar las restricciones de registro y utilizar el modelo Muse sin problemas. El modelo Muse ha sido objeto de varios problemas de seguridad, incluyendo la posibilidad de que los usuarios no puedan distinguir entre datos reales y datos generados por el modelo; El modelo Muse ha sido utilizado por usuarios en diferentes plataformas, incluyendo X, Threads y Instagram, sin problemas significativos. Muse, Meta, y OpenAI han lanzado sistemas de asistentes personales con cloud computadora en septiembre 2026; Anthropic y Ant Group han unificado sus esfuerzos en un sistema de asistente personal con cloud computadora en octubre 2026. Muse tiene una ventaja en la cantidad de personas que utiliza sus productos, WhatsApp y la gráfica de interés de Facebook e Instagram; Alipay ha procesado 300 millones de pagos de agentes, lo que muestra la importancia de la red de pago y el servicio en China. La pregunta clave es quién controla las servicios que conecta y quién gasta el dinero, cuestión que las empresas no pueden resolver de manera única; La respuesta a si el chat box es la forma final no está clara, ya que cada sistema tiene sus propias soluciones. Un equipo de investigación de Mila, McGill y ServiceNow encontró que los agentes web que utilizan la historia tienen un éxito del 15.62%, mientras que los que reciben las preferencias necesarias para el tarea actual tienen un éxito del 82.92%. La clave para el éxito de un asistente personal no es la memoria, sino la aplicación de la memoria, lo que requiere un modelo de juicio; La relación entre Muse y el usuario es una relación de empleo; El usuario no le da al nuevo empleado el control total de la empresa; El usuario no le disuelve la relación con el empleado por un error; La probación de un agente dura solo 30 días; La relación entre Muse y el usuario es de confianza y responsabilidad.
+
+Por qué importa:
+El modelo de inteligencia artificial Muse ha sido objeto de controversia desde su lanzamiento; Aunque se utiliza para realizar tareas cotidianas, también ha sido bloqueado en varias plataformas debido a problemas de seguridad. La empresa Meta ha invertido una gran cantidad de dinero en el modelo, lo que podría generar ingresos anuales de $23 mil millones; Sin embargo, la pregunta clave es quién controla las servicios que conecta y quién gasta el dinero, cuestión que las empresas no pueden resolver de manera única.</summary>
+    <published>2026-11-26T12:55:52+00:00</published>
   </entry>
 </feed>
