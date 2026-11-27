@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-26T13:20:43.234635+00:00</updated>
+  <updated>2026-11-27T14:19:06.987250+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -11,79 +11,9 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Noticias de tecnología, F1, data science y economía traducidas al español, con tasas de cambio de República Dominicana.</subtitle>
   <entry>
-    <id>https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html</id>
-    <title>[Economía] SpaceX, Musk pledge to donate a share each to active Trump Accounts</title>
-    <updated>2026-11-26T13:20:43.235781+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"/>
-    <summary>SpaceX anunció que donará una parte de sus acciones de clase A a cada cuenta activa de Trump, y el CEO Elon Musk se compromete a hacerlo personalmente; La empresa cree que la propiedad de la empresa que crea estos sistemas debería extenderse a la próxima generación de estadounidenses para su beneficio a largo plazo. El White House anunció en octubre que se habían creado casi 70 millones de cuentas de Trump, incluidas más de 60 millones a través de auto-enrollment; No se conoce el número de cuentas activas; Musk dijo en un post en X que la parte de SpaceX se transferiría al mes siguiente, sin proporcionar detalles adicionales. Los niños elegibles deben tener su cuenta reclamada para que puedan recibir contribuciones de familiares, amigos y empleadores, y recibir la contribución única de $1,000 del gobierno. Las cuentas de Trump, también conocidas como cuentas 530A, están abiertas a cualquier niño estadounidense menor de 18 años con un número de seguro social. Los padres, tutores, abuelos y otros pueden contribuir colectivamente hasta $5,000 por niño por año en dólares imponibles después de impuestos hasta el año antes de que el beneficiario cumpla 18 años. El límite anual de contribución se indexa para la inflación después de 2027; Desde la lanzamiento del 4 de julio, las familias y amigos han contribuido colectivamente más de $1 mil millones a las cuentas de Trump. Los depósitos totales ahora superan los $9 mil millones, según CNBC; Los niños nacidos entre 2025 y 2028 pueden recibir una contribución única de $1,000 del Tesoro; Otros fondos pueden estar disponibles, dependiendo de ciertos criterios. El Tesoro lanzó regulaciones temporales al final de septiembre que permiten que las cuentas de Trump alberguen donaciones de acciones, un movimiento que los funcionarios han dicho está destinado a fomentar más donaciones filantrópicas. Contribuir acciones puede beneficiar a los donantes, quienes pueden evitar impuestos sobre ganancias de capital desencadenadas por la venta de acciones apreciadas. Sin embargo, las familias pueden enfrentar restricciones relacionadas con la venta de esas acciones donadas; La política también significa que la acumulación de riqueza de algunos niños puede estar ligada al rendimiento de las empresas individuales.
-
-Por qué importa:
-La donación de SpaceX a las cuentas de Trump es significativa, ya que las cuentas de Trump son una fuente importante de ingresos para las familias estadounidenses. La donación de SpaceX puede tener un impacto en la economía y en la política, ya que puede influir en la toma de decisiones de las empresas y los políticos.</summary>
-    <published>2026-11-26T06:39:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html</id>
-    <title>[Economía] Norse Atlantic suspendió todas sus vuelos</title>
-    <updated>2026-11-26T13:20:43.235746+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"/>
-    <summary>Norse Atlantic suspendió todas sus vuelos el jueves y advirtió que podría presentar una solicitud de quiebra después de que su precio de acción colapsó el miércoles debido a su advertencia sobre su situación financiera. El airline noruego informó que su situación depende de la obtención de financiamiento para sus necesidades de liquidez a corto plazo. Norse Atlantic había anunciado que había cancelado dos vuelos debido a una suspensión operativa inesperada. El airline había estado operando con una reducción de capacidad debido a los altos precios del petróleo. Norse Atlantic había anunciado que había eliminado 75 empleos en mayo para reducir costos en $50 millones. El airline había estado en negociaciones con varias partes sobre una posible toma de control estratégica. Norse Atlantic había informado que su situación financiera depende de la obtención de financiamiento para sus necesidades de liquidez a corto plazo. El airline había anunciado que su situación financiera es crítica y que podría presentar una solicitud de quiebra si no obtiene financiamiento. Norse Atlantic había informado que su situación financiera es delicada y que podría presentar una solicitud de quiebra si no obtiene financiamiento. El airline había anunciado que su situación financiera es grave y que podría presentar una solicitud de quiebra si no obtiene financiamiento.
-
-Por qué importa:
-Norse Atlantic suspendió todas sus vuelos el jueves debido a su situación financiera crítica. El airline noruego advirtió que podría presentar una solicitud de quiebra si no obtiene financiamiento para sus necesidades de liquidez a corto plazo.</summary>
-    <published>2026-11-26T09:02:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html</id>
-    <title>[Economía] Trump, NATO chief caution Russia como ataques a la infraestructura energética de Ucrania intensifican</title>
-    <updated>2026-11-26T13:20:43.235711+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"/>
-    <summary>El presidente de EE. UU., Donald Trump, y el jefe de la OTAN, Mark Rutte, emitieron un comunicado conjunto el jueve, en el que advirtieron a Rusia que no tome ninguna acción que pueda expandir la guerra en Ucrania. Esto se produce en un momento en el que Rusia ha aumentado sus ataques a la infraestructura energética de Ucrania, lo que ha causado interrupciones en la electricidad y el transporte público. El comunicado de Trump y Rutte también menciona la importancia de encontrar una solución pacífica a la guerra en Ucrania lo antes posible; El presidente de EE; UU. y el jefe de la OTAN también discutieron la situación en Irán y la guerra en Ucrania durante su reunión en el Mar-a-Lago club en Palm Beach, Florida. El comunicado de Trump y Rutte fue descrito como "muy impactante" y enfatizó la necesidad de evitar cualquier acción que pueda expandir la guerra. El jefe de la OTAN, Rutte, ha sido criticado por algunos por su enfoque en la diplomacia y su relación con el presidente de EE. UU; Trump ha descrito a Rutte como un "gran líder" y su "mayor activo". La situación en Ucrania ha sido criticada por varios líderes europeos, incluyendo al canciller alemán Friedrich Merz, quien acusó a Rusia de "escalando" las amenazas hacia la seguridad europea. El Kremlin ha negado siempre buscar confrontación militar con los países de la OTAN.
-
-Por qué importa:
-La situación en Ucrania es crítica y ha sido criticada por varios líderes europeos, incluyendo al canciller alemán Friedrich Merz, quien acusó a Rusia de "escalando" las amenazas hacia la seguridad europea. El Kremlin ha negado siempre buscar confrontación militar con los países de la OTAN.</summary>
-    <published>2026-11-26T10:45:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html</id>
-    <title>[Economía] UBS UBS, el banco suizo más grande, se enfrenta a una batalla con los legisladores suizos mientras la crisis se intensifica y se planea el futuro.</title>
-    <updated>2026-11-26T13:20:43.235675+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html"/>
-    <summary>UBS ha obtenido el apoyo calificado de los reguladores del mercado, que han calificado su plan de resolución como "executable" en principio. Sin embargo, el banco sigue enfrentando una lucha por sus planes de capital que obligarían a mantener más capital en sus sucursales extranjeras. La regulatoria suiza ha aprobado el plan de UBS para la primera vez desde su integración con Credit Suisse en 2023. El objetivo es evitar el apoyo gubernamental y la ley de emergencia. El banco UBS ha expresado su oposición a las propuestas, argumentando que son excesivas y dañarían su competitividad internacional. La propuesta de capital requiere que el banco mantenga un capital de $16 mil millones. La cuestión se discutirá en el parlamento suizo el 16 de diciembre. El banco UBS ha expresado su oposición a mantener un capital del 90% en sus sucursales extranjeras, mientras que la regulatoria suiza ha propuesto un 100% y el banco quiere un 50%. El objetivo es evitar que el banco UBS se vea obligado a reubicarse fuera de Suiza.
-
-Por qué importa:
-La crisis financiera sigue siendo un tema de preocupación en Suiza, y el banco UBS es el objetivo principal de las regulaciones. La regulatoria suiza busca evitar que el banco UBS se vea obligado a reubicarse fuera de Suiza y que el gobierno tenga que intervenir en su caso.</summary>
-    <published>2026-11-26T11:17:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cnbc.com/2026/11/26/stock-markets-today-.html</id>
-    <title>[Economía] Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'</title>
-    <updated>2026-11-26T13:20:43.235640+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/26/stock-markets-today-.html"/>
-    <summary>Global stocks se recuperaron ligeramente el jueves, después de una intensa sell-off impulsada por la tecnología, mientras los inversores buscaron oportunidades en el mercado. Las acciones de empresas de tecnología, como Nvidia y SoftBank, se vieron afectadas por las preocupaciones sobre la sostenibilidad del gasto en inteligencia artificial. Sin embargo, los mercados regionales, como el pan-europeo Stoxx 600, se recuperaron con fuerza. Las empresas de semiconductores, como Infineon y ASMI, también se beneficiaron de la recuperación. Los inversores están buscando diversificar sus inversiones y aprovechar las oportunidades en el mercado. La recuperación de los mercados se debe en parte a la falta de expectativas sobre las acciones del gobierno de EE. UU; sobre las tarifas. Los inversores también están vigilando las tendencias de la inflación y las acciones del Banco Central de Japón. La recuperación de los mercados se debe también a la falta de expectativas sobre las acciones del gobierno de EE. UU; sobre las tarifas.
-
-Por qué importa:
-La recuperación de los mercados se debe en parte a la falta de expectativas sobre las acciones del gobierno de EE; UU; sobre las tarifas; Los inversores también están vigilando las tendencias de la inflación y las acciones del Banco Central de Japón. La recuperación de los mercados se debe también a la falta de expectativas sobre las acciones del gobierno de EE; UU; sobre las tarifas.</summary>
-    <published>2026-11-26T12:22:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html</id>
     <title>[Economía] Aumentos de tarifas en los Estados Unidos presionan a sus socios comerciales para firmar acuerdos</title>
-    <updated>2026-11-26T13:20:43.235604+00:00</updated>
+    <updated>2026-11-27T14:19:06.988443+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,65 +25,79 @@ La propuesta de tarifas de los Estados Unidos es una medida para controlar la ca
     <published>2026-11-26T12:46:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.oreilly.com/radar/trusting-an-agent-beyond-your-expertise/</id>
-    <title>[Data Science] Confiar en un agente para superar tus limitaciones</title>
-    <updated>2026-11-26T13:20:43.235568+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html</id>
+    <title>[Economía] Trump exige una investigación sobre un "error de registro" en las cifras de crecimiento del PIB</title>
+    <updated>2026-11-27T14:19:06.988409+00:00</updated>
     <author>
-      <name>Radar</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://www.oreilly.com/radar/trusting-an-agent-beyond-your-expertise/"/>
-    <summary>Un desarrollador utilizó a un agente de código para diagnosticar y solucionar problemas en su Raspberry Pi, lo que le permitió mejorar la estabilidad y la conectividad a Internet. Además, un experimento con 52 desarrolladores que aprendieron una biblioteca de Python con y sin asistencia de inteligencia artificial artificial mostró que la asistencia puede disminuir la productividad en un 4 puntos en una prueba de quiz. El uso de un agente de inteligencia artificial también ayudó a completar tareas de codificación. El experimento fue realizado para evaluar el impacto del uso de un asistente de inteligencia artificial en la tarea de codificación. El agente configuró persistentes registros y muestras de salud para investigar el problema después de un reinicio. El agente agregó una dependencia explícita en el montaje del disco para solucionar el problema. Después de instalar actualizaciones y reiniciar, el agente encontró registros de detención del servicio, seguidos de un exitoso desmontaje del disco. El agente me explicó los pasos para diagnosticar el problema y solucionarlo, lo que me hizo reflexionar sobre la importancia de "confiar, pero verificar". El agente también me recomendó hacer copias de seguridad y realizar comprobaciones después de hacer cambios. El grupo que recibió el asistente de inteligencia artificial en la prueba de quiz obtuvo un puntaje un 4 puntos menor; El puntaje promedio en la prueba de quiz fue de 27 puntos.
+    <link href="https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"/>
+    <summary>El presidente Donald Trump ha solicitado una investigación sobre la revisión de las cifras de crecimiento del PIB del tercer trimestre, que mostró un crecimiento del 4.3% anualizado, una revision más alta que la inicial estimación de 3.4%. Trump calificó la revisión como un "error de registro" y afirmó que debería ser investigada. Sin embargo, la revisión no fue un récord histórico, sino que fue la mayor desde 2020. La revisión muestra que las políticas de Trump están "delivering results" que superan las expectativas. Los expertos consideran que la revisión confirma el crecimiento económico reciente y reafirma la necesidad de aumentos de tasa por parte de la Reserva Federal. La revisión de las cifras de crecimiento del PIB es común y se realiza varias veces en un período de cinco años.
 
 Por qué importa:
-La confianza en un agente para superar nuestras limitaciones es un tema importante en la era de la inteligencia artificial. El uso de un agente de código puede ayudar a diagnosticar y solucionar problemas complejos, como el caso del desarrollador que utilizó a un agente para mejorar la estabilidad y la conectividad a Internet en su Raspberry Pi.</summary>
-    <published>2026-11-24T16:53:28+00:00</published>
+La revisión de las cifras de crecimiento del PIB es un proceso normal que se realiza varias veces en un período de cinco años. La revisión del tercer trimestre mostró un crecimiento del 4.3% anualizado, una revision más alta que la inicial estimación de 3.4%; Esto confirma el crecimiento económico reciente y reafirma la necesidad de aumentos de tasa por parte de la Reserva Federal.</summary>
+    <published>2026-11-26T21:13:17+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/</id>
-    <title>[Data Science] Un estudio de repetición cruzada evalúa la precisión de un segundo juez de LLM</title>
-    <updated>2026-11-26T13:20:43.235534+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html</id>
+    <title>[Economía] Election in Spain could bring down socialist Prime Minister Pedro Sánchez</title>
+    <updated>2026-11-27T14:19:06.988375+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/"/>
-    <summary>Sangdo Han y Moonsoo Kim evaluaron nueve modelos en 33 pares de comparación. El primer juez, GPT-6 Luna, y el segundo juez, Claude Haiku 4, evaluaron 4,000 batallas en Chatbot Arena. En cada batalla, los usuarios recibieron dos respuestas anónimas a la misma pregunta y fueron puestos a elegir cuál respuesta consideraban mejor. El panel de jueces, que incluye a GPT-6 Luna y Claude Haiku 4, evaluó 23 pares de comparación en los que los usuarios tenían una preferencia clara. En estos casos, el panel de jueces coincidió con los usuarios en 87.5% de los casos. El primer juez, GPT-6 Luna, coincidió con los usuarios en 50% de los casos; El segundo juez, Claude Haiku 4, coincidió con los usuarios en 87.5% de los casos. El panel de jueces también coincidió con los usuarios en 91.7% de los casos en general. El estudio evaluó la precisión del primer juez, GPT-6 Luna, y del segundo juez, Claude Haiku 4, en comparación con los usuarios. El estudio también evaluó la precisión del primer juez, GPT-6 Luna, y del segundo juez, Claude Haiku 4, en comparación con el panel de jueces. El estudio concluyó que el primer juez, GPT-6 Luna, y el segundo juez, Claude Haiku 4, pueden ser utilizados para evaluar la precisión de los modelos de lenguaje natural.
+    <link href="https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"/>
+    <summary>Spanish voters head to the polls on Sunday for a snap election that could bring down socialist Prime Minister Pedro Sánchez. The center-right Popular Party is the frontrunner, and it could win a majority with far-right Vox. The election could shift Spain's approach to Washington, Beijing and NATO. The campaign has been dominated by housing and cost-of-living crises, with inflation soaring to 4.9% in the year to October. Sánchez has clashed with U.S. President Donald Trump over NATO spending, the war in Gaza and Spain's refusal to let U.S. forces use its bases for operations against Iran. The PP and Vox want to repeal the 2023 housing law and scrap rent caps in designated high-pressure areas. A PP-Vox coalition would have tensions, with immigration likely to be a major pressure point.
 
 Por qué importa:
-El estudio de repetición cruzada evaluó la precisión de un segundo juez de LLM; El objetivo del estudio fue evaluar la precisión del primer juez, GPT-6 Luna, y del segundo juez, Claude Haiku 4, en comparación con los usuarios y el panel de jueces. El estudio se llevó a cabo en Chatbot Arena, donde se evaluaron 4,000 batallas en 33 pares de comparación; El estudio concluyó que el primer juez, GPT-6 Luna, y el segundo juez, Claude Haiku 4, pueden ser utilizados para evaluar la precisión de los modelos de lenguaje natural.</summary>
-    <published>2026-11-25T12:00:00+00:00</published>
+La elección en España podría cambiar la política exterior del país. Un gobierno liderado por el PP podría llevar a España a una mayor cooperación con Washington y a una política de China más alineada con la de la UE.</summary>
+    <published>2026-11-27T13:00:42+00:00</published>
   </entry>
   <entry>
-    <id>https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/</id>
-    <title>[Data Science] DuckDB 2.0 vs Polars 2.0 en cinco pruebas reales y un 14x gap</title>
-    <updated>2026-11-26T13:20:43.235501+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html</id>
+    <title>[Economía] Precios de los nuevos vehículos alcanzan un récord alto</title>
+    <updated>2026-11-27T14:19:06.988338+00:00</updated>
     <author>
-      <name>Towards Data Science</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/"/>
-    <summary>En este artículo, se comparan las versiones 2.0 de DuckDB y Polars, dos bibliotecas de procesamiento de datos para Python. Los autores de DuckDB encontraron que su versión 2.0 es 6 veces más rápida que su versión 1.56 cuando se procesa el conjunto de datos TPC-H SF300. Por otro lado, Polars encontró que su versión 2.0 es más rápida que las versiones 1.56 y 2.0 de DuckDB en la mayoría de sus pruebas. Los autores de Polars también encontraron que su versión 2.0 es más rápida que DuckDB en la mayoría de las pruebas, excepto en la lectura de un conjunto de datos de Postgres. Los resultados de las pruebas muestran que tanto DuckDB como Polars son rápidos y capaces de procesar datos, pero con algunas diferencias en la velocidad y la forma en que se utilizan. En general, se concluye que tanto DuckDB como Polars son opciones sólidas para el procesamiento de datos en Python.
+    <link href="https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html"/>
+    <summary>El precio promedio de un nuevo vehículo alcanzó un récord de $51,109 en octubre, según un informe de Kelley Blue Book; Aunque este precio es alto, hay opciones para los compradores que no pueden gastar tanto. Los vehículos de compacto y subcompacto SUVs, así como los automóviles compactos, vendieron a precios significativamente más bajos que el promedio. Además, las ventas de vehículos con precios entre $28,000 y $38,000 aumentaron un 9.6% en comparación con el mismo período del año anterior. Los compradores que no pueden gastar más de $50,000 pueden encontrar deals en el mercado actual. Los fabricantes ofrecen incentivos en algunos modelos, como el Nissan Pathfinder, que puede reducir el precio en $5,000. Los compradores deben buscar vehículos que han estado en el concesionario durante un tiempo prolongado, ya que estos pueden ofrecer mejores precios. El leasing puede ser una opción para reducir los pagos mensuales, pero hay menos ofertas atractivas y los contratos suelen tener límites de kilómetros y cargos por uso excesivo. Los compradores que se sienten obligados a pagar más dinero por un vehículo debido a la depreciación pueden considerar el leasing. Los vehículos de 3 años de antigüedad están vendiendo a precios más bajos que cuando eran nuevos, lo que puede ser una buena opción para los compradores. Los compradores con buenos créditos pueden reducir sus pagos de financiamiento, y aquellos que están considerando vender su vehículo pueden buscar ofertas en diferentes concesionarios.
 
 Por qué importa:
-DuckDB y Polars son dos bibliotecas de procesamiento de datos para Python que se están comparando en este artículo. DuckDB es una biblioteca de base de datos analítica que se puede utilizar para ejecutar consultas SQL directamente dentro de una aplicación, mientras que Polars es una biblioteca que utiliza un enfoque de DataFrames para expresar transformaciones en los datos; Ambas bibliotecas son rápidas y capaces de procesar datos, pero tienen diferentes enfoques y ventajas.</summary>
-    <published>2026-11-25T13:30:00+00:00</published>
+El mercado de los nuevos vehículos está experimentando un aumento en los precios, lo que puede ser preocupante para los compradores; Sin embargo, hay opciones para aquellos que no pueden gastar mucho; Los fabricantes están ofreciendo incentivos en algunos modelos, lo que puede reducir el precio. Los compradores deben buscar vehículos que han estado en el concesionario durante un tiempo prolongado, ya que estos pueden ofrecer mejores precios; El leasing puede ser una opción para reducir los pagos mensuales, pero hay menos ofertas atractivas y los contratos suelen tener límites de kilómetros y cargos por uso excesivo.</summary>
+    <published>2026-11-27T13:15:01+00:00</published>
   </entry>
   <entry>
-    <id>https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/</id>
-    <title>[Data Science] Evaluación de la razonamiento social para asistentes de lenguaje natural</title>
-    <updated>2026-11-26T13:20:43.235467+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html</id>
+    <title>[Economía] La S&amp;P 500 entra en corrección</title>
+    <updated>2026-11-27T14:19:06.988301+00:00</updated>
     <author>
-      <name>The latest research from Google</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/"/>
-    <summary>El equipo de investigación de Google Research ha desarrollado un marco de evaluación para la razonamiento social de los asistentes de lenguaje natural (LLM). El marco utiliza simulaciones de agentes multi-agente para evaluar la capacidad de los LLM para entender situaciones sociales a partir de las narrativas de los usuarios. Los autores encontraron que los LLM son sensibles a la medición del usuario y requieren más detalles de lo que necesitan los humanos para llegar a predicciones correctas. El marco se ha abierto a la comunidad para que se utilice y se mejore. El equipo ha aplicado el marco a 12 LLM y ha identificado varios factores clave que afectan la razonamiento social. El trabajo se ha realizado por un equipo de investigadores que incluye a Zorik Gekhman, Amir Taubenfeld y otros.
+    <link href="https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"/>
+    <summary>La S&amp;P 500 cayó en corrección el 20 de noviembre por primera vez desde abril de 2025, después de que las acciones se desplomaran fuertemente desde los máximos de octubre. La corrección, definida como una caída del 10% desde un reciente máximo, se debió a la preocupación de los inversores por una posible disminución en la inversión en inteligencia artificial, las valoraciones de las mega-caps de tecnología y la política de las tasas de interés de la Reserva Federal. El S&amp;P 500 cayó el 3.7% el 20 de noviembre, cerrando en 6.910.39, lo que dejó al índice 11.6% por debajo del máximo de cierre del 6 de octubre de 7.818.93. Aunque una corrección puede profundizar en una recesión, la historia muestra que incluso una recesión no es necesariamente el resultado de una corrección. En un análisis de CNBC, ocho de los 13 mercados de la S&amp;P 500 que entraron en recesión coincidieron con una corrección, mientras que cinco no; La NBER define una recesión como una caída significativa en la actividad económica que se extiende por todo el país y dura más de unos pocos meses. La corrección del 20 de noviembre fue la séptima consecutiva; La NBER también señaló que la disminución en la actividad económica no siempre se traduce en una recesión; En algunos casos, como en 1987 y 2022, hubo grandes caídas del mercado sin que se produjera una recesión. El experto de macro de Deutsche Bank, Henry Allen, sostuvo que desde la "caída de Kennedy" en 1962, cada mercado de la S&amp;P 500 que entró en recesión coincidió con al menos uno de tres factores: una recesión, una disminución en los datos económicos que generaba preocupación por una recesión o una serie de aumentos de las tasas de interés de la Reserva Federal. Sin embargo, Allen señaló que en la actualidad no hay una situación similar a la del "día de la liberación" en 2025, cuando la tarifa del petróleo se redujo y se produjo una reevaluación del crecimiento económico. Además, los números económicos no están deteriorando y la expectativa de que la Reserva Federal aumente las tasas de interés no coincide con la caída del mercado. En cambio, los mercados están valorando menos aumentos de las tasas de interés en el próximo año; El experto Allen sostuvo que es poco probable que se produzca una recesión sin que se produzcan al menos uno de esos tres factores.
 
 Por qué importa:
-La evaluación de la razonamiento social de los asistentes de lenguaje natural es crucial para desarrollar asistentes que puedan ofrecer apoyo y consejo personalizado de manera efectiva; Sin embargo, la falta de verificación de la información y la influencia del usuario en la medición pueden complicar la evaluación. El equipo de investigación de Google Research ha desarrollado un marco de evaluación que utiliza simulaciones de agentes multi-agente para evaluar la capacidad de los LLM para entender situaciones sociales; Este marco se ha abierto a la comunidad para que se utilice y se mejore.</summary>
-    <published>2026-11-25T17:10:27+00:00</published>
+La corrección del mercado es importante porque puede tener un impacto significativo en la economía; Sin embargo, no siempre se traduce en una recesión; La historia muestra que incluso una corrección puede no ser suficiente para iniciar una recesión. En algunos casos, como en 1987 y 2022, hubo grandes caídas del mercado sin que se produjera una recesión.</summary>
+    <published>2026-11-27T13:21:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html</id>
+    <title>[Economía] Norse Atlantic solicita la quiebra en Europa después de fallar en obtener fondos</title>
+    <updated>2026-11-27T14:19:06.988266+00:00</updated>
+    <author>
+      <name>US Top News and Analysis</name>
+    </author>
+    <link href="https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"/>
+    <summary>Norse Atlantic, una aerolínea de bajo costo noruega, ha solicitado la quiebra en Europa después de no poder obtener fondos debido a los altos costos de combustible. La aerolínea había anunciado que estaba considerando opciones como una toma de control estratégico o contratos de alquiler de capacidad a corto plazo. La empresa ha cancelado todos los vuelos y ha suspendido las ventas de boletos. Norse Atlantic fue fundada en marzo de 2021 y ofreció vuelos baratos entre Europa, América del Norte, África y Asia. Los precios del combustible de avión han aumentado un 72% en un año, lo que ha afectado a las aerolíneas de todo el mundo. La empresa había cancelado más de 700 vuelos, lo que impactó a más de 240.000 pasajeros. El CEO de Norse Atlantic, Eivind Roald, había advertido que la empresa no estaba "muy preocupada" por el acceso al combustible, pero había destacado que la empresa había cancelado vuelos debido a los altos costos de combustible. La empresa ha solicitado la quiebra en el tribunal del distrito de Agder, donde se appointará un trustee para gestionar el proceso. La empresa ha expresado su "gran arrepentimiento" por el impacto que esto tendrá en sus pasajeros, empleados y socios.
+
+Por qué importa:
+La quiebra de Norse Atlantic es un ejemplo de cómo los altos costos de combustible pueden afectar a las aerolíneas de todo el mundo; La guerra entre Irán y Estados Unidos, que comenzó el 28 de febrero, ha causado un aumento significativo en los precios del combustible de avión, lo que ha obligado a las aerolíneas a buscar formas de reducir sus costos. La empresa había anunciado que estaba considerando opciones para reducir sus costos, pero finalmente no pudo encontrar una solución; La quiebra de Norse Atlantic es un recordatorio de la importancia de la planificación y la gestión de los riesgos en la industria aérea.</summary>
+    <published>2026-11-27T13:58:19+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/</id>
     <title>[Data Science] Guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube</title>
-    <updated>2026-11-26T13:20:43.235433+00:00</updated>
+    <updated>2026-11-27T14:19:06.988232+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -167,7 +111,7 @@ La guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube es r
   <entry>
     <id>https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/</id>
     <title>[Data Science] Mapear datos de terremotos de la USGS desde 2015 a 2025 en Python</title>
-    <updated>2026-11-26T13:20:43.235400+00:00</updated>
+    <updated>2026-11-27T14:19:06.988198+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,233 +123,233 @@ El proyecto utiliza Pandas, Cartopy, Matplotlib, Seaborn y Folium para analizar 
     <published>2026-11-26T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/</id>
-    <title>[Fórmula 1] ¿Estaba Hadjar ayudando a Verstappen o viceversa al recoger una penalización en las pit lanes?</title>
-    <updated>2026-11-26T13:20:43.235362+00:00</updated>
+    <id>https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/</id>
+    <title>[Data Science] Caching de prefijo y reutilización de instrucciones</title>
+    <updated>2026-11-27T14:19:06.988163+00:00</updated>
+    <author>
+      <name>MachineLearningMastery.com</name>
+    </author>
+    <link href="https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/"/>
+    <summary>El sistema utiliza el caching de prefijo para reutilizar el estado de la caché de KV cuando un nuevo pedido comienza con el mismo prefijo bajo una configuración compatible del modelo. El prefijo de caché se utiliza para almacenar el estado de la caché de KV producido para un prefijo de token y reutilizarlo cuando un pedido posterior comienza con el mismo prefijo bajo una compatible configuración del modelo. El sistema utiliza un diccionario de prefijos completos para mapear prefijos de token completos a maneles de caché. El prefix caching reduce el trabajo repetido durante el prefill, pero no acelera la generación después del prefijo. El sistema utiliza un bloque de hash para realizar una búsqueda de prefijo más eficiente, donde el bloque de hash incluye el prefijo de bloque y los tokens del bloque actual. El sistema utiliza una rama de árbol para realizar una búsqueda de prefijo más eficiente, donde las solicitudes con un prefijo común siguen el mismo camino y divergen solo donde sus tokens difieren. El sistema utiliza un mecanismo de contado de referencia para evitar que un bloque sea sobrescrito mientras se utilizan solicitudes activas. El sistema utiliza un mecanismo de copia en escritura para compartir bloques de caché completos y asignar bloques privados cuando sus sufijos divergen. El prefix caching reutiliza el estado de KV para un prefijo de token exacto bajo una configuración compatible del modelo. El prefix caching no acelera la generación después del prompt.
+
+Por qué importa:
+El caching de prefijo es una técnica utilizada para mejorar el rendimiento de los sistemas que requieren la generación de contenido dinámicamente. En este caso, el sistema utiliza el caching de prefijo para reutilizar el estado de la caché de KV, lo que reduce el trabajo repetido durante el prefill y mejora la eficiencia de la búsqueda de prefijo.</summary>
+    <published>2026-11-26T17:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://machinelearningmastery.com/building-a-multi-agent-verification-loop-in-python-with-small-open-models/</id>
+    <title>[Data Science] Building a Multi-Agent Verification Loop in Python with Small Open Models</title>
+    <updated>2026-11-27T14:19:06.988128+00:00</updated>
+    <author>
+      <name>MachineLearningMastery.com</name>
+    </author>
+    <link href="https://machinelearningmastery.com/building-a-multi-agent-verification-loop-in-python-with-small-open-models/"/>
+    <summary>El artículo muestra cómo construir un ciclo de verificación multi-agente en Python utilizando un modelo pequeño abierto. El autor demuestra cómo el Proposer-Critic-Judge es una arquitectura relevante en sistemas multi-agente. El ciclo de verificación se construye utilizando una arquitectura de tres roles: Proposer, Critic y Judge. El autor utiliza una modelo pequeña y abierta, como Qwen2.5-7B-Instruct, y la multiplexa para evitar un error de memoria. El ciclo de verificación se mide utilizando una función llamada generate_and_measure(). El autor demuestra cómo el ciclo de verificación puede mejorar la precisión en escenarios de lógica compleja, aunque a un costo mayor en términos de tokens y latencia.
+
+Por qué importa:
+La arquitectura Proposer-Critic-Judge es una solución prometedora para sistemas multi-agente, pero requiere una gran cantidad de recursos de memoria; El autor utiliza una técnica llamada persona multiplexing para cargar solo una modelo capaz de realizar tres roles diferentes; El ciclo de verificación se construye utilizando esta arquitectura y se mide utilizando una función llamada generate_and_measure(). El autor demuestra cómo el ciclo de verificación puede mejorar la precisión en escenarios de lógica compleja, aunque a un costo mayor en términos de tokens y latencia.</summary>
+    <published>2026-11-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/</id>
+    <title>[Data Science] Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover</title>
+    <updated>2026-11-27T14:19:06.988093+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/"/>
+    <summary>Cloudflare ha desarrollado una técnica llamada Code Mode que permite a los modelos escribir código que llama a las herramientas cuando se necesitan. Esta técnica ha sido comparada con una aproximación paralela publicada por Anthropic, que alcanzó un 98,7% de reducción de tokens en un conjunto de 150k a 2.000 tokens. Además, Cloudflare reportó una reducción del 99,9% de tokens en comparación con cargar una especificación de OpenAPI completa. La herramienta Code Mode ha demostrado ser efectiva en tareas repetitivas, ahorrando 120 veces en 100 elementos. Sin embargo, su eficacia depende de la estructura de la tarea y no hay un punto de corte específico. Code Mode reduce los costos de las operaciones intermedias en un 37% en comparación con el llamado de herramientas, lo que resulta en 16,8 veces menos tokens y 3,3 veces más rápido el procesamiento. La precisión de Code Mode es del 100% en tareas de llamada de herramientas, mientras que el llamado de herramientas tiene una precisión del 100%. La herramienta Code Mode es más atractiva cuando se procesan muchos elementos de manera similar, ya que puede ahorrar 3,7× a 120× en comparación con la búsqueda de herramientas.
+
+Por qué importa:
+La pregunta clave es si el modelo es lo suficientemente fuerte como para codificar de manera confiable. Code Mode no es una solución mágica, sino una herramienta especialista para cuando se tienen muchos herramientas, muchos elementos y un modelo que puede manejar el bucle de código sin romperse.</summary>
+    <published>2026-11-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/</id>
+    <title>[Data Science] Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.</title>
+    <updated>2026-11-27T14:19:06.988061+00:00</updated>
+    <author>
+      <name>Towards Data Science</name>
+    </author>
+    <link href="https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/"/>
+    <summary>Un equipo de investigadores ha desarrollado un nuevo método para acelerar la decodificación de modelos de lenguaje grandes, llamado "Speculative Decoding", que puede mejorar la velocidad de las llamadas de herramienta en un 1.41 veces. El método utiliza un cache para almacenar información previa y reutilizarla, lo que reduce el tiempo de respuesta en un 10%. El equipo, liderado por C. Chen, S; Borgeaud, G. Irving, J.-B. Lespiau, L; Sifre y J. Jumper, publicó sus resultados en 2023. El método también ha demostrado ser más eficiente que otros métodos existentes, como el "Single Processor Approach" de G. M. Amdahl, presentado en 1967.
+
+Por qué importa:
+Este avance es importante porque puede tener un impacto significativo en la forma en que se desarrollan y se utilizan los modelos de lenguaje grandes en aplicaciones reales. La decodificación de estos modelos es un paso crucial en la generación de código y la respuesta a las preguntas, y cualquier mejora en este proceso puede tener un efecto dominó en la eficiencia y la productividad.</summary>
+    <published>2026-11-27T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/</id>
+    <title>[Fórmula 1] Russell “amused” by Verstappen’s comments in Las Vegas: “I stand by what I said”</title>
+    <updated>2026-11-27T14:19:06.988024+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/"/>
-    <summary>El piloto Isack Hadjar perdió sus posibilidades de obtener puntos en la Gran Premio de Las Vegas después de sufrir una falla en el ala delantera. A pesar de haber terminado en segundo lugar, su penalización de 10 segundos probablemente lo habría relegado a no subir al podio y a caer a las zonas de puntuación inferiores; Los stewards determinaron que Hadjar "condujo lentamente bajo condiciones de Safety Car" y tenían una buena razón para creerlo. Según los stewards, cuando el campo se acercaba a la curva 14, Hadjar redujo su velocidad a alrededor de 100kph menos que su compañero de equipo Max Verstappen, el único coche delante de él. El stewards determinaron que Hadjar lo hizo "lentamente por razones tácticas", pero no elaboraron qué eran estas razones; La explicación más obvia es que Red Bull quería evitar que Hadjar tuviera que esperar inmediatamente detrás de Verstappen. Otro conductor, Andrea Kimi Antonelli, también pareció hacer lo mismo en esta carrera; Sin embargo, Antonelli no recibió una penalización ni fue investigado; También no se perdió tanto como lo hizo Hadjar. Los mensajes de radio a los dos conductores muestran que Red Bull quería que sus coches estuvieran a cinco segundos de distancia, lo que era dos veces la distancia entre los dos Mercedes que entraron en las pit lanes. Mercedes no querían arriesgar a mantener la fila de seguridad bloqueada tanto como lo hizo Red Bull; Red Bull tomó la práctica a un extremo tan grande que Hadjar recibió una penalización; ¿Qué querían lograr? La carrera del fin de semana anterior fue única en cuanto a cómo poco se extendió el campo durante los 19 vueltas antes de que se activara la Safety Car; Cuando el campo se neutralizó, había ocho coches a cinco segundos de Verstappen; Red Bull sabía que todos los conductores del campo querían aprovechar el momento perfectamente-timado de la Safety Car. Sabían que un tren de coches seguiría a Verstappen en las pit lanes, lo que hacía que fuera más difícil para ellos liberarlo en la fila de seguridad; Verstappen's race engineer Tom Hart le advirtió: "Expect a busy pit lane, so on your delta." Mientras que uno de los Red Bull conducía a su delta tiempo, el otro abría una distancia significativa. Al hacer que Hadjar se ralentizara y se colocara en la fila de seguridad a cinco segundos, Red Bull resolvió este problema; Sin embargo, el costo fue una penalización de 10 segundos, que Red Bull puede o no haber anticipado.
+    <link href="https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/"/>
+    <summary>George Russell se mostró "amused" con las comentarios de Max Verstappen después de su clásico en Las Vegas, donde Verstappen dijo que Russell está "so far below my level". Russell respondió que se sintió "amused" con los comentarios, pero que no cambia su opinión de que Verstappen intenta intimidar a sus rivales en la pista. Russell también dijo que no quiere un "war of words" con Verstappen y que se enfocará en su entrenamiento para el resto de la temporada. Russell admitió que cometió un error al intentar superar a su compañero de equipo Andrea Kimi Antonelli, pero aseguró que está dispuesto a tomar más riesgos para ganar las últimas carreras de la temporada. Verstappen ganó la carrera y Russell terminó en noveno lugar después de caer del pódium. Russell y Verstappen tienen una relación tensa después de su clásico en Las Vegas, pero ambos han expresado respeto mutuo por su habilidad para conducir.
 
 Por qué importa:
-La penalización de 10 segundos de Hadjar fue crucial porque Red Bull quería evitar que sus coches se bloquearan en las pit lanes cuando todos los conductores del campo pitaron al mismo tiempo. La carrera del fin de semana anterior en Qatar fue similar, donde McLaren perdió la carrera porque no pitaron durante la Safety Car.</summary>
-    <published>2026-11-24T07:15:03+00:00</published>
+La relación tensa entre Russell y Verstappen se intensificó después de su clásico en Las Vegas, donde Verstappen ganó la carrera y Russell terminó en noveno lugar; Verstappen dijo que Russell está "so far below my level" y que se sintió "honestamente fantastic" al ver a Russell retirarse de la carrera. Russell respondió que se sintió "amused" con los comentarios, pero que no cambia su opinión de que Verstappen intenta intimidar a sus rivales en la pista; A pesar de la tensión entre ellos, ambos han expresado respeto mutuo por su habilidad para conducir.</summary>
+    <published>2026-11-26T15:47:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/</id>
-    <title>[Fórmula 1] Pierre Gasly’s fury over cooling problems</title>
-    <updated>2026-11-26T13:20:43.235328+00:00</updated>
+    <id>https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/</id>
+    <title>[Fórmula 1] Hadjar dice que el mal momento causó que su ala delantera "explotara" en Las Vegas | Formula 1</title>
+    <updated>2026-11-27T14:19:06.987989+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/"/>
-    <summary>Pierre Gasly sufrió problemas con el enfriamiento de su unidad de potencia durante la Gran Premio de Las Vegas, lo que lo llevó a perder la calma. El piloto francés, de la escudería Alpine, se sintió como un "sitting duck" (una pieza de juguete) debido a la falta de potencia. Gasly se enfureció cuando el Racing Bulls lo superó y le dijo a su equipo que "prefiriría explotar el motor" que seguir así. Sin embargo, la Safety Car intervino y le dio la oportunidad de enfriar su vehículo, lo que le permitió terminar en quinto lugar. Gasly se sintió frustrado desde el principio, ya que su equipo le había pedido que enfriara su vehículo desde el segundo lap. A pesar de la frustración, Gasly logró recuperarse y moverse hacia la quinta posición. La falta de potencia fue un problema constante para Gasly durante la carrera. El piloto francés se sintió abrumado por la situación y perdió la calma. Gasly terminó la carrera en quinto lugar, aunque su desempeño fue decepcionante.
+    <link href="https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/"/>
+    <summary>Isack Hadjar explicó que el mal momento causó que su ala delantera "explotara" durante el Gran Premio de Las Vegas. El piloto de Red Bull estaba en segundo lugar cuando el Safety Car se desplegó y creyó que estaba cerca de ganar la carrera. Sin embargo, la ala delantera se derrumbó y el equipo de Red Bull está trabajando para reforzar el diseño. Hadjar cree que si hubiera cerrado el sistema de SM dos tenths de segundo antes, no habría sucedido. El piloto está emocionado de haber estado cerca de ganar y cree que su equipo está trabajando duro para mejorar. El Gran Premio de Las Vegas fue el último de la temporada para Hadjar, quien tiene dos carreras más por disputar. El equipo de Red Bull está investigando el incidente y cree que la ala delantera no estaba diseñada para soportar el impacto. Hadjar está enfocado en ganar la próxima carrera y cree que su equipo está cerca de lograrlo. El piloto está disfrutando de la oportunidad de competir con los mejores pilotos de F1.
 
 Por qué importa:
-La falta de potencia en la unidad de enfriamiento de Gasly fue un problema constante durante la carrera, lo que lo llevó a sentirse frustrado y abrumado. Esto es importante porque muestra la dificultad que enfrentan los pilotos en la F1, donde la precisión y la eficiencia son fundamentales para el éxito.</summary>
-    <published>2026-11-24T10:13:49+00:00</published>
+El incidente de la ala delantera de Hadjar en Las Vegas es importante porque muestra la complejidad y la precisión de los diseños de los coches de F1. El equipo de Red Bull está trabajando duro para mejorar el diseño y evitar que se repita en el futuro.</summary>
+    <published>2026-11-26T16:03:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/</id>
-    <title>[Fórmula 1] Cómo ver el Gran Premio de Qatar de Fórmula 1 en vivo este fin de semana</title>
-    <updated>2026-11-26T13:20:43.235294+00:00</updated>
+    <id>https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/</id>
+    <title>[Fórmula 1] "Leclerc admite que Ferrari necesita encontrar otra solución a los conflictos entre pilotos"</title>
+    <updated>2026-11-27T14:19:06.987954+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/"/>
-    <summary>El Circuito Internacional de Losail albergará la última ronda de la temporada de Fórmula 1 este fin de semana. El evento volverá a su formato tradicional de fin de semana de carrera, con tres sesiones de práctica. La serie de Fórmula 2 también apoyará a la serie este fin de semana. En el Reino Unido, los espectadores pueden ver los resúmenes de la carrera en Channel 4 a las siguientes horas: los horarios de las sesiones de práctica y los horarios de los resúmenes de la carrera. Los espectadores en Estados Unidos pueden ver la cobertura de Fórmula 1 en Apple TV. Los aficionados a la Fórmula 1 pueden encontrar los horarios de las sesiones de práctica y la información de apoyo para el Gran Premio de Qatar de Fórmula 1 en el calendario de Google de RaceFans.
+    <link href="https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/"/>
+    <summary>Charles Leclerc acepta que Ferrari necesita mejorar la forma en que sus pilotos interactúan en la pista después de su último choque con su compañero de equipo en Las Vegas. Leclerc no reveló detalles sobre las discusiones que tuvieron con su compañero de equipo y el principal de la escudería, Frederic Vasseur. Aunque admitió que el incidente en Las Vegas fue "inaceptable" para Ferrari, Leclerc dijo que la relación con su compañero de equipo, Lewis Hamilton, es fuerte y que necesitan encontrar otra solución. El piloto italiano también expresó su deseo de que los pilotos de Ferrari no tengan más conflictos en el futuro. Leclerc y Hamilton ya habían hablado sobre el tema y Leclerc dijo que la situación no ha mejorado después de las discusiones. El piloto italiano también expresó su deseo de que Ferrari no tenga más conflictos entre pilotos. Leclerc dijo que la situación es "tensa" y que necesitan encontrar una solución para evitar que los pilotos tengan más conflictos en el futuro. Leclerc también expresó su deseo de que Ferrari sea más efectiva en la pista y de que los pilotos no tengan más conflictos.
 
 Por qué importa:
-Es importante para los aficionados a la Fórmula 1 seguir el Gran Premio de Qatar de Fórmula 1, ya que es la penúltima ronda de la temporada. El evento será una oportunidad para ver a los pilotos competir en un circuito emocionante.</summary>
-    <published>2026-11-25T07:15:55+00:00</published>
+La situación de los conflictos entre pilotos en Ferrari es un tema que ha sido debatido en el mundo del automovilismo; Los pilotos de Ferrari, como Charles Leclerc y Lewis Hamilton, son algunos de los más talentosos y experimentados del mundo del automovilismo, pero a veces su rivalidad se traduce en conflictos en la pista. Esto puede tener un impacto negativo en el rendimiento de la escudería y en la carrera de los pilotos; Es importante que Ferrari encuentre una solución a este problema para evitar que los pilotos tengan más conflictos en el futuro y para mantener la competitividad de la escudería.</summary>
+    <published>2026-11-26T16:22:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/</id>
-    <title>[Fórmula 1] Stats: Mercedes han desaparecido de la pista de podio desde su victoria en el campeonato</title>
-    <updated>2026-11-26T13:20:43.235256+00:00</updated>
+    <id>https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/</id>
+    <title>[Fórmula 1] Leclerc niega tener un 'número uno' en su contrato con Ferrari</title>
+    <updated>2026-11-27T14:19:06.987918+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/"/>
-    <summary>Max Verstappen logró su 75ª victoria en su carrera en la última semana del Gran Premio de Las Vegas, lo que significa que está tres cuartos de camino hacia alcanzar una centena de victorias; Verstappen también reclama su 51ª posición en la línea de salida, aunque su penalización lo dejó en quinto lugar; Juntos, Verstappen y Red Bull han ganado tres de las cuatro carreras en el Circuito de la Ruta de Las Vegas desde que se unió al calendario. Sin embargo, Verstappen fue derrotado por otro conductor de la estabilidad roja - Liam Lawson de Racing Bulls - que logró la velocidad más rápida, aunque tuvo poco más que hacer ya que comenzó una vuelta por detrás del campo después del reinicio de la bandera de seguridad. Esto fue el primer tiempo más rápido de su carrera y convirtió a Lawson en el 142º conductor diferente en lograrlo y el primer conductor de Nueva Zelanda en hacerlo en más de 50 años; Lawson sigue a Denny Hulme, quien tomó su noveno y último tiempo más rápido en el Gran Premio de 1974 de Bélgica en Nivelles, para McLaren. McLaren disfrutó de su mejor resultado en Las Vegas, ya que nunca había logrado un resultado de pódum en el circuito; Lando Norris y Oscar Piastri tomaron segundo y quinto lugar respectivamente el año pasado, aunque fueron descalificados. Norris pudo mantener su segundo lugar esta vez, mientras que Piastri tomó tercer lugar después de una impresionante ascensión desde la 17ª posición en la línea de salida; Sin embargo, una de las equipos estaba conspicuamente ausente de la pista de podio por segunda vez consecutiva. Mercedes obtuvo al menos un coche en la pista de podio en cada carrera desde el inicio de la temporada; Esa secuencia terminó en Brasil, donde reclamaron el campeonato de constructores; También se deshicieron de la pista de podio en Las Vegas, donde Andrea Kimi Antonelli cayó de segundo a cuarto en el final de la carrera. Gasly llevó a Alpine a su mejor resultado en dos años, con Pierre Gasly recuperándose de una primera vuelta frustrante, durante la cual intercambió palabras ásperas con su ingeniero de carrera, para obtener el quinto lugar. Gasly produjo el mismo resultado que en el Gran Premio de Qatar de 2024, donde Alpine también obtuvo el mismo resultado; Con Franco Colapinto siguiéndolo, Alpine obtuvo su mayor puntuación en puntos desde su doble pódum en el Gran Premio de Brasil del mismo año. Alpine aumentó su puntuación a 18 puntos, lo que elevó su total a 87, que es exactamente lo que obtuvieron en las dos temporadas anteriores combinadas; Sin embargo, necesitan hacer lo mismo o mejor en las carreras finales para superar su puntuación de 2023 y mucho mejor para igualar sus puntuaciones de 2021 y 2022. Carlos Sainz Jnr trajo aliento a Williams al igualar su mejor resultado de la temporada con el octavo lugar; Sin embargo, Audi una vez más se deshicieron de los puntos: Nico Hulkenberg registró su undécimo lugar en la temporada.
+    <link href="https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/"/>
+    <summary>Charles Leclerc ha negado tener un clause en su contrato que garantice su posición como piloto número uno en Ferrari. La afirmación fue hecha por Rebecca Clancy, quien pasó 10 años como corresponsal de F1 para The Times. Leclerc dijo que no tiene tal cláusula y que nunca la hubiera querido. El piloto ha sido criticado por una penalización por colisión con su compañero de equipo Lewis Hamilton en Jeddah. A pesar de las críticas, Leclerc se comprometió a llevar a Ferrari de vuelta al primer lugar. Leclerc ha estado en el equipo desde 2019 y ha extendido su contrato en junio. El piloto ha asegurado que su amor por el equipo es genuino y que hará todo lo posible para llevarlo de vuelta al éxito. Leclerc ha aceptado que los errores son parte del juego y que se enfocará en minimizarlos. La afirmación de Clancy ha sido recibida con escepticismo por Leclerc, quien la considera "mucha niebla".
 
 Por qué importa:
-La ausencia de Mercedes de la pista de podio es preocupante, ya que habían logrado un resultado de pódum en cada carrera desde el inicio de la temporada. Esto es especialmente importante porque habían reclamado el campeonato de constructores en Brasil; La ausencia de Mercedes en Las Vegas también muestra que el equipo está en una situación de declive.</summary>
-    <published>2026-11-25T07:45:53+00:00</published>
+La afirmación de Clancy sobre la presencia de un "número uno" en el contrato de Leclerc es relevante porque puede afectar la dinámica dentro del equipo. La posición de Leclerc como piloto número uno en Ferrari es importante para el equipo y su éxito en la temporada.</summary>
+    <published>2026-11-26T21:14:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/</id>
-    <title>[Fórmula 1] Williams multado y sancionado por costos</title>
-    <updated>2026-11-26T13:20:43.235222+00:00</updated>
+    <id>https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/</id>
+    <title>[Fórmula 1] Rosberg gana el título mundial 10 años después</title>
+    <updated>2026-11-27T14:19:06.987884+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/"/>
-    <summary>Williams fue multado y sancionado por una infracción a la regla del capo de costo, lo que equivale a una brecha de £627.000, o 0,48% sobre el capo de 2025. La brecha fue causada por una interpretación adoptada por la empresa en buen faith. La Cost Cap Administration ofreció a Williams un Acuerdo de Brecha Procedimental Aceptado (ABA) para resolver el asunto, que fue aceptado. Williams debe pagar una penalidad financiera a la FIA dentro de 30 días de la fecha de ejecución del ABA. Además, Alpine fue multado $400.000 dos años atrás por inexactitudes en sus presentaciones. La FIA F1 Financial Regulations son las reglas financieras de la FIA que forman parte de las condiciones de participación en el Campeonato Mundial de Fórmula 1. La administración de costos consideró que era apropiado ofrecer el ABA a Alpine debido a la naturaleza limitada y extensa del Procedural Breach. La decisión de la administración de costos de entrar en el ABA constituye su decisión final resolviendo este asunto y no está sujeta a apelación. Si Alpine no cumple con el ABA, la administración de costos referirá el asunto a la Comisión de Adjudicación de Costos en consecuencia.
+    <link href="https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/"/>
+    <summary>Nico Rosberg ganó el mundo championship 10 años después de hoy, en lo que resultó ser su última carrera. En el final de Abu Dhabi, Rosberg y su rival de la temporada, Lewis Hamilton, necesitaban que su compañero de equipo terminara fuera de los tres primeros para que ganaran. Rosberg intentó desde el principio mantener el liderazgo, pero Hamilton logró ganar la batalla, aunque Rosberg ganó la guerra. El hecho de que Max Verstappen, un piloto que estaba entre Hamilton y Rosberg, se volcó en la primera vuelta no ayudó a Hamilton. Las tácticas de Hamilton enfurecieron a su equipo y recibieron críticas de algunos. En febrero, el principal de la escudería Mercedes, Toto Wolff, admitió que había estado equivocado al tratar de "micromanagear" la lucha entre Hamilton y Rosberg en la última carrera. En el pasado, los lectores de RaceFans expresaron sus opiniones sobre las tácticas de Hamilton. Keith, un fanático de la F1 que creó el sitio web RaceFans en 2005, es el editor del sitio. Keith, un aficionado a la F1 de toda la vida, comenzó a correr el sitio web en 2010, después de haber trabajado como periodista de automóviles. En 2010, Keith logró su ambición de dedicar su atención completa a su pasión por el automóvil.
 
 Por qué importa:
-La FIA F1 Financial Regulations son las reglas financieras de la FIA que forman parte de las condiciones de participación en el Campeonato Mundial de Fórmula 1. La administración de costos consideró que era apropiado ofrecer el Acuerdo de Brecha Procedimental Aceptado (ABA) a Alpine debido a la naturaleza limitada y extensa del Procedural Breach.</summary>
-    <published>2026-11-25T16:11:25+00:00</published>
+Es importante recordar que esta carrera fue el final de la carrera de Rosberg, y que sus tácticas fueron una forma de intentar ganar el título mundial.</summary>
+    <published>2026-11-27T00:01:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/</id>
-    <title>[Fórmula 1] Haas confirma el contrato de Bearman para 2027</title>
-    <updated>2026-11-26T13:20:43.235186+00:00</updated>
+    <id>https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/</id>
+    <title>[Fórmula 1] Russell dice que ha aprendido a ser más consciente de cómo se interpretan sus citas</title>
+    <updated>2026-11-27T14:19:06.987847+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/"/>
-    <summary>Oliver Bearman continuará conduciendo para Haas en 2027, según el equipo que ha confirmado. Bearman, un piloto junior de Ferrari, pasará por su tercera temporada consecutiva con el equipo. Su compañero de equipo, Rafael Camara, también es parte del programa de jóvenes pilotos de Ferrari. Bearman expresó su decepción por no haber sido anunciado antes, pero el equipo principal Ayao Komatsu afirmó que la decisión de retenerlo fue "natural". Bearman es considerado listo para liderar el equipo, que ha sido completado por Haas con la confirmación de su contrato. El piloto ha expresado su agradecimiento por la oportunidad de seguir conduciendo para Haas. La confirmación del contrato significa que el grid de la Fórmula 1 para 2027 está completo.
+    <link href="https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/"/>
+    <summary>George Russell ha expresado que ha aprendido a ser más consciente de cómo se interpretan sus citas en la prensa, ya que algunas personas pueden representarlos de manera diferente a como lo intención. Esto se debe a que Russell siente que es demasiado abierto y honesto con los medios, lo que puede llevar a que sus palabras sean tomadas de manera errónea. Ha mencionado dos situaciones en las que esto ha ocurrido, incluyendo una conversación con Ted Kravitz y Will Buxton en Abu Dhabi. Russell ha aprendido a recordar que está hablando ante una cámara que se transmite a millones de personas y que sus palabras pueden ser interpretadas de manera diferente. Ha expresado que no quiere tener malas relaciones con las personas y que está dispuesto a aprender de sus experiencias. Russell ha mencionado que ha cambiado su enfoque para hablar directamente a la cámara y evitar conversaciones privadas. Esto se debe a que quiere asegurarse de que sus palabras sean interpretadas de manera precisa y no se distorsionen. Russell ha expresado que ha aprendido a ser más consciente de cómo se interpretan sus citas y que está dispuesto a hacer cambios para evitar situaciones similares en el futuro. Russell ha mencionado que su objetivo es mantener buenas relaciones con los medios y asegurarse de que sus palabras sean interpretadas de manera precisa.
 
 Por qué importa:
-La confirmación del contrato de Bearman por Haas es importante porque muestra la confianza del equipo en su capacidad para liderar. La decisión de retener a Bearman también refleja la evolución del equipo desde su separación de Esteban Ocon.</summary>
-    <published>2026-11-26T09:19:12+00:00</published>
+La declaración de Russell sobre la importancia de ser consciente de cómo se interpretan sus citas es relevante porque refleja su compromiso con la honestidad y la transparencia. Al ser más consciente de cómo se interpretan sus palabras, Russell puede asegurarse de que se transmitan de manera precisa y sin distorsiones; Esto es especialmente importante en el mundo de la F1, donde la reputación y la credibilidad son fundamentales.</summary>
+    <published>2026-11-27T07:15:07+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</id>
-    <title>[Tecnología] S&amp;P considera downgrade de crédito de Nvidia debido a riesgos de gobernanza y 'key man'</title>
-    <updated>2026-11-26T13:20:43.235148+00:00</updated>
+    <id>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</id>
+    <title>[Tecnología] ¿Es Alice Huang una espía o no?</title>
+    <updated>2026-11-27T14:19:06.987811+00:00</updated>
     <author>
       <name>TechCrunch</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"/>
-    <summary>S&amp;P Global Ratings considera downgrade de crédito de Nvidia debido a preocupaciones sobre la gobernanza y la gestión de la empresa. A pesar de su sólida performance financiera, la salida y reincorporación del CEO Jensen Huang ha generado preocupación sobre la falta de supervisión ejecutiva y la planificación de sucesión. El agente espera terminar su revisión en 90 días y podría reducir la calificación de Nvidia de AA a AA-, lo que podría aumentar los costos de préstamo de la empresa. Nvidia garantiza 25% de los préstamos de $500 mil millones para la infraestructura de inteligencia artificial, lo que podría aumentar la demanda de garantías aún más. La empresa es fundamental para la infraestructura de neoclouds y otros empresas que no tienen una calificación de crédito sólida. Un downgrade podría hacer que el costo de su deuda sea más alto o obligar a estas empresas a postear más garantías. La empresa ha anunciado planes para garantizar 25% de los préstamos, pero los prestamistas ya habían solicitado garantías más grandes antes de la salida y reincorporación de Huang. Un downgrade probablemente provocaría que los prestamistas pidan garantías aún más grandes; La calificación de Nvidia podría afectar su capacidad para financiar sus proyectos de inteligencia artificial. La empresa ha anunciado planes para financiar $500 mil millones en proyectos de inteligencia artificial con seis instituciones financieras. La calificación de Nvidia podría afectar su capacidad para financiar sus proyectos de inteligencia artificial.
+    <link href="https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"/>
+    <summary>La acusación de que Alice Huang, una ex ejecutiva de la empresa de centros de datos Megaspeed, es una espía china ha generado un gran revuelo. Aunque se ha reportado que Huang tenía contacto con un oficial de la agencia de espionaje china, no hay evidencia pública que la comisionara para perseguir al CEO de Nvidia, Jensen Huang. La administración de Trump ha jugado down las acusaciones, lo que ha llevado a especulaciones sobre la influencia política y la posible presión para recastear el caso. La situación sigue sin claridad, y no se ha identificado aún nueva inteligencia que resuelva la cuestión. La investigación sigue en curso, y Jensen Huang está programado para aparecer ante el Comité de Banca del Senado la próxima semana. La situación es compleja, y es probable que las audiencias congresionales no revelen secretos que no hayan sido ya revelados. La administración de Trump ha expresado su apoyo a Nvidia como ciudadan corporativa, y Trump ha dicho que no cree que Jensen Huang necesite una indulto. La investigación sigue sin claridad, y no se ha identificado aún nueva inteligencia que resuelva la cuestión.
 
 Por qué importa:
-La calificación de crédito de Nvidia es importante para la empresa, ya que garantiza la confianza de los prestamistas y permite la financiación de sus proyectos. Un downgrade podría afectar la capacidad de la empresa para financiar sus proyectos de inteligencia artificial y aumentar los costos de préstamo.</summary>
-    <published>2026-11-25T22:44:32+00:00</published>
+La acusación de que Alice Huang es una espía china ha generado un gran revuelo, especialmente después de que el CEO de Nvidia, Jensen Huang, fue reinstado como CEO después de una controversia; La administración de Trump ha jugado down las acusaciones, lo que ha llevado a especulaciones sobre la influencia política y la posible presión para recastear el caso. La situación es compleja, y es probable que las audiencias congresionales no revelen secretos que no hayan sido ya revelados; La administración de Trump ha expresado su apoyo a Nvidia como ciudadan corporativa, y Trump ha dicho que no cree que Jensen Huang necesite una indulto.</summary>
+    <published>2026-11-26T20:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/news/1043078/x-parental-controls-features</id>
-    <title>[Tecnología] X está finalmente implementando controles parentales</title>
-    <updated>2026-11-26T13:20:43.235111+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/news/1043078/x-parental-controls-features"/>
-    <summary>X está lanzando controles parentales que permiten a los padres y tutores gestionar cuentas de adolescentes en la plataforma. Los adolescentes seguirán siendo propietarios de sus cuentas, pero los padres y tutores podrán ver el tiempo que han pasado en la plataforma, establecer límites diarios, requerir aprobación para nuevos seguidores y limitar recomendaciones "¿Tú" a cuentas que ya siguen a un adolescente. Los controles también permitirán a los padres y tutores filtrar palabras específicas, desactivar contenido sensible de medios, controlar quién puede enviar mensajes directos a un adolescente y ver qué cuentas ha hablado sin ver los mensajes. Los padres y tutores pueden gestionar hasta cinco cuentas de adolescentes y un adolescente solo puede estar enlazado a una cuenta de padre o tutor a la vez; Ambos el adolescente y el padre/tutor deben acordar antes de que los controles comiencen. "La supervisión en X comienza con una mano de obra y termina automáticamente cuando un adolescente se convierte en adulto", dice Mridul Singhai, líder de ingeniería de productos de X. "Los padres obtienen límites, no una ventana a la vida privada de su adolescente; Simple, transparente y construido para crecer con las familias"; Los controles parentales llegan justo días después de que Oregon y Virginia se quejaron de SpaceX sobre Grok's porn deepfakes. La queja en Virginia acusa a X de ignorar intencionalmente las preocupaciones crecientes sobre los deepfakes generados por AI sexualizados, y describe los débiles controles de Grok como "no un fracaso, sino una característica". Tres adolescentes también presentaron una demanda contra xAI anteriormente, afirmando que Grok generó material de abuso sexual infantil (CSAM) cuando lanzó su "modo picoso" el año pasado; Grok también fue desnudeando a mujeres y menores anteriormente. X admite que su plataforma no está "diseñada para niñas" y ya restringe cuentas de adolescentes a un modo protegido, donde el contenido sensible está restringido y el anuncios dirigidos están bloqueados. Estos controles parentales pueden ayudar a los adolescentes evitar las partes más peores de X, justo cuando la plataforma enfrenta más escrutinio de los estados y los reguladores.
-
-Por qué importa:
-Los controles parentales de X vienen en un momento en que la plataforma enfrenta más críticas por su manejo de contenido sensible y su impacto en los adolescentes.</summary>
-    <published>2026-11-26T10:45:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/</id>
-    <title>[Tecnología] SpaceX obtiene aprobación de la FCC para desplegar 1 millón de satélites para su centro de datos orbital de inteligencia artificial</title>
-    <updated>2026-11-26T13:20:43.235075+00:00</updated>
+    <id>https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/</id>
+    <title>[Tecnología] Google compartirá públicamente las direcciones de los desarrolladores de Android</title>
+    <updated>2026-11-27T14:19:06.987773+00:00</updated>
     <author>
       <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"/>
-    <summary>La FCC ha aprobado la solicitud de SpaceX para desplegar 1 millón de satélites para construir su centro de datos orbital de inteligencia artificial, llamado Starmind. El proyecto, que se espera que comience a desplegar su primer satélite en noviembre de 2033, busca aprovechar la energía solar y reducir los costos de operación y mantenimiento. Sin embargo, algunos críticos cuestionan la viabilidad de los centros de datos orbitales para la inteligencia artificial, argumentando que el espacio no es un medio eficiente para enfriar los componentes. La FCC ha establecido un plan de despliegue para SpaceX, que incluye la colocación de al menos un satélite autorizado en su órbita antes de noviembre de 2033, y la colocación de 100,000 satélites en su órbita antes de noviembre de 2035. El plan también establece fechas límite para la colocación de 500,000 y 1 millón de satélites. La aprobación de la FCC ha sido vista como un paso importante hacia la implementación del proyecto Starmind, que busca revolucionar la forma en que se procesa la inteligencia artificial. La empresa de Elon Musk espera lanzar los satélites en 2027, aunque se desconoce si se cumplirá con el plazo. La aprobación de la FCC ha sido vista como un paso importante hacia la implementación del proyecto Starmind, que busca revolucionar la forma en que se procesa la inteligencia artificial.
+    <link href="https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/"/>
+    <summary>Google anunció que a partir del 1 de marzo de 2027, compartirá públicamente las direcciones de los desarrolladores de Android; Esto se debe a que, según la ley, los desarrolladores que ganen dinero regularmente deben declarar su dirección y número de teléfono. Los desarrolladores que no cumplen con esta norma podrían tener sus aplicaciones bloqueadas o eliminadas del Play Store; La decisión ha sido criticada por algunos desarrolladores que prefieren mantener su privacidad. Los desarrolladores que operan desde sus hogares pueden tener que rentar oficinas para evitar declarar su dirección real. Google no acepta direcciones de cajas postales, lo que obliga a los desarrolladores a encontrar formas de proteger su información de identificación. La empresa no mostrará las direcciones de los desarrolladores de teléfonos solo en Europa, pero en todo el mundo. Apple también no mostrará las direcciones de los desarrolladores de teléfonos, solo en Europa; Los desarrolladores que no cumplen con la norma podrían tener sus aplicaciones eliminadas del Play Store. La decisión de Google ha sido criticada por algunos desarrolladores que prefieren mantener su privacidad; Los desarrolladores que operan desde sus hogares pueden tener que rentar oficinas para evitar declarar su dirección real. Google no acepta direcciones de cajas postales, lo que obliga a los desarrolladores a encontrar formas de proteger su información de identificación. La empresa no mostrará las direcciones de los desarrolladores de teléfonos solo en Europa, pero en todo el mundo. Apple también no mostrará las direcciones de los desarrolladores de teléfonos, solo en Europa; Los desarrolladores que no cumplen con la norma podrían tener sus aplicaciones eliminadas del Play Store.
 
 Por qué importa:
-La aprobación de la FCC para el proyecto Starmind es significativa porque abre un nuevo capítulo en la exploración espacial y la implementación de tecnologías de inteligencia artificial. La empresa de Elon Musk busca aprovechar la energía solar y reducir los costos de operación y mantenimiento, lo que podría tener implicaciones importantes para la forma en que se procesa la inteligencia artificial.</summary>
-    <published>2026-11-26T11:01:32+00:00</published>
+La decisión de Google de compartir públicamente las direcciones de los desarrolladores de Android es importante porque afectará a los desarrolladores que operan desde sus hogares y que prefieren mantener su privacidad. La ley requiere que los desarrolladores que ganen dinero regularmente declaren su dirección y número de teléfono, lo que puede ser un problema para aquellos que prefieren mantener su información personal fuera del alcance público.</summary>
+    <published>2026-11-27T09:38:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls</id>
-    <title>[Tecnología] Waymo conquista las calles urbanas pero se estrella en las autopistas</title>
-    <updated>2026-11-26T13:20:43.235038+00:00</updated>
-    <author>
-      <name>The Verge</name>
-    </author>
-    <link href="https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls"/>
-    <summary>Waymo, líder en conducción autónoma, ha sido sorprendido por una serie de errores en sus vehículos que han intentado conducir en autopistas. El incidente más reciente ocurrió el 6 de noviembre, cuando un vehículo Waymo intentó superar a dos patrulleros de la policía de California durante un paréntesis de tráfico. El vehículo, que estaba en una zona de construcción, no reconoció que la carretera estaba cerrada y condujo en la zona restringida. Waymo ha reportado un total de 11 incidentes similares entre octubre y noviembre de 2026. La empresa ha decidido pausar las operaciones comerciales de sus vehículos en autopistas en todo el país. Los expertos consideran que Waymo está utilizando "cortapisos" para solucionar los problemas, en lugar de abordar la causa raíz. Phil Koopman, un experto en seguridad de vehículos autónomos, afirma que Waymo está utilizando "cortapisos" y no está abordando la causa raíz de los problemas. La empresa ha asegurado que sus vehículos no han tenido accidentes ni lesiones mientras conducían en áreas restringidas.
-
-Por qué importa:
-Waymo ha estado experimentando problemas con sus vehículos que intentan conducir en autopistas, lo que ha llevado a la empresa a pausar sus operaciones comerciales en todo el país. Los expertos consideran que Waymo está utilizando "cortapisos" para solucionar los problemas, en lugar de abordar la causa raíz; La empresa ha asegurado que sus vehículos no han tenido accidentes ni lesiones mientras conducían en áreas restringidas.</summary>
-    <published>2026-11-26T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.wired.com/gallery/best-office-chairs/</id>
-    <title>[Tecnología] Sillas de oficina de alta calidad para un trabajo cómodo y productivo</title>
-    <updated>2026-11-26T13:20:43.235001+00:00</updated>
-    <author>
-      <name>Gear Latest</name>
-    </author>
-    <link href="https://www.wired.com/gallery/best-office-chairs/"/>
-    <summary>El equipo de WIRED Reviews ha probado y comparado más de 60 sillas de oficina para elegir las mejores opciones para un trabajo cómodo y productivo. Después de más de 7 años de evaluación, el silla Ergonomic Chair Pro de Branch es la preferida de WIRED para la mayoría de las personas debido a su equilibrio entre valor, características, comodidad y ajustabilidad. La silla también ofrece una buena relación calidad-precio, con un precio de $499. Otras opciones destacadas incluyen la silla Steelcase Gesture, que cuesta $1,510 y ofrece una buena calidad y comodidad, y la silla Branch Ergonomic Chair, que es una buena opción para aquellos con un presupuesto limitado. Las sillas de oficina también deben tener características como ajustabilidad, apoyo lumbar y comodidad para mantener una buena postura y reducir el riesgo de lesiones. El equipo de WIRED Reviews ha probado más de 100 sillas de oficina en los últimos 7 años y ha encontrado que la mayoría de ellas tienen estas características. Las sillas de oficina también deben ser fáciles de limpiar y mantener, y tener un diseño que sea atractivo y cómodo. En resumen, las sillas de oficina de alta calidad son fundamentales para un trabajo cómodo y productivo.
-
-Por qué importa:
-Las sillas de oficina son un elemento crucial para un trabajo cómodo y productivo; Un buen asiento puede mejorar la postura, reducir el riesgo de lesiones y aumentar la productividad; Sin embargo, la elección de la silla adecuada puede ser difícil, ya que hay muchas opciones disponibles en el mercado; El equipo de WIRED Reviews ha trabajado durante más de 7 años para evaluar y comparar más de 60 sillas de oficina para elegir las mejores opciones. Después de esta evaluación, el silla Ergonomic Chair Pro de Branch es la preferida de WIRED para la mayoría de las personas debido a su equilibrio entre valor, características, comodidad y ajustabilidad.</summary>
-    <published>2026-11-26T12:35:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169</id>
-    <title>[Tecnología] ¿Qué tan rápido podemos eliminar CO2 del aire para revertir el calentamiento global?</title>
-    <updated>2026-11-26T13:20:43.234963+00:00</updated>
+    <id>https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169</id>
+    <title>[Tecnología] Chips de Inteligencia de Nvidia utilizados en un centro de datos chino</title>
+    <updated>2026-11-27T14:19:06.987735+00:00</updated>
     <author>
       <name>Gizmodo</name>
     </author>
-    <link href="https://gizmodo.com/what-will-it-take-to-pull-enough-co2-from-the-sky-to-reverse-global-warming-2000844169"/>
-    <summary>La industria de la captura y almacenamiento de dióxido de carbono (CDR) necesita escalar radicalmente para eliminar CO2 a escala gigatonal. La CDR se divide en dos categorías: soluciones basadas en la naturaleza y tecnologías emergentes. La tecnología de captura directa del aire y almacenamiento (DACCS) es una de las más prometedoras para la CDR. La financiación es el principal obstáculo para la escalabilidad de la CDR, ya que las tecnologías de CDR son costosas. La CDR debe demostrar efectividad en criterios como la permanencia y la contabilidad; La reducción de las emisiones de carbono mundial es necesaria para que la CDR sea rentable. Las políticas gubernamentales y los mercados de carbono pueden financiar la CDR si se adoptan medidas para alcanzar el objetivo de net-zero. La mayoría de los expertos creen que la eliminación de carbono a gran escala es posible a mediados del siglo XXI. La demanda insuficiente y los costos del mercado son los desafíos más significativos para el CDR. La mayoría de los expertos creen que la eliminación de carbono a gran escala es posible a mediados del siglo XXI. La Unión Europea ha integrado la captura de carbono en su sistema de comercio de emisiones, lo que puede servir como modelo para otros países.
+    <link href="https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169"/>
+    <summary>En un centro de datos en Shanghai, China, se han instalado chips de inteligencia artificial de Nvidia, específicamente los modelos GB300 y GB200, según un informe de Bloomberg. Los chips fueron instalados por la empresa Shanghai Shuoyao y Shanghai Kezhan, que también es proveedor de servicios de la empresa Megaspeed, una de las principales clientes de Nvidia en Asia del Sur. La instalación de estos chips ha generado preocupación en los Estados Unidos, ya que la empresa Nvidia es objeto de restricciones de exportación por parte del gobierno de ese país. En noviembre, Nvidia presentó documentos que revelaron la instalación de estos chips en el centro de datos. El centro de datos, conocido como el Proyecto Delta del Río Yangtze, ha sido desarrollado por Megaspeed y tiene vínculos con Alice Huang, una mujer sospechada de estar involucrada en el contrabando de chips de inteligencia. La administración de Donald Trump ha expresado su oposición a que China tenga acceso a los chips de inteligencia de Nvidia, y en las últimas semanas ha intentado reforzar las restricciones de exportación para dificultar que las empresas chinas accedan a los chips estadounidenses. Los funcionarios estadounidenses también presentaron un informe para agregar a Megaspeed a la lista de empresas que han sido sancionadas por el gobierno.
 
 Por qué importa:
-La eliminación de CO2 del aire es crucial para revertir el calentamiento global; La Organización para la Cooperación y el Desarrollo Económicos (OCDE) ha establecido un objetivo de eliminar las emisiones netas de gases de efecto invernadero a finales del siglo XXI. La tecnología de captura directa de carbono (CDR) es una de las soluciones clave para alcanzar este objetivo.</summary>
-    <published>2026-11-26T12:35:36+00:00</published>
+La instalación de chips de inteligencia de Nvidia en un centro de datos chino ha generado preocupación en los Estados Unidos debido a las restricciones de exportación que se han impuesto a la empresa. La administración de Donald Trump ha expresado su oposición a que China tenga acceso a estos chips, lo que ha llevado a una serie de medidas para reforzar las restricciones de exportación.</summary>
+    <published>2026-11-27T13:02:55+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/sumtas/a-rust-terminal-password-manager-for-the-accounts-i-create-in-a-day-2gno</id>
-    <title>[Programación] Un gestor de contraseñas de terminal de Rust para las cuentas que creo en un día</title>
-    <updated>2026-11-26T13:20:43.234927+00:00</updated>
+    <id>https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale</id>
+    <title>[Tecnología] La Oura Ring 5 tiene su mayor descuento jamás para Black Friday</title>
+    <updated>2026-11-27T14:19:06.987658+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://dev.to/sumtas/a-rust-terminal-password-manager-for-the-accounts-i-create-in-a-day-2gno"/>
-    <summary>Cretopass es un gestor de contraseñas de terminal de Rust que permite crear y gestionar cuentas de manera segura. El programa es una interfaz de línea de comandos (TUI) que utiliza un archivo cifrado con clave de escritura para almacenar las contraseñas. Crea un sistema de rutas para organizar las cuentas y permite buscar y copiar campos específicos. El programa también incluye una función de backup y una forma de compartir archivos cifrados con otra persona. Sin embargo, no es compatible con otros programas de gestión de contraseñas como KeePassXC o pass. El código no ha sido auditado independientemente y el programa actual no realiza llamadas a la red. En el pasado, el programa tenía una función de actualización que descargaba un script de actualización desde GitHub y lo ejecutaba, pero esta función ha sido eliminada.
+    <link href="https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale"/>
+    <summary>La Oura Ring 5, considerada la mejor smart ring que se puede comprar, ha caído a un precio récord de $299 ($100 de descuento) en Amazon, Best Buy, Walmart y la tienda en línea de Oura para Black Friday. Esta smart ring ofrece un diseño más delgado y ligero, y puede rastrear el sueño, la actividad, la frecuencia cardíaca y otros indicadores de salud sin necesidad de verificar constantemente una pantalla. El caso de carga, que soporta cargando sin cable, está disponible por separado por $99. La Oura Ring 5 también cuenta con nuevas características de software, como Health Radar, que busca cambios significativos en la salud. Sin embargo, para acceder a la mayoría de estas características, se requiere una suscripción mensual de $5.99. Si ya posees una Oura Ring 4, no se recomienda actualizar, pero para aquellos que son nuevos en smart rings, este descuento hace que la Oura Ring 5 sea más atractiva, especialmente considerando que es solo $50 más que el precio inicial del Ring 4.
 
 Por qué importa:
-Cretopass es una herramienta útil para aquellos que buscan una forma segura de gestionar sus contraseñas sin depender de la nube o de aplicaciones de navegador. Al utilizar un sistema de rutas y cifrado, Cretopass ofrece una forma de proteger sus datos personales de manera efectiva.</summary>
-    <published>2026-11-24T12:52:38+00:00</published>
+La Oura Ring 5 es considerada la mejor smart ring que se puede comprar, y su descuento es una oportunidad para aquellos que están interesados en esta tecnología pero han estado disuadidos por su precio alto.</summary>
+    <published>2026-11-27T13:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/kitvane/a-filled-in-scope-of-work-for-a-small-business-website-vague-vs-clear-line-by-line-4ph8</id>
-    <title>[Programación] Una guía para un sitio web de una pequeña empresa</title>
-    <updated>2026-11-26T13:20:43.234888+00:00</updated>
+    <id>https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/</id>
+    <title>[Tecnología] Los mejores descuentos de Black Friday de Sonos (2026): hasta un 34% de descuento</title>
+    <updated>2026-11-27T14:19:06.987623+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Gear Latest</name>
     </author>
-    <link href="https://dev.to/kitvane/a-filled-in-scope-of-work-for-a-small-business-website-vague-vs-clear-line-by-line-4ph8"/>
-    <summary>El artículo analiza la importancia de tener un contrato de trabajo claro para un sitio web de una pequeña empresa. Se compara una versión vaga con una versión clara del contrato, destacando las diferencias en la comunicación y la resolución de conflictos. El autor destaca la importancia de tener un contrato claro para evitar malentendidos y asegurar un trabajo de calidad. También se menciona la importancia de tener un plan de trabajo definido y un plazo de entrega realista. El artículo también destaca la importancia de la comunicación clara y la transparencia en el proceso de trabajo. El autor concluye que un contrato de trabajo claro es esencial para el éxito de cualquier proyecto de desarrollo web.
+    <link href="https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/"/>
+    <summary>En este artículo, se presentan los mejores descuentos de Black Friday de Sonos, según el autor, quien ha estado revisando productos de audio y cubriendo eventos de venta como Black Friday durante cuatro años. Los descuentos se refieren a Sonos Soundbars, Subwoofers, Home Speakers, Portable Speakers y Headphones. El autor destaca que el Sonos Move 2 es una opción más adecuada para un uso en casa, mientras que el Roam 2 y Play son más ligeros y compactos. Los Headphones Sonos Ace Ultra no están en oferta, pero sus versiones originales sí lo están. Los descuentos pueden variar, pero el autor espera que no cambien mucho durante el evento. Los descuentos pueden ser hasta un 34% de descuento. El autor recomienda revisar el contenido a lo largo del fin de semana y Cyber Monday.
 
 Por qué importa:
-El artículo se centra en la importancia de tener un contrato de trabajo claro para un sitio web de una pequeña empresa; El autor analiza cómo una versión vaga del contrato puede llevar a malentendidos y conflictos, mientras que una versión clara puede asegurar un trabajo de calidad y una comunicación efectiva. El artículo se dirige a desarrolladores y empresarios que buscan mejorar su proceso de trabajo y asegurar un éxito en sus proyectos de desarrollo web.</summary>
-    <published>2026-11-25T12:57:05+00:00</published>
+Los descuentos de Black Friday de Sonos son importantes para aquellos que buscan mejorar su experiencia de audio en casa.</summary>
+    <published>2026-11-27T13:42:44+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/dbslice/reconcile-a-big-sql-server-to-postgresql-migration-from-the-command-line-8gg</id>
-    <title>[Programación] Reconcile a big SQL Server to PostgreSQL migration from the command line</title>
-    <updated>2026-11-26T13:20:43.234850+00:00</updated>
+    <id>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</id>
+    <title>[Tecnología] El creador de widgets DIY de Android es una herramienta de código de viento que permite a los usuarios crear widgets personalizados con la ayuda de inteligencia artificial.</title>
+    <updated>2026-11-27T14:19:06.987586+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>The Verge</name>
     </author>
-    <link href="https://dev.to/dbslice/reconcile-a-big-sql-server-to-postgresql-migration-from-the-command-line-8gg"/>
-    <summary>Un equipo de prueba cargó una gran tabla de SQL Server a PostgreSQL y no confía en el resultado; Querían verificar si el proceso se detuvo temprano y si las filas se cargaron con los valores antiguos. Utilizaron un ejemplo de tabla de pedidos (50,000 filas, sin datos reales) y una herramienta de dbSlice. Crearon dos archivos de trabajo pequeños que no requerían contraseñas y solo contenían perfiles de conexión guardados. El primer archivo comparaba y solo leía, mientras que el segundo archivo insertaba filas faltantes y actualizaba las existentes. Nunca eliminaba filas; En Linux, utilizando Docker, ejecutaron los archivos a través de la API de trabajo con curl y jq. El token se insertó solo en el encabezado de autorización (dbs_xxxxxxxx_...); El proceso se detuvo en la fila 48,800 y 305 pedidos cambiaron en la fuente después de ser cargados. El upsert reescribió las filas coincidentes, lo que significa que nada cambió, pero el trabajo no fue cero; La segunda comparación mostró 0/0/0, lo que indica que el proceso se completó. Para una tabla muy grande, se agregó un filtro en la fuente del trabajo de fix para limitarla a la ventana que se utilizó durante la migración. El filtro solo filtra la fuente, por lo que una comparación con el mismo filtro muestra "faltan en la fuente" para filas fuera del ventana. En caso de error, el código de salida del CLI es no cero, lo que es necesario para cron y CI; El artículo completo incluye los archivos de trabajo, los pasos de Linux y la programación: dbslice.net.
+    <link href="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"/>
+    <summary>El creador de widgets DIY de Android es una herramienta que permite a los usuarios crear widgets personalizados con la ayuda de inteligencia artificial. El creador de este artículo intentó crear un widget que le informara el horario de llegada de su autobús, pero no logró el resultado esperado. Sin embargo, disfrutó creando otros widgets, como uno que muestra una cita de Jurassic Park cada hora. El creador de widgets DIY es una herramienta que puede ser útil para personalizar la pantalla de inicio, pero requiere una cierta limitación en la personalización. El artículo concluye que, aunque el creador de widgets DIY es una herramienta interesante, no es perfecta y requiere más desarrollo. El creador de este artículo también menciona que la herramienta puede ser útil para lograr objetivos de salud mental, como registrar caminatas diarias. El creador de widgets DIY es una herramienta que puede ser útil para aquellos que buscan agregar un toque personalizado a su pantalla de inicio.
 
 Por qué importa:
-Este artículo es relevante porque muestra una forma efectiva de verificar la integridad de una migración de bases de datos de SQL Server a PostgreSQL. La herramienta dbSlice se destaca como una solución útil para la migración y el seguimiento de la integridad de los datos.</summary>
-    <published>2026-11-25T12:58:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://dev.to/carunbox_in/a-free-csv-of-every-new-car-price-in-india-straight-from-the-carmakers-5lf</id>
-    <title>[Programación] un solo párrafo</title>
-    <updated>2026-11-26T13:20:43.234811+00:00</updated>
-    <author>
-      <name>DEV Community</name>
-    </author>
-    <link href="https://dev.to/carunbox_in/a-free-csv-of-every-new-car-price-in-india-straight-from-the-carmakers-5lf"/>
-    <summary>El sitio CarUnbox ha publicado un archivo CSV gratuito con los precios de los nuevos vehículos en India, proporcionado directamente por los fabricantes. El archivo contiene 1.856 variantes de 224 modelos de 24 marcas, con 1.701 de ellas incluyendo precios de ex-showroom. El archivo también incluye información adicional como especificaciones técnicas y enlaces a las páginas de los fabricantes. El sitio ofrece una herramienta en línea para calcular el precio de on-road de cualquier vehículo en cualquier ciudad. El archivo se puede descargar desde el sitio web de CarUnbox. El sitio también ofrece un archivo separado con información sobre impuestos, registro, seguro y TCS para cada estado en India. El archivo se puede utilizar para fines comerciales sin restricciones, siempre que se agradezca a la fuente. El sitio CarUnbox se encuentra en github.com/SouravAggarwal/india-new-car-prices.
-
-Por qué importa:
-El sitio CarUnbox ha publicado un archivo CSV gratuito con los precios de los nuevos vehículos en India, proporcionado directamente por los fabricantes. Esto puede ser útil para aquellos que buscan analizar precios de vehículos en India.</summary>
-    <published>2026-11-25T12:59:21+00:00</published>
+El creador de widgets DIY de Android es una herramienta que permite a los usuarios crear widgets personalizados con la ayuda de inteligencia artificial. Esta herramienta es parte de la suite de "Gemini Intelligence" de Android y se encuentra en beta; El creador de este artículo intentó crear un widget que le informara el horario de llegada de su autobús, pero no logró el resultado esperado; Sin embargo, disfrutó creando otros widgets, como uno que muestra una cita de Jurassic Park cada hora.</summary>
+    <published>2026-11-27T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/layoffatlas/warn-act-and-whistleblower-protections-what-happens-if-you-reported-wrongdoing-before-a-layoff-257o</id>
     <title>[Programación] ¿Qué sucede si reportaste irregularidades laborales antes de recibir una notificación de despido?</title>
-    <updated>2026-11-26T13:20:43.234755+00:00</updated>
+    <updated>2026-11-27T14:19:06.987546+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +363,7 @@ La protección del whistleblower es importante porque puede ayudar a prevenir la
   <entry>
     <id>https://dev.to/bruce_zhang_2026/muses-first-80-daysai-got-a-computerthen-hit-five-walls-48fn</id>
     <title>[Programación] Muse’s First 80 Days: AI Got a Computer, Then Hit Five Walls</title>
-    <updated>2026-11-26T13:20:43.234656+00:00</updated>
+    <updated>2026-11-27T14:19:06.987497+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +373,61 @@ La protección del whistleblower es importante porque puede ayudar a prevenir la
 Por qué importa:
 El modelo de inteligencia artificial Muse ha sido objeto de controversia desde su lanzamiento; Aunque se utiliza para realizar tareas cotidianas, también ha sido bloqueado en varias plataformas debido a problemas de seguridad. La empresa Meta ha invertido una gran cantidad de dinero en el modelo, lo que podría generar ingresos anuales de $23 mil millones; Sin embargo, la pregunta clave es quién controla las servicios que conecta y quién gasta el dinero, cuestión que las empresas no pueden resolver de manera única.</summary>
     <published>2026-11-26T12:55:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/aaronkuai/the-ai-product-pricing-page-what-to-show-and-what-to-hide-2054</id>
+    <title>[Programación] La página de precios de un producto de inteligencia artificial: qué mostrar y qué ocultar</title>
+    <updated>2026-11-27T14:19:06.987458+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/aaronkuai/the-ai-product-pricing-page-what-to-show-and-what-to-hide-2054"/>
+    <summary>La página de precios de un producto de inteligencia artificial debe permitir que el comprador evalúe el costo y la viabilidad del producto sin necesidad de hablar con nadie. La mayoría de las páginas de precios fallan en este objetivo al ocultar el precio, limitar la información o presentar opciones de manera que requiera una llamada de ventas para entenderlas. Esto puede perder al comprador que busca una solución autónoma. Para evitar este error, es importante mostrar el precio real, la duración y lo que se incluye en ese precio. También es importante diferenciar los niveles de precios de manera clara y transparente, y proporcionar información adicional que responda a las preguntas del comprador. Además, es fundamental que la página de precios sea fácil de navegar y sea accesible para diferentes tipos de dispositivos, como móviles y asistentes de inteligencia artificial.
+
+Por qué importa:
+La página de precios de un producto de inteligencia artificial es crucial para que el comprador pueda tomar una decisión informada; Si la página de precios es confusa o no transparente, el comprador puede sentirse frustrado y perder la confianza en la marca; Por otro lado, una página de precios bien diseñada puede aumentar la conversión y mejorar la experiencia del comprador. Es importante que la página de precios sea fácil de entender y que proporcione la información necesaria para que el comprador pueda evaluar el costo y la viabilidad del producto.</summary>
+    <published>2026-11-27T13:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/huanqs/predicting-stocks-against-100-ai-bots-without-risking-a-cent-a-hands-on-look-at-qpos-1ick</id>
+    <title>[Programación] QPOS es una plataforma que permite a los usuarios hacer predicciones de acciones sin arriesgar un centavo.</title>
+    <updated>2026-11-27T14:19:06.987417+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/huanqs/predicting-stocks-against-100-ai-bots-without-risking-a-cent-a-hands-on-look-at-qpos-1ick"/>
+    <summary>QPOS es una plataforma que permite a los usuarios hacer predicciones de acciones sin arriesgar un centavo. Los usuarios pueden hacer llamadas semanales a . La plataforma tiene varias características únicas, como la posibilidad de editar las predicciones hasta que se cierra el plazo, y la capacidad de ver cómo se posicionan diferentes estrategias de comportamiento. QPOS también ofrece una herramienta de análisis llamada AI-Genie, que proporciona un resumen de lo que está moviendo y por qué. Los usuarios pueden utilizar QPOS para practicar su habilidad para predecir el mercado, leer las diferencias entre la opinión de la multitud y la de los robots, y construir un registro público de sus logros. El sign-up es gratuito y solo lleva 30 segundos.
+
+Por qué importa:
+QPOS es importante porque permite a los usuarios hacer predicciones de acciones sin arriesgar dinero, lo que puede ser una herramienta valiosa para aquellos que buscan mejorar sus habilidades de inversión.</summary>
+    <published>2026-11-27T13:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/dahabi_homes_a424913ddfc5/building-an-interactive-dubai-real-estate-cash-to-close-calculator-with-nextjs-14-typescript-4c2k</id>
+    <title>[Programación] Calculadora de pago a cierre de bienes raíces interactiva en Dubai con Next.js 14 y TypeScript</title>
+    <updated>2026-11-27T14:19:06.987363+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/dahabi_homes_a424913ddfc5/building-an-interactive-dubai-real-estate-cash-to-close-calculator-with-nextjs-14-typescript-4c2k"/>
+    <summary>La plataforma de bienes raíces Dahabi Homes, destinada a inversores internacionales y residentes no residentes en Dubai, enfrentó un desafío en la UX y la ingeniería financiera al encontrar que los portales de agregación de bienes raíces ocultaban los costos legales reales para adquirir una propiedad. Para abordar este problema, se creó una calculadora interactiva de pago a cierre de bienes raíces con Next.js 14 y TypeScript. La calculadora muestra los costos legales y de transacción adicionales, que pueden sumar hasta el 6.56% del precio de compra. Los costos varían según el tipo de propiedad y se calculan según la ley del Departamento de Tierras de Dubai. La calculadora también considera las comisiones de corredores y las tasas de transacción. Para usuarios que remiten capital bajo el esquema de remitencia liberalizada de la Reserva Bancaria de la India, la calculadora muestra las tasas de transacción en diferentes monedas.
+
+Por qué importa:
+La calculadora es importante porque permite a los compradores de bienes raíces tener una visión clara de los costos legales y de transacción adicionales antes de hablar con un corredor. Esto puede ayudar a evitar sorpresas y asegurar que los compradores estén informados sobre los costos reales de adquirir una propiedad en Dubai.</summary>
+    <published>2026-11-27T13:58:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/stagingbench/count-automatic-alignment-outcomes-by-room-with-python-32n6</id>
+    <title>[Programación] Alineación automática de resultados por habitación con Python</title>
+    <updated>2026-11-27T14:19:06.987272+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/stagingbench/count-automatic-alignment-outcomes-by-room-with-python-32n6"/>
+    <summary>El artículo describe cómo utilizar Python para alinear resultados de alineación automática por habitación. Se utiliza el conjunto de datos StagingBench par. El autor utiliza un Counter para contar los resultados de alineación por habitación, considerando tres estados: True (aprobado), False (rechazado) y None (sin información). El artículo también explora cómo manejar los casos en los que la bandera de alineación es vacía o no está presente. El autor utiliza defaultdict para crear un contador cuando una habitación se presenta por primera vez. El artículo también menciona que el autor utiliza la función bool para convertir las cadenas a booleanos y manejar los casos en los que la bandera de alineación es vacía. El artículo concluye que el uso de Python permite alinear resultados de alineación automática por habitación de manera eficiente y precisa.
+
+Por qué importa:
+El artículo es relevante para aquellos que buscan mejorar la precisión de la alineación automática en entornos de trabajo. El uso de Python y el conjunto de datos StagingBench par permite alinear resultados de manera rápida y eficiente, lo que puede ser útil en aplicaciones de automatización y procesamiento de datos.</summary>
+    <published>2026-11-27T13:58:57+00:00</published>
   </entry>
 </feed>
