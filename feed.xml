@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://perfect-feed.kawashiro.dev</id>
   <title>Perfect Feed — Noticias en Español</title>
-  <updated>2026-11-27T14:19:06.987250+00:00</updated>
+  <updated>2026-11-28T13:23:22.179859+00:00</updated>
   <author>
     <name>Perfect Feed</name>
   </author>
@@ -13,7 +13,7 @@
   <entry>
     <id>https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html</id>
     <title>[Economía] Aumentos de tarifas en los Estados Unidos presionan a sus socios comerciales para firmar acuerdos</title>
-    <updated>2026-11-27T14:19:06.988443+00:00</updated>
+    <updated>2026-11-28T13:23:22.181012+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -25,23 +25,9 @@ La propuesta de tarifas de los Estados Unidos es una medida para controlar la ca
     <published>2026-11-26T12:46:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html</id>
-    <title>[Economía] Trump exige una investigación sobre un "error de registro" en las cifras de crecimiento del PIB</title>
-    <updated>2026-11-27T14:19:06.988409+00:00</updated>
-    <author>
-      <name>US Top News and Analysis</name>
-    </author>
-    <link href="https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"/>
-    <summary>El presidente Donald Trump ha solicitado una investigación sobre la revisión de las cifras de crecimiento del PIB del tercer trimestre, que mostró un crecimiento del 4.3% anualizado, una revision más alta que la inicial estimación de 3.4%. Trump calificó la revisión como un "error de registro" y afirmó que debería ser investigada. Sin embargo, la revisión no fue un récord histórico, sino que fue la mayor desde 2020. La revisión muestra que las políticas de Trump están "delivering results" que superan las expectativas. Los expertos consideran que la revisión confirma el crecimiento económico reciente y reafirma la necesidad de aumentos de tasa por parte de la Reserva Federal. La revisión de las cifras de crecimiento del PIB es común y se realiza varias veces en un período de cinco años.
-
-Por qué importa:
-La revisión de las cifras de crecimiento del PIB es un proceso normal que se realiza varias veces en un período de cinco años. La revisión del tercer trimestre mostró un crecimiento del 4.3% anualizado, una revision más alta que la inicial estimación de 3.4%; Esto confirma el crecimiento económico reciente y reafirma la necesidad de aumentos de tasa por parte de la Reserva Federal.</summary>
-    <published>2026-11-26T21:13:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html</id>
     <title>[Economía] Election in Spain could bring down socialist Prime Minister Pedro Sánchez</title>
-    <updated>2026-11-27T14:19:06.988375+00:00</updated>
+    <updated>2026-11-28T13:23:22.180978+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -55,7 +41,7 @@ La elección en España podría cambiar la política exterior del país. Un gobi
   <entry>
     <id>https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html</id>
     <title>[Economía] Precios de los nuevos vehículos alcanzan un récord alto</title>
-    <updated>2026-11-27T14:19:06.988338+00:00</updated>
+    <updated>2026-11-28T13:23:22.180940+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -69,7 +55,7 @@ El mercado de los nuevos vehículos está experimentando un aumento en los preci
   <entry>
     <id>https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html</id>
     <title>[Economía] La S&amp;P 500 entra en corrección</title>
-    <updated>2026-11-27T14:19:06.988301+00:00</updated>
+    <updated>2026-11-28T13:23:22.180899+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -83,7 +69,7 @@ La corrección del mercado es importante porque puede tener un impacto significa
   <entry>
     <id>https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html</id>
     <title>[Economía] Norse Atlantic solicita la quiebra en Europa después de fallar en obtener fondos</title>
-    <updated>2026-11-27T14:19:06.988266+00:00</updated>
+    <updated>2026-11-28T13:23:22.180864+00:00</updated>
     <author>
       <name>US Top News and Analysis</name>
     </author>
@@ -95,51 +81,23 @@ La quiebra de Norse Atlantic es un ejemplo de cómo los altos costos de combusti
     <published>2026-11-27T13:58:19+00:00</published>
   </entry>
   <entry>
-    <id>https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/</id>
-    <title>[Data Science] Guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube</title>
-    <updated>2026-11-27T14:19:06.988232+00:00</updated>
+    <id>https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html</id>
+    <title>[Economía] Trump exige una investigación sobre un "error de registro" después de que los datos de crecimiento del PIB se corrijeron a un ritmo récord</title>
+    <updated>2026-11-28T13:23:22.180828+00:00</updated>
     <author>
-      <name>MachineLearningMastery.com</name>
+      <name>US Top News and Analysis</name>
     </author>
-    <link href="https://machinelearningmastery.com/running-1-bit-llms-locally-a-practical-guide-to-bitnet-inference/"/>
-    <summary>Microsoft ha desarrollado una familia de modelos de 1-Bit llamados BitNet, que han demostrado ser útiles para aplicaciones locales. El modelo b1.58 2B4T es el más maduro y ha sido entrenado desde cero en 4 trillion tokens. En pruebas, ha demostrado velocidades de 2.37x a 6.17x en CPUs x86 y 1.37x a 5.07x en ARM. Aunque pierde en pruebas de conocimiento, gana en pruebas de matemáticas y seguimiento de instrucciones. En comparación con otros modelos, BitNet utiliza menos memoria y se decodifica más rápido. Microsoft no recomienda el modelo para aplicaciones comerciales sin más pruebas. Los investigadores de NVIDIA argumentan que los modelos pequeños son suficientemente potentes para muchas invocaciones de agentes.
+    <link href="https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"/>
+    <summary>El presidente Donald Trump afirmó que la revisión de los datos de crecimiento del PIB fue un "error de registro" y que debería ser investigado. Los datos de la Comercio mostraron que la economía estadounidense creció más fuerte en el tercer trimestre del año que se había estimado inicialmente, con un crecimiento anualizado del 4.3%. Esto se corrigió desde la estimación inicial de 3.4%; La revisión fue la más grande desde el segundo trimestre de 2020. El presidente Trump afirmó que la revisión podría haber influido en el resultado de las elecciones del 2026. Sin embargo, la diferencia entre la estimación inicial y la revisada no fue la más grande de la historia. La revisión fue de 0,9 puntos porcentuales, lo que es similar a otras revisiones. El presidente Trump afirmó que sus políticas están "delivering results" que superan las expectativas. Los expertos consideran que la revisión confirma el crecimiento económico reciente. La economía estadounidense sigue demostrando una gran resiliencia. Los traders anticipan una mayor probabilidad de que el Banco Federal de la Reserva aumente las tasas de interés en su próximo encuentro.
 
 Por qué importa:
-La guía práctica para la inferencia de modelos de BitNet 1-Bit en la nube es relevante porque muestra cómo los modelos de 1-Bit pueden ser útiles para aplicaciones locales, lo que puede ser beneficioso para la eficiencia y la velocidad en la nube.</summary>
-    <published>2026-11-26T11:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/</id>
-    <title>[Data Science] Mapear datos de terremotos de la USGS desde 2015 a 2025 en Python</title>
-    <updated>2026-11-27T14:19:06.988198+00:00</updated>
-    <author>
-      <name>Towards Data Science</name>
-    </author>
-    <link href="https://towardsdatascience.com/how-to-map-usgs-earthquake-data-from-2015-to-2025-in-python/"/>
-    <summary>El proyecto utiliza la data de terremotos de la USGS Earthquake Data para analizar la actividad sísmica en todo el mundo. Se seleccionan 20,000 eventos para el análisis de magnitud de terremotos. Los terremotos de alta magnitud ocurren en las mismas placas tectónicas que observamos anteriormente. Se identifican 15 regiones activas con un gran número de terremotos. Se identifican períodos de actividad de terremotos anormalmente alta entre 2015 y 2025. Se analiza la relación entre la magnitud, profundidad, significado y experiencias reportadas de terremotos. Se utiliza la función detect_regional_anomalies para identificar anomalías regionales. Se seleccionan 1,479 terremotos con magnitudes de 6 o más para visualizarlos en un mapa. El mapa muestra que las áreas con alta actividad sísmica se encuentran en la zona del fuego del Pacífico, particularmente cerca de Alaska, Japón, Indonesia y las costas occidentales de América del Norte y del Sur. Se divide el mundo en 10° × 10° celdas y se cuenta el número de registros de terremotos en cada región.
-
-Por qué importa:
-El proyecto utiliza Pandas, Cartopy, Matplotlib, Seaborn y Folium para analizar la actividad sísmica en todo el mundo. El objetivo es entender mejor la distribución de terremotos en diferentes regiones del mundo y cómo se relacionan con las placas tectónicas.</summary>
-    <published>2026-11-26T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/</id>
-    <title>[Data Science] Caching de prefijo y reutilización de instrucciones</title>
-    <updated>2026-11-27T14:19:06.988163+00:00</updated>
-    <author>
-      <name>MachineLearningMastery.com</name>
-    </author>
-    <link href="https://machinelearningmastery.com/prefix-caching-and-prompt-reuse/"/>
-    <summary>El sistema utiliza el caching de prefijo para reutilizar el estado de la caché de KV cuando un nuevo pedido comienza con el mismo prefijo bajo una configuración compatible del modelo. El prefijo de caché se utiliza para almacenar el estado de la caché de KV producido para un prefijo de token y reutilizarlo cuando un pedido posterior comienza con el mismo prefijo bajo una compatible configuración del modelo. El sistema utiliza un diccionario de prefijos completos para mapear prefijos de token completos a maneles de caché. El prefix caching reduce el trabajo repetido durante el prefill, pero no acelera la generación después del prefijo. El sistema utiliza un bloque de hash para realizar una búsqueda de prefijo más eficiente, donde el bloque de hash incluye el prefijo de bloque y los tokens del bloque actual. El sistema utiliza una rama de árbol para realizar una búsqueda de prefijo más eficiente, donde las solicitudes con un prefijo común siguen el mismo camino y divergen solo donde sus tokens difieren. El sistema utiliza un mecanismo de contado de referencia para evitar que un bloque sea sobrescrito mientras se utilizan solicitudes activas. El sistema utiliza un mecanismo de copia en escritura para compartir bloques de caché completos y asignar bloques privados cuando sus sufijos divergen. El prefix caching reutiliza el estado de KV para un prefijo de token exacto bajo una configuración compatible del modelo. El prefix caching no acelera la generación después del prompt.
-
-Por qué importa:
-El caching de prefijo es una técnica utilizada para mejorar el rendimiento de los sistemas que requieren la generación de contenido dinámicamente. En este caso, el sistema utiliza el caching de prefijo para reutilizar el estado de la caché de KV, lo que reduce el trabajo repetido durante el prefill y mejora la eficiencia de la búsqueda de prefijo.</summary>
-    <published>2026-11-26T17:06:54+00:00</published>
+La revisión de los datos de crecimiento del PIB es un proceso común que ocurre durante los cinco años en los que se revisan los datos económicos. La revisión de este trimestre fue una confirmación del crecimiento económico reciente.</summary>
+    <published>2026-11-27T15:52:00+00:00</published>
   </entry>
   <entry>
     <id>https://machinelearningmastery.com/building-a-multi-agent-verification-loop-in-python-with-small-open-models/</id>
     <title>[Data Science] Building a Multi-Agent Verification Loop in Python with Small Open Models</title>
-    <updated>2026-11-27T14:19:06.988128+00:00</updated>
+    <updated>2026-11-28T13:23:22.180794+00:00</updated>
     <author>
       <name>MachineLearningMastery.com</name>
     </author>
@@ -153,7 +111,7 @@ La arquitectura Proposer-Critic-Judge es una solución prometedora para sistemas
   <entry>
     <id>https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/</id>
     <title>[Data Science] Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover</title>
-    <updated>2026-11-27T14:19:06.988093+00:00</updated>
+    <updated>2026-11-28T13:23:22.180760+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -165,9 +123,23 @@ La pregunta clave es si el modelo es lo suficientemente fuerte como para codific
     <published>2026-11-27T12:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models</id>
+    <title>[Data Science] 10 repositorios de GitHub para dominar modelos de decisión de inteligencia artificial</title>
+    <updated>2026-11-28T13:23:22.180726+00:00</updated>
+    <author>
+      <name>KDnuggets</name>
+    </author>
+    <link href="https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models"/>
+    <summary>El artículo destaca 10 repositorios de GitHub que ofrecen herramientas y tecnologías para crear y entrenar modelos de decisión de inteligencia artificial. Entre ellos se encuentran Jev by TypeSafe AI, vLLM Semantic Router, DecisionFormer y StartLux-Decision. Estos proyectos ofrecen diferentes enfoques y arquitecturas para la creación de modelos de decisión, desde modelos abiertos hasta modelos especializados. Abid Ali Awan, un profesional certificado en ciencia de datos, ha experimentado con estos modelos y ha comparado sus resultados con los tradicionales LLMs. Su visión es construir un producto de inteligencia artificial utilizando una red neuronal gráfica para estudiantes que luchan con la enfermedad mental. Los proyectos Laya, Kev y JevAny también se mencionan como herramientas útiles para la creación de modelos de decisión. Estos repositorios de GitHub ofrecen una amplia gama de opciones para aquellos que buscan dominar los modelos de decisión de inteligencia artificial. Los proyectos JevTrainer y vLLM Semantic Router se destacan por su facilidad de uso y su capacidad para entrenar modelos de decisión de manera rápida y eficiente. En total, estos 10 repositorios de GitHub ofrecen una gran variedad de herramientas y tecnologías para la creación y entrenamiento de modelos de decisión de inteligencia artificial.
+
+Por qué importa:
+El artículo destaca la importancia de los modelos de decisión de inteligencia artificial en la creación de productos y soluciones innovadoras; Estos modelos pueden ayudar a tomar decisiones más precisas y eficientes en una variedad de campos, desde la salud hasta la finanza. La creación de modelos de decisión de inteligencia artificial requiere una comprensión profunda de la ciencia de datos y el aprendizaje automático, lo que la hace un desafío para muchos profesionales en el campo.</summary>
+    <published>2026-11-27T13:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/</id>
     <title>[Data Science] Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.</title>
-    <updated>2026-11-27T14:19:06.988061+00:00</updated>
+    <updated>2026-11-28T13:23:22.180692+00:00</updated>
     <author>
       <name>Towards Data Science</name>
     </author>
@@ -179,79 +151,37 @@ Este avance es importante porque puede tener un impacto significativo en la form
     <published>2026-11-27T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/</id>
-    <title>[Fórmula 1] Russell “amused” by Verstappen’s comments in Las Vegas: “I stand by what I said”</title>
-    <updated>2026-11-27T14:19:06.988024+00:00</updated>
+    <id>https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm</id>
+    <title>[Data Science] Blending Unsupervised Clustering Tasks con Scikit-LLM</title>
+    <updated>2026-11-28T13:23:22.180657+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>KDnuggets</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/"/>
-    <summary>George Russell se mostró "amused" con las comentarios de Max Verstappen después de su clásico en Las Vegas, donde Verstappen dijo que Russell está "so far below my level". Russell respondió que se sintió "amused" con los comentarios, pero que no cambia su opinión de que Verstappen intenta intimidar a sus rivales en la pista. Russell también dijo que no quiere un "war of words" con Verstappen y que se enfocará en su entrenamiento para el resto de la temporada. Russell admitió que cometió un error al intentar superar a su compañero de equipo Andrea Kimi Antonelli, pero aseguró que está dispuesto a tomar más riesgos para ganar las últimas carreras de la temporada. Verstappen ganó la carrera y Russell terminó en noveno lugar después de caer del pódium. Russell y Verstappen tienen una relación tensa después de su clásico en Las Vegas, pero ambos han expresado respeto mutuo por su habilidad para conducir.
+    <link href="https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm"/>
+    <summary>Un artículo propone una nueva forma de clustering de texto sin supervisión, utilizando Scikit-LLM y modelos de lenguaje grande. El enfoque se basa en una pipeline de dos etapas, que primero utiliza embeddings de texto locales para agrupar documentos y luego utiliza un modelo de lenguaje grande para identificar temas. El resultado es una forma eficiente y precisa de descubrir temas en documentos no etiquetados; El autor destaca la importancia de utilizar embeddings de texto locales para mejorar la precisión del modelo. El enfoque se basa en una combinación de técnicas de aprendizaje automático y modelos de lenguaje grande. El artículo muestra que la pipeline puede identificar temas con una alta precisión, incluso en documentos no etiquetados. El autor concluye que la forma de clustering propuesta es una forma eficiente y precisa de descubrir temas en documentos no etiquetados. El enfoque se basa en una combinación de técnicas de aprendizaje automático y modelos de lenguaje grande. El artículo muestra que la pipeline puede identificar temas con una alta precisión, incluso en documentos no etiquetados. El autor destaca la importancia de utilizar embeddings de texto locales para mejorar la precisión del modelo. El enfoque se basa en una pipeline de dos etapas, que primero utiliza embeddings de texto locales para agrupar documentos y luego utiliza un modelo de lenguaje grande para identificar temas.
 
 Por qué importa:
-La relación tensa entre Russell y Verstappen se intensificó después de su clásico en Las Vegas, donde Verstappen ganó la carrera y Russell terminó en noveno lugar; Verstappen dijo que Russell está "so far below my level" y que se sintió "honestamente fantastic" al ver a Russell retirarse de la carrera. Russell respondió que se sintió "amused" con los comentarios, pero que no cambia su opinión de que Verstappen intenta intimidar a sus rivales en la pista; A pesar de la tensión entre ellos, ambos han expresado respeto mutuo por su habilidad para conducir.</summary>
-    <published>2026-11-26T15:47:03+00:00</published>
+El artículo propone una nueva forma de clustering de texto sin supervisión, utilizando Scikit-LLM y modelos de lenguaje grande. El enfoque se basa en una pipeline de dos etapas, que primero utiliza embeddings de texto locales para agrupar documentos y luego utiliza un modelo de lenguaje grande para identificar temas; El autor destaca la importancia de utilizar embeddings de texto locales para mejorar la precisión del modelo.</summary>
+    <published>2026-11-27T15:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/</id>
-    <title>[Fórmula 1] Hadjar dice que el mal momento causó que su ala delantera "explotara" en Las Vegas | Formula 1</title>
-    <updated>2026-11-27T14:19:06.987989+00:00</updated>
+    <id>https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/</id>
+    <title>[Data Science] Evaluación de la capacidad de seguimiento de estado en modelos de lenguaje</title>
+    <updated>2026-11-28T13:23:22.180624+00:00</updated>
     <author>
-      <name>RaceFans</name>
+      <name>Towards Data Science</name>
     </author>
-    <link href="https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/"/>
-    <summary>Isack Hadjar explicó que el mal momento causó que su ala delantera "explotara" durante el Gran Premio de Las Vegas. El piloto de Red Bull estaba en segundo lugar cuando el Safety Car se desplegó y creyó que estaba cerca de ganar la carrera. Sin embargo, la ala delantera se derrumbó y el equipo de Red Bull está trabajando para reforzar el diseño. Hadjar cree que si hubiera cerrado el sistema de SM dos tenths de segundo antes, no habría sucedido. El piloto está emocionado de haber estado cerca de ganar y cree que su equipo está trabajando duro para mejorar. El Gran Premio de Las Vegas fue el último de la temporada para Hadjar, quien tiene dos carreras más por disputar. El equipo de Red Bull está investigando el incidente y cree que la ala delantera no estaba diseñada para soportar el impacto. Hadjar está enfocado en ganar la próxima carrera y cree que su equipo está cerca de lograrlo. El piloto está disfrutando de la oportunidad de competir con los mejores pilotos de F1.
+    <link href="https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/"/>
+    <summary>Los autores presentan un enfoque para evaluar la capacidad de seguimiento de estado en modelos de lenguaje, utilizando un conjunto de eventos simulados. El objetivo es determinar si el modelo puede inferir la build ID correcta en función de los eventos previos. Los autores presentan seis variantes de eventos, cada una con un enfoque diferente para determinar la build ID. La evaluación se realiza mediante la evaluación de la precisión del modelo en cada variante. Los resultados muestran que el modelo puede inferir la build ID correcta en algunas variantes, pero no en otras. La evaluación se realiza mediante la comparación de la respuesta del modelo con la respuesta correcta.
 
 Por qué importa:
-El incidente de la ala delantera de Hadjar en Las Vegas es importante porque muestra la complejidad y la precisión de los diseños de los coches de F1. El equipo de Red Bull está trabajando duro para mejorar el diseño y evitar que se repita en el futuro.</summary>
-    <published>2026-11-26T16:03:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/</id>
-    <title>[Fórmula 1] "Leclerc admite que Ferrari necesita encontrar otra solución a los conflictos entre pilotos"</title>
-    <updated>2026-11-27T14:19:06.987954+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/"/>
-    <summary>Charles Leclerc acepta que Ferrari necesita mejorar la forma en que sus pilotos interactúan en la pista después de su último choque con su compañero de equipo en Las Vegas. Leclerc no reveló detalles sobre las discusiones que tuvieron con su compañero de equipo y el principal de la escudería, Frederic Vasseur. Aunque admitió que el incidente en Las Vegas fue "inaceptable" para Ferrari, Leclerc dijo que la relación con su compañero de equipo, Lewis Hamilton, es fuerte y que necesitan encontrar otra solución. El piloto italiano también expresó su deseo de que los pilotos de Ferrari no tengan más conflictos en el futuro. Leclerc y Hamilton ya habían hablado sobre el tema y Leclerc dijo que la situación no ha mejorado después de las discusiones. El piloto italiano también expresó su deseo de que Ferrari no tenga más conflictos entre pilotos. Leclerc dijo que la situación es "tensa" y que necesitan encontrar una solución para evitar que los pilotos tengan más conflictos en el futuro. Leclerc también expresó su deseo de que Ferrari sea más efectiva en la pista y de que los pilotos no tengan más conflictos.
-
-Por qué importa:
-La situación de los conflictos entre pilotos en Ferrari es un tema que ha sido debatido en el mundo del automovilismo; Los pilotos de Ferrari, como Charles Leclerc y Lewis Hamilton, son algunos de los más talentosos y experimentados del mundo del automovilismo, pero a veces su rivalidad se traduce en conflictos en la pista. Esto puede tener un impacto negativo en el rendimiento de la escudería y en la carrera de los pilotos; Es importante que Ferrari encuentre una solución a este problema para evitar que los pilotos tengan más conflictos en el futuro y para mantener la competitividad de la escudería.</summary>
-    <published>2026-11-26T16:22:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/</id>
-    <title>[Fórmula 1] Leclerc niega tener un 'número uno' en su contrato con Ferrari</title>
-    <updated>2026-11-27T14:19:06.987918+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/"/>
-    <summary>Charles Leclerc ha negado tener un clause en su contrato que garantice su posición como piloto número uno en Ferrari. La afirmación fue hecha por Rebecca Clancy, quien pasó 10 años como corresponsal de F1 para The Times. Leclerc dijo que no tiene tal cláusula y que nunca la hubiera querido. El piloto ha sido criticado por una penalización por colisión con su compañero de equipo Lewis Hamilton en Jeddah. A pesar de las críticas, Leclerc se comprometió a llevar a Ferrari de vuelta al primer lugar. Leclerc ha estado en el equipo desde 2019 y ha extendido su contrato en junio. El piloto ha asegurado que su amor por el equipo es genuino y que hará todo lo posible para llevarlo de vuelta al éxito. Leclerc ha aceptado que los errores son parte del juego y que se enfocará en minimizarlos. La afirmación de Clancy ha sido recibida con escepticismo por Leclerc, quien la considera "mucha niebla".
-
-Por qué importa:
-La afirmación de Clancy sobre la presencia de un "número uno" en el contrato de Leclerc es relevante porque puede afectar la dinámica dentro del equipo. La posición de Leclerc como piloto número uno en Ferrari es importante para el equipo y su éxito en la temporada.</summary>
-    <published>2026-11-26T21:14:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/</id>
-    <title>[Fórmula 1] Rosberg gana el título mundial 10 años después</title>
-    <updated>2026-11-27T14:19:06.987884+00:00</updated>
-    <author>
-      <name>RaceFans</name>
-    </author>
-    <link href="https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/"/>
-    <summary>Nico Rosberg ganó el mundo championship 10 años después de hoy, en lo que resultó ser su última carrera. En el final de Abu Dhabi, Rosberg y su rival de la temporada, Lewis Hamilton, necesitaban que su compañero de equipo terminara fuera de los tres primeros para que ganaran. Rosberg intentó desde el principio mantener el liderazgo, pero Hamilton logró ganar la batalla, aunque Rosberg ganó la guerra. El hecho de que Max Verstappen, un piloto que estaba entre Hamilton y Rosberg, se volcó en la primera vuelta no ayudó a Hamilton. Las tácticas de Hamilton enfurecieron a su equipo y recibieron críticas de algunos. En febrero, el principal de la escudería Mercedes, Toto Wolff, admitió que había estado equivocado al tratar de "micromanagear" la lucha entre Hamilton y Rosberg en la última carrera. En el pasado, los lectores de RaceFans expresaron sus opiniones sobre las tácticas de Hamilton. Keith, un fanático de la F1 que creó el sitio web RaceFans en 2005, es el editor del sitio. Keith, un aficionado a la F1 de toda la vida, comenzó a correr el sitio web en 2010, después de haber trabajado como periodista de automóviles. En 2010, Keith logró su ambición de dedicar su atención completa a su pasión por el automóvil.
-
-Por qué importa:
-Es importante recordar que esta carrera fue el final de la carrera de Rosberg, y que sus tácticas fueron una forma de intentar ganar el título mundial.</summary>
-    <published>2026-11-27T00:01:00+00:00</published>
+El enfoque presentado por los autores se centra en evaluar la capacidad de seguimiento de estado en modelos de lenguaje, lo que es crucial para aplicaciones reales como la gestión de versiones y la actualización de contenido. La evaluación se realiza mediante la simulación de eventos y la comparación de la respuesta del modelo con la respuesta correcta, lo que permite evaluar la precisión del modelo en diferentes escenarios.</summary>
+    <published>2026-11-28T13:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/</id>
     <title>[Fórmula 1] Russell dice que ha aprendido a ser más consciente de cómo se interpretan sus citas</title>
-    <updated>2026-11-27T14:19:06.987847+00:00</updated>
+    <updated>2026-11-28T13:23:22.180589+00:00</updated>
     <author>
       <name>RaceFans</name>
     </author>
@@ -263,65 +193,79 @@ La declaración de Russell sobre la importancia de ser consciente de cómo se in
     <published>2026-11-27T07:15:07+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</id>
-    <title>[Tecnología] ¿Es Alice Huang una espía o no?</title>
-    <updated>2026-11-27T14:19:06.987811+00:00</updated>
+    <id>https://www.racefans.net/2026/11/27/not-worth-thinking-about-being-able-to-beat-mercedes-even-with-new-floor-norris/</id>
+    <title>[Fórmula 1] Lando Norris admite que McLaren no puede competir con Mercedes en el Gran Premio de Qatar</title>
+    <updated>2026-11-28T13:23:22.180554+00:00</updated>
     <author>
-      <name>TechCrunch</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"/>
-    <summary>La acusación de que Alice Huang, una ex ejecutiva de la empresa de centros de datos Megaspeed, es una espía china ha generado un gran revuelo. Aunque se ha reportado que Huang tenía contacto con un oficial de la agencia de espionaje china, no hay evidencia pública que la comisionara para perseguir al CEO de Nvidia, Jensen Huang. La administración de Trump ha jugado down las acusaciones, lo que ha llevado a especulaciones sobre la influencia política y la posible presión para recastear el caso. La situación sigue sin claridad, y no se ha identificado aún nueva inteligencia que resuelva la cuestión. La investigación sigue en curso, y Jensen Huang está programado para aparecer ante el Comité de Banca del Senado la próxima semana. La situación es compleja, y es probable que las audiencias congresionales no revelen secretos que no hayan sido ya revelados. La administración de Trump ha expresado su apoyo a Nvidia como ciudadan corporativa, y Trump ha dicho que no cree que Jensen Huang necesite una indulto. La investigación sigue sin claridad, y no se ha identificado aún nueva inteligencia que resuelva la cuestión.
+    <link href="https://www.racefans.net/2026/11/27/not-worth-thinking-about-being-able-to-beat-mercedes-even-with-new-floor-norris/"/>
+    <summary>Lando Norris, piloto de McLaren, ha admitido que su equipo no puede competir con Mercedes en el Gran Premio de Qatar. Norris sostiene que Mercedes son demasiado rápidos para McLaren y que su principal rival es Red Bull. Aunque McLaren ha mejorado su posición en la clasificación, Norris cree que todavía hay mucho que mejorar. El piloto ha expresado su confianza en la nueva pista de Qatar, pero reconoce que la ventaja de Mercedes es demasiado grande. Norris ha dicho que la nueva pista podría ayudar a McLaren a reducir la brecha con Mercedes, pero no cree que sea suficiente para cambiar el resultado. El piloto ha expresado su satisfacción con la posición de McLaren en la clasificación, pero ha reconocido que todavía hay mucho trabajo por hacer. Norris ha dicho que la lucha por el tercer lugar es intensa y que McLaren debe mejorar en varias áreas para tener una oportunidad de ganar. En resumen, Norris ha sido honesto sobre las limitaciones de McLaren y ha expresado su confianza en la capacidad del equipo para mejorar.
 
 Por qué importa:
-La acusación de que Alice Huang es una espía china ha generado un gran revuelo, especialmente después de que el CEO de Nvidia, Jensen Huang, fue reinstado como CEO después de una controversia; La administración de Trump ha jugado down las acusaciones, lo que ha llevado a especulaciones sobre la influencia política y la posible presión para recastear el caso. La situación es compleja, y es probable que las audiencias congresionales no revelen secretos que no hayan sido ya revelados; La administración de Trump ha expresado su apoyo a Nvidia como ciudadan corporativa, y Trump ha dicho que no cree que Jensen Huang necesite una indulto.</summary>
-    <published>2026-11-26T20:00:00+00:00</published>
+La posición de McLaren en la clasificación es un tema de interés para los aficionados al automovilismo; La lucha por el tercer lugar es intensa y puede tener un impacto significativo en la clasificación general. La nueva pista de Qatar es un desafío para los pilotos, ya que requiere una gran cantidad de habilidad y estrategia para navegar por sus curvas y superar a los demás; La ventaja de Mercedes es demasiado grande, pero Norris cree que la nueva pista puede ayudar a McLaren a reducir la brecha.</summary>
+    <published>2026-11-27T19:36:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/</id>
-    <title>[Tecnología] Google compartirá públicamente las direcciones de los desarrolladores de Android</title>
-    <updated>2026-11-27T14:19:06.987773+00:00</updated>
+    <id>https://www.f1technical.net/news/29649</id>
+    <title>[Fórmula 1] Antonelli heads Mercedes one-two again en la práctica libre 2 de la Gran Premio de Qatar</title>
+    <updated>2026-11-28T13:23:22.180516+00:00</updated>
     <author>
-      <name>Engadget - Technology News &amp; Expert Reviews</name>
+      <name>F1Technical.net . Motorsport news</name>
     </author>
-    <link href="https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/"/>
-    <summary>Google anunció que a partir del 1 de marzo de 2027, compartirá públicamente las direcciones de los desarrolladores de Android; Esto se debe a que, según la ley, los desarrolladores que ganen dinero regularmente deben declarar su dirección y número de teléfono. Los desarrolladores que no cumplen con esta norma podrían tener sus aplicaciones bloqueadas o eliminadas del Play Store; La decisión ha sido criticada por algunos desarrolladores que prefieren mantener su privacidad. Los desarrolladores que operan desde sus hogares pueden tener que rentar oficinas para evitar declarar su dirección real. Google no acepta direcciones de cajas postales, lo que obliga a los desarrolladores a encontrar formas de proteger su información de identificación. La empresa no mostrará las direcciones de los desarrolladores de teléfonos solo en Europa, pero en todo el mundo. Apple también no mostrará las direcciones de los desarrolladores de teléfonos, solo en Europa; Los desarrolladores que no cumplen con la norma podrían tener sus aplicaciones eliminadas del Play Store. La decisión de Google ha sido criticada por algunos desarrolladores que prefieren mantener su privacidad; Los desarrolladores que operan desde sus hogares pueden tener que rentar oficinas para evitar declarar su dirección real. Google no acepta direcciones de cajas postales, lo que obliga a los desarrolladores a encontrar formas de proteger su información de identificación. La empresa no mostrará las direcciones de los desarrolladores de teléfonos solo en Europa, pero en todo el mundo. Apple también no mostrará las direcciones de los desarrolladores de teléfonos, solo en Europa; Los desarrolladores que no cumplen con la norma podrían tener sus aplicaciones eliminadas del Play Store.
+    <link href="https://www.f1technical.net/news/29649"/>
+    <summary>Kimi Antonelli estableció el ritmo en la segunda práctica libre para la Gran Premio de Qatar, 0.127 segundos por delante de su compañero de equipo de Mercedes, George Russell. Lando Norris de McLaren fue tercero, 0.445 segundos por detrás del benchmark; La práctica fue interrumpida por dos banderas rojas y el control de carrera agregó 13 minutos a la sesión; Fernando Alonso participó por primera vez este fin de semana, después de haberse perdido el día de medios debido a una enfermedad. Nearly todos los conductores salieron de las pit-lanes con neumáticos medios, excepto Gabriel Bortoleto, que comenzó con neumáticos duros; Antonelli y Russell tuvieron accidentes en la última curva en sus primeras vueltas. Antonelli tomó la primera posición temprano con un tiempo de 1m23.077s en neumáticos medios, lo que lo colocó más de dos décimas por delante de Russell a unos cuartos de la distancia, y nadie lo superó; Charles Leclerc corrió a través de la grava después de chocar con Liam Lawson en la pista; Reportó que su Ferrari no se sentía bien y pasó tiempo en la garita mientras el equipo reparaba el suelo. Lewis Hamilton también tuvo una sesión difícil; Dijo que el coche era inestable y nervioso en la entrada de la curva; Los equipos cambiaron a neumáticos suaves para simulaciones de clasificación alrededor de la mitad de la sesión. Russell estaba mejorando su lap cuando la primera bandera roja salió para limpiar la grava en Turn 8; Antonelli también tuvo una carrera con neumáticos suaves, pero fue interrumpida por la segunda bandera roja. Pierre Gasly causó la segunda parada cuando su Alpine se deslizó en la grava en Turn 14 y se detuvo allí; Ninguno de los conductores de Mercedes completó una carrera con neumáticos suaves; Después de la reapertura, la mayoría de los conductores que lideraban hicieron largas vueltas con neumáticos medios. Verstappen y Hamilton tuvieron un momento estrecho en tráfico, lo que fue notado por los steward sin ninguna acción adicional; Lance Stroll se fue en Turn 2, y Carlos Sainz y Franco Colapinto tuvieron un casi-choque; En los últimos minutos, Hamilton informó de una pérdida de potencia y se detuvo en el lado de la pista, lo que trajo una bandera de seguridad virtual. Ferrari no dio una causa; Oscar Piastri fue cuarto, 0.027 segundos por detrás de Norris; Max Verstappen (1:23.576) y Isack Hadjar (1:23.583) fueron quintos y sextos para Red Bull; Solo 0.061s separaban el tercer lugar del sexto; Leclerc (1:24.099) y Hamilton (1:24.216) fueron séptimos y octavos en neumáticos medios solo; Lawson y Arvid Lindblad completaron el top ten para Racing Bulls. Bortoleto fue 11to, por delante de Gasly, Nico Hülkenberg, Alexander Albon, Colapinto y Sainz; Rafael Câmara fue 17to, el mejor de la pareja de Haas y por delante de Oliver Bearman; Alonso fue 19to, por delante de Stroll, Valtteri Bottas y Sergio Pérez.
 
 Por qué importa:
-La decisión de Google de compartir públicamente las direcciones de los desarrolladores de Android es importante porque afectará a los desarrolladores que operan desde sus hogares y que prefieren mantener su privacidad. La ley requiere que los desarrolladores que ganen dinero regularmente declaren su dirección y número de teléfono, lo que puede ser un problema para aquellos que prefieren mantener su información personal fuera del alcance público.</summary>
-    <published>2026-11-27T09:38:33+00:00</published>
+La práctica libre 2 de la Gran Premio de Qatar fue interrumpida por dos banderas rojas, lo que generó una gran cantidad de tiempo perdido. A pesar de esto, los conductores pudieron obtener una buena idea de cómo se comportarían sus coches en la carrera.</summary>
+    <published>2026-11-27T19:42:27+00:00</published>
   </entry>
   <entry>
-    <id>https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169</id>
-    <title>[Tecnología] Chips de Inteligencia de Nvidia utilizados en un centro de datos chino</title>
-    <updated>2026-11-27T14:19:06.987735+00:00</updated>
+    <id>https://www.racefans.net/2026/11/27/f1s-nascar-style-racing-at-las-vegas-wont-disappear-in-2027-say-teams/</id>
+    <title>[Fórmula 1] F1’s ‘NASCAR-style’ racing at Las Vegas won’t disappear en 2027, dicen los equipos</title>
+    <updated>2026-11-28T13:23:22.180480+00:00</updated>
     <author>
-      <name>Gizmodo</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169"/>
-    <summary>En un centro de datos en Shanghai, China, se han instalado chips de inteligencia artificial de Nvidia, específicamente los modelos GB300 y GB200, según un informe de Bloomberg. Los chips fueron instalados por la empresa Shanghai Shuoyao y Shanghai Kezhan, que también es proveedor de servicios de la empresa Megaspeed, una de las principales clientes de Nvidia en Asia del Sur. La instalación de estos chips ha generado preocupación en los Estados Unidos, ya que la empresa Nvidia es objeto de restricciones de exportación por parte del gobierno de ese país. En noviembre, Nvidia presentó documentos que revelaron la instalación de estos chips en el centro de datos. El centro de datos, conocido como el Proyecto Delta del Río Yangtze, ha sido desarrollado por Megaspeed y tiene vínculos con Alice Huang, una mujer sospechada de estar involucrada en el contrabando de chips de inteligencia. La administración de Donald Trump ha expresado su oposición a que China tenga acceso a los chips de inteligencia de Nvidia, y en las últimas semanas ha intentado reforzar las restricciones de exportación para dificultar que las empresas chinas accedan a los chips estadounidenses. Los funcionarios estadounidenses también presentaron un informe para agregar a Megaspeed a la lista de empresas que han sido sancionadas por el gobierno.
+    <link href="https://www.racefans.net/2026/11/27/f1s-nascar-style-racing-at-las-vegas-wont-disappear-in-2027-say-teams/"/>
+    <summary>El "fútbol de NASCAR" visto en Las Vegas seguirá siendo una característica en algunos circuitos, según los principales directivos de equipos. La combinación de factores como la limitación de la energía, el modo de overtake, el poder del empuje y las bajas temperaturas del track produjeron más de 350 cambios de posición durante la última carrera. Aunque se introducirán cambios en las reglas para el próximo año, los equipos creen que los circuitos como Las Vegas seguirán siendo propensos a frecuentes cambios de posición. Los principales directivos de equipos, como James Vowles de Williams y Laurent Mekies de Red Bull, creen que los cambios en las reglas no eliminarán la naturaleza de la carrera, pero sí la acercarán a la carrera "al pleno rendimiento". El McLaren Lando Norris también destacó que algunos overtakes no fueron verdaderos overtakes debido a las diferencias en la forma en que los conductores desplegaban la potencia. Los equipos creen que la carrera en Las Vegas fue "muy buena" y que los cambios en las reglas no afectarán la naturaleza de la carrera en los próximos años.
 
 Por qué importa:
-La instalación de chips de inteligencia de Nvidia en un centro de datos chino ha generado preocupación en los Estados Unidos debido a las restricciones de exportación que se han impuesto a la empresa. La administración de Donald Trump ha expresado su oposición a que China tenga acceso a estos chips, lo que ha llevado a una serie de medidas para reforzar las restricciones de exportación.</summary>
-    <published>2026-11-27T13:02:55+00:00</published>
+La carrera en Las Vegas fue notable por su "yo-yo racing", donde los conductores cambiaban de posición con frecuencia; Los equipos creen que este tipo de carrera seguirá siendo una característica en algunos circuitos, incluso después de que se introduzcan cambios en las reglas para el próximo año. Los principales directivos de equipos creen que la combinación de factores como la limitación de la energía, el modo de overtake y el poder del empuje produjo un resultado único en la carrera.</summary>
+    <published>2026-11-27T20:46:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale</id>
-    <title>[Tecnología] La Oura Ring 5 tiene su mayor descuento jamás para Black Friday</title>
-    <updated>2026-11-27T14:19:06.987658+00:00</updated>
+    <id>https://www.racefans.net/2026/11/27/vowles-explains-why-williams-exceeded-f1s-cost-cap-by-627000/</id>
+    <title>[Fórmula 1] Williams superó el límite de gasto de F1 por £627,000</title>
+    <updated>2026-11-28T13:23:22.180444+00:00</updated>
     <author>
-      <name>The Verge</name>
+      <name>RaceFans</name>
     </author>
-    <link href="https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale"/>
-    <summary>La Oura Ring 5, considerada la mejor smart ring que se puede comprar, ha caído a un precio récord de $299 ($100 de descuento) en Amazon, Best Buy, Walmart y la tienda en línea de Oura para Black Friday. Esta smart ring ofrece un diseño más delgado y ligero, y puede rastrear el sueño, la actividad, la frecuencia cardíaca y otros indicadores de salud sin necesidad de verificar constantemente una pantalla. El caso de carga, que soporta cargando sin cable, está disponible por separado por $99. La Oura Ring 5 también cuenta con nuevas características de software, como Health Radar, que busca cambios significativos en la salud. Sin embargo, para acceder a la mayoría de estas características, se requiere una suscripción mensual de $5.99. Si ya posees una Oura Ring 4, no se recomienda actualizar, pero para aquellos que son nuevos en smart rings, este descuento hace que la Oura Ring 5 sea más atractiva, especialmente considerando que es solo $50 más que el precio inicial del Ring 4.
+    <link href="https://www.racefans.net/2026/11/27/vowles-explains-why-williams-exceeded-f1s-cost-cap-by-627000/"/>
+    <summary>Williams, el segundo equipo de F1 en superar el límite de gasto, incurre en una deuda de £627,000 debido a la reestructuración de su empresa. El equipo justificó que los costos de reestructuración no debían ser contados como gastos dentro del límite de gasto. Sin embargo, la FIA considera que estos costos están dentro del límite; El equipo aceptó la sanción y ha estado trabajando para ajustar su estructura. El director de Williams, Vowles, ha criticado el límite de gasto, argumentando que dificulta que los equipos medianos inviertan en mejorar sus sistemas. El equipo ha estado en discusiones con la FIA sobre la sanción durante un mes. Vowles ha expresado su aprecio por la FIA por su trabajo en la regulación. La sanción fue ajustada para reflejar que no hubo beneficios financieros ni deportivos para Williams. El equipo ha estado trabajando para ajustar su estructura y evitar problemas similares en el futuro. La FIA ha notado que Williams no ha obtenido beneficios financieros ni deportivos de la reestructuración. El equipo ha aceptado la sanción y ha expresado su compromiso con la regulación.
 
 Por qué importa:
-La Oura Ring 5 es considerada la mejor smart ring que se puede comprar, y su descuento es una oportunidad para aquellos que están interesados en esta tecnología pero han estado disuadidos por su precio alto.</summary>
-    <published>2026-11-27T13:30:00+00:00</published>
+La sanción de Williams por superar el límite de gasto de F1 es importante porque refleja la complejidad de la regulación y la necesidad de adaptación de los equipos. La reestructuración de Williams fue un proceso que no se realizó con frecuencia, lo que llevó a la incursión en la deuda; La sanción también destaca la dificultad de la FIA para equilibrar la regulación con la necesidad de permitir que los equipos inviertan en mejorar sus sistemas.</summary>
+    <published>2026-11-27T21:02:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.racefans.net/2026/11/28/featured-comment-ferrari-drivers-must-know-more-incidents-will-lead-to-repercussion/</id>
+    <title>[Fórmula 1] Ferrari drivers deben saber que más incidentes llevarán a consecuencias</title>
+    <updated>2026-11-28T13:23:22.180410+00:00</updated>
+    <author>
+      <name>RaceFans</name>
+    </author>
+    <link href="https://www.racefans.net/2026/11/28/featured-comment-ferrari-drivers-must-know-more-incidents-will-lead-to-repercussion/"/>
+    <summary>El lector Brightlampshade critica a Ferrari por no ser firme con sus conductores, sugiriendo que deben recibir instrucciones claras y sanciones. Brightlampshade argumenta que Ferrari debe ser más estricta con sus conductores, darles instrucciones claras y aplicar sanciones si no siguen las instrucciones. También destaca que los incidentes entre los conductores de Ferrari, como el incidente entre Charles Leclerc y Lewis Hamilton, pueden tener consecuencias negativas para el equipo. El lector sugiere que Ferrari debe encontrar una solución para evitar estos incidentes en el futuro. Brightlampshade también menciona que si no hay consecuencias, los incidentes seguirán ocurriendo. El lector destaca que, aunque es normal que los conductores se encuentren en incidentes en la carrera, si estos afectan a su compañero de equipo más que a otros conductores, es un problema. Brightlampshade finalmente destaca que Ferrari debe ser más firme con sus conductores para evitar problemas en el futuro.
+
+Por qué importa:
+Brightlampshade es un lector que critica a Ferrari por no ser firme con sus conductores. Brightlampshade argumenta que Ferrari debe ser más estricta con sus conductores, darles instrucciones claras y aplicar sanciones si no siguen las instrucciones.</summary>
+    <published>2026-11-28T12:05:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/</id>
     <title>[Tecnología] Los mejores descuentos de Black Friday de Sonos (2026): hasta un 34% de descuento</title>
-    <updated>2026-11-27T14:19:06.987623+00:00</updated>
+    <updated>2026-11-28T13:23:22.180374+00:00</updated>
     <author>
       <name>Gear Latest</name>
     </author>
@@ -335,7 +279,7 @@ Los descuentos de Black Friday de Sonos son importantes para aquellos que buscan
   <entry>
     <id>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</id>
     <title>[Tecnología] El creador de widgets DIY de Android es una herramienta de código de viento que permite a los usuarios crear widgets personalizados con la ayuda de inteligencia artificial.</title>
-    <updated>2026-11-27T14:19:06.987586+00:00</updated>
+    <updated>2026-11-28T13:23:22.180338+00:00</updated>
     <author>
       <name>The Verge</name>
     </author>
@@ -347,37 +291,65 @@ El creador de widgets DIY de Android es una herramienta que permite a los usuari
     <published>2026-11-27T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/layoffatlas/warn-act-and-whistleblower-protections-what-happens-if-you-reported-wrongdoing-before-a-layoff-257o</id>
-    <title>[Programación] ¿Qué sucede si reportaste irregularidades laborales antes de recibir una notificación de despido?</title>
-    <updated>2026-11-27T14:19:06.987546+00:00</updated>
+    <id>https://gizmodo.com/texas-lifts-short-lived-data-center-moratorium-despite-clear-public-opposition-to-such-projects-2000846251</id>
+    <title>[Tecnología] Texas vuelve a aprobar proyectos de centros de datos a pesar de la oposición pública</title>
+    <updated>2026-11-28T13:23:22.180300+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Gizmodo</name>
     </author>
-    <link href="https://dev.to/layoffatlas/warn-act-and-whistleblower-protections-what-happens-if-you-reported-wrongdoing-before-a-layoff-257o"/>
-    <summary>El WARN Act requiere que los empleadores con 100 o más empleados a tiempo completo den 60 días de notificación escrita antes de una clausura de planta o una masiva despachante. Sin embargo, esta ley no establece quién debe ser elegido; La protección del whistleblower, como la Sección 806 de la Ley Sarbanes-Oxley, protege a los empleados que reportan conductos que creen que son fraude o violaciones de la ley. Los empleados pueden presentar una queja ante una agencia federal, un miembro del Congreso o un investigador interno. La Ley de Protección del Whistleblower del Departamento de Trabajo cubre más de 20 estatutos federales, incluyendo la ley de seguridad, ambiental y transporte. En California, la ley de protección del whistleblower prohíbe la represalia por informar una violación de la ley bajo el Código Laboral sección 1102.5; El SOX requiere que los empleados presenten una queja dentro de 180 días de la represalia, o de cuando aprendieron de ella. El plazo generalmente comienza cuando se aprendió de la decisión, no del día en que se notificó el despido; Los empleados pueden presentar una queja si fueron demolidos, recibieron una reducción de salario o fueron despedidos. La ley está diseñada para favorecer a los empleados, y los empleadores solo pueden evitar la responsabilidad si pueden demostrar que habrían actuado de la misma manera sin la actividad del empleado. En 2024, la Corte Suprema decidió en Murray v; UBS Securities que los empleados no necesitan demostrar la intención de represalia. La Ley Dodd-Frank ofrece protección contra la represalia con un plazo más largo, generalmente de seis años desde la violación, o tres años después de que se conocieran los hechos materiales, con un límite de diez años. La Comisión de Bolsas y Valores también ofrece un programa de premios para whistleblowers si la información lleva a una acción de enlace exitosa.
+    <link href="https://gizmodo.com/texas-lifts-short-lived-data-center-moratorium-despite-clear-public-opposition-to-such-projects-2000846251"/>
+    <summary>El gobierno de Texas, liderado por Greg Abbott, ha retirado la moratoria sobre los proyectos de centros de datos a pesar de la oposición pública. La decisión fue tomada en septiembre, justo antes de las elecciones del medio mandato, y fue anunciada por Abbott como una medida para proteger la seguridad y calidad de vida de los texanos. Sin embargo, la decisión no ayudó a Abbott en las elecciones, ya que fue derrotado por la candidata demócrata Gina Hinojosa, quien prometió implementar una moratoria inmediata sobre los centros de datos. La Comisión de Calidad Ambiental de Texas (TECQ) ha vuelto a emitir permisos para la construcción de proyectos de centros de datos, lo que significa que hay un plazo de dos meses para que los desarrolladores obtengan aprobaciones antes de que Hinojosa implemente su propia moratoria. Desde entonces, la TECQ ha aprobado varios proyectos, incluyendo el de SpaceX en el valle del Río Grande, que incluye una planta de energía de gas que producirá 750 MW de energía. La moratoria anterior no fue muy estricta, ya que un sistema automatizado para la emisión de permisos continuó funcionando durante un mes después de la anunciación. La decisión de Abbott ha sido criticada por ser una muestra de "cynismo corporativo" y ha sido descrita como una "scam" por Hinojosa.
 
 Por qué importa:
-La protección del whistleblower es importante porque puede ayudar a prevenir la represalia contra los empleados que reportan irregularidades laborales; Los empleados que reportan conductos que creen que son fraude o violaciones de la ley pueden ser protegidos por la ley. Es importante que los empleados mantengan un registro de su reporte y cualquier respuesta que reciban, y que busquen asesoramiento legal si creen que han sido represaliados.</summary>
-    <published>2026-11-26T12:55:26+00:00</published>
+La decisión de Abbott de retirar la moratoria sobre los proyectos de centros de datos es particularmente preocupante dada la oposición pública a estos proyectos; La mayoría de los texanos se oponen a la construcción de centros de datos debido a sus impactos ambientales y sociales; La victoria de Hinojosa en las elecciones demuestra que la gente está descontenta con la política de Abbott en este aspecto. La decisión de Abbott también es preocupante en términos de su impacto en el medio ambiente, ya que la mayoría de los proyectos de centros de datos se basan en la energía fósil y contribuyen a la contaminación del aire y el agua.</summary>
+    <published>2026-11-27T18:25:51+00:00</published>
   </entry>
   <entry>
-    <id>https://dev.to/bruce_zhang_2026/muses-first-80-daysai-got-a-computerthen-hit-five-walls-48fn</id>
-    <title>[Programación] Muse’s First 80 Days: AI Got a Computer, Then Hit Five Walls</title>
-    <updated>2026-11-27T14:19:06.987497+00:00</updated>
+    <id>https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/</id>
+    <title>[Tecnología] 5 formas de asegurarte de que tu consola no esté retrasando el rendimiento de GTA 6</title>
+    <updated>2026-11-28T13:23:22.180264+00:00</updated>
     <author>
-      <name>DEV Community</name>
+      <name>Engadget - Technology News &amp; Expert Reviews</name>
     </author>
-    <link href="https://dev.to/bruce_zhang_2026/muses-first-80-daysai-got-a-computerthen-hit-five-walls-48fn"/>
-    <summary>Meta lanzó Muse Wonder y Muse Wonder Full el 12 de octubre; Muse se utiliza para tareas cotidianas como la compra de productos y la planificación de eventos; Más de un cuarto de los usuarios activos de Muse realizan compras con la herramienta; El modelo de Muse puede realizar tareas que no requieren inteligencia artificial avanzada, como seguir instrucciones y realizar acciones repetitivas. Muse utiliza dos dominios de seguridad aislados para proteger la información del usuario; El modelo Muse puede generar balances bancarios y Bitcoin, pero según Meta, estos no corresponden a datos reales de los usuarios. El modelo Muse ha sido bloqueado en Amazon y eBay, y cinco bancos británicos han bloqueado el acceso a sus agentes; La empresa Meta ha invertido $27 mil millones en el modelo Muse, lo que podría generar $23 mil millones en ingresos anuales. El modelo Muse utiliza tokens para funcionar, y su uso puede ser costoso, especialmente si se utiliza para realizar tareas largas; En China, las comunidades de tecnología han encontrado formas de evitar las restricciones de registro y utilizar el modelo Muse sin problemas. El modelo Muse ha sido objeto de varios problemas de seguridad, incluyendo la posibilidad de que los usuarios no puedan distinguir entre datos reales y datos generados por el modelo; El modelo Muse ha sido utilizado por usuarios en diferentes plataformas, incluyendo X, Threads y Instagram, sin problemas significativos. Muse, Meta, y OpenAI han lanzado sistemas de asistentes personales con cloud computadora en septiembre 2026; Anthropic y Ant Group han unificado sus esfuerzos en un sistema de asistente personal con cloud computadora en octubre 2026. Muse tiene una ventaja en la cantidad de personas que utiliza sus productos, WhatsApp y la gráfica de interés de Facebook e Instagram; Alipay ha procesado 300 millones de pagos de agentes, lo que muestra la importancia de la red de pago y el servicio en China. La pregunta clave es quién controla las servicios que conecta y quién gasta el dinero, cuestión que las empresas no pueden resolver de manera única; La respuesta a si el chat box es la forma final no está clara, ya que cada sistema tiene sus propias soluciones. Un equipo de investigación de Mila, McGill y ServiceNow encontró que los agentes web que utilizan la historia tienen un éxito del 15.62%, mientras que los que reciben las preferencias necesarias para el tarea actual tienen un éxito del 82.92%. La clave para el éxito de un asistente personal no es la memoria, sino la aplicación de la memoria, lo que requiere un modelo de juicio; La relación entre Muse y el usuario es una relación de empleo; El usuario no le da al nuevo empleado el control total de la empresa; El usuario no le disuelve la relación con el empleado por un error; La probación de un agente dura solo 30 días; La relación entre Muse y el usuario es de confianza y responsabilidad.
+    <link href="https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/"/>
+    <summary>El juego GTA 6 ya está empujando a todos los PS5 y Xbox a su límite. Un truco permite a los dueños de Xbox romper la capa de 30 fps del juego. El PS5 Pro mantiene 30 fps para la mayoría del juego, pero solo cayendo a 24 fps cuando se destruyen muchos vehículos al mismo tiempo. El juego requiere hasta 212GB de espacio libre en ambos consoles, lo que es cerca de un tercio del espacio disponible en la PS5 de 667GB. El juego está constantemente cargando datos mientras se mueve en el mundo de Leonida. La prueba de Digital Foundry encontró caídas de marje en situaciones que ponen una gran carga en el procesador de AI o streaming del console. El PS5 es compatible con una amplia variedad de discos PCIe Gen4, pero Sony recomienda una velocidad de lectura secuencial de 5.500 MB/s o más. El juego tiene un tamaño de instalación de 212GB. El Series S se desvía entre 25 y 30 fps para la mayoría del juego.
 
 Por qué importa:
-El modelo de inteligencia artificial Muse ha sido objeto de controversia desde su lanzamiento; Aunque se utiliza para realizar tareas cotidianas, también ha sido bloqueado en varias plataformas debido a problemas de seguridad. La empresa Meta ha invertido una gran cantidad de dinero en el modelo, lo que podría generar ingresos anuales de $23 mil millones; Sin embargo, la pregunta clave es quién controla las servicios que conecta y quién gasta el dinero, cuestión que las empresas no pueden resolver de manera única.</summary>
-    <published>2026-11-26T12:55:52+00:00</published>
+Es importante entender que el rendimiento del juego puede variar dependiendo de la condición del console y del espacio disponible. El uso de un disco M.2 puede causar estremos y es recomendable mover el juego a la almacenamiento interno.</summary>
+    <published>2026-11-27T22:46:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</id>
+    <title>[Tecnología] Los mejores descuentos de Black Friday que aún están disponibles</title>
+    <updated>2026-11-28T13:23:22.180227+00:00</updated>
+    <author>
+      <name>The Verge</name>
+    </author>
+    <link href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"/>
+    <summary>Black Friday ha terminado, pero muchos de los mejores descuentos del año siguen disponibles en línea y en tiendas. El precio del MacBook Air de Apple ha caído a su nivel más bajo desde julio, mientras que los AirPods Pro 3 de Apple también ofrecen un descuento. La bundle de Disney Plus y Hulu está disponible con un descuento, así como el Anker Universal Charger de 100W. También se pueden encontrar reeditores de papel electrónico asequibles, como el Xteink X4 Classic, y bundles de Nintendo Switch 2 y Mario Kart World. Además, se ofrecen descuentos en suscripciones mensuales de HBO Max y en productos como la Sony WH-1000XM4C, la Govee Table Lamp 2 y la Kindle Paperwhite (2024). Los Power Banks como el Iniu P55-E2 y el Sharge Icemag 3 también ofrecen descuentos. Por otro lado, se pueden encontrar productos como el Birdfy Feeder Metal 2 4K, el Moft Trackable Tripod Wallet y el Saros, una edición estándar de la consola de juegos PlayStation 5. También se ofrecen descuentos en productos como el Amazon Alexa Photo Frame, el Aqara Smart Lock U400 y el Birdbuddy Pro (solar). Además, se pueden encontrar juegos como Catan (6th Edition) y Control Resonant, y altavoz inteligentes como el Echo Dot Max y el Govee Uplighter Floor Lamp. Finalmente, se ofrecen descuentos en productos como el Glocusent Bookmark Style Reading Light, el Vantage y el JBL Go 4.
+
+Por qué importa:
+Los descuentos de Black Friday siguen siendo una excelente oportunidad para encontrar productos a precios asequibles; Muchas tiendas y sitios web ofrecen descuentos en una variedad de productos, desde tecnología y electrónica hasta juguetes y productos para el hogar. Estos descuentos pueden ser una excelente oportunidad para encontrar productos que se han estado buscando durante mucho tiempo a un precio razonable.</summary>
+    <published>2026-11-28T03:28:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/</id>
+    <title>[Tecnología] Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys</title>
+    <updated>2026-11-28T13:23:22.180189+00:00</updated>
+    <author>
+      <name>Gear Latest</name>
+    </author>
+    <link href="https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/"/>
+    <summary>El mejor Black Friday de juguetes está en curso, con ofertas hasta un 50% de descuento en juguetes de Lego, tablas de ajedrez y juguetes. El sitio web de WIRED ha seleccionado una variedad de juguetes y juegos que han sido probados y aprobados. Estos incluyen juguetes STEM, juguetes para niños y regalos para los amantes de Lego; Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades. Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades.
+
+Por qué importa:
+Los mejores juguetes de Black Friday están disponibles en una variedad de precios y son ideales para niños de diferentes edades; Los juguetes STEM, juguetes para niños y regalos para los amantes de Lego están entre los más populares. Los juguetes están diseñados para ser divertidos y educativos, y son ideales para niños que buscan aprender y jugar al mismo tiempo; Los juguetes están disponibles en una variedad de precios y son ideales para niños de diferentes edades.</summary>
+    <published>2026-11-28T12:49:46+00:00</published>
   </entry>
   <entry>
     <id>https://dev.to/aaronkuai/the-ai-product-pricing-page-what-to-show-and-what-to-hide-2054</id>
     <title>[Programación] La página de precios de un producto de inteligencia artificial: qué mostrar y qué ocultar</title>
-    <updated>2026-11-27T14:19:06.987458+00:00</updated>
+    <updated>2026-11-28T13:23:22.180152+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -391,7 +363,7 @@ La página de precios de un producto de inteligencia artificial es crucial para 
   <entry>
     <id>https://dev.to/huanqs/predicting-stocks-against-100-ai-bots-without-risking-a-cent-a-hands-on-look-at-qpos-1ick</id>
     <title>[Programación] QPOS es una plataforma que permite a los usuarios hacer predicciones de acciones sin arriesgar un centavo.</title>
-    <updated>2026-11-27T14:19:06.987417+00:00</updated>
+    <updated>2026-11-28T13:23:22.180113+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -405,7 +377,7 @@ QPOS es importante porque permite a los usuarios hacer predicciones de acciones 
   <entry>
     <id>https://dev.to/dahabi_homes_a424913ddfc5/building-an-interactive-dubai-real-estate-cash-to-close-calculator-with-nextjs-14-typescript-4c2k</id>
     <title>[Programación] Calculadora de pago a cierre de bienes raíces interactiva en Dubai con Next.js 14 y TypeScript</title>
-    <updated>2026-11-27T14:19:06.987363+00:00</updated>
+    <updated>2026-11-28T13:23:22.180073+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -419,7 +391,7 @@ La calculadora es importante porque permite a los compradores de bienes raíces 
   <entry>
     <id>https://dev.to/stagingbench/count-automatic-alignment-outcomes-by-room-with-python-32n6</id>
     <title>[Programación] Alineación automática de resultados por habitación con Python</title>
-    <updated>2026-11-27T14:19:06.987272+00:00</updated>
+    <updated>2026-11-28T13:23:22.180032+00:00</updated>
     <author>
       <name>DEV Community</name>
     </author>
@@ -429,5 +401,33 @@ La calculadora es importante porque permite a los compradores de bienes raíces 
 Por qué importa:
 El artículo es relevante para aquellos que buscan mejorar la precisión de la alineación automática en entornos de trabajo. El uso de Python y el conjunto de datos StagingBench par permite alinear resultados de manera rápida y eficiente, lo que puede ser útil en aplicaciones de automatización y procesamiento de datos.</summary>
     <published>2026-11-27T13:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://css-tricks.com/using-light-dark-without-getting-caught-out/</id>
+    <title>[Programación] Usando light-dark() sin caer en la trampa</title>
+    <updated>2026-11-28T13:23:22.179976+00:00</updated>
+    <author>
+      <name>CSS-Tricks</name>
+    </author>
+    <link href="https://css-tricks.com/using-light-dark-without-getting-caught-out/"/>
+    <summary>Martin Underhill explica cómo evitar caer en la trampa de usar light-dark() sin fallbacks. Los navegadores que no soportan light-dark() suelen utilizar colores de texto en blanco y negro en modo de luz y texto en gris oscuro en modo oscuro. Sin embargo, estos colores no son exactos y pueden no ser lo que se desea. Martin sugiere utilizar una abstracción para simplificar el uso de light-dark(). También menciona que algunos navegadores pueden tener problemas con la implementación de light-dark() y que es importante considerar los fallbacks. En general, Martin recomienda utilizar light-dark() en lugar de media queries para cambiar el tema de color, ya que es más eficiente y fácil de usar. Sin embargo, también menciona que la eficiencia de light-dark() puede variar dependiendo del navegador y la versión del CSS. En resumen, Martin sugiere utilizar light-dark() como una opción más eficiente y fácil de usar que media queries para cambiar el tema de color.
+
+Por qué importa:
+La noticia es relevante porque muchos sitios web están buscando formas de cambiar el tema de color de manera eficiente y fácil de usar; La implementación de light-dark() puede ser una buena opción para este propósito, ya que es más eficiente que media queries y puede ser más fácil de usar. Sin embargo, también es importante considerar los problemas potenciales con la implementación de light-dark() en diferentes navegadores y versiones del CSS.</summary>
+    <published>2026-11-27T16:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dev.to/makerio/half-of-open-jobs-are-more-than-a-month-old-how-to-see-a-jobs-real-posting-date-52ca</id>
+    <title>[Programación] La mitad de los puestos abiertos están más de un mes sin haber sido rellenados.</title>
+    <updated>2026-11-28T13:23:22.179880+00:00</updated>
+    <author>
+      <name>DEV Community</name>
+    </author>
+    <link href="https://dev.to/makerio/half-of-open-jobs-are-more-than-a-month-old-how-to-see-a-jobs-real-posting-date-52ca"/>
+    <summary>La empresa analiza 1,121,953 puestos abiertos en 25,000 empresas y encuentra que la mitad de ellos están más de un mes sin haber sido rellenados. Algunos puestos, como los de hospitales, tiendas y empresas de logística, siguen siendo abiertos todo el año para recoger solicitudes de personal. Sin embargo, los puestos de oficina que han estado abiertos más de 90 días suelen estar llenos, pausados o convertidos en anuncios de flujo de trabajo que nadie lee. Para encontrar la fecha de publicación real de un puesto, es necesario buscar en la página de la empresa o utilizar herramientas como el sitio web "Real Job Date for Chrome" que muestra la fecha de publicación y la edad de cada puesto. La empresa también ofrece números en tiempo real sobre la edad de los puestos y las empresas que están publicando más puestos nuevos. Algunas empresas, como Workday, Greenhouse y Lever, no muestran fechas de publicación en sus páginas, pero se pueden encontrar en la página de datos estructurados de la empresa o mediante la búsqueda de la palabra "datePosted" en la página de la empresa. Los puestos que han estado abiertos menos de dos semanas son los más recomendados para aplicar, mientras que los que han estado abiertos más de 90 días requieren una mayor atención y verificación de la fecha de publicación. Los puestos que han estado abiertos más de tres meses y un año son comunes, pero no necesariamente significan que el puesto esté vacante.
+
+Por qué importa:
+Es importante tener en cuenta que la fecha de publicación de un puesto puede variar dependiendo de la empresa y la plataforma en la que se publique; Algunas empresas, como Workday, Greenhouse y Lever, no muestran fechas de publicación en sus páginas, lo que puede hacer que sea más difícil para los candidatos determinar la edad de un puesto. Sin embargo, mediante la búsqueda de la palabra "datePosted" en la página de la empresa o la búsqueda de la palabra "JobPosting" en la página de datos estructurados de la empresa, se pueden encontrar la fecha de publicación real de un puesto.</summary>
+    <published>2026-11-28T13:00:00+00:00</published>
   </entry>
 </feed>
